@@ -3,8 +3,6 @@ layout: default
 ---
 
 ## Updated on 2023.03.27
-
-
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |

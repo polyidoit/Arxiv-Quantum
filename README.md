@@ -2,9 +2,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#Topological-order>Topological order</a></li>
-    <li><a href=#TQFT>TQFT</a></li>
-    <li><a href=#Topological-Quantum-Computation>Topological Quantum Computation</a></li>
     <li><a href=#Bell-nonlocality>Bell nonlocality</a></li>
     <li><a href=#Quantum-causal-model>Quantum causal model</a></li>
     <li><a href=#Quantum-contextuality>Quantum contextuality</a></li>

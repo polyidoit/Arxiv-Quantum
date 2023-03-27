@@ -29,8 +29,8 @@ keywords:
         "network nonlocality",
         "GHZ paradox", 
         "EPR paradox"]
-    "TQFT":
-        filters: ["TQFT", "Topological Field Theory", "Topological Quantum Field Theory"]
-    "Topological Quantum Computation":
-        filters: ["Topological Quantum Computation","Topological Code",
-                  "Topological Quantum Error-Correction"]
+    "Quantum causal model":
+        filters: ["Pseudo-density operator", "Process matrix", "Quantum comb", "Quantum causality"]
+    "Quantum contextuality":
+        filters: ["Kochen-Specker","Exclusivity Principle",
+                  "Compatibility graph", "Contextuality", "KCBS inequality"]

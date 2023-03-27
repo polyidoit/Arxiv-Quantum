@@ -1,10 +1,10 @@
-title: TQFT Arxiv Daily
-description: Automatically Update TQFT Papers Daily | modified from python code by Vincentqyw
+title: Quantum Arxiv Daily
+description: Automatically Update Quantum Information Theory Papers Daily | modified from python code by Vincentqyw
 show_downloads: true
 
 github:
-  zip_url: https://github.com/polyidiot/Arxiv-TQFT
-  another_url: https://github.com/polyidot/Arxiv-TQFT
+  zip_url: https://github.com/polyidiot/Arxiv-Quantum
+  another_url: https://github.com/polyidot/Arxiv-Quantum
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1

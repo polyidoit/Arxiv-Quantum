@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "polyidiot"
-repo_name: "Arixv-TQFT"
+repo_name: "Arixv-Quantum"
 show_authors: False
 show_links: False
 show_badge: False

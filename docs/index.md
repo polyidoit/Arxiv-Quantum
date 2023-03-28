@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-27**|**Generation of quantum-certified random numbers using on-chip path-entangled single photons from an LED**|Nicolò Leone et.al.|[2303.15332](http://arxiv.org/abs/2303.15332)|null|
+|**2023-03-27**|**Coherently induced quantum correlation in a delayed-choice scheme**|B. S. Ham et.al.|[2303.15052](http://arxiv.org/abs/2303.15052)|null|
+|**2023-03-27**|**Genuine Multipartite Nonlocality for All Isolated Many-body Systems**|Ming-Xing Luo et.al.|[2303.14943](http://arxiv.org/abs/2303.14943)|null|
 |**2023-03-23**|**Consistent Quantum Causes**|Robert B. Griffiths et.al.|[2303.13617](http://arxiv.org/abs/2303.13617)|null|
 |**2023-03-23**|**Detecting Bell correlations in multipartite non-Gaussian spin states**|Jiajie Guo et.al.|[2303.13499](http://arxiv.org/abs/2303.13499)|null|
 |**2023-03-21**|**Stronger EPR-steering criterion based on Schrodinger-Robertson uncertainty relation**|Laxmi Prasad Naik et.al.|[2303.11914](http://arxiv.org/abs/2303.11914)|null|

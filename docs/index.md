@@ -53,3 +53,33 @@ layout: default
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
+## Quantum steering
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Tutorial: Nonlinear magnonics**|Shasha Zheng et.al.|[2303.16313](http://arxiv.org/abs/2303.16313)|null|
+|**2023-03-27**|**Genuine Multipartite Nonlocality for All Isolated Many-body Systems**|Ming-Xing Luo et.al.|[2303.14943](http://arxiv.org/abs/2303.14943)|null|
+|**2023-03-21**|**Stronger EPR-steering criterion based on Schrodinger-Robertson uncertainty relation**|Laxmi Prasad Naik et.al.|[2303.11914](http://arxiv.org/abs/2303.11914)|null|
+|**2023-03-14**|**Quantum Steering Algorithm for Estimating Fidelity of Separability**|Aby Philip et.al.|[2303.07911](http://arxiv.org/abs/2303.07911)|null|
+|**2023-03-12**|**Enhanced entanglement and controlling quantum steering in a Laguerre-Gaussian cavity optomechanical system with two rotating mirrors**|Amjad Sohail et.al.|[2303.06685](http://arxiv.org/abs/2303.06685)|null|
+|**2023-03-10**|**Activating quantum steering with nonlocal unsharp measurements**|Xin-Hong Han et.al.|[2303.05954](http://arxiv.org/abs/2303.05954)|null|
+|**2023-03-25**|**State Preparation on Quantum Computers via Quantum Steering**|Daniel Volya et.al.|[2302.13518](http://arxiv.org/abs/2302.13518)|null|
+|**2023-03-11**|**Quantum conditional entropies and steerability of states with maximally mixed marginals**|Komal Kumar et.al.|[2301.09326](http://arxiv.org/abs/2301.09326)|null|
+|**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
+|**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
+
+## Resource theory
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**The electron-proton bound state in the continuum with the positive binding energy of 1.531 of the electron mass**|A. I. Agafonov et.al.|[2303.08753](http://arxiv.org/abs/2303.08753)|null|
+|**2023-03-15**|**Estimate distillable entanglement and quantum capacity by squeezing useless entanglement**|Chengkai Zhu et.al.|[2303.07228](http://arxiv.org/abs/2303.07228)|null|
+|**2023-03-08**|**Manipulating fermionic mode entanglement in the presence of superselection rules**|Ömer Tırınk et.al.|[2303.04559](http://arxiv.org/abs/2303.04559)|null|
+|**2023-03-20**|**Quasi-free states on a class of algebras of multicomponent commutation relations**|Eugene Lytvynov et.al.|[2303.03828](http://arxiv.org/abs/2303.03828)|null|
+|**2023-03-08**|**Universal resources for quantum computing**|D. -S. Wang et.al.|[2303.03715](http://arxiv.org/abs/2303.03715)|null|
+|**2023-03-06**|**The stress-free state of human erythrocytes: data driven inference of a transferable RBC model**|Lucas Amoudruz et.al.|[2303.03404](http://arxiv.org/abs/2303.03404)|null|
+|**2023-03-06**|**New Era in Cultural Heritage Preservation: Cooperative Aerial Autonomy**|Pavel Petracek et.al.|[2303.02962](http://arxiv.org/abs/2303.02962)|null|
+|**2023-03-04**|**The kinetic Hamiltonian with position-dependent mass**|R. M. Lima et.al.|[2303.02507](http://arxiv.org/abs/2303.02507)|null|
+|**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
+|**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
+

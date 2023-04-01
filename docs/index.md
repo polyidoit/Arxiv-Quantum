@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.03.28
+## Updated on 2023.04.01
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**Quantifying Bell nonlocality of a pure two-qudit state via its entanglement**|Elena R. Loubenets et.al.|[2303.16794](http://arxiv.org/abs/2303.16794)|null|
+|**2023-03-28**|**Device-independent quantum secure direct communication with single photon sources**|Lan Zhou et.al.|[2303.15858](http://arxiv.org/abs/2303.15858)|null|
 |**2023-03-27**|**Generation of quantum-certified random numbers using on-chip path-entangled single photons from an LED**|Nicolò Leone et.al.|[2303.15332](http://arxiv.org/abs/2303.15332)|null|
 |**2023-03-27**|**Coherently induced quantum correlation in a delayed-choice scheme**|B. S. Ham et.al.|[2303.15052](http://arxiv.org/abs/2303.15052)|null|
 |**2023-03-27**|**Genuine Multipartite Nonlocality for All Isolated Many-body Systems**|Ming-Xing Luo et.al.|[2303.14943](http://arxiv.org/abs/2303.14943)|null|

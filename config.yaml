@@ -40,7 +40,7 @@ keywords:
     "Resource theory":
         filters: ["Quantum resource theory","Free Operation",
                   "Free state"]
-    "Quantum Chaos and information scrambling":
+    "Quantum chaos and information scrambling":
         filters: ["Quantum Chaos","Quantum Information Scrambling",
                   "Out of time order correlators", "Hayden-Preskill protocol",
                   "Entanglement spreading", "Random quantum circuit", "Loschmodt Echo"

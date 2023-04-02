@@ -83,3 +83,18 @@ layout: default
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
+## Quantum Chaos and information scrambling
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**Quantization of integrable and chaotic three-particle Fermi-Pasta-Ulam-Tsingou models**|Alio Issoufou Arzika et.al.|[2303.17577](http://arxiv.org/abs/2303.17577)|null|
+|**2023-03-30**|**Characterization of random features of chaotic eigenfunctions in unperturbed basis**|Jiaozi Wang et.al.|[2303.17193](http://arxiv.org/abs/2303.17193)|null|
+|**2023-03-29**|**On the moments of random quantum circuits and robust quantum complexity**|Jonas Haferkamp et.al.|[2303.16944](http://arxiv.org/abs/2303.16944)|null|
+|**2023-03-29**|**Degeneracy in excited state quantum phase transitions of two-level bosonic models and its influence on system dynamics**|J. Khalouf-Rivera et.al.|[2303.16551](http://arxiv.org/abs/2303.16551)|null|
+|**2023-03-26**|**A dynamical transition from localized to uniform scrambling in locally hyperbolic systems**|Mathias Steinhuber et.al.|[2303.14839](http://arxiv.org/abs/2303.14839)|null|
+|**2023-03-23**|**Disjoint data inverse problem on manifolds with quantum chaos bounds**|Matti Lassas et.al.|[2303.13342](http://arxiv.org/abs/2303.13342)|null|
+|**2023-03-22**|**Fidelity Out-of-Time-Order Correlator in the Spin-Boson Model**|Ruofan Chen et.al.|[2303.12276](http://arxiv.org/abs/2303.12276)|null|
+|**2023-03-17**|**Scaling of fronts and entanglement spreading during a domain wall melting**|Stefano Scopa et.al.|[2303.10054](http://arxiv.org/abs/2303.10054)|null|
+|**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
+|**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
+

@@ -38,6 +38,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**Entanglement-enhanced dual-comb spectroscopy**|Haowei Shi et.al.|[2304.01516](http://arxiv.org/abs/2304.01516)|null|
 |**2023-03-23**|**Consistent Quantum Causes**|Robert B. Griffiths et.al.|[2303.13617](http://arxiv.org/abs/2303.13617)|null|
 |**2023-03-22**|**Quantum space-time marginal problem: global causal structure from local causal information**|Zhian Jia et.al.|[2303.12819](http://arxiv.org/abs/2303.12819)|null|
 |**2023-03-22**|**Quantum non-Markovianity: Overview and recent developments**|U. Shrikant et.al.|[2303.12362](http://arxiv.org/abs/2303.12362)|null|
@@ -55,6 +56,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**Swampland constraints on higher spin AdS $_{3}$ gravity Landscape**|R. Sammani et.al.|[2304.01887](http://arxiv.org/abs/2304.01887)|null|
 |**2023-03-08**|**Step-by-step derivation of the algebraic structure of quantum mechanics (or from nondisturbing to quantum correlations by connecting incompatible observables)**|Alisson Tezzin et.al.|[2303.04847](http://arxiv.org/abs/2303.04847)|null|
 |**2023-02-08**|**Entropic force for quantum particles**|Jayarshi Bhattacharya et.al.|[2302.05429](http://arxiv.org/abs/2302.05429)|null|
 |**2023-01-26**|**On the Thermodynamics of Particles Obeying Monotone Statistics**|Fabio Ciolli et.al.|[2301.11016](http://arxiv.org/abs/2301.11016)|null|
@@ -108,6 +110,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Dynamical phase transitions of information flow in random quantum circuits**|J. -Z. Zhuang et.al.|[2304.01256](http://arxiv.org/abs/2304.01256)|null|
 |**2023-03-30**|**Quantum Chaology of Double Rod Pendulum**|Yu-xuan Sun et.al.|[2304.00997](http://arxiv.org/abs/2304.00997)|null|
 |**2023-03-30**|**Quantization of integrable and chaotic three-particle Fermi-Pasta-Ulam-Tsingou models**|Alio Issoufou Arzika et.al.|[2303.17577](http://arxiv.org/abs/2303.17577)|null|
 |**2023-03-30**|**Characterization of random features of chaotic eigenfunctions in unperturbed basis**|Jiaozi Wang et.al.|[2303.17193](http://arxiv.org/abs/2303.17193)|null|

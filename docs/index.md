@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.04
+## Updated on 2023.04.05
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -64,7 +64,7 @@ layout: default
 |**2023-03-21**|**Stronger EPR-steering criterion based on Schrodinger-Robertson uncertainty relation**|Laxmi Prasad Naik et.al.|[2303.11914](http://arxiv.org/abs/2303.11914)|null|
 |**2023-03-14**|**Quantum Steering Algorithm for Estimating Fidelity of Separability**|Aby Philip et.al.|[2303.07911](http://arxiv.org/abs/2303.07911)|null|
 |**2023-03-12**|**Enhanced entanglement and controlling quantum steering in a Laguerre-Gaussian cavity optomechanical system with two rotating mirrors**|Amjad Sohail et.al.|[2303.06685](http://arxiv.org/abs/2303.06685)|null|
-|**2023-03-10**|**Activating quantum steering with nonlocal unsharp measurements**|Xin-Hong Han et.al.|[2303.05954](http://arxiv.org/abs/2303.05954)|null|
+|**2023-04-04**|**Activation of quantum steering sharing with unsharp nonlocal product measurements**|Xin-Hong Han et.al.|[2303.05954](http://arxiv.org/abs/2303.05954)|null|
 |**2023-03-25**|**State Preparation on Quantum Computers via Quantum Steering**|Daniel Volya et.al.|[2302.13518](http://arxiv.org/abs/2302.13518)|null|
 |**2023-03-11**|**Quantum conditional entropies and steerability of states with maximally mixed marginals**|Komal Kumar et.al.|[2301.09326](http://arxiv.org/abs/2301.09326)|null|
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|

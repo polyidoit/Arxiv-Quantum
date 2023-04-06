@@ -44,6 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**On the Number of Regular Elements in $\mathbb{Z}_n$**|Klaus Dohmen et.al.|[2304.02471](http://arxiv.org/abs/2304.02471)|null|
 |**2023-04-04**|**Swampland constraints on higher spin AdS $_{3}$ gravity Landscape**|R. Sammani et.al.|[2304.01887](http://arxiv.org/abs/2304.01887)|null|
 |**2023-03-08**|**Step-by-step derivation of the algebraic structure of quantum mechanics (or from nondisturbing to quantum correlations by connecting incompatible observables)**|Alisson Tezzin et.al.|[2303.04847](http://arxiv.org/abs/2303.04847)|null|
 |**2023-02-08**|**Entropic force for quantum particles**|Jayarshi Bhattacharya et.al.|[2302.05429](http://arxiv.org/abs/2302.05429)|null|
@@ -76,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Rotating bi-electron in two-dimensional systems with mexican-hat single-electron energy dispersion**|V. A. Kochelap et.al.|[2304.02341](http://arxiv.org/abs/2304.02341)|null|
 |**2023-03-31**|**Parameter-free preconditioning for nearly-incompressible linear elasticity**|James H Adler et.al.|[2304.00103](http://arxiv.org/abs/2304.00103)|null|
 |**2023-03-14**|**The electron-proton bound state in the continuum with the positive binding energy of 1.531 of the electron mass**|A. I. Agafonov et.al.|[2303.08753](http://arxiv.org/abs/2303.08753)|null|
 |**2023-03-15**|**Estimate distillable entanglement and quantum capacity by squeezing useless entanglement**|Chengkai Zhu et.al.|[2303.07228](http://arxiv.org/abs/2303.07228)|null|

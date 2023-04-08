@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2023.04.02
+## Updated on 2023.04.08
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-01**|**The communication complexity of functions with large outputs**|Lila Fontes et.al.|[2304.00391](http://arxiv.org/abs/2304.00391)|null|
 |**2023-03-29**|**Quantifying Bell nonlocality of a pure two-qudit state via its entanglement**|Elena R. Loubenets et.al.|[2303.16794](http://arxiv.org/abs/2303.16794)|null|
 |**2023-03-28**|**Device-independent quantum secure direct communication with single photon sources**|Lan Zhou et.al.|[2303.15858](http://arxiv.org/abs/2303.15858)|null|
 |**2023-03-27**|**Generation of quantum-certified random numbers using on-chip path-entangled single photons from an LED**|Nicolò Leone et.al.|[2303.15332](http://arxiv.org/abs/2303.15332)|null|
@@ -27,6 +28,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**Entanglement-enhanced dual-comb spectroscopy**|Haowei Shi et.al.|[2304.01516](http://arxiv.org/abs/2304.01516)|null|
 |**2023-03-23**|**Consistent Quantum Causes**|Robert B. Griffiths et.al.|[2303.13617](http://arxiv.org/abs/2303.13617)|null|
 |**2023-03-22**|**Quantum space-time marginal problem: global causal structure from local causal information**|Zhian Jia et.al.|[2303.12819](http://arxiv.org/abs/2303.12819)|null|
 |**2023-03-22**|**Quantum non-Markovianity: Overview and recent developments**|U. Shrikant et.al.|[2303.12362](http://arxiv.org/abs/2303.12362)|null|
@@ -42,6 +44,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**On the Number of Regular Elements in $\mathbb{Z}_n$**|Klaus Dohmen et.al.|[2304.02471](http://arxiv.org/abs/2304.02471)|null|
+|**2023-04-04**|**Swampland constraints on higher spin AdS $_{3}$ gravity Landscape**|R. Sammani et.al.|[2304.01887](http://arxiv.org/abs/2304.01887)|null|
 |**2023-03-08**|**Step-by-step derivation of the algebraic structure of quantum mechanics (or from nondisturbing to quantum correlations by connecting incompatible observables)**|Alisson Tezzin et.al.|[2303.04847](http://arxiv.org/abs/2303.04847)|null|
 |**2023-02-08**|**Entropic force for quantum particles**|Jayarshi Bhattacharya et.al.|[2302.05429](http://arxiv.org/abs/2302.05429)|null|
 |**2023-01-26**|**On the Thermodynamics of Particles Obeying Monotone Statistics**|Fabio Ciolli et.al.|[2301.11016](http://arxiv.org/abs/2301.11016)|null|
@@ -57,12 +61,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**Does Hawking effect always degrade fidelity of quantum teleportation in Schwarzschild spacetime?**|Xiao-Wei Fan et.al.|[2304.00984](http://arxiv.org/abs/2304.00984)|null|
 |**2023-03-28**|**Tutorial: Nonlinear magnonics**|Shasha Zheng et.al.|[2303.16313](http://arxiv.org/abs/2303.16313)|null|
 |**2023-03-27**|**Genuine Multipartite Nonlocality for All Isolated Many-body Systems**|Ming-Xing Luo et.al.|[2303.14943](http://arxiv.org/abs/2303.14943)|null|
 |**2023-03-21**|**Stronger EPR-steering criterion based on Schrodinger-Robertson uncertainty relation**|Laxmi Prasad Naik et.al.|[2303.11914](http://arxiv.org/abs/2303.11914)|null|
 |**2023-03-14**|**Quantum Steering Algorithm for Estimating Fidelity of Separability**|Aby Philip et.al.|[2303.07911](http://arxiv.org/abs/2303.07911)|null|
 |**2023-03-12**|**Enhanced entanglement and controlling quantum steering in a Laguerre-Gaussian cavity optomechanical system with two rotating mirrors**|Amjad Sohail et.al.|[2303.06685](http://arxiv.org/abs/2303.06685)|null|
-|**2023-03-10**|**Activating quantum steering with nonlocal unsharp measurements**|Xin-Hong Han et.al.|[2303.05954](http://arxiv.org/abs/2303.05954)|null|
+|**2023-04-04**|**Activation of quantum steering sharing with unsharp nonlocal product measurements**|Xin-Hong Han et.al.|[2303.05954](http://arxiv.org/abs/2303.05954)|null|
 |**2023-03-25**|**State Preparation on Quantum Computers via Quantum Steering**|Daniel Volya et.al.|[2302.13518](http://arxiv.org/abs/2302.13518)|null|
 |**2023-03-11**|**Quantum conditional entropies and steerability of states with maximally mixed marginals**|Komal Kumar et.al.|[2301.09326](http://arxiv.org/abs/2301.09326)|null|
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
@@ -72,6 +77,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Rotating bi-electron in two-dimensional systems with mexican-hat single-electron energy dispersion**|V. A. Kochelap et.al.|[2304.02341](http://arxiv.org/abs/2304.02341)|null|
+|**2023-03-31**|**Parameter-free preconditioning for nearly-incompressible linear elasticity**|James H Adler et.al.|[2304.00103](http://arxiv.org/abs/2304.00103)|null|
 |**2023-03-14**|**The electron-proton bound state in the continuum with the positive binding energy of 1.531 of the electron mass**|A. I. Agafonov et.al.|[2303.08753](http://arxiv.org/abs/2303.08753)|null|
 |**2023-03-15**|**Estimate distillable entanglement and quantum capacity by squeezing useless entanglement**|Chengkai Zhu et.al.|[2303.07228](http://arxiv.org/abs/2303.07228)|null|
 |**2023-03-08**|**Manipulating fermionic mode entanglement in the presence of superselection rules**|Ömer Tırınk et.al.|[2303.04559](http://arxiv.org/abs/2303.04559)|null|
@@ -87,6 +94,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**Dynamical phase transitions of information flow in random quantum circuits**|J. -Z. Zhuang et.al.|[2304.01256](http://arxiv.org/abs/2304.01256)|null|
+|**2023-03-30**|**Quantum Chaology of Double Rod Pendulum**|Yu-xuan Sun et.al.|[2304.00997](http://arxiv.org/abs/2304.00997)|null|
 |**2023-03-30**|**Quantization of integrable and chaotic three-particle Fermi-Pasta-Ulam-Tsingou models**|Alio Issoufou Arzika et.al.|[2303.17577](http://arxiv.org/abs/2303.17577)|null|
 |**2023-03-30**|**Characterization of random features of chaotic eigenfunctions in unperturbed basis**|Jiaozi Wang et.al.|[2303.17193](http://arxiv.org/abs/2303.17193)|null|
 |**2023-03-29**|**On the moments of random quantum circuits and robust quantum complexity**|Jonas Haferkamp et.al.|[2303.16944](http://arxiv.org/abs/2303.16944)|null|

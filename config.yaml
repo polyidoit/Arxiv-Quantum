@@ -30,7 +30,8 @@ keywords:
         "GHZ paradox", 
         "EPR paradox"]
     "Quantum causal model":
-        filters: ["Pseudo-density operator", "Pseudo-density matrix", "Process matrix", "Quantum comb", "Quantum causality"]
+        filters: ["Pseudo-density operator", "Pseudo-density matrix", "Pseudo-density Matrices", 
+        "Process matrix", "Quantum Comb", "Quantum Causality"]
     "Quantum contextuality":
         filters: ["Kochen-Specker","Exclusivity Principle",
                   "Compatibility graph", "Contextuality", "KCBS inequality"]
@@ -44,5 +45,10 @@ keywords:
         filters: ["Quantum Chaos","Quantum Information Scrambling",
                   "Out of time order correlators", "Hayden-Preskill protocol",
                   "Entanglement spreading", "Random quantum circuit", "Loschmodt Echo"
-                  ]             
+                  ]   
+    "Quantum error-correction code":
+        filters: ["Quantum error-correcting code","Quantum Stabilizer Code",
+                  "Surface Code", "Quantum code",
+                  "Quantum Error Correcting", "Holographical Quantum Error Correction Code", "Color Code"
+                  ]               
     

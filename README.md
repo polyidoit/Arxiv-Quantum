@@ -8,6 +8,7 @@
     <li><a href=#Quantum-steering>Quantum steering</a></li>
     <li><a href=#Resource-theory>Resource theory</a></li>
     <li><a href=#Quantum-chaos-and-information-scrambling>Quantum chaos and information scrambling</a></li>
+    <li><a href=#Quantum-error-correction-code>Quantum error-correction code</a></li>
   </ol>
 </details>
 
@@ -118,6 +119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**Thermal quenching of classical and semiclassical chaos**|Vijay Ganesh Sadhasivam et.al.|[2304.05913](http://arxiv.org/abs/2304.05913)|null|
 |**2023-04-03**|**Dynamical phase transitions of information flow in random quantum circuits**|J. -Z. Zhuang et.al.|[2304.01256](http://arxiv.org/abs/2304.01256)|null|
 |**2023-03-30**|**Quantum Chaology of Double Rod Pendulum**|Yu-xuan Sun et.al.|[2304.00997](http://arxiv.org/abs/2304.00997)|null|
 |**2023-03-30**|**Quantization of integrable and chaotic three-particle Fermi-Pasta-Ulam-Tsingou models**|Alio Issoufou Arzika et.al.|[2303.17577](http://arxiv.org/abs/2303.17577)|null|
@@ -130,6 +132,23 @@
 |**2023-03-17**|**Scaling of fronts and entanglement spreading during a domain wall melting**|Stefano Scopa et.al.|[2303.10054](http://arxiv.org/abs/2303.10054)|null|
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
+
+<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
+
+## Quantum error-correction code
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-04-11**|**High-fidelity parallel entangling gates on a neutral atom quantum computer**|Simon J. Evered et.al.|[2304.05420](http://arxiv.org/abs/2304.05420)|null|
+|**2023-04-11**|**Unveiling the non-Abelian statistics of $D(S_3)$ anyons via photonic simulation**|Suraj Goel et.al.|[2304.05286](http://arxiv.org/abs/2304.05286)|null|
+|**2023-04-10**|**Improved Logical Error Rate via List Decoding of Quantum Polar Codes**|Anqi Gong et.al.|[2304.04743](http://arxiv.org/abs/2304.04743)|null|
+|**2023-04-06**|**Protecting information via probabilistic cellular automata**|Annie Ray et.al.|[2304.03240](http://arxiv.org/abs/2304.03240)|null|
+|**2023-04-05**|**Holographic Codes from Hyperinvariant Tensor Networks**|Matthew Steinberg et.al.|[2304.02732](http://arxiv.org/abs/2304.02732)|null|
+|**2023-04-05**|**Quantum Coding Transitions in the Presence of Boundary Dissipation**|Izabella Lovas et.al.|[2304.02664](http://arxiv.org/abs/2304.02664)|null|
+|**2023-04-02**|**Combinatorial NLTS From the Overlap Gap Property**|Eric R. Anschuetz et.al.|[2304.00643](http://arxiv.org/abs/2304.00643)|null|
+|**2023-03-31**|**Break-even point of the quantum repetition code**|Áron Rozgonyi et.al.|[2303.17810](http://arxiv.org/abs/2303.17810)|null|
+|**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
+|**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
 <p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
 

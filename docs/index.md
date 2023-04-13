@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.04.08
+## Updated on 2023.04.13
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
+|**2023-04-08**|**Coherently excited nonlocal quantum features using polarization-frequency correlation between quantum erasers**|B. S. Ham et.al.|[2304.04006](http://arxiv.org/abs/2304.04006)|null|
+|**2023-04-07**|**Resolving game theoretical dilemmas with quantum states**|Azhar Iqbal et.al.|[2304.03605](http://arxiv.org/abs/2304.03605)|null|
 |**2023-04-01**|**The communication complexity of functions with large outputs**|Lila Fontes et.al.|[2304.00391](http://arxiv.org/abs/2304.00391)|null|
 |**2023-03-29**|**Quantifying Bell nonlocality of a pure two-qudit state via its entanglement**|Elena R. Loubenets et.al.|[2303.16794](http://arxiv.org/abs/2303.16794)|null|
 |**2023-03-28**|**Device-independent quantum secure direct communication with single photon sources**|Lan Zhou et.al.|[2303.15858](http://arxiv.org/abs/2303.15858)|null|
@@ -61,6 +64,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
+|**2023-04-08**|**Unlimited One-Way Steering**|Pavel Sekatski et.al.|[2304.03888](http://arxiv.org/abs/2304.03888)|null|
 |**2023-04-03**|**Does Hawking effect always degrade fidelity of quantum teleportation in Schwarzschild spacetime?**|Xiao-Wei Fan et.al.|[2304.00984](http://arxiv.org/abs/2304.00984)|null|
 |**2023-03-28**|**Tutorial: Nonlinear magnonics**|Shasha Zheng et.al.|[2303.16313](http://arxiv.org/abs/2303.16313)|null|
 |**2023-03-27**|**Genuine Multipartite Nonlocality for All Isolated Many-body Systems**|Ming-Xing Luo et.al.|[2303.14943](http://arxiv.org/abs/2303.14943)|null|
@@ -77,6 +82,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**A family of quantum von Neumann architecture**|D. -S. Wang et.al.|[2304.03460](http://arxiv.org/abs/2304.03460)|null|
 |**2023-04-05**|**Rotating bi-electron in two-dimensional systems with mexican-hat single-electron energy dispersion**|V. A. Kochelap et.al.|[2304.02341](http://arxiv.org/abs/2304.02341)|null|
 |**2023-03-31**|**Parameter-free preconditioning for nearly-incompressible linear elasticity**|James H Adler et.al.|[2304.00103](http://arxiv.org/abs/2304.00103)|null|
 |**2023-03-14**|**The electron-proton bound state in the continuum with the positive binding energy of 1.531 of the electron mass**|A. I. Agafonov et.al.|[2303.08753](http://arxiv.org/abs/2303.08753)|null|

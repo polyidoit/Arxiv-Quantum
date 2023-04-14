@@ -1,6 +1,12 @@
-> Updated on 2023.04.14
+---
+layout: default
+---
+
+## Updated on 2023.04.14
 ## Bell nonlocality
 
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
 |**2023-04-08**|**Coherently excited nonlocal quantum features using polarization-frequency correlation between quantum erasers**|B. S. Ham et.al.|[2304.04006](http://arxiv.org/abs/2304.04006)|null|
 |**2023-04-07**|**Resolving game theoretical dilemmas with quantum states**|Azhar Iqbal et.al.|[2304.03605](http://arxiv.org/abs/2304.03605)|null|
@@ -23,6 +29,8 @@
 
 ## Quantum causal model
 
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-04**|**Entanglement-enhanced dual-comb spectroscopy**|Haowei Shi et.al.|[2304.01516](http://arxiv.org/abs/2304.01516)|null|
 |**2023-03-23**|**Consistent Quantum Causes**|Robert B. Griffiths et.al.|[2303.13617](http://arxiv.org/abs/2303.13617)|null|
 |**2023-03-22**|**Quantum space-time marginal problem: global causal structure from local causal information**|Zhian Jia et.al.|[2303.12819](http://arxiv.org/abs/2303.12819)|null|
@@ -37,6 +45,8 @@
 
 ## Quantum contextuality
 
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-03**|**On the Number of Regular Elements in $\mathbb{Z}_n$**|Klaus Dohmen et.al.|[2304.02471](http://arxiv.org/abs/2304.02471)|null|
 |**2023-04-04**|**Swampland constraints on higher spin AdS $_{3}$ gravity Landscape**|R. Sammani et.al.|[2304.01887](http://arxiv.org/abs/2304.01887)|null|
 |**2023-03-08**|**Step-by-step derivation of the algebraic structure of quantum mechanics (or from nondisturbing to quantum correlations by connecting incompatible observables)**|Alisson Tezzin et.al.|[2303.04847](http://arxiv.org/abs/2303.04847)|null|
@@ -52,6 +62,8 @@
 
 ## Quantum steering
 
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
 |**2023-04-08**|**Unlimited One-Way Steering**|Pavel Sekatski et.al.|[2304.03888](http://arxiv.org/abs/2304.03888)|null|
 |**2023-04-03**|**Does Hawking effect always degrade fidelity of quantum teleportation in Schwarzschild spacetime?**|Xiao-Wei Fan et.al.|[2304.00984](http://arxiv.org/abs/2304.00984)|null|
@@ -68,6 +80,8 @@
 
 ## Resource theory
 
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-07**|**A family of quantum von Neumann architecture**|D. -S. Wang et.al.|[2304.03460](http://arxiv.org/abs/2304.03460)|null|
 |**2023-04-05**|**Rotating bi-electron in two-dimensional systems with mexican-hat single-electron energy dispersion**|V. A. Kochelap et.al.|[2304.02341](http://arxiv.org/abs/2304.02341)|null|
 |**2023-03-31**|**Parameter-free preconditioning for nearly-incompressible linear elasticity**|James H Adler et.al.|[2304.00103](http://arxiv.org/abs/2304.00103)|null|
@@ -84,6 +98,8 @@
 
 ## Quantum chaos and information scrambling
 
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-12**|**Thermal quenching of classical and semiclassical chaos**|Vijay Ganesh Sadhasivam et.al.|[2304.05913](http://arxiv.org/abs/2304.05913)|null|
 |**2023-04-03**|**Dynamical phase transitions of information flow in random quantum circuits**|J. -Z. Zhuang et.al.|[2304.01256](http://arxiv.org/abs/2304.01256)|null|
 |**2023-03-30**|**Quantum Chaology of Double Rod Pendulum**|Yu-xuan Sun et.al.|[2304.00997](http://arxiv.org/abs/2304.00997)|null|
@@ -100,6 +116,8 @@
 
 ## Quantum error-correction code
 
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-13**|**Exploring Quantum Neural Networks for the Discovery and Implementation of Quantum Error-Correcting Codes**|A. Chalkiadakis et.al.|[2304.06681](http://arxiv.org/abs/2304.06681)|null|
 |**2023-04-13**|**Pauli Manipulation Detection codes and Applications to Quantum Communication over Adversarial Channels**|Thiago Bergamaschi et.al.|[2304.06269](http://arxiv.org/abs/2304.06269)|null|
 |**2023-04-11**|**High-fidelity parallel entangling gates on a neutral atom quantum computer**|Simon J. Evered et.al.|[2304.05420](http://arxiv.org/abs/2304.05420)|null|

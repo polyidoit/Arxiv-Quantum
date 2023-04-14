@@ -139,6 +139,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Exploring Quantum Neural Networks for the Discovery and Implementation of Quantum Error-Correcting Codes**|A. Chalkiadakis et.al.|[2304.06681](http://arxiv.org/abs/2304.06681)|null|
+|**2023-04-13**|**Pauli Manipulation Detection codes and Applications to Quantum Communication over Adversarial Channels**|Thiago Bergamaschi et.al.|[2304.06269](http://arxiv.org/abs/2304.06269)|null|
 |**2023-04-11**|**High-fidelity parallel entangling gates on a neutral atom quantum computer**|Simon J. Evered et.al.|[2304.05420](http://arxiv.org/abs/2304.05420)|null|
 |**2023-04-11**|**Unveiling the non-Abelian statistics of $D(S_3)$ anyons via photonic simulation**|Suraj Goel et.al.|[2304.05286](http://arxiv.org/abs/2304.05286)|null|
 |**2023-04-10**|**Improved Logical Error Rate via List Decoding of Quantum Polar Codes**|Anqi Gong et.al.|[2304.04743](http://arxiv.org/abs/2304.04743)|null|

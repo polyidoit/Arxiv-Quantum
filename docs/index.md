@@ -101,6 +101,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Scrambling is Necessary but Not Sufficient for Chaos**|Neil Dowling et.al.|[2304.07319](http://arxiv.org/abs/2304.07319)|null|
 |**2023-04-12**|**Thermal quenching of classical and semiclassical chaos**|Vijay Ganesh Sadhasivam et.al.|[2304.05913](http://arxiv.org/abs/2304.05913)|null|
 |**2023-04-03**|**Dynamical phase transitions of information flow in random quantum circuits**|J. -Z. Zhuang et.al.|[2304.01256](http://arxiv.org/abs/2304.01256)|null|
 |**2023-03-30**|**Quantum Chaology of Double Rod Pendulum**|Yu-xuan Sun et.al.|[2304.00997](http://arxiv.org/abs/2304.00997)|null|
@@ -119,6 +120,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**A ZX-Calculus Approach to Concatenated Graph Codes**|Zipeng Wu et.al.|[2304.08363](http://arxiv.org/abs/2304.08363)|null|
+|**2023-04-17**|**Entanglement-assisted quantum error-correcting codes from subfield subcodes of projective Reed-Solomon codes**|P. Gimenez et.al.|[2304.08121](http://arxiv.org/abs/2304.08121)|null|
+|**2023-04-15**|**ACD codes over non-symmetric dualities**|Astha Agrawal et.al.|[2304.07529](http://arxiv.org/abs/2304.07529)|null|
+|**2023-04-14**|**The END: An Equivariant Neural Decoder for Quantum Error Correction**|Evgenii Egorov et.al.|[2304.07362](http://arxiv.org/abs/2304.07362)|null|
 |**2023-04-13**|**Exploring Quantum Neural Networks for the Discovery and Implementation of Quantum Error-Correcting Codes**|A. Chalkiadakis et.al.|[2304.06681](http://arxiv.org/abs/2304.06681)|null|
 |**2023-04-13**|**Pauli Manipulation Detection codes and Applications to Quantum Communication over Adversarial Channels**|Thiago Bergamaschi et.al.|[2304.06269](http://arxiv.org/abs/2304.06269)|null|
 |**2023-04-11**|**High-fidelity parallel entangling gates on a neutral atom quantum computer**|Simon J. Evered et.al.|[2304.05420](http://arxiv.org/abs/2304.05420)|null|

@@ -83,6 +83,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Quantifying the phase of quantum states**|Jianwei Xu et.al.|[2304.09028](http://arxiv.org/abs/2304.09028)|null|
 |**2023-04-07**|**A family of quantum von Neumann architecture**|D. -S. Wang et.al.|[2304.03460](http://arxiv.org/abs/2304.03460)|null|
 |**2023-04-05**|**Rotating bi-electron in two-dimensional systems with mexican-hat single-electron energy dispersion**|V. A. Kochelap et.al.|[2304.02341](http://arxiv.org/abs/2304.02341)|null|
 |**2023-03-31**|**Parameter-free preconditioning for nearly-incompressible linear elasticity**|James H Adler et.al.|[2304.00103](http://arxiv.org/abs/2304.00103)|null|
@@ -120,6 +121,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Quantum Error Correction For Dummies**|Avimita Chatterjee et.al.|[2304.08678](http://arxiv.org/abs/2304.08678)|null|
+|**2023-04-17**|**Multispin Clifford codes for angular momentum errors in spin systems**|Sivaprasad Omanakuttan et.al.|[2304.08611](http://arxiv.org/abs/2304.08611)|null|
 |**2023-04-17**|**A ZX-Calculus Approach to Concatenated Graph Codes**|Zipeng Wu et.al.|[2304.08363](http://arxiv.org/abs/2304.08363)|null|
 |**2023-04-17**|**Entanglement-assisted quantum error-correcting codes from subfield subcodes of projective Reed-Solomon codes**|P. Gimenez et.al.|[2304.08121](http://arxiv.org/abs/2304.08121)|null|
 |**2023-04-15**|**ACD codes over non-symmetric dualities**|Astha Agrawal et.al.|[2304.07529](http://arxiv.org/abs/2304.07529)|null|

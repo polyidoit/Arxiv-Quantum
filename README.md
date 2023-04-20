@@ -100,6 +100,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Resource engines**|Hanna Wojewódka-Ściążko et.al.|[2304.09559](http://arxiv.org/abs/2304.09559)|null|
+|**2023-04-18**|**Large Language Models Based Automatic Synthesis of Software Specifications**|Shantanu Mandal et.al.|[2304.09181](http://arxiv.org/abs/2304.09181)|null|
 |**2023-04-18**|**Quantifying the phase of quantum states**|Jianwei Xu et.al.|[2304.09028](http://arxiv.org/abs/2304.09028)|null|
 |**2023-04-07**|**A family of quantum von Neumann architecture**|D. -S. Wang et.al.|[2304.03460](http://arxiv.org/abs/2304.03460)|null|
 |**2023-04-05**|**Rotating bi-electron in two-dimensional systems with mexican-hat single-electron energy dispersion**|V. A. Kochelap et.al.|[2304.02341](http://arxiv.org/abs/2304.02341)|null|
@@ -121,6 +123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Signatures of quantum chaos of Rydberg dressed bosons in a triple-well potential**|Tianyi Yan et.al.|[2304.09565](http://arxiv.org/abs/2304.09565)|null|
 |**2023-04-14**|**Scrambling is Necessary but Not Sufficient for Chaos**|Neil Dowling et.al.|[2304.07319](http://arxiv.org/abs/2304.07319)|null|
 |**2023-04-12**|**Thermal quenching of classical and semiclassical chaos**|Vijay Ganesh Sadhasivam et.al.|[2304.05913](http://arxiv.org/abs/2304.05913)|null|
 |**2023-04-03**|**Dynamical phase transitions of information flow in random quantum circuits**|J. -Z. Zhuang et.al.|[2304.01256](http://arxiv.org/abs/2304.01256)|null|

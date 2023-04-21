@@ -42,6 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**Realization of algorithmic identification of cause and effect in quantum correlations**|Zhao-An Wang et.al.|[2304.10192](http://arxiv.org/abs/2304.10192)|null|
 |**2023-04-04**|**Entanglement-enhanced dual-comb spectroscopy**|Haowei Shi et.al.|[2304.01516](http://arxiv.org/abs/2304.01516)|null|
 |**2023-03-23**|**Consistent Quantum Causes**|Robert B. Griffiths et.al.|[2303.13617](http://arxiv.org/abs/2303.13617)|null|
 |**2023-03-22**|**Quantum space-time marginal problem: global causal structure from local causal information**|Zhian Jia et.al.|[2303.12819](http://arxiv.org/abs/2303.12819)|null|
@@ -60,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**Towards quantum black hole microstates**|Sunjin Choi et.al.|[2304.10155](http://arxiv.org/abs/2304.10155)|null|
 |**2023-04-14**|**Exclusion principle for nonlocal advantage of quantum coherence**|Priya Ghosh et.al.|[2304.07154](http://arxiv.org/abs/2304.07154)|null|
 |**2023-04-17**|**On the Number of Regular Elements in $\mathbb{Z}_n$**|Klaus Dohmen et.al.|[2304.02471](http://arxiv.org/abs/2304.02471)|null|
 |**2023-04-04**|**Swampland constraints on higher spin AdS $_{3}$ gravity Landscape**|R. Sammani et.al.|[2304.01887](http://arxiv.org/abs/2304.01887)|null|
@@ -123,6 +125,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**Phase transition in magic with random quantum circuits**|Pradeep Niroula et.al.|[2304.10481](http://arxiv.org/abs/2304.10481)|null|
+|**2023-04-19**|**Can black holes be both fast and thorough scramblers?**|Claudio Chamon et.al.|[2304.09885](http://arxiv.org/abs/2304.09885)|null|
 |**2023-04-19**|**Signatures of quantum chaos of Rydberg dressed bosons in a triple-well potential**|Tianyi Yan et.al.|[2304.09565](http://arxiv.org/abs/2304.09565)|null|
 |**2023-04-14**|**Scrambling is Necessary but Not Sufficient for Chaos**|Neil Dowling et.al.|[2304.07319](http://arxiv.org/abs/2304.07319)|null|
 |**2023-04-12**|**Thermal quenching of classical and semiclassical chaos**|Vijay Ganesh Sadhasivam et.al.|[2304.05913](http://arxiv.org/abs/2304.05913)|null|

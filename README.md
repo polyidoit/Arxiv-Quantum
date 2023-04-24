@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**Gravitationally modulated quantum correlations: Discriminating classical and quantum models of ultra-compact objects with Bell nonlocality**|Luciano Petruzziello et.al.|[2304.10868](http://arxiv.org/abs/2304.10868)|null|
 |**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
 |**2023-04-08**|**Coherently excited nonlocal quantum features using polarization-frequency correlation between quantum erasers**|B. S. Ham et.al.|[2304.04006](http://arxiv.org/abs/2304.04006)|null|
 |**2023-04-07**|**Resolving game theoretical dilemmas with quantum states**|Azhar Iqbal et.al.|[2304.03605](http://arxiv.org/abs/2304.03605)|null|
@@ -82,6 +83,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**Polytope compatibility -- from quantum measurements to magic squares**|Andreas Bluhm et.al.|[2304.10920](http://arxiv.org/abs/2304.10920)|null|
 |**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
 |**2023-04-08**|**Unlimited One-Way Steering**|Pavel Sekatski et.al.|[2304.03888](http://arxiv.org/abs/2304.03888)|null|
 |**2023-04-03**|**Does Hawking effect always degrade fidelity of quantum teleportation in Schwarzschild spacetime?**|Xiao-Wei Fan et.al.|[2304.00984](http://arxiv.org/abs/2304.00984)|null|
@@ -125,6 +127,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**Surprises in the Deep Hilbert Space of all-to-all systems: From super-exponential scrambling to slow entanglement growth**|Zihao Qi et.al.|[2304.11138](http://arxiv.org/abs/2304.11138)|null|
 |**2023-04-20**|**Phase transition in magic with random quantum circuits**|Pradeep Niroula et.al.|[2304.10481](http://arxiv.org/abs/2304.10481)|null|
 |**2023-04-19**|**Can black holes be both fast and thorough scramblers?**|Claudio Chamon et.al.|[2304.09885](http://arxiv.org/abs/2304.09885)|null|
 |**2023-04-19**|**Signatures of quantum chaos of Rydberg dressed bosons in a triple-well potential**|Tianyi Yan et.al.|[2304.09565](http://arxiv.org/abs/2304.09565)|null|

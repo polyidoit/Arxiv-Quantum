@@ -152,6 +152,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Decoupling by local random unitaries without simultaneous smoothing, and applications to multi-user quantum information tasks**|Pau Colomer Saus et.al.|[2304.12114](http://arxiv.org/abs/2304.12114)|null|
+|**2023-04-24**|**Nonequilibrium critical dynamics of the bi-dimensional $\pm J$ Ising model**|Ramgopal Agrawal et.al.|[2304.11997](http://arxiv.org/abs/2304.11997)|null|
+|**2023-04-24**|**Open loop linear control of quadratic Hamiltonians with applications**|Mattias T. Johnsson et.al.|[2304.11776](http://arxiv.org/abs/2304.11776)|null|
+|**2023-04-23**|**Images Within Images? A Multi-image Paradigm with Novel Key-Value Graph Oriented Steganography**|Subhrangshu Adhikary et.al.|[2304.11720](http://arxiv.org/abs/2304.11720)|null|
+|**2023-04-22**|**Stabilizer Formalism for Operator Algebra Quantum Error Correction**|Guillaume Dauphinais et.al.|[2304.11442](http://arxiv.org/abs/2304.11442)|null|
 |**2023-04-18**|**Quantum Error Correction For Dummies**|Avimita Chatterjee et.al.|[2304.08678](http://arxiv.org/abs/2304.08678)|null|
 |**2023-04-17**|**Multispin Clifford codes for angular momentum errors in spin systems**|Sivaprasad Omanakuttan et.al.|[2304.08611](http://arxiv.org/abs/2304.08611)|null|
 |**2023-04-17**|**A ZX-Calculus Approach to Concatenated Graph Codes**|Zipeng Wu et.al.|[2304.08363](http://arxiv.org/abs/2304.08363)|null|

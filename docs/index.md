@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.25
+## Updated on 2023.04.26
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -132,7 +132,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-24**|**Decoupling by local random unitaries without simultaneous smoothing, and applications to multi-user quantum information tasks**|Pau Colomer Saus et.al.|[2304.12114](http://arxiv.org/abs/2304.12114)|null|
-|**2023-04-24**|**Nonequilibrium critical dynamics of the bi-dimensional $\pm J$ Ising model**|Ramgopal Agrawal et.al.|[2304.11997](http://arxiv.org/abs/2304.11997)|null|
+|**2023-04-25**|**Nonequilibrium critical dynamics of the bi-dimensional $\pm J$ Ising model**|Ramgopal Agrawal et.al.|[2304.11997](http://arxiv.org/abs/2304.11997)|null|
 |**2023-04-24**|**Open loop linear control of quadratic Hamiltonians with applications**|Mattias T. Johnsson et.al.|[2304.11776](http://arxiv.org/abs/2304.11776)|null|
 |**2023-04-23**|**Images Within Images? A Multi-image Paradigm with Novel Key-Value Graph Oriented Steganography**|Subhrangshu Adhikary et.al.|[2304.11720](http://arxiv.org/abs/2304.11720)|null|
 |**2023-04-22**|**Stabilizer Formalism for Operator Algebra Quantum Error Correction**|Guillaume Dauphinais et.al.|[2304.11442](http://arxiv.org/abs/2304.11442)|null|

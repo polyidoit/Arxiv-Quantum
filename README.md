@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**Bell's Inequality and Heisenberg Measurements on Relativistic Quantum Systems**|Ulrich Faigle et.al.|[2304.12873](http://arxiv.org/abs/2304.12873)|null|
 |**2023-04-21**|**Gravitationally modulated quantum correlations: Discriminating classical and quantum models of ultra-compact objects with Bell nonlocality**|Luciano Petruzziello et.al.|[2304.10868](http://arxiv.org/abs/2304.10868)|null|
 |**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
 |**2023-04-08**|**Coherently excited nonlocal quantum features using polarization-frequency correlation between quantum erasers**|B. S. Ham et.al.|[2304.04006](http://arxiv.org/abs/2304.04006)|null|

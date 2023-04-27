@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.26
+## Updated on 2023.04.27
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -34,7 +34,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-20**|**Realization of algorithmic identification of cause and effect in quantum correlations**|Zhao-An Wang et.al.|[2304.10192](http://arxiv.org/abs/2304.10192)|null|
-|**2023-04-04**|**Entanglement-enhanced dual-comb spectroscopy**|Haowei Shi et.al.|[2304.01516](http://arxiv.org/abs/2304.01516)|null|
+|**2023-04-26**|**Entanglement-enhanced dual-comb spectroscopy**|Haowei Shi et.al.|[2304.01516](http://arxiv.org/abs/2304.01516)|null|
 |**2023-03-23**|**Consistent Quantum Causes**|Robert B. Griffiths et.al.|[2303.13617](http://arxiv.org/abs/2303.13617)|null|
 |**2023-03-22**|**Quantum space-time marginal problem: global causal structure from local causal information**|Zhian Jia et.al.|[2303.12819](http://arxiv.org/abs/2303.12819)|null|
 |**2023-03-22**|**Quantum non-Markovianity: Overview and recent developments**|U. Shrikant et.al.|[2303.12362](http://arxiv.org/abs/2303.12362)|null|
@@ -137,7 +137,7 @@ layout: default
 |**2023-04-24**|**Open loop linear control of quadratic Hamiltonians with applications**|Mattias T. Johnsson et.al.|[2304.11776](http://arxiv.org/abs/2304.11776)|null|
 |**2023-04-23**|**Images Within Images? A Multi-image Paradigm with Novel Key-Value Graph Oriented Steganography**|Subhrangshu Adhikary et.al.|[2304.11720](http://arxiv.org/abs/2304.11720)|null|
 |**2023-04-22**|**Stabilizer Formalism for Operator Algebra Quantum Error Correction**|Guillaume Dauphinais et.al.|[2304.11442](http://arxiv.org/abs/2304.11442)|null|
-|**2023-04-18**|**Quantum Error Correction For Dummies**|Avimita Chatterjee et.al.|[2304.08678](http://arxiv.org/abs/2304.08678)|null|
+|**2023-04-26**|**Quantum Error Correction For Dummies**|Avimita Chatterjee et.al.|[2304.08678](http://arxiv.org/abs/2304.08678)|null|
 |**2023-04-17**|**Multispin Clifford codes for angular momentum errors in spin systems**|Sivaprasad Omanakuttan et.al.|[2304.08611](http://arxiv.org/abs/2304.08611)|null|
 |**2023-04-17**|**A ZX-Calculus Approach to Concatenated Graph Codes**|Zipeng Wu et.al.|[2304.08363](http://arxiv.org/abs/2304.08363)|null|
 |**2023-04-17**|**Entanglement-assisted quantum error-correcting codes from subfield subcodes of projective Reed-Solomon codes**|P. Gimenez et.al.|[2304.08121](http://arxiv.org/abs/2304.08121)|null|

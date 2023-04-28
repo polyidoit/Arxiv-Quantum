@@ -109,6 +109,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-26**|**Stabilizer entropy dynamics after a quantum quench**|Davide Rattacaso et.al.|[2304.13768](http://arxiv.org/abs/2304.13768)|null|
 |**2023-04-21**|**Surprises in the Deep Hilbert Space of all-to-all systems: From super-exponential scrambling to slow entanglement growth**|Zihao Qi et.al.|[2304.11138](http://arxiv.org/abs/2304.11138)|null|
 |**2023-04-20**|**Phase transition in magic with random quantum circuits**|Pradeep Niroula et.al.|[2304.10481](http://arxiv.org/abs/2304.10481)|null|
 |**2023-04-19**|**Can black holes be both fast and thorough scramblers?**|Claudio Chamon et.al.|[2304.09885](http://arxiv.org/abs/2304.09885)|null|

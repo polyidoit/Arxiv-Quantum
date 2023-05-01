@@ -88,6 +88,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**The resource theory of dephasing estimation in multiqubit systems**|Zishi Chen et.al.|[2304.14615](http://arxiv.org/abs/2304.14615)|null|
 |**2023-04-19**|**Resource engines**|Hanna Wojewódka-Ściążko et.al.|[2304.09559](http://arxiv.org/abs/2304.09559)|null|
 |**2023-04-18**|**Large Language Models Based Automatic Synthesis of Software Specifications**|Shantanu Mandal et.al.|[2304.09181](http://arxiv.org/abs/2304.09181)|null|
 |**2023-04-18**|**Quantifying the phase of quantum states**|Jianwei Xu et.al.|[2304.09028](http://arxiv.org/abs/2304.09028)|null|
@@ -133,6 +134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**Zero noise extrapolation on logical qubits by scaling the error correction code distance**|Misty A. Wahl et.al.|[2304.14985](http://arxiv.org/abs/2304.14985)|null|
 |**2023-04-24**|**Decoupling by local random unitaries without simultaneous smoothing, and applications to multi-user quantum information tasks**|Pau Colomer Saus et.al.|[2304.12114](http://arxiv.org/abs/2304.12114)|null|
 |**2023-04-25**|**Nonequilibrium critical dynamics of the bi-dimensional $\pm J$ Ising model**|Ramgopal Agrawal et.al.|[2304.11997](http://arxiv.org/abs/2304.11997)|null|
 |**2023-04-24**|**Open loop linear control of quadratic Hamiltonians with applications**|Mattias T. Johnsson et.al.|[2304.11776](http://arxiv.org/abs/2304.11776)|null|

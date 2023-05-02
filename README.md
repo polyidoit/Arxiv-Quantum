@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-30**|**Quantum correlation generation capability of experimental processes**|Wei-Hao Huang et.al.|[2305.00370](http://arxiv.org/abs/2305.00370)|null|
 |**2023-04-25**|**Bell's Inequality and Heisenberg Measurements on Relativistic Quantum Systems**|Ulrich Faigle et.al.|[2304.12873](http://arxiv.org/abs/2304.12873)|null|
 |**2023-04-21**|**Gravitationally modulated quantum correlations: Discriminating classical and quantum models of ultra-compact objects with Bell nonlocality**|Luciano Petruzziello et.al.|[2304.10868](http://arxiv.org/abs/2304.10868)|null|
 |**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
@@ -63,6 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-29**|**On the sub-additivity of stochastic matching**|Pascal Moyal et.al.|[2305.00187](http://arxiv.org/abs/2305.00187)|null|
 |**2023-04-20**|**Towards quantum black hole microstates**|Sunjin Choi et.al.|[2304.10155](http://arxiv.org/abs/2304.10155)|null|
 |**2023-04-14**|**Exclusion principle for nonlocal advantage of quantum coherence**|Priya Ghosh et.al.|[2304.07154](http://arxiv.org/abs/2304.07154)|null|
 |**2023-04-17**|**On the Number of Regular Elements in $\mathbb{Z}_n$**|Klaus Dohmen et.al.|[2304.02471](http://arxiv.org/abs/2304.02471)|null|
@@ -84,6 +86,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-30**|**Quantum correlation generation capability of experimental processes**|Wei-Hao Huang et.al.|[2305.00370](http://arxiv.org/abs/2305.00370)|null|
 |**2023-04-21**|**Polytope compatibility -- from quantum measurements to magic squares**|Andreas Bluhm et.al.|[2304.10920](http://arxiv.org/abs/2304.10920)|null|
 |**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
 |**2023-04-08**|**Unlimited One-Way Steering**|Pavel Sekatski et.al.|[2304.03888](http://arxiv.org/abs/2304.03888)|null|
@@ -109,6 +112,7 @@
 |**2023-04-19**|**Resource engines**|Hanna Wojewódka-Ściążko et.al.|[2304.09559](http://arxiv.org/abs/2304.09559)|null|
 |**2023-04-18**|**Large Language Models Based Automatic Synthesis of Software Specifications**|Shantanu Mandal et.al.|[2304.09181](http://arxiv.org/abs/2304.09181)|null|
 |**2023-04-18**|**Quantifying the phase of quantum states**|Jianwei Xu et.al.|[2304.09028](http://arxiv.org/abs/2304.09028)|null|
+|**2023-05-01**|**Graph-theoretic insights on the constructability of complex entangled states**|L. Sunil Chandran et.al.|[2304.06407](http://arxiv.org/abs/2304.06407)|null|
 |**2023-04-07**|**A family of quantum von Neumann architecture**|D. -S. Wang et.al.|[2304.03460](http://arxiv.org/abs/2304.03460)|null|
 |**2023-04-05**|**Rotating bi-electron in two-dimensional systems with mexican-hat single-electron energy dispersion**|V. A. Kochelap et.al.|[2304.02341](http://arxiv.org/abs/2304.02341)|null|
 |**2023-03-31**|**Parameter-free preconditioning for nearly-incompressible linear elasticity**|James H Adler et.al.|[2304.00103](http://arxiv.org/abs/2304.00103)|null|
@@ -129,6 +133,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-29**|**Krylov construction and complexity for driven quantum systems**|Amin A. Nizami et.al.|[2305.00256](http://arxiv.org/abs/2305.00256)|null|
 |**2023-04-26**|**Stabilizer entropy dynamics after a quantum quench**|Davide Rattacaso et.al.|[2304.13768](http://arxiv.org/abs/2304.13768)|null|
 |**2023-04-21**|**Surprises in the Deep Hilbert Space of all-to-all systems: From super-exponential scrambling to slow entanglement growth**|Zihao Qi et.al.|[2304.11138](http://arxiv.org/abs/2304.11138)|null|
 |**2023-04-20**|**Phase transition in magic with random quantum circuits**|Pradeep Niroula et.al.|[2304.10481](http://arxiv.org/abs/2304.10481)|null|
@@ -155,6 +160,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Reliable Quantum Communications based on Asymmetry in Purification and Coding**|Lorenzo Valentini et.al.|[2305.00949](http://arxiv.org/abs/2305.00949)|null|
+|**2023-05-01**|**Freeform Templates: Combining Freeform Curation with Structured Templates**|Stephen MacNeil et.al.|[2305.00937](http://arxiv.org/abs/2305.00937)|null|
+|**2023-05-01**|**Low-Depth Flag-Style Syndrome Extraction for Small Quantum Error-Correction Codes**|Dhruv Bhatnagar et.al.|[2305.00784](http://arxiv.org/abs/2305.00784)|null|
+|**2023-05-01**|**General Distance Balancing for Quantum Locally Testable Codes**|Adam Wills et.al.|[2305.00689](http://arxiv.org/abs/2305.00689)|null|
+|**2023-04-30**|**Toward Constructing a Continuous Logical Operator for Error-Corrected Quantum Sensing**|Cameron Cianci et.al.|[2305.00547](http://arxiv.org/abs/2305.00547)|null|
+|**2023-04-29**|**Empirical overhead of the adapted surface code on defective qubit arrays**|Sophia Fuhui Lin et.al.|[2305.00138](http://arxiv.org/abs/2305.00138)|null|
 |**2023-04-28**|**Zero noise extrapolation on logical qubits by scaling the error correction code distance**|Misty A. Wahl et.al.|[2304.14985](http://arxiv.org/abs/2304.14985)|null|
 |**2023-04-24**|**Decoupling by local random unitaries without simultaneous smoothing, and applications to multi-user quantum information tasks**|Pau Colomer Saus et.al.|[2304.12114](http://arxiv.org/abs/2304.12114)|null|
 |**2023-04-25**|**Nonequilibrium critical dynamics of the bi-dimensional $\pm J$ Ising model**|Ramgopal Agrawal et.al.|[2304.11997](http://arxiv.org/abs/2304.11997)|null|

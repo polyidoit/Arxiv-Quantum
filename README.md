@@ -45,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Transformations between arbitrary (quantum) objects and the emergence of indefinite causality**|Simon Milz et.al.|[2305.01247](http://arxiv.org/abs/2305.01247)|null|
 |**2023-04-20**|**Realization of algorithmic identification of cause and effect in quantum correlations**|Zhao-An Wang et.al.|[2304.10192](http://arxiv.org/abs/2304.10192)|null|
 |**2023-04-26**|**Entanglement-enhanced dual-comb spectroscopy**|Haowei Shi et.al.|[2304.01516](http://arxiv.org/abs/2304.01516)|null|
 |**2023-03-23**|**Consistent Quantum Causes**|Robert B. Griffiths et.al.|[2303.13617](http://arxiv.org/abs/2303.13617)|null|
@@ -133,6 +134,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Spatial deformation of many-body quantum chaotic systems and quantum information scrambling**|Kanato Goto et.al.|[2305.01019](http://arxiv.org/abs/2305.01019)|null|
 |**2023-04-29**|**Krylov construction and complexity for driven quantum systems**|Amin A. Nizami et.al.|[2305.00256](http://arxiv.org/abs/2305.00256)|null|
 |**2023-04-26**|**Stabilizer entropy dynamics after a quantum quench**|Davide Rattacaso et.al.|[2304.13768](http://arxiv.org/abs/2304.13768)|null|
 |**2023-04-21**|**Surprises in the Deep Hilbert Space of all-to-all systems: From super-exponential scrambling to slow entanglement growth**|Zihao Qi et.al.|[2304.11138](http://arxiv.org/abs/2304.11138)|null|
@@ -160,6 +162,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Performance Analysis of Quantum Error-Correcting Codes via MacWilliams Identities**|Diego Forlivesi et.al.|[2305.01301](http://arxiv.org/abs/2305.01301)|null|
 |**2023-05-01**|**Reliable Quantum Communications based on Asymmetry in Purification and Coding**|Lorenzo Valentini et.al.|[2305.00949](http://arxiv.org/abs/2305.00949)|null|
 |**2023-05-01**|**Freeform Templates: Combining Freeform Curation with Structured Templates**|Stephen MacNeil et.al.|[2305.00937](http://arxiv.org/abs/2305.00937)|null|
 |**2023-05-01**|**Low-Depth Flag-Style Syndrome Extraction for Small Quantum Error-Correction Codes**|Dhruv Bhatnagar et.al.|[2305.00784](http://arxiv.org/abs/2305.00784)|null|

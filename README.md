@@ -162,6 +162,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**Approximate quantum error correction, covariance symmetry and their relation**|Hao Dai et.al.|[2305.02162](http://arxiv.org/abs/2305.02162)|null|
+|**2023-05-03**|**Tensor Network Message Passing**|Yijia Wang et.al.|[2305.01874](http://arxiv.org/abs/2305.01874)|null|
 |**2023-05-02**|**Performance Analysis of Quantum Error-Correcting Codes via MacWilliams Identities**|Diego Forlivesi et.al.|[2305.01301](http://arxiv.org/abs/2305.01301)|null|
 |**2023-05-01**|**Reliable Quantum Communications based on Asymmetry in Purification and Coding**|Lorenzo Valentini et.al.|[2305.00949](http://arxiv.org/abs/2305.00949)|null|
 |**2023-05-01**|**Freeform Templates: Combining Freeform Curation with Structured Templates**|Stephen MacNeil et.al.|[2305.00937](http://arxiv.org/abs/2305.00937)|null|

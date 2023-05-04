@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.03
+## Updated on 2023.05.04
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -117,7 +117,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-01**|**Spatial deformation of many-body quantum chaotic systems and quantum information scrambling**|Kanato Goto et.al.|[2305.01019](http://arxiv.org/abs/2305.01019)|null|
 |**2023-04-29**|**Krylov construction and complexity for driven quantum systems**|Amin A. Nizami et.al.|[2305.00256](http://arxiv.org/abs/2305.00256)|null|
-|**2023-04-26**|**Stabilizer entropy dynamics after a quantum quench**|Davide Rattacaso et.al.|[2304.13768](http://arxiv.org/abs/2304.13768)|null|
+|**2023-05-03**|**Stabilizer entropy dynamics after a quantum quench**|Davide Rattacaso et.al.|[2304.13768](http://arxiv.org/abs/2304.13768)|null|
 |**2023-04-21**|**Surprises in the Deep Hilbert Space of all-to-all systems: From super-exponential scrambling to slow entanglement growth**|Zihao Qi et.al.|[2304.11138](http://arxiv.org/abs/2304.11138)|null|
 |**2023-04-20**|**Phase transition in magic with random quantum circuits**|Pradeep Niroula et.al.|[2304.10481](http://arxiv.org/abs/2304.10481)|null|
 |**2023-04-19**|**Can black holes be both fast and thorough scramblers?**|Claudio Chamon et.al.|[2304.09885](http://arxiv.org/abs/2304.09885)|null|

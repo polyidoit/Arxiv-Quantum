@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.04
+## Updated on 2023.05.05
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,9 +146,9 @@ layout: default
 |**2023-05-02**|**Performance Analysis of Quantum Error-Correcting Codes via MacWilliams Identities**|Diego Forlivesi et.al.|[2305.01301](http://arxiv.org/abs/2305.01301)|null|
 |**2023-05-01**|**Reliable Quantum Communications based on Asymmetry in Purification and Coding**|Lorenzo Valentini et.al.|[2305.00949](http://arxiv.org/abs/2305.00949)|null|
 |**2023-05-01**|**Freeform Templates: Combining Freeform Curation with Structured Templates**|Stephen MacNeil et.al.|[2305.00937](http://arxiv.org/abs/2305.00937)|null|
-|**2023-05-01**|**Low-Depth Flag-Style Syndrome Extraction for Small Quantum Error-Correction Codes**|Dhruv Bhatnagar et.al.|[2305.00784](http://arxiv.org/abs/2305.00784)|null|
+|**2023-05-01**|**Low-Depth Flag-Style Syndrome Extraction for Small Quantum Error-Correction Codes**|Dhruv Bhatnagar et.al.|[2305.00784](http://arxiv.org/abs/2305.00784)|**[link](https://github.com/dhruvbhq/lowdepthflagqec)**|
 |**2023-05-01**|**General Distance Balancing for Quantum Locally Testable Codes**|Adam Wills et.al.|[2305.00689](http://arxiv.org/abs/2305.00689)|null|
-|**2023-04-30**|**Toward Constructing a Continuous Logical Operator for Error-Corrected Quantum Sensing**|Cameron Cianci et.al.|[2305.00547](http://arxiv.org/abs/2305.00547)|null|
+|**2023-05-03**|**Toward Constructing a Continuous Logical Operator for Error-Corrected Quantum Sensing**|Cameron Cianci et.al.|[2305.00547](http://arxiv.org/abs/2305.00547)|null|
 |**2023-04-29**|**Empirical overhead of the adapted surface code on defective qubit arrays**|Sophia Fuhui Lin et.al.|[2305.00138](http://arxiv.org/abs/2305.00138)|null|
 |**2023-04-28**|**Zero noise extrapolation on logical qubits by scaling the error correction code distance**|Misty A. Wahl et.al.|[2304.14985](http://arxiv.org/abs/2304.14985)|null|
 |**2023-04-24**|**Decoupling by local random unitaries without simultaneous smoothing, and applications to multi-user quantum information tasks**|Pau Colomer Saus et.al.|[2304.12114](http://arxiv.org/abs/2304.12114)|null|

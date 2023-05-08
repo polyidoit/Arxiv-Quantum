@@ -94,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-05**|**Catalysis cannot overcome bound entanglement**|Ludovico Lami et.al.|[2305.03489](http://arxiv.org/abs/2305.03489)|null|
 |**2023-04-28**|**The resource theory of dephasing estimation in multiqubit systems**|Zishi Chen et.al.|[2304.14615](http://arxiv.org/abs/2304.14615)|null|
 |**2023-04-19**|**Resource engines**|Hanna Wojewódka-Ściążko et.al.|[2304.09559](http://arxiv.org/abs/2304.09559)|null|
 |**2023-04-18**|**Large Language Models Based Automatic Synthesis of Software Specifications**|Shantanu Mandal et.al.|[2304.09181](http://arxiv.org/abs/2304.09181)|null|
@@ -143,6 +144,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-05**|**On Belief Propagation Decoding of Quantum Codes with Quaternary Reliability Statistics**|Ching-Feng Kung et.al.|[2305.03321](http://arxiv.org/abs/2305.03321)|null|
+|**2023-05-05**|**Microarchitectures for Heterogeneous Superconducting Quantum Computers**|Samuel Stein et.al.|[2305.03243](http://arxiv.org/abs/2305.03243)|null|
 |**2023-05-04**|**Calibration of Syndrome Measurements in a Single Experiment**|Christian Wimmer et.al.|[2305.03004](http://arxiv.org/abs/2305.03004)|null|
 |**2023-05-04**|**Repetitive readout and real-time control of nuclear spin qubits in $^{171}$ Yb atoms**|William Huie et.al.|[2305.02926](http://arxiv.org/abs/2305.02926)|null|
 |**2023-05-04**|**The Quantum Internet: an Efficient Stabilizer states Distribution Scheme**|Seid Koudia et.al.|[2305.02656](http://arxiv.org/abs/2305.02656)|null|

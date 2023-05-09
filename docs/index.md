@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.08
+## Updated on 2023.05.09
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -54,7 +54,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-29**|**On the sub-additivity of stochastic matching**|Pascal Moyal et.al.|[2305.00187](http://arxiv.org/abs/2305.00187)|null|
+|**2023-05-06**|**On the sub-additivity of stochastic matching**|Pascal Moyal et.al.|[2305.00187](http://arxiv.org/abs/2305.00187)|null|
 |**2023-04-20**|**Towards quantum black hole microstates**|Sunjin Choi et.al.|[2304.10155](http://arxiv.org/abs/2304.10155)|null|
 |**2023-04-14**|**Exclusion principle for nonlocal advantage of quantum coherence**|Priya Ghosh et.al.|[2304.07154](http://arxiv.org/abs/2304.07154)|null|
 |**2023-04-17**|**On the Number of Regular Elements in $\mathbb{Z}_n$**|Klaus Dohmen et.al.|[2304.02471](http://arxiv.org/abs/2304.02471)|null|
@@ -147,7 +147,7 @@ layout: default
 |**2023-05-05**|**On Belief Propagation Decoding of Quantum Codes with Quaternary Reliability Statistics**|Ching-Feng Kung et.al.|[2305.03321](http://arxiv.org/abs/2305.03321)|null|
 |**2023-05-05**|**Microarchitectures for Heterogeneous Superconducting Quantum Computers**|Samuel Stein et.al.|[2305.03243](http://arxiv.org/abs/2305.03243)|null|
 |**2023-05-04**|**Calibration of Syndrome Measurements in a Single Experiment**|Christian Wimmer et.al.|[2305.03004](http://arxiv.org/abs/2305.03004)|null|
-|**2023-05-04**|**Repetitive readout and real-time control of nuclear spin qubits in $^{171}$ Yb atoms**|William Huie et.al.|[2305.02926](http://arxiv.org/abs/2305.02926)|null|
+|**2023-05-08**|**Repetitive readout and real-time control of nuclear spin qubits in $^{171}$ Yb atoms**|William Huie et.al.|[2305.02926](http://arxiv.org/abs/2305.02926)|null|
 |**2023-05-04**|**The Quantum Internet: an Efficient Stabilizer states Distribution Scheme**|Seid Koudia et.al.|[2305.02656](http://arxiv.org/abs/2305.02656)|null|
 |**2023-05-04**|**Mechanically Induced Correlated Errors on Superconducting Qubits with Relaxation Times Exceeding 0.4 Milliseconds**|Shingo Kono et.al.|[2305.02591](http://arxiv.org/abs/2305.02591)|null|
 |**2023-05-03**|**Approximate quantum error correction, covariance symmetry and their relation**|Hao Dai et.al.|[2305.02162](http://arxiv.org/abs/2305.02162)|null|

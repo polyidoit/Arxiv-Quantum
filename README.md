@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Certifying activation of quantum correlations with finite data**|Jonathan Steinberg et.al.|[2305.03748](http://arxiv.org/abs/2305.03748)|null|
+|**2023-05-05**|**Post-quantum nonlocality in the minimal triangle scenario**|Alejandro Pozas-Kerstjens et.al.|[2305.03745](http://arxiv.org/abs/2305.03745)|null|
 |**2023-05-04**|**Further comments on "Is the moon there if nobody looks? Bell inequalities and physical reality"**|Richard D. Gill et.al.|[2305.03026](http://arxiv.org/abs/2305.03026)|null|
 |**2023-05-04**|**Violation of Bell's inequalities in uniform random graphs**|Ioannis Kleftogiannis et.al.|[2305.02791](http://arxiv.org/abs/2305.02791)|null|
 |**2023-04-30**|**Quantum correlation generation capability of experimental processes**|Wei-Hao Huang et.al.|[2305.00370](http://arxiv.org/abs/2305.00370)|null|

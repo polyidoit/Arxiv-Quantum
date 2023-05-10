@@ -7,8 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Bell inequality is violated in $B^0\to J/ψ\, K^{\star}(892)^0$ decays**|M. Fabbrichesi et.al.|[2305.04982](http://arxiv.org/abs/2305.04982)|null|
 |**2023-05-05**|**Certifying activation of quantum correlations with finite data**|Jonathan Steinberg et.al.|[2305.03748](http://arxiv.org/abs/2305.03748)|null|
-|**2023-05-05**|**Post-quantum nonlocality in the minimal triangle scenario**|Alejandro Pozas-Kerstjens et.al.|[2305.03745](http://arxiv.org/abs/2305.03745)|null|
+|**2023-05-05**|**Post-quantum nonlocality in the minimal triangle scenario**|Alejandro Pozas-Kerstjens et.al.|[2305.03745](http://arxiv.org/abs/2305.03745)|**[link](https://github.com/apozas/minimal-triangle)**|
 |**2023-05-04**|**Further comments on "Is the moon there if nobody looks? Bell inequalities and physical reality"**|Richard D. Gill et.al.|[2305.03026](http://arxiv.org/abs/2305.03026)|null|
 |**2023-05-04**|**Violation of Bell's inequalities in uniform random graphs**|Ioannis Kleftogiannis et.al.|[2305.02791](http://arxiv.org/abs/2305.02791)|null|
 |**2023-04-30**|**Quantum correlation generation capability of experimental processes**|Wei-Hao Huang et.al.|[2305.00370](http://arxiv.org/abs/2305.00370)|null|
@@ -96,6 +97,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Quantum Error Mitigated Classical Shadows**|Hamza Jnane et.al.|[2305.04956](http://arxiv.org/abs/2305.04956)|null|
 |**2023-05-05**|**Catalysis cannot overcome bound entanglement**|Ludovico Lami et.al.|[2305.03489](http://arxiv.org/abs/2305.03489)|null|
 |**2023-04-28**|**The resource theory of dephasing estimation in multiqubit systems**|Zishi Chen et.al.|[2304.14615](http://arxiv.org/abs/2304.14615)|null|
 |**2023-04-19**|**Resource engines**|Hanna Wojewódka-Ściążko et.al.|[2304.09559](http://arxiv.org/abs/2304.09559)|null|
@@ -120,6 +122,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**A sharp phase transition in linear cross-entropy benchmarking**|Brayden Ware et.al.|[2305.04954](http://arxiv.org/abs/2305.04954)|null|
 |**2023-05-01**|**Spatial deformation of many-body quantum chaotic systems and quantum information scrambling**|Kanato Goto et.al.|[2305.01019](http://arxiv.org/abs/2305.01019)|null|
 |**2023-04-29**|**Krylov construction and complexity for driven quantum systems**|Amin A. Nizami et.al.|[2305.00256](http://arxiv.org/abs/2305.00256)|null|
 |**2023-05-03**|**Stabilizer entropy dynamics after a quantum quench**|Davide Rattacaso et.al.|[2304.13768](http://arxiv.org/abs/2304.13768)|null|
@@ -146,6 +149,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**High-fidelity gates with mid-circuit erasure conversion in a metastable neutral atom qubit**|Shuo Ma et.al.|[2305.05493](http://arxiv.org/abs/2305.05493)|null|
+|**2023-05-08**|**Fidelity and energetics of driven quantum systems for quantum computing**|Sagar Silva Pratapsi et.al.|[2305.05019](http://arxiv.org/abs/2305.05019)|null|
 |**2023-05-05**|**On Belief Propagation Decoding of Quantum Codes with Quaternary Reliability Statistics**|Ching-Feng Kung et.al.|[2305.03321](http://arxiv.org/abs/2305.03321)|null|
 |**2023-05-05**|**Microarchitectures for Heterogeneous Superconducting Quantum Computers**|Samuel Stein et.al.|[2305.03243](http://arxiv.org/abs/2305.03243)|null|
 |**2023-05-04**|**Calibration of Syndrome Measurements in a Single Experiment**|Christian Wimmer et.al.|[2305.03004](http://arxiv.org/abs/2305.03004)|null|

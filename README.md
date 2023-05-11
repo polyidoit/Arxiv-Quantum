@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Interpretation of the superposition principle and locality loophole in Bell experiments**|Sheng Feng et.al.|[2305.06022](http://arxiv.org/abs/2305.06022)|null|
 |**2023-05-08**|**Bell inequality is violated in $B^0\to J/ψ\, K^{\star}(892)^0$ decays**|M. Fabbrichesi et.al.|[2305.04982](http://arxiv.org/abs/2305.04982)|null|
 |**2023-05-05**|**Certifying activation of quantum correlations with finite data**|Jonathan Steinberg et.al.|[2305.03748](http://arxiv.org/abs/2305.03748)|null|
 |**2023-05-05**|**Post-quantum nonlocality in the minimal triangle scenario**|Alejandro Pozas-Kerstjens et.al.|[2305.03745](http://arxiv.org/abs/2305.03745)|**[link](https://github.com/apozas/minimal-triangle)**|
@@ -141,6 +142,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**On the average-case complexity of learning output distributions of quantum circuits**|Alexander Nietner et.al.|[2305.05765](http://arxiv.org/abs/2305.05765)|null|
 |**2023-05-08**|**A sharp phase transition in linear cross-entropy benchmarking**|Brayden Ware et.al.|[2305.04954](http://arxiv.org/abs/2305.04954)|null|
 |**2023-05-01**|**Spatial deformation of many-body quantum chaotic systems and quantum information scrambling**|Kanato Goto et.al.|[2305.01019](http://arxiv.org/abs/2305.01019)|null|
 |**2023-04-29**|**Krylov construction and complexity for driven quantum systems**|Amin A. Nizami et.al.|[2305.00256](http://arxiv.org/abs/2305.00256)|null|

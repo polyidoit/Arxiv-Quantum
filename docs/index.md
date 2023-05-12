@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -99,7 +99,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-08**|**Quantum Error Mitigated Classical Shadows**|Hamza Jnane et.al.|[2305.04956](http://arxiv.org/abs/2305.04956)|null|
-|**2023-05-05**|**Catalysis cannot overcome bound entanglement**|Ludovico Lami et.al.|[2305.03489](http://arxiv.org/abs/2305.03489)|null|
+|**2023-05-11**|**Catalysis cannot overcome bound entanglement**|Ludovico Lami et.al.|[2305.03489](http://arxiv.org/abs/2305.03489)|null|
 |**2023-04-28**|**The resource theory of dephasing estimation in multiqubit systems**|Zishi Chen et.al.|[2304.14615](http://arxiv.org/abs/2304.14615)|null|
 |**2023-04-19**|**Resource engines**|Hanna Wojewódka-Ściążko et.al.|[2304.09559](http://arxiv.org/abs/2304.09559)|null|
 |**2023-04-18**|**Large Language Models Based Automatic Synthesis of Software Specifications**|Shantanu Mandal et.al.|[2304.09181](http://arxiv.org/abs/2304.09181)|null|

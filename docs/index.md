@@ -98,6 +98,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**On radiation-free velocities of edge dislocations in arbitrary slip systems of anisotropic crystals**|Daniel N. Blaschke et.al.|[2305.06980](http://arxiv.org/abs/2305.06980)|null|
 |**2023-05-08**|**Quantum Error Mitigated Classical Shadows**|Hamza Jnane et.al.|[2305.04956](http://arxiv.org/abs/2305.04956)|null|
 |**2023-05-11**|**Catalysis cannot overcome bound entanglement**|Ludovico Lami et.al.|[2305.03489](http://arxiv.org/abs/2305.03489)|null|
 |**2023-04-28**|**The resource theory of dephasing estimation in multiqubit systems**|Zishi Chen et.al.|[2304.14615](http://arxiv.org/abs/2304.14615)|null|
@@ -151,6 +152,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**A Nonadditive Quantum Code with Exotic Transversal Gate Set**|Eric Kubischta et.al.|[2305.07023](http://arxiv.org/abs/2305.07023)|null|
+|**2023-05-10**|**Phase diagram of the three-dimensional subsystem toric code**|Yaodong Li et.al.|[2305.06389](http://arxiv.org/abs/2305.06389)|null|
+|**2023-05-10**|**Discovery of Optimal Quantum Error Correcting Codes via Reinforcement Learning**|Vincent Paul Su et.al.|[2305.06378](http://arxiv.org/abs/2305.06378)|null|
+|**2023-05-10**|**Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models**|Jacob C. Bridgeman et.al.|[2305.06365](http://arxiv.org/abs/2305.06365)|**[link](https://github.com/MikeVasmer/qudit-single-shot)**|
 |**2023-05-09**|**High-fidelity gates with mid-circuit erasure conversion in a metastable neutral atom qubit**|Shuo Ma et.al.|[2305.05493](http://arxiv.org/abs/2305.05493)|null|
 |**2023-05-08**|**Fidelity and energetics of driven quantum systems for quantum computing**|Sagar Silva Pratapsi et.al.|[2305.05019](http://arxiv.org/abs/2305.05019)|null|
 |**2023-05-05**|**On Belief Propagation Decoding of Quantum Codes with Quaternary Reliability Statistics**|Ching-Feng Kung et.al.|[2305.03321](http://arxiv.org/abs/2305.03321)|null|

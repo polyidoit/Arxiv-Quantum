@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**When the Machine Chimes the Bell: Entanglement and Bell Inequalities with Boosted $t\bar{t}$**|Zhongtian Dong et.al.|[2305.07075](http://arxiv.org/abs/2305.07075)|null|
 |**2023-05-10**|**Interpretation of the superposition principle and locality loophole in Bell experiments**|Sheng Feng et.al.|[2305.06022](http://arxiv.org/abs/2305.06022)|null|
 |**2023-05-08**|**Bell inequality is violated in $B^0\to J/ψ\, K^{\star}(892)^0$ decays**|M. Fabbrichesi et.al.|[2305.04982](http://arxiv.org/abs/2305.04982)|null|
 |**2023-05-05**|**Certifying activation of quantum correlations with finite data**|Jonathan Steinberg et.al.|[2305.03748](http://arxiv.org/abs/2305.03748)|null|
@@ -124,6 +125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Sparse random matrices and Gaussian ensembles with varying randomness**|Takanori Anegawa et.al.|[2305.07505](http://arxiv.org/abs/2305.07505)|null|
 |**2023-05-09**|**On the average-case complexity of learning output distributions of quantum circuits**|Alexander Nietner et.al.|[2305.05765](http://arxiv.org/abs/2305.05765)|null|
 |**2023-05-08**|**A sharp phase transition in linear cross-entropy benchmarking**|Brayden Ware et.al.|[2305.04954](http://arxiv.org/abs/2305.04954)|null|
 |**2023-05-01**|**Spatial deformation of many-body quantum chaotic systems and quantum information scrambling**|Kanato Goto et.al.|[2305.01019](http://arxiv.org/abs/2305.01019)|null|
@@ -152,6 +154,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**Generalized Noncoherent Space-Time Block Codes from Quantum Error Correction**|S. Andrew Lanham et.al.|[2305.07104](http://arxiv.org/abs/2305.07104)|null|
+|**2023-05-11**|**Enabling Full-Stack Quantum Computing with Changeable Error-Corrected Qubits**|Anbang Wu et.al.|[2305.07072](http://arxiv.org/abs/2305.07072)|null|
 |**2023-05-11**|**A Nonadditive Quantum Code with Exotic Transversal Gate Set**|Eric Kubischta et.al.|[2305.07023](http://arxiv.org/abs/2305.07023)|null|
 |**2023-05-10**|**Phase diagram of the three-dimensional subsystem toric code**|Yaodong Li et.al.|[2305.06389](http://arxiv.org/abs/2305.06389)|null|
 |**2023-05-10**|**Discovery of Optimal Quantum Error Correcting Codes via Reinforcement Learning**|Vincent Paul Su et.al.|[2305.06378](http://arxiv.org/abs/2305.06378)|null|

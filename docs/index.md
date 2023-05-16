@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Testing Bell inequalities and entanglement with di-boson final states**|Luca Marzola et.al.|[2305.08568](http://arxiv.org/abs/2305.08568)|null|
 |**2023-05-11**|**When the Machine Chimes the Bell: Entanglement and Bell Inequalities with Boosted $t\bar{t}$**|Zhongtian Dong et.al.|[2305.07075](http://arxiv.org/abs/2305.07075)|null|
 |**2023-05-10**|**Interpretation of the superposition principle and locality loophole in Bell experiments**|Sheng Feng et.al.|[2305.06022](http://arxiv.org/abs/2305.06022)|null|
 |**2023-05-08**|**Bell inequality is violated in $B^0\to J/ψ\, K^{\star}(892)^0$ decays**|M. Fabbrichesi et.al.|[2305.04982](http://arxiv.org/abs/2305.04982)|null|
@@ -154,6 +155,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**New entanglement-assisted quantum codes from negacyclic codes**|Xiaojing Chen et.al.|[2305.08517](http://arxiv.org/abs/2305.08517)|null|
+|**2023-05-15**|**Errors in heralded circuits for linear optical entanglement generation**|Reece D. Shaw et.al.|[2305.08452](http://arxiv.org/abs/2305.08452)|null|
+|**2023-05-15**|**Logarithmic light cone, slow entanglement growth and scrambling, and quantum memory**|Yu Zeng et.al.|[2305.08334](http://arxiv.org/abs/2305.08334)|null|
+|**2023-05-15**|**Fusion Blossom: Fast MWPM Decoders for QEC**|Yue Wu et.al.|[2305.08307](http://arxiv.org/abs/2305.08307)|null|
 |**2023-05-11**|**Generalized Noncoherent Space-Time Block Codes from Quantum Error Correction**|S. Andrew Lanham et.al.|[2305.07104](http://arxiv.org/abs/2305.07104)|null|
 |**2023-05-11**|**Enabling Full-Stack Quantum Computing with Changeable Error-Corrected Qubits**|Anbang Wu et.al.|[2305.07072](http://arxiv.org/abs/2305.07072)|null|
 |**2023-05-11**|**A Nonadditive Quantum Code with Exotic Transversal Gate Set**|Eric Kubischta et.al.|[2305.07023](http://arxiv.org/abs/2305.07023)|null|

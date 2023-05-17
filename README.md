@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Allowing Wigner's friend to sequentially measure incompatible observables**|Aníbal Utreras-Alarcón et.al.|[2305.09102](http://arxiv.org/abs/2305.09102)|null|
 |**2023-05-15**|**Testing Bell inequalities and entanglement with di-boson final states**|Luca Marzola et.al.|[2305.08568](http://arxiv.org/abs/2305.08568)|null|
 |**2023-05-11**|**When the Machine Chimes the Bell: Entanglement and Bell Inequalities with Boosted $t\bar{t}$**|Zhongtian Dong et.al.|[2305.07075](http://arxiv.org/abs/2305.07075)|null|
 |**2023-05-10**|**Interpretation of the superposition principle and locality loophole in Bell experiments**|Sheng Feng et.al.|[2305.06022](http://arxiv.org/abs/2305.06022)|null|
@@ -176,6 +177,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Wavelet-based Unsupervised Label-to-Image Translation**|George Eskandar et.al.|[2305.09647](http://arxiv.org/abs/2305.09647)|**[link](https://github.com/GeorgeEskandar/USIS-Unsupervised-Semantic-Image-Synthesis)**|
 |**2023-05-15**|**New entanglement-assisted quantum codes from negacyclic codes**|Xiaojing Chen et.al.|[2305.08517](http://arxiv.org/abs/2305.08517)|null|
 |**2023-05-15**|**Errors in heralded circuits for linear optical entanglement generation**|Reece D. Shaw et.al.|[2305.08452](http://arxiv.org/abs/2305.08452)|null|
 |**2023-05-15**|**Logarithmic light cone, slow entanglement growth and scrambling, and quantum memory**|Yu Zeng et.al.|[2305.08334](http://arxiv.org/abs/2305.08334)|null|

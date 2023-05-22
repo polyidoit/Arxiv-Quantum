@@ -158,6 +158,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Energy-Consumption Advantage of Quantum Computation**|Florian Meier et.al.|[2305.11212](http://arxiv.org/abs/2305.11212)|null|
 |**2023-05-18**|**Noise-adapted recovery circuits for quantum error correction**|Debjyoti Biswas et.al.|[2305.11093](http://arxiv.org/abs/2305.11093)|null|
 |**2023-05-17**|**$\mathbb{F}_q\mathcal{R}$ -skew cyclic codes and their application to quantum codes**|Om Prakash et.al.|[2305.10404](http://arxiv.org/abs/2305.10404)|null|
 |**2023-05-16**|**Wavelet-based Unsupervised Label-to-Image Translation**|George Eskandar et.al.|[2305.09647](http://arxiv.org/abs/2305.09647)|**[link](https://github.com/GeorgeEskandar/USIS-Unsupervised-Semantic-Image-Synthesis)**|

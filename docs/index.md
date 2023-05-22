@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.21
+## Updated on 2023.05.22
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -167,7 +167,7 @@ layout: default
 |**2023-05-15**|**Fusion Blossom: Fast MWPM Decoders for QEC**|Yue Wu et.al.|[2305.08307](http://arxiv.org/abs/2305.08307)|**[link](https://github.com/yale-paragon/fusion-blossom)**|
 |**2023-05-11**|**Generalized Noncoherent Space-Time Block Codes from Quantum Error Correction**|S. Andrew Lanham et.al.|[2305.07104](http://arxiv.org/abs/2305.07104)|null|
 |**2023-05-11**|**Enabling Full-Stack Quantum Computing with Changeable Error-Corrected Qubits**|Anbang Wu et.al.|[2305.07072](http://arxiv.org/abs/2305.07072)|null|
-|**2023-05-11**|**A Nonadditive Quantum Code with Exotic Transversal Gate Set**|Eric Kubischta et.al.|[2305.07023](http://arxiv.org/abs/2305.07023)|null|
+|**2023-05-19**|**A Family of Quantum Codes with Exotic Transversal Gates**|Eric Kubischta et.al.|[2305.07023](http://arxiv.org/abs/2305.07023)|null|
 |**2023-05-10**|**Phase diagram of the three-dimensional subsystem toric code**|Yaodong Li et.al.|[2305.06389](http://arxiv.org/abs/2305.06389)|null|
 |**2023-05-10**|**Discovery of Optimal Quantum Error Correcting Codes via Reinforcement Learning**|Vincent Paul Su et.al.|[2305.06378](http://arxiv.org/abs/2305.06378)|null|
 |**2023-05-10**|**Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models**|Jacob C. Bridgeman et.al.|[2305.06365](http://arxiv.org/abs/2305.06365)|**[link](https://github.com/MikeVasmer/qudit-single-shot)**|

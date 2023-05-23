@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Statistical link between Bell nonlocality and uncertainty relations**|Li-Yi Hsu et.al.|[2305.13006](http://arxiv.org/abs/2305.13006)|null|
 |**2023-05-16**|**Allowing Wigner's friend to sequentially measure incompatible observables**|Aníbal Utreras-Alarcón et.al.|[2305.09102](http://arxiv.org/abs/2305.09102)|null|
 |**2023-05-15**|**Testing Bell inequalities and entanglement with di-boson final states**|Luca Marzola et.al.|[2305.08568](http://arxiv.org/abs/2305.08568)|null|
 |**2023-05-11**|**When the Machine Chimes the Bell: Entanglement and Bell Inequalities with Boosted $t\bar{t}$**|Zhongtian Dong et.al.|[2305.07075](http://arxiv.org/abs/2305.07075)|null|
@@ -74,6 +75,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-21**|**Enhancing Biodiversity through Self-Regulation**|Seong-Gyu Yang et.al.|[2305.12341](http://arxiv.org/abs/2305.12341)|null|
 |**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|null|
 |**2023-05-06**|**On the sub-additivity of stochastic matching**|Pascal Moyal et.al.|[2305.00187](http://arxiv.org/abs/2305.00187)|null|
 |**2023-04-20**|**Towards quantum black hole microstates**|Sunjin Choi et.al.|[2304.10155](http://arxiv.org/abs/2304.10155)|null|
@@ -119,6 +121,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Development of Fe $_2$O$_3$ /YSZ ceramic plates for cryogenic operation of resistive-protected gaseous detectors**|L. Olano-Vegas et.al.|[2305.12899](http://arxiv.org/abs/2305.12899)|null|
+|**2023-05-20**|**Quantum coherence and entanglement in neutral-current neutrino oscillation in matter**|M. M. Ettefaghi et.al.|[2305.12194](http://arxiv.org/abs/2305.12194)|null|
 |**2023-05-17**|**ZeroFlow: Fast Zero Label Scene Flow via Distillation**|Kyle Vedder et.al.|[2305.10424](http://arxiv.org/abs/2305.10424)|null|
 |**2023-05-11**|**On radiation-free velocities of edge dislocations in arbitrary slip systems of anisotropic crystals**|Daniel N. Blaschke et.al.|[2305.06980](http://arxiv.org/abs/2305.06980)|null|
 |**2023-05-08**|**Quantum Error Mitigated Classical Shadows**|Hamza Jnane et.al.|[2305.04956](http://arxiv.org/abs/2305.04956)|null|
@@ -148,6 +152,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Experimental test of the Rosenzweig-Porter model for the transition from Poisson to Gaussian unitary ensemble statistics**|Xiaodong Zhang et.al.|[2305.12840](http://arxiv.org/abs/2305.12840)|null|
+|**2023-05-20**|**Superexponential behaviors of out-of-time ordered correlators and Loschmidt echo in a non-Hermitian interacting system**|Wen-Lei Zhao et.al.|[2305.12150](http://arxiv.org/abs/2305.12150)|null|
+|**2023-05-20**|**Cutoff phenomenon and entropic uncertainty for random quantum circuits**|Sangchul Oh et.al.|[2305.12078](http://arxiv.org/abs/2305.12078)|null|
+|**2023-05-20**|**Scrambling and operator entanglement in local non-Hermitian quantum systems**|Brian Barch et.al.|[2305.12054](http://arxiv.org/abs/2305.12054)|null|
+|**2023-05-19**|**Quantifying quantum chaos through microcanonical distributions of entanglement**|Joaquin F. Rodriguez-Nieva et.al.|[2305.11940](http://arxiv.org/abs/2305.11940)|null|
 |**2023-05-12**|**Sparse random matrices and Gaussian ensembles with varying randomness**|Takanori Anegawa et.al.|[2305.07505](http://arxiv.org/abs/2305.07505)|null|
 |**2023-05-09**|**On the average-case complexity of learning output distributions of quantum circuits**|Alexander Nietner et.al.|[2305.05765](http://arxiv.org/abs/2305.05765)|null|
 |**2023-05-08**|**A sharp phase transition in linear cross-entropy benchmarking**|Brayden Ware et.al.|[2305.04954](http://arxiv.org/abs/2305.04954)|null|
@@ -179,6 +188,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-21**|**Fidelity estimator, randomized benchmarking and ZNE for quantum pulses**|Jinglei Cheng et.al.|[2305.12597](http://arxiv.org/abs/2305.12597)|null|
 |**2023-05-18**|**Energy-Consumption Advantage of Quantum Computation**|Florian Meier et.al.|[2305.11212](http://arxiv.org/abs/2305.11212)|null|
 |**2023-05-18**|**Noise-adapted recovery circuits for quantum error correction**|Debjyoti Biswas et.al.|[2305.11093](http://arxiv.org/abs/2305.11093)|null|
 |**2023-05-17**|**$\mathbb{F}_q\mathcal{R}$ -skew cyclic codes and their application to quantum codes**|Om Prakash et.al.|[2305.10404](http://arxiv.org/abs/2305.10404)|null|

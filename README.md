@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
+|**2023-05-23**|**Device-independent randomness based on a tight upper bound of the maximal quantum value of chained inequality**|Youwang Xiao et.al.|[2305.14084](http://arxiv.org/abs/2305.14084)|null|
 |**2023-05-22**|**Statistical link between Bell nonlocality and uncertainty relations**|Li-Yi Hsu et.al.|[2305.13006](http://arxiv.org/abs/2305.13006)|null|
 |**2023-05-16**|**Allowing Wigner's friend to sequentially measure incompatible observables**|Aníbal Utreras-Alarcón et.al.|[2305.09102](http://arxiv.org/abs/2305.09102)|null|
 |**2023-05-15**|**Testing Bell inequalities and entanglement with di-boson final states**|Luca Marzola et.al.|[2305.08568](http://arxiv.org/abs/2305.08568)|null|
@@ -76,7 +78,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-21**|**Enhancing Biodiversity through Self-Regulation**|Seong-Gyu Yang et.al.|[2305.12341](http://arxiv.org/abs/2305.12341)|null|
-|**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|null|
+|**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|**[link](https://github.com/zhangxy0517/3d-registration-with-maximal-cliques)**|
 |**2023-05-06**|**On the sub-additivity of stochastic matching**|Pascal Moyal et.al.|[2305.00187](http://arxiv.org/abs/2305.00187)|null|
 |**2023-04-20**|**Towards quantum black hole microstates**|Sunjin Choi et.al.|[2304.10155](http://arxiv.org/abs/2304.10155)|null|
 |**2023-04-14**|**Exclusion principle for nonlocal advantage of quantum coherence**|Priya Ghosh et.al.|[2304.07154](http://arxiv.org/abs/2304.07154)|null|
@@ -99,6 +101,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
 |**2023-04-30**|**Quantum correlation generation capability of experimental processes**|Wei-Hao Huang et.al.|[2305.00370](http://arxiv.org/abs/2305.00370)|null|
 |**2023-04-21**|**Polytope compatibility -- from quantum measurements to magic squares**|Andreas Bluhm et.al.|[2304.10920](http://arxiv.org/abs/2304.10920)|null|
 |**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
@@ -152,6 +155,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Controlling quantum chaos: time-dependent kicked rotor**|Steven Tomsovic et.al.|[2305.14187](http://arxiv.org/abs/2305.14187)|null|
 |**2023-05-22**|**Experimental test of the Rosenzweig-Porter model for the transition from Poisson to Gaussian unitary ensemble statistics**|Xiaodong Zhang et.al.|[2305.12840](http://arxiv.org/abs/2305.12840)|null|
 |**2023-05-20**|**Superexponential behaviors of out-of-time ordered correlators and Loschmidt echo in a non-Hermitian interacting system**|Wen-Lei Zhao et.al.|[2305.12150](http://arxiv.org/abs/2305.12150)|null|
 |**2023-05-20**|**Cutoff phenomenon and entropic uncertainty for random quantum circuits**|Sangchul Oh et.al.|[2305.12078](http://arxiv.org/abs/2305.12078)|null|
@@ -188,6 +192,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**A Classical Architecture For Digital Quantum Computers**|Fang Zhang et.al.|[2305.14304](http://arxiv.org/abs/2305.14304)|null|
+|**2023-05-23**|**Design and Operation of Autonomous Wheelchair Towing Robot**|Hyunwoo Kang et.al.|[2305.13902](http://arxiv.org/abs/2305.13902)|null|
+|**2023-05-23**|**Layer-by-layer disentangling two-dimensional topological quantum codes**|Mohammad Hossein Zarei et.al.|[2305.13827](http://arxiv.org/abs/2305.13827)|null|
+|**2023-05-23**|**Error-Mitigated Quantum Routing on Noisy Devices**|Wenbo Shi et.al.|[2305.13574](http://arxiv.org/abs/2305.13574)|null|
 |**2023-05-21**|**Fidelity estimator, randomized benchmarking and ZNE for quantum pulses**|Jinglei Cheng et.al.|[2305.12597](http://arxiv.org/abs/2305.12597)|null|
 |**2023-05-18**|**Energy-Consumption Advantage of Quantum Computation**|Florian Meier et.al.|[2305.11212](http://arxiv.org/abs/2305.11212)|null|
 |**2023-05-18**|**Noise-adapted recovery circuits for quantum error correction**|Debjyoti Biswas et.al.|[2305.11093](http://arxiv.org/abs/2305.11093)|null|

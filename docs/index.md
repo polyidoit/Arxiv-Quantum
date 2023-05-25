@@ -64,6 +64,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Cuts in Feynman Parameter Space**|Ruth Britto et.al.|[2305.15369](http://arxiv.org/abs/2305.15369)|null|
+|**2023-05-24**|**Pairing interactions induce antiferromagnetism in cuprate superconductors**|Kuan-Ming Hung et.al.|[2305.14665](http://arxiv.org/abs/2305.14665)|null|
 |**2023-05-21**|**Enhancing Biodiversity through Self-Regulation**|Seong-Gyu Yang et.al.|[2305.12341](http://arxiv.org/abs/2305.12341)|null|
 |**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|**[link](https://github.com/zhangxy0517/3d-registration-with-maximal-cliques)**|
 |**2023-05-06**|**On the sub-additivity of stochastic matching**|Pascal Moyal et.al.|[2305.00187](http://arxiv.org/abs/2305.00187)|null|
@@ -136,6 +138,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Time-reversal Invariance Violation and Quantum Chaos Induced by Magnetization in Ferrite-Loaded Resonators**|Weihua Zhang et.al.|[2305.14753](http://arxiv.org/abs/2305.14753)|null|
 |**2023-05-23**|**Controlling quantum chaos: time-dependent kicked rotor**|Steven Tomsovic et.al.|[2305.14187](http://arxiv.org/abs/2305.14187)|null|
 |**2023-05-22**|**Experimental test of the Rosenzweig-Porter model for the transition from Poisson to Gaussian unitary ensemble statistics**|Xiaodong Zhang et.al.|[2305.12840](http://arxiv.org/abs/2305.12840)|null|
 |**2023-05-20**|**Superexponential behaviors of out-of-time ordered correlators and Loschmidt echo in a non-Hermitian interacting system**|Wen-Lei Zhao et.al.|[2305.12150](http://arxiv.org/abs/2305.12150)|null|

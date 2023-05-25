@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.24
+## Updated on 2023.05.25
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -109,7 +109,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-22**|**Development of Fe $_2$O$_3$ /YSZ ceramic plates for cryogenic operation of resistive-protected gaseous detectors**|L. Olano-Vegas et.al.|[2305.12899](http://arxiv.org/abs/2305.12899)|null|
 |**2023-05-20**|**Quantum coherence and entanglement in neutral-current neutrino oscillation in matter**|M. M. Ettefaghi et.al.|[2305.12194](http://arxiv.org/abs/2305.12194)|null|
-|**2023-05-17**|**ZeroFlow: Fast Zero Label Scene Flow via Distillation**|Kyle Vedder et.al.|[2305.10424](http://arxiv.org/abs/2305.10424)|null|
+|**2023-05-23**|**ZeroFlow: Fast Zero Label Scene Flow via Distillation**|Kyle Vedder et.al.|[2305.10424](http://arxiv.org/abs/2305.10424)|null|
 |**2023-05-11**|**On radiation-free velocities of edge dislocations in arbitrary slip systems of anisotropic crystals**|Daniel N. Blaschke et.al.|[2305.06980](http://arxiv.org/abs/2305.06980)|null|
 |**2023-05-08**|**Quantum Error Mitigated Classical Shadows**|Hamza Jnane et.al.|[2305.04956](http://arxiv.org/abs/2305.04956)|null|
 |**2023-05-11**|**Catalysis cannot overcome bound entanglement**|Ludovico Lami et.al.|[2305.03489](http://arxiv.org/abs/2305.03489)|null|

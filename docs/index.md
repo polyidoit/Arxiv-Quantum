@@ -138,6 +138,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Quantum chaos in the Dicke model and its variants**|Devvrat Tiwari et.al.|[2305.15505](http://arxiv.org/abs/2305.15505)|null|
+|**2023-05-24**|**Transient and steady-state quantum chaos in driven-dissipative bosonic systems**|Filippo Ferrari et.al.|[2305.15479](http://arxiv.org/abs/2305.15479)|null|
 |**2023-05-24**|**Time-reversal Invariance Violation and Quantum Chaos Induced by Magnetization in Ferrite-Loaded Resonators**|Weihua Zhang et.al.|[2305.14753](http://arxiv.org/abs/2305.14753)|null|
 |**2023-05-23**|**Controlling quantum chaos: time-dependent kicked rotor**|Steven Tomsovic et.al.|[2305.14187](http://arxiv.org/abs/2305.14187)|null|
 |**2023-05-22**|**Experimental test of the Rosenzweig-Porter model for the transition from Poisson to Gaussian unitary ensemble statistics**|Xiaodong Zhang et.al.|[2305.12840](http://arxiv.org/abs/2305.12840)|null|
@@ -174,6 +176,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Near-Perfect Logical Magic State Preparation on a Superconducting Quantum Processor**|Yangsen Ye et.al.|[2305.15972](http://arxiv.org/abs/2305.15972)|null|
+|**2023-05-25**|**A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes**|Mengyu Zhang et.al.|[2305.15767](http://arxiv.org/abs/2305.15767)|null|
+|**2023-05-25**|**Patient Outcome Predictions Improve Operations at a Large Hospital Network**|Liangyuan Na et.al.|[2305.15629](http://arxiv.org/abs/2305.15629)|null|
 |**2023-05-23**|**A Classical Architecture For Digital Quantum Computers**|Fang Zhang et.al.|[2305.14304](http://arxiv.org/abs/2305.14304)|null|
 |**2023-05-23**|**Design and Operation of Autonomous Wheelchair Towing Robot**|Hyunwoo Kang et.al.|[2305.13902](http://arxiv.org/abs/2305.13902)|null|
 |**2023-05-23**|**Layer-by-layer disentangling two-dimensional topological quantum codes**|Mohammad Hossein Zarei et.al.|[2305.13827](http://arxiv.org/abs/2305.13827)|null|

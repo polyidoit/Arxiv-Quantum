@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**An intrinsic causality principle in histories-based quantum theory: a proposal**|Fay Dowker et.al.|[2305.16828](http://arxiv.org/abs/2305.16828)|null|
 |**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
 |**2023-05-23**|**Device-independent randomness based on a tight upper bound of the maximal quantum value of chained inequality**|Youwang Xiao et.al.|[2305.14084](http://arxiv.org/abs/2305.14084)|null|
 |**2023-05-22**|**Statistical link between Bell nonlocality and uncertainty relations**|Li-Yi Hsu et.al.|[2305.13006](http://arxiv.org/abs/2305.13006)|null|
@@ -64,6 +65,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
 |**2023-05-24**|**Cuts in Feynman Parameter Space**|Ruth Britto et.al.|[2305.15369](http://arxiv.org/abs/2305.15369)|null|
 |**2023-05-24**|**Pairing interactions induce antiferromagnetism in cuprate superconductors**|Kuan-Ming Hung et.al.|[2305.14665](http://arxiv.org/abs/2305.14665)|null|
 |**2023-05-21**|**Enhancing Biodiversity through Self-Regulation**|Seong-Gyu Yang et.al.|[2305.12341](http://arxiv.org/abs/2305.12341)|null|
@@ -138,6 +140,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Probing scrambling and operator size distributions using random mixed states and local measurements**|Philip Daniel Blocher et.al.|[2305.16992](http://arxiv.org/abs/2305.16992)|null|
+|**2023-05-26**|**Krylov complexity and chaos in quantum mechanics**|Koji Hashimoto et.al.|[2305.16669](http://arxiv.org/abs/2305.16669)|null|
 |**2023-05-24**|**Quantum chaos in the Dicke model and its variants**|Devvrat Tiwari et.al.|[2305.15505](http://arxiv.org/abs/2305.15505)|null|
 |**2023-05-24**|**Transient and steady-state quantum chaos in driven-dissipative bosonic systems**|Filippo Ferrari et.al.|[2305.15479](http://arxiv.org/abs/2305.15479)|null|
 |**2023-05-24**|**Time-reversal Invariance Violation and Quantum Chaos Induced by Magnetization in Ferrite-Loaded Resonators**|Weihua Zhang et.al.|[2305.14753](http://arxiv.org/abs/2305.14753)|null|
@@ -176,6 +180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Extending the Computational Reach of a Superconducting Qutrit Processor**|Noah Goss et.al.|[2305.16507](http://arxiv.org/abs/2305.16507)|null|
 |**2023-05-25**|**Near-Perfect Logical Magic State Preparation on a Superconducting Quantum Processor**|Yangsen Ye et.al.|[2305.15972](http://arxiv.org/abs/2305.15972)|null|
 |**2023-05-25**|**A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes**|Mengyu Zhang et.al.|[2305.15767](http://arxiv.org/abs/2305.15767)|null|
 |**2023-05-25**|**Patient Outcome Predictions Improve Operations at a Large Hospital Network**|Liangyuan Na et.al.|[2305.15629](http://arxiv.org/abs/2305.15629)|null|

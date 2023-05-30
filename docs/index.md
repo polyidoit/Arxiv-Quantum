@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.29
+## Updated on 2023.05.30
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -65,7 +65,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-26**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
+|**2023-05-29**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
 |**2023-05-24**|**Cuts in Feynman Parameter Space**|Ruth Britto et.al.|[2305.15369](http://arxiv.org/abs/2305.15369)|null|
 |**2023-05-24**|**Pairing interactions induce antiferromagnetism in cuprate superconductors**|Kuan-Ming Hung et.al.|[2305.14665](http://arxiv.org/abs/2305.14665)|null|
 |**2023-05-21**|**Enhancing Biodiversity through Self-Regulation**|Seong-Gyu Yang et.al.|[2305.12341](http://arxiv.org/abs/2305.12341)|null|
@@ -146,7 +146,7 @@ layout: default
 |**2023-05-24**|**Transient and steady-state quantum chaos in driven-dissipative bosonic systems**|Filippo Ferrari et.al.|[2305.15479](http://arxiv.org/abs/2305.15479)|null|
 |**2023-05-24**|**Time-reversal Invariance Violation and Quantum Chaos Induced by Magnetization in Ferrite-Loaded Resonators**|Weihua Zhang et.al.|[2305.14753](http://arxiv.org/abs/2305.14753)|null|
 |**2023-05-23**|**Controlling quantum chaos: time-dependent kicked rotor**|Steven Tomsovic et.al.|[2305.14187](http://arxiv.org/abs/2305.14187)|null|
-|**2023-05-22**|**Experimental test of the Rosenzweig-Porter model for the transition from Poisson to Gaussian unitary ensemble statistics**|Xiaodong Zhang et.al.|[2305.12840](http://arxiv.org/abs/2305.12840)|null|
+|**2023-05-28**|**Experimental test of the Rosenzweig-Porter model for the transition from Poisson to Gaussian unitary ensemble statistics**|Xiaodong Zhang et.al.|[2305.12840](http://arxiv.org/abs/2305.12840)|null|
 |**2023-05-20**|**Superexponential behaviors of out-of-time ordered correlators and Loschmidt echo in a non-Hermitian interacting system**|Wen-Lei Zhao et.al.|[2305.12150](http://arxiv.org/abs/2305.12150)|null|
 |**2023-05-20**|**Cutoff phenomenon and entropic uncertainty for random quantum circuits**|Sangchul Oh et.al.|[2305.12078](http://arxiv.org/abs/2305.12078)|null|
 |**2023-05-20**|**Scrambling and operator entanglement in local non-Hermitian quantum systems**|Brian Barch et.al.|[2305.12054](http://arxiv.org/abs/2305.12054)|null|

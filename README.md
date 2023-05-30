@@ -78,6 +78,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**Novel Machine Learning and Differentiable Programming Techniques applied to the VIP-2 Underground Experiment**|F Napolitano et.al.|[2305.17153](http://arxiv.org/abs/2305.17153)|null|
 |**2023-05-29**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
 |**2023-05-24**|**Cuts in Feynman Parameter Space**|Ruth Britto et.al.|[2305.15369](http://arxiv.org/abs/2305.15369)|null|
 |**2023-05-24**|**Pairing interactions induce antiferromagnetism in cuprate superconductors**|Kuan-Ming Hung et.al.|[2305.14665](http://arxiv.org/abs/2305.14665)|null|
@@ -159,6 +160,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-27**|**Quantum collapse and exponential growth of out-of-time-ordered correlator in anisotropic**|Shangyun Wang et.al.|[2305.17495](http://arxiv.org/abs/2305.17495)|null|
 |**2023-05-26**|**Probing scrambling and operator size distributions using random mixed states and local measurements**|Philip Daniel Blocher et.al.|[2305.16992](http://arxiv.org/abs/2305.16992)|null|
 |**2023-05-26**|**Krylov complexity and chaos in quantum mechanics**|Koji Hashimoto et.al.|[2305.16669](http://arxiv.org/abs/2305.16669)|null|
 |**2023-05-24**|**Quantum chaos in the Dicke model and its variants**|Devvrat Tiwari et.al.|[2305.15505](http://arxiv.org/abs/2305.15505)|null|
@@ -201,6 +203,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-27**|**Improved belief propagation decoding algorithm based on decoupling representation of Pauli operators for quantum LDPC codes**|Zhengzhong Yi et.al.|[2305.17505](http://arxiv.org/abs/2305.17505)|null|
 |**2023-05-25**|**Extending the Computational Reach of a Superconducting Qutrit Processor**|Noah Goss et.al.|[2305.16507](http://arxiv.org/abs/2305.16507)|null|
 |**2023-05-25**|**Near-Perfect Logical Magic State Preparation on a Superconducting Quantum Processor**|Yangsen Ye et.al.|[2305.15972](http://arxiv.org/abs/2305.15972)|null|
 |**2023-05-25**|**A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes**|Mengyu Zhang et.al.|[2305.15767](http://arxiv.org/abs/2305.15767)|null|

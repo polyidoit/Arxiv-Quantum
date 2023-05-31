@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**The quantum maxima for the basic graphs of exclusivity are not reachable in Bell scenarios**|Lucas E. A. Porto et.al.|[2305.19247](http://arxiv.org/abs/2305.19247)|null|
 |**2023-05-26**|**An intrinsic causality principle in histories-based quantum theory: a proposal**|Fay Dowker et.al.|[2305.16828](http://arxiv.org/abs/2305.16828)|null|
 |**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
 |**2023-05-23**|**Device-independent randomness based on a tight upper bound of the maximal quantum value of chained inequality**|Youwang Xiao et.al.|[2305.14084](http://arxiv.org/abs/2305.14084)|null|
@@ -160,6 +161,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Efficient stabilizer entropies for quantum computers**|Tobias Haug et.al.|[2305.19152](http://arxiv.org/abs/2305.19152)|null|
+|**2023-05-29**|**Majorana Loop Models for Measurement-Only Quantum Circuits**|Kai Klocke et.al.|[2305.18559](http://arxiv.org/abs/2305.18559)|null|
 |**2023-05-27**|**Quantum collapse and exponential growth of out-of-time-ordered correlator in anisotropic**|Shangyun Wang et.al.|[2305.17495](http://arxiv.org/abs/2305.17495)|null|
 |**2023-05-26**|**Probing scrambling and operator size distributions using random mixed states and local measurements**|Philip Daniel Blocher et.al.|[2305.16992](http://arxiv.org/abs/2305.16992)|null|
 |**2023-05-26**|**Krylov complexity and chaos in quantum mechanics**|Koji Hashimoto et.al.|[2305.16669](http://arxiv.org/abs/2305.16669)|null|
@@ -203,6 +206,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Mid-circuit operations using the omg-architecture in neutral atom arrays**|Joanna W. Lis et.al.|[2305.19266](http://arxiv.org/abs/2305.19266)|null|
+|**2023-05-30**|**Colored E-Graph: Equality Reasoning with Conditions**|Eytan Singher et.al.|[2305.19203](http://arxiv.org/abs/2305.19203)|null|
+|**2023-05-30**|**Mid-circuit qubit measurement and rearrangement in a $^{171}$ Yb atomic array**|M. A. Norcia et.al.|[2305.19119](http://arxiv.org/abs/2305.19119)|null|
+|**2023-05-30**|**The Quantum Perron-Frobenius Space**|Linzhe Huang et.al.|[2305.18971](http://arxiv.org/abs/2305.18971)|null|
+|**2023-05-29**|**Strictly local Union-Find**|Tim Chan et.al.|[2305.18534](http://arxiv.org/abs/2305.18534)|null|
 |**2023-05-27**|**Improved belief propagation decoding algorithm based on decoupling representation of Pauli operators for quantum LDPC codes**|Zhengzhong Yi et.al.|[2305.17505](http://arxiv.org/abs/2305.17505)|null|
 |**2023-05-25**|**Extending the Computational Reach of a Superconducting Qutrit Processor**|Noah Goss et.al.|[2305.16507](http://arxiv.org/abs/2305.16507)|null|
 |**2023-05-25**|**Near-Perfect Logical Magic State Preparation on a Superconducting Quantum Processor**|Yangsen Ye et.al.|[2305.15972](http://arxiv.org/abs/2305.15972)|null|

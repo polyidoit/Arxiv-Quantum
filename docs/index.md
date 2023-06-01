@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.31
+## Updated on 2023.06.01
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -115,7 +115,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-22**|**Development of Fe $_2$O$_3$ /YSZ ceramic plates for cryogenic operation of resistive-protected gaseous detectors**|L. Olano-Vegas et.al.|[2305.12899](http://arxiv.org/abs/2305.12899)|null|
 |**2023-05-20**|**Quantum coherence and entanglement in neutral-current neutrino oscillation in matter**|M. M. Ettefaghi et.al.|[2305.12194](http://arxiv.org/abs/2305.12194)|null|
-|**2023-05-23**|**ZeroFlow: Fast Zero Label Scene Flow via Distillation**|Kyle Vedder et.al.|[2305.10424](http://arxiv.org/abs/2305.10424)|null|
+|**2023-05-31**|**ZeroFlow: Fast Zero Label Scene Flow via Distillation**|Kyle Vedder et.al.|[2305.10424](http://arxiv.org/abs/2305.10424)|null|
 |**2023-05-11**|**On radiation-free velocities of edge dislocations in arbitrary slip systems of anisotropic crystals**|Daniel N. Blaschke et.al.|[2305.06980](http://arxiv.org/abs/2305.06980)|null|
 |**2023-05-08**|**Quantum Error Mitigated Classical Shadows**|Hamza Jnane et.al.|[2305.04956](http://arxiv.org/abs/2305.04956)|null|
 |**2023-05-11**|**Catalysis cannot overcome bound entanglement**|Ludovico Lami et.al.|[2305.03489](http://arxiv.org/abs/2305.03489)|null|
@@ -144,7 +144,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-30**|**Efficient stabilizer entropies for quantum computers**|Tobias Haug et.al.|[2305.19152](http://arxiv.org/abs/2305.19152)|null|
 |**2023-05-29**|**Majorana Loop Models for Measurement-Only Quantum Circuits**|Kai Klocke et.al.|[2305.18559](http://arxiv.org/abs/2305.18559)|null|
-|**2023-05-27**|**Quantum collapse and exponential growth of out-of-time-ordered correlator in anisotropic**|Shangyun Wang et.al.|[2305.17495](http://arxiv.org/abs/2305.17495)|null|
+|**2023-05-31**|**Quantum collapse and exponential growth of out-of-time-ordered correlator in anisotropic quantum Rabi model**|Shangyun Wang et.al.|[2305.17495](http://arxiv.org/abs/2305.17495)|null|
 |**2023-05-26**|**Probing scrambling and operator size distributions using random mixed states and local measurements**|Philip Daniel Blocher et.al.|[2305.16992](http://arxiv.org/abs/2305.16992)|null|
 |**2023-05-26**|**Krylov complexity and chaos in quantum mechanics**|Koji Hashimoto et.al.|[2305.16669](http://arxiv.org/abs/2305.16669)|null|
 |**2023-05-24**|**Quantum chaos in the Dicke model and its variants**|Devvrat Tiwari et.al.|[2305.15505](http://arxiv.org/abs/2305.15505)|null|
@@ -192,7 +192,7 @@ layout: default
 |**2023-05-29**|**Strictly local Union-Find**|Tim Chan et.al.|[2305.18534](http://arxiv.org/abs/2305.18534)|null|
 |**2023-05-27**|**Improved belief propagation decoding algorithm based on decoupling representation of Pauli operators for quantum LDPC codes**|Zhengzhong Yi et.al.|[2305.17505](http://arxiv.org/abs/2305.17505)|null|
 |**2023-05-25**|**Extending the Computational Reach of a Superconducting Qutrit Processor**|Noah Goss et.al.|[2305.16507](http://arxiv.org/abs/2305.16507)|null|
-|**2023-05-25**|**Near-Perfect Logical Magic State Preparation on a Superconducting Quantum Processor**|Yangsen Ye et.al.|[2305.15972](http://arxiv.org/abs/2305.15972)|null|
+|**2023-05-31**|**Logical Magic State Preparation with Fidelity Beyond the Distillation Threshold on a Superconducting Quantum Processor**|Yangsen Ye et.al.|[2305.15972](http://arxiv.org/abs/2305.15972)|null|
 |**2023-05-25**|**A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes**|Mengyu Zhang et.al.|[2305.15767](http://arxiv.org/abs/2305.15767)|null|
 |**2023-05-25**|**Patient Outcome Predictions Improve Operations at a Large Hospital Network**|Liangyuan Na et.al.|[2305.15629](http://arxiv.org/abs/2305.15629)|null|
 |**2023-05-23**|**A Classical Architecture For Digital Quantum Computers**|Fang Zhang et.al.|[2305.14304](http://arxiv.org/abs/2305.14304)|null|

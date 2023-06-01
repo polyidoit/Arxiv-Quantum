@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|null|
+|**2023-05-31**|**(Semi-)-device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
 |**2023-05-30**|**The quantum maxima for the basic graphs of exclusivity are not reachable in Bell scenarios**|Lucas E. A. Porto et.al.|[2305.19247](http://arxiv.org/abs/2305.19247)|null|
 |**2023-05-26**|**An intrinsic causality principle in histories-based quantum theory: a proposal**|Fay Dowker et.al.|[2305.16828](http://arxiv.org/abs/2305.16828)|null|
 |**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
@@ -59,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Higher-order Process Matrix Tomography of a passively-stable Quantum SWITCH**|Michael Antesberger et.al.|[2305.19386](http://arxiv.org/abs/2305.19386)|null|
 |**2023-05-02**|**Transformations between arbitrary (quantum) objects and the emergence of indefinite causality**|Simon Milz et.al.|[2305.01247](http://arxiv.org/abs/2305.01247)|**[link](https://github.com/mtcq/higherorderprojectors)**|
 |**2023-04-20**|**Realization of algorithmic identification of cause and effect in quantum correlations**|Zhao-An Wang et.al.|[2304.10192](http://arxiv.org/abs/2304.10192)|null|
 |**2023-04-26**|**Entanglement-enhanced dual-comb spectroscopy**|Haowei Shi et.al.|[2304.01516](http://arxiv.org/abs/2304.01516)|null|
@@ -161,6 +164,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Probing post-measurement entanglement without post-selection**|Samuel J. Garratt et.al.|[2305.20092](http://arxiv.org/abs/2305.20092)|null|
+|**2023-05-30**|**Quantum scrambling via accessible tripartite information**|Gabriele Lo Monaco et.al.|[2305.19334](http://arxiv.org/abs/2305.19334)|null|
+|**2023-05-30**|**Quantum Chaos and Coherence: Random Parametric Quantum Channels**|Apollonas S. Matsoukas-Roubeas et.al.|[2305.19326](http://arxiv.org/abs/2305.19326)|null|
 |**2023-05-30**|**Efficient stabilizer entropies for quantum computers**|Tobias Haug et.al.|[2305.19152](http://arxiv.org/abs/2305.19152)|null|
 |**2023-05-29**|**Majorana Loop Models for Measurement-Only Quantum Circuits**|Kai Klocke et.al.|[2305.18559](http://arxiv.org/abs/2305.18559)|null|
 |**2023-05-31**|**Quantum collapse and exponential growth of out-of-time-ordered correlator in anisotropic quantum Rabi model**|Shangyun Wang et.al.|[2305.17495](http://arxiv.org/abs/2305.17495)|null|
@@ -206,6 +212,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Quantum Trajectory Approach to Error Mitigation**|Brecht. I. C Donvil et.al.|[2305.19874](http://arxiv.org/abs/2305.19874)|null|
 |**2023-05-30**|**Mid-circuit operations using the omg-architecture in neutral atom arrays**|Joanna W. Lis et.al.|[2305.19266](http://arxiv.org/abs/2305.19266)|null|
 |**2023-05-30**|**Colored E-Graph: Equality Reasoning with Conditions**|Eytan Singher et.al.|[2305.19203](http://arxiv.org/abs/2305.19203)|null|
 |**2023-05-30**|**Mid-circuit qubit measurement and rearrangement in a $^{171}$ Yb atomic array**|M. A. Norcia et.al.|[2305.19119](http://arxiv.org/abs/2305.19119)|null|

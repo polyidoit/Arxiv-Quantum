@@ -133,6 +133,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Traveling Waves of Modified Leslie-Gower Predator-prey Systems**|Hongliang Li et.al.|[2306.00701](http://arxiv.org/abs/2306.00701)|null|
 |**2023-05-22**|**Development of Fe $_2$O$_3$ /YSZ ceramic plates for cryogenic operation of resistive-protected gaseous detectors**|L. Olano-Vegas et.al.|[2305.12899](http://arxiv.org/abs/2305.12899)|null|
 |**2023-05-20**|**Quantum coherence and entanglement in neutral-current neutrino oscillation in matter**|M. M. Ettefaghi et.al.|[2305.12194](http://arxiv.org/abs/2305.12194)|null|
 |**2023-05-31**|**ZeroFlow: Fast Zero Label Scene Flow via Distillation**|Kyle Vedder et.al.|[2305.10424](http://arxiv.org/abs/2305.10424)|null|
@@ -164,6 +165,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Information Trapping by Topologically Protected Edge States: Scrambling and the Butterfly Velocity**|Martyna Sedlmayr et.al.|[2306.00527](http://arxiv.org/abs/2306.00527)|null|
 |**2023-05-31**|**Probing post-measurement entanglement without post-selection**|Samuel J. Garratt et.al.|[2305.20092](http://arxiv.org/abs/2305.20092)|null|
 |**2023-05-30**|**Quantum scrambling via accessible tripartite information**|Gabriele Lo Monaco et.al.|[2305.19334](http://arxiv.org/abs/2305.19334)|null|
 |**2023-05-30**|**Quantum Chaos and Coherence: Random Parametric Quantum Channels**|Apollonas S. Matsoukas-Roubeas et.al.|[2305.19326](http://arxiv.org/abs/2305.19326)|null|
@@ -212,6 +214,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**The Quantum Entropy Cone near its Apex**|Matthias Christandl et.al.|[2306.00199](http://arxiv.org/abs/2306.00199)|null|
+|**2023-05-31**|**A Hamming-Like Bound for Degenerate Stabilizer Codes**|Andrew Nemec et.al.|[2306.00048](http://arxiv.org/abs/2306.00048)|null|
 |**2023-05-31**|**Quantum Trajectory Approach to Error Mitigation**|Brecht. I. C Donvil et.al.|[2305.19874](http://arxiv.org/abs/2305.19874)|null|
 |**2023-05-30**|**Mid-circuit operations using the omg-architecture in neutral atom arrays**|Joanna W. Lis et.al.|[2305.19266](http://arxiv.org/abs/2305.19266)|null|
 |**2023-05-30**|**Colored E-Graph: Equality Reasoning with Conditions**|Eytan Singher et.al.|[2305.19203](http://arxiv.org/abs/2305.19203)|null|

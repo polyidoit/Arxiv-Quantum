@@ -34,11 +34,11 @@ keywords:
         "Quantum Bayes' Rule", "Symmetric Bloom",
         "Process matrix", "Quantum Comb", "Quantum Causality", "spacetime state",
         "doubled density operator", "Leggett-Garg inequality", "quantum causal influence",
-        "quantum causal modelling",
-        "temporal correlations", "spatiotemporal correlation"]
+        "quantum causal modelling", "temporal quantum process", "spatiotemporal doubled density operator",
+        "temporal quantum correlations", "spatiotemporal quantum correlation"]
     "Quantum contextuality":
-        filters: ["Kochen-Specker","Exclusivity Principle",
-                  "Compatibility graph", "Contextuality", "KCBS inequality"]
+        filters: ["Kochen-Specker contextuality","Exclusivity Principle", "no-disturbance principle",
+                  "Compatibility graph", "quantum contextuality", "KCBS inequality"]
     "Quantum steering":
         filters: ["EPR steering","Quantum Steering",
                   "Steering inequality", "Temporal steering", "Genuine steering"]

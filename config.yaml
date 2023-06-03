@@ -30,8 +30,8 @@ keywords:
         "GHZ paradox", 
         "EPR paradox"]
     "Quantum causal model":
-        filters: ["Pseudo-density operator", "Pseudo-density matrix", "Pseudo-density matrices", 
-        "Quantum Bayes' Rule", "Symmetric Bloom",
+        filters: ["pseudo-density operator", "pseudo-density matrix", 
+        "Quantum Bayes' Rule", "Symmetric Bloom", "quantum state over time",
         "Process matrix", "Quantum Comb", "Quantum Causality", "spacetime state",
         "doubled density operator", "Leggett-Garg inequality", "quantum causal influence",
         "quantum causal modelling", "temporal quantum process", "spatiotemporal doubled density operator",

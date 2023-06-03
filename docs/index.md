@@ -60,8 +60,11 @@ layout: default
 |**2023-05-30**|**Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction**|Chen Min et.al.|[2305.18829](http://arxiv.org/abs/2305.18829)|**[link](https://github.com/chaytonmin/occ-bev)**|
 |**2023-05-30**|**Graph Neural Processes for Spatio-Temporal Extrapolation**|Junfeng Hu et.al.|[2305.18719](http://arxiv.org/abs/2305.18719)|**[link](https://github.com/hjf1997/STGNP)**|
 |**2023-06-01**|**Graph-based Multi-ODE Neural Networks for Spatio-Temporal Traffic Forecasting**|Zibo Liu et.al.|[2305.18687](http://arxiv.org/abs/2305.18687)|**[link](https://github.com/zbliu98/gram-ode)**|
+|**2023-05-26**|**The spatiotemporal doubled density operator: a unified framework for analyzing spatial and temporal quantum processes**|Zhian Jia et.al.|[2305.15649](http://arxiv.org/abs/2305.15649)|null|
 |**2023-05-02**|**Transformations between arbitrary (quantum) objects and the emergence of indefinite causality**|Simon Milz et.al.|[2305.01247](http://arxiv.org/abs/2305.01247)|**[link](https://github.com/mtcq/higherorderprojectors)**|
+|**2023-04-24**|**Observing super-quantum correlations across the exceptional point in a single, two-level trapped ion**|Alexander Quinn et.al.|[2304.12413](http://arxiv.org/abs/2304.12413)|null|
 |**2023-04-20**|**Realization of algorithmic identification of cause and effect in quantum correlations**|Zhao-An Wang et.al.|[2304.10192](http://arxiv.org/abs/2304.10192)|null|
+|**2023-04-13**|**Maximizing temporal quantum correlation by approaching an exceptional point**|Chun-Wang Wu et.al.|[2304.06590](http://arxiv.org/abs/2304.06590)|null|
 |**2023-04-26**|**Entanglement-enhanced dual-comb spectroscopy**|Haowei Shi et.al.|[2304.01516](http://arxiv.org/abs/2304.01516)|null|
 |**2023-03-23**|**Consistent Quantum Causes**|Robert B. Griffiths et.al.|[2303.13617](http://arxiv.org/abs/2303.13617)|null|
 |**2023-03-22**|**Quantum space-time marginal problem: global causal structure from local causal information**|Zhian Jia et.al.|[2303.12819](http://arxiv.org/abs/2303.12819)|null|
@@ -81,9 +84,13 @@ layout: default
 |**2023-05-26**|**Novel Machine Learning and Differentiable Programming Techniques applied to the VIP-2 Underground Experiment**|F Napolitano et.al.|[2305.17153](http://arxiv.org/abs/2305.17153)|null|
 |**2023-05-29**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
 |**2023-05-24**|**Cuts in Feynman Parameter Space**|Ruth Britto et.al.|[2305.15369](http://arxiv.org/abs/2305.15369)|null|
+|**2023-05-24**|**Quantitative Relations Between Different Measurement Contexts**|Ming Ji et.al.|[2305.14873](http://arxiv.org/abs/2305.14873)|null|
 |**2023-05-24**|**Pairing interactions induce antiferromagnetism in cuprate superconductors**|Kuan-Ming Hung et.al.|[2305.14665](http://arxiv.org/abs/2305.14665)|null|
 |**2023-05-21**|**Enhancing Biodiversity through Self-Regulation**|Seong-Gyu Yang et.al.|[2305.12341](http://arxiv.org/abs/2305.12341)|null|
 |**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|**[link](https://github.com/zhangxy0517/3d-registration-with-maximal-cliques)**|
+|**2023-05-17**|**New and improved bounds on the contextuality degree of multi-qubit configurations**|Axel Muller et.al.|[2305.10225](http://arxiv.org/abs/2305.10225)|null|
+|**2023-05-14**|**Kochen-Specker Contextuality**|Mladen Pavicic et.al.|[2305.08267](http://arxiv.org/abs/2305.08267)|null|
+|**2023-05-13**|**Simplicial techniques for operator solutions of linear constraint systems**|Ho Yiu Chung et.al.|[2305.07974](http://arxiv.org/abs/2305.07974)|null|
 |**2023-05-06**|**On the sub-additivity of stochastic matching**|Pascal Moyal et.al.|[2305.00187](http://arxiv.org/abs/2305.00187)|null|
 |**2023-04-20**|**Towards quantum black hole microstates**|Sunjin Choi et.al.|[2304.10155](http://arxiv.org/abs/2304.10155)|null|
 |**2023-04-14**|**Exclusion principle for nonlocal advantage of quantum coherence**|Priya Ghosh et.al.|[2304.07154](http://arxiv.org/abs/2304.07154)|null|

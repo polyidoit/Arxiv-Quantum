@@ -50,7 +50,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting, and Prior Correction**|Robert A. Marsden et.al.|[2306.00650](http://arxiv.org/abs/2306.00650)|null|
+|**2023-05-31**|**Latent Exploration for Reinforcement Learning**|Alberto Silvio Chiappa et.al.|[2305.20065](http://arxiv.org/abs/2305.20065)|**[link](https://github.com/amathislab/lattice)**|
+|**2023-05-31**|**(Semi-)-device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
 |**2023-05-30**|**Higher-order Process Matrix Tomography of a passively-stable Quantum SWITCH**|Michael Antesberger et.al.|[2305.19386](http://arxiv.org/abs/2305.19386)|null|
+|**2023-05-30**|**On the Choice of Perception Loss Function for Learned Video Compression**|Sadaf Salehkalaibar et.al.|[2305.19301](http://arxiv.org/abs/2305.19301)|null|
+|**2023-05-30**|**Witnessing environment dimension through temporal correlations**|Lucas B. Vieira et.al.|[2305.19175](http://arxiv.org/abs/2305.19175)|null|
+|**2023-05-30**|**EmotionGesture: Audio-Driven Diverse Emotional Co-Speech 3D Gesture Generation**|Xingqun Qi et.al.|[2305.18891](http://arxiv.org/abs/2305.18891)|null|
+|**2023-05-30**|**Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction**|Chen Min et.al.|[2305.18829](http://arxiv.org/abs/2305.18829)|**[link](https://github.com/chaytonmin/occ-bev)**|
+|**2023-05-30**|**Graph Neural Processes for Spatio-Temporal Extrapolation**|Junfeng Hu et.al.|[2305.18719](http://arxiv.org/abs/2305.18719)|**[link](https://github.com/hjf1997/STGNP)**|
+|**2023-06-01**|**Graph-based Multi-ODE Neural Networks for Spatio-Temporal Traffic Forecasting**|Zibo Liu et.al.|[2305.18687](http://arxiv.org/abs/2305.18687)|**[link](https://github.com/zbliu98/gram-ode)**|
 |**2023-05-02**|**Transformations between arbitrary (quantum) objects and the emergence of indefinite causality**|Simon Milz et.al.|[2305.01247](http://arxiv.org/abs/2305.01247)|**[link](https://github.com/mtcq/higherorderprojectors)**|
 |**2023-04-20**|**Realization of algorithmic identification of cause and effect in quantum correlations**|Zhao-An Wang et.al.|[2304.10192](http://arxiv.org/abs/2304.10192)|null|
 |**2023-04-26**|**Entanglement-enhanced dual-comb spectroscopy**|Haowei Shi et.al.|[2304.01516](http://arxiv.org/abs/2304.01516)|null|

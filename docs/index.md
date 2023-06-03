@@ -166,7 +166,7 @@ layout: default
 |**2023-05-31**|**Probing post-measurement entanglement without post-selection**|Samuel J. Garratt et.al.|[2305.20092](http://arxiv.org/abs/2305.20092)|null|
 |**2023-05-30**|**Quantum scrambling via accessible tripartite information**|Gabriele Lo Monaco et.al.|[2305.19334](http://arxiv.org/abs/2305.19334)|null|
 |**2023-05-30**|**Quantum Chaos and Coherence: Random Parametric Quantum Channels**|Apollonas S. Matsoukas-Roubeas et.al.|[2305.19326](http://arxiv.org/abs/2305.19326)|null|
-|**2023-05-30**|**Efficient stabilizer entropies for quantum computers**|Tobias Haug et.al.|[2305.19152](http://arxiv.org/abs/2305.19152)|null|
+|**2023-05-30**|**Efficient stabilizer entropies for quantum computers**|Tobias Haug et.al.|[2305.19152](http://arxiv.org/abs/2305.19152)|**[link](https://github.com/txhaug/stabilizer_entropy)**|
 |**2023-05-29**|**Majorana Loop Models for Measurement-Only Quantum Circuits**|Kai Klocke et.al.|[2305.18559](http://arxiv.org/abs/2305.18559)|null|
 |**2023-05-31**|**Quantum collapse and exponential growth of out-of-time-ordered correlator in anisotropic quantum Rabi model**|Shangyun Wang et.al.|[2305.17495](http://arxiv.org/abs/2305.17495)|null|
 |**2023-05-26**|**Probing scrambling and operator size distributions using random mixed states and local measurements**|Philip Daniel Blocher et.al.|[2305.16992](http://arxiv.org/abs/2305.16992)|null|

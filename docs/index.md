@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Topological methods for studying contextuality: $N$ -cycle scenarios and beyond**|Aziz Kharoof et.al.|[2306.01459](http://arxiv.org/abs/2306.01459)|null|
 |**2023-05-31**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|null|
 |**2023-05-31**|**(Semi-)-device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
 |**2023-05-30**|**The quantum maxima for the basic graphs of exclusivity are not reachable in Bell scenarios**|Lucas E. A. Porto et.al.|[2305.19247](http://arxiv.org/abs/2305.19247)|null|
@@ -132,6 +133,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Axis-symmetric Onsager Clustered States of Point Vortices in a Bounded Domain**|Yanqi Xiong et.al.|[2306.01409](http://arxiv.org/abs/2306.01409)|null|
 |**2023-06-01**|**Traveling Waves of Modified Leslie-Gower Predator-prey Systems**|Hongliang Li et.al.|[2306.00701](http://arxiv.org/abs/2306.00701)|null|
 |**2023-05-22**|**Development of Fe $_2$O$_3$ /YSZ ceramic plates for cryogenic operation of resistive-protected gaseous detectors**|L. Olano-Vegas et.al.|[2305.12899](http://arxiv.org/abs/2305.12899)|null|
 |**2023-05-20**|**Quantum coherence and entanglement in neutral-current neutrino oscillation in matter**|M. M. Ettefaghi et.al.|[2305.12194](http://arxiv.org/abs/2305.12194)|null|
@@ -162,6 +164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Fast quantum state preparation and bath dynamics using non-Gaussian variational ansatz and quantum optimal control**|Liam J. Bond et.al.|[2306.01730](http://arxiv.org/abs/2306.01730)|null|
 |**2023-06-01**|**Information Trapping by Topologically Protected Edge States: Scrambling and the Butterfly Velocity**|Martyna Sedlmayr et.al.|[2306.00527](http://arxiv.org/abs/2306.00527)|null|
 |**2023-05-31**|**Probing post-measurement entanglement without post-selection**|Samuel J. Garratt et.al.|[2305.20092](http://arxiv.org/abs/2305.20092)|null|
 |**2023-05-30**|**Quantum scrambling via accessible tripartite information**|Gabriele Lo Monaco et.al.|[2305.19334](http://arxiv.org/abs/2305.19334)|null|
@@ -209,6 +212,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**A low-crosstalk double-side addressing system using acousto-optic deflectors for atomic ion qubits**|Rui-Rui Li et.al.|[2306.01307](http://arxiv.org/abs/2306.01307)|null|
+|**2023-06-01**|**On AG codes from a generalization of the Deligne-Lustzig curve of Suzuki type**|Marco Timpanella et.al.|[2306.01142](http://arxiv.org/abs/2306.01142)|null|
 |**2023-05-31**|**The Quantum Entropy Cone near its Apex**|Matthias Christandl et.al.|[2306.00199](http://arxiv.org/abs/2306.00199)|null|
 |**2023-05-31**|**A Hamming-Like Bound for Degenerate Stabilizer Codes**|Andrew Nemec et.al.|[2306.00048](http://arxiv.org/abs/2306.00048)|null|
 |**2023-05-31**|**Quantum Trajectory Approach to Error Mitigation**|Brecht. I. C Donvil et.al.|[2305.19874](http://arxiv.org/abs/2305.19874)|null|

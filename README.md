@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Separation theorems and Bell inequalities in algebraic quantum mechanics**|Guido Bacciagaluppi et.al.|[2306.01909](http://arxiv.org/abs/2306.01909)|null|
 |**2023-06-02**|**Topological methods for studying contextuality: $N$ -cycle scenarios and beyond**|Aziz Kharoof et.al.|[2306.01459](http://arxiv.org/abs/2306.01459)|null|
 |**2023-05-31**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|null|
 |**2023-05-31**|**(Semi-)-device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
@@ -62,6 +63,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**On dynamical measures of quantum information**|James Fullwood et.al.|[2306.01831](http://arxiv.org/abs/2306.01831)|null|
 |**2023-06-01**|**Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting, and Prior Correction**|Robert A. Marsden et.al.|[2306.00650](http://arxiv.org/abs/2306.00650)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
 |**2023-05-31**|**Latent Exploration for Reinforcement Learning**|Alberto Silvio Chiappa et.al.|[2305.20065](http://arxiv.org/abs/2305.20065)|**[link](https://github.com/amathislab/lattice)**|
 |**2023-05-31**|**(Semi-)-device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
@@ -150,6 +152,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Deep Generalized Green's Functions**|Rixi Peng et.al.|[2306.02925](http://arxiv.org/abs/2306.02925)|null|
 |**2023-06-02**|**Axis-symmetric Onsager Clustered States of Point Vortices in a Bounded Domain**|Yanqi Xiong et.al.|[2306.01409](http://arxiv.org/abs/2306.01409)|null|
 |**2023-06-01**|**Traveling Waves of Modified Leslie-Gower Predator-prey Systems**|Hongliang Li et.al.|[2306.00701](http://arxiv.org/abs/2306.00701)|null|
 |**2023-05-22**|**Development of Fe $_2$O$_3$ /YSZ ceramic plates for cryogenic operation of resistive-protected gaseous detectors**|L. Olano-Vegas et.al.|[2305.12899](http://arxiv.org/abs/2305.12899)|null|
@@ -233,6 +236,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Preserving a qubit during adjacent measurements at a few micrometers distance**|Sainath Motlakunta et.al.|[2306.03075](http://arxiv.org/abs/2306.03075)|null|
 |**2023-06-02**|**A low-crosstalk double-side addressing system using acousto-optic deflectors for atomic ion qubits**|Rui-Rui Li et.al.|[2306.01307](http://arxiv.org/abs/2306.01307)|null|
 |**2023-06-01**|**On AG codes from a generalization of the Deligne-Lustzig curve of Suzuki type**|Marco Timpanella et.al.|[2306.01142](http://arxiv.org/abs/2306.01142)|null|
 |**2023-05-31**|**The Quantum Entropy Cone near its Apex**|Matthias Christandl et.al.|[2306.00199](http://arxiv.org/abs/2306.00199)|null|

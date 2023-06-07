@@ -186,6 +186,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Perturbative OTOC and Quantum Chaos in Harmonic Oscillators : Second Quantization Method**|Wung-Hong Huang et.al.|[2306.03644](http://arxiv.org/abs/2306.03644)|null|
 |**2023-06-02**|**Fast quantum state preparation and bath dynamics using non-Gaussian variational ansatz and quantum optimal control**|Liam J. Bond et.al.|[2306.01730](http://arxiv.org/abs/2306.01730)|null|
 |**2023-06-01**|**Information Trapping by Topologically Protected Edge States: Scrambling and the Butterfly Velocity**|Martyna Sedlmayr et.al.|[2306.00527](http://arxiv.org/abs/2306.00527)|null|
 |**2023-05-31**|**Probing post-measurement entanglement without post-selection**|Samuel J. Garratt et.al.|[2305.20092](http://arxiv.org/abs/2305.20092)|null|
@@ -236,6 +237,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**A Substrate Scheduler for Compiling Arbitrary Fault-tolerant Graph States**|Sitong Liu et.al.|[2306.03758](http://arxiv.org/abs/2306.03758)|null|
+|**2023-06-06**|**Universal Robust Geometric Quantum Control via Geometric Trajectory Correction**|Tao Chen et.al.|[2306.03732](http://arxiv.org/abs/2306.03732)|null|
+|**2023-06-06**|**Control and Readout of a 13-level Trapped Ion Qudit**|Pei Jiang Low et.al.|[2306.03340](http://arxiv.org/abs/2306.03340)|null|
 |**2023-06-05**|**Preserving a qubit during adjacent measurements at a few micrometers distance**|Sainath Motlakunta et.al.|[2306.03075](http://arxiv.org/abs/2306.03075)|null|
 |**2023-06-02**|**A low-crosstalk double-side addressing system using acousto-optic deflectors for atomic ion qubits**|Rui-Rui Li et.al.|[2306.01307](http://arxiv.org/abs/2306.01307)|null|
 |**2023-06-01**|**On AG codes from a generalization of the Deligne-Lustzig curve of Suzuki type**|Marco Timpanella et.al.|[2306.01142](http://arxiv.org/abs/2306.01142)|null|

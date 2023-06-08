@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Locality and Exceptional Points in Pseudo-Hermitian Physics**|Jacob L. Barnett et.al.|[2306.04044](http://arxiv.org/abs/2306.04044)|null|
+|**2023-06-06**|**Non-adaptive measurement-based quantum computation on IBM Q**|Jelena Mackeprang et.al.|[2306.03939](http://arxiv.org/abs/2306.03939)|null|
 |**2023-06-02**|**Separation theorems and Bell inequalities in algebraic quantum mechanics**|Guido Bacciagaluppi et.al.|[2306.01909](http://arxiv.org/abs/2306.01909)|null|
 |**2023-06-02**|**Topological methods for studying contextuality: $N$ -cycle scenarios and beyond**|Aziz Kharoof et.al.|[2306.01459](http://arxiv.org/abs/2306.01459)|null|
 |**2023-05-31**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|null|
@@ -186,6 +188,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Probing Dynamical Sensitivity of a Non-KAM System Through Out-of-Time-Order Correlators**|Naga Dileep Varikuti et.al.|[2306.04209](http://arxiv.org/abs/2306.04209)|null|
 |**2023-06-06**|**Perturbative OTOC and Quantum Chaos in Harmonic Oscillators : Second Quantization Method**|Wung-Hong Huang et.al.|[2306.03644](http://arxiv.org/abs/2306.03644)|null|
 |**2023-06-02**|**Fast quantum state preparation and bath dynamics using non-Gaussian variational ansatz and quantum optimal control**|Liam J. Bond et.al.|[2306.01730](http://arxiv.org/abs/2306.01730)|null|
 |**2023-06-01**|**Information Trapping by Topologically Protected Edge States: Scrambling and the Butterfly Velocity**|Martyna Sedlmayr et.al.|[2306.00527](http://arxiv.org/abs/2306.00527)|null|

@@ -116,6 +116,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Deep learning the hierarchy of steering measurement settings of qubit-pair states**|Hong-Ming Wang et.al.|[2306.05201](http://arxiv.org/abs/2306.05201)|null|
 |**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
 |**2023-04-30**|**Quantum correlation generation capability of experimental processes**|Wei-Hao Huang et.al.|[2305.00370](http://arxiv.org/abs/2305.00370)|null|
 |**2023-04-21**|**Polytope compatibility -- from quantum measurements to magic squares**|Andreas Bluhm et.al.|[2304.10920](http://arxiv.org/abs/2304.10920)|null|
@@ -219,7 +220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-06**|**A Substrate Scheduler for Compiling Arbitrary Fault-tolerant Graph States**|Sitong Liu et.al.|[2306.03758](http://arxiv.org/abs/2306.03758)|null|
+|**2023-06-08**|**Quantum Wasserstein distance between unitary operations**|Xinyu Qiu et.al.|[2306.04878](http://arxiv.org/abs/2306.04878)|null|
+|**2023-06-06**|**A Substrate Scheduler for Compiling Arbitrary Fault-tolerant Graph States**|Sitong Liu et.al.|[2306.03758](http://arxiv.org/abs/2306.03758)|**[link](https://github.com/sfc-aqua/gosc-graph-state-generation)**|
 |**2023-06-06**|**Universal Robust Geometric Quantum Control via Geometric Trajectory Correction**|Tao Chen et.al.|[2306.03732](http://arxiv.org/abs/2306.03732)|null|
 |**2023-06-06**|**Control and Readout of a 13-level Trapped Ion Qudit**|Pei Jiang Low et.al.|[2306.03340](http://arxiv.org/abs/2306.03340)|null|
 |**2023-06-05**|**Preserving a qubit during adjacent measurements at a few micrometers distance**|Sainath Motlakunta et.al.|[2306.03075](http://arxiv.org/abs/2306.03075)|null|

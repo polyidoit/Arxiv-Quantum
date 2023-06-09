@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -125,7 +125,7 @@ layout: default
 |**2023-03-28**|**Tutorial: Nonlinear magnonics**|Shasha Zheng et.al.|[2303.16313](http://arxiv.org/abs/2303.16313)|null|
 |**2023-03-27**|**Genuine Multipartite Nonlocality for All Isolated Many-body Systems**|Ming-Xing Luo et.al.|[2303.14943](http://arxiv.org/abs/2303.14943)|null|
 |**2023-03-21**|**Stronger EPR-steering criterion based on Schrodinger-Robertson uncertainty relation**|Laxmi Prasad Naik et.al.|[2303.11914](http://arxiv.org/abs/2303.11914)|null|
-|**2023-03-14**|**Quantum Steering Algorithm for Estimating Fidelity of Separability**|Aby Philip et.al.|[2303.07911](http://arxiv.org/abs/2303.07911)|null|
+|**2023-06-07**|**Schrödinger as a Quantum Programmer: Estimating Entanglement via Steering**|Aby Philip et.al.|[2303.07911](http://arxiv.org/abs/2303.07911)|null|
 |**2023-03-12**|**Enhanced entanglement and controlling quantum steering in a Laguerre-Gaussian cavity optomechanical system with two rotating mirrors**|Amjad Sohail et.al.|[2303.06685](http://arxiv.org/abs/2303.06685)|null|
 |**2023-04-04**|**Activation of quantum steering sharing with unsharp nonlocal product measurements**|Xin-Hong Han et.al.|[2303.05954](http://arxiv.org/abs/2303.05954)|null|
 |**2023-03-25**|**State Preparation on Quantum Computers via Quantum Steering**|Daniel Volya et.al.|[2302.13518](http://arxiv.org/abs/2302.13518)|null|

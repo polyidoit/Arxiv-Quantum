@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Violation of the Finner inequality in the four-output triangle network**|Antoine Girardin et.al.|[2306.05922](http://arxiv.org/abs/2306.05922)|**[link](https://github.com/Antoine0Girardin/Inflation-OPI-4-triangle)**|
+|**2023-06-09**|**Sums of squares certificates for polynomial moment inequalities**|Igor Klep et.al.|[2306.05761](http://arxiv.org/abs/2306.05761)|null|
 |**2023-06-06**|**Locality and Exceptional Points in Pseudo-Hermitian Physics**|Jacob L. Barnett et.al.|[2306.04044](http://arxiv.org/abs/2306.04044)|null|
 |**2023-06-06**|**Non-adaptive measurement-based quantum computation on IBM Q**|Jelena Mackeprang et.al.|[2306.03939](http://arxiv.org/abs/2306.03939)|null|
 |**2023-06-02**|**Separation theorems and Bell inequalities in algebraic quantum mechanics**|Guido Bacciagaluppi et.al.|[2306.01909](http://arxiv.org/abs/2306.01909)|null|
@@ -54,6 +56,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Unification of spatiotemporal quantum formalisms: mapping between process and pseudo-density matrices via multiple-time states**|Xiangjing Liu et.al.|[2306.05958](http://arxiv.org/abs/2306.05958)|null|
 |**2023-06-02**|**On dynamical measures of quantum information**|James Fullwood et.al.|[2306.01831](http://arxiv.org/abs/2306.01831)|null|
 |**2023-06-01**|**Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting, and Prior Correction**|Robert A. Marsden et.al.|[2306.00650](http://arxiv.org/abs/2306.00650)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
 |**2023-05-31**|**Latent Exploration for Reinforcement Learning**|Alberto Silvio Chiappa et.al.|[2305.20065](http://arxiv.org/abs/2305.20065)|**[link](https://github.com/amathislab/lattice)**|
@@ -86,6 +89,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**NuCLR: Nuclear Co-Learned Representations**|Ouail Kitouni et.al.|[2306.06099](http://arxiv.org/abs/2306.06099)|null|
 |**2023-05-26**|**Novel Machine Learning and Differentiable Programming Techniques applied to the VIP-2 Underground Experiment**|F Napolitano et.al.|[2305.17153](http://arxiv.org/abs/2305.17153)|null|
 |**2023-05-29**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
 |**2023-05-24**|**Cuts in Feynman Parameter Space**|Ruth Britto et.al.|[2305.15369](http://arxiv.org/abs/2305.15369)|null|
@@ -220,6 +224,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Quantum LDPC codes from intersecting subsets**|Dimiter Ostrev et.al.|[2306.06056](http://arxiv.org/abs/2306.06056)|null|
 |**2023-06-08**|**Quantum Wasserstein distance between unitary operations**|Xinyu Qiu et.al.|[2306.04878](http://arxiv.org/abs/2306.04878)|null|
 |**2023-06-06**|**A Substrate Scheduler for Compiling Arbitrary Fault-tolerant Graph States**|Sitong Liu et.al.|[2306.03758](http://arxiv.org/abs/2306.03758)|**[link](https://github.com/sfc-aqua/gosc-graph-state-generation)**|
 |**2023-06-06**|**Universal Robust Geometric Quantum Control via Geometric Trajectory Correction**|Tao Chen et.al.|[2306.03732](http://arxiv.org/abs/2306.03732)|null|

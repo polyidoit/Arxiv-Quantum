@@ -1,4 +1,4 @@
-## Updated on 2023.06.12
+## Updated on 2023.06.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,7 +23,7 @@
 |**2023-06-02**|**Separation theorems and Bell inequalities in algebraic quantum mechanics**|Guido Bacciagaluppi et.al.|[2306.01909](http://arxiv.org/abs/2306.01909)|null|
 |**2023-06-02**|**Topological methods for studying contextuality: $N$ -cycle scenarios and beyond**|Aziz Kharoof et.al.|[2306.01459](http://arxiv.org/abs/2306.01459)|null|
 |**2023-05-31**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|null|
-|**2023-05-31**|**(Semi-)-device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
+|**2023-06-12**|**(Semi-)device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
 |**2023-05-30**|**The quantum maxima for the basic graphs of exclusivity are not reachable in Bell scenarios**|Lucas E. A. Porto et.al.|[2305.19247](http://arxiv.org/abs/2305.19247)|null|
 |**2023-05-26**|**An intrinsic causality principle in histories-based quantum theory: a proposal**|Fay Dowker et.al.|[2305.16828](http://arxiv.org/abs/2305.16828)|null|
 |**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
@@ -61,7 +61,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -96,7 +96,7 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -107,7 +107,7 @@
 |**2023-05-29**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
 |**2023-05-24**|**Cuts in Feynman Parameter Space**|Ruth Britto et.al.|[2305.15369](http://arxiv.org/abs/2305.15369)|null|
 |**2023-05-24**|**Quantitative Relations Between Different Measurement Contexts**|Ming Ji et.al.|[2305.14873](http://arxiv.org/abs/2305.14873)|null|
-|**2023-05-24**|**Pairing interactions induce antiferromagnetism in cuprate superconductors**|Kuan-Ming Hung et.al.|[2305.14665](http://arxiv.org/abs/2305.14665)|null|
+|**2023-06-10**|**Pairing interactions induce antiferromagnetism in cuprate superconductors**|Kuan-Ming Hung et.al.|[2305.14665](http://arxiv.org/abs/2305.14665)|null|
 |**2023-05-21**|**Enhancing Biodiversity through Self-Regulation**|Seong-Gyu Yang et.al.|[2305.12341](http://arxiv.org/abs/2305.12341)|null|
 |**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|**[link](https://github.com/zhangxy0517/3d-registration-with-maximal-cliques)**|
 |**2023-05-17**|**New and improved bounds on the contextuality degree of multi-qubit configurations**|Axel Muller et.al.|[2305.10225](http://arxiv.org/abs/2305.10225)|null|
@@ -129,7 +129,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -153,7 +153,7 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## Resource theory
 
@@ -187,7 +187,7 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -239,7 +239,7 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -327,5 +327,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 

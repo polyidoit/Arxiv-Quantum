@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.12
+## Updated on 2023.06.13
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -14,7 +14,7 @@ layout: default
 |**2023-06-02**|**Separation theorems and Bell inequalities in algebraic quantum mechanics**|Guido Bacciagaluppi et.al.|[2306.01909](http://arxiv.org/abs/2306.01909)|null|
 |**2023-06-02**|**Topological methods for studying contextuality: $N$ -cycle scenarios and beyond**|Aziz Kharoof et.al.|[2306.01459](http://arxiv.org/abs/2306.01459)|null|
 |**2023-05-31**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|null|
-|**2023-05-31**|**(Semi-)-device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
+|**2023-06-12**|**(Semi-)device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
 |**2023-05-30**|**The quantum maxima for the basic graphs of exclusivity are not reachable in Bell scenarios**|Lucas E. A. Porto et.al.|[2305.19247](http://arxiv.org/abs/2305.19247)|null|
 |**2023-05-26**|**An intrinsic causality principle in histories-based quantum theory: a proposal**|Fay Dowker et.al.|[2305.16828](http://arxiv.org/abs/2305.16828)|null|
 |**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
@@ -94,7 +94,7 @@ layout: default
 |**2023-05-29**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
 |**2023-05-24**|**Cuts in Feynman Parameter Space**|Ruth Britto et.al.|[2305.15369](http://arxiv.org/abs/2305.15369)|null|
 |**2023-05-24**|**Quantitative Relations Between Different Measurement Contexts**|Ming Ji et.al.|[2305.14873](http://arxiv.org/abs/2305.14873)|null|
-|**2023-05-24**|**Pairing interactions induce antiferromagnetism in cuprate superconductors**|Kuan-Ming Hung et.al.|[2305.14665](http://arxiv.org/abs/2305.14665)|null|
+|**2023-06-10**|**Pairing interactions induce antiferromagnetism in cuprate superconductors**|Kuan-Ming Hung et.al.|[2305.14665](http://arxiv.org/abs/2305.14665)|null|
 |**2023-05-21**|**Enhancing Biodiversity through Self-Regulation**|Seong-Gyu Yang et.al.|[2305.12341](http://arxiv.org/abs/2305.12341)|null|
 |**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|**[link](https://github.com/zhangxy0517/3d-registration-with-maximal-cliques)**|
 |**2023-05-17**|**New and improved bounds on the contextuality degree of multi-qubit configurations**|Axel Muller et.al.|[2305.10225](http://arxiv.org/abs/2305.10225)|null|

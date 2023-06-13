@@ -89,6 +89,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Quantum contextuality of complementary photon polarizations explored by adaptive input state control**|Kengo Matsuyama et.al.|[2306.06831](http://arxiv.org/abs/2306.06831)|null|
 |**2023-06-09**|**NuCLR: Nuclear Co-Learned Representations**|Ouail Kitouni et.al.|[2306.06099](http://arxiv.org/abs/2306.06099)|null|
 |**2023-05-26**|**Novel Machine Learning and Differentiable Programming Techniques applied to the VIP-2 Underground Experiment**|F Napolitano et.al.|[2305.17153](http://arxiv.org/abs/2305.17153)|null|
 |**2023-05-29**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
@@ -224,6 +225,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Resource-efficient fault-tolerant one-way quantum repeater with code concatenation**|Kah Jen Wo et.al.|[2306.07224](http://arxiv.org/abs/2306.07224)|null|
 |**2023-06-09**|**Quantum LDPC codes from intersecting subsets**|Dimiter Ostrev et.al.|[2306.06056](http://arxiv.org/abs/2306.06056)|null|
 |**2023-06-08**|**Quantum Wasserstein distance between unitary operations**|Xinyu Qiu et.al.|[2306.04878](http://arxiv.org/abs/2306.04878)|null|
 |**2023-06-06**|**A Substrate Scheduler for Compiling Arbitrary Fault-tolerant Graph States**|Sitong Liu et.al.|[2306.03758](http://arxiv.org/abs/2306.03758)|**[link](https://github.com/sfc-aqua/gosc-graph-state-generation)**|

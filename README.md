@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**An Elementary Proof That Everett's Quantum Multiverse Is Nonlocal: Bell-Locality and Branch-Symmetry in the Many-Worlds Interpretation**|Aurélien Drezet et.al.|[2306.07794](http://arxiv.org/abs/2306.07794)|null|
 |**2023-06-09**|**Violation of the Finner inequality in the four-output triangle network**|Antoine Girardin et.al.|[2306.05922](http://arxiv.org/abs/2306.05922)|**[link](https://github.com/Antoine0Girardin/Inflation-OPI-4-triangle)**|
 |**2023-06-09**|**Sums of squares certificates for polynomial moment inequalities**|Igor Klep et.al.|[2306.05761](http://arxiv.org/abs/2306.05761)|null|
 |**2023-06-06**|**Locality and Exceptional Points in Pseudo-Hermitian Physics**|Jacob L. Barnett et.al.|[2306.04044](http://arxiv.org/abs/2306.04044)|null|
@@ -194,6 +195,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**Out-of-time-order correlators and Lyapunov exponents in sparse SYK**|Elena Cáceres et.al.|[2306.07345](http://arxiv.org/abs/2306.07345)|null|
 |**2023-06-07**|**Probing Dynamical Sensitivity of a Non-KAM System Through Out-of-Time-Order Correlators**|Naga Dileep Varikuti et.al.|[2306.04209](http://arxiv.org/abs/2306.04209)|null|
 |**2023-06-06**|**Perturbative OTOC and Quantum Chaos in Harmonic Oscillators : Second Quantization Method**|Wung-Hong Huang et.al.|[2306.03644](http://arxiv.org/abs/2306.03644)|null|
 |**2023-06-02**|**Fast quantum state preparation and bath dynamics using non-Gaussian variational ansatz and quantum optimal control**|Liam J. Bond et.al.|[2306.01730](http://arxiv.org/abs/2306.01730)|null|
@@ -246,7 +248,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-12**|**Resource-efficient fault-tolerant one-way quantum repeater with code concatenation**|Kah Jen Wo et.al.|[2306.07224](http://arxiv.org/abs/2306.07224)|null|
+|**2023-06-13**|**Goppa code and quantum stabilizer codes from plane curves given by separated polynomials**|Vahid Nourozi et.al.|[2306.07833](http://arxiv.org/abs/2306.07833)|null|
+|**2023-06-13**|**Pipeline quantum processor architecture for silicon spin qubits**|S. M. Patomäki et.al.|[2306.07673](http://arxiv.org/abs/2306.07673)|null|
+|**2023-06-12**|**Resource-efficient fault-tolerant one-way quantum repeater with code concatenation**|Kah Jen Wo et.al.|[2306.07224](http://arxiv.org/abs/2306.07224)|**[link](https://github.com/bernwo/code-concatenated-quantum-repeater)**|
 |**2023-06-09**|**Quantum LDPC codes from intersecting subsets**|Dimiter Ostrev et.al.|[2306.06056](http://arxiv.org/abs/2306.06056)|null|
 |**2023-06-08**|**Quantum Wasserstein distance between unitary operations**|Xinyu Qiu et.al.|[2306.04878](http://arxiv.org/abs/2306.04878)|null|
 |**2023-06-06**|**A Substrate Scheduler for Compiling Arbitrary Fault-tolerant Graph States**|Sitong Liu et.al.|[2306.03758](http://arxiv.org/abs/2306.03758)|**[link](https://github.com/sfc-aqua/gosc-graph-state-generation)**|

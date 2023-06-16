@@ -68,6 +68,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Causal classification of spatiotemporal quantum correlations**|Minjeong Song et.al.|[2306.09336](http://arxiv.org/abs/2306.09336)|null|
+|**2023-06-15**|**Single-Step Parity Check Gate Set for Quantum Error Correction**|Gözde Üstün et.al.|[2306.08849](http://arxiv.org/abs/2306.08849)|null|
 |**2023-06-09**|**Unification of spatiotemporal quantum formalisms: mapping between process and pseudo-density matrices via multiple-time states**|Xiangjing Liu et.al.|[2306.05958](http://arxiv.org/abs/2306.05958)|null|
 |**2023-06-02**|**On dynamical measures of quantum information**|James Fullwood et.al.|[2306.01831](http://arxiv.org/abs/2306.01831)|null|
 |**2023-06-01**|**Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting, and Prior Correction**|Robert A. Marsden et.al.|[2306.00650](http://arxiv.org/abs/2306.00650)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
@@ -161,6 +163,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**A kinetic study of black hole activation by local plasma injection into the inner magnetosphere**|Idan Niv et.al.|[2306.09161](http://arxiv.org/abs/2306.09161)|null|
+|**2023-05-22**|**Fundamental connections between utility theories of wealth and information theory**|Andres F. Ducuara et.al.|[2306.07975](http://arxiv.org/abs/2306.07975)|null|
 |**2023-06-05**|**Deep Generalized Green's Functions**|Rixi Peng et.al.|[2306.02925](http://arxiv.org/abs/2306.02925)|null|
 |**2023-06-02**|**Axis-symmetric Onsager Clustered States of Point Vortices in a Bounded Domain**|Yanqi Xiong et.al.|[2306.01409](http://arxiv.org/abs/2306.01409)|null|
 |**2023-06-01**|**Traveling Waves of Modified Leslie-Gower Predator-prey Systems**|Hongliang Li et.al.|[2306.00701](http://arxiv.org/abs/2306.00701)|null|
@@ -248,6 +252,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Single-Step Parity Check Gate Set for Quantum Error Correction**|Gözde Üstün et.al.|[2306.08849](http://arxiv.org/abs/2306.08849)|null|
+|**2023-06-14**|**How to compute a 256-bit elliptic curve private key with only 50 million Toffoli gates**|Daniel Litinski et.al.|[2306.08585](http://arxiv.org/abs/2306.08585)|null|
 |**2023-06-13**|**Goppa code and quantum stabilizer codes from plane curves given by separated polynomials**|Vahid Nourozi et.al.|[2306.07833](http://arxiv.org/abs/2306.07833)|null|
 |**2023-06-13**|**Pipeline quantum processor architecture for silicon spin qubits**|S. M. Patomäki et.al.|[2306.07673](http://arxiv.org/abs/2306.07673)|null|
 |**2023-06-12**|**Resource-efficient fault-tolerant one-way quantum repeater with code concatenation**|Kah Jen Wo et.al.|[2306.07224](http://arxiv.org/abs/2306.07224)|**[link](https://github.com/bernwo/code-concatenated-quantum-repeater)**|

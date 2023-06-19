@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Experimental storage of photonic polarization entanglement in a broadband cyclical quantum memory**|C. J. Evans et.al.|[2306.09986](http://arxiv.org/abs/2306.09986)|null|
 |**2023-06-13**|**An Elementary Proof That Everett's Quantum Multiverse Is Nonlocal: Bell-Locality and Branch-Symmetry in the Many-Worlds Interpretation**|Aurélien Drezet et.al.|[2306.07794](http://arxiv.org/abs/2306.07794)|null|
 |**2023-06-09**|**Violation of the Finner inequality in the four-output triangle network**|Antoine Girardin et.al.|[2306.05922](http://arxiv.org/abs/2306.05922)|**[link](https://github.com/Antoine0Girardin/Inflation-OPI-4-triangle)**|
 |**2023-06-09**|**Sums of squares certificates for polynomial moment inequalities**|Igor Klep et.al.|[2306.05761](http://arxiv.org/abs/2306.05761)|null|
@@ -252,6 +253,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Union $\unicode{x2013}$find quantum decoding without union$\unicode{x2013}$ find**|Sam J. Griffiths et.al.|[2306.09767](http://arxiv.org/abs/2306.09767)|null|
 |**2023-06-15**|**Single-Step Parity Check Gate Set for Quantum Error Correction**|Gözde Üstün et.al.|[2306.08849](http://arxiv.org/abs/2306.08849)|**[link](https://github.com/apassenger/error-analysis-in-qec)**|
 |**2023-06-14**|**How to compute a 256-bit elliptic curve private key with only 50 million Toffoli gates**|Daniel Litinski et.al.|[2306.08585](http://arxiv.org/abs/2306.08585)|null|
 |**2023-06-13**|**Goppa code and quantum stabilizer codes from plane curves given by separated polynomials**|Vahid Nourozi et.al.|[2306.07833](http://arxiv.org/abs/2306.07833)|null|

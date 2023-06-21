@@ -164,6 +164,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**A Compendious Review of Majorization-Based Resource Theories: Quantum Information and Quantum Thermodynamics**|Gökhan Torun et.al.|[2306.11513](http://arxiv.org/abs/2306.11513)|null|
+|**2023-06-20**|**Triadic approximation for contagions on higher-order networks**|Giulio Burgio et.al.|[2306.11441](http://arxiv.org/abs/2306.11441)|null|
 |**2023-06-15**|**A kinetic study of black hole activation by local plasma injection into the inner magnetosphere**|Idan Niv et.al.|[2306.09161](http://arxiv.org/abs/2306.09161)|null|
 |**2023-05-22**|**Fundamental connections between utility theories of wealth and information theory**|Andres F. Ducuara et.al.|[2306.07975](http://arxiv.org/abs/2306.07975)|null|
 |**2023-06-05**|**Deep Generalized Green's Functions**|Rixi Peng et.al.|[2306.02925](http://arxiv.org/abs/2306.02925)|null|
@@ -253,6 +255,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Multimode bosonic cat codes with an easily implementable universal gate set**|Aurélie Denys et.al.|[2306.11621](http://arxiv.org/abs/2306.11621)|null|
+|**2023-06-17**|**Encoder Circuit For Surface Code using Measurement-Based Quantum Computing Model**|Priyam Srivastava et.al.|[2306.10267](http://arxiv.org/abs/2306.10267)|null|
 |**2023-06-16**|**Union $\unicode{x2013}$find quantum decoding without union$\unicode{x2013}$ find**|Sam J. Griffiths et.al.|[2306.09767](http://arxiv.org/abs/2306.09767)|null|
 |**2023-06-15**|**Single-Step Parity Check Gate Set for Quantum Error Correction**|Gözde Üstün et.al.|[2306.08849](http://arxiv.org/abs/2306.08849)|**[link](https://github.com/apassenger/error-analysis-in-qec)**|
 |**2023-06-14**|**How to compute a 256-bit elliptic curve private key with only 50 million Toffoli gates**|Daniel Litinski et.al.|[2306.08585](http://arxiv.org/abs/2306.08585)|null|

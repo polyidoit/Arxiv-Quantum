@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -15,7 +15,7 @@ layout: default
 |**2023-06-06**|**Non-adaptive measurement-based quantum computation on IBM Q**|Jelena Mackeprang et.al.|[2306.03939](http://arxiv.org/abs/2306.03939)|null|
 |**2023-06-02**|**Separation theorems and Bell inequalities in algebraic quantum mechanics**|Guido Bacciagaluppi et.al.|[2306.01909](http://arxiv.org/abs/2306.01909)|null|
 |**2023-06-02**|**Topological methods for studying contextuality: $N$ -cycle scenarios and beyond**|Aziz Kharoof et.al.|[2306.01459](http://arxiv.org/abs/2306.01459)|null|
-|**2023-06-16**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|null|
+|**2023-06-16**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|**[link](https://github.com/petersidajaya/neural-network-fyp)**|
 |**2023-06-12**|**(Semi-)device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
 |**2023-05-30**|**The quantum maxima for the basic graphs of exclusivity are not reachable in Bell scenarios**|Lucas E. A. Porto et.al.|[2305.19247](http://arxiv.org/abs/2305.19247)|null|
 |**2023-05-26**|**An intrinsic causality principle in histories-based quantum theory: a proposal**|Fay Dowker et.al.|[2305.16828](http://arxiv.org/abs/2305.16828)|null|
@@ -182,8 +182,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-12**|**Out-of-time-order correlators and Lyapunov exponents in sparse SYK**|Elena Cáceres et.al.|[2306.07345](http://arxiv.org/abs/2306.07345)|null|
-|**2023-06-07**|**Probing Dynamical Sensitivity of a Non-KAM System Through Out-of-Time-Order Correlators**|Naga Dileep Varikuti et.al.|[2306.04209](http://arxiv.org/abs/2306.04209)|null|
-|**2023-06-06**|**Perturbative OTOC and Quantum Chaos in Harmonic Oscillators : Second Quantization Method**|Wung-Hong Huang et.al.|[2306.03644](http://arxiv.org/abs/2306.03644)|null|
+|**2023-06-17**|**Probing Dynamical Sensitivity of a Non-KAM System Through Out-of-Time-Order Correlators**|Naga Dileep Varikuti et.al.|[2306.04209](http://arxiv.org/abs/2306.04209)|null|
+|**2023-06-18**|**Perturbative OTOC and Quantum Chaos in Harmonic Oscillators : Second Quantization Method**|Wung-Hong Huang et.al.|[2306.03644](http://arxiv.org/abs/2306.03644)|null|
 |**2023-06-02**|**Fast quantum state preparation and bath dynamics using non-Gaussian variational ansatz and quantum optimal control**|Liam J. Bond et.al.|[2306.01730](http://arxiv.org/abs/2306.01730)|null|
 |**2023-06-01**|**Information Trapping by Topologically Protected Edge States: Scrambling and the Butterfly Velocity**|Martyna Sedlmayr et.al.|[2306.00527](http://arxiv.org/abs/2306.00527)|null|
 |**2023-05-31**|**Probing post-measurement entanglement without post-selection**|Samuel J. Garratt et.al.|[2305.20092](http://arxiv.org/abs/2305.20092)|null|

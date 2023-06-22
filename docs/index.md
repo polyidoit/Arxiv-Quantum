@@ -93,6 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-21**|**Best-case scenarios for neutrino capture experiments**|Kyrylo Bondarenko et.al.|[2306.12366](http://arxiv.org/abs/2306.12366)|null|
 |**2023-06-12**|**Quantum contextuality of complementary photon polarizations explored by adaptive input state control**|Kengo Matsuyama et.al.|[2306.06831](http://arxiv.org/abs/2306.06831)|null|
 |**2023-06-09**|**NuCLR: Nuclear Co-Learned Representations**|Ouail Kitouni et.al.|[2306.06099](http://arxiv.org/abs/2306.06099)|null|
 |**2023-05-26**|**Novel Machine Learning and Differentiable Programming Techniques applied to the VIP-2 Underground Experiment**|F Napolitano et.al.|[2305.17153](http://arxiv.org/abs/2305.17153)|null|
@@ -183,6 +184,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**Single-quasiparticle eigenstate thermalization**|Piotr Tokarczyk et.al.|[2306.11829](http://arxiv.org/abs/2306.11829)|null|
+|**2023-06-20**|**Complete Hilbert-Space Ergodicity in Quantum Dynamics of Generalized Fibonacci Drives**|Saúl Pilatowsky-Cameo et.al.|[2306.11792](http://arxiv.org/abs/2306.11792)|null|
 |**2023-06-12**|**Out-of-time-order correlators and Lyapunov exponents in sparse SYK**|Elena Cáceres et.al.|[2306.07345](http://arxiv.org/abs/2306.07345)|null|
 |**2023-06-17**|**Probing Dynamical Sensitivity of a Non-KAM System Through Out-of-Time-Order Correlators**|Naga Dileep Varikuti et.al.|[2306.04209](http://arxiv.org/abs/2306.04209)|null|
 |**2023-06-18**|**Perturbative OTOC and Quantum Chaos in Harmonic Oscillators : Second Quantization Method**|Wung-Hong Huang et.al.|[2306.03644](http://arxiv.org/abs/2306.03644)|null|

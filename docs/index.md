@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Bell nonlocality in maximal-length quantum mechanics**|Pasquale Bosso et.al.|[2306.13067](http://arxiv.org/abs/2306.13067)|null|
+|**2023-06-22**|**Violation of Bell inequality by photon scattering on a two-level emitter**|Shikai Liu et.al.|[2306.12801](http://arxiv.org/abs/2306.12801)|null|
+|**2023-06-21**|**A formalization of the CHSH inequality and Tsirelson's upper-bound in Isabelle/HOL**|Mnacho Echenim et.al.|[2306.12535](http://arxiv.org/abs/2306.12535)|null|
 |**2023-06-16**|**Experimental storage of photonic polarization entanglement in a broadband cyclical quantum memory**|C. J. Evans et.al.|[2306.09986](http://arxiv.org/abs/2306.09986)|null|
 |**2023-06-13**|**An Elementary Proof That Everett's Quantum Multiverse Is Nonlocal: Bell-Locality and Branch-Symmetry in the Many-Worlds Interpretation**|Aurélien Drezet et.al.|[2306.07794](http://arxiv.org/abs/2306.07794)|null|
 |**2023-06-09**|**Violation of the Finner inequality in the four-output triangle network**|Antoine Girardin et.al.|[2306.05922](http://arxiv.org/abs/2306.05922)|**[link](https://github.com/Antoine0Girardin/Inflation-OPI-4-triangle)**|
@@ -93,6 +96,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Pauli blocking effects on pair creation in strong electric field**|Mikalai Prakapenia et.al.|[2306.12956](http://arxiv.org/abs/2306.12956)|null|
 |**2023-06-21**|**Best-case scenarios for neutrino capture experiments**|Kyrylo Bondarenko et.al.|[2306.12366](http://arxiv.org/abs/2306.12366)|null|
 |**2023-06-12**|**Quantum contextuality of complementary photon polarizations explored by adaptive input state control**|Kengo Matsuyama et.al.|[2306.06831](http://arxiv.org/abs/2306.06831)|null|
 |**2023-06-09**|**NuCLR: Nuclear Co-Learned Representations**|Ouail Kitouni et.al.|[2306.06099](http://arxiv.org/abs/2306.06099)|null|
@@ -148,6 +152,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Investigating the Usability of Collaborative Robot control through Hands-Free Operation using Eye gaze and Augmented Reality**|Joosun Lee et.al.|[2306.13072](http://arxiv.org/abs/2306.13072)|null|
 |**2023-06-20**|**A Compendious Review of Majorization-Based Resource Theories: Quantum Information and Quantum Thermodynamics**|Gökhan Torun et.al.|[2306.11513](http://arxiv.org/abs/2306.11513)|null|
 |**2023-06-20**|**Triadic approximation for contagions on higher-order networks**|Giulio Burgio et.al.|[2306.11441](http://arxiv.org/abs/2306.11441)|null|
 |**2023-06-15**|**A kinetic study of black hole activation by local plasma injection into the inner magnetosphere**|Idan Niv et.al.|[2306.09161](http://arxiv.org/abs/2306.09161)|null|
@@ -237,6 +242,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Optimization tools for distance-preserving flag fault-tolerant error correction**|Balint Pato et.al.|[2306.12862](http://arxiv.org/abs/2306.12862)|null|
+|**2023-06-21**|**Quantum Weight Enumerators for Real Codes with $X$ and $Z$ Exactly Transversal**|Eric Kubischta et.al.|[2306.12526](http://arxiv.org/abs/2306.12526)|null|
+|**2023-06-21**|**Single-shot decoding of good quantum LDPC codes**|Shouzhen Gu et.al.|[2306.12470](http://arxiv.org/abs/2306.12470)|null|
 |**2023-06-20**|**Multimode bosonic cat codes with an easily implementable universal gate set**|Aurélie Denys et.al.|[2306.11621](http://arxiv.org/abs/2306.11621)|null|
 |**2023-06-17**|**Encoder Circuit For Surface Code using Measurement-Based Quantum Computing Model**|Priyam Srivastava et.al.|[2306.10267](http://arxiv.org/abs/2306.10267)|null|
 |**2023-06-16**|**Union $\unicode{x2013}$find quantum decoding without union$\unicode{x2013}$ find**|Sam J. Griffiths et.al.|[2306.09767](http://arxiv.org/abs/2306.09767)|null|

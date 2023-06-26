@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-10**|**Bell inequalities are algebraic identities that my be violated by logically inconsistent use hidden in statistics**|Louis Sica et.al.|[2306.13097](http://arxiv.org/abs/2306.13097)|null|
 |**2023-06-22**|**Bell nonlocality in maximal-length quantum mechanics**|Pasquale Bosso et.al.|[2306.13067](http://arxiv.org/abs/2306.13067)|null|
 |**2023-06-22**|**Violation of Bell inequality by photon scattering on a two-level emitter**|Shikai Liu et.al.|[2306.12801](http://arxiv.org/abs/2306.12801)|null|
 |**2023-06-21**|**A formalization of the CHSH inequality and Tsirelson's upper-bound in Isabelle/HOL**|Mnacho Echenim et.al.|[2306.12535](http://arxiv.org/abs/2306.12535)|null|
@@ -61,6 +62,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**FPGA Implementation of Convolutional Neural Network for Real-Time Handwriting Recognition**|Shichen et.al.|[2306.13557](http://arxiv.org/abs/2306.13557)|**[link](https://github.com/shichenqiao/ece554_sp23_fpga_handwriting_recognition)**|
 |**2023-06-15**|**Causal classification of spatiotemporal quantum correlations**|Minjeong Song et.al.|[2306.09336](http://arxiv.org/abs/2306.09336)|null|
 |**2023-06-15**|**Single-Step Parity Check Gate Set for Quantum Error Correction**|Gözde Üstün et.al.|[2306.08849](http://arxiv.org/abs/2306.08849)|**[link](https://github.com/apassenger/error-analysis-in-qec)**|
 |**2023-06-09**|**Unification of spatiotemporal quantum formalisms: mapping between process and pseudo-density matrices via multiple-time states**|Xiangjing Liu et.al.|[2306.05958](http://arxiv.org/abs/2306.05958)|null|
@@ -242,6 +244,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**Quantum Deletion Codes Derived From Quantum Reed-Solomon Codes**|Manabu Hagiwara et.al.|[2306.13399](http://arxiv.org/abs/2306.13399)|null|
 |**2023-06-22**|**Optimization tools for distance-preserving flag fault-tolerant error correction**|Balint Pato et.al.|[2306.12862](http://arxiv.org/abs/2306.12862)|null|
 |**2023-06-21**|**Quantum Weight Enumerators for Real Codes with $X$ and $Z$ Exactly Transversal**|Eric Kubischta et.al.|[2306.12526](http://arxiv.org/abs/2306.12526)|null|
 |**2023-06-21**|**Single-shot decoding of good quantum LDPC codes**|Shouzhen Gu et.al.|[2306.12470](http://arxiv.org/abs/2306.12470)|null|

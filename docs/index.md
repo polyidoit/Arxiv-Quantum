@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -62,7 +62,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-23**|**FPGA Implementation of Convolutional Neural Network for Real-Time Handwriting Recognition**|Shichen et.al.|[2306.13557](http://arxiv.org/abs/2306.13557)|**[link](https://github.com/shichenqiao/ece554_sp23_fpga_handwriting_recognition)**|
+|**2023-06-26**|**FPGA Implementation of Convolutional Neural Network for Real-Time Handwriting Recognition**|Shichen Qiao et.al.|[2306.13557](http://arxiv.org/abs/2306.13557)|**[link](https://github.com/shichenqiao/ece554_sp23_fpga_handwriting_recognition)**|
 |**2023-06-15**|**Causal classification of spatiotemporal quantum correlations**|Minjeong Song et.al.|[2306.09336](http://arxiv.org/abs/2306.09336)|null|
 |**2023-06-15**|**Single-Step Parity Check Gate Set for Quantum Error Correction**|Gözde Üstün et.al.|[2306.08849](http://arxiv.org/abs/2306.08849)|**[link](https://github.com/apassenger/error-analysis-in-qec)**|
 |**2023-06-09**|**Unification of spatiotemporal quantum formalisms: mapping between process and pseudo-density matrices via multiple-time states**|Xiangjing Liu et.al.|[2306.05958](http://arxiv.org/abs/2306.05958)|null|
@@ -249,7 +249,7 @@ layout: default
 |**2023-06-21**|**Quantum Weight Enumerators for Real Codes with $X$ and $Z$ Exactly Transversal**|Eric Kubischta et.al.|[2306.12526](http://arxiv.org/abs/2306.12526)|null|
 |**2023-06-21**|**Single-shot decoding of good quantum LDPC codes**|Shouzhen Gu et.al.|[2306.12470](http://arxiv.org/abs/2306.12470)|null|
 |**2023-06-20**|**Multimode bosonic cat codes with an easily implementable universal gate set**|Aurélie Denys et.al.|[2306.11621](http://arxiv.org/abs/2306.11621)|null|
-|**2023-06-17**|**Encoder Circuit For Surface Code using Measurement-Based Quantum Computing Model**|Priyam Srivastava et.al.|[2306.10267](http://arxiv.org/abs/2306.10267)|null|
+|**2023-06-26**|**Encoder Circuit For Surface Code using Measurement-Based Quantum Computing Model**|Priyam Srivastava et.al.|[2306.10267](http://arxiv.org/abs/2306.10267)|null|
 |**2023-06-16**|**Union $\unicode{x2013}$find quantum decoding without union$\unicode{x2013}$ find**|Sam J. Griffiths et.al.|[2306.09767](http://arxiv.org/abs/2306.09767)|null|
 |**2023-06-15**|**Single-Step Parity Check Gate Set for Quantum Error Correction**|Gözde Üstün et.al.|[2306.08849](http://arxiv.org/abs/2306.08849)|**[link](https://github.com/apassenger/error-analysis-in-qec)**|
 |**2023-06-14**|**How to compute a 256-bit elliptic curve private key with only 50 million Toffoli gates**|Daniel Litinski et.al.|[2306.08585](http://arxiv.org/abs/2306.08585)|null|

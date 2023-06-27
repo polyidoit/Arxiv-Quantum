@@ -132,6 +132,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-25**|**On steering in the C*-algebraic framework**|Michal Banacki et.al.|[2306.14344](http://arxiv.org/abs/2306.14344)|null|
 |**2023-06-08**|**Deep learning the hierarchy of steering measurement settings of qubit-pair states**|Hong-Ming Wang et.al.|[2306.05201](http://arxiv.org/abs/2306.05201)|null|
 |**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
 |**2023-04-30**|**Quantum correlation generation capability of experimental processes**|Wei-Hao Huang et.al.|[2305.00370](http://arxiv.org/abs/2305.00370)|null|
@@ -191,6 +192,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**Pole-Skipping in Rotating BTZ Black Holes**|Hyun-Sik Jeong et.al.|[2306.14805](http://arxiv.org/abs/2306.14805)|null|
 |**2023-06-20**|**Single-quasiparticle eigenstate thermalization**|Piotr Tokarczyk et.al.|[2306.11829](http://arxiv.org/abs/2306.11829)|null|
 |**2023-06-20**|**Complete Hilbert-Space Ergodicity in Quantum Dynamics of Generalized Fibonacci Drives**|Saúl Pilatowsky-Cameo et.al.|[2306.11792](http://arxiv.org/abs/2306.11792)|null|
 |**2023-06-12**|**Out-of-time-order correlators and Lyapunov exponents in sparse SYK**|Elena Cáceres et.al.|[2306.07345](http://arxiv.org/abs/2306.07345)|null|
@@ -244,6 +246,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-25**|**Generation of Non-Gaussian States in the Squeezed State Entanglement Scheme**|E. N. Bashmakova et.al.|[2306.14148](http://arxiv.org/abs/2306.14148)|null|
+|**2023-06-23**|**Randomized compiling in fault-tolerant quantum computation**|Stefanie J. Beale et.al.|[2306.13752](http://arxiv.org/abs/2306.13752)|null|
 |**2023-06-23**|**Quantum Deletion Codes Derived From Quantum Reed-Solomon Codes**|Manabu Hagiwara et.al.|[2306.13399](http://arxiv.org/abs/2306.13399)|null|
 |**2023-06-22**|**Optimization tools for distance-preserving flag fault-tolerant error correction**|Balint Pato et.al.|[2306.12862](http://arxiv.org/abs/2306.12862)|null|
 |**2023-06-21**|**Quantum Weight Enumerators for Real Codes with $X$ and $Z$ Exactly Transversal**|Eric Kubischta et.al.|[2306.12526](http://arxiv.org/abs/2306.12526)|null|

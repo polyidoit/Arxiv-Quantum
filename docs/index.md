@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.27
+## Updated on 2023.06.28
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -254,7 +254,7 @@ layout: default
 |**2023-06-21**|**Single-shot decoding of good quantum LDPC codes**|Shouzhen Gu et.al.|[2306.12470](http://arxiv.org/abs/2306.12470)|null|
 |**2023-06-20**|**Multimode bosonic cat codes with an easily implementable universal gate set**|Aurélie Denys et.al.|[2306.11621](http://arxiv.org/abs/2306.11621)|null|
 |**2023-06-26**|**Encoder Circuit For Surface Code using Measurement-Based Quantum Computing Model**|Priyam Srivastava et.al.|[2306.10267](http://arxiv.org/abs/2306.10267)|null|
-|**2023-06-16**|**Union $\unicode{x2013}$find quantum decoding without union$\unicode{x2013}$ find**|Sam J. Griffiths et.al.|[2306.09767](http://arxiv.org/abs/2306.09767)|null|
+|**2023-06-27**|**Union-find quantum decoding without union-find**|Sam J. Griffiths et.al.|[2306.09767](http://arxiv.org/abs/2306.09767)|null|
 |**2023-06-15**|**Single-Step Parity Check Gate Set for Quantum Error Correction**|Gözde Üstün et.al.|[2306.08849](http://arxiv.org/abs/2306.08849)|**[link](https://github.com/apassenger/error-analysis-in-qec)**|
 |**2023-06-14**|**How to compute a 256-bit elliptic curve private key with only 50 million Toffoli gates**|Daniel Litinski et.al.|[2306.08585](http://arxiv.org/abs/2306.08585)|null|
 |**2023-06-13**|**Goppa code and quantum stabilizer codes from plane curves given by separated polynomials**|Vahid Nourozi et.al.|[2306.07833](http://arxiv.org/abs/2306.07833)|null|

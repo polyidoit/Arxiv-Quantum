@@ -246,6 +246,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Hybrid noise protection of logical qubits for universal quantum computation**|Zhao-Ming Wang et.al.|[2306.15144](http://arxiv.org/abs/2306.15144)|null|
+|**2023-06-26**|**Stabilizer Codes Have Trivial Area Operators**|ChunJun Cao et.al.|[2306.14996](http://arxiv.org/abs/2306.14996)|null|
 |**2023-06-25**|**Generation of Non-Gaussian States in the Squeezed State Entanglement Scheme**|E. N. Bashmakova et.al.|[2306.14148](http://arxiv.org/abs/2306.14148)|null|
 |**2023-06-23**|**Randomized compiling in fault-tolerant quantum computation**|Stefanie J. Beale et.al.|[2306.13752](http://arxiv.org/abs/2306.13752)|null|
 |**2023-06-23**|**Quantum Deletion Codes Derived From Quantum Reed-Solomon Codes**|Manabu Hagiwara et.al.|[2306.13399](http://arxiv.org/abs/2306.13399)|null|

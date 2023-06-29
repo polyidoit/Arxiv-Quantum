@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Hierarchical certification of non-classical network correlations**|Ming-Xing Luo et.al.|[2306.15717](http://arxiv.org/abs/2306.15717)|null|
 |**2023-06-10**|**Bell inequalities are algebraic identities that my be violated by logically inconsistent use hidden in statistics**|Louis Sica et.al.|[2306.13097](http://arxiv.org/abs/2306.13097)|null|
 |**2023-06-22**|**Bell nonlocality in maximal-length quantum mechanics**|Pasquale Bosso et.al.|[2306.13067](http://arxiv.org/abs/2306.13067)|null|
 |**2023-06-22**|**Violation of Bell inequality by photon scattering on a two-level emitter**|Shikai Liu et.al.|[2306.12801](http://arxiv.org/abs/2306.12801)|null|
@@ -211,6 +212,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**Effective quantum volume, fidelity and computational cost of noisy quantum processing experiments**|K. Kechedzhi et.al.|[2306.15970](http://arxiv.org/abs/2306.15970)|null|
 |**2023-06-26**|**Pole-Skipping in Rotating BTZ Black Holes**|Hyun-Sik Jeong et.al.|[2306.14805](http://arxiv.org/abs/2306.14805)|null|
 |**2023-06-20**|**Single-quasiparticle eigenstate thermalization**|Piotr Tokarczyk et.al.|[2306.11829](http://arxiv.org/abs/2306.11829)|null|
 |**2023-06-20**|**Complete Hilbert-Space Ergodicity in Quantum Dynamics of Generalized Fibonacci Drives**|Saúl Pilatowsky-Cameo et.al.|[2306.11792](http://arxiv.org/abs/2306.11792)|null|

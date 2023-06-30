@@ -193,6 +193,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Effect of non-unital noise on random circuit sampling**|Bill Fefferman et.al.|[2306.16659](http://arxiv.org/abs/2306.16659)|null|
+|**2023-06-28**|**Chaotic Roots of the Modular Multiplication Dynamical System in Shor's Algorithm**|Abu Musa Patoary et.al.|[2306.16446](http://arxiv.org/abs/2306.16446)|null|
 |**2023-06-28**|**Effective quantum volume, fidelity and computational cost of noisy quantum processing experiments**|K. Kechedzhi et.al.|[2306.15970](http://arxiv.org/abs/2306.15970)|null|
 |**2023-06-26**|**Pole-Skipping in Rotating BTZ Black Holes**|Hyun-Sik Jeong et.al.|[2306.14805](http://arxiv.org/abs/2306.14805)|null|
 |**2023-06-20**|**Single-quasiparticle eigenstate thermalization**|Piotr Tokarczyk et.al.|[2306.11829](http://arxiv.org/abs/2306.11829)|null|
@@ -248,6 +250,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Belief propagation as a partial decoder**|Laura Caune et.al.|[2306.17142](http://arxiv.org/abs/2306.17142)|null|
+|**2023-06-28**|**Minimising surface-code failures using a color-code decoder**|Asmae Benhemou et.al.|[2306.16476](http://arxiv.org/abs/2306.16476)|null|
 |**2023-06-27**|**Hybrid noise protection of logical qubits for universal quantum computation**|Zhao-Ming Wang et.al.|[2306.15144](http://arxiv.org/abs/2306.15144)|null|
 |**2023-06-26**|**Stabilizer Codes Have Trivial Area Operators**|ChunJun Cao et.al.|[2306.14996](http://arxiv.org/abs/2306.14996)|null|
 |**2023-06-25**|**Generation of Non-Gaussian States in the Squeezed State Entanglement Scheme**|E. N. Bashmakova et.al.|[2306.14148](http://arxiv.org/abs/2306.14148)|null|

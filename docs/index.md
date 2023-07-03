@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Exploring Bell inequalities and quantum entanglement in vector boson scattering**|R. A. Morales et.al.|[2306.17247](http://arxiv.org/abs/2306.17247)|null|
 |**2023-06-27**|**Hierarchical certification of non-classical network correlations**|Ming-Xing Luo et.al.|[2306.15717](http://arxiv.org/abs/2306.15717)|null|
 |**2023-06-10**|**Bell inequalities are algebraic identities that my be violated by logically inconsistent use hidden in statistics**|Louis Sica et.al.|[2306.13097](http://arxiv.org/abs/2306.13097)|null|
 |**2023-06-22**|**Bell nonlocality in maximal-length quantum mechanics**|Pasquale Bosso et.al.|[2306.13067](http://arxiv.org/abs/2306.13067)|null|
@@ -99,6 +100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Anisotropic Coulomb exchange as source of Kitaev and off-diagonal symmetric anisotropic couplings**|Pritam Bhattacharyya et.al.|[2306.17491](http://arxiv.org/abs/2306.17491)|null|
 |**2023-06-22**|**Pauli blocking effects on pair creation in strong electric field**|Mikalai Prakapenia et.al.|[2306.12956](http://arxiv.org/abs/2306.12956)|null|
 |**2023-06-21**|**Best-case scenarios for neutrino capture experiments**|Kyrylo Bondarenko et.al.|[2306.12366](http://arxiv.org/abs/2306.12366)|null|
 |**2023-06-12**|**Quantum contextuality of complementary photon polarizations explored by adaptive input state control**|Kengo Matsuyama et.al.|[2306.06831](http://arxiv.org/abs/2306.06831)|null|
@@ -250,6 +252,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Tailoring quantum error correction to spin qubits**|Bence Hetényi et.al.|[2306.17786](http://arxiv.org/abs/2306.17786)|null|
+|**2023-06-30**|**Fault-Tolerant Code Switching Protocols for Near-Term Quantum Processors**|Friederike Butt et.al.|[2306.17686](http://arxiv.org/abs/2306.17686)|null|
+|**2023-06-29**|**Superselection Rules, Quantum Error Correction, and Quantum Chromodynamics**|Ning Bao et.al.|[2306.17230](http://arxiv.org/abs/2306.17230)|null|
 |**2023-06-29**|**Belief propagation as a partial decoder**|Laura Caune et.al.|[2306.17142](http://arxiv.org/abs/2306.17142)|null|
 |**2023-06-28**|**Minimising surface-code failures using a color-code decoder**|Asmae Benhemou et.al.|[2306.16476](http://arxiv.org/abs/2306.16476)|null|
 |**2023-06-27**|**Hybrid noise protection of logical qubits for universal quantum computation**|Zhao-Ming Wang et.al.|[2306.15144](http://arxiv.org/abs/2306.15144)|null|

@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-02**|**Entropy Accumulation under Post-Quantum Cryptographic Assumptions**|Ilya Merkulov et.al.|[2307.00559](http://arxiv.org/abs/2307.00559)|null|
 |**2023-06-29**|**Exploring Bell inequalities and quantum entanglement in vector boson scattering**|R. A. Morales et.al.|[2306.17247](http://arxiv.org/abs/2306.17247)|null|
 |**2023-06-27**|**Hierarchical certification of non-classical network correlations**|Ming-Xing Luo et.al.|[2306.15717](http://arxiv.org/abs/2306.15717)|null|
 |**2023-06-10**|**Bell inequalities are algebraic identities that my be violated by logically inconsistent use hidden in statistics**|Louis Sica et.al.|[2306.13097](http://arxiv.org/abs/2306.13097)|null|
@@ -175,6 +176,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-02**|**Electron delocalization in aromaticity as a superposition phenomenon**|Mahir H. Yeşiller et.al.|[2307.00672](http://arxiv.org/abs/2307.00672)|null|
 |**2023-06-22**|**Investigating the Usability of Collaborative Robot control through Hands-Free Operation using Eye gaze and Augmented Reality**|Joosun Lee et.al.|[2306.13072](http://arxiv.org/abs/2306.13072)|null|
 |**2023-06-20**|**A Compendious Review of Majorization-Based Resource Theories: Quantum Information and Quantum Thermodynamics**|Gökhan Torun et.al.|[2306.11513](http://arxiv.org/abs/2306.11513)|null|
 |**2023-06-20**|**Triadic approximation for contagions on higher-order networks**|Giulio Burgio et.al.|[2306.11441](http://arxiv.org/abs/2306.11441)|null|
@@ -214,6 +216,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Random Chern-Simons matter in $D=1$**|Jeff Murugan et.al.|[2307.01099](http://arxiv.org/abs/2307.01099)|null|
+|**2023-07-02**|**Quantum criticality at the boundary of the non-Hermitian regime of a Floquet system**|Wen-Lei Zhao et.al.|[2307.00462](http://arxiv.org/abs/2307.00462)|null|
 |**2023-06-29**|**Effect of non-unital noise on random circuit sampling**|Bill Fefferman et.al.|[2306.16659](http://arxiv.org/abs/2306.16659)|null|
 |**2023-06-28**|**Chaotic Roots of the Modular Multiplication Dynamical System in Shor's Algorithm**|Abu Musa Patoary et.al.|[2306.16446](http://arxiv.org/abs/2306.16446)|null|
 |**2023-06-28**|**Effective quantum volume, fidelity and computational cost of noisy quantum processing experiments**|K. Kechedzhi et.al.|[2306.15970](http://arxiv.org/abs/2306.15970)|null|
@@ -273,6 +277,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|
 |**2023-06-30**|**Tailoring quantum error correction to spin qubits**|Bence Hetényi et.al.|[2306.17786](http://arxiv.org/abs/2306.17786)|null|
 |**2023-06-30**|**Fault-Tolerant Code Switching Protocols for Near-Term Quantum Processors**|Friederike Butt et.al.|[2306.17686](http://arxiv.org/abs/2306.17686)|null|
 |**2023-06-29**|**Superselection Rules, Quantum Error Correction, and Quantum Chromodynamics**|Ning Bao et.al.|[2306.17230](http://arxiv.org/abs/2306.17230)|null|

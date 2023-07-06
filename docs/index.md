@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Analysing quantum systems with randomised measurements**|Paweł Cieśliński et.al.|[2307.01251](http://arxiv.org/abs/2307.01251)|null|
 |**2023-07-02**|**Entropy Accumulation under Post-Quantum Cryptographic Assumptions**|Ilya Merkulov et.al.|[2307.00559](http://arxiv.org/abs/2307.00559)|null|
 |**2023-06-29**|**Exploring Bell inequalities and quantum entanglement in vector boson scattering**|R. A. Morales et.al.|[2306.17247](http://arxiv.org/abs/2306.17247)|null|
 |**2023-06-27**|**Hierarchical certification of non-classical network correlations**|Ming-Xing Luo et.al.|[2306.15717](http://arxiv.org/abs/2306.15717)|null|
@@ -136,6 +137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**Randomness Certification from Multipartite Quantum Steering for Arbitrary Dimensional Systems**|Yi Li et.al.|[2307.02061](http://arxiv.org/abs/2307.02061)|null|
 |**2023-06-25**|**On steering in the C*-algebraic framework**|Michal Banacki et.al.|[2306.14344](http://arxiv.org/abs/2306.14344)|null|
 |**2023-06-08**|**Deep learning the hierarchy of steering measurement settings of qubit-pair states**|Hong-Ming Wang et.al.|[2306.05201](http://arxiv.org/abs/2306.05201)|null|
 |**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
@@ -159,6 +161,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**Optimal Transmit Antenna Deployment and Power Allocation for Wireless Power Supply in an Indoor Space**|Kenneth MacSporran Mayer et.al.|[2307.02076](http://arxiv.org/abs/2307.02076)|null|
 |**2023-07-02**|**Electron delocalization in aromaticity as a superposition phenomenon**|Mahir H. Yeşiller et.al.|[2307.00672](http://arxiv.org/abs/2307.00672)|null|
 |**2023-06-22**|**Investigating the Usability of Collaborative Robot control through Hands-Free Operation using Eye gaze and Augmented Reality**|Joosun Lee et.al.|[2306.13072](http://arxiv.org/abs/2306.13072)|null|
 |**2023-06-20**|**A Compendious Review of Majorization-Based Resource Theories: Quantum Information and Quantum Thermodynamics**|Gökhan Torun et.al.|[2306.11513](http://arxiv.org/abs/2306.11513)|null|
@@ -197,6 +200,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-04**|**Approximating Quantum Lyapunov Exponents in Quantum Kicked Rotor**|Varsha Gupta et.al.|[2307.01461](http://arxiv.org/abs/2307.01461)|null|
 |**2023-07-04**|**Random Chern-Simons matter in $D=1$**|Jeff Murugan et.al.|[2307.01099](http://arxiv.org/abs/2307.01099)|null|
 |**2023-07-02**|**Quantum criticality at the boundary of the non-Hermitian regime of a Floquet system**|Wen-Lei Zhao et.al.|[2307.00462](http://arxiv.org/abs/2307.00462)|null|
 |**2023-06-29**|**Effect of non-unital noise on random circuit sampling**|Bill Fefferman et.al.|[2306.16659](http://arxiv.org/abs/2306.16659)|null|
@@ -256,6 +260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Data-driven decoding of quantum error correcting codes using graph neural networks**|Moritz Lange et.al.|[2307.01241](http://arxiv.org/abs/2307.01241)|null|
 |**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|
 |**2023-06-30**|**Tailoring quantum error correction to spin qubits**|Bence Hetényi et.al.|[2306.17786](http://arxiv.org/abs/2306.17786)|null|
 |**2023-06-30**|**Fault-Tolerant Code Switching Protocols for Near-Term Quantum Processors**|Friederike Butt et.al.|[2306.17686](http://arxiv.org/abs/2306.17686)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.05
+## Updated on 2023.07.06
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -197,7 +197,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-03**|**Random Chern-Simons matter in $D=1$**|Jeff Murugan et.al.|[2307.01099](http://arxiv.org/abs/2307.01099)|null|
+|**2023-07-04**|**Random Chern-Simons matter in $D=1$**|Jeff Murugan et.al.|[2307.01099](http://arxiv.org/abs/2307.01099)|null|
 |**2023-07-02**|**Quantum criticality at the boundary of the non-Hermitian regime of a Floquet system**|Wen-Lei Zhao et.al.|[2307.00462](http://arxiv.org/abs/2307.00462)|null|
 |**2023-06-29**|**Effect of non-unital noise on random circuit sampling**|Bill Fefferman et.al.|[2306.16659](http://arxiv.org/abs/2306.16659)|null|
 |**2023-06-28**|**Chaotic Roots of the Modular Multiplication Dynamical System in Shor's Algorithm**|Abu Musa Patoary et.al.|[2306.16446](http://arxiv.org/abs/2306.16446)|null|

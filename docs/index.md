@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.09
+## Updated on 2023.07.10
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -146,7 +146,7 @@ layout: default
 |**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
 |**2023-04-30**|**Quantum correlation generation capability of experimental processes**|Wei-Hao Huang et.al.|[2305.00370](http://arxiv.org/abs/2305.00370)|null|
 |**2023-04-21**|**Polytope compatibility -- from quantum measurements to magic squares**|Andreas Bluhm et.al.|[2304.10920](http://arxiv.org/abs/2304.10920)|null|
-|**2023-04-09**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
+|**2023-07-06**|**Filtering one-way Einstein-Podolsky-Rosen steering**|Ze-Yan Hao et.al.|[2304.04210](http://arxiv.org/abs/2304.04210)|null|
 |**2023-04-08**|**Unlimited One-Way Steering**|Pavel Sekatski et.al.|[2304.03888](http://arxiv.org/abs/2304.03888)|null|
 |**2023-04-03**|**Does Hawking effect always degrade fidelity of quantum teleportation in Schwarzschild spacetime?**|Xiao-Wei Fan et.al.|[2304.00984](http://arxiv.org/abs/2304.00984)|null|
 |**2023-03-28**|**Tutorial: Nonlinear magnonics**|Shasha Zheng et.al.|[2303.16313](http://arxiv.org/abs/2303.16313)|null|

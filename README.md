@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-09**|**Violation of Bell's inequality for Mathieu-Gauss vector modes**|Edgar Medina-Segura et.al.|[2307.04078](http://arxiv.org/abs/2307.04078)|null|
 |**2023-07-05**|**Nonclassicality in correlations without causal order**|Ravi Kunjwal et.al.|[2307.02565](http://arxiv.org/abs/2307.02565)|null|
 |**2023-07-04**|**Locally Real States in the Elimination of Non-local Superposition and Entanglement**|Stuart Mirell et.al.|[2307.02504](http://arxiv.org/abs/2307.02504)|null|
 |**2023-07-03**|**Analysing quantum systems with randomised measurements**|Paweł Cieśliński et.al.|[2307.01251](http://arxiv.org/abs/2307.01251)|null|
@@ -284,6 +285,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**Quantum error correction beyond the toric code: dynamical systems meet encoding**|Garima Rajpoot et.al.|[2307.04418](http://arxiv.org/abs/2307.04418)|null|
+|**2023-07-10**|**The Electronic Structure of the Hydrogen Molecule: A Tutorial Exercise in Classical and Quantum Computation**|Vincent Graves et.al.|[2307.04290](http://arxiv.org/abs/2307.04290)|null|
+|**2023-07-09**|**Phase transitions in sampling and error correction in local Brownian circuits**|Subhayan Sahu et.al.|[2307.04267](http://arxiv.org/abs/2307.04267)|null|
 |**2023-07-07**|**Comparing Traditional and LLM-based Search for Consumer Choice: A Randomized Experiment**|Sofia Eleni Spatharioti et.al.|[2307.03744](http://arxiv.org/abs/2307.03744)|null|
 |**2023-07-07**|**Variational quantum regression algorithm with encoded data structure**|C. -C. Joseph Wang et.al.|[2307.03334](http://arxiv.org/abs/2307.03334)|null|
 |**2023-07-06**|**Improved rate-distance trade-offs for quantum codes with restricted connectivity**|Nouédyn Baspin et.al.|[2307.03283](http://arxiv.org/abs/2307.03283)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.10
+## Updated on 2023.07.11
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -113,7 +113,7 @@ layout: default
 |**2023-05-26**|**Novel Machine Learning and Differentiable Programming Techniques applied to the VIP-2 Underground Experiment**|F Napolitano et.al.|[2305.17153](http://arxiv.org/abs/2305.17153)|null|
 |**2023-05-29**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
 |**2023-05-24**|**Cuts in Feynman Parameter Space**|Ruth Britto et.al.|[2305.15369](http://arxiv.org/abs/2305.15369)|null|
-|**2023-05-24**|**Quantitative Relations Between Different Measurement Contexts**|Ming Ji et.al.|[2305.14873](http://arxiv.org/abs/2305.14873)|null|
+|**2023-07-10**|**Quantitative Relations Between Different Measurement Contexts**|Ming Ji et.al.|[2305.14873](http://arxiv.org/abs/2305.14873)|null|
 |**2023-06-10**|**Pairing interactions induce antiferromagnetism in cuprate superconductors**|Kuan-Ming Hung et.al.|[2305.14665](http://arxiv.org/abs/2305.14665)|null|
 |**2023-05-21**|**Enhancing Biodiversity through Self-Regulation**|Seong-Gyu Yang et.al.|[2305.12341](http://arxiv.org/abs/2305.12341)|null|
 |**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|**[link](https://github.com/zhangxy0517/3d-registration-with-maximal-cliques)**|

@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-08**|**The Spherical Grasshopper Problem**|Boris van Breugel et.al.|[2307.05359](http://arxiv.org/abs/2307.05359)|null|
+|**2023-07-11**|**The De Broglie-Bohm theory {\it is} and {\it is not} a hidden variable theory**|Jean Bricmont et.al.|[2307.05148](http://arxiv.org/abs/2307.05148)|null|
+|**2023-07-11**|**Activation of hidden nonlocality using local filtering operations based on CGLMP inequality**|Asmita Kumari et.al.|[2307.05015](http://arxiv.org/abs/2307.05015)|null|
 |**2023-07-09**|**Violation of Bell's inequality for Mathieu-Gauss vector modes**|Edgar Medina-Segura et.al.|[2307.04078](http://arxiv.org/abs/2307.04078)|null|
 |**2023-07-05**|**Nonclassicality in correlations without causal order**|Ravi Kunjwal et.al.|[2307.02565](http://arxiv.org/abs/2307.02565)|null|
 |**2023-07-04**|**Locally Real States in the Elimination of Non-local Superposition and Entanglement**|Stuart Mirell et.al.|[2307.02504](http://arxiv.org/abs/2307.02504)|null|
@@ -204,6 +207,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-11**|**Solvable models of many-body chaos from dual-Koopman circuits**|Arul Lakshminarayan et.al.|[2307.04950](http://arxiv.org/abs/2307.04950)|null|
+|**2023-07-10**|**A self-averaging spectral form factor implies unitarity breaking**|Apollonas S. Matsoukas-Roubeas et.al.|[2307.04791](http://arxiv.org/abs/2307.04791)|null|
 |**2023-07-04**|**Approximating Quantum Lyapunov Exponents in Quantum Kicked Rotor**|Varsha Gupta et.al.|[2307.01461](http://arxiv.org/abs/2307.01461)|null|
 |**2023-07-04**|**Random Chern-Simons matter in $D=1$**|Jeff Murugan et.al.|[2307.01099](http://arxiv.org/abs/2307.01099)|null|
 |**2023-07-02**|**Quantum criticality at the boundary of the non-Hermitian regime of a Floquet system**|Wen-Lei Zhao et.al.|[2307.00462](http://arxiv.org/abs/2307.00462)|null|
@@ -271,7 +276,7 @@ layout: default
 |**2023-07-07**|**Variational quantum regression algorithm with encoded data structure**|C. -C. Joseph Wang et.al.|[2307.03334](http://arxiv.org/abs/2307.03334)|null|
 |**2023-07-06**|**Improved rate-distance trade-offs for quantum codes with restricted connectivity**|Nouédyn Baspin et.al.|[2307.03283](http://arxiv.org/abs/2307.03283)|null|
 |**2023-07-06**|**Neural network decoder for near-term surface-code experiments**|Boris M. Varbanov et.al.|[2307.03280](http://arxiv.org/abs/2307.03280)|null|
-|**2023-07-06**|**Compilation of a simple chemistry application to quantum error correction primitives**|Nick S. Blunt et.al.|[2307.03233](http://arxiv.org/abs/2307.03233)|null|
+|**2023-07-06**|**Compilation of a simple chemistry application to quantum error correction primitives**|Nick S. Blunt et.al.|[2307.03233](http://arxiv.org/abs/2307.03233)|**[link](https://github.com/riverlane/h2_compilation)**|
 |**2023-07-05**|**Emergent Global Symmetry from IR N-ality**|Anindya Dey et.al.|[2307.02525](http://arxiv.org/abs/2307.02525)|null|
 |**2023-07-03**|**Data-driven decoding of quantum error correcting codes using graph neural networks**|Moritz Lange et.al.|[2307.01241](http://arxiv.org/abs/2307.01241)|null|
 |**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|

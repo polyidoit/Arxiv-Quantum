@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-09**|**Unveiling the Connection: ER bridges and EPR in the work of Einstein**|Galina Weinstein et.al.|[2307.05548](http://arxiv.org/abs/2307.05548)|null|
 |**2023-07-08**|**The Spherical Grasshopper Problem**|Boris van Breugel et.al.|[2307.05359](http://arxiv.org/abs/2307.05359)|null|
 |**2023-07-11**|**The De Broglie-Bohm theory {\it is} and {\it is not} a hidden variable theory**|Jean Bricmont et.al.|[2307.05148](http://arxiv.org/abs/2307.05148)|null|
 |**2023-07-11**|**Activation of hidden nonlocality using local filtering operations based on CGLMP inequality**|Asmita Kumari et.al.|[2307.05015](http://arxiv.org/abs/2307.05015)|null|
@@ -109,6 +110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**A Fermi Model of Quantum Black Hole**|Chong-Sun Chu et.al.|[2307.06164](http://arxiv.org/abs/2307.06164)|null|
 |**2023-06-30**|**Anisotropic Coulomb exchange as source of Kitaev and off-diagonal symmetric anisotropic couplings**|Pritam Bhattacharyya et.al.|[2306.17491](http://arxiv.org/abs/2306.17491)|null|
 |**2023-06-22**|**Pauli blocking effects on pair creation in strong electric field**|Mikalai Prakapenia et.al.|[2306.12956](http://arxiv.org/abs/2306.12956)|null|
 |**2023-06-21**|**Best-case scenarios for neutrino capture experiments**|Kyrylo Bondarenko et.al.|[2306.12366](http://arxiv.org/abs/2306.12366)|null|
@@ -207,6 +209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Quantum information diode based on a magnonic crystal**|Rohit K. Shukla et.al.|[2307.06047](http://arxiv.org/abs/2307.06047)|null|
 |**2023-07-11**|**Solvable models of many-body chaos from dual-Koopman circuits**|Arul Lakshminarayan et.al.|[2307.04950](http://arxiv.org/abs/2307.04950)|null|
 |**2023-07-10**|**A self-averaging spectral form factor implies unitarity breaking**|Apollonas S. Matsoukas-Roubeas et.al.|[2307.04791](http://arxiv.org/abs/2307.04791)|null|
 |**2023-07-04**|**Approximating Quantum Lyapunov Exponents in Quantum Kicked Rotor**|Varsha Gupta et.al.|[2307.01461](http://arxiv.org/abs/2307.01461)|null|
@@ -269,6 +272,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**New Three and Four-Dimensional Toric and Burst-Error-Correcting Quantum Codes**|Cibele Cristina Trinca et.al.|[2307.06241](http://arxiv.org/abs/2307.06241)|null|
+|**2023-07-11**|**The Clifford theory of the $n$ -qubit Clifford group**|Kieran Mastel et.al.|[2307.05810](http://arxiv.org/abs/2307.05810)|null|
 |**2023-07-10**|**Quantum error correction beyond the toric code: dynamical systems meet encoding**|Garima Rajpoot et.al.|[2307.04418](http://arxiv.org/abs/2307.04418)|null|
 |**2023-07-10**|**The Electronic Structure of the Hydrogen Molecule: A Tutorial Exercise in Classical and Quantum Computation**|Vincent Graves et.al.|[2307.04290](http://arxiv.org/abs/2307.04290)|null|
 |**2023-07-09**|**Phase transitions in sampling and error correction in local Brownian circuits**|Subhayan Sahu et.al.|[2307.04267](http://arxiv.org/abs/2307.04267)|null|

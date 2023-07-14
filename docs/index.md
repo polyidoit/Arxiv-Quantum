@@ -272,6 +272,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**Autoparametric resonance extending the bit-flip time of a cat qubit up to 0.3 s**|Antoine Marquet et.al.|[2307.06761](http://arxiv.org/abs/2307.06761)|null|
 |**2023-07-12**|**New Three and Four-Dimensional Toric and Burst-Error-Correcting Quantum Codes**|Cibele Cristina Trinca et.al.|[2307.06241](http://arxiv.org/abs/2307.06241)|null|
 |**2023-07-11**|**The Clifford theory of the $n$ -qubit Clifford group**|Kieran Mastel et.al.|[2307.05810](http://arxiv.org/abs/2307.05810)|null|
 |**2023-07-10**|**Quantum error correction beyond the toric code: dynamical systems meet encoding**|Garima Rajpoot et.al.|[2307.04418](http://arxiv.org/abs/2307.04418)|null|

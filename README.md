@@ -307,7 +307,7 @@
 |**2023-07-05**|**Emergent Global Symmetry from IR N-ality**|Anindya Dey et.al.|[2307.02525](http://arxiv.org/abs/2307.02525)|null|
 |**2023-07-03**|**Data-driven decoding of quantum error correcting codes using graph neural networks**|Moritz Lange et.al.|[2307.01241](http://arxiv.org/abs/2307.01241)|null|
 |**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|
-|**2023-06-30**|**Tailoring quantum error correction to spin qubits**|Bence Hetényi et.al.|[2306.17786](http://arxiv.org/abs/2306.17786)|null|
+|**2023-06-30**|**Tailoring quantum error correction to spin qubits**|Bence Hetényi et.al.|[2306.17786](http://arxiv.org/abs/2306.17786)|**[link](https://github.com/ibm/qec-with-spin-qubits)**|
 |**2023-06-30**|**Fault-Tolerant Code Switching Protocols for Near-Term Quantum Processors**|Friederike Butt et.al.|[2306.17686](http://arxiv.org/abs/2306.17686)|null|
 |**2023-06-29**|**Superselection Rules, Quantum Error Correction, and Quantum Chromodynamics**|Ning Bao et.al.|[2306.17230](http://arxiv.org/abs/2306.17230)|null|
 |**2023-06-29**|**Belief propagation as a partial decoder**|Laura Caune et.al.|[2306.17142](http://arxiv.org/abs/2306.17142)|null|

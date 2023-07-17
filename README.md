@@ -228,6 +228,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Signatures of Quantum Chaos and fermionization in the incoherent transport of bosonic carriers in the Bose-Hubbard chain**|P. S. Muraev et.al.|[2307.07208](http://arxiv.org/abs/2307.07208)|null|
 |**2023-07-12**|**Quantum information diode based on a magnonic crystal**|Rohit K. Shukla et.al.|[2307.06047](http://arxiv.org/abs/2307.06047)|null|
 |**2023-07-11**|**Solvable models of many-body chaos from dual-Koopman circuits**|Arul Lakshminarayan et.al.|[2307.04950](http://arxiv.org/abs/2307.04950)|null|
 |**2023-07-10**|**A self-averaging spectral form factor implies unitarity breaking**|Apollonas S. Matsoukas-Roubeas et.al.|[2307.04791](http://arxiv.org/abs/2307.04791)|null|

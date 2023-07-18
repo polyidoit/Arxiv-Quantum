@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Toy model illustrating the effect of measurement dependence on a Bell inequality**|Sophia M. Walls et.al.|[2307.07655](http://arxiv.org/abs/2307.07655)|null|
 |**2023-07-09**|**Unveiling the Connection: ER bridges and EPR in the work of Einstein**|Galina Weinstein et.al.|[2307.05548](http://arxiv.org/abs/2307.05548)|null|
 |**2023-07-08**|**The Spherical Grasshopper Problem**|Boris van Breugel et.al.|[2307.05359](http://arxiv.org/abs/2307.05359)|null|
 |**2023-07-11**|**The De Broglie-Bohm theory {\it is} and {\it is not} a hidden variable theory**|Jean Bricmont et.al.|[2307.05148](http://arxiv.org/abs/2307.05148)|null|
@@ -170,6 +171,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**CART: Collision Avoidance and Robust Tracking Augmentation in Learning-based Motion Planning for Multi-Agent Systems**|Hiroyasu Tsukamoto et.al.|[2307.08602](http://arxiv.org/abs/2307.08602)|null|
+|**2023-07-17**|**Coherence factorization law under fully and strictly incoherent operations**|Xinzhi Zhao et.al.|[2307.08454](http://arxiv.org/abs/2307.08454)|null|
 |**2023-07-05**|**Optimal Transmit Antenna Deployment and Power Allocation for Wireless Power Supply in an Indoor Space**|Kenneth MacSporran Mayer et.al.|[2307.02076](http://arxiv.org/abs/2307.02076)|null|
 |**2023-07-02**|**Electron delocalization in aromaticity as a superposition phenomenon**|Mahir H. Yeşiller et.al.|[2307.00672](http://arxiv.org/abs/2307.00672)|null|
 |**2023-06-22**|**Investigating the Usability of Collaborative Robot control through Hands-Free Operation using Eye gaze and Augmented Reality**|Joosun Lee et.al.|[2306.13072](http://arxiv.org/abs/2306.13072)|null|
@@ -209,6 +212,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Singular-value statistics of non-Hermitian random matrices and open quantum systems**|Kohei Kawabata et.al.|[2307.08218](http://arxiv.org/abs/2307.08218)|null|
 |**2023-07-14**|**Signatures of Quantum Chaos and fermionization in the incoherent transport of bosonic carriers in the Bose-Hubbard chain**|P. S. Muraev et.al.|[2307.07208](http://arxiv.org/abs/2307.07208)|null|
 |**2023-07-12**|**Quantum information diode based on a magnonic crystal**|Rohit K. Shukla et.al.|[2307.06047](http://arxiv.org/abs/2307.06047)|null|
 |**2023-07-11**|**Solvable models of many-body chaos from dual-Koopman circuits**|Arul Lakshminarayan et.al.|[2307.04950](http://arxiv.org/abs/2307.04950)|null|
@@ -273,6 +277,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-16**|**Single-Shot Quantum Error Correction in Intertwined Toric Codes**|Charles Stahl et.al.|[2307.08118](http://arxiv.org/abs/2307.08118)|null|
+|**2023-07-15**|**Enhancing Dispersive Readout of Superconducting Qubits Through Dynamic Control of the Dispersive Shift: Experiment and Theory**|François Swiadek et.al.|[2307.07765](http://arxiv.org/abs/2307.07765)|null|
+|**2023-07-15**|**Improved Single-Shot Qubit Readout Using Twin RF-SET Charge Correlations**|Santiago Serrano et.al.|[2307.07724](http://arxiv.org/abs/2307.07724)|null|
 |**2023-07-13**|**Autoparametric resonance extending the bit-flip time of a cat qubit up to 0.3 s**|Antoine Marquet et.al.|[2307.06761](http://arxiv.org/abs/2307.06761)|null|
 |**2023-07-12**|**New Three and Four-Dimensional Toric and Burst-Error-Correcting Quantum Codes**|Cibele Cristina Trinca et.al.|[2307.06241](http://arxiv.org/abs/2307.06241)|null|
 |**2023-07-11**|**The Clifford theory of the $n$ -qubit Clifford group**|Kieran Mastel et.al.|[2307.05810](http://arxiv.org/abs/2307.05810)|null|

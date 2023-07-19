@@ -85,6 +85,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Matrix Profile based Anomaly Detection in Streaming Gait Data for Fall Prevention**|Branislav Gerazov et.al.|[2307.09121](http://arxiv.org/abs/2307.09121)|null|
 |**2023-07-05**|**Nonclassicality in correlations without causal order**|Ravi Kunjwal et.al.|[2307.02565](http://arxiv.org/abs/2307.02565)|null|
 |**2023-06-26**|**FPGA Implementation of Convolutional Neural Network for Real-Time Handwriting Recognition**|Shichen Qiao et.al.|[2306.13557](http://arxiv.org/abs/2306.13557)|**[link](https://github.com/shichenqiao/ece554_sp23_fpga_handwriting_recognition)**|
 |**2023-06-15**|**Causal classification of spatiotemporal quantum correlations**|Minjeong Song et.al.|[2306.09336](http://arxiv.org/abs/2306.09336)|null|
@@ -162,6 +163,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Quantum steering without free will**|Shubhayan Sarkar et.al.|[2307.08797](http://arxiv.org/abs/2307.08797)|null|
 |**2023-07-05**|**Randomness Certification from Multipartite Quantum Steering for Arbitrary Dimensional Systems**|Yi Li et.al.|[2307.02061](http://arxiv.org/abs/2307.02061)|null|
 |**2023-06-25**|**On steering in the C*-algebraic framework**|Michal Banacki et.al.|[2306.14344](http://arxiv.org/abs/2306.14344)|null|
 |**2023-06-08**|**Deep learning the hierarchy of steering measurement settings of qubit-pair states**|Hong-Ming Wang et.al.|[2306.05201](http://arxiv.org/abs/2306.05201)|null|
@@ -298,6 +300,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**A Cryogenic Memristive Neural Decoder for Fault-tolerant Quantum Error Correction**|Frédéric Marcotte et.al.|[2307.09463](http://arxiv.org/abs/2307.09463)|null|
+|**2023-07-18**|**Hamiltonian Phase Error in Resonantly Driven CNOT Gate Above the Fault-Tolerant Threshold**|Yi-Hsien Wu et.al.|[2307.09031](http://arxiv.org/abs/2307.09031)|null|
+|**2023-07-18**|**qecGPT: decoding Quantum Error-correcting Codes with Generative Pre-trained Transformers**|Hanyan Cao et.al.|[2307.09025](http://arxiv.org/abs/2307.09025)|**[link](https://github.com/chy-i/qecgpt)**|
+|**2023-07-17**|**Demonstrating a long-coherence dual-rail erasure qubit using tunable transmons**|Harry Levine et.al.|[2307.08737](http://arxiv.org/abs/2307.08737)|null|
 |**2023-07-16**|**Single-Shot Quantum Error Correction in Intertwined Toric Codes**|Charles Stahl et.al.|[2307.08118](http://arxiv.org/abs/2307.08118)|null|
 |**2023-07-15**|**Enhancing Dispersive Readout of Superconducting Qubits Through Dynamic Control of the Dispersive Shift: Experiment and Theory**|François Swiadek et.al.|[2307.07765](http://arxiv.org/abs/2307.07765)|null|
 |**2023-07-15**|**Improved Single-Shot Qubit Readout Using Twin RF-SET Charge Correlations**|Santiago Serrano et.al.|[2307.07724](http://arxiv.org/abs/2307.07724)|null|

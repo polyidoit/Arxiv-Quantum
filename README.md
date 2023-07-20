@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Probing new physics through entanglement in diboson production**|Rafael Aoude et.al.|[2307.09675](http://arxiv.org/abs/2307.09675)|null|
 |**2023-07-14**|**Toy model illustrating the effect of measurement dependence on a Bell inequality**|Sophia M. Walls et.al.|[2307.07655](http://arxiv.org/abs/2307.07655)|null|
 |**2023-07-09**|**Unveiling the Connection: ER bridges and EPR in the work of Einstein**|Galina Weinstein et.al.|[2307.05548](http://arxiv.org/abs/2307.05548)|null|
 |**2023-07-08**|**The Spherical Grasshopper Problem**|Boris van Breugel et.al.|[2307.05359](http://arxiv.org/abs/2307.05359)|null|
@@ -163,6 +164,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Sharing EPR steering between sequential pairs of observers**|Qiao-Qiao Lv et.al.|[2307.09928](http://arxiv.org/abs/2307.09928)|null|
+|**2023-07-19**|**Enhanced bipartite entanglement and Gaussian quantum steering of squeezed magnon modes**|Shaik Ahmed et.al.|[2307.09846](http://arxiv.org/abs/2307.09846)|null|
 |**2023-07-17**|**Quantum steering without free will**|Shubhayan Sarkar et.al.|[2307.08797](http://arxiv.org/abs/2307.08797)|null|
 |**2023-07-05**|**Randomness Certification from Multipartite Quantum Steering for Arbitrary Dimensional Systems**|Yi Li et.al.|[2307.02061](http://arxiv.org/abs/2307.02061)|null|
 |**2023-06-25**|**On steering in the C*-algebraic framework**|Michal Banacki et.al.|[2306.14344](http://arxiv.org/abs/2306.14344)|null|
@@ -190,6 +193,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**A Novel Self-Adaptive SIS Model Based on the Mutual Interaction between a Graph and its Line Graph**|Paolo Bartesaghi et.al.|[2307.09934](http://arxiv.org/abs/2307.09934)|null|
 |**2023-07-13**|**CART: Collision Avoidance and Robust Tracking Augmentation in Learning-based Motion Planning for Multi-Agent Systems**|Hiroyasu Tsukamoto et.al.|[2307.08602](http://arxiv.org/abs/2307.08602)|null|
 |**2023-07-17**|**Coherence factorization law under fully and strictly incoherent operations**|Xinzhi Zhao et.al.|[2307.08454](http://arxiv.org/abs/2307.08454)|null|
 |**2023-07-05**|**Optimal Transmit Antenna Deployment and Power Allocation for Wireless Power Supply in an Indoor Space**|Kenneth MacSporran Mayer et.al.|[2307.02076](http://arxiv.org/abs/2307.02076)|null|
@@ -300,6 +304,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Tangling schedules eases hardware connectivity requirements for quantum error correction**|Gyorgy P. Geher et.al.|[2307.10147](http://arxiv.org/abs/2307.10147)|null|
 |**2023-07-18**|**A Cryogenic Memristive Neural Decoder for Fault-tolerant Quantum Error Correction**|Frédéric Marcotte et.al.|[2307.09463](http://arxiv.org/abs/2307.09463)|null|
 |**2023-07-18**|**Hamiltonian Phase Error in Resonantly Driven CNOT Gate Above the Fault-Tolerant Threshold**|Yi-Hsien Wu et.al.|[2307.09031](http://arxiv.org/abs/2307.09031)|null|
 |**2023-07-18**|**qecGPT: decoding Quantum Error-correcting Codes with Generative Pre-trained Transformers**|Hanyan Cao et.al.|[2307.09025](http://arxiv.org/abs/2307.09025)|**[link](https://github.com/chy-i/qecgpt)**|

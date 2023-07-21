@@ -176,6 +176,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Distillable entanglement under dually non-entangling operations**|Ludovico Lami et.al.|[2307.11008](http://arxiv.org/abs/2307.11008)|null|
 |**2023-07-19**|**A Novel Self-Adaptive SIS Model Based on the Mutual Interaction between a Graph and its Line Graph**|Paolo Bartesaghi et.al.|[2307.09934](http://arxiv.org/abs/2307.09934)|null|
 |**2023-07-13**|**CART: Collision Avoidance and Robust Tracking Augmentation in Learning-based Motion Planning for Multi-Agent Systems**|Hiroyasu Tsukamoto et.al.|[2307.08602](http://arxiv.org/abs/2307.08602)|null|
 |**2023-07-17**|**Coherence factorization law under fully and strictly incoherent operations**|Xinzhi Zhao et.al.|[2307.08454](http://arxiv.org/abs/2307.08454)|null|
@@ -218,6 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Probing quantum chaos with the entropy of decoherent histories**|Evgeny Polyakov et.al.|[2307.10269](http://arxiv.org/abs/2307.10269)|null|
 |**2023-07-17**|**Singular-value statistics of non-Hermitian random matrices and open quantum systems**|Kohei Kawabata et.al.|[2307.08218](http://arxiv.org/abs/2307.08218)|null|
 |**2023-07-14**|**Signatures of Quantum Chaos and fermionization in the incoherent transport of bosonic carriers in the Bose-Hubbard chain**|P. S. Muraev et.al.|[2307.07208](http://arxiv.org/abs/2307.07208)|null|
 |**2023-07-12**|**Quantum information diode based on a magnonic crystal**|Rohit K. Shukla et.al.|[2307.06047](http://arxiv.org/abs/2307.06047)|null|
@@ -283,6 +285,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Robust sparse IQP sampling in constant depth**|Louis Paletta et.al.|[2307.10729](http://arxiv.org/abs/2307.10729)|null|
+|**2023-07-20**|**A parameterized approximation scheme for the 2D-Knapsack problem with wide items**|Michal Pilipczuk et.al.|[2307.10672](http://arxiv.org/abs/2307.10672)|null|
+|**2023-07-20**|**Narain CFTs from nonbinary stabilizer codes**|Yasin Ferdous Alam et.al.|[2307.10581](http://arxiv.org/abs/2307.10581)|null|
+|**2023-07-19**|**Quantum computation from dynamic automorphism codes**|Margarita Davydova et.al.|[2307.10353](http://arxiv.org/abs/2307.10353)|null|
 |**2023-07-19**|**Tangling schedules eases hardware connectivity requirements for quantum error correction**|Gyorgy P. Geher et.al.|[2307.10147](http://arxiv.org/abs/2307.10147)|null|
 |**2023-07-18**|**A Cryogenic Memristive Neural Decoder for Fault-tolerant Quantum Error Correction**|Frédéric Marcotte et.al.|[2307.09463](http://arxiv.org/abs/2307.09463)|null|
 |**2023-07-18**|**Hamiltonian Phase Error in Resonantly Driven CNOT Gate Above the Fault-Tolerant Threshold**|Yi-Hsien Wu et.al.|[2307.09031](http://arxiv.org/abs/2307.09031)|null|

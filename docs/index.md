@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-18**|**Probing new physics through entanglement in diboson production**|Rafael Aoude et.al.|[2307.09675](http://arxiv.org/abs/2307.09675)|null|
+|**2023-07-20**|**Probing new physics through entanglement in diboson production**|Rafael Aoude et.al.|[2307.09675](http://arxiv.org/abs/2307.09675)|null|
 |**2023-07-14**|**Toy model illustrating the effect of measurement dependence on a Bell inequality**|Sophia M. Walls et.al.|[2307.07655](http://arxiv.org/abs/2307.07655)|null|
 |**2023-07-09**|**Unveiling the Connection: ER bridges and EPR in the work of Einstein**|Galina Weinstein et.al.|[2307.05548](http://arxiv.org/abs/2307.05548)|null|
 |**2023-07-08**|**The Spherical Grasshopper Problem**|Boris van Breugel et.al.|[2307.05359](http://arxiv.org/abs/2307.05359)|null|
@@ -287,7 +287,7 @@ layout: default
 |**2023-07-18**|**A Cryogenic Memristive Neural Decoder for Fault-tolerant Quantum Error Correction**|Frédéric Marcotte et.al.|[2307.09463](http://arxiv.org/abs/2307.09463)|null|
 |**2023-07-18**|**Hamiltonian Phase Error in Resonantly Driven CNOT Gate Above the Fault-Tolerant Threshold**|Yi-Hsien Wu et.al.|[2307.09031](http://arxiv.org/abs/2307.09031)|null|
 |**2023-07-18**|**qecGPT: decoding Quantum Error-correcting Codes with Generative Pre-trained Transformers**|Hanyan Cao et.al.|[2307.09025](http://arxiv.org/abs/2307.09025)|**[link](https://github.com/chy-i/qecgpt)**|
-|**2023-07-17**|**Demonstrating a long-coherence dual-rail erasure qubit using tunable transmons**|Harry Levine et.al.|[2307.08737](http://arxiv.org/abs/2307.08737)|null|
+|**2023-07-19**|**Demonstrating a long-coherence dual-rail erasure qubit using tunable transmons**|Harry Levine et.al.|[2307.08737](http://arxiv.org/abs/2307.08737)|null|
 |**2023-07-16**|**Single-Shot Quantum Error Correction in Intertwined Toric Codes**|Charles Stahl et.al.|[2307.08118](http://arxiv.org/abs/2307.08118)|null|
 |**2023-07-15**|**Enhancing Dispersive Readout of Superconducting Qubits Through Dynamic Control of the Dispersive Shift: Experiment and Theory**|François Swiadek et.al.|[2307.07765](http://arxiv.org/abs/2307.07765)|null|
 |**2023-07-15**|**Improved Single-Shot Qubit Readout Using Twin RF-SET Charge Correlations**|Santiago Serrano et.al.|[2307.07724](http://arxiv.org/abs/2307.07724)|null|

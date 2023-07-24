@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Violating Bell inequality using weak coherent states**|Moslem Mahdavifar et.al.|[2307.11123](http://arxiv.org/abs/2307.11123)|null|
 |**2023-07-20**|**Probing new physics through entanglement in diboson production**|Rafael Aoude et.al.|[2307.09675](http://arxiv.org/abs/2307.09675)|null|
 |**2023-07-14**|**Toy model illustrating the effect of measurement dependence on a Bell inequality**|Sophia M. Walls et.al.|[2307.07655](http://arxiv.org/abs/2307.07655)|null|
 |**2023-07-09**|**Unveiling the Connection: ER bridges and EPR in the work of Einstein**|Galina Weinstein et.al.|[2307.05548](http://arxiv.org/abs/2307.05548)|null|
@@ -219,6 +220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Conserved Quantities in Models of Classical Chaos**|Henry Ando et.al.|[2307.11733](http://arxiv.org/abs/2307.11733)|null|
+|**2023-07-21**|**Persistent Ballistic Entanglement Spreading with Optimal Control in Quantum Spin Chains**|Ying Lu et.al.|[2307.11609](http://arxiv.org/abs/2307.11609)|null|
 |**2023-07-17**|**Probing quantum chaos with the entropy of decoherent histories**|Evgeny Polyakov et.al.|[2307.10269](http://arxiv.org/abs/2307.10269)|null|
 |**2023-07-17**|**Singular-value statistics of non-Hermitian random matrices and open quantum systems**|Kohei Kawabata et.al.|[2307.08218](http://arxiv.org/abs/2307.08218)|null|
 |**2023-07-14**|**Signatures of Quantum Chaos and fermionization in the incoherent transport of bosonic carriers in the Bose-Hubbard chain**|P. S. Muraev et.al.|[2307.07208](http://arxiv.org/abs/2307.07208)|null|
@@ -285,6 +288,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Floquetifying the Colour Code**|Alex Townsend-Teague et.al.|[2307.11136](http://arxiv.org/abs/2307.11136)|null|
 |**2023-07-20**|**Robust sparse IQP sampling in constant depth**|Louis Paletta et.al.|[2307.10729](http://arxiv.org/abs/2307.10729)|null|
 |**2023-07-20**|**A parameterized approximation scheme for the 2D-Knapsack problem with wide items**|Michal Pilipczuk et.al.|[2307.10672](http://arxiv.org/abs/2307.10672)|null|
 |**2023-07-20**|**Narain CFTs from nonbinary stabilizer codes**|Yasin Ferdous Alam et.al.|[2307.10581](http://arxiv.org/abs/2307.10581)|null|

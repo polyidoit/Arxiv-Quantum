@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.23
+## Updated on 2023.07.24
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -81,7 +81,7 @@ layout: default
 |**2023-06-15**|**Causal classification of spatiotemporal quantum correlations**|Minjeong Song et.al.|[2306.09336](http://arxiv.org/abs/2306.09336)|null|
 |**2023-06-15**|**Single-Step Parity Check Gate Set for Quantum Error Correction**|Gözde Üstün et.al.|[2306.08849](http://arxiv.org/abs/2306.08849)|**[link](https://github.com/apassenger/error-analysis-in-qec)**|
 |**2023-06-09**|**Unification of spatiotemporal quantum formalisms: mapping between process and pseudo-density matrices via multiple-time states**|Xiangjing Liu et.al.|[2306.05958](http://arxiv.org/abs/2306.05958)|null|
-|**2023-06-02**|**On dynamical measures of quantum information**|James Fullwood et.al.|[2306.01831](http://arxiv.org/abs/2306.01831)|null|
+|**2023-07-21**|**On dynamical measures of quantum information**|James Fullwood et.al.|[2306.01831](http://arxiv.org/abs/2306.01831)|null|
 |**2023-06-01**|**Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting, and Prior Correction**|Robert A. Marsden et.al.|[2306.00650](http://arxiv.org/abs/2306.00650)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
 |**2023-05-31**|**Latent Exploration for Reinforcement Learning**|Alberto Silvio Chiappa et.al.|[2305.20065](http://arxiv.org/abs/2305.20065)|**[link](https://github.com/amathislab/lattice)**|
 |**2023-05-31**|**(Semi-)-device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|

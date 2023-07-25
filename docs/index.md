@@ -177,6 +177,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Improved simulation of quantum circuits dominated by free fermionic operations**|Oliver Reardon-Smith et.al.|[2307.12702](http://arxiv.org/abs/2307.12702)|null|
+|**2023-07-23**|**Linear magnetic susceptibility of anisotropic superconductors of cuboidal shape**|Ruslan Prozorov et.al.|[2307.12389](http://arxiv.org/abs/2307.12389)|null|
 |**2023-07-20**|**Distillable entanglement under dually non-entangling operations**|Ludovico Lami et.al.|[2307.11008](http://arxiv.org/abs/2307.11008)|null|
 |**2023-07-19**|**A Novel Self-Adaptive SIS Model Based on the Mutual Interaction between a Graph and its Line Graph**|Paolo Bartesaghi et.al.|[2307.09934](http://arxiv.org/abs/2307.09934)|null|
 |**2023-07-13**|**CART: Collision Avoidance and Robust Tracking Augmentation in Learning-based Motion Planning for Multi-Agent Systems**|Hiroyasu Tsukamoto et.al.|[2307.08602](http://arxiv.org/abs/2307.08602)|null|
@@ -288,6 +290,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**A Type $I$ Approximation of the Crossed Product**|Ronak M Soni et.al.|[2307.12481](http://arxiv.org/abs/2307.12481)|null|
+|**2023-07-23**|**Characterizing non-Markovian Quantum Processes by Fast Bayesian Tomography**|R. Y. Su et.al.|[2307.12452](http://arxiv.org/abs/2307.12452)|null|
 |**2023-07-20**|**Floquetifying the Colour Code**|Alex Townsend-Teague et.al.|[2307.11136](http://arxiv.org/abs/2307.11136)|null|
 |**2023-07-20**|**Robust sparse IQP sampling in constant depth**|Louis Paletta et.al.|[2307.10729](http://arxiv.org/abs/2307.10729)|null|
 |**2023-07-20**|**A parameterized approximation scheme for the 2D-Knapsack problem with wide items**|Michal Pilipczuk et.al.|[2307.10672](http://arxiv.org/abs/2307.10672)|null|

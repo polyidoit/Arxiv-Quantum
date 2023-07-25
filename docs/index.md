@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.24
+## Updated on 2023.07.25
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -119,7 +119,7 @@ layout: default
 |**2023-06-22**|**Pauli blocking effects on pair creation in strong electric field**|Mikalai Prakapenia et.al.|[2306.12956](http://arxiv.org/abs/2306.12956)|null|
 |**2023-06-21**|**Best-case scenarios for neutrino capture experiments**|Kyrylo Bondarenko et.al.|[2306.12366](http://arxiv.org/abs/2306.12366)|null|
 |**2023-06-12**|**Quantum contextuality of complementary photon polarizations explored by adaptive input state control**|Kengo Matsuyama et.al.|[2306.06831](http://arxiv.org/abs/2306.06831)|null|
-|**2023-06-09**|**NuCLR: Nuclear Co-Learned Representations**|Ouail Kitouni et.al.|[2306.06099](http://arxiv.org/abs/2306.06099)|null|
+|**2023-07-21**|**NuCLR: Nuclear Co-Learned Representations**|Ouail Kitouni et.al.|[2306.06099](http://arxiv.org/abs/2306.06099)|null|
 |**2023-05-26**|**Novel Machine Learning and Differentiable Programming Techniques applied to the VIP-2 Underground Experiment**|F Napolitano et.al.|[2305.17153](http://arxiv.org/abs/2305.17153)|null|
 |**2023-05-29**|**Can You Solve Closest String Faster than Exhaustive Search?**|Amir Abboud et.al.|[2305.16878](http://arxiv.org/abs/2305.16878)|null|
 |**2023-05-24**|**Cuts in Feynman Parameter Space**|Ruth Britto et.al.|[2305.15369](http://arxiv.org/abs/2305.15369)|null|

@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Entanglement and Bell inequalities violation in $H\to ZZ$ with anomalous coupling**|Alexander Bernal et.al.|[2307.13496](http://arxiv.org/abs/2307.13496)|null|
+|**2023-07-24**|**The shadows of quantum gravity on Bell's inequality**|H. Moradpour et.al.|[2307.13006](http://arxiv.org/abs/2307.13006)|null|
 |**2023-07-20**|**Violating Bell inequality using weak coherent states**|Moslem Mahdavifar et.al.|[2307.11123](http://arxiv.org/abs/2307.11123)|null|
 |**2023-07-20**|**Probing new physics through entanglement in diboson production**|Rafael Aoude et.al.|[2307.09675](http://arxiv.org/abs/2307.09675)|null|
 |**2023-07-14**|**Toy model illustrating the effect of measurement dependence on a Bell inequality**|Sophia M. Walls et.al.|[2307.07655](http://arxiv.org/abs/2307.07655)|null|
@@ -114,6 +116,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Quantum van der Waals theory meets quarkyonic matter**|Roman V. Poberezhnyuk et.al.|[2307.13532](http://arxiv.org/abs/2307.13532)|null|
 |**2023-07-12**|**A Fermi Model of Quantum Black Hole**|Chong-Sun Chu et.al.|[2307.06164](http://arxiv.org/abs/2307.06164)|null|
 |**2023-06-30**|**Anisotropic Coulomb exchange as source of Kitaev and off-diagonal symmetric anisotropic couplings**|Pritam Bhattacharyya et.al.|[2306.17491](http://arxiv.org/abs/2306.17491)|null|
 |**2023-06-22**|**Pauli blocking effects on pair creation in strong electric field**|Mikalai Prakapenia et.al.|[2306.12956](http://arxiv.org/abs/2306.12956)|null|
@@ -177,6 +180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Coherence via reiterated beam splitting**|Guillermo Díez et.al.|[2307.13279](http://arxiv.org/abs/2307.13279)|null|
 |**2023-07-24**|**Improved simulation of quantum circuits dominated by free fermionic operations**|Oliver Reardon-Smith et.al.|[2307.12702](http://arxiv.org/abs/2307.12702)|null|
 |**2023-07-23**|**Linear magnetic susceptibility of anisotropic superconductors of cuboidal shape**|Ruslan Prozorov et.al.|[2307.12389](http://arxiv.org/abs/2307.12389)|null|
 |**2023-07-20**|**Distillable entanglement under dually non-entangling operations**|Ludovico Lami et.al.|[2307.11008](http://arxiv.org/abs/2307.11008)|null|
@@ -222,6 +226,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Photonic quantum signatures of chaos and boson sampling**|V. M. Bastidas et.al.|[2307.13200](http://arxiv.org/abs/2307.13200)|null|
 |**2023-07-17**|**Conserved Quantities in Models of Classical Chaos**|Henry Ando et.al.|[2307.11733](http://arxiv.org/abs/2307.11733)|null|
 |**2023-07-21**|**Persistent Ballistic Entanglement Spreading with Optimal Control in Quantum Spin Chains**|Ying Lu et.al.|[2307.11609](http://arxiv.org/abs/2307.11609)|null|
 |**2023-07-17**|**Probing quantum chaos with the entropy of decoherent histories**|Evgeny Polyakov et.al.|[2307.10269](http://arxiv.org/abs/2307.10269)|null|
@@ -290,6 +295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|null|
+|**2023-07-25**|**Measurement-free fault-tolerant quantum error correction in near-term devices**|Sascha Heußen et.al.|[2307.13296](http://arxiv.org/abs/2307.13296)|null|
 |**2023-07-24**|**A Type $I$ Approximation of the Crossed Product**|Ronak M Soni et.al.|[2307.12481](http://arxiv.org/abs/2307.12481)|null|
 |**2023-07-23**|**Characterizing non-Markovian Quantum Processes by Fast Bayesian Tomography**|R. Y. Su et.al.|[2307.12452](http://arxiv.org/abs/2307.12452)|null|
 |**2023-07-20**|**Floquetifying the Colour Code**|Alex Townsend-Teague et.al.|[2307.11136](http://arxiv.org/abs/2307.11136)|null|

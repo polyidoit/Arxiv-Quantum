@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Isolating semi-leptonic $H\rightarrow WW^{*}$ decays for Bell inequality tests**|Federica Fabbri et.al.|[2307.13783](http://arxiv.org/abs/2307.13783)|null|
 |**2023-07-25**|**Entanglement and Bell inequalities violation in $H\to ZZ$ with anomalous coupling**|Alexander Bernal et.al.|[2307.13496](http://arxiv.org/abs/2307.13496)|null|
 |**2023-07-24**|**The shadows of quantum gravity on Bell's inequality**|H. Moradpour et.al.|[2307.13006](http://arxiv.org/abs/2307.13006)|null|
 |**2023-07-20**|**Violating Bell inequality using weak coherent states**|Moslem Mahdavifar et.al.|[2307.11123](http://arxiv.org/abs/2307.11123)|null|
@@ -180,6 +181,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Imaginarity of Gaussian states**|Jianwei Xu et.al.|[2307.14116](http://arxiv.org/abs/2307.14116)|null|
 |**2023-07-25**|**Coherence via reiterated beam splitting**|Guillermo Díez et.al.|[2307.13279](http://arxiv.org/abs/2307.13279)|null|
 |**2023-07-25**|**Improved simulation of quantum circuits dominated by free fermionic operations**|Oliver Reardon-Smith et.al.|[2307.12702](http://arxiv.org/abs/2307.12702)|null|
 |**2023-07-23**|**Linear magnetic susceptibility of anisotropic superconductors of cuboidal shape**|Ruslan Prozorov et.al.|[2307.12389](http://arxiv.org/abs/2307.12389)|null|

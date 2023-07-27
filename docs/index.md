@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -181,7 +181,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-25**|**Coherence via reiterated beam splitting**|Guillermo Díez et.al.|[2307.13279](http://arxiv.org/abs/2307.13279)|null|
-|**2023-07-24**|**Improved simulation of quantum circuits dominated by free fermionic operations**|Oliver Reardon-Smith et.al.|[2307.12702](http://arxiv.org/abs/2307.12702)|null|
+|**2023-07-25**|**Improved simulation of quantum circuits dominated by free fermionic operations**|Oliver Reardon-Smith et.al.|[2307.12702](http://arxiv.org/abs/2307.12702)|null|
 |**2023-07-23**|**Linear magnetic susceptibility of anisotropic superconductors of cuboidal shape**|Ruslan Prozorov et.al.|[2307.12389](http://arxiv.org/abs/2307.12389)|null|
 |**2023-07-20**|**Distillable entanglement under dually non-entangling operations**|Ludovico Lami et.al.|[2307.11008](http://arxiv.org/abs/2307.11008)|null|
 |**2023-07-19**|**A Novel Self-Adaptive SIS Model Based on the Mutual Interaction between a Graph and its Line Graph**|Paolo Bartesaghi et.al.|[2307.09934](http://arxiv.org/abs/2307.09934)|null|

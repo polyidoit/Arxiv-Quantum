@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**New observables for testing Bell inequalities in $W$ boson pair production**|Qi Bi et.al.|[2307.14895](http://arxiv.org/abs/2307.14895)|null|
 |**2023-07-25**|**Isolating semi-leptonic $H\rightarrow WW^{*}$ decays for Bell inequality tests**|Federica Fabbri et.al.|[2307.13783](http://arxiv.org/abs/2307.13783)|null|
 |**2023-07-25**|**Entanglement and Bell inequalities violation in $H\to ZZ$ with anomalous coupling**|Alexander Bernal et.al.|[2307.13496](http://arxiv.org/abs/2307.13496)|null|
 |**2023-07-24**|**The shadows of quantum gravity on Bell's inequality**|H. Moradpour et.al.|[2307.13006](http://arxiv.org/abs/2307.13006)|null|
@@ -228,6 +229,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**Exposing Hypersensitivity in Quantum Chaotic Dynamics**|Andrzej Grudka et.al.|[2307.14678](http://arxiv.org/abs/2307.14678)|null|
+|**2023-07-26**|**Reappearance of Thermalization Dynamics in the Late-Time Spectral Form Factor**|Michael Winer et.al.|[2307.14415](http://arxiv.org/abs/2307.14415)|null|
 |**2023-07-25**|**Photonic quantum signatures of chaos and boson sampling**|V. M. Bastidas et.al.|[2307.13200](http://arxiv.org/abs/2307.13200)|null|
 |**2023-07-17**|**Conserved Quantities in Models of Classical Chaos**|Henry Ando et.al.|[2307.11733](http://arxiv.org/abs/2307.11733)|null|
 |**2023-07-21**|**Persistent Ballistic Entanglement Spreading with Optimal Control in Quantum Spin Chains**|Ying Lu et.al.|[2307.11609](http://arxiv.org/abs/2307.11609)|null|
@@ -297,7 +300,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|null|
+|**2023-07-27**|**Dissipation-enabled bosonic Hamiltonian learning via new information-propagation bounds**|Tim Möbus et.al.|[2307.15026](http://arxiv.org/abs/2307.15026)|null|
+|**2023-07-27**|**Decoding algorithms for surface codes**|Antonio deMarti iOlius et.al.|[2307.14989](http://arxiv.org/abs/2307.14989)|null|
+|**2023-07-27**|**Supersymmetric conformal field theories from quantum stabilizer codes**|Kohki Kawabata et.al.|[2307.14602](http://arxiv.org/abs/2307.14602)|null|
+|**2023-07-26**|**Analysis of syndrome-based iterative decoder failure of QLDPC codes**|Kirsten D. Morris et.al.|[2307.14532](http://arxiv.org/abs/2307.14532)|null|
+|**2023-07-26**|**Code conversion with the quantum Golay code for a universal transversal gate set**|Matthew Sullivan et.al.|[2307.14425](http://arxiv.org/abs/2307.14425)|null|
+|**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|**[link](https://github.com/dua-arpit/floquetcodes)**|
 |**2023-07-25**|**Measurement-free fault-tolerant quantum error correction in near-term devices**|Sascha Heußen et.al.|[2307.13296](http://arxiv.org/abs/2307.13296)|null|
 |**2023-07-24**|**A Type $I$ Approximation of the Crossed Product**|Ronak M Soni et.al.|[2307.12481](http://arxiv.org/abs/2307.12481)|null|
 |**2023-07-23**|**Characterizing non-Markovian Quantum Processes by Fast Bayesian Tomography**|R. Y. Su et.al.|[2307.12452](http://arxiv.org/abs/2307.12452)|null|

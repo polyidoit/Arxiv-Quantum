@@ -229,6 +229,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Krylov Complexity and Spectral Form Factor for Noisy Random Matrix Models**|Arpan Bhattacharyya et.al.|[2307.15495](http://arxiv.org/abs/2307.15495)|null|
 |**2023-07-27**|**Exposing Hypersensitivity in Quantum Chaotic Dynamics**|Andrzej Grudka et.al.|[2307.14678](http://arxiv.org/abs/2307.14678)|null|
 |**2023-07-26**|**Reappearance of Thermalization Dynamics in the Late-Time Spectral Form Factor**|Michael Winer et.al.|[2307.14415](http://arxiv.org/abs/2307.14415)|null|
 |**2023-07-25**|**Photonic quantum signatures of chaos and boson sampling**|V. M. Bastidas et.al.|[2307.13200](http://arxiv.org/abs/2307.13200)|null|
@@ -300,6 +301,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**MDS, Hermitian Almost MDS, and Gilbert-Varshamov Quantum Codes from Generalized Monomial-Cartesian Codes**|Beatriz Barbero-Lucas et.al.|[2307.15488](http://arxiv.org/abs/2307.15488)|null|
 |**2023-07-27**|**Dissipation-enabled bosonic Hamiltonian learning via new information-propagation bounds**|Tim Möbus et.al.|[2307.15026](http://arxiv.org/abs/2307.15026)|null|
 |**2023-07-27**|**Decoding algorithms for surface codes**|Antonio deMarti iOlius et.al.|[2307.14989](http://arxiv.org/abs/2307.14989)|null|
 |**2023-07-27**|**Supersymmetric conformal field theories from quantum stabilizer codes**|Kohki Kawabata et.al.|[2307.14602](http://arxiv.org/abs/2307.14602)|null|

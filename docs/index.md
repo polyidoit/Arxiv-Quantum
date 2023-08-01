@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -231,7 +231,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-28**|**Krylov Complexity and Spectral Form Factor for Noisy Random Matrix Models**|Arpan Bhattacharyya et.al.|[2307.15495](http://arxiv.org/abs/2307.15495)|null|
 |**2023-07-27**|**Exposing Hypersensitivity in Quantum Chaotic Dynamics**|Andrzej Grudka et.al.|[2307.14678](http://arxiv.org/abs/2307.14678)|null|
-|**2023-07-26**|**Reappearance of Thermalization Dynamics in the Late-Time Spectral Form Factor**|Michael Winer et.al.|[2307.14415](http://arxiv.org/abs/2307.14415)|null|
+|**2023-07-31**|**Reappearance of Thermalization Dynamics in the Late-Time Spectral Form Factor**|Michael Winer et.al.|[2307.14415](http://arxiv.org/abs/2307.14415)|null|
 |**2023-07-25**|**Photonic quantum signatures of chaos and boson sampling**|V. M. Bastidas et.al.|[2307.13200](http://arxiv.org/abs/2307.13200)|null|
 |**2023-07-17**|**Conserved Quantities in Models of Classical Chaos**|Henry Ando et.al.|[2307.11733](http://arxiv.org/abs/2307.11733)|null|
 |**2023-07-21**|**Persistent Ballistic Entanglement Spreading with Optimal Control in Quantum Spin Chains**|Ying Lu et.al.|[2307.11609](http://arxiv.org/abs/2307.11609)|null|
@@ -309,7 +309,7 @@ layout: default
 |**2023-07-26**|**Code conversion with the quantum Golay code for a universal transversal gate set**|Matthew Sullivan et.al.|[2307.14425](http://arxiv.org/abs/2307.14425)|null|
 |**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|**[link](https://github.com/dua-arpit/floquetcodes)**|
 |**2023-07-25**|**Measurement-free fault-tolerant quantum error correction in near-term devices**|Sascha Heußen et.al.|[2307.13296](http://arxiv.org/abs/2307.13296)|null|
-|**2023-07-24**|**A Type $I$ Approximation of the Crossed Product**|Ronak M Soni et.al.|[2307.12481](http://arxiv.org/abs/2307.12481)|null|
+|**2023-07-28**|**A Type $I$ Approximation of the Crossed Product**|Ronak M Soni et.al.|[2307.12481](http://arxiv.org/abs/2307.12481)|null|
 |**2023-07-23**|**Characterizing non-Markovian Quantum Processes by Fast Bayesian Tomography**|R. Y. Su et.al.|[2307.12452](http://arxiv.org/abs/2307.12452)|null|
 |**2023-07-20**|**Floquetifying the Colour Code**|Alex Townsend-Teague et.al.|[2307.11136](http://arxiv.org/abs/2307.11136)|null|
 |**2023-07-20**|**Robust sparse IQP sampling in constant depth**|Louis Paletta et.al.|[2307.10729](http://arxiv.org/abs/2307.10729)|null|

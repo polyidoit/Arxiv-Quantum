@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
+|**2023-07-29**|**Generalized Bell scenarios: disturbing consequences on local-hidden-variable models**|André Mazzari et.al.|[2307.16058](http://arxiv.org/abs/2307.16058)|null|
 |**2023-07-27**|**New observables for testing Bell inequalities in $W$ boson pair production**|Qi Bi et.al.|[2307.14895](http://arxiv.org/abs/2307.14895)|null|
 |**2023-07-25**|**Isolating semi-leptonic $H\rightarrow WW^{*}$ decays for Bell inequality tests**|Federica Fabbri et.al.|[2307.13783](http://arxiv.org/abs/2307.13783)|null|
 |**2023-07-25**|**Entanglement and Bell inequalities violation in $H\to ZZ$ with anomalous coupling**|Alexander Bernal et.al.|[2307.13496](http://arxiv.org/abs/2307.13496)|null|
@@ -131,6 +133,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**String Theory Bounds on the Cosmological Constant, the Higgs mass, and the Quark and Lepton Masses**|Per Berglund et.al.|[2307.16712](http://arxiv.org/abs/2307.16712)|null|
+|**2023-07-30**|**Non-Kochen-Specker Contextuality**|Mladen Pavicic et.al.|[2307.16339](http://arxiv.org/abs/2307.16339)|null|
 |**2023-07-25**|**Quantum van der Waals theory meets quarkyonic matter**|Roman V. Poberezhnyuk et.al.|[2307.13532](http://arxiv.org/abs/2307.13532)|null|
 |**2023-07-12**|**A Fermi Model of Quantum Black Hole**|Chong-Sun Chu et.al.|[2307.06164](http://arxiv.org/abs/2307.06164)|null|
 |**2023-06-30**|**Anisotropic Coulomb exchange as source of Kitaev and off-diagonal symmetric anisotropic couplings**|Pritam Bhattacharyya et.al.|[2306.17491](http://arxiv.org/abs/2306.17491)|null|
@@ -170,6 +174,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
 |**2023-07-19**|**Sharing EPR steering between sequential pairs of observers**|Qiao-Qiao Lv et.al.|[2307.09928](http://arxiv.org/abs/2307.09928)|null|
 |**2023-07-19**|**Enhanced bipartite entanglement and Gaussian quantum steering of squeezed magnon modes**|Shaik Ahmed et.al.|[2307.09846](http://arxiv.org/abs/2307.09846)|null|
 |**2023-07-17**|**Quantum steering without free will**|Shubhayan Sarkar et.al.|[2307.08797](http://arxiv.org/abs/2307.08797)|null|
@@ -248,6 +253,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Pole-skipping as order parameter to probe a quantum critical point**|Navid Abbasi et.al.|[2307.16716](http://arxiv.org/abs/2307.16716)|null|
 |**2023-07-28**|**Krylov Complexity and Spectral Form Factor for Noisy Random Matrix Models**|Arpan Bhattacharyya et.al.|[2307.15495](http://arxiv.org/abs/2307.15495)|null|
 |**2023-07-27**|**Exposing Hypersensitivity in Quantum Chaotic Dynamics**|Andrzej Grudka et.al.|[2307.14678](http://arxiv.org/abs/2307.14678)|null|
 |**2023-07-31**|**Reappearance of Thermalization Dynamics in the Late-Time Spectral Form Factor**|Michael Winer et.al.|[2307.14415](http://arxiv.org/abs/2307.14415)|null|
@@ -322,6 +328,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Toward Privacy in Quantum Program Execution On Untrusted Quantum Cloud Computing Machines for Business-sensitive Quantum Needs**|Tirthak Patel et.al.|[2307.16799](http://arxiv.org/abs/2307.16799)|null|
+|**2023-07-31**|**Fight or Flight: Cosmic Ray-Induced Phonons and the Quantum Surface Code**|Bernard Ousmane Sane et.al.|[2307.16533](http://arxiv.org/abs/2307.16533)|null|
+|**2023-07-30**|**A comprehensive survey on quantum computer usage: How many qubits are employed for what purposes?**|Tsubasa Ichikawa et.al.|[2307.16130](http://arxiv.org/abs/2307.16130)|null|
 |**2023-07-28**|**MDS, Hermitian Almost MDS, and Gilbert-Varshamov Quantum Codes from Generalized Monomial-Cartesian Codes**|Beatriz Barbero-Lucas et.al.|[2307.15488](http://arxiv.org/abs/2307.15488)|null|
 |**2023-07-27**|**Dissipation-enabled bosonic Hamiltonian learning via new information-propagation bounds**|Tim Möbus et.al.|[2307.15026](http://arxiv.org/abs/2307.15026)|null|
 |**2023-07-27**|**Decoding algorithms for surface codes**|Antonio deMarti iOlius et.al.|[2307.14989](http://arxiv.org/abs/2307.14989)|null|

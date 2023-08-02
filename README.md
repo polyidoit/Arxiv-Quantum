@@ -204,6 +204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Continuity of the relative entropy of resource**|Ludovico Lami et.al.|[2308.00696](http://arxiv.org/abs/2308.00696)|null|
 |**2023-07-26**|**Imaginarity of Gaussian states**|Jianwei Xu et.al.|[2307.14116](http://arxiv.org/abs/2307.14116)|null|
 |**2023-07-25**|**Coherence via reiterated beam splitting**|Guillermo Díez et.al.|[2307.13279](http://arxiv.org/abs/2307.13279)|null|
 |**2023-07-25**|**Improved simulation of quantum circuits dominated by free fermionic operations**|Oliver Reardon-Smith et.al.|[2307.12702](http://arxiv.org/abs/2307.12702)|null|
@@ -328,6 +329,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Near MDS and near quantum MDS codes via orthogonal arrays**|Shanqi Pang et.al.|[2308.00406](http://arxiv.org/abs/2308.00406)|null|
+|**2023-08-01**|**Quantum error correction with an Ising machine under circuit-level noise**|Jun Fujisaki et.al.|[2308.00369](http://arxiv.org/abs/2308.00369)|null|
+|**2023-08-01**|**Scalable quantum measurement error mitigation via conditional independence and transfer learning**|ChangWon Lee et.al.|[2308.00320](http://arxiv.org/abs/2308.00320)|null|
 |**2023-07-31**|**Toward Privacy in Quantum Program Execution On Untrusted Quantum Cloud Computing Machines for Business-sensitive Quantum Needs**|Tirthak Patel et.al.|[2307.16799](http://arxiv.org/abs/2307.16799)|null|
 |**2023-07-31**|**Fight or Flight: Cosmic Ray-Induced Phonons and the Quantum Surface Code**|Bernard Ousmane Sane et.al.|[2307.16533](http://arxiv.org/abs/2307.16533)|null|
 |**2023-07-30**|**A comprehensive survey on quantum computer usage: How many qubits are employed for what purposes?**|Tsubasa Ichikawa et.al.|[2307.16130](http://arxiv.org/abs/2307.16130)|null|

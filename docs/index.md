@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.01
+## Updated on 2023.08.02
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -238,7 +238,7 @@ layout: default
 |**2023-07-28**|**Krylov Complexity and Spectral Form Factor for Noisy Random Matrix Models**|Arpan Bhattacharyya et.al.|[2307.15495](http://arxiv.org/abs/2307.15495)|null|
 |**2023-07-27**|**Exposing Hypersensitivity in Quantum Chaotic Dynamics**|Andrzej Grudka et.al.|[2307.14678](http://arxiv.org/abs/2307.14678)|null|
 |**2023-07-31**|**Reappearance of Thermalization Dynamics in the Late-Time Spectral Form Factor**|Michael Winer et.al.|[2307.14415](http://arxiv.org/abs/2307.14415)|null|
-|**2023-07-25**|**Photonic quantum signatures of chaos and boson sampling**|V. M. Bastidas et.al.|[2307.13200](http://arxiv.org/abs/2307.13200)|null|
+|**2023-08-01**|**Photonic quantum signatures of chaos and boson sampling**|V. M. Bastidas et.al.|[2307.13200](http://arxiv.org/abs/2307.13200)|null|
 |**2023-07-17**|**Conserved Quantities in Models of Classical Chaos**|Henry Ando et.al.|[2307.11733](http://arxiv.org/abs/2307.11733)|null|
 |**2023-07-21**|**Persistent Ballistic Entanglement Spreading with Optimal Control in Quantum Spin Chains**|Ying Lu et.al.|[2307.11609](http://arxiv.org/abs/2307.11609)|null|
 |**2023-07-17**|**Probing quantum chaos with the entropy of decoherent histories**|Evgeny Polyakov et.al.|[2307.10269](http://arxiv.org/abs/2307.10269)|null|

@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.08.02
+## Updated on 2023.08.03
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
-|**2023-07-29**|**Generalized Bell scenarios: disturbing consequences on local-hidden-variable models**|André Mazzari et.al.|[2307.16058](http://arxiv.org/abs/2307.16058)|null|
+|**2023-07-29**|**Generalized Bell scenarios: disturbing consequences on local-hidden-variable models**|André Mazzari et.al.|[2307.16058](http://arxiv.org/abs/2307.16058)|**[link](https://github.com/andremazzari/generalized-bell-scenarios-disturbing-consequences-on-local-hidden-variable-models)**|
 |**2023-07-27**|**New observables for testing Bell inequalities in $W$ boson pair production**|Qi Bi et.al.|[2307.14895](http://arxiv.org/abs/2307.14895)|null|
 |**2023-07-25**|**Isolating semi-leptonic $H\rightarrow WW^{*}$ decays for Bell inequality tests**|Federica Fabbri et.al.|[2307.13783](http://arxiv.org/abs/2307.13783)|null|
 |**2023-07-25**|**Entanglement and Bell inequalities violation in $H\to ZZ$ with anomalous coupling**|Alexander Bernal et.al.|[2307.13496](http://arxiv.org/abs/2307.13496)|null|

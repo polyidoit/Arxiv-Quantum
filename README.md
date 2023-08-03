@@ -93,6 +93,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Multi-time quantum process tomography of a superconducting qubit**|Christina Giarmatzi et.al.|[2308.00750](http://arxiv.org/abs/2308.00750)|null|
 |**2023-07-18**|**Matrix Profile based Anomaly Detection in Streaming Gait Data for Fall Prevention**|Branislav Gerazov et.al.|[2307.09121](http://arxiv.org/abs/2307.09121)|null|
 |**2023-07-05**|**Nonclassicality in correlations without causal order**|Ravi Kunjwal et.al.|[2307.02565](http://arxiv.org/abs/2307.02565)|null|
 |**2023-06-26**|**FPGA Implementation of Convolutional Neural Network for Real-Time Handwriting Recognition**|Shichen Qiao et.al.|[2306.13557](http://arxiv.org/abs/2306.13557)|**[link](https://github.com/shichenqiao/ece554_sp23_fpga_handwriting_recognition)**|
@@ -254,6 +255,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Quantum Reservoir Probing of Quantum Information Scrambling**|Kaito Kobayashi et.al.|[2308.00898](http://arxiv.org/abs/2308.00898)|null|
 |**2023-07-31**|**Pole-skipping as order parameter to probe a quantum critical point**|Navid Abbasi et.al.|[2307.16716](http://arxiv.org/abs/2307.16716)|null|
 |**2023-07-28**|**Krylov Complexity and Spectral Form Factor for Noisy Random Matrix Models**|Arpan Bhattacharyya et.al.|[2307.15495](http://arxiv.org/abs/2307.15495)|null|
 |**2023-07-27**|**Exposing Hypersensitivity in Quantum Chaotic Dynamics**|Andrzej Grudka et.al.|[2307.14678](http://arxiv.org/abs/2307.14678)|null|
@@ -329,6 +331,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Fast equivalence checking of quantum circuits of Clifford gates**|Dimitrios Thanos et.al.|[2308.01206](http://arxiv.org/abs/2308.01206)|null|
 |**2023-08-01**|**Near MDS and near quantum MDS codes via orthogonal arrays**|Shanqi Pang et.al.|[2308.00406](http://arxiv.org/abs/2308.00406)|null|
 |**2023-08-01**|**Quantum error correction with an Ising machine under circuit-level noise**|Jun Fujisaki et.al.|[2308.00369](http://arxiv.org/abs/2308.00369)|null|
 |**2023-08-01**|**Scalable quantum measurement error mitigation via conditional independence and transfer learning**|ChangWon Lee et.al.|[2308.00320](http://arxiv.org/abs/2308.00320)|null|

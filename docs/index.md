@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.03
+## Updated on 2023.08.04
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -165,7 +165,7 @@ layout: default
 |**2023-07-19**|**Enhanced bipartite entanglement and Gaussian quantum steering of squeezed magnon modes**|Shaik Ahmed et.al.|[2307.09846](http://arxiv.org/abs/2307.09846)|null|
 |**2023-07-17**|**Quantum steering without free will**|Shubhayan Sarkar et.al.|[2307.08797](http://arxiv.org/abs/2307.08797)|null|
 |**2023-07-05**|**Randomness Certification from Multipartite Quantum Steering for Arbitrary Dimensional Systems**|Yi Li et.al.|[2307.02061](http://arxiv.org/abs/2307.02061)|null|
-|**2023-06-25**|**On steering in the C*-algebraic framework**|Michal Banacki et.al.|[2306.14344](http://arxiv.org/abs/2306.14344)|null|
+|**2023-08-03**|**On steering in the C*-algebraic framework**|Michal Banacki et.al.|[2306.14344](http://arxiv.org/abs/2306.14344)|null|
 |**2023-06-08**|**Deep learning the hierarchy of steering measurement settings of qubit-pair states**|Hong-Ming Wang et.al.|[2306.05201](http://arxiv.org/abs/2306.05201)|null|
 |**2023-05-23**|**Semi-device independent nonlocality certification for near-term quantum networks**|Sophie Engineer et.al.|[2305.14116](http://arxiv.org/abs/2305.14116)|null|
 |**2023-04-30**|**Quantum correlation generation capability of experimental processes**|Wei-Hao Huang et.al.|[2305.00370](http://arxiv.org/abs/2305.00370)|null|

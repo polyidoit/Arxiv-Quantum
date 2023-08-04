@@ -188,6 +188,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Multi-robot Path Planning with Rapidly-exploring Random Disjointed-Trees**|Biru Zhang et.al.|[2308.01533](http://arxiv.org/abs/2308.01533)|null|
 |**2023-08-01**|**Continuity of the relative entropy of resource**|Ludovico Lami et.al.|[2308.00696](http://arxiv.org/abs/2308.00696)|null|
 |**2023-07-26**|**Imaginarity of Gaussian states**|Jianwei Xu et.al.|[2307.14116](http://arxiv.org/abs/2307.14116)|null|
 |**2023-07-25**|**Coherence via reiterated beam splitting**|Guillermo Díez et.al.|[2307.13279](http://arxiv.org/abs/2307.13279)|null|
@@ -310,6 +311,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Quantum Maps Between CPTP and HPTP**|Ningping Cao et.al.|[2308.01894](http://arxiv.org/abs/2308.01894)|null|
+|**2023-08-03**|**Narain CFTs from quantum codes and their $\mathbb{Z}_2$ gauging**|Kohki Kawabata et.al.|[2308.01579](http://arxiv.org/abs/2308.01579)|null|
+|**2023-08-03**|**Correcting biased noise using Gottesman-Kitaev-Preskill repetition code with noisy ancilla**|Zhifei Li et.al.|[2308.01549](http://arxiv.org/abs/2308.01549)|null|
 |**2023-08-02**|**Fast equivalence checking of quantum circuits of Clifford gates**|Dimitrios Thanos et.al.|[2308.01206](http://arxiv.org/abs/2308.01206)|null|
 |**2023-08-01**|**Near MDS and near quantum MDS codes via orthogonal arrays**|Shanqi Pang et.al.|[2308.00406](http://arxiv.org/abs/2308.00406)|null|
 |**2023-08-01**|**Quantum error correction with an Ising machine under circuit-level noise**|Jun Fujisaki et.al.|[2308.00369](http://arxiv.org/abs/2308.00369)|null|

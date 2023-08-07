@@ -452,7 +452,7 @@ layout: default
 |**2023-04-13**|**Pauli Manipulation Detection codes and Applications to Quantum Communication over Adversarial Channels**|Thiago Bergamaschi et.al.|[2304.06269](http://arxiv.org/abs/2304.06269)|null|
 |**2023-04-11**|**High-fidelity parallel entangling gates on a neutral atom quantum computer**|Simon J. Evered et.al.|[2304.05420](http://arxiv.org/abs/2304.05420)|null|
 |**2023-04-11**|**Unveiling the non-Abelian statistics of $D(S_3)$ anyons via photonic simulation**|Suraj Goel et.al.|[2304.05286](http://arxiv.org/abs/2304.05286)|null|
-|**2023-04-10**|**Improved Logical Error Rate via List Decoding of Quantum Polar Codes**|Anqi Gong et.al.|[2304.04743](http://arxiv.org/abs/2304.04743)|null|
+|**2023-04-10**|**Improved Logical Error Rate via List Decoding of Quantum Polar Codes**|Anqi Gong et.al.|[2304.04743](http://arxiv.org/abs/2304.04743)|**[link](https://github.com/gongaa/pw-qpc)**|
 |**2023-04-06**|**Protecting information via probabilistic cellular automata**|Annie Ray et.al.|[2304.03240](http://arxiv.org/abs/2304.03240)|null|
 |**2023-04-05**|**Holographic Codes from Hyperinvariant Tensor Networks**|Matthew Steinberg et.al.|[2304.02732](http://arxiv.org/abs/2304.02732)|null|
 |**2023-04-05**|**Quantum Coding Transitions in the Presence of Boundary Dissipation**|Izabella Lovas et.al.|[2304.02664](http://arxiv.org/abs/2304.02664)|null|

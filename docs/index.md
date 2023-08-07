@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Classifying Causal Structures: Ascertaining when Classical Correlations are Constrained by Inequalities**|Shashaank Khanna et.al.|[2308.02380](http://arxiv.org/abs/2308.02380)|null|
 |**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
 |**2023-07-29**|**Generalized Bell scenarios: disturbing consequences on local-hidden-variable models**|André Mazzari et.al.|[2307.16058](http://arxiv.org/abs/2307.16058)|**[link](https://github.com/andremazzari/generalized-bell-scenarios-disturbing-consequences-on-local-hidden-variable-models)**|
 |**2023-07-27**|**New observables for testing Bell inequalities in $W$ boson pair production**|Qi Bi et.al.|[2307.14895](http://arxiv.org/abs/2307.14895)|null|
@@ -121,6 +122,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Sequential propagation of a single photon through five measurement contexts in a three-path interferometer**|Holger F. Hofmann et.al.|[2308.02086](http://arxiv.org/abs/2308.02086)|null|
 |**2023-07-31**|**String Theory Bounds on the Cosmological Constant, the Higgs mass, and the Quark and Lepton Masses**|Per Berglund et.al.|[2307.16712](http://arxiv.org/abs/2307.16712)|null|
 |**2023-07-30**|**Non-Kochen-Specker Contextuality**|Mladen Pavicic et.al.|[2307.16339](http://arxiv.org/abs/2307.16339)|null|
 |**2023-07-25**|**Quantum van der Waals theory meets quarkyonic matter**|Roman V. Poberezhnyuk et.al.|[2307.13532](http://arxiv.org/abs/2307.13532)|null|
@@ -160,6 +162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Scalable multiparty steering based on a single pair of entangled qubits**|Alex Pepper et.al.|[2308.02296](http://arxiv.org/abs/2308.02296)|null|
 |**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
 |**2023-07-19**|**Sharing EPR steering between sequential pairs of observers**|Qiao-Qiao Lv et.al.|[2307.09928](http://arxiv.org/abs/2307.09928)|null|
 |**2023-07-19**|**Enhanced bipartite entanglement and Gaussian quantum steering of squeezed magnon modes**|Shaik Ahmed et.al.|[2307.09846](http://arxiv.org/abs/2307.09846)|null|
@@ -237,6 +240,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Quantum chaos without false positives**|Dmitrii A. Trunin et.al.|[2308.02403](http://arxiv.org/abs/2308.02403)|null|
+|**2023-08-04**|**Refined quantum Lyapunov exponents from replica out-of-time-order correlators**|Dmitrii A. Trunin et.al.|[2308.02392](http://arxiv.org/abs/2308.02392)|null|
 |**2023-08-02**|**Quantum Reservoir Probing of Quantum Information Scrambling**|Kaito Kobayashi et.al.|[2308.00898](http://arxiv.org/abs/2308.00898)|null|
 |**2023-07-31**|**Pole-skipping as order parameter to probe a quantum critical point**|Navid Abbasi et.al.|[2307.16716](http://arxiv.org/abs/2307.16716)|null|
 |**2023-07-28**|**Krylov Complexity and Spectral Form Factor for Noisy Random Matrix Models**|Arpan Bhattacharyya et.al.|[2307.15495](http://arxiv.org/abs/2307.15495)|null|
@@ -311,6 +316,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Optimizing quantum gates towards the scale of logical qubits**|Paul V. Klimov et.al.|[2308.02321](http://arxiv.org/abs/2308.02321)|null|
 |**2023-08-03**|**Quantum Maps Between CPTP and HPTP**|Ningping Cao et.al.|[2308.01894](http://arxiv.org/abs/2308.01894)|null|
 |**2023-08-03**|**Narain CFTs from quantum codes and their $\mathbb{Z}_2$ gauging**|Kohki Kawabata et.al.|[2308.01579](http://arxiv.org/abs/2308.01579)|null|
 |**2023-08-03**|**Correcting biased noise using Gottesman-Kitaev-Preskill repetition code with noisy ancilla**|Zhifei Li et.al.|[2308.01549](http://arxiv.org/abs/2308.01549)|null|

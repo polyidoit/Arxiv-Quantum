@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.06
+## Updated on 2023.08.07
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -93,7 +93,7 @@ layout: default
 |**2023-06-01**|**Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting, and Prior Correction**|Robert A. Marsden et.al.|[2306.00650](http://arxiv.org/abs/2306.00650)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
 |**2023-05-31**|**Latent Exploration for Reinforcement Learning**|Alberto Silvio Chiappa et.al.|[2305.20065](http://arxiv.org/abs/2305.20065)|**[link](https://github.com/amathislab/lattice)**|
 |**2023-05-31**|**(Semi-)-device independently characterizing quantum temporal correlations**|Shin-Liang Chen et.al.|[2305.19548](http://arxiv.org/abs/2305.19548)|null|
-|**2023-05-30**|**Higher-order Process Matrix Tomography of a passively-stable Quantum SWITCH**|Michael Antesberger et.al.|[2305.19386](http://arxiv.org/abs/2305.19386)|null|
+|**2023-08-02**|**Higher-order Process Matrix Tomography of a passively-stable Quantum SWITCH**|Michael Antesberger et.al.|[2305.19386](http://arxiv.org/abs/2305.19386)|null|
 |**2023-05-30**|**On the Choice of Perception Loss Function for Learned Video Compression**|Sadaf Salehkalaibar et.al.|[2305.19301](http://arxiv.org/abs/2305.19301)|null|
 |**2023-05-30**|**Witnessing environment dimension through temporal correlations**|Lucas B. Vieira et.al.|[2305.19175](http://arxiv.org/abs/2305.19175)|null|
 |**2023-05-30**|**EmotionGesture: Audio-Driven Diverse Emotional Co-Speech 3D Gesture Generation**|Xingqun Qi et.al.|[2305.18891](http://arxiv.org/abs/2305.18891)|null|

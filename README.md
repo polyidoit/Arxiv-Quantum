@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-06**|**Monte Carlo approach to evaluation of the security of device-independent quantum key distribution**|Hong-Yi Su et.al.|[2308.03030](http://arxiv.org/abs/2308.03030)|null|
 |**2023-08-04**|**Classifying Causal Structures: Ascertaining when Classical Correlations are Constrained by Inequalities**|Shashaank Khanna et.al.|[2308.02380](http://arxiv.org/abs/2308.02380)|null|
 |**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
 |**2023-07-29**|**Generalized Bell scenarios: disturbing consequences on local-hidden-variable models**|André Mazzari et.al.|[2307.16058](http://arxiv.org/abs/2307.16058)|**[link](https://github.com/andremazzari/generalized-bell-scenarios-disturbing-consequences-on-local-hidden-variable-models)**|
@@ -337,6 +338,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes**|Oscar Higgott et.al.|[2308.03750](http://arxiv.org/abs/2308.03750)|null|
+|**2023-08-05**|**Advances in Bosonic Quantum Error Correction with Gottesman-Kitaev-Preskill Codes: Theory, Engineering and Applications**|Anthony J. Brady et.al.|[2308.02913](http://arxiv.org/abs/2308.02913)|null|
+|**2023-08-05**|**Demystifying Noise Resilience of Quantum Error Correction: Insights for Code Optimization**|Avimita Chatterjee et.al.|[2308.02769](http://arxiv.org/abs/2308.02769)|null|
 |**2023-08-04**|**Optimizing quantum gates towards the scale of logical qubits**|Paul V. Klimov et.al.|[2308.02321](http://arxiv.org/abs/2308.02321)|null|
 |**2023-08-03**|**Quantum Maps Between CPTP and HPTP**|Ningping Cao et.al.|[2308.01894](http://arxiv.org/abs/2308.01894)|null|
 |**2023-08-03**|**Narain CFTs from quantum codes and their $\mathbb{Z}_2$ gauging**|Kohki Kawabata et.al.|[2308.01579](http://arxiv.org/abs/2308.01579)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -318,7 +318,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-07**|**Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes**|Oscar Higgott et.al.|[2308.03750](http://arxiv.org/abs/2308.03750)|null|
-|**2023-08-05**|**Advances in Bosonic Quantum Error Correction with Gottesman-Kitaev-Preskill Codes: Theory, Engineering and Applications**|Anthony J. Brady et.al.|[2308.02913](http://arxiv.org/abs/2308.02913)|null|
+|**2023-08-08**|**Advances in Bosonic Quantum Error Correction with Gottesman-Kitaev-Preskill Codes: Theory, Engineering and Applications**|Anthony J. Brady et.al.|[2308.02913](http://arxiv.org/abs/2308.02913)|null|
 |**2023-08-05**|**Demystifying Noise Resilience of Quantum Error Correction: Insights for Code Optimization**|Avimita Chatterjee et.al.|[2308.02769](http://arxiv.org/abs/2308.02769)|null|
 |**2023-08-04**|**Optimizing quantum gates towards the scale of logical qubits**|Paul V. Klimov et.al.|[2308.02321](http://arxiv.org/abs/2308.02321)|null|
 |**2023-08-03**|**Quantum Maps Between CPTP and HPTP**|Ningping Cao et.al.|[2308.01894](http://arxiv.org/abs/2308.01894)|null|

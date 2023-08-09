@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**Hidden tensor structures of any quantum mechanical system: Towards single-particle quantum computation**|Marek Czachor et.al.|[2308.04202](http://arxiv.org/abs/2308.04202)|null|
 |**2023-08-06**|**Monte Carlo approach to evaluation of the security of device-independent quantum key distribution**|Hong-Yi Su et.al.|[2308.03030](http://arxiv.org/abs/2308.03030)|null|
 |**2023-08-04**|**Classifying Causal Structures: Ascertaining when Classical Correlations are Constrained by Inequalities**|Shashaank Khanna et.al.|[2308.02380](http://arxiv.org/abs/2308.02380)|null|
 |**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
@@ -260,6 +261,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Krylov complexity and Trotter transitions in unitary circuit dynamics**|Philippe Suchsland et.al.|[2308.03851](http://arxiv.org/abs/2308.03851)|null|
+|**2023-08-07**|**Approximate CFTs and Random Tensor Models**|Alexandre Belin et.al.|[2308.03829](http://arxiv.org/abs/2308.03829)|null|
 |**2023-08-04**|**Quantum chaos without false positives**|Dmitrii A. Trunin et.al.|[2308.02403](http://arxiv.org/abs/2308.02403)|null|
 |**2023-08-04**|**Refined quantum Lyapunov exponents from replica out-of-time-order correlators**|Dmitrii A. Trunin et.al.|[2308.02392](http://arxiv.org/abs/2308.02392)|null|
 |**2023-08-02**|**Quantum Reservoir Probing of Quantum Information Scrambling**|Kaito Kobayashi et.al.|[2308.00898](http://arxiv.org/abs/2308.00898)|null|
@@ -338,6 +341,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**0-1 Knapsack in Nearly Quadratic Time**|Ce Jin et.al.|[2308.04093](http://arxiv.org/abs/2308.04093)|null|
 |**2023-08-07**|**Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes**|Oscar Higgott et.al.|[2308.03750](http://arxiv.org/abs/2308.03750)|null|
 |**2023-08-08**|**Advances in Bosonic Quantum Error Correction with Gottesman-Kitaev-Preskill Codes: Theory, Engineering and Applications**|Anthony J. Brady et.al.|[2308.02913](http://arxiv.org/abs/2308.02913)|null|
 |**2023-08-05**|**Demystifying Noise Resilience of Quantum Error Correction: Insights for Code Optimization**|Avimita Chatterjee et.al.|[2308.02769](http://arxiv.org/abs/2308.02769)|null|

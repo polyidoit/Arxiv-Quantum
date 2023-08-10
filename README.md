@@ -261,6 +261,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space**|Qian Wang et.al.|[2308.04824](http://arxiv.org/abs/2308.04824)|null|
 |**2023-08-07**|**Krylov complexity and Trotter transitions in unitary circuit dynamics**|Philippe Suchsland et.al.|[2308.03851](http://arxiv.org/abs/2308.03851)|null|
 |**2023-08-07**|**Approximate CFTs and Random Tensor Models**|Alexandre Belin et.al.|[2308.03829](http://arxiv.org/abs/2308.03829)|null|
 |**2023-08-04**|**Quantum chaos without false positives**|Dmitrii A. Trunin et.al.|[2308.02403](http://arxiv.org/abs/2308.02403)|null|

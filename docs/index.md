@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.09
+## Updated on 2023.08.10
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -248,7 +248,7 @@ layout: default
 |**2023-08-04**|**Refined quantum Lyapunov exponents from replica out-of-time-order correlators**|Dmitrii A. Trunin et.al.|[2308.02392](http://arxiv.org/abs/2308.02392)|null|
 |**2023-08-02**|**Quantum Reservoir Probing of Quantum Information Scrambling**|Kaito Kobayashi et.al.|[2308.00898](http://arxiv.org/abs/2308.00898)|null|
 |**2023-07-31**|**Pole-skipping as order parameter to probe a quantum critical point**|Navid Abbasi et.al.|[2307.16716](http://arxiv.org/abs/2307.16716)|null|
-|**2023-07-28**|**Krylov Complexity and Spectral Form Factor for Noisy Random Matrix Models**|Arpan Bhattacharyya et.al.|[2307.15495](http://arxiv.org/abs/2307.15495)|null|
+|**2023-08-09**|**Krylov Complexity and Spectral Form Factor for Noisy Random Matrix Models**|Arpan Bhattacharyya et.al.|[2307.15495](http://arxiv.org/abs/2307.15495)|null|
 |**2023-07-27**|**Exposing Hypersensitivity in Quantum Chaotic Dynamics**|Andrzej Grudka et.al.|[2307.14678](http://arxiv.org/abs/2307.14678)|null|
 |**2023-07-31**|**Reappearance of Thermalization Dynamics in the Late-Time Spectral Form Factor**|Michael Winer et.al.|[2307.14415](http://arxiv.org/abs/2307.14415)|null|
 |**2023-08-01**|**Photonic quantum signatures of chaos and boson sampling**|V. M. Bastidas et.al.|[2307.13200](http://arxiv.org/abs/2307.13200)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.10
+## Updated on 2023.08.11
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -245,8 +245,8 @@ layout: default
 |**2023-08-09**|**Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space**|Qian Wang et.al.|[2308.04824](http://arxiv.org/abs/2308.04824)|null|
 |**2023-08-07**|**Krylov complexity and Trotter transitions in unitary circuit dynamics**|Philippe Suchsland et.al.|[2308.03851](http://arxiv.org/abs/2308.03851)|null|
 |**2023-08-07**|**Approximate CFTs and Random Tensor Models**|Alexandre Belin et.al.|[2308.03829](http://arxiv.org/abs/2308.03829)|null|
-|**2023-08-04**|**Quantum chaos without false positives**|Dmitrii A. Trunin et.al.|[2308.02403](http://arxiv.org/abs/2308.02403)|null|
-|**2023-08-04**|**Refined quantum Lyapunov exponents from replica out-of-time-order correlators**|Dmitrii A. Trunin et.al.|[2308.02392](http://arxiv.org/abs/2308.02392)|null|
+|**2023-08-10**|**Quantum chaos without false positives**|Dmitrii A. Trunin et.al.|[2308.02403](http://arxiv.org/abs/2308.02403)|null|
+|**2023-08-10**|**Refined quantum Lyapunov exponents from replica out-of-time-order correlators**|Dmitrii A. Trunin et.al.|[2308.02392](http://arxiv.org/abs/2308.02392)|null|
 |**2023-08-02**|**Quantum Reservoir Probing of Quantum Information Scrambling**|Kaito Kobayashi et.al.|[2308.00898](http://arxiv.org/abs/2308.00898)|null|
 |**2023-07-31**|**Pole-skipping as order parameter to probe a quantum critical point**|Navid Abbasi et.al.|[2307.16716](http://arxiv.org/abs/2307.16716)|null|
 |**2023-08-09**|**Krylov Complexity and Spectral Form Factor for Noisy Random Matrix Models**|Arpan Bhattacharyya et.al.|[2307.15495](http://arxiv.org/abs/2307.15495)|null|
@@ -322,7 +322,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-08**|**0-1 Knapsack in Nearly Quadratic Time**|Ce Jin et.al.|[2308.04093](http://arxiv.org/abs/2308.04093)|null|
-|**2023-08-07**|**Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes**|Oscar Higgott et.al.|[2308.03750](http://arxiv.org/abs/2308.03750)|null|
+|**2023-08-07**|**Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes**|Oscar Higgott et.al.|[2308.03750](http://arxiv.org/abs/2308.03750)|**[link](https://github.com/oscarhiggott/hyperbolic-floquet-data)**|
 |**2023-08-08**|**Advances in Bosonic Quantum Error Correction with Gottesman-Kitaev-Preskill Codes: Theory, Engineering and Applications**|Anthony J. Brady et.al.|[2308.02913](http://arxiv.org/abs/2308.02913)|null|
 |**2023-08-05**|**Demystifying Noise Resilience of Quantum Error Correction: Insights for Code Optimization**|Avimita Chatterjee et.al.|[2308.02769](http://arxiv.org/abs/2308.02769)|null|
 |**2023-08-04**|**Optimizing quantum gates towards the scale of logical qubits**|Paul V. Klimov et.al.|[2308.02321](http://arxiv.org/abs/2308.02321)|null|

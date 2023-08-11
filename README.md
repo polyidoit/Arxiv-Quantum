@@ -137,6 +137,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Free particles beyond fermions and bosons**|Zhiyuan Wang et.al.|[2308.05203](http://arxiv.org/abs/2308.05203)|null|
 |**2023-08-04**|**Sequential propagation of a single photon through five measurement contexts in a three-path interferometer**|Holger F. Hofmann et.al.|[2308.02086](http://arxiv.org/abs/2308.02086)|null|
 |**2023-07-31**|**String Theory Bounds on the Cosmological Constant, the Higgs mass, and the Quark and Lepton Masses**|Per Berglund et.al.|[2307.16712](http://arxiv.org/abs/2307.16712)|null|
 |**2023-07-30**|**Non-Kochen-Specker Contextuality**|Mladen Pavicic et.al.|[2307.16339](http://arxiv.org/abs/2307.16339)|null|
@@ -210,6 +211,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Checkpoint Placement for Systematic Fault-Injection Campaigns**|Christian Dietrich et.al.|[2308.05521](http://arxiv.org/abs/2308.05521)|null|
 |**2023-08-03**|**Multi-robot Path Planning with Rapidly-exploring Random Disjointed-Trees**|Biru Zhang et.al.|[2308.01533](http://arxiv.org/abs/2308.01533)|null|
 |**2023-08-01**|**Continuity of the relative entropy of resource**|Ludovico Lami et.al.|[2308.00696](http://arxiv.org/abs/2308.00696)|null|
 |**2023-07-26**|**Imaginarity of Gaussian states**|Jianwei Xu et.al.|[2307.14116](http://arxiv.org/abs/2307.14116)|null|
@@ -342,6 +344,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Fault Tolerant Quantum Error Mitigation**|Alvin Gonzales et.al.|[2308.05403](http://arxiv.org/abs/2308.05403)|null|
+|**2023-08-09**|**Quantum Lego Expansion Pack: Enumerators from Tensor Networks**|ChunJun Cao et.al.|[2308.05152](http://arxiv.org/abs/2308.05152)|null|
 |**2023-08-08**|**0-1 Knapsack in Nearly Quadratic Time**|Ce Jin et.al.|[2308.04093](http://arxiv.org/abs/2308.04093)|null|
 |**2023-08-07**|**Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes**|Oscar Higgott et.al.|[2308.03750](http://arxiv.org/abs/2308.03750)|**[link](https://github.com/oscarhiggott/hyperbolic-floquet-data)**|
 |**2023-08-08**|**Advances in Bosonic Quantum Error Correction with Gottesman-Kitaev-Preskill Codes: Theory, Engineering and Applications**|Anthony J. Brady et.al.|[2308.02913](http://arxiv.org/abs/2308.02913)|null|

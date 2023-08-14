@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.13
+## Updated on 2023.08.14
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -323,7 +323,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-10**|**Fault Tolerant Quantum Error Mitigation**|Alvin Gonzales et.al.|[2308.05403](http://arxiv.org/abs/2308.05403)|null|
+|**2023-08-11**|**Fault Tolerant Quantum Error Mitigation**|Alvin Gonzales et.al.|[2308.05403](http://arxiv.org/abs/2308.05403)|null|
 |**2023-08-09**|**Quantum Lego Expansion Pack: Enumerators from Tensor Networks**|ChunJun Cao et.al.|[2308.05152](http://arxiv.org/abs/2308.05152)|null|
 |**2023-08-08**|**0-1 Knapsack in Nearly Quadratic Time**|Ce Jin et.al.|[2308.04093](http://arxiv.org/abs/2308.04093)|null|
 |**2023-08-07**|**Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes**|Oscar Higgott et.al.|[2308.03750](http://arxiv.org/abs/2308.03750)|**[link](https://github.com/oscarhiggott/hyperbolic-floquet-data)**|

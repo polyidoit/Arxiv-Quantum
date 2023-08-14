@@ -165,6 +165,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Creating mirror-mirror quantum correlations in optomechanics**|M. Amazioug et.al.|[2308.05913](http://arxiv.org/abs/2308.05913)|null|
 |**2023-08-04**|**Scalable multiparty steering based on a single pair of entangled qubits**|Alex Pepper et.al.|[2308.02296](http://arxiv.org/abs/2308.02296)|null|
 |**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
 |**2023-07-19**|**Sharing EPR steering between sequential pairs of observers**|Qiao-Qiao Lv et.al.|[2307.09928](http://arxiv.org/abs/2307.09928)|null|
@@ -194,6 +195,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|null|
 |**2023-08-10**|**Checkpoint Placement for Systematic Fault-Injection Campaigns**|Christian Dietrich et.al.|[2308.05521](http://arxiv.org/abs/2308.05521)|null|
 |**2023-08-03**|**Multi-robot Path Planning with Rapidly-exploring Random Disjointed-Trees**|Biru Zhang et.al.|[2308.01533](http://arxiv.org/abs/2308.01533)|null|
 |**2023-08-01**|**Continuity of the relative entropy of resource**|Ludovico Lami et.al.|[2308.00696](http://arxiv.org/abs/2308.00696)|null|
@@ -244,6 +246,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Designs via Free Probability**|Michele Fava et.al.|[2308.06200](http://arxiv.org/abs/2308.06200)|null|
 |**2023-08-09**|**Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space**|Qian Wang et.al.|[2308.04824](http://arxiv.org/abs/2308.04824)|null|
 |**2023-08-07**|**Krylov complexity and Trotter transitions in unitary circuit dynamics**|Philippe Suchsland et.al.|[2308.03851](http://arxiv.org/abs/2308.03851)|null|
 |**2023-08-07**|**Approximate CFTs and Random Tensor Models**|Alexandre Belin et.al.|[2308.03829](http://arxiv.org/abs/2308.03829)|null|

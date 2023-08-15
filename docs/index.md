@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Genuine nonlocality of generalized GHZ states in many-partite systems**|Zong-Xing Xiong et.al.|[2308.07171](http://arxiv.org/abs/2308.07171)|null|
+|**2023-08-14**|**Expanding bipartite Bell inequalities for maximum multi-partite randomness**|Lewis Wooltorton et.al.|[2308.07030](http://arxiv.org/abs/2308.07030)|null|
 |**2023-08-08**|**Hidden tensor structures of any quantum mechanical system: Towards single-particle quantum computation**|Marek Czachor et.al.|[2308.04202](http://arxiv.org/abs/2308.04202)|null|
 |**2023-08-06**|**Monte Carlo approach to evaluation of the security of device-independent quantum key distribution**|Hong-Yi Su et.al.|[2308.03030](http://arxiv.org/abs/2308.03030)|null|
 |**2023-08-04**|**Classifying Causal Structures: Ascertaining when Classical Correlations are Constrained by Inequalities**|Shashaank Khanna et.al.|[2308.02380](http://arxiv.org/abs/2308.02380)|null|
@@ -126,7 +128,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-09**|**Free particles beyond fermions and bosons**|Zhiyuan Wang et.al.|[2308.05203](http://arxiv.org/abs/2308.05203)|null|
 |**2023-08-04**|**Sequential propagation of a single photon through five measurement contexts in a three-path interferometer**|Holger F. Hofmann et.al.|[2308.02086](http://arxiv.org/abs/2308.02086)|null|
-|**2023-07-31**|**String Theory Bounds on the Cosmological Constant, the Higgs mass, and the Quark and Lepton Masses**|Per Berglund et.al.|[2307.16712](http://arxiv.org/abs/2307.16712)|null|
+|**2023-08-14**|**String Theory Bounds on the Cosmological Constant, the Higgs mass, and the Quark and Lepton Masses**|Per Berglund et.al.|[2307.16712](http://arxiv.org/abs/2307.16712)|null|
 |**2023-07-30**|**Non-Kochen-Specker Contextuality**|Mladen Pavicic et.al.|[2307.16339](http://arxiv.org/abs/2307.16339)|null|
 |**2023-07-25**|**Quantum van der Waals theory meets quarkyonic matter**|Roman V. Poberezhnyuk et.al.|[2307.13532](http://arxiv.org/abs/2307.13532)|null|
 |**2023-07-12**|**A Fermi Model of Quantum Black Hole**|Chong-Sun Chu et.al.|[2307.06164](http://arxiv.org/abs/2307.06164)|null|
@@ -246,6 +248,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**de Broglie-Bohm analysis of a nonlinear membrane: From quantum to classical chaos**|Henrique Santos Lima et.al.|[2308.07178](http://arxiv.org/abs/2308.07178)|null|
 |**2023-08-11**|**Designs via Free Probability**|Michele Fava et.al.|[2308.06200](http://arxiv.org/abs/2308.06200)|null|
 |**2023-08-09**|**Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space**|Qian Wang et.al.|[2308.04824](http://arxiv.org/abs/2308.04824)|null|
 |**2023-08-07**|**Krylov complexity and Trotter transitions in unitary circuit dynamics**|Philippe Suchsland et.al.|[2308.03851](http://arxiv.org/abs/2308.03851)|null|
@@ -326,6 +329,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-12**|**Characterization and mass formulas of symplectic self-orthogonal and LCD codes and their application**|Shitao Li et.al.|[2308.06508](http://arxiv.org/abs/2308.06508)|null|
+|**2023-08-12**|**Optimal Synthesis of Stabilizer Codes via MaxSAT**|Keyi Yin et.al.|[2308.06428](http://arxiv.org/abs/2308.06428)|null|
 |**2023-08-11**|**Fault Tolerant Quantum Error Mitigation**|Alvin Gonzales et.al.|[2308.05403](http://arxiv.org/abs/2308.05403)|null|
 |**2023-08-09**|**Quantum Lego Expansion Pack: Enumerators from Tensor Networks**|ChunJun Cao et.al.|[2308.05152](http://arxiv.org/abs/2308.05152)|null|
 |**2023-08-08**|**0-1 Knapsack in Nearly Quadratic Time**|Ce Jin et.al.|[2308.04093](http://arxiv.org/abs/2308.04093)|null|

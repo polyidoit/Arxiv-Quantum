@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.16
+## Updated on 2023.08.17
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -332,8 +332,8 @@ layout: default
 |**2023-08-15**|**High-threshold and low-overhead fault-tolerant quantum memory**|Sergey Bravyi et.al.|[2308.07915](http://arxiv.org/abs/2308.07915)|null|
 |**2023-08-15**|**Fault-tolerant complexes**|Hector Bombin et.al.|[2308.07844](http://arxiv.org/abs/2308.07844)|null|
 |**2023-08-12**|**Characterization and mass formulas of symplectic self-orthogonal and LCD codes and their application**|Shitao Li et.al.|[2308.06508](http://arxiv.org/abs/2308.06508)|null|
-|**2023-08-12**|**Optimal Synthesis of Stabilizer Codes via MaxSAT**|Keyi Yin et.al.|[2308.06428](http://arxiv.org/abs/2308.06428)|null|
-|**2023-08-11**|**Fault Tolerant Quantum Error Mitigation**|Alvin Gonzales et.al.|[2308.05403](http://arxiv.org/abs/2308.05403)|null|
+|**2023-08-15**|**Optimal Synthesis of Stabilizer Codes via MaxSAT**|Keyi Yin et.al.|[2308.06428](http://arxiv.org/abs/2308.06428)|null|
+|**2023-08-11**|**Fault Tolerant Quantum Error Mitigation**|Alvin Gonzales et.al.|[2308.05403](http://arxiv.org/abs/2308.05403)|**[link](https://github.com/alvinquantum/ftqem)**|
 |**2023-08-09**|**Quantum Lego Expansion Pack: Enumerators from Tensor Networks**|ChunJun Cao et.al.|[2308.05152](http://arxiv.org/abs/2308.05152)|null|
 |**2023-08-08**|**0-1 Knapsack in Nearly Quadratic Time**|Ce Jin et.al.|[2308.04093](http://arxiv.org/abs/2308.04093)|null|
 |**2023-08-07**|**Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes**|Oscar Higgott et.al.|[2308.03750](http://arxiv.org/abs/2308.03750)|**[link](https://github.com/oscarhiggott/hyperbolic-floquet-data)**|

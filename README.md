@@ -267,6 +267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Quantifying operator spreading and chaos in Krylov subspaces with quantum state reconstruction**|Abinash Sahu et.al.|[2308.08513](http://arxiv.org/abs/2308.08513)|null|
 |**2023-08-14**|**de Broglie-Bohm analysis of a nonlinear membrane: From quantum to classical chaos**|Henrique Santos Lima et.al.|[2308.07178](http://arxiv.org/abs/2308.07178)|null|
 |**2023-08-11**|**Designs via Free Probability**|Michele Fava et.al.|[2308.06200](http://arxiv.org/abs/2308.06200)|null|
 |**2023-08-09**|**Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space**|Qian Wang et.al.|[2308.04824](http://arxiv.org/abs/2308.04824)|null|
@@ -350,6 +351,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Efficient Simulation of Leakage Errors in Quantum Error Correcting Codes Using Tensor Network Methods**|Hidetaka Manabe et.al.|[2308.08186](http://arxiv.org/abs/2308.08186)|null|
 |**2023-08-15**|**High-threshold and low-overhead fault-tolerant quantum memory**|Sergey Bravyi et.al.|[2308.07915](http://arxiv.org/abs/2308.07915)|null|
 |**2023-08-15**|**Fault-tolerant complexes**|Hector Bombin et.al.|[2308.07844](http://arxiv.org/abs/2308.07844)|null|
 |**2023-08-12**|**Characterization and mass formulas of symplectic self-orthogonal and LCD codes and their application**|Shitao Li et.al.|[2308.06508](http://arxiv.org/abs/2308.06508)|null|

@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Custom Bell inequalities from formal sums of squares**|Victor Barizien et.al.|[2308.08601](http://arxiv.org/abs/2308.08601)|null|
 |**2023-08-14**|**Genuine nonlocality of generalized GHZ states in many-partite systems**|Zong-Xing Xiong et.al.|[2308.07171](http://arxiv.org/abs/2308.07171)|null|
 |**2023-08-14**|**Expanding bipartite Bell inequalities for maximum multi-partite randomness**|Lewis Wooltorton et.al.|[2308.07030](http://arxiv.org/abs/2308.07030)|null|
 |**2023-08-08**|**Hidden tensor structures of any quantum mechanical system: Towards single-particle quantum computation**|Marek Czachor et.al.|[2308.04202](http://arxiv.org/abs/2308.04202)|null|
@@ -214,6 +215,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-17**|**Continuous optical generation of microwave signals for fountain clocks**|Burghard Lipphardt et.al.|[2308.08880](http://arxiv.org/abs/2308.08880)|null|
 |**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|null|
 |**2023-08-10**|**Checkpoint Placement for Systematic Fault-Injection Campaigns**|Christian Dietrich et.al.|[2308.05521](http://arxiv.org/abs/2308.05521)|null|
 |**2023-08-03**|**Multi-robot Path Planning with Rapidly-exploring Random Disjointed-Trees**|Biru Zhang et.al.|[2308.01533](http://arxiv.org/abs/2308.01533)|null|
@@ -351,6 +353,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Constant-Overhead Fault-Tolerant Quantum Computation with Reconfigurable Atom Arrays**|Qian Xu et.al.|[2308.08648](http://arxiv.org/abs/2308.08648)|null|
 |**2023-08-16**|**Efficient Simulation of Leakage Errors in Quantum Error Correcting Codes Using Tensor Network Methods**|Hidetaka Manabe et.al.|[2308.08186](http://arxiv.org/abs/2308.08186)|null|
 |**2023-08-15**|**High-threshold and low-overhead fault-tolerant quantum memory**|Sergey Bravyi et.al.|[2308.07915](http://arxiv.org/abs/2308.07915)|null|
 |**2023-08-15**|**Fault-tolerant complexes**|Hector Bombin et.al.|[2308.07844](http://arxiv.org/abs/2308.07844)|null|

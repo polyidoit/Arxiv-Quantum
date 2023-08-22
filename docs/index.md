@@ -7,10 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Beating one bit of communication with and without quantum pseudo-telepathy**|István Márton et.al.|[2308.10771](http://arxiv.org/abs/2308.10771)|null|
 |**2023-08-16**|**Custom Bell inequalities from formal sums of squares**|Victor Barizien et.al.|[2308.08601](http://arxiv.org/abs/2308.08601)|null|
 |**2023-08-14**|**Genuine nonlocality of generalized GHZ states in many-partite systems**|Zong-Xing Xiong et.al.|[2308.07171](http://arxiv.org/abs/2308.07171)|null|
 |**2023-08-14**|**Expanding bipartite Bell inequalities for maximum multi-partite randomness**|Lewis Wooltorton et.al.|[2308.07030](http://arxiv.org/abs/2308.07030)|null|
-|**2023-08-08**|**Hidden tensor structures of any quantum mechanical system: Towards single-particle quantum computation**|Marek Czachor et.al.|[2308.04202](http://arxiv.org/abs/2308.04202)|null|
+|**2023-08-21**|**Hidden tensor structures of any quantum mechanical system: Towards single-particle quantum computation**|Marek Czachor et.al.|[2308.04202](http://arxiv.org/abs/2308.04202)|null|
 |**2023-08-06**|**Monte Carlo approach to evaluation of the security of device-independent quantum key distribution**|Hong-Yi Su et.al.|[2308.03030](http://arxiv.org/abs/2308.03030)|null|
 |**2023-08-04**|**Classifying Causal Structures: Ascertaining when Classical Correlations are Constrained by Inequalities**|Shashaank Khanna et.al.|[2308.02380](http://arxiv.org/abs/2308.02380)|null|
 |**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
@@ -250,6 +251,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Integrability is attractive**|Hyeongjin Kim et.al.|[2308.09745](http://arxiv.org/abs/2308.09745)|null|
 |**2023-08-16**|**Quantifying operator spreading and chaos in Krylov subspaces with quantum state reconstruction**|Abinash Sahu et.al.|[2308.08513](http://arxiv.org/abs/2308.08513)|null|
 |**2023-08-14**|**de Broglie-Bohm analysis of a nonlinear membrane: From quantum to classical chaos**|Henrique Santos Lima et.al.|[2308.07178](http://arxiv.org/abs/2308.07178)|null|
 |**2023-08-11**|**Designs via Free Probability**|Michele Fava et.al.|[2308.06200](http://arxiv.org/abs/2308.06200)|null|
@@ -332,6 +334,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-20**|**Quantum Codes on Graphs**|M. B. Hastings et.al.|[2308.10264](http://arxiv.org/abs/2308.10264)|null|
+|**2023-08-20**|**Generating Preferential Attachment Graphs via a Pólya Urn with Expanding Colors**|Somya Singh et.al.|[2308.10197](http://arxiv.org/abs/2308.10197)|null|
 |**2023-08-16**|**Constant-Overhead Fault-Tolerant Quantum Computation with Reconfigurable Atom Arrays**|Qian Xu et.al.|[2308.08648](http://arxiv.org/abs/2308.08648)|null|
 |**2023-08-16**|**Efficient Simulation of Leakage Errors in Quantum Error Correcting Codes Using Tensor Network Methods**|Hidetaka Manabe et.al.|[2308.08186](http://arxiv.org/abs/2308.08186)|null|
 |**2023-08-15**|**High-threshold and low-overhead fault-tolerant quantum memory**|Sergey Bravyi et.al.|[2308.07915](http://arxiv.org/abs/2308.07915)|null|

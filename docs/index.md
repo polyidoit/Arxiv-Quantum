@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.22
+## Updated on 2023.08.23
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12,7 +12,7 @@ layout: default
 |**2023-08-14**|**Genuine nonlocality of generalized GHZ states in many-partite systems**|Zong-Xing Xiong et.al.|[2308.07171](http://arxiv.org/abs/2308.07171)|null|
 |**2023-08-14**|**Expanding bipartite Bell inequalities for maximum multi-partite randomness**|Lewis Wooltorton et.al.|[2308.07030](http://arxiv.org/abs/2308.07030)|null|
 |**2023-08-21**|**Hidden tensor structures of any quantum mechanical system: Towards single-particle quantum computation**|Marek Czachor et.al.|[2308.04202](http://arxiv.org/abs/2308.04202)|null|
-|**2023-08-06**|**Monte Carlo approach to evaluation of the security of device-independent quantum key distribution**|Hong-Yi Su et.al.|[2308.03030](http://arxiv.org/abs/2308.03030)|null|
+|**2023-08-22**|**Monte Carlo approach to the evaluation of the security of device-independent quantum key distribution**|Hong-Yi Su et.al.|[2308.03030](http://arxiv.org/abs/2308.03030)|null|
 |**2023-08-04**|**Classifying Causal Structures: Ascertaining when Classical Correlations are Constrained by Inequalities**|Shashaank Khanna et.al.|[2308.02380](http://arxiv.org/abs/2308.02380)|null|
 |**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
 |**2023-07-29**|**Generalized Bell scenarios: disturbing consequences on local-hidden-variable models**|André Mazzari et.al.|[2307.16058](http://arxiv.org/abs/2307.16058)|**[link](https://github.com/andremazzari/generalized-bell-scenarios-disturbing-consequences-on-local-hidden-variable-models)**|

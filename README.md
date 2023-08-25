@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**2022 Nobel Prize in Physics and the End of Mechanistic Materialism**|Igor Salom et.al.|[2308.12297](http://arxiv.org/abs/2308.12297)|null|
 |**2023-08-21**|**Beating one bit of communication with and without quantum pseudo-telepathy**|István Márton et.al.|[2308.10771](http://arxiv.org/abs/2308.10771)|null|
 |**2023-08-16**|**Custom Bell inequalities from formal sums of squares**|Victor Barizien et.al.|[2308.08601](http://arxiv.org/abs/2308.08601)|null|
 |**2023-08-14**|**Genuine nonlocality of generalized GHZ states in many-partite systems**|Zong-Xing Xiong et.al.|[2308.07171](http://arxiv.org/abs/2308.07171)|null|
@@ -100,6 +101,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Uniqueness of quantum state over time function**|Seok Hyung Lie et.al.|[2308.12752](http://arxiv.org/abs/2308.12752)|null|
 |**2023-08-01**|**Multi-time quantum process tomography of a superconducting qubit**|Christina Giarmatzi et.al.|[2308.00750](http://arxiv.org/abs/2308.00750)|null|
 |**2023-07-18**|**Matrix Profile based Anomaly Detection in Streaming Gait Data for Fall Prevention**|Branislav Gerazov et.al.|[2307.09121](http://arxiv.org/abs/2307.09121)|null|
 |**2023-07-05**|**Nonclassicality in correlations without causal order**|Ravi Kunjwal et.al.|[2307.02565](http://arxiv.org/abs/2307.02565)|null|
@@ -356,6 +358,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**Three dimensional Mirrors from IR N-ality**|Anindya Dey et.al.|[2308.12337](http://arxiv.org/abs/2308.12337)|null|
 |**2023-08-20**|**Quantum Codes on Graphs**|M. B. Hastings et.al.|[2308.10264](http://arxiv.org/abs/2308.10264)|null|
 |**2023-08-20**|**Generating Preferential Attachment Graphs via a Pólya Urn with Expanding Colors**|Somya Singh et.al.|[2308.10197](http://arxiv.org/abs/2308.10197)|null|
 |**2023-08-16**|**Constant-Overhead Fault-Tolerant Quantum Computation with Reconfigurable Atom Arrays**|Qian Xu et.al.|[2308.08648](http://arxiv.org/abs/2308.08648)|null|

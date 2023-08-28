@@ -254,6 +254,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Entanglement and absorbing state transitions in $(d+1)$ -dimensional stabilizer circuits**|Piotr Sierant et.al.|[2308.13384](http://arxiv.org/abs/2308.13384)|null|
 |**2023-08-18**|**Integrability is attractive**|Hyeongjin Kim et.al.|[2308.09745](http://arxiv.org/abs/2308.09745)|null|
 |**2023-08-16**|**Quantifying operator spreading and chaos in Krylov subspaces with quantum state reconstruction**|Abinash Sahu et.al.|[2308.08513](http://arxiv.org/abs/2308.08513)|null|
 |**2023-08-14**|**de Broglie-Bohm analysis of a nonlinear membrane: From quantum to classical chaos**|Henrique Santos Lima et.al.|[2308.07178](http://arxiv.org/abs/2308.07178)|null|
@@ -337,6 +338,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Layered Decoding of Quantum LDPC Codes**|Julien Du Crest et.al.|[2308.13377](http://arxiv.org/abs/2308.13377)|null|
 |**2023-08-23**|**Three dimensional Mirrors from IR N-ality**|Anindya Dey et.al.|[2308.12337](http://arxiv.org/abs/2308.12337)|null|
 |**2023-08-20**|**Quantum Codes on Graphs**|M. B. Hastings et.al.|[2308.10264](http://arxiv.org/abs/2308.10264)|null|
 |**2023-08-20**|**Generating Preferential Attachment Graphs via a Pólya Urn with Expanding Colors**|Somya Singh et.al.|[2308.10197](http://arxiv.org/abs/2308.10197)|null|

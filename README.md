@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-27**|**Broken arrows: Hardy-Unruh chains and quantum contextuality**|Michael Janas et.al.|[2308.14151](http://arxiv.org/abs/2308.14151)|null|
+|**2023-08-26**|**Certification of non-Gaussian Einstein-Podolsky-Rosen Steering**|Mingsheng Tian et.al.|[2308.13867](http://arxiv.org/abs/2308.13867)|null|
 |**2023-08-11**|**2022 Nobel Prize in Physics and the End of Mechanistic Materialism**|Igor Salom et.al.|[2308.12297](http://arxiv.org/abs/2308.12297)|null|
 |**2023-08-21**|**Beating one bit of communication with and without quantum pseudo-telepathy**|István Márton et.al.|[2308.10771](http://arxiv.org/abs/2308.10771)|null|
 |**2023-08-16**|**Custom Bell inequalities from formal sums of squares**|Victor Barizien et.al.|[2308.08601](http://arxiv.org/abs/2308.08601)|null|
@@ -143,6 +145,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-27**|**Broken arrows: Hardy-Unruh chains and quantum contextuality**|Michael Janas et.al.|[2308.14151](http://arxiv.org/abs/2308.14151)|null|
 |**2023-08-22**|**G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model**|Zhijian Qiao et.al.|[2308.11573](http://arxiv.org/abs/2308.11573)|**[link](https://github.com/hkust-aerial-robotics/lidar-registration-benchmark)**|
 |**2023-08-09**|**Free particles beyond fermions and bosons**|Zhiyuan Wang et.al.|[2308.05203](http://arxiv.org/abs/2308.05203)|null|
 |**2023-08-04**|**Sequential propagation of a single photon through five measurement contexts in a three-path interferometer**|Holger F. Hofmann et.al.|[2308.02086](http://arxiv.org/abs/2308.02086)|null|
@@ -187,6 +190,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-26**|**Certification of non-Gaussian Einstein-Podolsky-Rosen Steering**|Mingsheng Tian et.al.|[2308.13867](http://arxiv.org/abs/2308.13867)|null|
 |**2023-08-11**|**Creating mirror-mirror quantum correlations in optomechanics**|M. Amazioug et.al.|[2308.05913](http://arxiv.org/abs/2308.05913)|null|
 |**2023-08-04**|**Scalable multiparty steering based on a single pair of entangled qubits**|Alex Pepper et.al.|[2308.02296](http://arxiv.org/abs/2308.02296)|null|
 |**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
@@ -273,6 +277,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-26**|**Random Projection using Random Quantum Circuits**|Keerthi Kumaran et.al.|[2308.13919](http://arxiv.org/abs/2308.13919)|null|
+|**2023-08-26**|**Quantum Diffusion Induced by Small Quantum Chaos**|Hiroaki S. Yamada et.al.|[2308.13832](http://arxiv.org/abs/2308.13832)|null|
 |**2023-08-25**|**Entanglement and absorbing state transitions in $(d+1)$ -dimensional stabilizer circuits**|Piotr Sierant et.al.|[2308.13384](http://arxiv.org/abs/2308.13384)|null|
 |**2023-08-18**|**Integrability is attractive**|Hyeongjin Kim et.al.|[2308.09745](http://arxiv.org/abs/2308.09745)|null|
 |**2023-08-16**|**Quantifying operator spreading and chaos in Krylov subspaces with quantum state reconstruction**|Abinash Sahu et.al.|[2308.08513](http://arxiv.org/abs/2308.08513)|null|
@@ -359,6 +365,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Multipartite Entanglement in Quantum Networks using Subgraph Complementations**|Aniruddha Sen et.al.|[2308.13700](http://arxiv.org/abs/2308.13700)|null|
 |**2023-08-25**|**Layered Decoding of Quantum LDPC Codes**|Julien Du Crest et.al.|[2308.13377](http://arxiv.org/abs/2308.13377)|null|
 |**2023-08-23**|**Three dimensional Mirrors from IR N-ality**|Anindya Dey et.al.|[2308.12337](http://arxiv.org/abs/2308.12337)|null|
 |**2023-08-20**|**Quantum Codes on Graphs**|M. B. Hastings et.al.|[2308.10264](http://arxiv.org/abs/2308.10264)|null|

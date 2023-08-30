@@ -175,6 +175,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Quantum steering with imprecise measurements**|Armin Tavakoli et.al.|[2308.15356](http://arxiv.org/abs/2308.15356)|null|
+|**2023-08-29**|**Distrustful quantum steering**|Shubhayan Sarkar et.al.|[2308.15337](http://arxiv.org/abs/2308.15337)|null|
 |**2023-08-26**|**Certification of non-Gaussian Einstein-Podolsky-Rosen Steering**|Mingsheng Tian et.al.|[2308.13867](http://arxiv.org/abs/2308.13867)|null|
 |**2023-08-11**|**Creating mirror-mirror quantum correlations in optomechanics**|M. Amazioug et.al.|[2308.05913](http://arxiv.org/abs/2308.05913)|null|
 |**2023-08-04**|**Scalable multiparty steering based on a single pair of entangled qubits**|Alex Pepper et.al.|[2308.02296](http://arxiv.org/abs/2308.02296)|null|
@@ -207,7 +209,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-17**|**Continuous optical generation of microwave signals for fountain clocks**|Burghard Lipphardt et.al.|[2308.08880](http://arxiv.org/abs/2308.08880)|null|
-|**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|null|
+|**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|**[link](https://github.com/sharc-lab/inr-arch)**|
 |**2023-08-10**|**Checkpoint Placement for Systematic Fault-Injection Campaigns**|Christian Dietrich et.al.|[2308.05521](http://arxiv.org/abs/2308.05521)|null|
 |**2023-08-03**|**Multi-robot Path Planning with Rapidly-exploring Random Disjointed-Trees**|Biru Zhang et.al.|[2308.01533](http://arxiv.org/abs/2308.01533)|null|
 |**2023-08-01**|**Continuity of the relative entropy of resource**|Ludovico Lami et.al.|[2308.00696](http://arxiv.org/abs/2308.00696)|null|
@@ -344,6 +346,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Existence of Pauli-like stabilizers for every quantum error-correcting code**|Jhih-Yuan Kao et.al.|[2308.15437](http://arxiv.org/abs/2308.15437)|null|
+|**2023-08-29**|**QDistRnd: A GAP package for computing the distance of quantum error-correcting codes**|Leonid P. Pryadko et.al.|[2308.15140](http://arxiv.org/abs/2308.15140)|null|
+|**2023-08-29**|**Single-shot single-mode optical two-parameter displacement estimation beyond classical limit**|Fumiya Hanamura et.al.|[2308.15024](http://arxiv.org/abs/2308.15024)|null|
 |**2023-08-25**|**Multipartite Entanglement in Quantum Networks using Subgraph Complementations**|Aniruddha Sen et.al.|[2308.13700](http://arxiv.org/abs/2308.13700)|null|
 |**2023-08-25**|**Layered Decoding of Quantum LDPC Codes**|Julien Du Crest et.al.|[2308.13377](http://arxiv.org/abs/2308.13377)|null|
 |**2023-08-23**|**Three dimensional Mirrors from IR N-ality**|Anindya Dey et.al.|[2308.12337](http://arxiv.org/abs/2308.12337)|null|

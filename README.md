@@ -279,6 +279,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Out-of-time-order correlator, many-body quantum chaos, light-like generators, and singular values**|Ke Huang et.al.|[2308.16179](http://arxiv.org/abs/2308.16179)|null|
+|**2023-08-29**|**Information Bounds on phase transitions in disordered systems**|Noa Feldman et.al.|[2308.15532](http://arxiv.org/abs/2308.15532)|null|
 |**2023-08-26**|**Random Projection using Random Quantum Circuits**|Keerthi Kumaran et.al.|[2308.13919](http://arxiv.org/abs/2308.13919)|null|
 |**2023-08-26**|**Quantum Diffusion Induced by Small Quantum Chaos**|Hiroaki S. Yamada et.al.|[2308.13832](http://arxiv.org/abs/2308.13832)|null|
 |**2023-08-25**|**Entanglement and absorbing state transitions in $(d+1)$ -dimensional stabilizer circuits**|Piotr Sierant et.al.|[2308.13384](http://arxiv.org/abs/2308.13384)|null|
@@ -367,6 +369,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Performance of Rotation-Symmetric Bosonic Codes in a Quantum Repeater Network**|Pei-Zhe Li et.al.|[2308.15815](http://arxiv.org/abs/2308.15815)|null|
+|**2023-08-29**|**Distance-preserving stabilizer measurements in hypergraph product codes**|Argyris Giannisis Manes et.al.|[2308.15520](http://arxiv.org/abs/2308.15520)|null|
 |**2023-08-29**|**Existence of Pauli-like stabilizers for every quantum error-correcting code**|Jhih-Yuan Kao et.al.|[2308.15437](http://arxiv.org/abs/2308.15437)|null|
 |**2023-08-29**|**QDistRnd: A GAP package for computing the distance of quantum error-correcting codes**|Leonid P. Pryadko et.al.|[2308.15140](http://arxiv.org/abs/2308.15140)|null|
 |**2023-08-29**|**Single-shot single-mode optical two-parameter displacement estimation beyond classical limit**|Fumiya Hanamura et.al.|[2308.15024](http://arxiv.org/abs/2308.15024)|null|

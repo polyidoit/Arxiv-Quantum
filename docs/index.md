@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -175,7 +175,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-29**|**Quantum steering with imprecise measurements**|Armin Tavakoli et.al.|[2308.15356](http://arxiv.org/abs/2308.15356)|null|
+|**2023-08-30**|**Quantum steering with imprecise measurements**|Armin Tavakoli et.al.|[2308.15356](http://arxiv.org/abs/2308.15356)|null|
 |**2023-08-29**|**Distrustful quantum steering**|Shubhayan Sarkar et.al.|[2308.15337](http://arxiv.org/abs/2308.15337)|null|
 |**2023-08-26**|**Certification of non-Gaussian Einstein-Podolsky-Rosen Steering**|Mingsheng Tian et.al.|[2308.13867](http://arxiv.org/abs/2308.13867)|null|
 |**2023-08-11**|**Creating mirror-mirror quantum correlations in optomechanics**|M. Amazioug et.al.|[2308.05913](http://arxiv.org/abs/2308.05913)|null|

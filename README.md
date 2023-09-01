@@ -103,6 +103,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Global Synthesis of CNOT Circuits with Holes**|Ewan Murphy et.al.|[2308.16496](http://arxiv.org/abs/2308.16496)|null|
 |**2023-08-24**|**Uniqueness of quantum state over time function**|Seok Hyung Lie et.al.|[2308.12752](http://arxiv.org/abs/2308.12752)|null|
 |**2023-08-01**|**Multi-time quantum process tomography of a superconducting qubit**|Christina Giarmatzi et.al.|[2308.00750](http://arxiv.org/abs/2308.00750)|null|
 |**2023-07-18**|**Matrix Profile based Anomaly Detection in Streaming Gait Data for Fall Prevention**|Branislav Gerazov et.al.|[2307.09121](http://arxiv.org/abs/2307.09121)|null|
@@ -145,6 +146,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Generalised Winograd Schema and its Contextuality**|Kin Ian Lo et.al.|[2308.16498](http://arxiv.org/abs/2308.16498)|null|
 |**2023-08-27**|**Broken arrows: Hardy-Unruh chains and quantum contextuality**|Michael Janas et.al.|[2308.14151](http://arxiv.org/abs/2308.14151)|null|
 |**2023-08-22**|**G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model**|Zhijian Qiao et.al.|[2308.11573](http://arxiv.org/abs/2308.11573)|**[link](https://github.com/hkust-aerial-robotics/lidar-registration-benchmark)**|
 |**2023-08-09**|**Free particles beyond fermions and bosons**|Zhiyuan Wang et.al.|[2308.05203](http://arxiv.org/abs/2308.05203)|null|
@@ -279,6 +281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**A little magic means a lot**|Andi Gu et.al.|[2308.16228](http://arxiv.org/abs/2308.16228)|null|
 |**2023-08-30**|**Out-of-time-order correlator, many-body quantum chaos, light-like generators, and singular values**|Ke Huang et.al.|[2308.16179](http://arxiv.org/abs/2308.16179)|null|
 |**2023-08-29**|**Information Bounds on phase transitions in disordered systems**|Noa Feldman et.al.|[2308.15532](http://arxiv.org/abs/2308.15532)|null|
 |**2023-08-26**|**Random Projection using Random Quantum Circuits**|Keerthi Kumaran et.al.|[2308.13919](http://arxiv.org/abs/2308.13919)|null|
@@ -369,6 +372,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Bounds on Autonomous Quantum Error Correction**|Oles Shtanko et.al.|[2308.16233](http://arxiv.org/abs/2308.16233)|null|
+|**2023-08-30**|**A little magic means a lot**|Andi Gu et.al.|[2308.16228](http://arxiv.org/abs/2308.16228)|null|
+|**2023-08-30**|**Twice Upon a Time: Timelike-Separated Quantum Extremal Surfaces**|Netta Engelhardt et.al.|[2308.16226](http://arxiv.org/abs/2308.16226)|null|
 |**2023-08-30**|**Performance of Rotation-Symmetric Bosonic Codes in a Quantum Repeater Network**|Pei-Zhe Li et.al.|[2308.15815](http://arxiv.org/abs/2308.15815)|null|
 |**2023-08-29**|**Distance-preserving stabilizer measurements in hypergraph product codes**|Argyris Giannisis Manes et.al.|[2308.15520](http://arxiv.org/abs/2308.15520)|null|
 |**2023-08-29**|**Existence of Pauli-like stabilizers for every quantum error-correcting code**|Jhih-Yuan Kao et.al.|[2308.15437](http://arxiv.org/abs/2308.15437)|null|

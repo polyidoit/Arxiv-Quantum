@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Loophole-free Bell tests with randomly chosen subsets of measurement settings**|Jaskaran Singh et.al.|[2309.00442](http://arxiv.org/abs/2309.00442)|null|
 |**2023-08-27**|**Broken arrows: Hardy-Unruh chains and quantum contextuality**|Michael Janas et.al.|[2308.14151](http://arxiv.org/abs/2308.14151)|null|
 |**2023-08-26**|**Certification of non-Gaussian Einstein-Podolsky-Rosen Steering**|Mingsheng Tian et.al.|[2308.13867](http://arxiv.org/abs/2308.13867)|null|
 |**2023-08-11**|**2022 Nobel Prize in Physics and the End of Mechanistic Materialism**|Igor Salom et.al.|[2308.12297](http://arxiv.org/abs/2308.12297)|null|
@@ -351,6 +352,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Rapid single-shot parity spin readout in a silicon double quantum dot with fidelity exceeding 99 %**|Kenta Takeda et.al.|[2309.00225](http://arxiv.org/abs/2309.00225)|null|
 |**2023-08-30**|**Bounds on Autonomous Quantum Error Correction**|Oles Shtanko et.al.|[2308.16233](http://arxiv.org/abs/2308.16233)|null|
 |**2023-08-30**|**A little magic means a lot**|Andi Gu et.al.|[2308.16228](http://arxiv.org/abs/2308.16228)|null|
 |**2023-08-30**|**Twice Upon a Time: Timelike-Separated Quantum Extremal Surfaces**|Netta Engelhardt et.al.|[2308.16226](http://arxiv.org/abs/2308.16226)|null|

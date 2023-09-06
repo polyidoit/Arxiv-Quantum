@@ -228,6 +228,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-02**|**Remote ID for separation provision and multi-agent navigation**|Evgenii Vinogradov et.al.|[2309.00843](http://arxiv.org/abs/2309.00843)|null|
 |**2023-08-17**|**Continuous optical generation of microwave signals for fountain clocks**|Burghard Lipphardt et.al.|[2308.08880](http://arxiv.org/abs/2308.08880)|null|
 |**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|**[link](https://github.com/sharc-lab/inr-arch)**|
 |**2023-08-10**|**Checkpoint Placement for Systematic Fault-Injection Campaigns**|Christian Dietrich et.al.|[2308.05521](http://arxiv.org/abs/2308.05521)|null|
@@ -282,6 +283,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Approximate orthogonality of permutation operators, with application to quantum information**|Aram W. Harrow et.al.|[2309.00715](http://arxiv.org/abs/2309.00715)|null|
 |**2023-08-30**|**A little magic means a lot**|Andi Gu et.al.|[2308.16228](http://arxiv.org/abs/2308.16228)|null|
 |**2023-08-30**|**Out-of-time-order correlator, many-body quantum chaos, light-like generators, and singular values**|Ke Huang et.al.|[2308.16179](http://arxiv.org/abs/2308.16179)|null|
 |**2023-08-29**|**Information Bounds on phase transitions in disordered systems**|Noa Feldman et.al.|[2308.15532](http://arxiv.org/abs/2308.15532)|null|
@@ -373,6 +375,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Propagating Gottesman-Kitaev-Preskill states encoded in an optical oscillator**|Shunya Konno et.al.|[2309.02306](http://arxiv.org/abs/2309.02306)|null|
+|**2023-09-05**|**Wordle: A Microcosm of Life. Luck, Skill, Cheating, Loyalty, and Influence!**|James P. Dilger et.al.|[2309.02110](http://arxiv.org/abs/2309.02110)|null|
+|**2023-09-05**|**Quaternary Conjucyclic Codes with an Application to EAQEC Codes**|Md Ajaharul Hossain et.al.|[2309.01983](http://arxiv.org/abs/2309.01983)|null|
+|**2023-09-04**|**Quantum error pre-compensation for quantum noisy channels**|Chengjie Zhang et.al.|[2309.01434](http://arxiv.org/abs/2309.01434)|null|
 |**2023-09-01**|**Rapid single-shot parity spin readout in a silicon double quantum dot with fidelity exceeding 99 %**|Kenta Takeda et.al.|[2309.00225](http://arxiv.org/abs/2309.00225)|null|
 |**2023-08-30**|**Bounds on Autonomous Quantum Error Correction**|Oles Shtanko et.al.|[2308.16233](http://arxiv.org/abs/2308.16233)|null|
 |**2023-08-30**|**A little magic means a lot**|Andi Gu et.al.|[2308.16228](http://arxiv.org/abs/2308.16228)|null|

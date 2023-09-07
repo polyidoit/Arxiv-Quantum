@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Bell non-locality in two-mode Gaussian states revealed via local squeezing**|A. Lezama et.al.|[2309.03016](http://arxiv.org/abs/2309.03016)|null|
 |**2023-09-01**|**Loophole-free Bell tests with randomly chosen subsets of measurement settings**|Jaskaran Singh et.al.|[2309.00442](http://arxiv.org/abs/2309.00442)|null|
 |**2023-08-27**|**Broken arrows: Hardy-Unruh chains and quantum contextuality**|Michael Janas et.al.|[2308.14151](http://arxiv.org/abs/2308.14151)|null|
 |**2023-08-26**|**Certification of non-Gaussian Einstein-Podolsky-Rosen Steering**|Mingsheng Tian et.al.|[2308.13867](http://arxiv.org/abs/2308.13867)|null|
@@ -134,6 +135,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Compatibility graphs in scheduling on batch processing machines**|Khaoula Bouakaz et.al.|[2309.02601](http://arxiv.org/abs/2309.02601)|null|
 |**2023-08-31**|**Generalised Winograd Schema and its Contextuality**|Kin Ian Lo et.al.|[2308.16498](http://arxiv.org/abs/2308.16498)|null|
 |**2023-08-27**|**Broken arrows: Hardy-Unruh chains and quantum contextuality**|Michael Janas et.al.|[2308.14151](http://arxiv.org/abs/2308.14151)|null|
 |**2023-08-22**|**G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model**|Zhijian Qiao et.al.|[2308.11573](http://arxiv.org/abs/2308.11573)|**[link](https://github.com/hkust-aerial-robotics/lidar-registration-benchmark)**|
@@ -264,6 +266,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Euclidean wormholes in two-dimensional CFTs from quantum chaos and number theory**|Felix M. Haehl et.al.|[2309.02533](http://arxiv.org/abs/2309.02533)|null|
 |**2023-09-01**|**Approximate orthogonality of permutation operators, with application to quantum information**|Aram W. Harrow et.al.|[2309.00715](http://arxiv.org/abs/2309.00715)|null|
 |**2023-08-30**|**A little magic means a lot**|Andi Gu et.al.|[2308.16228](http://arxiv.org/abs/2308.16228)|null|
 |**2023-08-30**|**Out-of-time-order correlator, many-body quantum chaos, light-like generators, and singular values**|Ke Huang et.al.|[2308.16179](http://arxiv.org/abs/2308.16179)|null|
@@ -354,6 +357,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Suppression of quasiparticle poisoning in transmon qubits by gap engineering**|Plamen Kamenov et.al.|[2309.02655](http://arxiv.org/abs/2309.02655)|null|
+|**2023-09-05**|**A pragma based C++ framework for hybrid quantum/classical computation**|Arnaud Gazda et.al.|[2309.02605](http://arxiv.org/abs/2309.02605)|null|
 |**2023-09-05**|**Propagating Gottesman-Kitaev-Preskill states encoded in an optical oscillator**|Shunya Konno et.al.|[2309.02306](http://arxiv.org/abs/2309.02306)|null|
 |**2023-09-05**|**Wordle: A Microcosm of Life. Luck, Skill, Cheating, Loyalty, and Influence!**|James P. Dilger et.al.|[2309.02110](http://arxiv.org/abs/2309.02110)|null|
 |**2023-09-05**|**Quaternary Conjucyclic Codes with an Application to EAQEC Codes**|Md Ajaharul Hossain et.al.|[2309.01983](http://arxiv.org/abs/2309.01983)|null|

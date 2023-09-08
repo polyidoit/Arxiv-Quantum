@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -360,7 +360,7 @@ layout: default
 |**2023-09-06**|**Suppression of quasiparticle poisoning in transmon qubits by gap engineering**|Plamen Kamenov et.al.|[2309.02655](http://arxiv.org/abs/2309.02655)|null|
 |**2023-09-05**|**A pragma based C++ framework for hybrid quantum/classical computation**|Arnaud Gazda et.al.|[2309.02605](http://arxiv.org/abs/2309.02605)|null|
 |**2023-09-05**|**Propagating Gottesman-Kitaev-Preskill states encoded in an optical oscillator**|Shunya Konno et.al.|[2309.02306](http://arxiv.org/abs/2309.02306)|null|
-|**2023-09-05**|**Wordle: A Microcosm of Life. Luck, Skill, Cheating, Loyalty, and Influence!**|James P. Dilger et.al.|[2309.02110](http://arxiv.org/abs/2309.02110)|null|
+|**2023-09-06**|**Wordle: A Microcosm of Life. Luck, Skill, Cheating, Loyalty, and Influence!**|James P. Dilger et.al.|[2309.02110](http://arxiv.org/abs/2309.02110)|null|
 |**2023-09-05**|**Quaternary Conjucyclic Codes with an Application to EAQEC Codes**|Md Ajaharul Hossain et.al.|[2309.01983](http://arxiv.org/abs/2309.01983)|null|
 |**2023-09-04**|**Quantum error pre-compensation for quantum noisy channels**|Chengjie Zhang et.al.|[2309.01434](http://arxiv.org/abs/2309.01434)|null|
 |**2023-09-01**|**Rapid single-shot parity spin readout in a silicon double quantum dot with fidelity exceeding 99 %**|Kenta Takeda et.al.|[2309.00225](http://arxiv.org/abs/2309.00225)|null|

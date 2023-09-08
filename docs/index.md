@@ -357,6 +357,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Quantum cellular automata for quantum error correction and density classification**|Thiago L. M. Guedes et.al.|[2309.03608](http://arxiv.org/abs/2309.03608)|null|
+|**2023-09-07**|**Quantum Graph-State Synthesis with SAT**|Sebastiaan Brand et.al.|[2309.03593](http://arxiv.org/abs/2309.03593)|null|
 |**2023-09-06**|**Suppression of quasiparticle poisoning in transmon qubits by gap engineering**|Plamen Kamenov et.al.|[2309.02655](http://arxiv.org/abs/2309.02655)|null|
 |**2023-09-05**|**A pragma based C++ framework for hybrid quantum/classical computation**|Arnaud Gazda et.al.|[2309.02605](http://arxiv.org/abs/2309.02605)|null|
 |**2023-09-05**|**Propagating Gottesman-Kitaev-Preskill states encoded in an optical oscillator**|Shunya Konno et.al.|[2309.02306](http://arxiv.org/abs/2309.02306)|null|

@@ -94,6 +94,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Trade-Offs in Decentralized Multi-Antenna Architectures: Sparse Combining Modules for WAX Decomposition**|Juan Vidal Alegría et.al.|[2309.04297](http://arxiv.org/abs/2309.04297)|null|
 |**2023-08-31**|**Global Synthesis of CNOT Circuits with Holes**|Ewan Murphy et.al.|[2308.16496](http://arxiv.org/abs/2308.16496)|null|
 |**2023-08-24**|**Uniqueness of quantum state over time function**|Seok Hyung Lie et.al.|[2308.12752](http://arxiv.org/abs/2308.12752)|null|
 |**2023-08-01**|**Multi-time quantum process tomography of a superconducting qubit**|Christina Giarmatzi et.al.|[2308.00750](http://arxiv.org/abs/2308.00750)|null|
@@ -266,6 +267,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Quantum Ising model on two dimensional anti-de Sitter space**|Muhammad Asaduzzaman et.al.|[2309.04383](http://arxiv.org/abs/2309.04383)|null|
 |**2023-09-05**|**Euclidean wormholes in two-dimensional CFTs from quantum chaos and number theory**|Felix M. Haehl et.al.|[2309.02533](http://arxiv.org/abs/2309.02533)|null|
 |**2023-09-01**|**Approximate orthogonality of permutation operators, with application to quantum information**|Aram W. Harrow et.al.|[2309.00715](http://arxiv.org/abs/2309.00715)|null|
 |**2023-08-30**|**A little magic means a lot**|Andi Gu et.al.|[2308.16228](http://arxiv.org/abs/2308.16228)|null|

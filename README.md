@@ -25,7 +25,7 @@
 |**2023-08-16**|**Custom Bell inequalities from formal sums of squares**|Victor Barizien et.al.|[2308.08601](http://arxiv.org/abs/2308.08601)|null|
 |**2023-08-14**|**Genuine nonlocality of generalized GHZ states in many-partite systems**|Zong-Xing Xiong et.al.|[2308.07171](http://arxiv.org/abs/2308.07171)|null|
 |**2023-08-14**|**Expanding bipartite Bell inequalities for maximum multi-partite randomness**|Lewis Wooltorton et.al.|[2308.07030](http://arxiv.org/abs/2308.07030)|null|
-|**2023-08-21**|**Hidden tensor structures of any quantum mechanical system: Towards single-particle quantum computation**|Marek Czachor et.al.|[2308.04202](http://arxiv.org/abs/2308.04202)|null|
+|**2023-09-11**|**Hidden tensor structures of any quantum system**|Marek Czachor et.al.|[2308.04202](http://arxiv.org/abs/2308.04202)|null|
 |**2023-08-22**|**Monte Carlo approach to the evaluation of the security of device-independent quantum key distribution**|Hong-Yi Su et.al.|[2308.03030](http://arxiv.org/abs/2308.03030)|null|
 |**2023-08-04**|**Classifying Causal Structures: Ascertaining when Classical Correlations are Constrained by Inequalities**|Shashaank Khanna et.al.|[2308.02380](http://arxiv.org/abs/2308.02380)|null|
 |**2023-07-31**|**Swapping of quantum correlations and the role of local filtering operations**|Pedro Rosario et.al.|[2307.16524](http://arxiv.org/abs/2307.16524)|null|
@@ -380,6 +380,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Proof-of-concept Quantum Simulator based on Molecular Spin Qudits**|Simone Chicco et.al.|[2309.05600](http://arxiv.org/abs/2309.05600)|null|
+|**2023-09-11**|**A real-time, scalable, fast and highly resource efficient decoder for a quantum computer**|Ben Barber et.al.|[2309.05558](http://arxiv.org/abs/2309.05558)|null|
+|**2023-09-11**|**Tradeoff Constructions for Quantum Locally Testable Codes**|Adam Wills et.al.|[2309.05541](http://arxiv.org/abs/2309.05541)|null|
+|**2023-09-11**|**Facilitating Practical Fault-tolerant Quantum Computing Based on Color Codes**|Jiaxuan Zhang et.al.|[2309.05222](http://arxiv.org/abs/2309.05222)|null|
 |**2023-09-07**|**Quantum cellular automata for quantum error correction and density classification**|Thiago L. M. Guedes et.al.|[2309.03608](http://arxiv.org/abs/2309.03608)|null|
 |**2023-09-07**|**Quantum Graph-State Synthesis with SAT**|Sebastiaan Brand et.al.|[2309.03593](http://arxiv.org/abs/2309.03593)|null|
 |**2023-09-08**|**Suppression of quasiparticle poisoning in transmon qubits by gap engineering**|Plamen Kamenov et.al.|[2309.02655](http://arxiv.org/abs/2309.02655)|null|

@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Investigations of the boundary of quantum correlations and device-independent applications**|Yuan Liu et.al.|[2309.06304](http://arxiv.org/abs/2309.06304)|null|
 |**2023-09-06**|**Bell non-locality in two-mode Gaussian states revealed via local squeezing**|A. Lezama et.al.|[2309.03016](http://arxiv.org/abs/2309.03016)|null|
 |**2023-09-01**|**Loophole-free Bell tests with randomly chosen subsets of measurement settings**|Jaskaran Singh et.al.|[2309.00442](http://arxiv.org/abs/2309.00442)|null|
 |**2023-08-27**|**Broken arrows: Hardy-Unruh chains and quantum contextuality**|Michael Janas et.al.|[2308.14151](http://arxiv.org/abs/2308.14151)|null|
@@ -267,6 +268,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Manybody Interferometry of Quantum Fluids**|Gabrielle Roberts et.al.|[2309.05727](http://arxiv.org/abs/2309.05727)|null|
 |**2023-09-08**|**Quantum Ising model on two dimensional anti-de Sitter space**|Muhammad Asaduzzaman et.al.|[2309.04383](http://arxiv.org/abs/2309.04383)|null|
 |**2023-09-05**|**Euclidean wormholes in two-dimensional CFTs from quantum chaos and number theory**|Felix M. Haehl et.al.|[2309.02533](http://arxiv.org/abs/2309.02533)|null|
 |**2023-09-01**|**Approximate orthogonality of permutation operators, with application to quantum information**|Aram W. Harrow et.al.|[2309.00715](http://arxiv.org/abs/2309.00715)|null|

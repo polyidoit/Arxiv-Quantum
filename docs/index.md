@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Nonlocality activation in a photonic quantum network**|Luis Villegas-Aguilar et.al.|[2309.06501](http://arxiv.org/abs/2309.06501)|null|
 |**2023-09-12**|**Investigations of the boundary of quantum correlations and device-independent applications**|Yuan Liu et.al.|[2309.06304](http://arxiv.org/abs/2309.06304)|null|
 |**2023-09-06**|**Bell non-locality in two-mode Gaussian states revealed via local squeezing**|A. Lezama et.al.|[2309.03016](http://arxiv.org/abs/2309.03016)|null|
 |**2023-09-01**|**Loophole-free Bell tests with randomly chosen subsets of measurement settings**|Jaskaran Singh et.al.|[2309.00442](http://arxiv.org/abs/2309.00442)|null|
@@ -95,6 +96,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Experimental demonstration of enhanced violations of Leggett-Garg inequalities in a $\mathcal{PT}$ -symmetric trapped-ion qubit**|Pengfei Lu et.al.|[2309.06713](http://arxiv.org/abs/2309.06713)|null|
 |**2023-09-08**|**Trade-Offs in Decentralized Multi-Antenna Architectures: Sparse Combining Modules for WAX Decomposition**|Juan Vidal Alegría et.al.|[2309.04297](http://arxiv.org/abs/2309.04297)|null|
 |**2023-08-31**|**Global Synthesis of CNOT Circuits with Holes**|Ewan Murphy et.al.|[2308.16496](http://arxiv.org/abs/2308.16496)|null|
 |**2023-08-24**|**Uniqueness of quantum state over time function**|Seok Hyung Lie et.al.|[2308.12752](http://arxiv.org/abs/2308.12752)|null|
@@ -361,6 +363,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Fast Flux-Activated Leakage Reduction for Superconducting Quantum Circuits**|Nathan Lacroix et.al.|[2309.07060](http://arxiv.org/abs/2309.07060)|null|
+|**2023-09-13**|**Parity Measurements using Dispersive Shifts for Surface Codes**|Aneirin Baker et.al.|[2309.06905](http://arxiv.org/abs/2309.06905)|null|
 |**2023-09-11**|**Proof-of-concept Quantum Simulator based on Molecular Spin Qudits**|Simone Chicco et.al.|[2309.05600](http://arxiv.org/abs/2309.05600)|null|
 |**2023-09-11**|**A real-time, scalable, fast and highly resource efficient decoder for a quantum computer**|Ben Barber et.al.|[2309.05558](http://arxiv.org/abs/2309.05558)|null|
 |**2023-09-11**|**Tradeoff Constructions for Quantum Locally Testable Codes**|Adam Wills et.al.|[2309.05541](http://arxiv.org/abs/2309.05541)|null|

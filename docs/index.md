@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Steady-state entanglement production in a quantum thermal machine with continuous feedback control**|Giovanni Francesco Diotallevi et.al.|[2309.07696](http://arxiv.org/abs/2309.07696)|null|
 |**2023-09-12**|**Nonlocality activation in a photonic quantum network**|Luis Villegas-Aguilar et.al.|[2309.06501](http://arxiv.org/abs/2309.06501)|null|
 |**2023-09-12**|**Investigations of the boundary of quantum correlations and device-independent applications**|Yuan Liu et.al.|[2309.06304](http://arxiv.org/abs/2309.06304)|null|
 |**2023-09-06**|**Bell non-locality in two-mode Gaussian states revealed via local squeezing**|A. Lezama et.al.|[2309.03016](http://arxiv.org/abs/2309.03016)|null|
@@ -139,6 +140,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Collective non-Hermitian skin effect: Point-gap topology and the doublon-holon excitations in non-reciprocal many-body systems**|Beom Hyun Kim et.al.|[2309.07894](http://arxiv.org/abs/2309.07894)|null|
 |**2023-09-05**|**Compatibility graphs in scheduling on batch processing machines**|Khaoula Bouakaz et.al.|[2309.02601](http://arxiv.org/abs/2309.02601)|null|
 |**2023-08-31**|**Generalised Winograd Schema and its Contextuality**|Kin Ian Lo et.al.|[2308.16498](http://arxiv.org/abs/2308.16498)|null|
 |**2023-08-27**|**Broken arrows: Hardy-Unruh chains and quantum contextuality**|Michael Janas et.al.|[2308.14151](http://arxiv.org/abs/2308.14151)|null|
@@ -217,6 +219,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Spiking Dynamics in Dual Free Layer Perpendicular Magnetic Tunnel Junctions**|Louis Farcis et.al.|[2309.07535](http://arxiv.org/abs/2309.07535)|null|
+|**2023-09-13**|**Reversibility of quantum resources through probabilistic protocols**|Bartosz Regula et.al.|[2309.07206](http://arxiv.org/abs/2309.07206)|null|
 |**2023-09-02**|**Remote ID for separation provision and multi-agent navigation**|Evgenii Vinogradov et.al.|[2309.00843](http://arxiv.org/abs/2309.00843)|null|
 |**2023-08-17**|**Continuous optical generation of microwave signals for fountain clocks**|Burghard Lipphardt et.al.|[2308.08880](http://arxiv.org/abs/2308.08880)|null|
 |**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|**[link](https://github.com/sharc-lab/inr-arch)**|
@@ -363,6 +367,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**A survey of complex generalized weighing matrices and a construction of quantum error-correcting codes**|Ronan Egan et.al.|[2309.07522](http://arxiv.org/abs/2309.07522)|null|
 |**2023-09-13**|**Fast Flux-Activated Leakage Reduction for Superconducting Quantum Circuits**|Nathan Lacroix et.al.|[2309.07060](http://arxiv.org/abs/2309.07060)|null|
 |**2023-09-13**|**Parity Measurements using Dispersive Shifts for Surface Codes**|Aneirin Baker et.al.|[2309.06905](http://arxiv.org/abs/2309.06905)|null|
 |**2023-09-11**|**Proof-of-concept Quantum Simulator based on Molecular Spin Qudits**|Simone Chicco et.al.|[2309.05600](http://arxiv.org/abs/2309.05600)|null|

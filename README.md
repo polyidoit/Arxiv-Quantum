@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Testing Bell inequality through $h\toττ$ at CEPC**|Kai Ma et.al.|[2309.08103](http://arxiv.org/abs/2309.08103)|null|
 |**2023-09-14**|**Steady-state entanglement production in a quantum thermal machine with continuous feedback control**|Giovanni Francesco Diotallevi et.al.|[2309.07696](http://arxiv.org/abs/2309.07696)|null|
 |**2023-09-12**|**Nonlocality activation in a photonic quantum network**|Luis Villegas-Aguilar et.al.|[2309.06501](http://arxiv.org/abs/2309.06501)|null|
 |**2023-09-12**|**Investigations of the boundary of quantum correlations and device-independent applications**|Yuan Liu et.al.|[2309.06304](http://arxiv.org/abs/2309.06304)|null|
@@ -293,6 +294,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Designs from Local Random Quantum Circuits with SU(d) Symmetry**|Zimu Li et.al.|[2309.08155](http://arxiv.org/abs/2309.08155)|null|
 |**2023-09-11**|**Manybody Interferometry of Quantum Fluids**|Gabrielle Roberts et.al.|[2309.05727](http://arxiv.org/abs/2309.05727)|null|
 |**2023-09-08**|**Quantum Ising model on two dimensional anti-de Sitter space**|Muhammad Asaduzzaman et.al.|[2309.04383](http://arxiv.org/abs/2309.04383)|null|
 |**2023-09-05**|**Euclidean wormholes in two-dimensional CFTs from quantum chaos and number theory**|Felix M. Haehl et.al.|[2309.02533](http://arxiv.org/abs/2309.02533)|null|
@@ -388,6 +390,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Depth Estimation from a Single Optical Encoded Image using a Learned Colored-Coded Aperture**|Jhon Lopez et.al.|[2309.08033](http://arxiv.org/abs/2309.08033)|null|
 |**2023-09-14**|**A survey of complex generalized weighing matrices and a construction of quantum error-correcting codes**|Ronan Egan et.al.|[2309.07522](http://arxiv.org/abs/2309.07522)|null|
 |**2023-09-13**|**Fast Flux-Activated Leakage Reduction for Superconducting Quantum Circuits**|Nathan Lacroix et.al.|[2309.07060](http://arxiv.org/abs/2309.07060)|null|
 |**2023-09-13**|**Parity Measurements using Dispersive Shifts for Surface Codes**|Aneirin Baker et.al.|[2309.06905](http://arxiv.org/abs/2309.06905)|null|

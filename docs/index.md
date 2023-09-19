@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Exact Steering Bound for Two-Qubit Werner States**|Yujie Zhang et.al.|[2309.09960](http://arxiv.org/abs/2309.09960)|null|
+|**2023-09-18**|**Device-independent quantum key distribution with arbitrarily small nonlocality**|Lewis Wooltorton et.al.|[2309.09650](http://arxiv.org/abs/2309.09650)|null|
 |**2023-09-15**|**Testing Bell inequality through $h\toττ$ at CEPC**|Kai Ma et.al.|[2309.08103](http://arxiv.org/abs/2309.08103)|null|
 |**2023-09-14**|**Steady-state entanglement production in a quantum thermal machine with continuous feedback control**|Giovanni Francesco Diotallevi et.al.|[2309.07696](http://arxiv.org/abs/2309.07696)|null|
 |**2023-09-12**|**Nonlocality activation in a photonic quantum network**|Luis Villegas-Aguilar et.al.|[2309.06501](http://arxiv.org/abs/2309.06501)|null|
@@ -187,6 +189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Exact Steering Bound for Two-Qubit Werner States**|Yujie Zhang et.al.|[2309.09960](http://arxiv.org/abs/2309.09960)|null|
 |**2023-08-30**|**Quantum steering with imprecise measurements**|Armin Tavakoli et.al.|[2308.15356](http://arxiv.org/abs/2308.15356)|null|
 |**2023-08-29**|**Distrustful quantum steering**|Shubhayan Sarkar et.al.|[2308.15337](http://arxiv.org/abs/2308.15337)|null|
 |**2023-08-26**|**Certification of non-Gaussian Einstein-Podolsky-Rosen Steering**|Mingsheng Tian et.al.|[2308.13867](http://arxiv.org/abs/2308.13867)|null|
@@ -220,6 +223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Non-Linear Transformations of Quantum Amplitudes: Exponential Improvement, Generalization, and Applications**|Arthur G. Rattew et.al.|[2309.09839](http://arxiv.org/abs/2309.09839)|null|
 |**2023-09-14**|**Spiking Dynamics in Dual Free Layer Perpendicular Magnetic Tunnel Junctions**|Louis Farcis et.al.|[2309.07535](http://arxiv.org/abs/2309.07535)|null|
 |**2023-09-13**|**Reversibility of quantum resources through probabilistic protocols**|Bartosz Regula et.al.|[2309.07206](http://arxiv.org/abs/2309.07206)|null|
 |**2023-09-02**|**Remote ID for separation provision and multi-agent navigation**|Evgenii Vinogradov et.al.|[2309.00843](http://arxiv.org/abs/2309.00843)|null|
@@ -369,6 +373,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-15**|**Implementing fault-tolerant non-Clifford gates using the [[8,3,2]] color code**|Daniel Honciuc Menendez et.al.|[2309.08663](http://arxiv.org/abs/2309.08663)|null|
 |**2023-09-14**|**Depth Estimation from a Single Optical Encoded Image using a Learned Colored-Coded Aperture**|Jhon Lopez et.al.|[2309.08033](http://arxiv.org/abs/2309.08033)|null|
 |**2023-09-14**|**A survey of complex generalized weighing matrices and a construction of quantum error-correcting codes**|Ronan Egan et.al.|[2309.07522](http://arxiv.org/abs/2309.07522)|null|
 |**2023-09-13**|**Fast Flux-Activated Leakage Reduction for Superconducting Quantum Circuits**|Nathan Lacroix et.al.|[2309.07060](http://arxiv.org/abs/2309.07060)|null|

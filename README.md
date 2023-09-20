@@ -298,6 +298,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Quantum information spreading and scrambling in a distributed quantum network: A Hasse/Lamport diagrammatic approach**|Kiran Adhikari et.al.|[2309.10363](http://arxiv.org/abs/2309.10363)|null|
+|**2023-09-18**|**Squeezing, Chaos and Thermalization in Periodically Driven Quantum Systems: The Case of Bosonic Preheating**|Ayan Chakraborty et.al.|[2309.10116](http://arxiv.org/abs/2309.10116)|null|
 |**2023-09-15**|**Designs from Local Random Quantum Circuits with SU(d) Symmetry**|Zimu Li et.al.|[2309.08155](http://arxiv.org/abs/2309.08155)|null|
 |**2023-09-11**|**Manybody Interferometry of Quantum Fluids**|Gabrielle Roberts et.al.|[2309.05727](http://arxiv.org/abs/2309.05727)|null|
 |**2023-09-08**|**Quantum Ising model on two dimensional anti-de Sitter space**|Muhammad Asaduzzaman et.al.|[2309.04383](http://arxiv.org/abs/2309.04383)|null|
@@ -394,6 +396,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**QuBEC: Boosting Equivalence Checking for Quantum Circuits with QEC Embedding**|Chao Lu et.al.|[2309.10728](http://arxiv.org/abs/2309.10728)|null|
+|**2023-09-19**|**Hardness results for decoding the surface code with Pauli noise**|Alex Fischer et.al.|[2309.10331](http://arxiv.org/abs/2309.10331)|null|
+|**2023-09-18**|**Quantum Algorithms for State Preparation and Data Classification based on Stabilizer Codes**|Pejman Jouzdani et.al.|[2309.10087](http://arxiv.org/abs/2309.10087)|null|
+|**2023-09-18**|**Fault-tolerant hyperbolic Floquet quantum error correcting codes**|Ali Fahimniya et.al.|[2309.10033](http://arxiv.org/abs/2309.10033)|null|
 |**2023-09-15**|**Implementing fault-tolerant non-Clifford gates using the [[8,3,2]] color code**|Daniel Honciuc Menendez et.al.|[2309.08663](http://arxiv.org/abs/2309.08663)|null|
 |**2023-09-14**|**Depth Estimation from a Single Optical Encoded Image using a Learned Colored-Coded Aperture**|Jhon Lopez et.al.|[2309.08033](http://arxiv.org/abs/2309.08033)|null|
 |**2023-09-14**|**A survey of complex generalized weighing matrices and a construction of quantum error-correcting codes**|Ronan Egan et.al.|[2309.07522](http://arxiv.org/abs/2309.07522)|null|

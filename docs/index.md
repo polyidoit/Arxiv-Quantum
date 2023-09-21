@@ -375,6 +375,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Three-qubit Parity Gate via Simultaneous Cross Resonance Drives**|Toshinari Itoko et.al.|[2309.11287](http://arxiv.org/abs/2309.11287)|null|
 |**2023-09-19**|**QuBEC: Boosting Equivalence Checking for Quantum Circuits with QEC Embedding**|Chao Lu et.al.|[2309.10728](http://arxiv.org/abs/2309.10728)|null|
 |**2023-09-19**|**Hardness results for decoding the surface code with Pauli noise**|Alex Fischer et.al.|[2309.10331](http://arxiv.org/abs/2309.10331)|null|
 |**2023-09-18**|**Quantum Algorithms for State Preparation and Data Classification based on Stabilizer Codes**|Pejman Jouzdani et.al.|[2309.10087](http://arxiv.org/abs/2309.10087)|null|

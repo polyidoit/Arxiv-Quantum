@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Compatibility of all noisy qubit observables**|Martin J. Renner et.al.|[2309.12290](http://arxiv.org/abs/2309.12290)|null|
+|**2023-09-21**|**Coherence manipulations of Poisson-distributed coherent photons for the second-order intensity correlation**|Byoung S. Ham et.al.|[2309.11792](http://arxiv.org/abs/2309.11792)|null|
 |**2023-09-18**|**Exact Steering Bound for Two-Qubit Werner States**|Yujie Zhang et.al.|[2309.09960](http://arxiv.org/abs/2309.09960)|null|
 |**2023-09-18**|**Device-independent quantum key distribution with arbitrarily small nonlocality**|Lewis Wooltorton et.al.|[2309.09650](http://arxiv.org/abs/2309.09650)|null|
 |**2023-09-15**|**Testing Bell inequality through $h\toττ$ at CEPC**|Kai Ma et.al.|[2309.08103](http://arxiv.org/abs/2309.08103)|null|
@@ -204,6 +206,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Compatibility of all noisy qubit observables**|Martin J. Renner et.al.|[2309.12290](http://arxiv.org/abs/2309.12290)|null|
+|**2023-09-21**|**Quantum complementarity: A novel resource for unambiguous exclusion and encryption**|Chung-Yun Hsieh et.al.|[2309.11968](http://arxiv.org/abs/2309.11968)|null|
 |**2023-09-18**|**Exact Steering Bound for Two-Qubit Werner States**|Yujie Zhang et.al.|[2309.09960](http://arxiv.org/abs/2309.09960)|null|
 |**2023-08-30**|**Quantum steering with imprecise measurements**|Armin Tavakoli et.al.|[2308.15356](http://arxiv.org/abs/2308.15356)|null|
 |**2023-08-29**|**Distrustful quantum steering**|Shubhayan Sarkar et.al.|[2308.15337](http://arxiv.org/abs/2308.15337)|null|
@@ -240,6 +244,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**A variational approach to free probability**|Octavio Arizmendi et.al.|[2309.12196](http://arxiv.org/abs/2309.12196)|null|
 |**2023-09-18**|**Non-Linear Transformations of Quantum Amplitudes: Exponential Improvement, Generalization, and Applications**|Arthur G. Rattew et.al.|[2309.09839](http://arxiv.org/abs/2309.09839)|null|
 |**2023-09-14**|**Spiking Dynamics in Dual Free Layer Perpendicular Magnetic Tunnel Junctions**|Louis Farcis et.al.|[2309.07535](http://arxiv.org/abs/2309.07535)|null|
 |**2023-09-13**|**Reversibility of quantum resources through probabilistic protocols**|Bartosz Regula et.al.|[2309.07206](http://arxiv.org/abs/2309.07206)|null|
@@ -298,6 +303,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Hungarian Qubit Assignment for Optimized Mapping of Quantum Circuits on Multi-Core Architectures**|Pau Escofet et.al.|[2309.12182](http://arxiv.org/abs/2309.12182)|null|
 |**2023-09-19**|**Quantum information spreading and scrambling in a distributed quantum network: A Hasse/Lamport diagrammatic approach**|Kiran Adhikari et.al.|[2309.10363](http://arxiv.org/abs/2309.10363)|null|
 |**2023-09-18**|**Squeezing, Chaos and Thermalization in Periodically Driven Quantum Systems: The Case of Bosonic Preheating**|Ayan Chakraborty et.al.|[2309.10116](http://arxiv.org/abs/2309.10116)|null|
 |**2023-09-15**|**Designs from Local Random Quantum Circuits with SU(d) Symmetry**|Zimu Li et.al.|[2309.08155](http://arxiv.org/abs/2309.08155)|null|
@@ -396,6 +402,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Analysis of the Error-Correcting Radius of a Renormalisation Decoder for Kitaev's Toric Code**|Wouter Rozendaal et.al.|[2309.12165](http://arxiv.org/abs/2309.12165)|null|
+|**2023-09-21**|**Quantum Circuits for Stabilizer Error Correcting Codes: A Tutorial**|Arijit Mondal et.al.|[2309.11793](http://arxiv.org/abs/2309.11793)|null|
+|**2023-09-21**|**Long-range-enhanced surface codes**|Yifan Hong et.al.|[2309.11719](http://arxiv.org/abs/2309.11719)|null|
 |**2023-09-20**|**Three-qubit Parity Gate via Simultaneous Cross Resonance Drives**|Toshinari Itoko et.al.|[2309.11287](http://arxiv.org/abs/2309.11287)|null|
 |**2023-09-19**|**QuBEC: Boosting Equivalence Checking for Quantum Circuits with QEC Embedding**|Chao Lu et.al.|[2309.10728](http://arxiv.org/abs/2309.10728)|null|
 |**2023-09-19**|**Hardness results for decoding the surface code with Pauli noise**|Alex Fischer et.al.|[2309.10331](http://arxiv.org/abs/2309.10331)|null|

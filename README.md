@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Relating Wigner's Friend scenarios to Nonclassical Causal Compatibility, Monogamy Relations, and Fine Tuning**|Yìlè Yīng et.al.|[2309.12987](http://arxiv.org/abs/2309.12987)|null|
+|**2023-09-22**|**Quantifying nonclassicality of vacuum-one-photon superpositions via potentials for Bell nonlocality, quantum steering, and entanglement**|Adam Miranowicz et.al.|[2309.12930](http://arxiv.org/abs/2309.12930)|null|
+|**2023-09-22**|**Experimental hierarchy of the nonclassicality of single-qubit states via potentials of entanglement, steering, and Bell nonlocality**|Josef Kadlec et.al.|[2309.12878](http://arxiv.org/abs/2309.12878)|null|
 |**2023-09-21**|**Compatibility of all noisy qubit observables**|Martin J. Renner et.al.|[2309.12290](http://arxiv.org/abs/2309.12290)|null|
 |**2023-09-21**|**Coherence manipulations of Poisson-distributed coherent photons for the second-order intensity correlation**|Byoung S. Ham et.al.|[2309.11792](http://arxiv.org/abs/2309.11792)|null|
 |**2023-09-18**|**Exact Steering Bound for Two-Qubit Werner States**|Yujie Zhang et.al.|[2309.09960](http://arxiv.org/abs/2309.09960)|null|
@@ -158,6 +161,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**The CHSH Test is Sufficient to Observe Quantum Contextuality**|Firat Diker et.al.|[2309.12868](http://arxiv.org/abs/2309.12868)|null|
 |**2023-09-14**|**Collective non-Hermitian skin effect: Point-gap topology and the doublon-holon excitations in non-reciprocal many-body systems**|Beom Hyun Kim et.al.|[2309.07894](http://arxiv.org/abs/2309.07894)|null|
 |**2023-09-05**|**Compatibility graphs in scheduling on batch processing machines**|Khaoula Bouakaz et.al.|[2309.02601](http://arxiv.org/abs/2309.02601)|null|
 |**2023-08-31**|**Generalised Winograd Schema and its Contextuality**|Kin Ian Lo et.al.|[2308.16498](http://arxiv.org/abs/2308.16498)|null|
@@ -206,6 +210,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Quantifying nonclassicality of vacuum-one-photon superpositions via potentials for Bell nonlocality, quantum steering, and entanglement**|Adam Miranowicz et.al.|[2309.12930](http://arxiv.org/abs/2309.12930)|null|
+|**2023-09-22**|**Experimental hierarchy of the nonclassicality of single-qubit states via potentials of entanglement, steering, and Bell nonlocality**|Josef Kadlec et.al.|[2309.12878](http://arxiv.org/abs/2309.12878)|null|
 |**2023-09-21**|**Compatibility of all noisy qubit observables**|Martin J. Renner et.al.|[2309.12290](http://arxiv.org/abs/2309.12290)|null|
 |**2023-09-21**|**Quantum complementarity: A novel resource for unambiguous exclusion and encryption**|Chung-Yun Hsieh et.al.|[2309.11968](http://arxiv.org/abs/2309.11968)|null|
 |**2023-09-18**|**Exact Steering Bound for Two-Qubit Werner States**|Yujie Zhang et.al.|[2309.09960](http://arxiv.org/abs/2309.09960)|null|
@@ -303,6 +309,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**The statistical properties of eigenstates in chaotic many-body quantum systems**|Dominik Hahn et.al.|[2309.12982](http://arxiv.org/abs/2309.12982)|null|
+|**2023-09-22**|**Numerical Simulation of Radiative Transfer of Electromagnetic Angular Momentum**|B. A. van Tiggelen et.al.|[2309.12847](http://arxiv.org/abs/2309.12847)|null|
 |**2023-09-21**|**Hungarian Qubit Assignment for Optimized Mapping of Quantum Circuits on Multi-Core Architectures**|Pau Escofet et.al.|[2309.12182](http://arxiv.org/abs/2309.12182)|null|
 |**2023-09-19**|**Quantum information spreading and scrambling in a distributed quantum network: A Hasse/Lamport diagrammatic approach**|Kiran Adhikari et.al.|[2309.10363](http://arxiv.org/abs/2309.10363)|null|
 |**2023-09-18**|**Squeezing, Chaos and Thermalization in Periodically Driven Quantum Systems: The Case of Bosonic Preheating**|Ayan Chakraborty et.al.|[2309.10116](http://arxiv.org/abs/2309.10116)|null|
@@ -402,6 +410,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Dynamical subset sampling of quantum error correcting protocols**|Sascha Heußen et.al.|[2309.12774](http://arxiv.org/abs/2309.12774)|null|
+|**2023-09-21**|**Real-time feedback protocols for optimizing fault-tolerant two-qubit gate fidelities in a silicon spin system**|Nard Dumoulin Stuyck et.al.|[2309.12541](http://arxiv.org/abs/2309.12541)|null|
+|**2023-09-21**|**Systematic Design and Optimization of Quantum Circuits for Stabilizer Codes**|Arijit Mondal et.al.|[2309.12373](http://arxiv.org/abs/2309.12373)|null|
 |**2023-09-21**|**Analysis of the Error-Correcting Radius of a Renormalisation Decoder for Kitaev's Toric Code**|Wouter Rozendaal et.al.|[2309.12165](http://arxiv.org/abs/2309.12165)|null|
 |**2023-09-21**|**Quantum Circuits for Stabilizer Error Correcting Codes: A Tutorial**|Arijit Mondal et.al.|[2309.11793](http://arxiv.org/abs/2309.11793)|null|
 |**2023-09-21**|**Long-range-enhanced surface codes**|Yifan Hong et.al.|[2309.11719](http://arxiv.org/abs/2309.11719)|null|

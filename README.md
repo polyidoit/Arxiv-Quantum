@@ -116,6 +116,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Matrix Factorization in Tropical and Mixed Tropical-Linear Algebras**|Ioannis Kordonis et.al.|[2309.13914](http://arxiv.org/abs/2309.13914)|null|
 |**2023-09-13**|**Experimental demonstration of enhanced violations of Leggett-Garg inequalities in a $\mathcal{PT}$ -symmetric trapped-ion qubit**|Pengfei Lu et.al.|[2309.06713](http://arxiv.org/abs/2309.06713)|null|
 |**2023-09-08**|**Trade-Offs in Decentralized Multi-Antenna Architectures: Sparse Combining Modules for WAX Decomposition**|Juan Vidal Alegría et.al.|[2309.04297](http://arxiv.org/abs/2309.04297)|null|
 |**2023-08-31**|**Global Synthesis of CNOT Circuits with Holes**|Ewan Murphy et.al.|[2308.16496](http://arxiv.org/abs/2308.16496)|null|
@@ -309,6 +310,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Error and Disturbance as Irreversibility with Applications: Unified Definition, Wigner--Araki--Yanase Theorem and Out-of-Time-Order Correlator**|Haruki Emori et.al.|[2309.14172](http://arxiv.org/abs/2309.14172)|null|
+|**2023-09-23**|**Integrability to chaos transition through Krylov approach for state evolution**|Gastón F. Scialchi et.al.|[2309.13427](http://arxiv.org/abs/2309.13427)|null|
+|**2023-09-23**|**Quantum Chaos and Pole-Skipping in Semi-Locally Critical IR**|Hyun-Sik Jeong et.al.|[2309.13412](http://arxiv.org/abs/2309.13412)|null|
 |**2023-09-22**|**The statistical properties of eigenstates in chaotic many-body quantum systems**|Dominik Hahn et.al.|[2309.12982](http://arxiv.org/abs/2309.12982)|null|
 |**2023-09-22**|**Numerical Simulation of Radiative Transfer of Electromagnetic Angular Momentum**|B. A. van Tiggelen et.al.|[2309.12847](http://arxiv.org/abs/2309.12847)|null|
 |**2023-09-21**|**Hungarian Qubit Assignment for Optimized Mapping of Quantum Circuits on Multi-Core Architectures**|Pau Escofet et.al.|[2309.12182](http://arxiv.org/abs/2309.12182)|null|
@@ -410,12 +414,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-24**|**An Architecture for Improved Surface Code Connectivity in Neutral Atoms**|Joshua Viszlai et.al.|[2309.13507](http://arxiv.org/abs/2309.13507)|null|
+|**2023-09-22**|**ERASER: Towards Adaptive Leakage Suppression for Fault-Tolerant Quantum Computing**|Suhas Vittal et.al.|[2309.13143](http://arxiv.org/abs/2309.13143)|null|
 |**2023-09-22**|**Dynamical subset sampling of quantum error correcting protocols**|Sascha Heußen et.al.|[2309.12774](http://arxiv.org/abs/2309.12774)|null|
 |**2023-09-21**|**Real-time feedback protocols for optimizing fault-tolerant two-qubit gate fidelities in a silicon spin system**|Nard Dumoulin Stuyck et.al.|[2309.12541](http://arxiv.org/abs/2309.12541)|null|
 |**2023-09-21**|**Systematic Design and Optimization of Quantum Circuits for Stabilizer Codes**|Arijit Mondal et.al.|[2309.12373](http://arxiv.org/abs/2309.12373)|null|
 |**2023-09-21**|**Analysis of the Error-Correcting Radius of a Renormalisation Decoder for Kitaev's Toric Code**|Wouter Rozendaal et.al.|[2309.12165](http://arxiv.org/abs/2309.12165)|null|
 |**2023-09-21**|**Quantum Circuits for Stabilizer Error Correcting Codes: A Tutorial**|Arijit Mondal et.al.|[2309.11793](http://arxiv.org/abs/2309.11793)|null|
-|**2023-09-21**|**Long-range-enhanced surface codes**|Yifan Hong et.al.|[2309.11719](http://arxiv.org/abs/2309.11719)|null|
+|**2023-09-25**|**Long-range-enhanced surface codes**|Yifan Hong et.al.|[2309.11719](http://arxiv.org/abs/2309.11719)|null|
 |**2023-09-20**|**Three-qubit Parity Gate via Simultaneous Cross Resonance Drives**|Toshinari Itoko et.al.|[2309.11287](http://arxiv.org/abs/2309.11287)|null|
 |**2023-09-19**|**QuBEC: Boosting Equivalence Checking for Quantum Circuits with QEC Embedding**|Chao Lu et.al.|[2309.10728](http://arxiv.org/abs/2309.10728)|null|
 |**2023-09-19**|**Hardness results for decoding the surface code with Pauli noise**|Alex Fischer et.al.|[2309.10331](http://arxiv.org/abs/2309.10331)|null|

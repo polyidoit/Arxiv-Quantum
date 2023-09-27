@@ -196,6 +196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Quantum Steering vs Entanglement and Extracting Work in an Anisotropic Two-Qubit Heisenberg Model in Presence of External Magnetic Fields with DM and KSEA Interactions**|Mohamed Amazioug et.al.|[2309.15036](http://arxiv.org/abs/2309.15036)|null|
 |**2023-09-22**|**Quantifying nonclassicality of vacuum-one-photon superpositions via potentials for Bell nonlocality, quantum steering, and entanglement**|Adam Miranowicz et.al.|[2309.12930](http://arxiv.org/abs/2309.12930)|null|
 |**2023-09-22**|**Experimental hierarchy of the nonclassicality of single-qubit states via potentials of entanglement, steering, and Bell nonlocality**|Josef Kadlec et.al.|[2309.12878](http://arxiv.org/abs/2309.12878)|null|
 |**2023-09-21**|**Compatibility of all noisy qubit observables**|Martin J. Renner et.al.|[2309.12290](http://arxiv.org/abs/2309.12290)|null|
@@ -291,6 +292,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Multifractality for intermediate quantum systems**|Henrik Ueberschaer et.al.|[2309.14526](http://arxiv.org/abs/2309.14526)|null|
 |**2023-09-25**|**Error and Disturbance as Irreversibility with Applications: Unified Definition, Wigner--Araki--Yanase Theorem and Out-of-Time-Order Correlator**|Haruki Emori et.al.|[2309.14172](http://arxiv.org/abs/2309.14172)|null|
 |**2023-09-23**|**Integrability to chaos transition through Krylov approach for state evolution**|Gastón F. Scialchi et.al.|[2309.13427](http://arxiv.org/abs/2309.13427)|null|
 |**2023-09-23**|**Quantum Chaos and Pole-Skipping in Semi-Locally Critical IR**|Hyun-Sik Jeong et.al.|[2309.13412](http://arxiv.org/abs/2309.13412)|null|
@@ -395,7 +397,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-24**|**An Architecture for Improved Surface Code Connectivity in Neutral Atoms**|Joshua Viszlai et.al.|[2309.13507](http://arxiv.org/abs/2309.13507)|null|
 |**2023-09-22**|**ERASER: Towards Adaptive Leakage Suppression for Fault-Tolerant Quantum Computing**|Suhas Vittal et.al.|[2309.13143](http://arxiv.org/abs/2309.13143)|null|
-|**2023-09-22**|**Dynamical subset sampling of quantum error correcting protocols**|Sascha Heußen et.al.|[2309.12774](http://arxiv.org/abs/2309.12774)|null|
+|**2023-09-22**|**Dynamical subset sampling of quantum error correcting protocols**|Sascha Heußen et.al.|[2309.12774](http://arxiv.org/abs/2309.12774)|**[link](https://github.com/dpwinter/qsample)**|
 |**2023-09-21**|**Real-time feedback protocols for optimizing fault-tolerant two-qubit gate fidelities in a silicon spin system**|Nard Dumoulin Stuyck et.al.|[2309.12541](http://arxiv.org/abs/2309.12541)|null|
 |**2023-09-21**|**Systematic Design and Optimization of Quantum Circuits for Stabilizer Codes**|Arijit Mondal et.al.|[2309.12373](http://arxiv.org/abs/2309.12373)|null|
 |**2023-09-21**|**Analysis of the Error-Correcting Radius of a Renormalisation Decoder for Kitaev's Toric Code**|Wouter Rozendaal et.al.|[2309.12165](http://arxiv.org/abs/2309.12165)|null|

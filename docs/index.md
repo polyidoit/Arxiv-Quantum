@@ -292,6 +292,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Classical route to ergodicity and scarring in collective quantum systems**|Sudip Sinha et.al.|[2309.15527](http://arxiv.org/abs/2309.15527)|null|
 |**2023-09-25**|**Multifractality for intermediate quantum systems**|Henrik Ueberschaer et.al.|[2309.14526](http://arxiv.org/abs/2309.14526)|null|
 |**2023-09-25**|**Error and Disturbance as Irreversibility with Applications: Unified Definition, Wigner--Araki--Yanase Theorem and Out-of-Time-Order Correlator**|Haruki Emori et.al.|[2309.14172](http://arxiv.org/abs/2309.14172)|null|
 |**2023-09-23**|**Integrability to chaos transition through Krylov approach for state evolution**|Gastón F. Scialchi et.al.|[2309.13427](http://arxiv.org/abs/2309.13427)|null|
@@ -395,6 +396,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Splitting decoders for correcting hypergraph faults**|Nicolas Delfosse et.al.|[2309.15354](http://arxiv.org/abs/2309.15354)|null|
+|**2023-09-27**|**Simulation of noisy Clifford circuits without fault propagation**|Nicolas Delfosse et.al.|[2309.15345](http://arxiv.org/abs/2309.15345)|null|
 |**2023-09-24**|**An Architecture for Improved Surface Code Connectivity in Neutral Atoms**|Joshua Viszlai et.al.|[2309.13507](http://arxiv.org/abs/2309.13507)|null|
 |**2023-09-22**|**ERASER: Towards Adaptive Leakage Suppression for Fault-Tolerant Quantum Computing**|Suhas Vittal et.al.|[2309.13143](http://arxiv.org/abs/2309.13143)|null|
 |**2023-09-22**|**Dynamical subset sampling of quantum error correcting protocols**|Sascha Heußen et.al.|[2309.12774](http://arxiv.org/abs/2309.12774)|**[link](https://github.com/dpwinter/qsample)**|

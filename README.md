@@ -116,6 +116,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Semi-device-independent certification of quantum non-Markovianity using sequential Random Access Codes**|Abhinash Kumar Roy et.al.|[2309.16190](http://arxiv.org/abs/2309.16190)|null|
 |**2023-09-25**|**Matrix Factorization in Tropical and Mixed Tropical-Linear Algebras**|Ioannis Kordonis et.al.|[2309.13914](http://arxiv.org/abs/2309.13914)|null|
 |**2023-09-13**|**Experimental demonstration of enhanced violations of Leggett-Garg inequalities in a $\mathcal{PT}$ -symmetric trapped-ion qubit**|Pengfei Lu et.al.|[2309.06713](http://arxiv.org/abs/2309.06713)|null|
 |**2023-09-08**|**Trade-Offs in Decentralized Multi-Antenna Architectures: Sparse Combining Modules for WAX Decomposition**|Juan Vidal Alegría et.al.|[2309.04297](http://arxiv.org/abs/2309.04297)|null|
@@ -311,6 +312,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning**|Zimu Li et.al.|[2309.16556](http://arxiv.org/abs/2309.16556)|null|
+|**2023-09-27**|**Scale-invariant critical dynamics at eigenstate transitions**|Miroslav Hopjan et.al.|[2309.16005](http://arxiv.org/abs/2309.16005)|null|
 |**2023-09-27**|**Classical route to ergodicity and scarring in collective quantum systems**|Sudip Sinha et.al.|[2309.15527](http://arxiv.org/abs/2309.15527)|null|
 |**2023-09-25**|**Multifractality for intermediate quantum systems**|Henrik Ueberschaer et.al.|[2309.14526](http://arxiv.org/abs/2309.14526)|null|
 |**2023-09-25**|**Error and Disturbance as Irreversibility with Applications: Unified Definition, Wigner--Araki--Yanase Theorem and Out-of-Time-Order Correlator**|Haruki Emori et.al.|[2309.14172](http://arxiv.org/abs/2309.14172)|null|
@@ -417,6 +420,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning**|Zimu Li et.al.|[2309.16556](http://arxiv.org/abs/2309.16556)|null|
+|**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
+|**2023-09-28**|**On combinatorial structures in linear codes**|Nouédyn Baspin et.al.|[2309.16411](http://arxiv.org/abs/2309.16411)|null|
+|**2023-09-28**|**Geometrically Local Quantum and Classical Codes from Subdivision**|Ting-Chun Lin et.al.|[2309.16104](http://arxiv.org/abs/2309.16104)|null|
 |**2023-09-27**|**Splitting decoders for correcting hypergraph faults**|Nicolas Delfosse et.al.|[2309.15354](http://arxiv.org/abs/2309.15354)|null|
 |**2023-09-27**|**Simulation of noisy Clifford circuits without fault propagation**|Nicolas Delfosse et.al.|[2309.15345](http://arxiv.org/abs/2309.15345)|null|
 |**2023-09-24**|**An Architecture for Improved Surface Code Connectivity in Neutral Atoms**|Joshua Viszlai et.al.|[2309.13507](http://arxiv.org/abs/2309.13507)|null|

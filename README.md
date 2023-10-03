@@ -321,7 +321,7 @@
 |**2023-09-23**|**Quantum Chaos and Pole-Skipping in Semi-Locally Critical IR**|Hyun-Sik Jeong et.al.|[2309.13412](http://arxiv.org/abs/2309.13412)|null|
 |**2023-09-22**|**The statistical properties of eigenstates in chaotic many-body quantum systems**|Dominik Hahn et.al.|[2309.12982](http://arxiv.org/abs/2309.12982)|null|
 |**2023-09-22**|**Numerical Simulation of Radiative Transfer of Electromagnetic Angular Momentum**|B. A. van Tiggelen et.al.|[2309.12847](http://arxiv.org/abs/2309.12847)|null|
-|**2023-09-21**|**Hungarian Qubit Assignment for Optimized Mapping of Quantum Circuits on Multi-Core Architectures**|Pau Escofet et.al.|[2309.12182](http://arxiv.org/abs/2309.12182)|null|
+|**2023-10-02**|**Hungarian Qubit Assignment for Optimized Mapping of Quantum Circuits on Multi-Core Architectures**|Pau Escofet et.al.|[2309.12182](http://arxiv.org/abs/2309.12182)|null|
 |**2023-09-19**|**Quantum information spreading and scrambling in a distributed quantum network: A Hasse/Lamport diagrammatic approach**|Kiran Adhikari et.al.|[2309.10363](http://arxiv.org/abs/2309.10363)|null|
 |**2023-09-18**|**Squeezing, Chaos and Thermalization in Periodically Driven Quantum Systems: The Case of Bosonic Preheating**|Ayan Chakraborty et.al.|[2309.10116](http://arxiv.org/abs/2309.10116)|null|
 |**2023-09-15**|**Designs from Local Random Quantum Circuits with SU(d) Symmetry**|Zimu Li et.al.|[2309.08155](http://arxiv.org/abs/2309.08155)|null|

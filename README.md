@@ -420,6 +420,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-01**|**Conceptual study of a two-layer silicon pixel detector to tag the passage of muons from cosmic sources through quantum processors**|Ulascan Sarica et.al.|[2310.00577](http://arxiv.org/abs/2310.00577)|null|
+|**2023-09-30**|**Quantum MDS Codes with length $n\equiv 0,1($mod$\,\frac{q\pm1}{2})$**|Ruhao Wan et.al.|[2310.00214](http://arxiv.org/abs/2310.00214)|null|
 |**2023-09-28**|**SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning**|Zimu Li et.al.|[2309.16556](http://arxiv.org/abs/2309.16556)|null|
 |**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
 |**2023-09-28**|**On combinatorial structures in linear codes**|Nouédyn Baspin et.al.|[2309.16411](http://arxiv.org/abs/2309.16411)|null|

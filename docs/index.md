@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -293,7 +293,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-28**|**SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning**|Zimu Li et.al.|[2309.16556](http://arxiv.org/abs/2309.16556)|null|
+|**2023-10-04**|**SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning**|Zimu Li et.al.|[2309.16556](http://arxiv.org/abs/2309.16556)|null|
 |**2023-09-27**|**Scale-invariant critical dynamics at eigenstate transitions**|Miroslav Hopjan et.al.|[2309.16005](http://arxiv.org/abs/2309.16005)|null|
 |**2023-09-27**|**Classical route to ergodicity and scarring in collective quantum systems**|Sudip Sinha et.al.|[2309.15527](http://arxiv.org/abs/2309.15527)|null|
 |**2023-09-25**|**Multifractality for intermediate quantum systems**|Henrik Ueberschaer et.al.|[2309.14526](http://arxiv.org/abs/2309.14526)|null|
@@ -401,7 +401,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-01**|**Conceptual study of a two-layer silicon pixel detector to tag the passage of muons from cosmic sources through quantum processors**|Ulascan Sarica et.al.|[2310.00577](http://arxiv.org/abs/2310.00577)|null|
 |**2023-09-30**|**Quantum MDS Codes with length $n\equiv 0,1($mod$\,\frac{q\pm1}{2})$**|Ruhao Wan et.al.|[2310.00214](http://arxiv.org/abs/2310.00214)|null|
-|**2023-09-28**|**SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning**|Zimu Li et.al.|[2309.16556](http://arxiv.org/abs/2309.16556)|null|
+|**2023-10-04**|**SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning**|Zimu Li et.al.|[2309.16556](http://arxiv.org/abs/2309.16556)|null|
 |**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
 |**2023-09-28**|**On combinatorial structures in linear codes**|Nouédyn Baspin et.al.|[2309.16411](http://arxiv.org/abs/2309.16411)|null|
 |**2023-09-28**|**Geometrically Local Quantum and Classical Codes from Subdivision**|Ting-Chun Lin et.al.|[2309.16104](http://arxiv.org/abs/2309.16104)|null|

@@ -422,7 +422,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-05**|**Synergy of machine learning with quantum computing and communication**|Debasmita Bhoumik et.al.|[2310.03434](http://arxiv.org/abs/2310.03434)|null|
-|**2023-10-04**|**Group-theoretic error mitigation enabled by classical shadows and symmetries**|Andrew Zhao et.al.|[2310.03071](http://arxiv.org/abs/2310.03071)|null|
+|**2023-10-04**|**Group-theoretic error mitigation enabled by classical shadows and symmetries**|Andrew Zhao et.al.|[2310.03071](http://arxiv.org/abs/2310.03071)|**[link](https://github.com/zhao-andrew/symmetry-adjusted-classical-shadows)**|
 |**2023-10-04**|**Quantum algorithms: A survey of applications and end-to-end complexities**|Alexander M. Dalzell et.al.|[2310.03011](http://arxiv.org/abs/2310.03011)|null|
 |**2023-10-01**|**Conceptual study of a two-layer silicon pixel detector to tag the passage of muons from cosmic sources through quantum processors**|Ulascan Sarica et.al.|[2310.00577](http://arxiv.org/abs/2310.00577)|null|
 |**2023-09-30**|**Quantum MDS Codes with length $n\equiv 0,1($mod$\,\frac{q\pm1}{2})$**|Ruhao Wan et.al.|[2310.00214](http://arxiv.org/abs/2310.00214)|null|

@@ -105,6 +105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Challenges for extensions of the process matrix formalism to quantum field theory**|Nikola Paunkovic et.al.|[2310.04597](http://arxiv.org/abs/2310.04597)|null|
 |**2023-09-28**|**Semi-device-independent certification of quantum non-Markovianity using sequential Random Access Codes**|Abhinash Kumar Roy et.al.|[2309.16190](http://arxiv.org/abs/2309.16190)|null|
 |**2023-09-25**|**Matrix Factorization in Tropical and Mixed Tropical-Linear Algebras**|Ioannis Kordonis et.al.|[2309.13914](http://arxiv.org/abs/2309.13914)|null|
 |**2023-09-13**|**Experimental demonstration of enhanced violations of Leggett-Garg inequalities in a $\mathcal{PT}$ -symmetric trapped-ion qubit**|Pengfei Lu et.al.|[2309.06713](http://arxiv.org/abs/2309.06713)|null|
@@ -236,6 +237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-07**|**Breaking absolute separability with quantum switch**|Sravani Yanamandra et.al.|[2310.04819](http://arxiv.org/abs/2310.04819)|null|
 |**2023-10-04**|**The role of local bounds on neighborhoods in the network for scale-free state synchronization of multi-agent systems**|Anton A. Stoorvogel et.al.|[2310.02571](http://arxiv.org/abs/2310.02571)|null|
 |**2023-09-21**|**A variational approach to free probability**|Octavio Arizmendi et.al.|[2309.12196](http://arxiv.org/abs/2309.12196)|null|
 |**2023-09-18**|**Non-Linear Transformations of Quantum Amplitudes: Exponential Improvement, Generalization, and Applications**|Arthur G. Rattew et.al.|[2309.09839](http://arxiv.org/abs/2309.09839)|null|
@@ -401,6 +403,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**Learning to Decode the Surface Code with a Recurrent, Transformer-Based Neural Network**|Johannes Bausch et.al.|[2310.05900](http://arxiv.org/abs/2310.05900)|null|
+|**2023-10-09**|**A family of permutationally invariant quantum codes**|Arda Aydin et.al.|[2310.05358](http://arxiv.org/abs/2310.05358)|null|
+|**2023-10-07**|**Complexity and order in approximate quantum error-correcting codes**|Jinmin Yi et.al.|[2310.04710](http://arxiv.org/abs/2310.04710)|null|
 |**2023-10-05**|**Synergy of machine learning with quantum computing and communication**|Debasmita Bhoumik et.al.|[2310.03434](http://arxiv.org/abs/2310.03434)|null|
 |**2023-10-04**|**Group-theoretic error mitigation enabled by classical shadows and symmetries**|Andrew Zhao et.al.|[2310.03071](http://arxiv.org/abs/2310.03071)|**[link](https://github.com/zhao-andrew/symmetry-adjusted-classical-shadows)**|
 |**2023-10-04**|**Quantum algorithms: A survey of applications and end-to-end complexities**|Alexander M. Dalzell et.al.|[2310.03011](http://arxiv.org/abs/2310.03011)|null|

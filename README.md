@@ -315,6 +315,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Many-body quantum chaos in mixtures of multiple species**|Vijay Kumar et.al.|[2310.06811](http://arxiv.org/abs/2310.06811)|null|
+|**2023-10-09**|**Efficient Large-Scale Many-Body Quantum Dynamics via Local-Information Time Evolution**|Claudia Artiaco et.al.|[2310.06036](http://arxiv.org/abs/2310.06036)|null|
 |**2023-10-06**|**Efficient Quantum Circuit Simulation by Tensor Network Methods on Modern GPUs**|Feng Pan et.al.|[2310.03978](http://arxiv.org/abs/2310.03978)|null|
 |**2023-10-04**|**SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning**|Zimu Li et.al.|[2309.16556](http://arxiv.org/abs/2309.16556)|null|
 |**2023-09-27**|**Scale-invariant critical dynamics at eigenstate transitions**|Miroslav Hopjan et.al.|[2309.16005](http://arxiv.org/abs/2309.16005)|null|
@@ -424,6 +426,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**A SWAP Gate for Spin Qubits in Silicon**|Ming Ni et.al.|[2310.06700](http://arxiv.org/abs/2310.06700)|null|
+|**2023-10-10**|**Bounds and Constructions on $k$ -Uniform Quantum States**|Fei Shi et.al.|[2310.06378](http://arxiv.org/abs/2310.06378)|null|
 |**2023-10-09**|**Learning to Decode the Surface Code with a Recurrent, Transformer-Based Neural Network**|Johannes Bausch et.al.|[2310.05900](http://arxiv.org/abs/2310.05900)|null|
 |**2023-10-09**|**A family of permutationally invariant quantum codes**|Arda Aydin et.al.|[2310.05358](http://arxiv.org/abs/2310.05358)|null|
 |**2023-10-07**|**Complexity and order in approximate quantum error-correcting codes**|Jinmin Yi et.al.|[2310.04710](http://arxiv.org/abs/2310.04710)|null|

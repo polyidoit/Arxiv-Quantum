@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Extended Wigner's friend paradoxes do not require nonlocal correlations**|Laurens Walleghem et.al.|[2310.06976](http://arxiv.org/abs/2310.06976)|null|
+|**2023-10-10**|**The Bild-conception for Scientific Theory Structuring in Classical and Quantum Physics: from Hertz and Boltzmann to Schrödinger and De Broglie**|Andrei Khrennikov et.al.|[2310.06954](http://arxiv.org/abs/2310.06954)|null|
 |**2023-09-22**|**Relating Wigner's Friend scenarios to Nonclassical Causal Compatibility, Monogamy Relations, and Fine Tuning**|Yìlè Yīng et.al.|[2309.12987](http://arxiv.org/abs/2309.12987)|null|
 |**2023-09-22**|**Quantifying nonclassicality of vacuum-one-photon superpositions via potentials for Bell nonlocality, quantum steering, and entanglement**|Adam Miranowicz et.al.|[2309.12930](http://arxiv.org/abs/2309.12930)|null|
 |**2023-09-22**|**Experimental hierarchy of the nonclassicality of single-qubit states via potentials of entanglement, steering, and Bell nonlocality**|Josef Kadlec et.al.|[2309.12878](http://arxiv.org/abs/2309.12878)|null|
@@ -151,6 +153,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Implementing 2-qubit pseudo-telepathy games on noisy intermediate scale quantum computers**|Colm Kelleher et.al.|[2310.07441](http://arxiv.org/abs/2310.07441)|null|
 |**2023-09-22**|**The CHSH Test is Sufficient to Observe Quantum Contextuality**|Firat Diker et.al.|[2309.12868](http://arxiv.org/abs/2309.12868)|null|
 |**2023-09-14**|**Collective non-Hermitian skin effect: Point-gap topology and the doublon-holon excitations in non-reciprocal many-body systems**|Beom Hyun Kim et.al.|[2309.07894](http://arxiv.org/abs/2309.07894)|null|
 |**2023-09-05**|**Compatibility graphs in scheduling on batch processing machines**|Khaoula Bouakaz et.al.|[2309.02601](http://arxiv.org/abs/2309.02601)|null|
@@ -296,6 +299,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Classical and quantum reservoir computing: development and applications in machine learning**|Laia Domingo et.al.|[2310.07455](http://arxiv.org/abs/2310.07455)|null|
 |**2023-10-10**|**Many-body quantum chaos in mixtures of multiple species**|Vijay Kumar et.al.|[2310.06811](http://arxiv.org/abs/2310.06811)|null|
 |**2023-10-11**|**Efficient Large-Scale Many-Body Quantum Dynamics via Local-Information Time Evolution**|Claudia Artiaco et.al.|[2310.06036](http://arxiv.org/abs/2310.06036)|null|
 |**2023-10-06**|**Efficient Quantum Circuit Simulation by Tensor Network Methods on Modern GPUs**|Feng Pan et.al.|[2310.03978](http://arxiv.org/abs/2310.03978)|null|
@@ -405,6 +409,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Fault-tolerant logical gates via constant depth circuits and emergent symmetries on non-orientable topological stabilizer and Floquet codes**|Ryohei Kobayashi et.al.|[2310.06917](http://arxiv.org/abs/2310.06917)|null|
 |**2023-10-10**|**A SWAP Gate for Spin Qubits in Silicon**|Ming Ni et.al.|[2310.06700](http://arxiv.org/abs/2310.06700)|null|
 |**2023-10-10**|**Bounds and Constructions on $k$ -Uniform Quantum States**|Fei Shi et.al.|[2310.06378](http://arxiv.org/abs/2310.06378)|null|
 |**2023-10-09**|**Learning to Decode the Surface Code with a Recurrent, Transformer-Based Neural Network**|Johannes Bausch et.al.|[2310.05900](http://arxiv.org/abs/2310.05900)|null|

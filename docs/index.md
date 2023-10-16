@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**On the Fidelity Robustness of CHSH--Bell Inequality via Filtered Random States**|Antonio Mandarino et.al.|[2310.09231](http://arxiv.org/abs/2310.09231)|null|
+|**2023-10-12**|**Unbounded device-independent quantum key rates from arbitrarily small non-locality**|Máté Farkas et.al.|[2310.08635](http://arxiv.org/abs/2310.08635)|null|
 |**2023-10-10**|**Extended Wigner's friend paradoxes do not require nonlocal correlations**|Laurens Walleghem et.al.|[2310.06976](http://arxiv.org/abs/2310.06976)|null|
 |**2023-10-10**|**The Bild-conception for Scientific Theory Structuring in Classical and Quantum Physics: from Hertz and Boltzmann to Schrödinger and De Broglie**|Andrei Khrennikov et.al.|[2310.06954](http://arxiv.org/abs/2310.06954)|null|
 |**2023-09-22**|**Relating Wigner's Friend scenarios to Nonclassical Causal Compatibility, Monogamy Relations, and Fine Tuning**|Yìlè Yīng et.al.|[2309.12987](http://arxiv.org/abs/2309.12987)|null|
@@ -153,6 +155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Insights into Quantum Contextuality and Bell Nonclassicality: A Study on Random Pure Two-Qubit Systems**|Giovanni Scala et.al.|[2310.09047](http://arxiv.org/abs/2310.09047)|null|
 |**2023-10-11**|**Satisfiability problems and algebras of boolean constraint system games**|Connor Paddock et.al.|[2310.07901](http://arxiv.org/abs/2310.07901)|null|
 |**2023-10-11**|**Implementing 2-qubit pseudo-telepathy games on noisy intermediate scale quantum computers**|Colm Kelleher et.al.|[2310.07441](http://arxiv.org/abs/2310.07441)|null|
 |**2023-09-22**|**The CHSH Test is Sufficient to Observe Quantum Contextuality**|Firat Diker et.al.|[2309.12868](http://arxiv.org/abs/2309.12868)|null|
@@ -241,6 +244,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Every quantum helps: Operational advantage of quantum resources beyond convexity**|Kohdai Kuroiwa et.al.|[2310.09154](http://arxiv.org/abs/2310.09154)|null|
+|**2023-10-03**|**A Method for Multi-Robot Asynchronous Trajectory Execution in MoveIt2**|Pascal Stoop et.al.|[2310.08597](http://arxiv.org/abs/2310.08597)|null|
 |**2023-10-07**|**Breaking absolute separability with quantum switch**|Sravani Yanamandra et.al.|[2310.04819](http://arxiv.org/abs/2310.04819)|null|
 |**2023-10-04**|**The role of local bounds on neighborhoods in the network for scale-free state synchronization of multi-agent systems**|Anton A. Stoorvogel et.al.|[2310.02571](http://arxiv.org/abs/2310.02571)|null|
 |**2023-09-21**|**A variational approach to free probability**|Octavio Arizmendi et.al.|[2309.12196](http://arxiv.org/abs/2309.12196)|null|
@@ -300,6 +305,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Adjoint master equation for multi-time correlators**|Ivan V. Panyukov et.al.|[2310.09164](http://arxiv.org/abs/2310.09164)|null|
 |**2023-10-12**|**Macrostates vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models**|Anupam Mitra et.al.|[2310.08567](http://arxiv.org/abs/2310.08567)|null|
 |**2023-10-12**|**Selective Wigner phase space tomography and its application for studying quantum chaos**|Deepesh Khushwani et.al.|[2310.08307](http://arxiv.org/abs/2310.08307)|null|
 |**2023-10-11**|**Classical and quantum reservoir computing: development and applications in machine learning**|Laia Domingo et.al.|[2310.07455](http://arxiv.org/abs/2310.07455)|null|
@@ -412,6 +418,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Mixed-state Quantum Phases: Renormalization and Quantum Error Correction**|Shengqi Sang et.al.|[2310.08639](http://arxiv.org/abs/2310.08639)|null|
 |**2023-10-11**|**Viderman's algorithm for quantum LDPC codes**|Anirudh Krishna et.al.|[2310.07868](http://arxiv.org/abs/2310.07868)|null|
 |**2023-10-11**|**Approximate Quantum Codes From Long Wormholes**|Gregory Bentsen et.al.|[2310.07770](http://arxiv.org/abs/2310.07770)|null|
 |**2023-10-10**|**Fault-tolerant logical gates via constant depth circuits and emergent symmetries on non-orientable topological stabilizer and Floquet codes**|Ryohei Kobayashi et.al.|[2310.06917](http://arxiv.org/abs/2310.06917)|null|

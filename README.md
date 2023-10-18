@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Quantum tomography of helicity states for general scattering processes**|Alexander Bernal et.al.|[2310.10838](http://arxiv.org/abs/2310.10838)|null|
 |**2023-10-16**|**Tensile quantum-to-classical transition of macroscopic entangled states under complete coarse-grained measurements**|Laxmi Prasad Naik et.al.|[2310.10178](http://arxiv.org/abs/2310.10178)|null|
 |**2023-10-13**|**On the Fidelity Robustness of CHSH--Bell Inequality via Filtered Random States**|Antonio Mandarino et.al.|[2310.09231](http://arxiv.org/abs/2310.09231)|null|
 |**2023-10-16**|**Unbounded device-independent quantum key rates from arbitrarily small non-locality**|Máté Farkas et.al.|[2310.08635](http://arxiv.org/abs/2310.08635)|null|
@@ -263,6 +264,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Limitations of Classically-Simulable Measurements for Quantum State Discrimination**|Chengkai Zhu et.al.|[2310.11323](http://arxiv.org/abs/2310.11323)|null|
+|**2023-10-17**|**Continuity of the extremal decomposition of the free state for finite-spin models on Cayley trees**|Loren Coquille et.al.|[2310.11101](http://arxiv.org/abs/2310.11101)|null|
 |**2023-10-13**|**Robustness and weight resource measures without convexity restriction: Multicopy witness and operational advantage in static and dynamical quantum resource theories**|Kohdai Kuroiwa et.al.|[2310.09321](http://arxiv.org/abs/2310.09321)|null|
 |**2023-10-13**|**Every quantum helps: Operational advantage of quantum resources beyond convexity**|Kohdai Kuroiwa et.al.|[2310.09154](http://arxiv.org/abs/2310.09154)|null|
 |**2023-10-03**|**A Method for Multi-Robot Asynchronous Trajectory Execution in MoveIt2**|Pascal Stoop et.al.|[2310.08597](http://arxiv.org/abs/2310.08597)|null|
@@ -327,6 +330,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Dynamic quantum circuit compilation**|Kun Fang et.al.|[2310.11021](http://arxiv.org/abs/2310.11021)|null|
 |**2023-10-16**|**Dynamical Chaos and Level Splitting under the Channeling of the High Energy Positrons in [100] Direction of the Silicon Crystal**|V. V. Syshchenko et.al.|[2310.10439](http://arxiv.org/abs/2310.10439)|null|
 |**2023-10-13**|**Adjoint master equation for multi-time correlators**|Ivan V. Panyukov et.al.|[2310.09164](http://arxiv.org/abs/2310.09164)|null|
 |**2023-10-12**|**Macrostates vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models**|Anupam Mitra et.al.|[2310.08567](http://arxiv.org/abs/2310.08567)|null|
@@ -443,6 +447,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Autonomous quantum error correction of Gottesman-Kitaev-Preskill states**|Dany Lachance-Quirion et.al.|[2310.11400](http://arxiv.org/abs/2310.11400)|null|
+|**2023-10-16**|**Tensor Network Decoding Beyond 2D**|Christophe Piveteau et.al.|[2310.10722](http://arxiv.org/abs/2310.10722)|null|
 |**2023-10-16**|**Quantum Error Transmutation**|Daniel Zhang et.al.|[2310.10278](http://arxiv.org/abs/2310.10278)|null|
 |**2023-10-14**|**Time-based Mapping of Space Using Visual Motion Invariants**|Juan D. Yepes et.al.|[2310.09632](http://arxiv.org/abs/2310.09632)|null|
 |**2023-10-13**|**Quantum computing: principles and applications**|Guanru Feng et.al.|[2310.09386](http://arxiv.org/abs/2310.09386)|null|

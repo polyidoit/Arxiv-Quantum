@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -312,7 +312,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-17**|**Dynamic quantum circuit compilation**|Kun Fang et.al.|[2310.11021](http://arxiv.org/abs/2310.11021)|null|
-|**2023-10-16**|**Dynamical Chaos and Level Splitting under the Channeling of the High Energy Positrons in [100] Direction of the Silicon Crystal**|V. V. Syshchenko et.al.|[2310.10439](http://arxiv.org/abs/2310.10439)|null|
+|**2023-10-18**|**Dynamical Chaos and Level Splitting under the Channeling of the High Energy Positrons in [100] Direction of the Silicon Crystal**|V. V. Syshchenko et.al.|[2310.10439](http://arxiv.org/abs/2310.10439)|null|
 |**2023-10-13**|**Adjoint master equation for multi-time correlators**|Ivan V. Panyukov et.al.|[2310.09164](http://arxiv.org/abs/2310.09164)|null|
 |**2023-10-12**|**Macrostates vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models**|Anupam Mitra et.al.|[2310.08567](http://arxiv.org/abs/2310.08567)|null|
 |**2023-10-12**|**Selective Wigner phase space tomography and its application for studying quantum chaos**|Deepesh Khushwani et.al.|[2310.08307](http://arxiv.org/abs/2310.08307)|null|

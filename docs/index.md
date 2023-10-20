@@ -247,6 +247,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**The free energy of matrix models**|Félix Parraud et.al.|[2310.12948](http://arxiv.org/abs/2310.12948)|null|
+|**2023-10-19**|**1D GRPIC Simulations of Stellar-Mass Black Hole Magnetospheres: Semi-Analytic Model of Gamma-Rays from Gaps**|Koki Kin et.al.|[2310.12532](http://arxiv.org/abs/2310.12532)|null|
 |**2023-10-17**|**Limitations of Classically-Simulable Measurements for Quantum State Discrimination**|Chengkai Zhu et.al.|[2310.11323](http://arxiv.org/abs/2310.11323)|null|
 |**2023-10-17**|**Continuity of the extremal decomposition of the free state for finite-spin models on Cayley trees**|Loren Coquille et.al.|[2310.11101](http://arxiv.org/abs/2310.11101)|null|
 |**2023-10-13**|**Robustness and weight resource measures without convexity restriction: Multicopy witness and operational advantage in static and dynamical quantum resource theories**|Kohdai Kuroiwa et.al.|[2310.09321](http://arxiv.org/abs/2310.09321)|null|
@@ -311,6 +313,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Mechanisms of scrambling and unscrambling of quantum information in the ground state in spin chains: domain-walls, spin-flips and scattering phase shifts**|Samudra Sur et.al.|[2310.12226](http://arxiv.org/abs/2310.12226)|null|
 |**2023-10-17**|**Dynamic quantum circuit compilation**|Kun Fang et.al.|[2310.11021](http://arxiv.org/abs/2310.11021)|null|
 |**2023-10-18**|**Dynamical Chaos and Level Splitting under the Channeling of the High Energy Positrons in [100] Direction of the Silicon Crystal**|V. V. Syshchenko et.al.|[2310.10439](http://arxiv.org/abs/2310.10439)|null|
 |**2023-10-13**|**Adjoint master equation for multi-time correlators**|Ivan V. Panyukov et.al.|[2310.09164](http://arxiv.org/abs/2310.09164)|null|
@@ -426,9 +429,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Improved Pairwise Measurement-Based Surface Code**|Linnea Grans-Samuelsson et.al.|[2310.12981](http://arxiv.org/abs/2310.12981)|null|
+|**2023-10-19**|**Redundant String Symmetry-Based Error Correction: Experiments on Quantum Devices**|Zhangjie Qin et.al.|[2310.12854](http://arxiv.org/abs/2310.12854)|null|
+|**2023-10-19**|**Correcting phenomenological quantum noise via belief propagation**|Kao-Yueh Kuo et.al.|[2310.12682](http://arxiv.org/abs/2310.12682)|null|
+|**2023-10-19**|**Quantum computer error structure probed by quantum error correction syndrome measurements**|Spiro Gicev et.al.|[2310.12448](http://arxiv.org/abs/2310.12448)|null|
 |**2023-10-18**|**Advances in compilation for quantum hardware -- A demonstration of magic state distillation and repeat-until-success protocols**|Natalie C. Brown et.al.|[2310.12106](http://arxiv.org/abs/2310.12106)|null|
 |**2023-10-19**|**Autonomous quantum error correction of Gottesman-Kitaev-Preskill states**|Dany Lachance-Quirion et.al.|[2310.11400](http://arxiv.org/abs/2310.11400)|null|
-|**2023-10-16**|**Tensor Network Decoding Beyond 2D**|Christophe Piveteau et.al.|[2310.10722](http://arxiv.org/abs/2310.10722)|null|
+|**2023-10-16**|**Tensor Network Decoding Beyond 2D**|Christophe Piveteau et.al.|[2310.10722](http://arxiv.org/abs/2310.10722)|**[link](https://github.com/chripiv/tndecoder3d)**|
 |**2023-10-16**|**Quantum Error Transmutation**|Daniel Zhang et.al.|[2310.10278](http://arxiv.org/abs/2310.10278)|null|
 |**2023-10-14**|**Time-based Mapping of Space Using Visual Motion Invariants**|Juan D. Yepes et.al.|[2310.09632](http://arxiv.org/abs/2310.09632)|null|
 |**2023-10-13**|**Quantum computing: principles and applications**|Guanru Feng et.al.|[2310.09386](http://arxiv.org/abs/2310.09386)|null|

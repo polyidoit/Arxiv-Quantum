@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -427,7 +427,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-18**|**Advances in compilation for quantum hardware -- A demonstration of magic state distillation and repeat-until-success protocols**|Natalie C. Brown et.al.|[2310.12106](http://arxiv.org/abs/2310.12106)|null|
-|**2023-10-17**|**Autonomous quantum error correction of Gottesman-Kitaev-Preskill states**|Dany Lachance-Quirion et.al.|[2310.11400](http://arxiv.org/abs/2310.11400)|null|
+|**2023-10-19**|**Autonomous quantum error correction of Gottesman-Kitaev-Preskill states**|Dany Lachance-Quirion et.al.|[2310.11400](http://arxiv.org/abs/2310.11400)|null|
 |**2023-10-16**|**Tensor Network Decoding Beyond 2D**|Christophe Piveteau et.al.|[2310.10722](http://arxiv.org/abs/2310.10722)|null|
 |**2023-10-16**|**Quantum Error Transmutation**|Daniel Zhang et.al.|[2310.10278](http://arxiv.org/abs/2310.10278)|null|
 |**2023-10-14**|**Time-based Mapping of Space Using Visual Motion Invariants**|Juan D. Yepes et.al.|[2310.09632](http://arxiv.org/abs/2310.09632)|null|

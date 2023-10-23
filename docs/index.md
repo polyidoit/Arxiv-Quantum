@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Phase-controlled coherent photons for the quantum correlations in a delayed-choice quantum eraser scheme**|Byoung S. Ham et.al.|[2310.13217](http://arxiv.org/abs/2310.13217)|null|
 |**2023-10-16**|**Quantum tomography of helicity states for general scattering processes**|Alexander Bernal et.al.|[2310.10838](http://arxiv.org/abs/2310.10838)|null|
 |**2023-10-16**|**Tensile quantum-to-classical transition of macroscopic entangled states under complete coarse-grained measurements**|Laxmi Prasad Naik et.al.|[2310.10178](http://arxiv.org/abs/2310.10178)|null|
 |**2023-10-13**|**On the Fidelity Robustness of CHSH--Bell Inequality via Filtered Random States**|Antonio Mandarino et.al.|[2310.09231](http://arxiv.org/abs/2310.09231)|null|
@@ -111,6 +112,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Virtual quantum broadcasting**|Arthur J. Parzygnat et.al.|[2310.13049](http://arxiv.org/abs/2310.13049)|null|
 |**2023-10-06**|**Challenges for extensions of the process matrix formalism to quantum field theory**|Nikola Paunkovic et.al.|[2310.04597](http://arxiv.org/abs/2310.04597)|null|
 |**2023-09-28**|**Semi-device-independent certification of quantum non-Markovianity using sequential Random Access Codes**|Abhinash Kumar Roy et.al.|[2309.16190](http://arxiv.org/abs/2309.16190)|null|
 |**2023-09-25**|**Matrix Factorization in Tropical and Mixed Tropical-Linear Algebras**|Ioannis Kordonis et.al.|[2309.13914](http://arxiv.org/abs/2309.13914)|null|
@@ -429,6 +431,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**SurfaceNet: Fault-Tolerant Quantum Networks with Surface Codes**|Tianjie Hu et.al.|[2310.13628](http://arxiv.org/abs/2310.13628)|null|
 |**2023-10-19**|**Improved Pairwise Measurement-Based Surface Code**|Linnea Grans-Samuelsson et.al.|[2310.12981](http://arxiv.org/abs/2310.12981)|null|
 |**2023-10-19**|**Redundant String Symmetry-Based Error Correction: Experiments on Quantum Devices**|Zhangjie Qin et.al.|[2310.12854](http://arxiv.org/abs/2310.12854)|null|
 |**2023-10-19**|**Correcting phenomenological quantum noise via belief propagation**|Kao-Yueh Kuo et.al.|[2310.12682](http://arxiv.org/abs/2310.12682)|null|

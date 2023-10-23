@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2023-10-16**|**Quantum tomography of helicity states for general scattering processes**|Alexander Bernal et.al.|[2310.10838](http://arxiv.org/abs/2310.10838)|null|
 |**2023-10-16**|**Tensile quantum-to-classical transition of macroscopic entangled states under complete coarse-grained measurements**|Laxmi Prasad Naik et.al.|[2310.10178](http://arxiv.org/abs/2310.10178)|null|
 |**2023-10-13**|**On the Fidelity Robustness of CHSH--Bell Inequality via Filtered Random States**|Antonio Mandarino et.al.|[2310.09231](http://arxiv.org/abs/2310.09231)|null|
-|**2023-10-16**|**Unbounded device-independent quantum key rates from arbitrarily small non-locality**|Máté Farkas et.al.|[2310.08635](http://arxiv.org/abs/2310.08635)|null|
+|**2023-10-20**|**Unbounded device-independent quantum key rates from arbitrarily small non-locality**|Máté Farkas et.al.|[2310.08635](http://arxiv.org/abs/2310.08635)|null|
 |**2023-10-10**|**Extended Wigner's friend paradoxes do not require nonlocal correlations**|Laurens Walleghem et.al.|[2310.06976](http://arxiv.org/abs/2310.06976)|null|
 |**2023-10-10**|**The Bild-conception for Scientific Theory Structuring in Classical and Quantum Physics: from Hertz and Boltzmann to Schrödinger and De Broglie**|Andrei Khrennikov et.al.|[2310.06954](http://arxiv.org/abs/2310.06954)|null|
 |**2023-09-22**|**Relating Wigner's Friend scenarios to Nonclassical Causal Compatibility, Monogamy Relations, and Fine Tuning**|Yìlè Yīng et.al.|[2309.12987](http://arxiv.org/abs/2309.12987)|null|

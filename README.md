@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Quantum physics cannot be captured by classical linear hidden variable theories even in the absence of entanglement**|Kawthar Al Rasbi et.al.|[2310.13815](http://arxiv.org/abs/2310.13815)|null|
 |**2023-10-20**|**Phase-controlled coherent photons for the quantum correlations in a delayed-choice quantum eraser scheme**|Byoung S. Ham et.al.|[2310.13217](http://arxiv.org/abs/2310.13217)|null|
 |**2023-10-16**|**Quantum tomography of helicity states for general scattering processes**|Alexander Bernal et.al.|[2310.10838](http://arxiv.org/abs/2310.10838)|null|
 |**2023-10-16**|**Tensile quantum-to-classical transition of macroscopic entangled states under complete coarse-grained measurements**|Laxmi Prasad Naik et.al.|[2310.10178](http://arxiv.org/abs/2310.10178)|null|
@@ -224,6 +225,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Enhancing the quantum entanglement and EPR steering of a coupled optomechanical system with a squeezed vacuum field**|Shao-Xiong Wu et.al.|[2310.14593](http://arxiv.org/abs/2310.14593)|null|
 |**2023-10-16**|**Tensile quantum-to-classical transition of macroscopic entangled states under complete coarse-grained measurements**|Laxmi Prasad Naik et.al.|[2310.10178](http://arxiv.org/abs/2310.10178)|null|
 |**2023-09-26**|**Quantum Steering vs Entanglement and Extracting Work in an Anisotropic Two-Qubit Heisenberg Model in Presence of External Magnetic Fields with DM and KSEA Interactions**|Mohamed Amazioug et.al.|[2309.15036](http://arxiv.org/abs/2309.15036)|null|
 |**2023-09-22**|**Quantifying nonclassicality of vacuum-one-photon superpositions via potentials for Bell nonlocality, quantum steering, and entanglement**|Adam Miranowicz et.al.|[2309.12930](http://arxiv.org/abs/2309.12930)|null|
@@ -334,11 +336,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Localized chaos in rotating and charged AdS black holes**|Hadyan Luthfan Prihadi et.al.|[2310.14535](http://arxiv.org/abs/2310.14535)|null|
+|**2023-10-22**|**Duality analysis in symmetric group and its application to random tensor network model**|Masayuki Ohzeki et.al.|[2310.14140](http://arxiv.org/abs/2310.14140)|null|
+|**2023-10-20**|**Local Poincaré Algebra from Quantum Chaos**|Shoy Ouseph et.al.|[2310.13736](http://arxiv.org/abs/2310.13736)|null|
 |**2023-10-18**|**Mechanisms of scrambling and unscrambling of quantum information in the ground state in spin chains: domain-walls, spin-flips and scattering phase shifts**|Samudra Sur et.al.|[2310.12226](http://arxiv.org/abs/2310.12226)|null|
 |**2023-10-17**|**Dynamic quantum circuit compilation**|Kun Fang et.al.|[2310.11021](http://arxiv.org/abs/2310.11021)|null|
 |**2023-10-18**|**Dynamical Chaos and Level Splitting under the Channeling of the High Energy Positrons in [100] Direction of the Silicon Crystal**|V. V. Syshchenko et.al.|[2310.10439](http://arxiv.org/abs/2310.10439)|null|
 |**2023-10-13**|**Adjoint master equation for multi-time correlators**|Ivan V. Panyukov et.al.|[2310.09164](http://arxiv.org/abs/2310.09164)|null|
-|**2023-10-12**|**Macrostates vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models**|Anupam Mitra et.al.|[2310.08567](http://arxiv.org/abs/2310.08567)|null|
+|**2023-10-23**|**Macrostates vs. Microstates in the Classical Simulation of Critical Phenomena in Quench Dynamics of 1D Ising Models**|Anupam Mitra et.al.|[2310.08567](http://arxiv.org/abs/2310.08567)|null|
 |**2023-10-12**|**Selective Wigner phase space tomography and its application for studying quantum chaos**|Deepesh Khushwani et.al.|[2310.08307](http://arxiv.org/abs/2310.08307)|null|
 |**2023-10-11**|**Classical and quantum reservoir computing: development and applications in machine learning**|Laia Domingo et.al.|[2310.07455](http://arxiv.org/abs/2310.07455)|null|
 |**2023-10-10**|**Many-body quantum chaos in mixtures of multiple species**|Vijay Kumar et.al.|[2310.06811](http://arxiv.org/abs/2310.06811)|null|
@@ -452,6 +457,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Dihedral Quantum Codes**|Martino Borello et.al.|[2310.15092](http://arxiv.org/abs/2310.15092)|null|
 |**2023-10-20**|**SurfaceNet: Fault-Tolerant Quantum Networks with Surface Codes**|Tianjie Hu et.al.|[2310.13628](http://arxiv.org/abs/2310.13628)|null|
 |**2023-10-19**|**Improved Pairwise Measurement-Based Surface Code**|Linnea Grans-Samuelsson et.al.|[2310.12981](http://arxiv.org/abs/2310.12981)|null|
 |**2023-10-19**|**Redundant String Symmetry-Based Error Correction: Experiments on Quantum Devices**|Zhangjie Qin et.al.|[2310.12854](http://arxiv.org/abs/2310.12854)|null|

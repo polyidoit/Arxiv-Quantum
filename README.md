@@ -268,6 +268,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Dynamics of mean-field Fermi systems with nonzero pairing**|Stefano Marcantoni et.al.|[2310.15280](http://arxiv.org/abs/2310.15280)|null|
 |**2023-10-19**|**The free energy of matrix models**|Félix Parraud et.al.|[2310.12948](http://arxiv.org/abs/2310.12948)|null|
 |**2023-10-19**|**1D GRPIC Simulations of Stellar-Mass Black Hole Magnetospheres: Semi-Analytic Model of Gamma-Rays from Gaps**|Koki Kin et.al.|[2310.12532](http://arxiv.org/abs/2310.12532)|null|
 |**2023-10-17**|**Limitations of Classically-Simulable Measurements for Quantum State Discrimination**|Chengkai Zhu et.al.|[2310.11323](http://arxiv.org/abs/2310.11323)|null|
@@ -457,6 +458,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Spatio-temporal reconstruction of drop impact dynamics by means of color-coded glare points and deep learning**|Maximilian Dreisbach et.al.|[2310.16009](http://arxiv.org/abs/2310.16009)|null|
+|**2023-10-24**|**Robust and Deterministic Preparation of Bosonic Logical States in a Trapped Ion**|V. G. Matsos et.al.|[2310.15546](http://arxiv.org/abs/2310.15546)|null|
+|**2023-10-23**|**How to choose a decoder for a fault-tolerant quantum computer? The speed vs accuracy trade-off**|Nicolas Delfosse et.al.|[2310.15313](http://arxiv.org/abs/2310.15313)|null|
 |**2023-10-23**|**Dihedral Quantum Codes**|Martino Borello et.al.|[2310.15092](http://arxiv.org/abs/2310.15092)|null|
 |**2023-10-20**|**SurfaceNet: Fault-Tolerant Quantum Networks with Surface Codes**|Tianjie Hu et.al.|[2310.13628](http://arxiv.org/abs/2310.13628)|null|
 |**2023-10-19**|**Improved Pairwise Measurement-Based Surface Code**|Linnea Grans-Samuelsson et.al.|[2310.12981](http://arxiv.org/abs/2310.12981)|null|

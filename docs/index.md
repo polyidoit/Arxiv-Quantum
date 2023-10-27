@@ -252,6 +252,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Growth of cancer stem cell driven tumors: staged invasion, linear determinacy, and the tumor invasion paradox**|Montie Avery et.al.|[2310.17633](http://arxiv.org/abs/2310.17633)|null|
 |**2023-10-23**|**Dynamics of mean-field Fermi systems with nonzero pairing**|Stefano Marcantoni et.al.|[2310.15280](http://arxiv.org/abs/2310.15280)|null|
 |**2023-10-19**|**The free energy of matrix models**|Félix Parraud et.al.|[2310.12948](http://arxiv.org/abs/2310.12948)|null|
 |**2023-10-19**|**1D GRPIC Simulations of Stellar-Mass Black Hole Magnetospheres: Semi-Analytic Model of Gamma-Rays from Gaps**|Koki Kin et.al.|[2310.12532](http://arxiv.org/abs/2310.12532)|null|
@@ -438,6 +439,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**The Not-So-Secret Fourth Parameter of Quantum Codes**|Eric Kubischta et.al.|[2310.17652](http://arxiv.org/abs/2310.17652)|null|
+|**2023-10-25**|**Non-Clifford and parallelizable fault-tolerant logical gates on constant and almost-constant rate homological quantum LDPC codes via higher symmetries**|Guanyu Zhu et.al.|[2310.16982](http://arxiv.org/abs/2310.16982)|null|
 |**2023-10-25**|**Structure of CSS and CSS-T Quantum Codes**|Elena Berardini et.al.|[2310.16504](http://arxiv.org/abs/2310.16504)|null|
 |**2023-10-24**|**Single-shot error correction on toric codes with high-weight stabilizers**|Yingjia Lin et.al.|[2310.16160](http://arxiv.org/abs/2310.16160)|null|
 |**2023-10-24**|**Spatio-temporal reconstruction of drop impact dynamics by means of color-coded glare points and deep learning**|Maximilian Dreisbach et.al.|[2310.16009](http://arxiv.org/abs/2310.16009)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -220,7 +220,7 @@ layout: default
 |**2023-09-21**|**Quantum complementarity: A novel resource for unambiguous exclusion and encryption**|Chung-Yun Hsieh et.al.|[2309.11968](http://arxiv.org/abs/2309.11968)|null|
 |**2023-09-18**|**Exact Steering Bound for Two-Qubit Werner States**|Yujie Zhang et.al.|[2309.09960](http://arxiv.org/abs/2309.09960)|null|
 |**2023-08-30**|**Quantum steering with imprecise measurements**|Armin Tavakoli et.al.|[2308.15356](http://arxiv.org/abs/2308.15356)|null|
-|**2023-08-29**|**Distrustful quantum steering**|Shubhayan Sarkar et.al.|[2308.15337](http://arxiv.org/abs/2308.15337)|null|
+|**2023-10-26**|**Distrustful quantum steering**|Shubhayan Sarkar et.al.|[2308.15337](http://arxiv.org/abs/2308.15337)|null|
 |**2023-08-26**|**Certification of non-Gaussian Einstein-Podolsky-Rosen Steering**|Mingsheng Tian et.al.|[2308.13867](http://arxiv.org/abs/2308.13867)|null|
 |**2023-08-11**|**Creating mirror-mirror quantum correlations in optomechanics**|M. Amazioug et.al.|[2308.05913](http://arxiv.org/abs/2308.05913)|null|
 |**2023-08-04**|**Scalable multiparty steering based on a single pair of entangled qubits**|Alex Pepper et.al.|[2308.02296](http://arxiv.org/abs/2308.02296)|null|
@@ -441,7 +441,7 @@ layout: default
 |**2023-10-25**|**Structure of CSS and CSS-T Quantum Codes**|Elena Berardini et.al.|[2310.16504](http://arxiv.org/abs/2310.16504)|null|
 |**2023-10-24**|**Single-shot error correction on toric codes with high-weight stabilizers**|Yingjia Lin et.al.|[2310.16160](http://arxiv.org/abs/2310.16160)|null|
 |**2023-10-24**|**Spatio-temporal reconstruction of drop impact dynamics by means of color-coded glare points and deep learning**|Maximilian Dreisbach et.al.|[2310.16009](http://arxiv.org/abs/2310.16009)|null|
-|**2023-10-24**|**Robust and Deterministic Preparation of Bosonic Logical States in a Trapped Ion**|V. G. Matsos et.al.|[2310.15546](http://arxiv.org/abs/2310.15546)|null|
+|**2023-10-26**|**Robust and Deterministic Preparation of Bosonic Logical States in a Trapped Ion**|V. G. Matsos et.al.|[2310.15546](http://arxiv.org/abs/2310.15546)|null|
 |**2023-10-23**|**How to choose a decoder for a fault-tolerant quantum computer? The speed vs accuracy trade-off**|Nicolas Delfosse et.al.|[2310.15313](http://arxiv.org/abs/2310.15313)|null|
 |**2023-10-23**|**Dihedral Quantum Codes**|Martino Borello et.al.|[2310.15092](http://arxiv.org/abs/2310.15092)|null|
 |**2023-10-20**|**SurfaceNet: Fault-Tolerant Quantum Networks with Surface Codes**|Tianjie Hu et.al.|[2310.13628](http://arxiv.org/abs/2310.13628)|null|

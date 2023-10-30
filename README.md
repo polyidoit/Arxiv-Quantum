@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Quantum Entanglement and Bell Inequality Violation in Semi-Leptonic Top Decays**|Tao Han et.al.|[2310.17696](http://arxiv.org/abs/2310.17696)|null|
 |**2023-10-20**|**Quantum physics cannot be captured by classical linear hidden variable theories even in the absence of entanglement**|Kawthar Al Rasbi et.al.|[2310.13815](http://arxiv.org/abs/2310.13815)|null|
 |**2023-10-20**|**Phase-controlled coherent photons for the quantum correlations in a delayed-choice quantum eraser scheme**|Byoung S. Ham et.al.|[2310.13217](http://arxiv.org/abs/2310.13217)|null|
 |**2023-10-16**|**Quantum tomography of helicity states for general scattering processes**|Alexander Bernal et.al.|[2310.10838](http://arxiv.org/abs/2310.10838)|null|
@@ -173,6 +174,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Equivariant simplicial distributions and quantum contextuality**|Cihan Okay et.al.|[2310.18135](http://arxiv.org/abs/2310.18135)|null|
 |**2023-10-25**|**Green's function and LDOS for non-relativistic electron pair**|Tomasz M. Rusin et.al.|[2310.16366](http://arxiv.org/abs/2310.16366)|null|
 |**2023-10-13**|**Insights into Quantum Contextuality and Bell Nonclassicality: A Study on Random Pure Two-Qubit Systems**|Giovanni Scala et.al.|[2310.09047](http://arxiv.org/abs/2310.09047)|null|
 |**2023-10-11**|**Satisfiability problems and algebras of boolean constraint system games**|Connor Paddock et.al.|[2310.07901](http://arxiv.org/abs/2310.07901)|null|
@@ -339,6 +341,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Driving superconducting qubits into chaos**|Jorge Chávez-Carlos et.al.|[2310.17698](http://arxiv.org/abs/2310.17698)|null|
 |**2023-10-23**|**Localized chaos in rotating and charged AdS black holes**|Hadyan Luthfan Prihadi et.al.|[2310.14535](http://arxiv.org/abs/2310.14535)|null|
 |**2023-10-22**|**Duality analysis in symmetric group and its application to random tensor network model**|Masayuki Ohzeki et.al.|[2310.14140](http://arxiv.org/abs/2310.14140)|null|
 |**2023-10-20**|**Local Poincaré Algebra from Quantum Chaos**|Shoy Ouseph et.al.|[2310.13736](http://arxiv.org/abs/2310.13736)|null|
@@ -460,6 +463,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Optimal Single-Shot Decoding of Quantum Codes**|Aldo Cumitini et.al.|[2310.18138](http://arxiv.org/abs/2310.18138)|null|
+|**2023-10-26**|**Mitigating Temporal Fragility in the XY Surface Code**|Pei-Kai Tsai et.al.|[2310.17697](http://arxiv.org/abs/2310.17697)|null|
 |**2023-10-26**|**The Not-So-Secret Fourth Parameter of Quantum Codes**|Eric Kubischta et.al.|[2310.17652](http://arxiv.org/abs/2310.17652)|null|
 |**2023-10-25**|**Non-Clifford and parallelizable fault-tolerant logical gates on constant and almost-constant rate homological quantum LDPC codes via higher symmetries**|Guanyu Zhu et.al.|[2310.16982](http://arxiv.org/abs/2310.16982)|null|
 |**2023-10-25**|**Structure of CSS and CSS-T Quantum Codes**|Elena Berardini et.al.|[2310.16504](http://arxiv.org/abs/2310.16504)|null|

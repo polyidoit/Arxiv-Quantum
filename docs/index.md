@@ -114,6 +114,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**The physical basis of teleological evolutions**|Giuseppe Castagnoli et.al.|[2310.18927](http://arxiv.org/abs/2310.18927)|null|
 |**2023-10-19**|**Virtual quantum broadcasting**|Arthur J. Parzygnat et.al.|[2310.13049](http://arxiv.org/abs/2310.13049)|null|
 |**2023-10-06**|**Challenges for extensions of the process matrix formalism to quantum field theory**|Nikola Paunkovic et.al.|[2310.04597](http://arxiv.org/abs/2310.04597)|null|
 |**2023-09-28**|**Semi-device-independent certification of quantum non-Markovianity using sequential Random Access Codes**|Abhinash Kumar Roy et.al.|[2309.16190](http://arxiv.org/abs/2309.16190)|null|
@@ -121,7 +122,7 @@ layout: default
 |**2023-09-13**|**Experimental demonstration of enhanced violations of Leggett-Garg inequalities in a $\mathcal{PT}$ -symmetric trapped-ion qubit**|Pengfei Lu et.al.|[2309.06713](http://arxiv.org/abs/2309.06713)|null|
 |**2023-09-08**|**Trade-Offs in Decentralized Multi-Antenna Architectures: Sparse Combining Modules for WAX Decomposition**|Juan Vidal Alegría et.al.|[2309.04297](http://arxiv.org/abs/2309.04297)|null|
 |**2023-08-31**|**Global Synthesis of CNOT Circuits with Holes**|Ewan Murphy et.al.|[2308.16496](http://arxiv.org/abs/2308.16496)|null|
-|**2023-08-24**|**Uniqueness of quantum state over time function**|Seok Hyung Lie et.al.|[2308.12752](http://arxiv.org/abs/2308.12752)|null|
+|**2023-10-30**|**Uniqueness of quantum state over time function**|Seok Hyung Lie et.al.|[2308.12752](http://arxiv.org/abs/2308.12752)|null|
 |**2023-08-01**|**Multi-time quantum process tomography of a superconducting qubit**|Christina Giarmatzi et.al.|[2308.00750](http://arxiv.org/abs/2308.00750)|null|
 |**2023-07-18**|**Matrix Profile based Anomaly Detection in Streaming Gait Data for Fall Prevention**|Branislav Gerazov et.al.|[2307.09121](http://arxiv.org/abs/2307.09121)|null|
 |**2023-07-05**|**Nonclassicality in correlations without causal order**|Ravi Kunjwal et.al.|[2307.02565](http://arxiv.org/abs/2307.02565)|null|
@@ -213,6 +214,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-28**|**Experimental verification of the steering ellipsoid zoo via two-qubit states**|Kai Xu et.al.|[2310.18645](http://arxiv.org/abs/2310.18645)|null|
 |**2023-10-23**|**Enhancing the quantum entanglement and EPR steering of a coupled optomechanical system with a squeezed vacuum field**|Shao-Xiong Wu et.al.|[2310.14593](http://arxiv.org/abs/2310.14593)|null|
 |**2023-10-16**|**Tensile quantum-to-classical transition of macroscopic entangled states under complete coarse-grained measurements**|Laxmi Prasad Naik et.al.|[2310.10178](http://arxiv.org/abs/2310.10178)|null|
 |**2023-09-26**|**Quantum Steering vs Entanglement and Extracting Work in an Anisotropic Two-Qubit Heisenberg Model in Presence of External Magnetic Fields with DM and KSEA Interactions**|Mohamed Amazioug et.al.|[2309.15036](http://arxiv.org/abs/2309.15036)|null|

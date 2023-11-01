@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Symmetric multipartite Bell inequalities via Frank-Wolfe algorithms**|Sébastien Designolle et.al.|[2310.20677](http://arxiv.org/abs/2310.20677)|null|
 |**2023-10-26**|**Quantum Entanglement and Bell Inequality Violation in Semi-Leptonic Top Decays**|Tao Han et.al.|[2310.17696](http://arxiv.org/abs/2310.17696)|null|
 |**2023-10-20**|**Quantum physics cannot be captured by classical linear hidden variable theories even in the absence of entanglement**|Kawthar Al Rasbi et.al.|[2310.13815](http://arxiv.org/abs/2310.13815)|null|
 |**2023-10-20**|**Phase-controlled coherent photons for the quantum correlations in a delayed-choice quantum eraser scheme**|Byoung S. Ham et.al.|[2310.13217](http://arxiv.org/abs/2310.13217)|null|
@@ -214,6 +215,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Experimental high-dimensional entanglement certification and quantum steering with time-energy measurements**|Kai-Chi Chang et.al.|[2310.20694](http://arxiv.org/abs/2310.20694)|null|
 |**2023-10-28**|**Experimental verification of the steering ellipsoid zoo via two-qubit states**|Kai Xu et.al.|[2310.18645](http://arxiv.org/abs/2310.18645)|null|
 |**2023-10-23**|**Enhancing the quantum entanglement and EPR steering of a coupled optomechanical system with a squeezed vacuum field**|Shao-Xiong Wu et.al.|[2310.14593](http://arxiv.org/abs/2310.14593)|null|
 |**2023-10-16**|**Tensile quantum-to-classical transition of macroscopic entangled states under complete coarse-grained measurements**|Laxmi Prasad Naik et.al.|[2310.10178](http://arxiv.org/abs/2310.10178)|null|
@@ -324,6 +326,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**Approximate t-designs in generic circuit architectures**|Daniel Belkin et.al.|[2310.19783](http://arxiv.org/abs/2310.19783)|null|
+|**2023-10-30**|**Local random quantum circuits form approximate designs on arbitrary architectures**|Shivan Mittal et.al.|[2310.19355](http://arxiv.org/abs/2310.19355)|null|
+|**2023-10-30**|**Eigenstate Thermalization and its breakdown in Quantum Spin Chains with Inhomogeneous Interactions**|Ding-Zu Wang et.al.|[2310.19333](http://arxiv.org/abs/2310.19333)|null|
 |**2023-10-26**|**Driving superconducting qubits into chaos**|Jorge Chávez-Carlos et.al.|[2310.17698](http://arxiv.org/abs/2310.17698)|null|
 |**2023-10-23**|**Localized chaos in rotating and charged AdS black holes**|Hadyan Luthfan Prihadi et.al.|[2310.14535](http://arxiv.org/abs/2310.14535)|null|
 |**2023-10-22**|**Duality analysis in symmetric group and its application to random tensor network model**|Masayuki Ohzeki et.al.|[2310.14140](http://arxiv.org/abs/2310.14140)|null|
@@ -444,6 +449,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Fault-Tolerant Operation of Bosonic Qubits with Discrete-Variable Ancillae**|Qian Xu et.al.|[2310.20578](http://arxiv.org/abs/2310.20578)|null|
+|**2023-10-31**|**Product Line Management with Graphical MBSE Views**|Pascal Krapf et.al.|[2310.20396](http://arxiv.org/abs/2310.20396)|null|
 |**2023-10-27**|**Optimal Single-Shot Decoding of Quantum Codes**|Aldo Cumitini et.al.|[2310.18138](http://arxiv.org/abs/2310.18138)|null|
 |**2023-10-26**|**Mitigating Temporal Fragility in the XY Surface Code**|Pei-Kai Tsai et.al.|[2310.17697](http://arxiv.org/abs/2310.17697)|null|
 |**2023-10-26**|**The Not-So-Secret Fourth Parameter of Quantum Codes**|Eric Kubischta et.al.|[2310.17652](http://arxiv.org/abs/2310.17652)|null|

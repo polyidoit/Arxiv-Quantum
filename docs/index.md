@@ -115,6 +115,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**General covariance for quantum states over time**|James Fullwood et.al.|[2311.00162](http://arxiv.org/abs/2311.00162)|null|
 |**2023-10-29**|**The physical basis of teleological evolutions**|Giuseppe Castagnoli et.al.|[2310.18927](http://arxiv.org/abs/2310.18927)|null|
 |**2023-10-19**|**Virtual quantum broadcasting**|Arthur J. Parzygnat et.al.|[2310.13049](http://arxiv.org/abs/2310.13049)|null|
 |**2023-10-06**|**Challenges for extensions of the process matrix formalism to quantum field theory**|Nikola Paunkovic et.al.|[2310.04597](http://arxiv.org/abs/2310.04597)|null|
@@ -258,6 +259,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Echo-evolution data generation for quantum error mitigation via neural networks**|D. V. Babukhin et.al.|[2311.00487](http://arxiv.org/abs/2311.00487)|null|
 |**2023-10-26**|**Growth of cancer stem cell driven tumors: staged invasion, linear determinacy, and the tumor invasion paradox**|Montie Avery et.al.|[2310.17633](http://arxiv.org/abs/2310.17633)|null|
 |**2023-10-23**|**Dynamics of mean-field Fermi systems with nonzero pairing**|Stefano Marcantoni et.al.|[2310.15280](http://arxiv.org/abs/2310.15280)|null|
 |**2023-10-19**|**The free energy of matrix models**|Félix Parraud et.al.|[2310.12948](http://arxiv.org/abs/2310.12948)|null|
@@ -326,6 +328,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Sparsity independent Lyapunov exponent in the Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2311.00639](http://arxiv.org/abs/2311.00639)|null|
+|**2023-11-01**|**Fourier transforms and iterated function systems**|Tuomas Sahlsten et.al.|[2311.00585](http://arxiv.org/abs/2311.00585)|null|
 |**2023-10-30**|**Approximate t-designs in generic circuit architectures**|Daniel Belkin et.al.|[2310.19783](http://arxiv.org/abs/2310.19783)|null|
 |**2023-10-30**|**Local random quantum circuits form approximate designs on arbitrary architectures**|Shivan Mittal et.al.|[2310.19355](http://arxiv.org/abs/2310.19355)|null|
 |**2023-10-30**|**Eigenstate Thermalization and its breakdown in Quantum Spin Chains with Inhomogeneous Interactions**|Ding-Zu Wang et.al.|[2310.19333](http://arxiv.org/abs/2310.19333)|null|

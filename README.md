@@ -347,6 +347,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**The Universal Statistical Structure and Scaling Laws of Chaos and Turbulence**|Noam Levi et.al.|[2311.01358](http://arxiv.org/abs/2311.01358)|null|
+|**2023-11-01**|**Operator dynamics in Lindbladian SYK: a Krylov complexity perspective**|Budhaditya Bhattacharjee et.al.|[2311.00753](http://arxiv.org/abs/2311.00753)|null|
 |**2023-11-01**|**Sparsity independent Lyapunov exponent in the Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2311.00639](http://arxiv.org/abs/2311.00639)|null|
 |**2023-11-01**|**Fourier transforms and iterated function systems**|Tuomas Sahlsten et.al.|[2311.00585](http://arxiv.org/abs/2311.00585)|null|
 |**2023-10-30**|**Approximate t-designs in generic circuit architectures**|Daniel Belkin et.al.|[2310.19783](http://arxiv.org/abs/2310.19783)|null|
@@ -474,6 +476,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Analog information decoding of bosonic quantum LDPC codes**|Lucas Berent et.al.|[2311.01328](http://arxiv.org/abs/2311.01328)|null|
+|**2023-11-01**|**Addressing Stopping Failures for Small Set Flip Decoding of Hypergraph Product Codes**|Lev Stambler et.al.|[2311.00877](http://arxiv.org/abs/2311.00877)|null|
 |**2023-10-31**|**Fault-Tolerant Operation of Bosonic Qubits with Discrete-Variable Ancillae**|Qian Xu et.al.|[2310.20578](http://arxiv.org/abs/2310.20578)|null|
 |**2023-10-31**|**Product Line Management with Graphical MBSE Views**|Pascal Krapf et.al.|[2310.20396](http://arxiv.org/abs/2310.20396)|null|
 |**2023-10-27**|**Optimal Single-Shot Decoding of Quantum Codes**|Aldo Cumitini et.al.|[2310.18138](http://arxiv.org/abs/2310.18138)|null|

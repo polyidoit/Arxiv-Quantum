@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -332,7 +332,7 @@ layout: default
 |**2023-11-01**|**Fourier transforms and iterated function systems**|Tuomas Sahlsten et.al.|[2311.00585](http://arxiv.org/abs/2311.00585)|null|
 |**2023-10-30**|**Approximate t-designs in generic circuit architectures**|Daniel Belkin et.al.|[2310.19783](http://arxiv.org/abs/2310.19783)|null|
 |**2023-10-30**|**Local random quantum circuits form approximate designs on arbitrary architectures**|Shivan Mittal et.al.|[2310.19355](http://arxiv.org/abs/2310.19355)|null|
-|**2023-10-30**|**Eigenstate Thermalization and its breakdown in Quantum Spin Chains with Inhomogeneous Interactions**|Ding-Zu Wang et.al.|[2310.19333](http://arxiv.org/abs/2310.19333)|null|
+|**2023-11-02**|**Eigenstate Thermalization and its breakdown in Quantum Spin Chains with Inhomogeneous Interactions**|Ding-Zu Wang et.al.|[2310.19333](http://arxiv.org/abs/2310.19333)|null|
 |**2023-10-26**|**Driving superconducting qubits into chaos**|Jorge Chávez-Carlos et.al.|[2310.17698](http://arxiv.org/abs/2310.17698)|null|
 |**2023-10-23**|**Localized chaos in rotating and charged AdS black holes**|Hadyan Luthfan Prihadi et.al.|[2310.14535](http://arxiv.org/abs/2310.14535)|null|
 |**2023-10-22**|**Duality analysis in symmetric group and its application to random tensor network model**|Masayuki Ohzeki et.al.|[2310.14140](http://arxiv.org/abs/2310.14140)|null|

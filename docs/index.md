@@ -682,7 +682,7 @@ layout: default
 |**2023-05-01**|**General Distance Balancing for Quantum Locally Testable Codes**|Adam Wills et.al.|[2305.00689](http://arxiv.org/abs/2305.00689)|null|
 |**2023-05-03**|**Toward Constructing a Continuous Logical Operator for Error-Corrected Quantum Sensing**|Cameron Cianci et.al.|[2305.00547](http://arxiv.org/abs/2305.00547)|null|
 |**2023-04-29**|**Empirical overhead of the adapted surface code on defective qubit arrays**|Sophia Fuhui Lin et.al.|[2305.00138](http://arxiv.org/abs/2305.00138)|null|
-|**2023-04-28**|**Zero noise extrapolation on logical qubits by scaling the error correction code distance**|Misty A. Wahl et.al.|[2304.14985](http://arxiv.org/abs/2304.14985)|null|
+|**2023-04-28**|**Zero noise extrapolation on logical qubits by scaling the error correction code distance**|Misty A. Wahl et.al.|[2304.14985](http://arxiv.org/abs/2304.14985)|**[link](https://github.com/unitaryfund/research)**|
 |**2023-04-24**|**Decoupling by local random unitaries without simultaneous smoothing, and applications to multi-user quantum information tasks**|Pau Colomer Saus et.al.|[2304.12114](http://arxiv.org/abs/2304.12114)|null|
 |**2023-04-25**|**Nonequilibrium critical dynamics of the bi-dimensional $\pm J$ Ising model**|Ramgopal Agrawal et.al.|[2304.11997](http://arxiv.org/abs/2304.11997)|null|
 |**2023-04-24**|**Open loop linear control of quadratic Hamiltonians with applications**|Mattias T. Johnsson et.al.|[2304.11776](http://arxiv.org/abs/2304.11776)|null|

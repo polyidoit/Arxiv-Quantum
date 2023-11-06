@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Hardy-type paradoxes for an arbitrary symmetric bipartite Bell scenario**|Kai-Siang Chen et.al.|[2311.02045](http://arxiv.org/abs/2311.02045)|null|
+|**2023-11-03**|**Quantum resource theory of Bell nonlocality in Hilbert space**|Gennaro Zanfardino et.al.|[2311.01941](http://arxiv.org/abs/2311.01941)|null|
 |**2023-10-31**|**Symmetric multipartite Bell inequalities via Frank-Wolfe algorithms**|Sébastien Designolle et.al.|[2310.20677](http://arxiv.org/abs/2310.20677)|null|
 |**2023-10-26**|**Quantum Entanglement and Bell Inequality Violation in Semi-Leptonic Top Decays**|Tao Han et.al.|[2310.17696](http://arxiv.org/abs/2310.17696)|null|
 |**2023-10-20**|**Quantum physics cannot be captured by classical linear hidden variable theories even in the absence of entanglement**|Kawthar Al Rasbi et.al.|[2310.13815](http://arxiv.org/abs/2310.13815)|null|
@@ -259,6 +261,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Quantum resource theory of Bell nonlocality in Hilbert space**|Gennaro Zanfardino et.al.|[2311.01941](http://arxiv.org/abs/2311.01941)|null|
+|**2023-11-03**|**The uniform companion for large fields with free operators in characteristic zero**|Shezad Mohamed et.al.|[2311.01856](http://arxiv.org/abs/2311.01856)|null|
 |**2023-11-01**|**Echo-evolution data generation for quantum error mitigation via neural networks**|D. V. Babukhin et.al.|[2311.00487](http://arxiv.org/abs/2311.00487)|null|
 |**2023-10-26**|**Growth of cancer stem cell driven tumors: staged invasion, linear determinacy, and the tumor invasion paradox**|Montie Avery et.al.|[2310.17633](http://arxiv.org/abs/2310.17633)|null|
 |**2023-10-23**|**Dynamics of mean-field Fermi systems with nonzero pairing**|Stefano Marcantoni et.al.|[2310.15280](http://arxiv.org/abs/2310.15280)|null|
@@ -328,6 +332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Signatures of dissipative quantum chaos**|Lucas Sá et.al.|[2311.01518](http://arxiv.org/abs/2311.01518)|null|
 |**2023-11-02**|**The Universal Statistical Structure and Scaling Laws of Chaos and Turbulence**|Noam Levi et.al.|[2311.01358](http://arxiv.org/abs/2311.01358)|null|
 |**2023-11-01**|**Operator dynamics in Lindbladian SYK: a Krylov complexity perspective**|Budhaditya Bhattacharjee et.al.|[2311.00753](http://arxiv.org/abs/2311.00753)|null|
 |**2023-11-01**|**Sparsity independent Lyapunov exponent in the Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2311.00639](http://arxiv.org/abs/2311.00639)|null|

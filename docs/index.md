@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Noise-robust proofs of quantum network nonlocality**|Sadra Boreiri et.al.|[2311.02182](http://arxiv.org/abs/2311.02182)|null|
 |**2023-11-03**|**Hardy-type paradoxes for an arbitrary symmetric bipartite Bell scenario**|Kai-Siang Chen et.al.|[2311.02045](http://arxiv.org/abs/2311.02045)|null|
 |**2023-11-03**|**Quantum resource theory of Bell nonlocality in Hilbert space**|Gennaro Zanfardino et.al.|[2311.01941](http://arxiv.org/abs/2311.01941)|null|
 |**2023-10-31**|**Symmetric multipartite Bell inequalities via Frank-Wolfe algorithms**|Sébastien Designolle et.al.|[2310.20677](http://arxiv.org/abs/2310.20677)|null|
@@ -166,6 +167,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Experimental certification of contextuality, coherence and dimension in a programmable universal photonic processor**|Taira Giordani et.al.|[2311.03266](http://arxiv.org/abs/2311.03266)|null|
+|**2023-11-05**|**SO(3)-Irreducible Geometry in Complex Dimension Five and Ternary Generalization of Pauli Exclusion Principle**|Viktor Abramov et.al.|[2311.02606](http://arxiv.org/abs/2311.02606)|null|
+|**2023-11-03**|**Influence of a static electric field on a one-dimensional Bose-Fermi mixture confined in a double potential welll**|Avella Richard et.al.|[2311.02218](http://arxiv.org/abs/2311.02218)|null|
 |**2023-10-27**|**Equivariant simplicial distributions and quantum contextuality**|Cihan Okay et.al.|[2310.18135](http://arxiv.org/abs/2310.18135)|null|
 |**2023-10-25**|**Green's function and LDOS for non-relativistic electron pair**|Tomasz M. Rusin et.al.|[2310.16366](http://arxiv.org/abs/2310.16366)|null|
 |**2023-10-13**|**Insights into Quantum Contextuality and Bell Nonclassicality: A Study on Random Pure Two-Qubit Systems**|Giovanni Scala et.al.|[2310.09047](http://arxiv.org/abs/2310.09047)|null|
@@ -460,6 +464,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Topological Orders Having no Topological Quantum Field Theory Description**|P. Vojta et.al.|[2311.03353](http://arxiv.org/abs/2311.03353)|null|
+|**2023-11-06**|**Improved Noisy Syndrome Decoding of Quantum LDPC Codes with Sliding Window**|Shilin Huang et.al.|[2311.03307](http://arxiv.org/abs/2311.03307)|null|
 |**2023-11-02**|**Analog information decoding of bosonic quantum LDPC codes**|Lucas Berent et.al.|[2311.01328](http://arxiv.org/abs/2311.01328)|null|
 |**2023-11-01**|**Addressing Stopping Failures for Small Set Flip Decoding of Hypergraph Product Codes**|Lev Stambler et.al.|[2311.00877](http://arxiv.org/abs/2311.00877)|null|
 |**2023-10-31**|**Fault-Tolerant Operation of Bosonic Qubits with Discrete-Variable Ancillae**|Qian Xu et.al.|[2310.20578](http://arxiv.org/abs/2310.20578)|null|

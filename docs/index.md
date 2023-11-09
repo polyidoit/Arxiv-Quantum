@@ -7,6 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Entanglement Harvesting from Electromagnetic Quantum Fields**|Frieder Lindel et.al.|[2311.04642](http://arxiv.org/abs/2311.04642)|null|
+|**2023-11-08**|**Self-testing of an unbounded number of mutually commuting local observables**|Sneha Munshi et.al.|[2311.04631](http://arxiv.org/abs/2311.04631)|null|
+|**2023-11-08**|**Optimal quantum violations of n-locality inequalities with conditional dependence on inputs**|Sneha Munshi et.al.|[2311.04621](http://arxiv.org/abs/2311.04621)|null|
+|**2023-11-08**|**Nonlocal correlations in an asymmetric quantum network**|Souradeep Sasmal et.al.|[2311.04583](http://arxiv.org/abs/2311.04583)|null|
+|**2023-11-08**|**Sharing preparation contextuality in Bell experiment by arbitrary pair of sequential observers**|Asmita Kumari et.al.|[2311.04568](http://arxiv.org/abs/2311.04568)|null|
+|**2023-11-08**|**Device-independent self-testing of unsharp measurements**|Prabuddha Roy et.al.|[2311.04485](http://arxiv.org/abs/2311.04485)|null|
 |**2023-11-07**|**The Iteration Formula of (n,2,d) Full-correlated Multi-component Bell Function and Its Applications**|Hui-Xian Meng et.al.|[2311.03681](http://arxiv.org/abs/2311.03681)|null|
 |**2023-11-03**|**Noise-robust proofs of quantum network nonlocality**|Sadra Boreiri et.al.|[2311.02182](http://arxiv.org/abs/2311.02182)|null|
 |**2023-11-03**|**Hardy-type paradoxes for an arbitrary symmetric bipartite Bell scenario**|Kai-Siang Chen et.al.|[2311.02045](http://arxiv.org/abs/2311.02045)|null|
@@ -337,6 +343,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Second-order Perturbative OTOC of Anharmonic Oscillators and Quantum Chaos : Second Quantization Method**|Wung-Hong Huang et.al.|[2311.04541](http://arxiv.org/abs/2311.04541)|null|
 |**2023-11-07**|**Periodicity of dynamical signatures of chaos in quantum kicked top**|Sreeram P. G et.al.|[2311.03795](http://arxiv.org/abs/2311.03795)|null|
 |**2023-11-02**|**Signatures of dissipative quantum chaos**|Lucas Sá et.al.|[2311.01518](http://arxiv.org/abs/2311.01518)|null|
 |**2023-11-02**|**The Universal Statistical Structure and Scaling Laws of Chaos and Turbulence**|Noam Levi et.al.|[2311.01358](http://arxiv.org/abs/2311.01358)|null|
@@ -466,6 +473,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Scalable Fault-Tolerant Quantum Technologies with Silicon Colour Centres**|Stephanie Simmons et.al.|[2311.04858](http://arxiv.org/abs/2311.04858)|null|
+|**2023-11-08**|**Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent**|Jan Olle et.al.|[2311.04750](http://arxiv.org/abs/2311.04750)|null|
+|**2023-11-08**|**Erasure detection of a dual-rail qubit encoded in a double-post superconducting cavity**|Akshay Koottandavida et.al.|[2311.04423](http://arxiv.org/abs/2311.04423)|null|
+|**2023-11-07**|**Quantum stabilizer formalism for any composite system**|Zhelin Tian et.al.|[2311.04255](http://arxiv.org/abs/2311.04255)|null|
 |**2023-11-07**|**Shaping photons: quantum computation with bosonic cQED**|Adrian Copetudo et.al.|[2311.03846](http://arxiv.org/abs/2311.03846)|null|
 |**2023-11-06**|**Topological Orders Having no Topological Quantum Field Theory Description**|P. Vojta et.al.|[2311.03353](http://arxiv.org/abs/2311.03353)|null|
 |**2023-11-06**|**Improved Noisy Syndrome Decoding of Quantum LDPC Codes with Sliding Window**|Shilin Huang et.al.|[2311.03307](http://arxiv.org/abs/2311.03307)|null|

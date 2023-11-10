@@ -368,7 +368,7 @@
 |**2023-11-02**|**The Universal Statistical Structure and Scaling Laws of Chaos and Turbulence**|Noam Levi et.al.|[2311.01358](http://arxiv.org/abs/2311.01358)|null|
 |**2023-11-01**|**Operator dynamics in Lindbladian SYK: a Krylov complexity perspective**|Budhaditya Bhattacharjee et.al.|[2311.00753](http://arxiv.org/abs/2311.00753)|null|
 |**2023-11-01**|**Sparsity independent Lyapunov exponent in the Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2311.00639](http://arxiv.org/abs/2311.00639)|null|
-|**2023-11-01**|**Fourier transforms and iterated function systems**|Tuomas Sahlsten et.al.|[2311.00585](http://arxiv.org/abs/2311.00585)|null|
+|**2023-11-09**|**Fourier transforms and iterated function systems**|Tuomas Sahlsten et.al.|[2311.00585](http://arxiv.org/abs/2311.00585)|null|
 |**2023-10-30**|**Approximate t-designs in generic circuit architectures**|Daniel Belkin et.al.|[2310.19783](http://arxiv.org/abs/2310.19783)|null|
 |**2023-10-30**|**Local random quantum circuits form approximate designs on arbitrary architectures**|Shivan Mittal et.al.|[2310.19355](http://arxiv.org/abs/2310.19355)|null|
 |**2023-11-02**|**Eigenstate Thermalization and its breakdown in Quantum Spin Chains with Inhomogeneous Interactions**|Ding-Zu Wang et.al.|[2310.19333](http://arxiv.org/abs/2310.19333)|null|
@@ -494,6 +494,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**A Spin-Optical Quantum Computing Architecture**|Grégoire de Gliniasty et.al.|[2311.05605](http://arxiv.org/abs/2311.05605)|null|
 |**2023-11-08**|**Scalable Fault-Tolerant Quantum Technologies with Silicon Colour Centres**|Stephanie Simmons et.al.|[2311.04858](http://arxiv.org/abs/2311.04858)|null|
 |**2023-11-08**|**Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent**|Jan Olle et.al.|[2311.04750](http://arxiv.org/abs/2311.04750)|null|
 |**2023-11-08**|**Erasure detection of a dual-rail qubit encoded in a double-post superconducting cavity**|Akshay Koottandavida et.al.|[2311.04423](http://arxiv.org/abs/2311.04423)|null|

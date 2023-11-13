@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Certification of quantum state functions under partial information**|Leonardo Zambrano et.al.|[2311.06094](http://arxiv.org/abs/2311.06094)|null|
 |**2023-11-08**|**Entanglement Harvesting from Electromagnetic Quantum Fields**|Frieder Lindel et.al.|[2311.04642](http://arxiv.org/abs/2311.04642)|null|
 |**2023-11-08**|**Self-testing of an unbounded number of mutually commuting local observables**|Sneha Munshi et.al.|[2311.04631](http://arxiv.org/abs/2311.04631)|null|
 |**2023-11-08**|**Optimal quantum violations of n-locality inequalities with conditional dependence on inputs**|Sneha Munshi et.al.|[2311.04621](http://arxiv.org/abs/2311.04621)|null|
@@ -494,6 +495,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Higher-group symmetry of (3+1)D fermionic $\mathbb{Z}_2$ gauge theory: logical CCZ, CS, and T gates from higher symmetry**|Maissam Barkeshli et.al.|[2311.05674](http://arxiv.org/abs/2311.05674)|null|
 |**2023-11-09**|**A Spin-Optical Quantum Computing Architecture**|Grégoire de Gliniasty et.al.|[2311.05605](http://arxiv.org/abs/2311.05605)|null|
 |**2023-11-08**|**Scalable Fault-Tolerant Quantum Technologies with Silicon Colour Centres**|Stephanie Simmons et.al.|[2311.04858](http://arxiv.org/abs/2311.04858)|null|
 |**2023-11-08**|**Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent**|Jan Olle et.al.|[2311.04750](http://arxiv.org/abs/2311.04750)|null|

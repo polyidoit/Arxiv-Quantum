@@ -666,7 +666,7 @@ layout: default
 |**2023-05-30**|**Colored E-Graph: Equality Reasoning with Conditions**|Eytan Singher et.al.|[2305.19203](http://arxiv.org/abs/2305.19203)|null|
 |**2023-06-01**|**Mid-circuit qubit measurement and rearrangement in a $^{171}$ Yb atomic array**|M. A. Norcia et.al.|[2305.19119](http://arxiv.org/abs/2305.19119)|null|
 |**2023-05-30**|**The Quantum Perron-Frobenius Space**|Linzhe Huang et.al.|[2305.18971](http://arxiv.org/abs/2305.18971)|null|
-|**2023-05-29**|**Strictly local Union-Find**|Tim Chan et.al.|[2305.18534](http://arxiv.org/abs/2305.18534)|null|
+|**2023-05-29**|**Strictly local Union-Find**|Tim Chan et.al.|[2305.18534](http://arxiv.org/abs/2305.18534)|**[link](https://github.com/timchan0/localuf)**|
 |**2023-06-01**|**Improved belief propagation decoding algorithm based on decoupling representation of Pauli operators for quantum LDPC codes**|Zhengzhong Yi et.al.|[2305.17505](http://arxiv.org/abs/2305.17505)|null|
 |**2023-05-25**|**Extending the Computational Reach of a Superconducting Qutrit Processor**|Noah Goss et.al.|[2305.16507](http://arxiv.org/abs/2305.16507)|null|
 |**2023-05-31**|**Logical Magic State Preparation with Fidelity Beyond the Distillation Threshold on a Superconducting Quantum Processor**|Yangsen Ye et.al.|[2305.15972](http://arxiv.org/abs/2305.15972)|null|

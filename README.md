@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Single-photon based Quantum Key Distribution and Random Number Generation schemes and their device-independent security analysis**|Konrad Schlichtholz et.al.|[2311.07451](http://arxiv.org/abs/2311.07451)|null|
+|**2023-11-06**|**Einstein locality**|Sheng Feng et.al.|[2311.06296](http://arxiv.org/abs/2311.06296)|null|
 |**2023-11-10**|**Certification of quantum state functions under partial information**|Leonardo Zambrano et.al.|[2311.06094](http://arxiv.org/abs/2311.06094)|null|
 |**2023-11-08**|**Entanglement Harvesting from Electromagnetic Quantum Fields**|Frieder Lindel et.al.|[2311.04642](http://arxiv.org/abs/2311.04642)|null|
 |**2023-11-08**|**Self-testing of an unbounded number of mutually commuting local observables**|Sneha Munshi et.al.|[2311.04631](http://arxiv.org/abs/2311.04631)|null|
@@ -137,6 +139,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Inferring the arrow of time in quantum spatiotemporal correlations**|Xiangjing Liu et.al.|[2311.07086](http://arxiv.org/abs/2311.07086)|null|
 |**2023-10-31**|**General covariance for quantum states over time**|James Fullwood et.al.|[2311.00162](http://arxiv.org/abs/2311.00162)|null|
 |**2023-10-29**|**The physical basis of teleological evolutions**|Giuseppe Castagnoli et.al.|[2310.18927](http://arxiv.org/abs/2310.18927)|null|
 |**2023-10-19**|**Virtual quantum broadcasting**|Arthur J. Parzygnat et.al.|[2310.13049](http://arxiv.org/abs/2310.13049)|null|
@@ -188,11 +191,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**IASCAR: Incremental Answer Set Counting by Anytime Refinement**|Johannes K. Fichte et.al.|[2311.07233](http://arxiv.org/abs/2311.07233)|null|
 |**2023-11-06**|**Experimental certification of contextuality, coherence and dimension in a programmable universal photonic processor**|Taira Giordani et.al.|[2311.03266](http://arxiv.org/abs/2311.03266)|null|
 |**2023-11-05**|**SO(3)-Irreducible Geometry in Complex Dimension Five and Ternary Generalization of Pauli Exclusion Principle**|Viktor Abramov et.al.|[2311.02606](http://arxiv.org/abs/2311.02606)|null|
 |**2023-11-03**|**Influence of a static electric field on a one-dimensional Bose-Fermi mixture confined in a double potential welll**|Avella Richard et.al.|[2311.02218](http://arxiv.org/abs/2311.02218)|null|
 |**2023-10-27**|**Equivariant simplicial distributions and quantum contextuality**|Cihan Okay et.al.|[2310.18135](http://arxiv.org/abs/2310.18135)|null|
 |**2023-10-25**|**Green's function and LDOS for non-relativistic electron pair**|Tomasz M. Rusin et.al.|[2310.16366](http://arxiv.org/abs/2310.16366)|null|
+|**2023-11-13**|**Multiparticle states in braided lightlike $κ$ -Minkowski noncommutative QFT**|Giuseppe Fabiano et.al.|[2310.15063](http://arxiv.org/abs/2310.15063)|null|
 |**2023-10-13**|**Insights into Quantum Contextuality and Bell Nonclassicality: A Study on Random Pure Two-Qubit Systems**|Giovanni Scala et.al.|[2310.09047](http://arxiv.org/abs/2310.09047)|null|
 |**2023-10-11**|**Satisfiability problems and algebras of boolean constraint system games**|Connor Paddock et.al.|[2310.07901](http://arxiv.org/abs/2310.07901)|null|
 |**2023-10-11**|**Implementing 2-qubit pseudo-telepathy games on noisy intermediate scale quantum computers**|Colm Kelleher et.al.|[2310.07441](http://arxiv.org/abs/2310.07441)|null|
@@ -290,6 +295,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Robustness measures for quantifying nonlocality**|Kyunghyun Baek et.al.|[2311.07077](http://arxiv.org/abs/2311.07077)|null|
 |**2023-11-03**|**Quantum resource theory of Bell nonlocality in Hilbert space**|Gennaro Zanfardino et.al.|[2311.01941](http://arxiv.org/abs/2311.01941)|null|
 |**2023-11-03**|**The uniform companion for large fields with free operators in characteristic zero**|Shezad Mohamed et.al.|[2311.01856](http://arxiv.org/abs/2311.01856)|null|
 |**2023-11-01**|**Echo-evolution data generation for quantum error mitigation via neural networks**|D. V. Babukhin et.al.|[2311.00487](http://arxiv.org/abs/2311.00487)|null|
@@ -495,6 +501,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Quotient Space Quantum Codes**|JingLei Xia et.al.|[2311.07265](http://arxiv.org/abs/2311.07265)|null|
+|**2023-11-13**|**Control Requirements and Benchmarks for Quantum Error Correction**|Yaniv Kurman et.al.|[2311.07121](http://arxiv.org/abs/2311.07121)|null|
+|**2023-11-13**|**Semidefinite programming bounds on the size of entanglement-assisted codeword stabilized quantum codes**|Ching-Yi Lai et.al.|[2311.07111](http://arxiv.org/abs/2311.07111)|null|
+|**2023-11-12**|**Challenges in Controllers on UAV Aircraft: Theory and Practice**|Hans Oersted et.al.|[2311.06774](http://arxiv.org/abs/2311.06774)|null|
 |**2023-11-09**|**Higher-group symmetry of (3+1)D fermionic $\mathbb{Z}_2$ gauge theory: logical CCZ, CS, and T gates from higher symmetry**|Maissam Barkeshli et.al.|[2311.05674](http://arxiv.org/abs/2311.05674)|null|
 |**2023-11-09**|**A Spin-Optical Quantum Computing Architecture**|Grégoire de Gliniasty et.al.|[2311.05605](http://arxiv.org/abs/2311.05605)|null|
 |**2023-11-08**|**Scalable Fault-Tolerant Quantum Technologies with Silicon Colour Centres**|Stephanie Simmons et.al.|[2311.04858](http://arxiv.org/abs/2311.04858)|null|

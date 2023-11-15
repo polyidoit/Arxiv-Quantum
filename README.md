@@ -501,6 +501,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**High-efficiency single-photon source above the loss-tolerant threshold for efficient linear optical quantum computing**|Xing Ding et.al.|[2311.08347](http://arxiv.org/abs/2311.08347)|null|
+|**2023-11-14**|**Comparative study of decoding the surface code using simulated annealing under depolarizing noise**|Yusaku Takeuchi et.al.|[2311.07973](http://arxiv.org/abs/2311.07973)|null|
+|**2023-11-14**|**A Coding Scheme for Straggler Resilient Quantum $X$-Secure $T$ -Private Information Retrieval**|Yuxiang Lu et.al.|[2311.07829](http://arxiv.org/abs/2311.07829)|null|
 |**2023-11-13**|**Quotient Space Quantum Codes**|JingLei Xia et.al.|[2311.07265](http://arxiv.org/abs/2311.07265)|null|
 |**2023-11-13**|**Control Requirements and Benchmarks for Quantum Error Correction**|Yaniv Kurman et.al.|[2311.07121](http://arxiv.org/abs/2311.07121)|null|
 |**2023-11-13**|**Semidefinite programming bounds on the size of entanglement-assisted codeword stabilized quantum codes**|Ching-Yi Lai et.al.|[2311.07111](http://arxiv.org/abs/2311.07111)|null|

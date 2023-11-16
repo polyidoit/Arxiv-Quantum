@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Optimizing Fictitious States for Bell Inequality Violation in Bipartite Qubit Systems**|Kun Cheng et.al.|[2311.09166](http://arxiv.org/abs/2311.09166)|null|
+|**2023-11-15**|**Fermionic steering is not nonlocal in the background of dilaton black hole**|Shu-Min Wu et.al.|[2311.08709](http://arxiv.org/abs/2311.08709)|null|
 |**2023-11-13**|**Single-photon based Quantum Key Distribution and Random Number Generation schemes and their device-independent security analysis**|Konrad Schlichtholz et.al.|[2311.07451](http://arxiv.org/abs/2311.07451)|null|
 |**2023-11-06**|**Einstein locality**|Sheng Feng et.al.|[2311.06296](http://arxiv.org/abs/2311.06296)|null|
 |**2023-11-10**|**Certification of quantum state functions under partial information**|Leonardo Zambrano et.al.|[2311.06094](http://arxiv.org/abs/2311.06094)|null|
@@ -139,6 +141,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Identification of Causal Influences in Quantum Processes**|Isaac Friend et.al.|[2311.08882](http://arxiv.org/abs/2311.08882)|null|
 |**2023-11-13**|**Inferring the arrow of time in quantum spatiotemporal correlations**|Xiangjing Liu et.al.|[2311.07086](http://arxiv.org/abs/2311.07086)|null|
 |**2023-10-31**|**General covariance for quantum states over time**|James Fullwood et.al.|[2311.00162](http://arxiv.org/abs/2311.00162)|null|
 |**2023-10-29**|**The physical basis of teleological evolutions**|Giuseppe Castagnoli et.al.|[2310.18927](http://arxiv.org/abs/2310.18927)|null|
@@ -501,6 +504,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Reducing 2-QuBit Gate Count for ZX-Calculus based Quantum Circuit Optimization**|Korbinian Staudacher et.al.|[2311.08881](http://arxiv.org/abs/2311.08881)|null|
+|**2023-11-15**|**Quantum Locally Recoverable Codes**|Louis Golowich et.al.|[2311.08653](http://arxiv.org/abs/2311.08653)|null|
+|**2023-11-14**|**Lecture notes on quantum computing**|Anton Frisk Kockum et.al.|[2311.08445](http://arxiv.org/abs/2311.08445)|null|
 |**2023-11-14**|**High-efficiency single-photon source above the loss-tolerant threshold for efficient linear optical quantum computing**|Xing Ding et.al.|[2311.08347](http://arxiv.org/abs/2311.08347)|null|
 |**2023-11-14**|**Comparative study of decoding the surface code using simulated annealing under depolarizing noise**|Yusaku Takeuchi et.al.|[2311.07973](http://arxiv.org/abs/2311.07973)|null|
 |**2023-11-14**|**A Coding Scheme for Straggler Resilient Quantum $X$-Secure $T$ -Private Information Retrieval**|Yuxiang Lu et.al.|[2311.07829](http://arxiv.org/abs/2311.07829)|null|

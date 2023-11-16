@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -355,7 +355,7 @@ layout: default
 |**2023-11-02**|**Signatures of dissipative quantum chaos**|Lucas Sá et.al.|[2311.01518](http://arxiv.org/abs/2311.01518)|null|
 |**2023-11-02**|**The Universal Statistical Structure and Scaling Laws of Chaos and Turbulence**|Noam Levi et.al.|[2311.01358](http://arxiv.org/abs/2311.01358)|null|
 |**2023-11-01**|**Operator dynamics in Lindbladian SYK: a Krylov complexity perspective**|Budhaditya Bhattacharjee et.al.|[2311.00753](http://arxiv.org/abs/2311.00753)|null|
-|**2023-11-01**|**Sparsity independent Lyapunov exponent in the Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2311.00639](http://arxiv.org/abs/2311.00639)|null|
+|**2023-11-01**|**Sparsity independent Lyapunov exponent in the Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2311.00639](http://arxiv.org/abs/2311.00639)|**[link](https://github.com/cl91/reapers)**|
 |**2023-11-09**|**Fourier transforms and iterated function systems**|Tuomas Sahlsten et.al.|[2311.00585](http://arxiv.org/abs/2311.00585)|null|
 |**2023-10-30**|**Approximate t-designs in generic circuit architectures**|Daniel Belkin et.al.|[2310.19783](http://arxiv.org/abs/2310.19783)|null|
 |**2023-10-30**|**Local random quantum circuits form approximate designs on arbitrary architectures**|Shivan Mittal et.al.|[2310.19355](http://arxiv.org/abs/2310.19355)|null|

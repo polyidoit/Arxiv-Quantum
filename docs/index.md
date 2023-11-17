@@ -238,6 +238,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Experimental distillation of tripartite quantum steering**|Qian-Xi Zhang et.al.|[2311.09873](http://arxiv.org/abs/2311.09873)|null|
 |**2023-10-31**|**Experimental high-dimensional entanglement certification and quantum steering with time-energy measurements**|Kai-Chi Chang et.al.|[2310.20694](http://arxiv.org/abs/2310.20694)|null|
 |**2023-10-28**|**Experimental verification of the steering ellipsoid zoo via two-qubit states**|Kai Xu et.al.|[2310.18645](http://arxiv.org/abs/2310.18645)|null|
 |**2023-10-23**|**Enhancing the quantum entanglement and EPR steering of a coupled optomechanical system with a squeezed vacuum field**|Shao-Xiong Wu et.al.|[2310.14593](http://arxiv.org/abs/2310.14593)|null|
@@ -287,7 +288,7 @@ layout: default
 |**2023-11-01**|**Echo-evolution data generation for quantum error mitigation via neural networks**|D. V. Babukhin et.al.|[2311.00487](http://arxiv.org/abs/2311.00487)|null|
 |**2023-10-26**|**Growth of cancer stem cell driven tumors: staged invasion, linear determinacy, and the tumor invasion paradox**|Montie Avery et.al.|[2310.17633](http://arxiv.org/abs/2310.17633)|null|
 |**2023-10-23**|**Dynamics of mean-field Fermi systems with nonzero pairing**|Stefano Marcantoni et.al.|[2310.15280](http://arxiv.org/abs/2310.15280)|null|
-|**2023-10-19**|**The free energy of matrix models**|Félix Parraud et.al.|[2310.12948](http://arxiv.org/abs/2310.12948)|null|
+|**2023-11-16**|**The free energy of matrix models**|Félix Parraud et.al.|[2310.12948](http://arxiv.org/abs/2310.12948)|null|
 |**2023-10-19**|**1D GRPIC Simulations of Stellar-Mass Black Hole Magnetospheres: Semi-Analytic Model of Gamma-Rays from Gaps**|Koki Kin et.al.|[2310.12532](http://arxiv.org/abs/2310.12532)|null|
 |**2023-10-17**|**Limitations of Classically-Simulable Measurements for Quantum State Discrimination**|Chengkai Zhu et.al.|[2310.11323](http://arxiv.org/abs/2310.11323)|null|
 |**2023-10-17**|**Continuity of the extremal decomposition of the free state for finite-spin models on Cayley trees**|Loren Coquille et.al.|[2310.11101](http://arxiv.org/abs/2310.11101)|null|
@@ -353,6 +354,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Full range spectral correlations and their spectral form factors in chaotic and integrable models**|Ruth Shir et.al.|[2311.09292](http://arxiv.org/abs/2311.09292)|null|
 |**2023-11-08**|**Second-order Perturbative OTOC of Anharmonic Oscillators and Quantum Chaos : Second Quantization Method**|Wung-Hong Huang et.al.|[2311.04541](http://arxiv.org/abs/2311.04541)|null|
 |**2023-11-07**|**Periodicity of dynamical signatures of chaos in quantum kicked top**|Sreeram P. G et.al.|[2311.03795](http://arxiv.org/abs/2311.03795)|null|
 |**2023-11-02**|**Signatures of dissipative quantum chaos**|Lucas Sá et.al.|[2311.01518](http://arxiv.org/abs/2311.01518)|null|

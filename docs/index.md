@@ -238,6 +238,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Analysis of Quantum Steering Measures**|L. Maquedano et.al.|[2311.10552](http://arxiv.org/abs/2311.10552)|null|
 |**2023-11-16**|**Experimental distillation of tripartite quantum steering**|Qian-Xi Zhang et.al.|[2311.09873](http://arxiv.org/abs/2311.09873)|null|
 |**2023-10-31**|**Experimental high-dimensional entanglement certification and quantum steering with time-energy measurements**|Kai-Chi Chang et.al.|[2310.20694](http://arxiv.org/abs/2310.20694)|null|
 |**2023-10-28**|**Experimental verification of the steering ellipsoid zoo via two-qubit states**|Kai Xu et.al.|[2310.18645](http://arxiv.org/abs/2310.18645)|null|
@@ -485,6 +486,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**TISCC: A Surface Code Compiler and Resource Estimator for Trapped-Ion Processors**|Tyler LeBlond et.al.|[2311.10687](http://arxiv.org/abs/2311.10687)|null|
+|**2023-11-17**|**Realistic Cost to Execute Practical Quantum Circuits using Direct Clifford+T Lattice Surgery Compilation**|Tyler LeBlond et.al.|[2311.10686](http://arxiv.org/abs/2311.10686)|null|
+|**2023-11-17**|**Robust universal quantum processors in spin systems via Walsh pulse sequences**|Matteo Votto et.al.|[2311.10600](http://arxiv.org/abs/2311.10600)|null|
+|**2023-11-17**|**Deterministic preparation of optical squeezed cat and Gottesman-Kitaev-Preskill states**|Matthew S. Winnel et.al.|[2311.10510](http://arxiv.org/abs/2311.10510)|null|
 |**2023-11-15**|**Reducing 2-QuBit Gate Count for ZX-Calculus based Quantum Circuit Optimization**|Korbinian Staudacher et.al.|[2311.08881](http://arxiv.org/abs/2311.08881)|null|
 |**2023-11-15**|**Quantum Locally Recoverable Codes**|Louis Golowich et.al.|[2311.08653](http://arxiv.org/abs/2311.08653)|null|
 |**2023-11-14**|**Lecture notes on quantum computing**|Anton Frisk Kockum et.al.|[2311.08445](http://arxiv.org/abs/2311.08445)|null|

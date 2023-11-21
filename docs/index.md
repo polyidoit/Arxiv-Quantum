@@ -130,6 +130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-18**|**Extreme quantum states and processes, and extreme points of general spectrahedra in finite dimensional algebras**|Giulio Chiribella et.al.|[2311.10929](http://arxiv.org/abs/2311.10929)|null|
 |**2023-11-15**|**Identification of Causal Influences in Quantum Processes**|Isaac Friend et.al.|[2311.08882](http://arxiv.org/abs/2311.08882)|null|
 |**2023-11-13**|**Inferring the arrow of time in quantum spatiotemporal correlations**|Xiangjing Liu et.al.|[2311.07086](http://arxiv.org/abs/2311.07086)|null|
 |**2023-10-31**|**General covariance for quantum states over time**|James Fullwood et.al.|[2311.00162](http://arxiv.org/abs/2311.00162)|null|
@@ -238,6 +239,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-18**|**Demonstration of Maxwell Demon-assistant Einstein-Podolsky-Rosen Steering via Superconducting Quantum Processor**|Z. T. Wang et.al.|[2311.10955](http://arxiv.org/abs/2311.10955)|null|
 |**2023-11-17**|**Analysis of Quantum Steering Measures**|L. Maquedano et.al.|[2311.10552](http://arxiv.org/abs/2311.10552)|null|
 |**2023-11-16**|**Experimental distillation of tripartite quantum steering**|Qian-Xi Zhang et.al.|[2311.09873](http://arxiv.org/abs/2311.09873)|null|
 |**2023-10-31**|**Experimental high-dimensional entanglement certification and quantum steering with time-energy measurements**|Kai-Chi Chang et.al.|[2310.20694](http://arxiv.org/abs/2310.20694)|null|
@@ -283,8 +285,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Local Purity Distillation in Quantum Systems: Exploring the Complementarity Between Purity and Entanglement**|Ray Ganardi et.al.|[2311.11820](http://arxiv.org/abs/2311.11820)|null|
 |**2023-11-13**|**Robustness measures for quantifying nonlocality**|Kyunghyun Baek et.al.|[2311.07077](http://arxiv.org/abs/2311.07077)|null|
-|**2023-11-03**|**Quantum resource theory of Bell nonlocality in Hilbert space**|Gennaro Zanfardino et.al.|[2311.01941](http://arxiv.org/abs/2311.01941)|null|
+|**2023-11-17**|**Quantum resource theory of Bell nonlocality in Hilbert space**|Gennaro Zanfardino et.al.|[2311.01941](http://arxiv.org/abs/2311.01941)|null|
 |**2023-11-03**|**The uniform companion for large fields with free operators in characteristic zero**|Shezad Mohamed et.al.|[2311.01856](http://arxiv.org/abs/2311.01856)|null|
 |**2023-11-01**|**Echo-evolution data generation for quantum error mitigation via neural networks**|D. V. Babukhin et.al.|[2311.00487](http://arxiv.org/abs/2311.00487)|null|
 |**2023-10-26**|**Growth of cancer stem cell driven tumors: staged invasion, linear determinacy, and the tumor invasion paradox**|Montie Avery et.al.|[2310.17633](http://arxiv.org/abs/2310.17633)|null|
@@ -486,6 +489,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Self-orthogonal codes from $p$ -divisible codes**|Xiaoru Li et.al.|[2311.11634](http://arxiv.org/abs/2311.11634)|null|
+|**2023-11-19**|**Symbolic Execution for Quantum Error Correction Programs**|Wang Fang et.al.|[2311.11313](http://arxiv.org/abs/2311.11313)|null|
+|**2023-11-18**|**Benchmarking Machine Learning Models for Quantum Error Correction**|Tim Fu et.al.|[2311.11167](http://arxiv.org/abs/2311.11167)|null|
+|**2023-11-18**|**Exotic Symmetry Breaking Properties of Self-Dual Fracton Spin Models**|Giovanni Canossa et.al.|[2311.11066](http://arxiv.org/abs/2311.11066)|null|
 |**2023-11-17**|**TISCC: A Surface Code Compiler and Resource Estimator for Trapped-Ion Processors**|Tyler LeBlond et.al.|[2311.10687](http://arxiv.org/abs/2311.10687)|null|
 |**2023-11-17**|**Realistic Cost to Execute Practical Quantum Circuits using Direct Clifford+T Lattice Surgery Compilation**|Tyler LeBlond et.al.|[2311.10686](http://arxiv.org/abs/2311.10686)|null|
 |**2023-11-17**|**Robust universal quantum processors in spin systems via Walsh pulse sequences**|Matteo Votto et.al.|[2311.10600](http://arxiv.org/abs/2311.10600)|null|

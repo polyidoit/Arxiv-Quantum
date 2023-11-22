@@ -21,7 +21,7 @@
 |**2023-11-13**|**Single-photon based Quantum Key Distribution and Random Number Generation schemes and their device-independent security analysis**|Konrad Schlichtholz et.al.|[2311.07451](http://arxiv.org/abs/2311.07451)|null|
 |**2023-11-06**|**Einstein locality**|Sheng Feng et.al.|[2311.06296](http://arxiv.org/abs/2311.06296)|null|
 |**2023-11-10**|**Certification of quantum state functions under partial information**|Leonardo Zambrano et.al.|[2311.06094](http://arxiv.org/abs/2311.06094)|null|
-|**2023-11-08**|**Entanglement Harvesting from Electromagnetic Quantum Fields**|Frieder Lindel et.al.|[2311.04642](http://arxiv.org/abs/2311.04642)|null|
+|**2023-11-21**|**Entanglement Harvesting from Electromagnetic Quantum Fields**|Frieder Lindel et.al.|[2311.04642](http://arxiv.org/abs/2311.04642)|null|
 |**2023-11-08**|**Self-testing of an unbounded number of mutually commuting local observables**|Sneha Munshi et.al.|[2311.04631](http://arxiv.org/abs/2311.04631)|null|
 |**2023-11-08**|**Optimal quantum violations of n-locality inequalities with conditional dependence on inputs**|Sneha Munshi et.al.|[2311.04621](http://arxiv.org/abs/2311.04621)|null|
 |**2023-11-08**|**Nonlocal correlations in an asymmetric quantum network**|Souradeep Sasmal et.al.|[2311.04583](http://arxiv.org/abs/2311.04583)|null|
@@ -377,6 +377,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Scramblon loops**|Douglas Stanford et.al.|[2311.12121](http://arxiv.org/abs/2311.12121)|null|
 |**2023-11-15**|**Full range spectral correlations and their spectral form factors in chaotic and integrable models**|Ruth Shir et.al.|[2311.09292](http://arxiv.org/abs/2311.09292)|null|
 |**2023-11-08**|**Second-order Perturbative OTOC of Anharmonic Oscillators and Quantum Chaos : Second Quantization Method**|Wung-Hong Huang et.al.|[2311.04541](http://arxiv.org/abs/2311.04541)|null|
 |**2023-11-07**|**Periodicity of dynamical signatures of chaos in quantum kicked top**|Sreeram P. G et.al.|[2311.03795](http://arxiv.org/abs/2311.03795)|null|
@@ -510,6 +511,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**The T-Complexity Costs of Error Correction for Control Flow in Quantum Computation**|Charles Yuan et.al.|[2311.12772](http://arxiv.org/abs/2311.12772)|**[link](https://github.com/psg-mit/spire-artifact)**|
+|**2023-11-21**|**Testing the Accuracy of Surface Code Decoders**|Arshpreet Singh Maan et.al.|[2311.12503](http://arxiv.org/abs/2311.12503)|null|
 |**2023-11-20**|**Self-orthogonal codes from $p$ -divisible codes**|Xiaoru Li et.al.|[2311.11634](http://arxiv.org/abs/2311.11634)|null|
 |**2023-11-19**|**Symbolic Execution for Quantum Error Correction Programs**|Wang Fang et.al.|[2311.11313](http://arxiv.org/abs/2311.11313)|null|
 |**2023-11-18**|**Benchmarking Machine Learning Models for Quantum Error Correction**|Tim Fu et.al.|[2311.11167](http://arxiv.org/abs/2311.11167)|null|

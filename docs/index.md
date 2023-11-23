@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Improvements on Device Independent and Semi-Device Independent Protocols of Randomness Expansion**|Rutvij Bhavsar et.al.|[2311.13528](http://arxiv.org/abs/2311.13528)|null|
+|**2023-11-21**|**Optimal, and approximately optimal, quantum strategies for $\mathrm{XOR}^{*}$ and $\mathrm{FFL}$ games**|Pete Rigas et.al.|[2311.12887](http://arxiv.org/abs/2311.12887)|null|
 |**2023-11-15**|**Optimizing Fictitious States for Bell Inequality Violation in Bipartite Qubit Systems**|Kun Cheng et.al.|[2311.09166](http://arxiv.org/abs/2311.09166)|null|
 |**2023-11-15**|**Fermionic steering is not nonlocal in the background of dilaton black hole**|Shu-Min Wu et.al.|[2311.08709](http://arxiv.org/abs/2311.08709)|null|
 |**2023-11-13**|**Single-photon based Quantum Key Distribution and Random Number Generation schemes and their device-independent security analysis**|Konrad Schlichtholz et.al.|[2311.07451](http://arxiv.org/abs/2311.07451)|null|
@@ -134,7 +136,7 @@ layout: default
 |**2023-11-15**|**Identification of Causal Influences in Quantum Processes**|Isaac Friend et.al.|[2311.08882](http://arxiv.org/abs/2311.08882)|null|
 |**2023-11-13**|**Inferring the arrow of time in quantum spatiotemporal correlations**|Xiangjing Liu et.al.|[2311.07086](http://arxiv.org/abs/2311.07086)|null|
 |**2023-10-31**|**General covariance for quantum states over time**|James Fullwood et.al.|[2311.00162](http://arxiv.org/abs/2311.00162)|null|
-|**2023-10-29**|**The physical basis of teleological evolutions**|Giuseppe Castagnoli et.al.|[2310.18927](http://arxiv.org/abs/2310.18927)|null|
+|**2023-11-22**|**The physical basis of teleological evolutions**|Giuseppe Castagnoli et.al.|[2310.18927](http://arxiv.org/abs/2310.18927)|null|
 |**2023-10-19**|**Virtual quantum broadcasting**|Arthur J. Parzygnat et.al.|[2310.13049](http://arxiv.org/abs/2310.13049)|null|
 |**2023-10-06**|**Challenges for extensions of the process matrix formalism to quantum field theory**|Nikola Paunkovic et.al.|[2310.04597](http://arxiv.org/abs/2310.04597)|null|
 |**2023-09-28**|**Semi-device-independent certification of quantum non-Markovianity using sequential Random Access Codes**|Abhinash Kumar Roy et.al.|[2309.16190](http://arxiv.org/abs/2309.16190)|null|
@@ -358,6 +360,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Quantum optimization of coherent chaotic systems: A case for buses of Kathmandu**|Kiran Adhikari et.al.|[2311.13119](http://arxiv.org/abs/2311.13119)|null|
+|**2023-11-21**|**Shock waves, black hole interiors and holographic RG flows**|Elena Cáceres et.al.|[2311.12940](http://arxiv.org/abs/2311.12940)|null|
 |**2023-11-20**|**Scramblon loops**|Douglas Stanford et.al.|[2311.12121](http://arxiv.org/abs/2311.12121)|null|
 |**2023-11-15**|**Full range spectral correlations and their spectral form factors in chaotic and integrable models**|Ruth Shir et.al.|[2311.09292](http://arxiv.org/abs/2311.09292)|null|
 |**2023-11-08**|**Second-order Perturbative OTOC of Anharmonic Oscillators and Quantum Chaos : Second Quantization Method**|Wung-Hong Huang et.al.|[2311.04541](http://arxiv.org/abs/2311.04541)|null|
@@ -490,10 +494,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**The Penrose Tiling is a Quantum Error-Correcting Code**|Zhi Li et.al.|[2311.13040](http://arxiv.org/abs/2311.13040)|null|
+|**2023-11-21**|**Argyres-Douglas Theories, IR N-ality and Complete Graphs**|Anindya Dey et.al.|[2311.12931](http://arxiv.org/abs/2311.12931)|null|
 |**2023-11-21**|**The T-Complexity Costs of Error Correction for Control Flow in Quantum Computation**|Charles Yuan et.al.|[2311.12772](http://arxiv.org/abs/2311.12772)|**[link](https://github.com/psg-mit/spire-artifact)**|
 |**2023-11-21**|**Testing the Accuracy of Surface Code Decoders**|Arshpreet Singh Maan et.al.|[2311.12503](http://arxiv.org/abs/2311.12503)|null|
 |**2023-11-20**|**Self-orthogonal codes from $p$ -divisible codes**|Xiaoru Li et.al.|[2311.11634](http://arxiv.org/abs/2311.11634)|null|
-|**2023-11-19**|**Symbolic Execution for Quantum Error Correction Programs**|Wang Fang et.al.|[2311.11313](http://arxiv.org/abs/2311.11313)|null|
+|**2023-11-22**|**Symbolic Execution for Quantum Error Correction Programs**|Wang Fang et.al.|[2311.11313](http://arxiv.org/abs/2311.11313)|null|
 |**2023-11-18**|**Benchmarking Machine Learning Models for Quantum Error Correction**|Tim Fu et.al.|[2311.11167](http://arxiv.org/abs/2311.11167)|null|
 |**2023-11-18**|**Exotic Symmetry Breaking Properties of Self-Dual Fracton Spin Models**|Giovanni Canossa et.al.|[2311.11066](http://arxiv.org/abs/2311.11066)|null|
 |**2023-11-17**|**TISCC: A Surface Code Compiler and Resource Estimator for Trapped-Ion Processors**|Tyler LeBlond et.al.|[2311.10687](http://arxiv.org/abs/2311.10687)|null|

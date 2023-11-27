@@ -287,6 +287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**Quantum network-entanglement measures**|Zhen-Peng Xu et.al.|[2311.13945](http://arxiv.org/abs/2311.13945)|null|
 |**2023-11-20**|**Local Purity Distillation in Quantum Systems: Exploring the Complementarity Between Purity and Entanglement**|Ray Ganardi et.al.|[2311.11820](http://arxiv.org/abs/2311.11820)|null|
 |**2023-11-13**|**Robustness measures for quantifying nonlocality**|Kyunghyun Baek et.al.|[2311.07077](http://arxiv.org/abs/2311.07077)|null|
 |**2023-11-17**|**Quantum resource theory of Bell nonlocality in Hilbert space**|Gennaro Zanfardino et.al.|[2311.01941](http://arxiv.org/abs/2311.01941)|null|
@@ -360,6 +361,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Emergent Topology in Many-Body Dissipative Quantum Chaos**|Antonio M. García-García et.al.|[2311.14640](http://arxiv.org/abs/2311.14640)|null|
+|**2023-11-24**|**SYK Model in a Non-Gaussian disorder ensemble and emergent Coleman's mechanism**|Pankaj Chaturvedi et.al.|[2311.14630](http://arxiv.org/abs/2311.14630)|null|
 |**2023-11-22**|**Quantum optimization of coherent chaotic systems: A case for buses of Kathmandu**|Kiran Adhikari et.al.|[2311.13119](http://arxiv.org/abs/2311.13119)|null|
 |**2023-11-21**|**Shock waves, black hole interiors and holographic RG flows**|Elena Cáceres et.al.|[2311.12940](http://arxiv.org/abs/2311.12940)|null|
 |**2023-11-20**|**Scramblon loops**|Douglas Stanford et.al.|[2311.12121](http://arxiv.org/abs/2311.12121)|null|
@@ -494,6 +497,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Quantum Coding with Finite Thermodynamic Resources**|Jake Xuereb et.al.|[2311.14561](http://arxiv.org/abs/2311.14561)|null|
+|**2023-11-24**|**Robustness and measurement-induced percolation of the surface code**|Thomas Botzung et.al.|[2311.14338](http://arxiv.org/abs/2311.14338)|null|
+|**2023-11-22**|**An explicit error correction scheme and code distance for bosonic codes with rotational symmetry**|Benjamin Marinoff et.al.|[2311.13670](http://arxiv.org/abs/2311.13670)|null|
 |**2023-11-21**|**The Penrose Tiling is a Quantum Error-Correcting Code**|Zhi Li et.al.|[2311.13040](http://arxiv.org/abs/2311.13040)|null|
 |**2023-11-21**|**Argyres-Douglas Theories, IR N-ality and Complete Graphs**|Anindya Dey et.al.|[2311.12931](http://arxiv.org/abs/2311.12931)|null|
 |**2023-11-21**|**The T-Complexity Costs of Error Correction for Control Flow in Quantum Computation**|Charles Yuan et.al.|[2311.12772](http://arxiv.org/abs/2311.12772)|**[link](https://github.com/psg-mit/spire-artifact)**|

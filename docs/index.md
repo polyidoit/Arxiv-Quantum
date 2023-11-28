@@ -361,14 +361,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Towards a classification of PT-symmetric quantum systems: from dissipative dynamics to topology and wormholes**|Antonio M. García-García et.al.|[2311.15677](http://arxiv.org/abs/2311.15677)|null|
 |**2023-11-24**|**Emergent Topology in Many-Body Dissipative Quantum Chaos**|Antonio M. García-García et.al.|[2311.14640](http://arxiv.org/abs/2311.14640)|null|
-|**2023-11-24**|**SYK Model in a Non-Gaussian disorder ensemble and emergent Coleman's mechanism**|Pankaj Chaturvedi et.al.|[2311.14630](http://arxiv.org/abs/2311.14630)|null|
+|**2023-11-27**|**SYK Model in a Non-Gaussian disorder ensemble and emergent Coleman's mechanism**|Ido Ben-Dayan et.al.|[2311.14630](http://arxiv.org/abs/2311.14630)|null|
 |**2023-11-22**|**Quantum optimization of coherent chaotic systems: A case for buses of Kathmandu**|Kiran Adhikari et.al.|[2311.13119](http://arxiv.org/abs/2311.13119)|null|
 |**2023-11-21**|**Shock waves, black hole interiors and holographic RG flows**|Elena Cáceres et.al.|[2311.12940](http://arxiv.org/abs/2311.12940)|null|
 |**2023-11-20**|**Scramblon loops**|Douglas Stanford et.al.|[2311.12121](http://arxiv.org/abs/2311.12121)|null|
 |**2023-11-15**|**Full range spectral correlations and their spectral form factors in chaotic and integrable models**|Ruth Shir et.al.|[2311.09292](http://arxiv.org/abs/2311.09292)|null|
 |**2023-11-08**|**Second-order Perturbative OTOC of Anharmonic Oscillators and Quantum Chaos : Second Quantization Method**|Wung-Hong Huang et.al.|[2311.04541](http://arxiv.org/abs/2311.04541)|null|
-|**2023-11-07**|**Periodicity of dynamical signatures of chaos in quantum kicked top**|Sreeram P. G et.al.|[2311.03795](http://arxiv.org/abs/2311.03795)|null|
+|**2023-11-25**|**Periodicity of dynamical signatures of chaos in quantum kicked top**|Sreeram PG et.al.|[2311.03795](http://arxiv.org/abs/2311.03795)|null|
 |**2023-11-02**|**Signatures of dissipative quantum chaos**|Lucas Sá et.al.|[2311.01518](http://arxiv.org/abs/2311.01518)|null|
 |**2023-11-02**|**The Universal Statistical Structure and Scaling Laws of Chaos and Turbulence**|Noam Levi et.al.|[2311.01358](http://arxiv.org/abs/2311.01358)|null|
 |**2023-11-01**|**Operator dynamics in Lindbladian SYK: a Krylov complexity perspective**|Budhaditya Bhattacharjee et.al.|[2311.00753](http://arxiv.org/abs/2311.00753)|null|
@@ -497,6 +498,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers**|Hanrui Wang et.al.|[2311.16082](http://arxiv.org/abs/2311.16082)|null|
+|**2023-11-27**|**Robust Syndrome Extraction via BCH Encoding**|Eren Guttentag et.al.|[2311.16044](http://arxiv.org/abs/2311.16044)|null|
+|**2023-11-26**|**Artificial Neural Network Syndrome Decoding on IBM Quantum Processors**|Brhyeton Hall et.al.|[2311.15146](http://arxiv.org/abs/2311.15146)|null|
 |**2023-11-24**|**Quantum Coding with Finite Thermodynamic Resources**|Jake Xuereb et.al.|[2311.14561](http://arxiv.org/abs/2311.14561)|null|
 |**2023-11-24**|**Robustness and measurement-induced percolation of the surface code**|Thomas Botzung et.al.|[2311.14338](http://arxiv.org/abs/2311.14338)|null|
 |**2023-11-22**|**An explicit error correction scheme and code distance for bosonic codes with rotational symmetry**|Benjamin Marinoff et.al.|[2311.13670](http://arxiv.org/abs/2311.13670)|null|

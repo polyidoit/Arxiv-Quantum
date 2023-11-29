@@ -241,6 +241,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Quantum steering for two-mode states with Continuous-variable in laser channel**|Kaimin Zheng et.al.|[2311.16658](http://arxiv.org/abs/2311.16658)|null|
 |**2023-11-18**|**Demonstration of Maxwell Demon-assistant Einstein-Podolsky-Rosen Steering via Superconducting Quantum Processor**|Z. T. Wang et.al.|[2311.10955](http://arxiv.org/abs/2311.10955)|null|
 |**2023-11-17**|**Analysis of Quantum Steering Measures**|L. Maquedano et.al.|[2311.10552](http://arxiv.org/abs/2311.10552)|null|
 |**2023-11-16**|**Experimental distillation of tripartite quantum steering**|Qian-Xi Zhang et.al.|[2311.09873](http://arxiv.org/abs/2311.09873)|null|
@@ -287,6 +288,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Tight bounds for antidistinguishability and circulant sets of pure quantum states**|Nathaniel Johnston et.al.|[2311.17047](http://arxiv.org/abs/2311.17047)|null|
 |**2023-11-23**|**Quantum network-entanglement measures**|Zhen-Peng Xu et.al.|[2311.13945](http://arxiv.org/abs/2311.13945)|null|
 |**2023-11-20**|**Local Purity Distillation in Quantum Systems: Exploring the Complementarity Between Purity and Entanglement**|Ray Ganardi et.al.|[2311.11820](http://arxiv.org/abs/2311.11820)|null|
 |**2023-11-13**|**Robustness measures for quantifying nonlocality**|Kyunghyun Baek et.al.|[2311.07077](http://arxiv.org/abs/2311.07077)|null|
@@ -361,6 +363,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Diagnosing non-Hermitian Many-Body Localization and Quantum Chaos via Singular Value Decomposition**|Federico Roccati et.al.|[2311.16229](http://arxiv.org/abs/2311.16229)|null|
+|**2023-11-27**|**Effect of Quantum Information Scrambling on Bound Entangled States**|Suprabhat Sinha et.al.|[2311.16209](http://arxiv.org/abs/2311.16209)|null|
 |**2023-11-27**|**Towards a classification of PT-symmetric quantum systems: from dissipative dynamics to topology and wormholes**|Antonio M. García-García et.al.|[2311.15677](http://arxiv.org/abs/2311.15677)|null|
 |**2023-11-24**|**Emergent Topology in Many-Body Dissipative Quantum Chaos**|Antonio M. García-García et.al.|[2311.14640](http://arxiv.org/abs/2311.14640)|null|
 |**2023-11-27**|**SYK Model in a Non-Gaussian disorder ensemble and emergent Coleman's mechanism**|Ido Ben-Dayan et.al.|[2311.14630](http://arxiv.org/abs/2311.14630)|null|
@@ -498,10 +502,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Matching Generalized-Bicycle Codes to Neutral Atoms for Low-Overhead Fault-Tolerance**|Joshua Viszlai et.al.|[2311.16980](http://arxiv.org/abs/2311.16980)|null|
+|**2023-11-27**|**Zero Error Correctibility and Phase Retrievability for Twirling Channels**|Kai Liu et.al.|[2311.16349](http://arxiv.org/abs/2311.16349)|null|
+|**2023-11-27**|**DGR: Tackling Drifted and Correlated Noise in Quantum Error Correction via Decoding Graph Re-weighting**|Hanrui Wang et.al.|[2311.16214](http://arxiv.org/abs/2311.16214)|null|
 |**2023-11-27**|**Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers**|Hanrui Wang et.al.|[2311.16082](http://arxiv.org/abs/2311.16082)|null|
 |**2023-11-27**|**Robust Syndrome Extraction via BCH Encoding**|Eren Guttentag et.al.|[2311.16044](http://arxiv.org/abs/2311.16044)|null|
 |**2023-11-26**|**Artificial Neural Network Syndrome Decoding on IBM Quantum Processors**|Brhyeton Hall et.al.|[2311.15146](http://arxiv.org/abs/2311.15146)|null|
-|**2023-11-24**|**Quantum Coding with Finite Thermodynamic Resources**|Jake Xuereb et.al.|[2311.14561](http://arxiv.org/abs/2311.14561)|null|
+|**2023-11-24**|**Quantum Coding with Finite Thermodynamic Resources**|Jake Xuereb et.al.|[2311.14561](http://arxiv.org/abs/2311.14561)|**[link](https://github.com/jqed-xuereb/thermo_quantum_coding)**|
 |**2023-11-24**|**Robustness and measurement-induced percolation of the surface code**|Thomas Botzung et.al.|[2311.14338](http://arxiv.org/abs/2311.14338)|null|
 |**2023-11-22**|**An explicit error correction scheme and code distance for bosonic codes with rotational symmetry**|Benjamin Marinoff et.al.|[2311.13670](http://arxiv.org/abs/2311.13670)|null|
 |**2023-11-21**|**The Penrose Tiling is a Quantum Error-Correcting Code**|Zhi Li et.al.|[2311.13040](http://arxiv.org/abs/2311.13040)|null|

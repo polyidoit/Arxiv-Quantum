@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**When Mei-Gu Guan's 1960 Postmen Get Empowered with Bell's 1964 Nonlocal Correlations, or, Nonlocal Advantage in Vehicle Routing Problem**|Abhishek Banerjee et.al.|[2311.17772](http://arxiv.org/abs/2311.17772)|null|
+|**2023-11-29**|**Probing entanglement and testing Bell inequality violation with $\textrm{e}^{+}\textrm{e}^{-} \rightarrow τ^{+}τ^{-}$ at Belle II**|Karl Ehatäht et.al.|[2311.17555](http://arxiv.org/abs/2311.17555)|null|
+|**2023-11-26**|**Quantum entanglement: proposal for a new kind of experiment**|Marco Pettini et.al.|[2311.17070](http://arxiv.org/abs/2311.17070)|null|
 |**2023-11-22**|**Improvements on Device Independent and Semi-Device Independent Protocols of Randomness Expansion**|Rutvij Bhavsar et.al.|[2311.13528](http://arxiv.org/abs/2311.13528)|null|
 |**2023-11-21**|**Optimal, and approximately optimal, quantum strategies for $\mathrm{XOR}^{*}$ and $\mathrm{FFL}$ games**|Pete Rigas et.al.|[2311.12887](http://arxiv.org/abs/2311.12887)|null|
 |**2023-11-15**|**Optimizing Fictitious States for Bell Inequality Violation in Bipartite Qubit Systems**|Kun Cheng et.al.|[2311.09166](http://arxiv.org/abs/2311.09166)|null|
@@ -256,6 +259,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Detecting genuine multipartite entanglement via machine learning**|Yi-Jun Luo et.al.|[2311.17548](http://arxiv.org/abs/2311.17548)|null|
 |**2023-11-28**|**Quantum steering for two-mode states with Continuous-variable in laser channel**|Kaimin Zheng et.al.|[2311.16658](http://arxiv.org/abs/2311.16658)|null|
 |**2023-11-18**|**Demonstration of Maxwell Demon-assistant Einstein-Podolsky-Rosen Steering via Superconducting Quantum Processor**|Z. T. Wang et.al.|[2311.10955](http://arxiv.org/abs/2311.10955)|null|
 |**2023-11-17**|**Analysis of Quantum Steering Measures**|L. Maquedano et.al.|[2311.10552](http://arxiv.org/abs/2311.10552)|null|
@@ -523,6 +527,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Q-PAC: Automated Detection of Quantum Bug-Fix Patterns**|Pranav K. Nayak et.al.|[2311.17705](http://arxiv.org/abs/2311.17705)|null|
+|**2023-11-29**|**Bases for optimising stabiliser decompositions of quantum states**|Nadish de Silva et.al.|[2311.17384](http://arxiv.org/abs/2311.17384)|null|
 |**2023-11-28**|**Matching Generalized-Bicycle Codes to Neutral Atoms for Low-Overhead Fault-Tolerance**|Joshua Viszlai et.al.|[2311.16980](http://arxiv.org/abs/2311.16980)|null|
 |**2023-11-27**|**Zero Error Correctibility and Phase Retrievability for Twirling Channels**|Kai Liu et.al.|[2311.16349](http://arxiv.org/abs/2311.16349)|null|
 |**2023-11-27**|**DGR: Tackling Drifted and Correlated Noise in Quantum Error Correction via Decoding Graph Re-weighting**|Hanrui Wang et.al.|[2311.16214](http://arxiv.org/abs/2311.16214)|null|

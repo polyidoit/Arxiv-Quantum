@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**Karush-Kuhn-Tucker conditions for non-commutative optimization problems**|Mateus Araújo et.al.|[2311.18707](http://arxiv.org/abs/2311.18707)|null|
 |**2023-11-29**|**When Mei-Gu Guan's 1960 Postmen Get Empowered with Bell's 1964 Nonlocal Correlations, or, Nonlocal Advantage in Vehicle Routing Problem**|Abhishek Banerjee et.al.|[2311.17772](http://arxiv.org/abs/2311.17772)|null|
 |**2023-11-29**|**Probing entanglement and testing Bell inequality violation with $\textrm{e}^{+}\textrm{e}^{-} \rightarrow τ^{+}τ^{-}$ at Belle II**|Karl Ehatäht et.al.|[2311.17555](http://arxiv.org/abs/2311.17555)|null|
 |**2023-11-26**|**Quantum entanglement: proposal for a new kind of experiment**|Marco Pettini et.al.|[2311.17070](http://arxiv.org/abs/2311.17070)|null|
@@ -292,6 +293,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
+|**2023-11-30**|**Squashed quantum non-Markovianity: a measure of genuine quantum non-Markovianity in states**|Rajeev Gangwar et.al.|[2311.18323](http://arxiv.org/abs/2311.18323)|null|
 |**2023-11-28**|**Tight bounds for antidistinguishability and circulant sets of pure quantum states**|Nathaniel Johnston et.al.|[2311.17047](http://arxiv.org/abs/2311.17047)|null|
 |**2023-11-23**|**Quantum network-entanglement measures**|Zhen-Peng Xu et.al.|[2311.13945](http://arxiv.org/abs/2311.13945)|null|
 |**2023-11-20**|**Local Purity Distillation in Quantum Systems: Exploring the Complementarity Between Purity and Entanglement**|Ray Ganardi et.al.|[2311.11820](http://arxiv.org/abs/2311.11820)|null|
@@ -367,6 +370,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**A relation between Krylov and Nielsen complexity**|Ben Craps et.al.|[2311.18401](http://arxiv.org/abs/2311.18401)|null|
+|**2023-11-29**|**Out-of-time-ordered correlators in the IP matrix model**|Norihiro Iizuka et.al.|[2311.18137](http://arxiv.org/abs/2311.18137)|null|
+|**2023-11-29**|**A model of quantum gravity on a noisy quantum computer**|Muhammad Asaduzzaman et.al.|[2311.17991](http://arxiv.org/abs/2311.17991)|null|
 |**2023-11-27**|**Diagnosing non-Hermitian Many-Body Localization and Quantum Chaos via Singular Value Decomposition**|Federico Roccati et.al.|[2311.16229](http://arxiv.org/abs/2311.16229)|null|
 |**2023-11-27**|**Effect of Quantum Information Scrambling on Bound Entangled States**|Suprabhat Sinha et.al.|[2311.16209](http://arxiv.org/abs/2311.16209)|null|
 |**2023-11-27**|**Towards a classification of PT-symmetric quantum systems: from dissipative dynamics to topology and wormholes**|Antonio M. García-García et.al.|[2311.15677](http://arxiv.org/abs/2311.15677)|null|
@@ -506,6 +512,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Compilation for Surface Code Quantum Computers**|Abtin Molavi et.al.|[2311.18042](http://arxiv.org/abs/2311.18042)|null|
+|**2023-11-29**|**Subsystem CSS codes, a tighter stabilizer-to-CSS mapping, and Goursat's Lemma**|Michael Liaofan Liu et.al.|[2311.18003](http://arxiv.org/abs/2311.18003)|null|
+|**2023-11-29**|**Fault-Tolerant Quantum Memory using Low-Depth Random Circuit Codes**|Jon Nelson et.al.|[2311.17985](http://arxiv.org/abs/2311.17985)|null|
 |**2023-11-29**|**Q-PAC: Automated Detection of Quantum Bug-Fix Patterns**|Pranav K. Nayak et.al.|[2311.17705](http://arxiv.org/abs/2311.17705)|null|
 |**2023-11-29**|**Bases for optimising stabiliser decompositions of quantum states**|Nadish de Silva et.al.|[2311.17384](http://arxiv.org/abs/2311.17384)|null|
 |**2023-11-28**|**Matching Generalized-Bicycle Codes to Neutral Atoms for Low-Overhead Fault-Tolerance**|Joshua Viszlai et.al.|[2311.16980](http://arxiv.org/abs/2311.16980)|null|

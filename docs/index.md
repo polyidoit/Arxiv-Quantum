@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.01
+## Updated on 2023.12.02
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -295,7 +295,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
 |**2023-11-30**|**Squashed quantum non-Markovianity: a measure of genuine quantum non-Markovianity in states**|Rajeev Gangwar et.al.|[2311.18323](http://arxiv.org/abs/2311.18323)|null|
-|**2023-11-28**|**Tight bounds for antidistinguishability and circulant sets of pure quantum states**|Nathaniel Johnston et.al.|[2311.17047](http://arxiv.org/abs/2311.17047)|null|
+|**2023-11-28**|**Tight bounds for antidistinguishability and circulant sets of pure quantum states**|Nathaniel Johnston et.al.|[2311.17047](http://arxiv.org/abs/2311.17047)|**[link](https://github.com/vprusso/circulant_antidist)**|
 |**2023-11-23**|**Quantum network-entanglement measures**|Zhen-Peng Xu et.al.|[2311.13945](http://arxiv.org/abs/2311.13945)|null|
 |**2023-11-20**|**Local Purity Distillation in Quantum Systems: Exploring the Complementarity Between Purity and Entanglement**|Ray Ganardi et.al.|[2311.11820](http://arxiv.org/abs/2311.11820)|null|
 |**2023-11-13**|**Robustness measures for quantifying nonlocality**|Kyunghyun Baek et.al.|[2311.07077](http://arxiv.org/abs/2311.07077)|null|

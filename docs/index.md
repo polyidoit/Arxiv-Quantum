@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.02
+## Updated on 2023.12.03
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -515,7 +515,7 @@ layout: default
 |**2023-11-29**|**Compilation for Surface Code Quantum Computers**|Abtin Molavi et.al.|[2311.18042](http://arxiv.org/abs/2311.18042)|null|
 |**2023-11-29**|**Subsystem CSS codes, a tighter stabilizer-to-CSS mapping, and Goursat's Lemma**|Michael Liaofan Liu et.al.|[2311.18003](http://arxiv.org/abs/2311.18003)|null|
 |**2023-11-29**|**Fault-Tolerant Quantum Memory using Low-Depth Random Circuit Codes**|Jon Nelson et.al.|[2311.17985](http://arxiv.org/abs/2311.17985)|null|
-|**2023-11-29**|**Q-PAC: Automated Detection of Quantum Bug-Fix Patterns**|Pranav K. Nayak et.al.|[2311.17705](http://arxiv.org/abs/2311.17705)|null|
+|**2023-11-29**|**Q-PAC: Automated Detection of Quantum Bug-Fix Patterns**|Pranav K. Nayak et.al.|[2311.17705](http://arxiv.org/abs/2311.17705)|**[link](https://github.com/pranavknayak/Q-PAC)**|
 |**2023-11-29**|**Bases for optimising stabiliser decompositions of quantum states**|Nadish de Silva et.al.|[2311.17384](http://arxiv.org/abs/2311.17384)|null|
 |**2023-11-28**|**Matching Generalized-Bicycle Codes to Neutral Atoms for Low-Overhead Fault-Tolerance**|Joshua Viszlai et.al.|[2311.16980](http://arxiv.org/abs/2311.16980)|null|
 |**2023-11-27**|**Zero Error Correctibility and Phase Retrievability for Twirling Channels**|Kai Liu et.al.|[2311.16349](http://arxiv.org/abs/2311.16349)|null|

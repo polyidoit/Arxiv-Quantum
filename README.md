@@ -389,6 +389,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Robustness of Quantum Chaos and Anomalous Relaxation in Open Quantum Circuits**|Takato Yoshimura et.al.|[2312.00649](http://arxiv.org/abs/2312.00649)|null|
 |**2023-11-30**|**A relation between Krylov and Nielsen complexity**|Ben Craps et.al.|[2311.18401](http://arxiv.org/abs/2311.18401)|null|
 |**2023-11-29**|**Out-of-time-ordered correlators in the IP matrix model**|Norihiro Iizuka et.al.|[2311.18137](http://arxiv.org/abs/2311.18137)|null|
 |**2023-11-29**|**A model of quantum gravity on a noisy quantum computer**|Muhammad Asaduzzaman et.al.|[2311.17991](http://arxiv.org/abs/2311.17991)|null|
@@ -533,6 +534,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Qubits, entangled states, and quantum gates realized on a set of classical pendulums**|Alexey V. Nenashev et.al.|[2312.00631](http://arxiv.org/abs/2312.00631)|null|
 |**2023-11-29**|**Compilation for Surface Code Quantum Computers**|Abtin Molavi et.al.|[2311.18042](http://arxiv.org/abs/2311.18042)|null|
 |**2023-11-29**|**Subsystem CSS codes, a tighter stabilizer-to-CSS mapping, and Goursat's Lemma**|Michael Liaofan Liu et.al.|[2311.18003](http://arxiv.org/abs/2311.18003)|null|
 |**2023-11-29**|**Fault-Tolerant Quantum Memory using Low-Depth Random Circuit Codes**|Jon Nelson et.al.|[2311.17985](http://arxiv.org/abs/2311.17985)|null|

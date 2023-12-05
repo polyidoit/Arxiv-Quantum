@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Whence Nonlocality? Removing spooky action at a distance from the de Broglie Bohm pilot-wave theory using a time-symmetric version of de Broglie double solution**|Aurélien Drezet et.al.|[2312.01992](http://arxiv.org/abs/2312.01992)|null|
 |**2023-11-30**|**Karush-Kuhn-Tucker conditions for non-commutative optimization problems**|Mateus Araújo et.al.|[2311.18707](http://arxiv.org/abs/2311.18707)|null|
 |**2023-11-29**|**When Mei-Gu Guan's 1960 Postmen Get Empowered with Bell's 1964 Nonlocal Correlations, or, Nonlocal Advantage in Vehicle Routing Problem**|Abhishek Banerjee et.al.|[2311.17772](http://arxiv.org/abs/2311.17772)|null|
 |**2023-11-29**|**Probing entanglement and testing Bell inequality violation with $\textrm{e}^{+}\textrm{e}^{-} \rightarrow τ^{+}τ^{-}$ at Belle II**|Karl Ehatäht et.al.|[2311.17555](http://arxiv.org/abs/2311.17555)|null|
@@ -136,6 +137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-03**|**Using non-convex optimization in quantum process tomography: Factored gradient descent is tough to beat**|David A. Quiroga et.al.|[2312.01311](http://arxiv.org/abs/2312.01311)|null|
 |**2023-11-18**|**Extreme quantum states and processes, and extreme points of general spectrahedra in finite dimensional algebras**|Giulio Chiribella et.al.|[2311.10929](http://arxiv.org/abs/2311.10929)|null|
 |**2023-11-15**|**Identification of Causal Influences in Quantum Processes**|Isaac Friend et.al.|[2311.08882](http://arxiv.org/abs/2311.08882)|null|
 |**2023-11-13**|**Inferring the arrow of time in quantum spatiotemporal correlations**|Xiangjing Liu et.al.|[2311.07086](http://arxiv.org/abs/2311.07086)|null|
@@ -192,6 +194,7 @@ layout: default
 |**2023-11-06**|**Experimental certification of contextuality, coherence and dimension in a programmable universal photonic processor**|Taira Giordani et.al.|[2311.03266](http://arxiv.org/abs/2311.03266)|null|
 |**2023-11-05**|**SO(3)-Irreducible Geometry in Complex Dimension Five and Ternary Generalization of Pauli Exclusion Principle**|Viktor Abramov et.al.|[2311.02606](http://arxiv.org/abs/2311.02606)|null|
 |**2023-11-03**|**Influence of a static electric field on a one-dimensional Bose-Fermi mixture confined in a double potential welll**|Avella Richard et.al.|[2311.02218](http://arxiv.org/abs/2311.02218)|null|
+|**2023-12-03**|**A direct proof for the positive definiteness of four point metric spaces**|Kiyonori Gomi et.al.|[2310.20690](http://arxiv.org/abs/2310.20690)|null|
 |**2023-10-27**|**Equivariant simplicial distributions and quantum contextuality**|Cihan Okay et.al.|[2310.18135](http://arxiv.org/abs/2310.18135)|null|
 |**2023-10-25**|**Green's function and LDOS for non-relativistic electron pair**|Tomasz M. Rusin et.al.|[2310.16366](http://arxiv.org/abs/2310.16366)|null|
 |**2023-11-13**|**Multiparticle states in braided lightlike $κ$ -Minkowski noncommutative QFT**|Giuseppe Fabiano et.al.|[2310.15063](http://arxiv.org/abs/2310.15063)|null|
@@ -245,6 +248,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-02**|**Coherence Distillation Unveils Einstein-Podolsky-Rosen Steering**|Kuan-Yi Lee et.al.|[2312.01055](http://arxiv.org/abs/2312.01055)|null|
 |**2023-11-29**|**Detecting genuine multipartite entanglement via machine learning**|Yi-Jun Luo et.al.|[2311.17548](http://arxiv.org/abs/2311.17548)|null|
 |**2023-11-28**|**Quantum steering for two-mode states with Continuous-variable in laser channel**|Kaimin Zheng et.al.|[2311.16658](http://arxiv.org/abs/2311.16658)|null|
 |**2023-11-18**|**Demonstration of Maxwell Demon-assistant Einstein-Podolsky-Rosen Steering via Superconducting Quantum Processor**|Z. T. Wang et.al.|[2311.10955](http://arxiv.org/abs/2311.10955)|null|
@@ -370,6 +374,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Out-of-time-ordered correlators of mean-field bosons via Bogoliubov theory**|Marius Lemm et.al.|[2312.01736](http://arxiv.org/abs/2312.01736)|null|
+|**2023-12-03**|**Directing entanglement spreading by means of a quantum East/West heterojunction structure**|Guanhua Chen et.al.|[2312.01257](http://arxiv.org/abs/2312.01257)|null|
 |**2023-12-01**|**Robustness of Quantum Chaos and Anomalous Relaxation in Open Quantum Circuits**|Takato Yoshimura et.al.|[2312.00649](http://arxiv.org/abs/2312.00649)|null|
 |**2023-11-30**|**A relation between Krylov and Nielsen complexity**|Ben Craps et.al.|[2311.18401](http://arxiv.org/abs/2311.18401)|null|
 |**2023-11-29**|**Out-of-time-ordered correlators in the IP matrix model**|Norihiro Iizuka et.al.|[2311.18137](http://arxiv.org/abs/2311.18137)|null|
@@ -513,6 +519,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-03**|**Error Correlations in Photonic Qudit-Mediated Entanglement Generation**|Xiaoyu Liu et.al.|[2312.01519](http://arxiv.org/abs/2312.01519)|null|
+|**2023-12-02**|**Co-Designed Superconducting Architecture for Lattice Surgery of Surface Codes with Quantum Interface Routing Card**|Charles Guinn et.al.|[2312.01246](http://arxiv.org/abs/2312.01246)|null|
+|**2023-12-01**|**From Spin States to Socially Integrated Ising Models: Proposed Applications of Graph States, Stabilizer States, Toric States to Opinion Dynamics**|Yasuko Kawahata et.al.|[2312.00862](http://arxiv.org/abs/2312.00862)|null|
 |**2023-12-01**|**Qubits, entangled states, and quantum gates realized on a set of classical pendulums**|Alexey V. Nenashev et.al.|[2312.00631](http://arxiv.org/abs/2312.00631)|null|
 |**2023-11-29**|**Compilation for Surface Code Quantum Computers**|Abtin Molavi et.al.|[2311.18042](http://arxiv.org/abs/2311.18042)|null|
 |**2023-11-29**|**Subsystem CSS codes, a tighter stabilizer-to-CSS mapping, and Goursat's Lemma**|Michael Liaofan Liu et.al.|[2311.18003](http://arxiv.org/abs/2311.18003)|null|

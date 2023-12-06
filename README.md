@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Lower-bounding entanglement with nonlocality in a general Bell's scenario**|Liang-Liang Sun et.al.|[2312.02588](http://arxiv.org/abs/2312.02588)|null|
 |**2023-12-04**|**Whence Nonlocality? Removing spooky action at a distance from the de Broglie Bohm pilot-wave theory using a time-symmetric version of de Broglie double solution**|Aurélien Drezet et.al.|[2312.01992](http://arxiv.org/abs/2312.01992)|null|
 |**2023-11-30**|**Karush-Kuhn-Tucker conditions for non-commutative optimization problems**|Mateus Araújo et.al.|[2311.18707](http://arxiv.org/abs/2311.18707)|null|
 |**2023-11-29**|**When Mei-Gu Guan's 1960 Postmen Get Empowered with Bell's 1964 Nonlocal Correlations, or, Nonlocal Advantage in Vehicle Routing Problem**|Abhishek Banerjee et.al.|[2311.17772](http://arxiv.org/abs/2311.17772)|null|
@@ -393,6 +394,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Quantum information spreading in generalised dual-unitary circuits**|Alessandro Foligno et.al.|[2312.02940](http://arxiv.org/abs/2312.02940)|null|
+|**2023-12-05**|**Locally purified density operators for noisy quantum circuits**|Yuchen Guo et.al.|[2312.02854](http://arxiv.org/abs/2312.02854)|null|
 |**2023-12-04**|**Out-of-time-ordered correlators of mean-field bosons via Bogoliubov theory**|Marius Lemm et.al.|[2312.01736](http://arxiv.org/abs/2312.01736)|null|
 |**2023-12-03**|**Directing entanglement spreading by means of a quantum East/West heterojunction structure**|Guanhua Chen et.al.|[2312.01257](http://arxiv.org/abs/2312.01257)|null|
 |**2023-12-01**|**Robustness of Quantum Chaos and Anomalous Relaxation in Open Quantum Circuits**|Takato Yoshimura et.al.|[2312.00649](http://arxiv.org/abs/2312.00649)|null|
@@ -540,6 +543,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Qubit-environment entanglement in time-dependent pure dephasing**|Małgorzata Strzałka et.al.|[2312.02670](http://arxiv.org/abs/2312.02670)|null|
+|**2023-12-05**|**Recovery of damaged information via scrambling in indefinite casual order**|Tian-Ren Jin et.al.|[2312.02602](http://arxiv.org/abs/2312.02602)|null|
 |**2023-12-03**|**Error Correlations in Photonic Qudit-Mediated Entanglement Generation**|Xiaoyu Liu et.al.|[2312.01519](http://arxiv.org/abs/2312.01519)|null|
 |**2023-12-02**|**Co-Designed Superconducting Architecture for Lattice Surgery of Surface Codes with Quantum Interface Routing Card**|Charles Guinn et.al.|[2312.01246](http://arxiv.org/abs/2312.01246)|null|
 |**2023-12-01**|**From Spin States to Socially Integrated Ising Models: Proposed Applications of Graph States, Stabilizer States, Toric States to Opinion Dynamics**|Yasuko Kawahata et.al.|[2312.00862](http://arxiv.org/abs/2312.00862)|null|

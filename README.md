@@ -204,6 +204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**$n$-body anti-bunching in a degenerate Fermi gas of $^3$ He* atoms**|Kieran F. Thomas et.al.|[2312.03189](http://arxiv.org/abs/2312.03189)|null|
 |**2023-11-13**|**IASCAR: Incremental Answer Set Counting by Anytime Refinement**|Johannes K. Fichte et.al.|[2311.07233](http://arxiv.org/abs/2311.07233)|null|
 |**2023-11-06**|**Experimental certification of contextuality, coherence and dimension in a programmable universal photonic processor**|Taira Giordani et.al.|[2311.03266](http://arxiv.org/abs/2311.03266)|null|
 |**2023-11-05**|**SO(3)-Irreducible Geometry in Complex Dimension Five and Ternary Generalization of Pauli Exclusion Principle**|Viktor Abramov et.al.|[2311.02606](http://arxiv.org/abs/2311.02606)|null|
@@ -543,6 +544,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Convolutional neural network based decoders for surface codes**|Simone Bordoni et.al.|[2312.03508](http://arxiv.org/abs/2312.03508)|null|
 |**2023-12-05**|**Qubit-environment entanglement in time-dependent pure dephasing**|Małgorzata Strzałka et.al.|[2312.02670](http://arxiv.org/abs/2312.02670)|null|
 |**2023-12-05**|**Recovery of damaged information via scrambling in indefinite casual order**|Tian-Ren Jin et.al.|[2312.02602](http://arxiv.org/abs/2312.02602)|null|
 |**2023-12-03**|**Error Correlations in Photonic Qudit-Mediated Entanglement Generation**|Xiaoyu Liu et.al.|[2312.01519](http://arxiv.org/abs/2312.01519)|null|

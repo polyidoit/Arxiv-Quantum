@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**A universal scheme to self-test any quantum state and measurement**|Shubhayan Sarkar et.al.|[2312.04405](http://arxiv.org/abs/2312.04405)|null|
+|**2023-12-07**|**Unmasking the Polygamous Nature of Quantum Nonlocality**|Paweł Cieśliński et.al.|[2312.04373](http://arxiv.org/abs/2312.04373)|null|
 |**2023-12-05**|**Lower-bounding entanglement with nonlocality in a general Bell's scenario**|Liang-Liang Sun et.al.|[2312.02588](http://arxiv.org/abs/2312.02588)|null|
 |**2023-12-04**|**Whence Nonlocality? Removing spooky action at a distance from the de Broglie Bohm pilot-wave theory using a time-symmetric version of de Broglie double solution**|Aurélien Drezet et.al.|[2312.01992](http://arxiv.org/abs/2312.01992)|null|
 |**2023-11-30**|**Karush-Kuhn-Tucker conditions for non-commutative optimization problems**|Mateus Araújo et.al.|[2311.18707](http://arxiv.org/abs/2311.18707)|null|
@@ -316,6 +318,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Relativistic quantum Otto engine: Instant work extraction from a quantum field**|Kensuke Gallock-Yoshimura et.al.|[2312.04485](http://arxiv.org/abs/2312.04485)|null|
 |**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
 |**2023-11-30**|**Squashed quantum non-Markovianity: a measure of genuine quantum non-Markovianity in states**|Rajeev Gangwar et.al.|[2311.18323](http://arxiv.org/abs/2311.18323)|null|
 |**2023-11-28**|**Tight bounds for antidistinguishability and circulant sets of pure quantum states**|Nathaniel Johnston et.al.|[2311.17047](http://arxiv.org/abs/2311.17047)|**[link](https://github.com/vprusso/circulant_antidist)**|
@@ -395,6 +398,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Counting collisions in random circuit sampling for benchmarking quantum computers**|Andrea Mari et.al.|[2312.04222](http://arxiv.org/abs/2312.04222)|null|
+|**2023-12-06**|**Quantum chaos, integrability, and late times in the Krylov basis**|Vijay Balasubramanian et.al.|[2312.03848](http://arxiv.org/abs/2312.03848)|null|
 |**2023-12-05**|**Quantum information spreading in generalised dual-unitary circuits**|Alessandro Foligno et.al.|[2312.02940](http://arxiv.org/abs/2312.02940)|null|
 |**2023-12-05**|**Locally purified density operators for noisy quantum circuits**|Yuchen Guo et.al.|[2312.02854](http://arxiv.org/abs/2312.02854)|null|
 |**2023-12-04**|**Out-of-time-ordered correlators of mean-field bosons via Bogoliubov theory**|Marius Lemm et.al.|[2312.01736](http://arxiv.org/abs/2312.01736)|null|
@@ -544,6 +549,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Yoked surface codes**|Craig Gidney et.al.|[2312.04522](http://arxiv.org/abs/2312.04522)|null|
+|**2023-12-07**|**Geometric phases in generalized radical Floquet dynamics**|Brenden Roberts et.al.|[2312.04500](http://arxiv.org/abs/2312.04500)|null|
+|**2023-12-07**|**New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions**|Dengcheng Xie et.al.|[2312.04261](http://arxiv.org/abs/2312.04261)|null|
+|**2023-12-07**|**Superconducting processor design optimization for quantum error correction performance**|Xiaotong Ni et.al.|[2312.04186](http://arxiv.org/abs/2312.04186)|null|
+|**2023-12-07**|**Logical quantum processor based on reconfigurable atom arrays**|Dolev Bluvstein et.al.|[2312.03982](http://arxiv.org/abs/2312.03982)|null|
+|**2023-12-06**|**Hayden-Preskill recovery in chaotic and integrable unitary circuit dynamics**|Michael A. Rampp et.al.|[2312.03838](http://arxiv.org/abs/2312.03838)|null|
 |**2023-12-06**|**Convolutional neural network based decoders for surface codes**|Simone Bordoni et.al.|[2312.03508](http://arxiv.org/abs/2312.03508)|null|
 |**2023-12-05**|**Qubit-environment entanglement in time-dependent pure dephasing**|Małgorzata Strzałka et.al.|[2312.02670](http://arxiv.org/abs/2312.02670)|null|
 |**2023-12-05**|**Recovery of damaged information via scrambling in indefinite casual order**|Tian-Ren Jin et.al.|[2312.02602](http://arxiv.org/abs/2312.02602)|null|

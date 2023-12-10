@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -379,7 +379,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-07**|**Counting collisions in random circuit sampling for benchmarking quantum computers**|Andrea Mari et.al.|[2312.04222](http://arxiv.org/abs/2312.04222)|null|
+|**2023-12-07**|**Counting collisions in random circuit sampling for benchmarking quantum computers**|Andrea Mari et.al.|[2312.04222](http://arxiv.org/abs/2312.04222)|**[link](https://github.com/unitaryfund/research)**|
 |**2023-12-06**|**Quantum chaos, integrability, and late times in the Krylov basis**|Vijay Balasubramanian et.al.|[2312.03848](http://arxiv.org/abs/2312.03848)|null|
 |**2023-12-05**|**Quantum information spreading in generalised dual-unitary circuits**|Alessandro Foligno et.al.|[2312.02940](http://arxiv.org/abs/2312.02940)|null|
 |**2023-12-05**|**Locally purified density operators for noisy quantum circuits**|Yuchen Guo et.al.|[2312.02854](http://arxiv.org/abs/2312.02854)|null|

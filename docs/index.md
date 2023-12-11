@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Bell test of quantum entanglement in attosecond photoionization**|Marco Ruberti et.al.|[2312.05036](http://arxiv.org/abs/2312.05036)|null|
+|**2023-12-08**|**Gaussian quantum steering in a nondegenerate three-level laser**|Benachir Boukhris et.al.|[2312.04942](http://arxiv.org/abs/2312.04942)|null|
+|**2023-12-08**|**Distributing long-distance trust in optomechanics**|Jamal El Qars et.al.|[2312.04935](http://arxiv.org/abs/2312.04935)|null|
 |**2023-12-07**|**A universal scheme to self-test any quantum state and measurement**|Shubhayan Sarkar et.al.|[2312.04405](http://arxiv.org/abs/2312.04405)|null|
 |**2023-12-07**|**Unmasking the Polygamous Nature of Quantum Nonlocality**|Paweł Cieśliński et.al.|[2312.04373](http://arxiv.org/abs/2312.04373)|null|
 |**2023-12-05**|**Lower-bounding entanglement with nonlocality in a general Bell's scenario**|Liang-Liang Sun et.al.|[2312.02588](http://arxiv.org/abs/2312.02588)|null|
@@ -252,6 +255,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Gaussian quantum steering in a nondegenerate three-level laser**|Benachir Boukhris et.al.|[2312.04942](http://arxiv.org/abs/2312.04942)|null|
+|**2023-12-08**|**Distributing long-distance trust in optomechanics**|Jamal El Qars et.al.|[2312.04935](http://arxiv.org/abs/2312.04935)|null|
 |**2023-12-02**|**Coherence Distillation Unveils Einstein-Podolsky-Rosen Steering**|Kuan-Yi Lee et.al.|[2312.01055](http://arxiv.org/abs/2312.01055)|null|
 |**2023-11-29**|**Detecting genuine multipartite entanglement via machine learning**|Yi-Jun Luo et.al.|[2311.17548](http://arxiv.org/abs/2311.17548)|null|
 |**2023-11-28**|**Quantum steering for two-mode states with Continuous-variable in laser channel**|Kaimin Zheng et.al.|[2311.16658](http://arxiv.org/abs/2311.16658)|null|
@@ -528,6 +533,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Fast and robust cat state preparation utilizing higher order nonlinearities**|S. Zhao et.al.|[2312.05218](http://arxiv.org/abs/2312.05218)|null|
+|**2023-12-08**|**Efficient State Preparation for Metrology and Quantum Error Correction with Global Control**|Liam J. Bond et.al.|[2312.05060](http://arxiv.org/abs/2312.05060)|null|
 |**2023-12-07**|**Yoked surface codes**|Craig Gidney et.al.|[2312.04522](http://arxiv.org/abs/2312.04522)|null|
 |**2023-12-07**|**Geometric phases in generalized radical Floquet dynamics**|Brenden Roberts et.al.|[2312.04500](http://arxiv.org/abs/2312.04500)|null|
 |**2023-12-07**|**New ternary self-orthogonal codes and related LCD codes from weakly regular plateaued functions**|Dengcheng Xie et.al.|[2312.04261](http://arxiv.org/abs/2312.04261)|null|

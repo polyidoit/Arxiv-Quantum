@@ -196,6 +196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-10**|**On the relativistic quantum mechanics of a photon between two electrons in 1+1 dimensions**|Lawrence Frolov et.al.|[2312.06019](http://arxiv.org/abs/2312.06019)|null|
 |**2023-12-05**|**$n$-body anti-bunching in a degenerate Fermi gas of $^3$ He* atoms**|Kieran F. Thomas et.al.|[2312.03189](http://arxiv.org/abs/2312.03189)|null|
 |**2023-11-13**|**IASCAR: Incremental Answer Set Counting by Anytime Refinement**|Johannes K. Fichte et.al.|[2311.07233](http://arxiv.org/abs/2311.07233)|null|
 |**2023-11-06**|**Experimental certification of contextuality, coherence and dimension in a programmable universal photonic processor**|Taira Giordani et.al.|[2311.03266](http://arxiv.org/abs/2311.03266)|null|
@@ -255,6 +256,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-10**|**Detection of Network and Genuine Network Quantum Steering**|Zhihua Chen et.al.|[2312.05769](http://arxiv.org/abs/2312.05769)|null|
 |**2023-12-08**|**Gaussian quantum steering in a nondegenerate three-level laser**|Benachir Boukhris et.al.|[2312.04942](http://arxiv.org/abs/2312.04942)|null|
 |**2023-12-08**|**Distributing long-distance trust in optomechanics**|Jamal El Qars et.al.|[2312.04935](http://arxiv.org/abs/2312.04935)|null|
 |**2023-12-02**|**Coherence Distillation Unveils Einstein-Podolsky-Rosen Steering**|Kuan-Yi Lee et.al.|[2312.01055](http://arxiv.org/abs/2312.01055)|null|
@@ -306,6 +308,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
 |**2023-12-07**|**Relativistic quantum Otto engine: Instant work extraction from a quantum field**|Kensuke Gallock-Yoshimura et.al.|[2312.04485](http://arxiv.org/abs/2312.04485)|null|
 |**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
 |**2023-11-30**|**Squashed quantum non-Markovianity: a measure of genuine quantum non-Markovianity in states**|Rajeev Gangwar et.al.|[2311.18323](http://arxiv.org/abs/2311.18323)|null|
@@ -533,6 +536,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Accurate optimal quantum error correction thresholds from coherent information**|Luis Colmenarez et.al.|[2312.06664](http://arxiv.org/abs/2312.06664)|null|
+|**2023-12-11**|**Infinite class of quantum codes derived from duadic constacyclic codes**|Reza Dastbasteh et.al.|[2312.06504](http://arxiv.org/abs/2312.06504)|null|
 |**2023-12-08**|**Fast and robust cat state preparation utilizing higher order nonlinearities**|S. Zhao et.al.|[2312.05218](http://arxiv.org/abs/2312.05218)|null|
 |**2023-12-08**|**Efficient State Preparation for Metrology and Quantum Error Correction with Global Control**|Liam J. Bond et.al.|[2312.05060](http://arxiv.org/abs/2312.05060)|null|
 |**2023-12-07**|**Yoked surface codes**|Craig Gidney et.al.|[2312.04522](http://arxiv.org/abs/2312.04522)|null|

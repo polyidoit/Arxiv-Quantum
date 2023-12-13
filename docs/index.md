@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**No Violation of Bell-CHSH Inequalities at Large Distances**|Timofei Rusalev et.al.|[2312.07499](http://arxiv.org/abs/2312.07499)|null|
+|**2023-12-12**|**Bell meets Cavendish: a quantum signature of gravity?**|Bin Yan et.al.|[2312.07458](http://arxiv.org/abs/2312.07458)|null|
 |**2023-12-08**|**Bell test of quantum entanglement in attosecond photoionization**|Marco Ruberti et.al.|[2312.05036](http://arxiv.org/abs/2312.05036)|null|
 |**2023-12-08**|**Gaussian quantum steering in a nondegenerate three-level laser**|Benachir Boukhris et.al.|[2312.04942](http://arxiv.org/abs/2312.04942)|null|
 |**2023-12-08**|**Distributing long-distance trust in optomechanics**|Jamal El Qars et.al.|[2312.04935](http://arxiv.org/abs/2312.04935)|null|
@@ -256,6 +258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Visually quantifying single-qubit quantum memory**|Wan-Guan Chang et.al.|[2312.06939](http://arxiv.org/abs/2312.06939)|null|
 |**2023-12-10**|**Detection of Network and Genuine Network Quantum Steering**|Zhihua Chen et.al.|[2312.05769](http://arxiv.org/abs/2312.05769)|null|
 |**2023-12-08**|**Gaussian quantum steering in a nondegenerate three-level laser**|Benachir Boukhris et.al.|[2312.04942](http://arxiv.org/abs/2312.04942)|null|
 |**2023-12-08**|**Distributing long-distance trust in optomechanics**|Jamal El Qars et.al.|[2312.04935](http://arxiv.org/abs/2312.04935)|null|
@@ -309,7 +312,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-11**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
-|**2023-12-07**|**Relativistic quantum Otto engine: Instant work extraction from a quantum field**|Kensuke Gallock-Yoshimura et.al.|[2312.04485](http://arxiv.org/abs/2312.04485)|null|
+|**2023-12-12**|**Relativistic quantum Otto engine: Instant work extraction from a quantum field**|Kensuke Gallock-Yoshimura et.al.|[2312.04485](http://arxiv.org/abs/2312.04485)|null|
 |**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
 |**2023-11-30**|**Squashed quantum non-Markovianity: a measure of genuine quantum non-Markovianity in states**|Rajeev Gangwar et.al.|[2311.18323](http://arxiv.org/abs/2311.18323)|null|
 |**2023-11-28**|**Tight bounds for antidistinguishability and circulant sets of pure quantum states**|Nathaniel Johnston et.al.|[2311.17047](http://arxiv.org/abs/2311.17047)|**[link](https://github.com/vprusso/circulant_antidist)**|
@@ -387,6 +390,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**A random matrix model towards the quantum chaos transition conjecture**|Bertrand Stone et.al.|[2312.07297](http://arxiv.org/abs/2312.07297)|null|
 |**2023-12-07**|**Counting collisions in random circuit sampling for benchmarking quantum computers**|Andrea Mari et.al.|[2312.04222](http://arxiv.org/abs/2312.04222)|**[link](https://github.com/unitaryfund/research)**|
 |**2023-12-06**|**Quantum chaos, integrability, and late times in the Krylov basis**|Vijay Balasubramanian et.al.|[2312.03848](http://arxiv.org/abs/2312.03848)|null|
 |**2023-12-05**|**Quantum information spreading in generalised dual-unitary circuits**|Alessandro Foligno et.al.|[2312.02940](http://arxiv.org/abs/2312.02940)|null|
@@ -536,6 +540,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Boosting the Gottesman-Kitaev-Preskill quantum error correction with non-Markovian feedback**|Matteo Puviani et.al.|[2312.07391](http://arxiv.org/abs/2312.07391)|null|
 |**2023-12-11**|**Accurate optimal quantum error correction thresholds from coherent information**|Luis Colmenarez et.al.|[2312.06664](http://arxiv.org/abs/2312.06664)|null|
 |**2023-12-11**|**Infinite class of quantum codes derived from duadic constacyclic codes**|Reza Dastbasteh et.al.|[2312.06504](http://arxiv.org/abs/2312.06504)|null|
 |**2023-12-08**|**Fast and robust cat state preparation utilizing higher order nonlinearities**|S. Zhao et.al.|[2312.05218](http://arxiv.org/abs/2312.05218)|null|

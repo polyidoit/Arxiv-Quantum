@@ -390,6 +390,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**Tensor Network Representation and Entanglement Spreading in Many-Body Localized Systems: A Novel Approach**|Z. Gholami et.al.|[2312.08170](http://arxiv.org/abs/2312.08170)|null|
+|**2023-12-13**|**Statistical and dynamical aspects of quantum chaos in a kicked Bose-Hubbard dimer**|Chenguang Liang et.al.|[2312.08159](http://arxiv.org/abs/2312.08159)|null|
 |**2023-12-12**|**A random matrix model towards the quantum chaos transition conjecture**|Bertrand Stone et.al.|[2312.07297](http://arxiv.org/abs/2312.07297)|null|
 |**2023-12-07**|**Counting collisions in random circuit sampling for benchmarking quantum computers**|Andrea Mari et.al.|[2312.04222](http://arxiv.org/abs/2312.04222)|**[link](https://github.com/unitaryfund/research)**|
 |**2023-12-06**|**Quantum chaos, integrability, and late times in the Krylov basis**|Vijay Balasubramanian et.al.|[2312.03848](http://arxiv.org/abs/2312.03848)|null|
@@ -540,6 +542,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**Concatenating quantum error correcting codes with decoherence-free subspaces, and vice versa**|Nihar Ranjan Dash et.al.|[2312.08322](http://arxiv.org/abs/2312.08322)|null|
+|**2023-12-12**|**Error Correcting States in Ultracold Atoms**|Harry C. P. Kendell et.al.|[2312.07746](http://arxiv.org/abs/2312.07746)|null|
 |**2023-12-12**|**Boosting the Gottesman-Kitaev-Preskill quantum error correction with non-Markovian feedback**|Matteo Puviani et.al.|[2312.07391](http://arxiv.org/abs/2312.07391)|null|
 |**2023-12-11**|**Accurate optimal quantum error correction thresholds from coherent information**|Luis Colmenarez et.al.|[2312.06664](http://arxiv.org/abs/2312.06664)|null|
 |**2023-12-11**|**Infinite class of quantum codes derived from duadic constacyclic codes**|Reza Dastbasteh et.al.|[2312.06504](http://arxiv.org/abs/2312.06504)|null|

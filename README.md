@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**All genuinely entangled stabilizer subspaces are multipartite fully nonlocal**|Owidiusz Makuta et.al.|[2312.08757](http://arxiv.org/abs/2312.08757)|null|
 |**2023-12-12**|**No Violation of Bell-CHSH Inequalities at Large Distances**|Timofei Rusalev et.al.|[2312.07499](http://arxiv.org/abs/2312.07499)|null|
 |**2023-12-12**|**Bell meets Cavendish: a quantum signature of gravity?**|Bin Yan et.al.|[2312.07458](http://arxiv.org/abs/2312.07458)|null|
 |**2023-12-08**|**Bell test of quantum entanglement in attosecond photoionization**|Marco Ruberti et.al.|[2312.05036](http://arxiv.org/abs/2312.05036)|null|
@@ -563,6 +564,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**New circuits and an open source decoder for the color code**|Craig Gidney et.al.|[2312.08813](http://arxiv.org/abs/2312.08813)|null|
 |**2023-12-13**|**Concatenating quantum error correcting codes with decoherence-free subspaces, and vice versa**|Nihar Ranjan Dash et.al.|[2312.08322](http://arxiv.org/abs/2312.08322)|null|
 |**2023-12-14**|**Error Correcting States in Ultracold Atoms**|Harry C. P. Kendell et.al.|[2312.07746](http://arxiv.org/abs/2312.07746)|null|
 |**2023-12-12**|**Boosting the Gottesman-Kitaev-Preskill quantum error correction with non-Markovian feedback**|Matteo Puviani et.al.|[2312.07391](http://arxiv.org/abs/2312.07391)|null|

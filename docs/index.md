@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.15
+## Updated on 2023.12.16
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -543,7 +543,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-13**|**Concatenating quantum error correcting codes with decoherence-free subspaces, and vice versa**|Nihar Ranjan Dash et.al.|[2312.08322](http://arxiv.org/abs/2312.08322)|null|
-|**2023-12-12**|**Error Correcting States in Ultracold Atoms**|Harry C. P. Kendell et.al.|[2312.07746](http://arxiv.org/abs/2312.07746)|null|
+|**2023-12-14**|**Error Correcting States in Ultracold Atoms**|Harry C. P. Kendell et.al.|[2312.07746](http://arxiv.org/abs/2312.07746)|null|
 |**2023-12-12**|**Boosting the Gottesman-Kitaev-Preskill quantum error correction with non-Markovian feedback**|Matteo Puviani et.al.|[2312.07391](http://arxiv.org/abs/2312.07391)|null|
 |**2023-12-11**|**Accurate optimal quantum error correction thresholds from coherent information**|Luis Colmenarez et.al.|[2312.06664](http://arxiv.org/abs/2312.06664)|null|
 |**2023-12-11**|**Infinite class of quantum codes derived from duadic constacyclic codes**|Reza Dastbasteh et.al.|[2312.06504](http://arxiv.org/abs/2312.06504)|null|

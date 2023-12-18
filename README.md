@@ -410,6 +410,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Robust Estimation of Nonlinear Properties of Quantum Processes**|Yuqing Wang et.al.|[2312.09643](http://arxiv.org/abs/2312.09643)|null|
 |**2023-12-13**|**Tensor Network Representation and Entanglement Spreading in Many-Body Localized Systems: A Novel Approach**|Z. Gholami et.al.|[2312.08170](http://arxiv.org/abs/2312.08170)|null|
 |**2023-12-13**|**Statistical and dynamical aspects of quantum chaos in a kicked Bose-Hubbard dimer**|Chenguang Liang et.al.|[2312.08159](http://arxiv.org/abs/2312.08159)|null|
 |**2023-12-12**|**A random matrix model towards the quantum chaos transition conjecture**|Bertrand Stone et.al.|[2312.07297](http://arxiv.org/abs/2312.07297)|null|
@@ -564,6 +565,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Demonstration of fault-tolerant Steane quantum error correction**|Lukas Postler et.al.|[2312.09745](http://arxiv.org/abs/2312.09745)|null|
 |**2023-12-14**|**New circuits and an open source decoder for the color code**|Craig Gidney et.al.|[2312.08813](http://arxiv.org/abs/2312.08813)|null|
 |**2023-12-13**|**Concatenating quantum error correcting codes with decoherence-free subspaces, and vice versa**|Nihar Ranjan Dash et.al.|[2312.08322](http://arxiv.org/abs/2312.08322)|null|
 |**2023-12-14**|**Error Correcting States in Ultracold Atoms**|Harry C. P. Kendell et.al.|[2312.07746](http://arxiv.org/abs/2312.07746)|null|

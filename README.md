@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**Beam Splitter Physics and Testing Bell Inequalities with Phase Retarders**|H. O. Cildiroglu et.al.|[2312.10837](http://arxiv.org/abs/2312.10837)|null|
 |**2023-12-14**|**All genuinely entangled stabilizer subspaces are multipartite fully nonlocal**|Owidiusz Makuta et.al.|[2312.08757](http://arxiv.org/abs/2312.08757)|null|
 |**2023-12-12**|**No Violation of Bell-CHSH Inequalities at Large Distances**|Timofei Rusalev et.al.|[2312.07499](http://arxiv.org/abs/2312.07499)|null|
 |**2023-12-12**|**Bell meets Cavendish: a quantum signature of gravity?**|Bin Yan et.al.|[2312.07458](http://arxiv.org/abs/2312.07458)|null|
@@ -329,7 +330,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-11**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
+|**2023-12-17**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
 |**2023-12-12**|**Relativistic quantum Otto engine: Instant work extraction from a quantum field**|Kensuke Gallock-Yoshimura et.al.|[2312.04485](http://arxiv.org/abs/2312.04485)|null|
 |**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
 |**2023-11-30**|**Squashed quantum non-Markovianity: a measure of genuine quantum non-Markovianity in states**|Rajeev Gangwar et.al.|[2311.18323](http://arxiv.org/abs/2311.18323)|null|
@@ -565,6 +566,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**Comparing Shor and Steane Error Correction Using the Bacon-Shor Code**|Shilin Huang et.al.|[2312.10851](http://arxiv.org/abs/2312.10851)|null|
+|**2023-12-17**|**Sub-microsecond high-fidelity dispersive readout of a spin qubit with squeezed photons**|Chon-Fai Kam et.al.|[2312.10820](http://arxiv.org/abs/2312.10820)|null|
+|**2023-12-16**|**Incoherent Approximation of Leakage in Quantum Error Correction**|Jeffrey Marshall et.al.|[2312.10277](http://arxiv.org/abs/2312.10277)|null|
 |**2023-12-15**|**Demonstration of fault-tolerant Steane quantum error correction**|Lukas Postler et.al.|[2312.09745](http://arxiv.org/abs/2312.09745)|null|
 |**2023-12-14**|**New circuits and an open source decoder for the color code**|Craig Gidney et.al.|[2312.08813](http://arxiv.org/abs/2312.08813)|null|
 |**2023-12-13**|**Concatenating quantum error correcting codes with decoherence-free subspaces, and vice versa**|Nihar Ranjan Dash et.al.|[2312.08322](http://arxiv.org/abs/2312.08322)|null|

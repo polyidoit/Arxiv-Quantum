@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-17**|**Beam Splitter Physics and Testing Bell Inequalities with Phase Retarders**|H. O. Cildiroglu et.al.|[2312.10837](http://arxiv.org/abs/2312.10837)|null|
+|**2023-12-18**|**On Removing the Classical-Quantum Boundary**|Khaled Mnaymneh et.al.|[2312.11288](http://arxiv.org/abs/2312.11288)|null|
+|**2023-12-19**|**Beam Splitter Physics and Testing Bell Inequalities with Phase Retarders**|H. O. Cildiroglu et.al.|[2312.10837](http://arxiv.org/abs/2312.10837)|null|
 |**2023-12-14**|**All genuinely entangled stabilizer subspaces are multipartite fully nonlocal**|Owidiusz Makuta et.al.|[2312.08757](http://arxiv.org/abs/2312.08757)|null|
 |**2023-12-12**|**No Violation of Bell-CHSH Inequalities at Large Distances**|Timofei Rusalev et.al.|[2312.07499](http://arxiv.org/abs/2312.07499)|null|
 |**2023-12-12**|**Bell meets Cavendish: a quantum signature of gravity?**|Bin Yan et.al.|[2312.07458](http://arxiv.org/abs/2312.07458)|null|
@@ -260,6 +261,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Quantum squeezing induced quantum entanglement and EPR steering in coupled optomechanical system**|Shao-Xiong Wu et.al.|[2312.12310](http://arxiv.org/abs/2312.12310)|null|
 |**2023-12-12**|**Visually quantifying single-qubit quantum memory**|Wan-Guan Chang et.al.|[2312.06939](http://arxiv.org/abs/2312.06939)|null|
 |**2023-12-10**|**Detection of Network and Genuine Network Quantum Steering**|Zhihua Chen et.al.|[2312.05769](http://arxiv.org/abs/2312.05769)|null|
 |**2023-12-08**|**Gaussian quantum steering in a nondegenerate three-level laser**|Benachir Boukhris et.al.|[2312.04942](http://arxiv.org/abs/2312.04942)|null|
@@ -392,6 +394,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Defect-induced localization of information in 1D Kitaev model**|Varadharajan Muruganandam et.al.|[2312.11765](http://arxiv.org/abs/2312.11765)|null|
+|**2023-12-18**|**Krylov complexity for non-local spin chains**|Aranya Bhattacharya et.al.|[2312.11677](http://arxiv.org/abs/2312.11677)|null|
+|**2023-12-18**|**An operational definition of quantum information scrambling**|Gabriele Lo Monaco et.al.|[2312.11619](http://arxiv.org/abs/2312.11619)|null|
 |**2023-12-15**|**Robust Estimation of Nonlinear Properties of Quantum Processes**|Yuqing Wang et.al.|[2312.09643](http://arxiv.org/abs/2312.09643)|null|
 |**2023-12-13**|**Tensor Network Representation and Entanglement Spreading in Many-Body Localized Systems: A Novel Approach**|Z. Gholami et.al.|[2312.08170](http://arxiv.org/abs/2312.08170)|null|
 |**2023-12-13**|**Statistical and dynamical aspects of quantum chaos in a kicked Bose-Hubbard dimer**|Chenguang Liang et.al.|[2312.08159](http://arxiv.org/abs/2312.08159)|null|
@@ -545,6 +550,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**Error-corrected Hadamard gate simulated at the circuit level**|György P. Gehér et.al.|[2312.11605](http://arxiv.org/abs/2312.11605)|null|
+|**2023-12-18**|**Shortcut-to-Adiabatic Controlled-Phase Gate in Rydberg Atoms**|Luis S. Yagüe Bosch et.al.|[2312.11594](http://arxiv.org/abs/2312.11594)|null|
+|**2023-12-18**|**Extracting topological orders of generalized Pauli stabilizer codes in two dimensions**|Zijian Liang et.al.|[2312.11170](http://arxiv.org/abs/2312.11170)|null|
+|**2023-12-18**|**Belief Propagation Decoding of Quantum LDPC Codes with Guided Decimation**|Hanwen Yao et.al.|[2312.10950](http://arxiv.org/abs/2312.10950)|null|
 |**2023-12-17**|**Comparing Shor and Steane Error Correction Using the Bacon-Shor Code**|Shilin Huang et.al.|[2312.10851](http://arxiv.org/abs/2312.10851)|null|
 |**2023-12-17**|**Sub-microsecond high-fidelity dispersive readout of a spin qubit with squeezed photons**|Chon-Fai Kam et.al.|[2312.10820](http://arxiv.org/abs/2312.10820)|null|
 |**2023-12-16**|**Incoherent Approximation of Leakage in Quantum Error Correction**|Jeffrey Marshall et.al.|[2312.10277](http://arxiv.org/abs/2312.10277)|null|

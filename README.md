@@ -276,6 +276,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Quantum steering ellipsoids and quantum obesity in critical systems**|Pedro Rosario et.al.|[2312.12537](http://arxiv.org/abs/2312.12537)|null|
 |**2023-12-19**|**Quantum squeezing induced quantum entanglement and EPR steering in coupled optomechanical system**|Shao-Xiong Wu et.al.|[2312.12310](http://arxiv.org/abs/2312.12310)|null|
 |**2023-12-12**|**Visually quantifying single-qubit quantum memory**|Wan-Guan Chang et.al.|[2312.06939](http://arxiv.org/abs/2312.06939)|null|
 |**2023-12-10**|**Detection of Network and Genuine Network Quantum Steering**|Zhihua Chen et.al.|[2312.05769](http://arxiv.org/abs/2312.05769)|null|
@@ -332,6 +333,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**IS-DARTS: Stabilizing DARTS through Precise Measurement on Candidate Importance**|Hongyi He et.al.|[2312.12648](http://arxiv.org/abs/2312.12648)|**[link](https://github.com/hy-he/is-darts)**|
 |**2023-12-17**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
 |**2023-12-12**|**Relativistic quantum Otto engine: Instant work extraction from a quantum field**|Kensuke Gallock-Yoshimura et.al.|[2312.04485](http://arxiv.org/abs/2312.04485)|null|
 |**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
@@ -413,6 +415,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Spread complexity in saddle-dominated scrambling**|Kyoung-Bum Huh et.al.|[2312.12593](http://arxiv.org/abs/2312.12593)|null|
+|**2023-12-14**|**Boundary Chaos: Spectral Form Factor**|Felix Fritzsch et.al.|[2312.12452](http://arxiv.org/abs/2312.12452)|null|
 |**2023-12-19**|**Defect-induced localization of information in 1D Kitaev model**|Varadharajan Muruganandam et.al.|[2312.11765](http://arxiv.org/abs/2312.11765)|null|
 |**2023-12-18**|**Krylov complexity for non-local spin chains**|Aranya Bhattacharya et.al.|[2312.11677](http://arxiv.org/abs/2312.11677)|null|
 |**2023-12-18**|**An operational definition of quantum information scrambling**|Gabriele Lo Monaco et.al.|[2312.11619](http://arxiv.org/abs/2312.11619)|null|
@@ -579,7 +583,7 @@
 |**2023-12-17**|**Sub-microsecond high-fidelity dispersive readout of a spin qubit with squeezed photons**|Chon-Fai Kam et.al.|[2312.10820](http://arxiv.org/abs/2312.10820)|null|
 |**2023-12-16**|**Incoherent Approximation of Leakage in Quantum Error Correction**|Jeffrey Marshall et.al.|[2312.10277](http://arxiv.org/abs/2312.10277)|null|
 |**2023-12-15**|**Demonstration of fault-tolerant Steane quantum error correction**|Lukas Postler et.al.|[2312.09745](http://arxiv.org/abs/2312.09745)|null|
-|**2023-12-14**|**New circuits and an open source decoder for the color code**|Craig Gidney et.al.|[2312.08813](http://arxiv.org/abs/2312.08813)|null|
+|**2023-12-14**|**New circuits and an open source decoder for the color code**|Craig Gidney et.al.|[2312.08813](http://arxiv.org/abs/2312.08813)|**[link](https://github.com/quantumlib/chromobius)**|
 |**2023-12-13**|**Concatenating quantum error correcting codes with decoherence-free subspaces, and vice versa**|Nihar Ranjan Dash et.al.|[2312.08322](http://arxiv.org/abs/2312.08322)|null|
 |**2023-12-14**|**Error Correcting States in Ultracold Atoms**|Harry C. P. Kendell et.al.|[2312.07746](http://arxiv.org/abs/2312.07746)|null|
 |**2023-12-12**|**Boosting the Gottesman-Kitaev-Preskill quantum error correction with non-Markovian feedback**|Matteo Puviani et.al.|[2312.07391](http://arxiv.org/abs/2312.07391)|null|

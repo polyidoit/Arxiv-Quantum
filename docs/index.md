@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Quantum entanglement between optical and microwave photonic qubits**|Srujan Meesala et.al.|[2312.13559](http://arxiv.org/abs/2312.13559)|null|
 |**2023-12-18**|**On Removing the Classical-Quantum Boundary**|Khaled Mnaymneh et.al.|[2312.11288](http://arxiv.org/abs/2312.11288)|null|
 |**2023-12-19**|**Beam Splitter Physics and Testing Bell Inequalities with Phase Retarders**|H. O. Cildiroglu et.al.|[2312.10837](http://arxiv.org/abs/2312.10837)|null|
 |**2023-12-14**|**All genuinely entangled stabilizer subspaces are multipartite fully nonlocal**|Owidiusz Makuta et.al.|[2312.08757](http://arxiv.org/abs/2312.08757)|null|
@@ -148,6 +149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Fourier Quantum Process Tomography**|Francesco Di Colandrea et.al.|[2312.13458](http://arxiv.org/abs/2312.13458)|null|
 |**2023-12-03**|**Using non-convex optimization in quantum process tomography: Factored gradient descent is tough to beat**|David A. Quiroga et.al.|[2312.01311](http://arxiv.org/abs/2312.01311)|null|
 |**2023-11-18**|**Extreme quantum states and processes, and extreme points of general spectrahedra in finite dimensional algebras**|Giulio Chiribella et.al.|[2311.10929](http://arxiv.org/abs/2311.10929)|null|
 |**2023-11-15**|**Identification of Causal Influences in Quantum Processes**|Isaac Friend et.al.|[2311.08882](http://arxiv.org/abs/2311.08882)|null|
@@ -261,6 +263,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Compressing continuous variable quantum measurements**|Pauli Jokinen et.al.|[2312.13814](http://arxiv.org/abs/2312.13814)|null|
 |**2023-12-19**|**Quantum steering ellipsoids and quantum obesity in critical systems**|Pedro Rosario et.al.|[2312.12537](http://arxiv.org/abs/2312.12537)|null|
 |**2023-12-19**|**Quantum squeezing induced quantum entanglement and EPR steering in coupled optomechanical system**|Shao-Xiong Wu et.al.|[2312.12310](http://arxiv.org/abs/2312.12310)|null|
 |**2023-12-12**|**Visually quantifying single-qubit quantum memory**|Wan-Guan Chang et.al.|[2312.06939](http://arxiv.org/abs/2312.06939)|null|
@@ -396,6 +399,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Mutual averaged non-commutativity of quantum operator algebras**|Paolo Zanardi et.al.|[2312.14019](http://arxiv.org/abs/2312.14019)|null|
+|**2023-12-20**|**Long-time Quantum Information Scrambling and Emergent Mereology**|Faidon Andreadakis et.al.|[2312.13386](http://arxiv.org/abs/2312.13386)|null|
 |**2023-12-19**|**Spread complexity in saddle-dominated scrambling**|Kyoung-Bum Huh et.al.|[2312.12593](http://arxiv.org/abs/2312.12593)|null|
 |**2023-12-14**|**Boundary Chaos: Spectral Form Factor**|Felix Fritzsch et.al.|[2312.12452](http://arxiv.org/abs/2312.12452)|null|
 |**2023-12-19**|**Defect-induced localization of information in 1D Kitaev model**|Varadharajan Muruganandam et.al.|[2312.11765](http://arxiv.org/abs/2312.11765)|null|
@@ -554,6 +559,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Fault-tolerant quantum architectures based on erasure qubits**|Shouzhen Gu et.al.|[2312.14060](http://arxiv.org/abs/2312.14060)|null|
+|**2023-12-21**|**Hulls of projective Reed-Muller codes over the projective plane**|Diego Ruano et.al.|[2312.13921](http://arxiv.org/abs/2312.13921)|null|
+|**2023-12-21**|**A complete continuous-variable quantum computation architecture: from cluster state generation to fault-tolerant accomplishment**|Peilin Du et.al.|[2312.13877](http://arxiv.org/abs/2312.13877)|null|
 |**2023-12-18**|**Error-corrected Hadamard gate simulated at the circuit level**|György P. Gehér et.al.|[2312.11605](http://arxiv.org/abs/2312.11605)|null|
 |**2023-12-18**|**Shortcut-to-Adiabatic Controlled-Phase Gate in Rydberg Atoms**|Luis S. Yagüe Bosch et.al.|[2312.11594](http://arxiv.org/abs/2312.11594)|null|
 |**2023-12-18**|**Extracting topological orders of generalized Pauli stabilizer codes in two dimensions**|Zijian Liang et.al.|[2312.11170](http://arxiv.org/abs/2312.11170)|null|

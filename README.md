@@ -657,7 +657,7 @@
 |**2023-11-07**|**Shaping photons: quantum computation with bosonic cQED**|Adrian Copetudo et.al.|[2311.03846](http://arxiv.org/abs/2311.03846)|null|
 |**2023-11-06**|**Topological Orders Having no Topological Quantum Field Theory Description**|P. Vojta et.al.|[2311.03353](http://arxiv.org/abs/2311.03353)|null|
 |**2023-11-06**|**Improved Noisy Syndrome Decoding of Quantum LDPC Codes with Sliding Window**|Shilin Huang et.al.|[2311.03307](http://arxiv.org/abs/2311.03307)|null|
-|**2023-11-02**|**Analog information decoding of bosonic quantum LDPC codes**|Lucas Berent et.al.|[2311.01328](http://arxiv.org/abs/2311.01328)|null|
+|**2023-11-02**|**Analog information decoding of bosonic quantum LDPC codes**|Lucas Berent et.al.|[2311.01328](http://arxiv.org/abs/2311.01328)|**[link](https://github.com/cda-tum/mqt-qecc)**|
 |**2023-11-01**|**Addressing Stopping Failures for Small Set Flip Decoding of Hypergraph Product Codes**|Lev Stambler et.al.|[2311.00877](http://arxiv.org/abs/2311.00877)|null|
 |**2023-10-31**|**Fault-Tolerant Operation of Bosonic Qubits with Discrete-Variable Ancillae**|Qian Xu et.al.|[2310.20578](http://arxiv.org/abs/2310.20578)|null|
 |**2023-10-31**|**Product Line Management with Graphical MBSE Views**|Pascal Krapf et.al.|[2310.20396](http://arxiv.org/abs/2310.20396)|null|

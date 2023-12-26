@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-21**|**Quantum entanglement between optical and microwave photonic qubits**|Srujan Meesala et.al.|[2312.13559](http://arxiv.org/abs/2312.13559)|null|
+|**2023-12-22**|**Proposals for ruling out the real quantum theories in an entanglement-swapping quantum network with causally independent sources**|Jian Yao et.al.|[2312.14547](http://arxiv.org/abs/2312.14547)|null|
+|**2023-12-22**|**Quantum entanglement between optical and microwave photonic qubits**|Srujan Meesala et.al.|[2312.13559](http://arxiv.org/abs/2312.13559)|null|
 |**2023-12-18**|**On Removing the Classical-Quantum Boundary**|Khaled Mnaymneh et.al.|[2312.11288](http://arxiv.org/abs/2312.11288)|null|
 |**2023-12-19**|**Beam Splitter Physics and Testing Bell Inequalities with Phase Retarders**|H. O. Cildiroglu et.al.|[2312.10837](http://arxiv.org/abs/2312.10837)|null|
 |**2023-12-14**|**All genuinely entangled stabilizer subspaces are multipartite fully nonlocal**|Owidiusz Makuta et.al.|[2312.08757](http://arxiv.org/abs/2312.08757)|null|
@@ -319,6 +320,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**A fixed-point algorithm for matrix projections with applications in quantum information**|Shrigyan Brahmachari et.al.|[2312.14615](http://arxiv.org/abs/2312.14615)|null|
 |**2023-12-19**|**IS-DARTS: Stabilizing DARTS through Precise Measurement on Candidate Importance**|Hongyi He et.al.|[2312.12648](http://arxiv.org/abs/2312.12648)|**[link](https://github.com/hy-he/is-darts)**|
 |**2023-12-17**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
 |**2023-12-12**|**Relativistic quantum Otto engine: Instant work extraction from a quantum field**|Kensuke Gallock-Yoshimura et.al.|[2312.04485](http://arxiv.org/abs/2312.04485)|null|
@@ -399,6 +401,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Thermodynamics and dynamics of coupled complex SYK models**|Jan C. Louw et.al.|[2312.14644](http://arxiv.org/abs/2312.14644)|null|
+|**2023-12-22**|**Arbitrary relaxation rate under non-Hermitian matrix iterations**|Jaš Bensa et.al.|[2312.14617](http://arxiv.org/abs/2312.14617)|null|
 |**2023-12-21**|**Mutual averaged non-commutativity of quantum operator algebras**|Paolo Zanardi et.al.|[2312.14019](http://arxiv.org/abs/2312.14019)|null|
 |**2023-12-20**|**Long-time Quantum Information Scrambling and Emergent Mereology**|Faidon Andreadakis et.al.|[2312.13386](http://arxiv.org/abs/2312.13386)|null|
 |**2023-12-19**|**Spread complexity in saddle-dominated scrambling**|Kyoung-Bum Huh et.al.|[2312.12593](http://arxiv.org/abs/2312.12593)|null|
@@ -559,6 +563,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Tuning Quantum Computing Privacy through Quantum Error Correction**|Hui Zhong et.al.|[2312.14521](http://arxiv.org/abs/2312.14521)|null|
 |**2023-12-21**|**Fault-tolerant quantum architectures based on erasure qubits**|Shouzhen Gu et.al.|[2312.14060](http://arxiv.org/abs/2312.14060)|null|
 |**2023-12-21**|**Hulls of projective Reed-Muller codes over the projective plane**|Diego Ruano et.al.|[2312.13921](http://arxiv.org/abs/2312.13921)|null|
 |**2023-12-21**|**A complete continuous-variable quantum computation architecture: from cluster state generation to fault-tolerant accomplishment**|Peilin Du et.al.|[2312.13877](http://arxiv.org/abs/2312.13877)|null|

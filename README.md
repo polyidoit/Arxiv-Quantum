@@ -1,4 +1,4 @@
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-21**|**Quantum entanglement between optical and microwave photonic qubits**|Srujan Meesala et.al.|[2312.13559](http://arxiv.org/abs/2312.13559)|null|
+|**2023-12-22**|**Proposals for ruling out the real quantum theories in an entanglement-swapping quantum network with causally independent sources**|Jian Yao et.al.|[2312.14547](http://arxiv.org/abs/2312.14547)|null|
+|**2023-12-22**|**Quantum entanglement between optical and microwave photonic qubits**|Srujan Meesala et.al.|[2312.13559](http://arxiv.org/abs/2312.13559)|null|
 |**2023-12-18**|**On Removing the Classical-Quantum Boundary**|Khaled Mnaymneh et.al.|[2312.11288](http://arxiv.org/abs/2312.11288)|null|
 |**2023-12-19**|**Beam Splitter Physics and Testing Bell Inequalities with Phase Retarders**|H. O. Cildiroglu et.al.|[2312.10837](http://arxiv.org/abs/2312.10837)|null|
 |**2023-12-14**|**All genuinely entangled stabilizer subspaces are multipartite fully nonlocal**|Owidiusz Makuta et.al.|[2312.08757](http://arxiv.org/abs/2312.08757)|null|
@@ -154,7 +155,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -210,7 +211,7 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -272,7 +273,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -330,12 +331,13 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**A fixed-point algorithm for matrix projections with applications in quantum information**|Shrigyan Brahmachari et.al.|[2312.14615](http://arxiv.org/abs/2312.14615)|null|
 |**2023-12-19**|**IS-DARTS: Stabilizing DARTS through Precise Measurement on Candidate Importance**|Hongyi He et.al.|[2312.12648](http://arxiv.org/abs/2312.12648)|**[link](https://github.com/hy-he/is-darts)**|
 |**2023-12-17**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
 |**2023-12-12**|**Relativistic quantum Otto engine: Instant work extraction from a quantum field**|Kensuke Gallock-Yoshimura et.al.|[2312.04485](http://arxiv.org/abs/2312.04485)|null|
@@ -412,12 +414,14 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**Thermodynamics and dynamics of coupled complex SYK models**|Jan C. Louw et.al.|[2312.14644](http://arxiv.org/abs/2312.14644)|null|
+|**2023-12-22**|**Arbitrary relaxation rate under non-Hermitian matrix iterations**|Jaš Bensa et.al.|[2312.14617](http://arxiv.org/abs/2312.14617)|null|
 |**2023-12-21**|**Mutual averaged non-commutativity of quantum operator algebras**|Paolo Zanardi et.al.|[2312.14019](http://arxiv.org/abs/2312.14019)|null|
 |**2023-12-20**|**Long-time Quantum Information Scrambling and Emergent Mereology**|Faidon Andreadakis et.al.|[2312.13386](http://arxiv.org/abs/2312.13386)|null|
 |**2023-12-19**|**Spread complexity in saddle-dominated scrambling**|Kyoung-Bum Huh et.al.|[2312.12593](http://arxiv.org/abs/2312.12593)|null|
@@ -574,12 +578,13 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## Quantum error-correction code
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**Tuning Quantum Computing Privacy through Quantum Error Correction**|Hui Zhong et.al.|[2312.14521](http://arxiv.org/abs/2312.14521)|null|
 |**2023-12-21**|**Fault-tolerant quantum architectures based on erasure qubits**|Shouzhen Gu et.al.|[2312.14060](http://arxiv.org/abs/2312.14060)|null|
 |**2023-12-21**|**Hulls of projective Reed-Muller codes over the projective plane**|Diego Ruano et.al.|[2312.13921](http://arxiv.org/abs/2312.13921)|null|
 |**2023-12-21**|**A complete continuous-variable quantum computation architecture: from cluster state generation to fault-tolerant accomplishment**|Peilin Du et.al.|[2312.13877](http://arxiv.org/abs/2312.13877)|null|
@@ -909,5 +914,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 

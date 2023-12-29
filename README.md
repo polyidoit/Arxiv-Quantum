@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Approximation algorithms for noncommutative constraint satisfaction problems**|Eric Culf et.al.|[2312.16765](http://arxiv.org/abs/2312.16765)|null|
 |**2023-12-25**|**Measurement incompatibility at remote entangled parties is insufficient for Bell nonlocality in two-input and two-output setting**|Priya Ghosh et.al.|[2312.15705](http://arxiv.org/abs/2312.15705)|null|
 |**2023-12-22**|**Proposals for ruling out the real quantum theories in an entanglement-swapping quantum network with causally independent sources**|Jian Yao et.al.|[2312.14547](http://arxiv.org/abs/2312.14547)|null|
 |**2023-12-22**|**Quantum entanglement between optical and microwave photonic qubits**|Srujan Meesala et.al.|[2312.13559](http://arxiv.org/abs/2312.13559)|null|
@@ -587,9 +588,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Logical Error Rates of XZZX and Rotated Quantum Surface Codes**|Diego Forlivesi et.al.|[2312.17057](http://arxiv.org/abs/2312.17057)|null|
+|**2023-12-28**|**Extracting Error Thresholds through the Framework of Approximate Quantum Error Correction Condition**|Yuanchen Zhao et.al.|[2312.16991](http://arxiv.org/abs/2312.16991)|null|
+|**2023-12-27**|**$\mathcal{PT}$ -symmetric mapping of three states and its implementation on a cloud quantum processor**|Yaroslav Balytskyi et.al.|[2312.16680](http://arxiv.org/abs/2312.16680)|null|
+|**2023-12-26**|**Celestial Quantum Error Correction I: Qubits from Noncommutative Klein Space**|Alfredo Guevara et.al.|[2312.16298](http://arxiv.org/abs/2312.16298)|null|
 |**2023-12-23**|**The hull variation problem for projective Reed-Muller codes and quantum error-correcting codes**|Diego Ruano et.al.|[2312.15308](http://arxiv.org/abs/2312.15308)|null|
 |**2023-12-23**|**Ecmas: Efficient Circuit Mapping and Scheduling for Surface Code**|Mingzheng Zhu et.al.|[2312.15254](http://arxiv.org/abs/2312.15254)|null|
-|**2023-12-23**|**Large-Area Spatially Ordered Mesa Top Single Quantum Dots: Suitable Single Photon Emitters for On-Chip Integrated Quantum Information Processing Platforms**|Qi Huang et.al.|[2312.15132](http://arxiv.org/abs/2312.15132)|null|
+|**2023-12-27**|**Large-Area Spatially Ordered Mesa Top Single Quantum Dots: Suitable Single Photon Emitters for On-Chip Integrated Quantum Information Processing Platforms**|Qi Huang et.al.|[2312.15132](http://arxiv.org/abs/2312.15132)|null|
 |**2023-12-22**|**Tuning Quantum Computing Privacy through Quantum Error Correction**|Hui Zhong et.al.|[2312.14521](http://arxiv.org/abs/2312.14521)|null|
 |**2023-12-21**|**Fault-tolerant quantum architectures based on erasure qubits**|Shouzhen Gu et.al.|[2312.14060](http://arxiv.org/abs/2312.14060)|null|
 |**2023-12-21**|**Hulls of projective Reed-Muller codes over the projective plane**|Diego Ruano et.al.|[2312.13921](http://arxiv.org/abs/2312.13921)|null|

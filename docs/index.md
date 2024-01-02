@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.01
+## Updated on 2024.01.02
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -409,7 +409,7 @@ layout: default
 |**2023-12-22**|**Arbitrary relaxation rate under non-Hermitian matrix iterations**|Jaš Bensa et.al.|[2312.14617](http://arxiv.org/abs/2312.14617)|null|
 |**2023-12-21**|**Mutual averaged non-commutativity of quantum operator algebras**|Paolo Zanardi et.al.|[2312.14019](http://arxiv.org/abs/2312.14019)|null|
 |**2023-12-20**|**Long-time Quantum Information Scrambling and Emergent Mereology**|Faidon Andreadakis et.al.|[2312.13386](http://arxiv.org/abs/2312.13386)|null|
-|**2023-12-19**|**Spread complexity in saddle-dominated scrambling**|Kyoung-Bum Huh et.al.|[2312.12593](http://arxiv.org/abs/2312.12593)|null|
+|**2023-12-29**|**Spread complexity in saddle-dominated scrambling**|Kyoung-Bum Huh et.al.|[2312.12593](http://arxiv.org/abs/2312.12593)|null|
 |**2023-12-14**|**Boundary Chaos: Spectral Form Factor**|Felix Fritzsch et.al.|[2312.12452](http://arxiv.org/abs/2312.12452)|null|
 |**2023-12-19**|**Defect-induced localization of information in 1D Kitaev model**|Varadharajan Muruganandam et.al.|[2312.11765](http://arxiv.org/abs/2312.11765)|null|
 |**2023-12-18**|**Krylov complexity for non-local spin chains**|Aranya Bhattacharya et.al.|[2312.11677](http://arxiv.org/abs/2312.11677)|null|
@@ -567,6 +567,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**The Quantum House Of Cards**|Xavier Waintal et.al.|[2312.17570](http://arxiv.org/abs/2312.17570)|null|
+|**2023-12-29**|**The poset of binary CSS-T quantum codes and cyclic codes**|Eduardo Camps-Moreno et.al.|[2312.17518](http://arxiv.org/abs/2312.17518)|null|
+|**2023-12-29**|**Maximizing the Yield of Bucket Brigade Quantum Random Access Memory using Redundancy Repair**|Dongmin Kim et.al.|[2312.17483](http://arxiv.org/abs/2312.17483)|null|
 |**2023-12-28**|**Logical Error Rates of XZZX and Rotated Quantum Surface Codes**|Diego Forlivesi et.al.|[2312.17057](http://arxiv.org/abs/2312.17057)|null|
 |**2023-12-28**|**Extracting Error Thresholds through the Framework of Approximate Quantum Error Correction Condition**|Yuanchen Zhao et.al.|[2312.16991](http://arxiv.org/abs/2312.16991)|null|
 |**2023-12-27**|**$\mathcal{PT}$ -symmetric mapping of three states and its implementation on a cloud quantum processor**|Yaroslav Balytskyi et.al.|[2312.16680](http://arxiv.org/abs/2312.16680)|null|

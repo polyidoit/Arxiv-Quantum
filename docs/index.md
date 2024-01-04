@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2024.01.03
+## Updated on 2024.01.04
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Can Bell inequalities be tested via scattering cross-section at colliders ?**|Song Li et.al.|[2401.01162](http://arxiv.org/abs/2401.01162)|null|
 |**2023-12-28**|**Approximation algorithms for noncommutative constraint satisfaction problems**|Eric Culf et.al.|[2312.16765](http://arxiv.org/abs/2312.16765)|null|
 |**2023-12-25**|**Measurement incompatibility at remote entangled parties is insufficient for Bell nonlocality in two-input and two-output setting**|Priya Ghosh et.al.|[2312.15705](http://arxiv.org/abs/2312.15705)|null|
 |**2023-12-22**|**Proposals for ruling out the real quantum theories in an entanglement-swapping quantum network with causally independent sources**|Jian Yao et.al.|[2312.14547](http://arxiv.org/abs/2312.14547)|null|
@@ -323,6 +324,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Trade-off relations of quantum resource theory in Heisenberg models**|Asad Ali et.al.|[2401.01063](http://arxiv.org/abs/2401.01063)|null|
+|**2023-12-30**|**A Novel Reinforcement Learning Routing Algorithm for Congestion Control in Complex Networks**|Seyed Hassan Yajadda et.al.|[2401.00297](http://arxiv.org/abs/2401.00297)|null|
 |**2023-12-22**|**A fixed-point algorithm for matrix projections with applications in quantum information**|Shrigyan Brahmachari et.al.|[2312.14615](http://arxiv.org/abs/2312.14615)|null|
 |**2023-12-19**|**IS-DARTS: Stabilizing DARTS through Precise Measurement on Candidate Importance**|Hongyi He et.al.|[2312.12648](http://arxiv.org/abs/2312.12648)|**[link](https://github.com/hy-he/is-darts)**|
 |**2023-12-17**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
@@ -567,6 +570,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**To Wedge Or Not To Wedge, Wedges and operator reconstructability in toy models of AdS/CFT**|Vic Vander Linden et.al.|[2401.01287](http://arxiv.org/abs/2401.01287)|null|
+|**2024-01-01**|**Decoherence in Exchange-Coupled Quantum Spin Qubit Systems: Impact of Multiqubit Interactions and Geometric Connectivity**|Quan Fu et.al.|[2401.00725](http://arxiv.org/abs/2401.00725)|null|
+|**2023-12-31**|**Fault-tolerant quantum computation by hybrid qubits with bosonic cat-code and single photons**|Jaehak Lee et.al.|[2401.00450](http://arxiv.org/abs/2401.00450)|null|
 |**2023-12-29**|**The Quantum House Of Cards**|Xavier Waintal et.al.|[2312.17570](http://arxiv.org/abs/2312.17570)|null|
 |**2023-12-29**|**The poset of binary CSS-T quantum codes and cyclic codes**|Eduardo Camps-Moreno et.al.|[2312.17518](http://arxiv.org/abs/2312.17518)|null|
 |**2023-12-29**|**Maximizing the Yield of Bucket Brigade Quantum Random Access Memory using Redundancy Repair**|Dongmin Kim et.al.|[2312.17483](http://arxiv.org/abs/2312.17483)|null|

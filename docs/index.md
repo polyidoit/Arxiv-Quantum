@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Intersystem Bell-like States in Classical Polarization Optics**|Partha Ghose et.al.|[2401.01615](http://arxiv.org/abs/2401.01615)|null|
 |**2024-01-02**|**Can Bell inequalities be tested via scattering cross-section at colliders ?**|Song Li et.al.|[2401.01162](http://arxiv.org/abs/2401.01162)|null|
 |**2023-12-28**|**Approximation algorithms for noncommutative constraint satisfaction problems**|Eric Culf et.al.|[2312.16765](http://arxiv.org/abs/2312.16765)|null|
 |**2023-12-25**|**Measurement incompatibility at remote entangled parties is insufficient for Bell nonlocality in two-input and two-output setting**|Priya Ghosh et.al.|[2312.15705](http://arxiv.org/abs/2312.15705)|null|
@@ -407,6 +408,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Proposal for many-body quantum chaos detection**|Adway Kumar Das et.al.|[2401.01401](http://arxiv.org/abs/2401.01401)|null|
 |**2023-12-21**|**Unsupervised Random Quantum Networks for PDEs**|Josh Dees et.al.|[2312.14975](http://arxiv.org/abs/2312.14975)|null|
 |**2023-12-22**|**Thermodynamics and dynamics of coupled complex SYK models**|Jan C. Louw et.al.|[2312.14644](http://arxiv.org/abs/2312.14644)|null|
 |**2023-12-22**|**Arbitrary relaxation rate under non-Hermitian matrix iterations**|Jaš Bensa et.al.|[2312.14617](http://arxiv.org/abs/2312.14617)|null|
@@ -570,6 +572,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**From Pixel to Slide image: Polarization Modality-based Pathological Diagnosis Using Representation Learning**|Jia Dong et.al.|[2401.01496](http://arxiv.org/abs/2401.01496)|null|
 |**2024-01-02**|**To Wedge Or Not To Wedge, Wedges and operator reconstructability in toy models of AdS/CFT**|Vic Vander Linden et.al.|[2401.01287](http://arxiv.org/abs/2401.01287)|null|
 |**2024-01-01**|**Decoherence in Exchange-Coupled Quantum Spin Qubit Systems: Impact of Multiqubit Interactions and Geometric Connectivity**|Quan Fu et.al.|[2401.00725](http://arxiv.org/abs/2401.00725)|null|
 |**2023-12-31**|**Fault-tolerant quantum computation by hybrid qubits with bosonic cat-code and single photons**|Jaehak Lee et.al.|[2401.00450](http://arxiv.org/abs/2401.00450)|null|

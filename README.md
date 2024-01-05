@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Entanglement and confinement in lattice gauge theory tensor networks**|Johannes Knaute et.al.|[2401.01930](http://arxiv.org/abs/2401.01930)|null|
 |**2024-01-03**|**Intersystem Bell-like States in Classical Polarization Optics**|Partha Ghose et.al.|[2401.01615](http://arxiv.org/abs/2401.01615)|null|
 |**2024-01-02**|**Can Bell inequalities be tested via scattering cross-section at colliders ?**|Song Li et.al.|[2401.01162](http://arxiv.org/abs/2401.01162)|null|
 |**2023-12-28**|**Approximation algorithms for noncommutative constraint satisfaction problems**|Eric Culf et.al.|[2312.16765](http://arxiv.org/abs/2312.16765)|null|
@@ -342,6 +343,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Generalized Quantum Stein's Lemma: Redeeming Second Law of Resource Theories**|Hayata Yamasaki et.al.|[2401.01926](http://arxiv.org/abs/2401.01926)|null|
 |**2024-01-02**|**Trade-off relations of quantum resource theory in Heisenberg models**|Asad Ali et.al.|[2401.01063](http://arxiv.org/abs/2401.01063)|null|
 |**2023-12-30**|**A Novel Reinforcement Learning Routing Algorithm for Congestion Control in Complex Networks**|Seyed Hassan Yajadda et.al.|[2401.00297](http://arxiv.org/abs/2401.00297)|null|
 |**2023-12-22**|**A fixed-point algorithm for matrix projections with applications in quantum information**|Shrigyan Brahmachari et.al.|[2312.14615](http://arxiv.org/abs/2312.14615)|null|
@@ -349,7 +351,7 @@
 |**2023-12-17**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
 |**2023-12-12**|**Relativistic quantum Otto engine: Instant work extraction from a quantum field**|Kensuke Gallock-Yoshimura et.al.|[2312.04485](http://arxiv.org/abs/2312.04485)|null|
 |**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
-|**2023-11-30**|**Squashed quantum non-Markovianity: a measure of genuine quantum non-Markovianity in states**|Rajeev Gangwar et.al.|[2311.18323](http://arxiv.org/abs/2311.18323)|null|
+|**2024-01-04**|**Squashed quantum non-Markovianity: a measure of genuine quantum non-Markovianity in states**|Rajeev Gangwar et.al.|[2311.18323](http://arxiv.org/abs/2311.18323)|null|
 |**2023-11-28**|**Tight bounds for antidistinguishability and circulant sets of pure quantum states**|Nathaniel Johnston et.al.|[2311.17047](http://arxiv.org/abs/2311.17047)|**[link](https://github.com/vprusso/circulant_antidist)**|
 |**2023-11-23**|**Quantum network-entanglement measures**|Zhen-Peng Xu et.al.|[2311.13945](http://arxiv.org/abs/2311.13945)|null|
 |**2023-11-20**|**Local Purity Distillation in Quantum Systems: Exploring the Complementarity Between Purity and Entanglement**|Ray Ganardi et.al.|[2311.11820](http://arxiv.org/abs/2311.11820)|null|
@@ -427,6 +429,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Generalized Spectral Form Factor in Random Matrix Theory**|Zhiyang Wei et.al.|[2401.02119](http://arxiv.org/abs/2401.02119)|null|
+|**2024-01-03**|**Simulating Field Theories with Quantum Computers**|Muhammad Asaduzzaman et.al.|[2401.01962](http://arxiv.org/abs/2401.01962)|null|
+|**2024-01-03**|**Defining classical and quantum chaos through adiabatic transformations**|Cedric Lim et.al.|[2401.01927](http://arxiv.org/abs/2401.01927)|null|
 |**2024-01-02**|**Proposal for many-body quantum chaos detection**|Adway Kumar Das et.al.|[2401.01401](http://arxiv.org/abs/2401.01401)|null|
 |**2023-12-21**|**Unsupervised Random Quantum Networks for PDEs**|Josh Dees et.al.|[2312.14975](http://arxiv.org/abs/2312.14975)|null|
 |**2023-12-22**|**Thermodynamics and dynamics of coupled complex SYK models**|Jan C. Louw et.al.|[2312.14644](http://arxiv.org/abs/2312.14644)|null|
@@ -593,6 +598,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**General framework of breeding protocols for entanglement distillation**|Ryutaroh Matsumoto et.al.|[2401.02265](http://arxiv.org/abs/2401.02265)|null|
+|**2024-01-04**|**The Near-optimal Performance of Quantum Error Correction Codes**|Guo Zheng et.al.|[2401.02022](http://arxiv.org/abs/2401.02022)|null|
 |**2024-01-03**|**From Pixel to Slide image: Polarization Modality-based Pathological Diagnosis Using Representation Learning**|Jia Dong et.al.|[2401.01496](http://arxiv.org/abs/2401.01496)|null|
 |**2024-01-02**|**To Wedge Or Not To Wedge, Wedges and operator reconstructability in toy models of AdS/CFT**|Vic Vander Linden et.al.|[2401.01287](http://arxiv.org/abs/2401.01287)|null|
 |**2024-01-01**|**Decoherence in Exchange-Coupled Quantum Spin Qubit Systems: Impact of Multiqubit Interactions and Geometric Connectivity**|Quan Fu et.al.|[2401.00725](http://arxiv.org/abs/2401.00725)|null|

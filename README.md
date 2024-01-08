@@ -350,7 +350,7 @@
 |**2023-12-19**|**IS-DARTS: Stabilizing DARTS through Precise Measurement on Candidate Importance**|Hongyi He et.al.|[2312.12648](http://arxiv.org/abs/2312.12648)|**[link](https://github.com/hy-he/is-darts)**|
 |**2023-12-17**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
 |**2023-12-12**|**Relativistic quantum Otto engine: Instant work extraction from a quantum field**|Kensuke Gallock-Yoshimura et.al.|[2312.04485](http://arxiv.org/abs/2312.04485)|null|
-|**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
+|**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|**[link](https://github.com/martinwimpff/eeg-otta)**|
 |**2024-01-04**|**Squashed quantum non-Markovianity: a measure of genuine quantum non-Markovianity in states**|Rajeev Gangwar et.al.|[2311.18323](http://arxiv.org/abs/2311.18323)|null|
 |**2023-11-28**|**Tight bounds for antidistinguishability and circulant sets of pure quantum states**|Nathaniel Johnston et.al.|[2311.17047](http://arxiv.org/abs/2311.17047)|**[link](https://github.com/vprusso/circulant_antidist)**|
 |**2023-11-23**|**Quantum network-entanglement measures**|Zhen-Peng Xu et.al.|[2311.13945](http://arxiv.org/abs/2311.13945)|null|
@@ -598,6 +598,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Lift-Connected Surface Codes**|Josias Old et.al.|[2401.02911](http://arxiv.org/abs/2401.02911)|null|
 |**2024-01-04**|**General framework of breeding protocols for entanglement distillation**|Ryutaroh Matsumoto et.al.|[2401.02265](http://arxiv.org/abs/2401.02265)|null|
 |**2024-01-04**|**The Near-optimal Performance of Quantum Error Correction Codes**|Guo Zheng et.al.|[2401.02022](http://arxiv.org/abs/2401.02022)|null|
 |**2024-01-03**|**From Pixel to Slide image: Polarization Modality-based Pathological Diagnosis Using Representation Learning**|Jia Dong et.al.|[2401.01496](http://arxiv.org/abs/2401.01496)|null|

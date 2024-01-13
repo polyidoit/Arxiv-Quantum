@@ -432,6 +432,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Quantum chaos in presence of non-conformality**|Ashis Saha et.al.|[2401.05814](http://arxiv.org/abs/2401.05814)|null|
 |**2024-01-10**|**Information scrambling -- a quantum thermodynamic perspective**|Akram Touil et.al.|[2401.05305](http://arxiv.org/abs/2401.05305)|null|
 |**2024-01-10**|**Chaos and quantization of the three-particle generic Fermi-Pasta-Ulam-Tsingou model I: Density of states and spectral statistics**|Hua Yan et.al.|[2401.05188](http://arxiv.org/abs/2401.05188)|null|
 |**2024-01-10**|**Universal hard-edge statistics of non-Hermitian random matrices**|Zhenyu Xiao et.al.|[2401.05044](http://arxiv.org/abs/2401.05044)|null|
@@ -605,6 +606,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Geodesic Algorithm for Unitary Gate Design with Time-Independent Hamiltonians**|Dylan Lewis et.al.|[2401.05973](http://arxiv.org/abs/2401.05973)|null|
 |**2024-01-09**|**Coherent errors in stabilizer codes caused by quasistatic phase damping**|Dávid Pataki et.al.|[2401.04530](http://arxiv.org/abs/2401.04530)|null|
 |**2024-01-09**|**Long-lived topological time-crystalline order on a quantum processor**|Liang Xiang et.al.|[2401.04333](http://arxiv.org/abs/2401.04333)|null|
 |**2024-01-10**|**Fault-tolerant quantum computation using large spin cat-codes**|Sivaprasad Omanakuttan et.al.|[2401.04271](http://arxiv.org/abs/2401.04271)|null|

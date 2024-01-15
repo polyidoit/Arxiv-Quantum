@@ -222,6 +222,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Analysis and operating diagram of an interspecific density-dependent model**|Tahani Mtar et.al.|[2401.06339](http://arxiv.org/abs/2401.06339)|null|
 |**2024-01-08**|**Closed-Form Formula for the Partition Function and Related Functions**|Alfredo Nader et.al.|[2401.04026](http://arxiv.org/abs/2401.04026)|null|
 |**2023-12-25**|**On the rank of two-dimensional simplicial distributions**|Cihan Okay et.al.|[2312.15794](http://arxiv.org/abs/2312.15794)|null|
 |**2023-12-10**|**On the relativistic quantum mechanics of a photon between two electrons in 1+1 dimensions**|Lawrence Frolov et.al.|[2312.06019](http://arxiv.org/abs/2312.06019)|null|
@@ -344,6 +345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Direct In Situ Measurements of a Fast Coronal Mass Ejection and Associated Structures in the Corona**|Ying D. Liu et.al.|[2401.06449](http://arxiv.org/abs/2401.06449)|null|
 |**2024-01-09**|**Generalized wave-particle-Mixdness triality for n-path interferometers**|Y. T. Tsui et.al.|[2401.04370](http://arxiv.org/abs/2401.04370)|null|
 |**2024-01-08**|**Modelling of power exhaust in TCV positive and negative triangularity L-mode plasmas**|E. Tonello et.al.|[2401.03782](http://arxiv.org/abs/2401.03782)|null|
 |**2024-01-03**|**Generalized Quantum Stein's Lemma: Redeeming Second Law of Resource Theories**|Hayata Yamasaki et.al.|[2401.01926](http://arxiv.org/abs/2401.01926)|null|
@@ -606,6 +608,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Advantage of Quantum Neural Networks as Quantum Information Decoders**|Weishun Zhong et.al.|[2401.06300](http://arxiv.org/abs/2401.06300)|null|
 |**2024-01-11**|**Geodesic Algorithm for Unitary Gate Design with Time-Independent Hamiltonians**|Dylan Lewis et.al.|[2401.05973](http://arxiv.org/abs/2401.05973)|null|
 |**2024-01-09**|**Coherent errors in stabilizer codes caused by quasistatic phase damping**|Dávid Pataki et.al.|[2401.04530](http://arxiv.org/abs/2401.04530)|null|
 |**2024-01-09**|**Long-lived topological time-crystalline order on a quantum processor**|Liang Xiang et.al.|[2401.04333](http://arxiv.org/abs/2401.04333)|null|

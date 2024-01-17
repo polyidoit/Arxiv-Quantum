@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-14**|**Embezzlement of entanglement, quantum fields, and the classification of von Neumann algebras**|Lauritz van Luijk et.al.|[2401.07299](http://arxiv.org/abs/2401.07299)|null|
 |**2024-01-03**|**Entanglement and confinement in lattice gauge theory tensor networks**|Johannes Knaute et.al.|[2401.01930](http://arxiv.org/abs/2401.01930)|null|
 |**2024-01-03**|**Intersystem Bell-like States in Classical Polarization Optics**|Partha Ghose et.al.|[2401.01615](http://arxiv.org/abs/2401.01615)|null|
 |**2024-01-02**|**Can Bell inequalities be tested via scattering cross-section at colliders ?**|Song Li et.al.|[2401.01162](http://arxiv.org/abs/2401.01162)|null|
@@ -434,15 +435,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-14**|**Quantum chaos in PT symmetric quantum systems**|Kshitij Sharma et.al.|[2401.07215](http://arxiv.org/abs/2401.07215)|null|
 |**2024-01-11**|**Quantum chaos in presence of non-conformality**|Ashis Saha et.al.|[2401.05814](http://arxiv.org/abs/2401.05814)|null|
 |**2024-01-10**|**Information scrambling -- a quantum thermodynamic perspective**|Akram Touil et.al.|[2401.05305](http://arxiv.org/abs/2401.05305)|null|
 |**2024-01-10**|**Chaos and quantization of the three-particle generic Fermi-Pasta-Ulam-Tsingou model I: Density of states and spectral statistics**|Hua Yan et.al.|[2401.05188](http://arxiv.org/abs/2401.05188)|null|
 |**2024-01-10**|**Universal hard-edge statistics of non-Hermitian random matrices**|Zhenyu Xiao et.al.|[2401.05044](http://arxiv.org/abs/2401.05044)|null|
 |**2024-01-09**|**Out-of-time-order correlators of Skyrmion as baryon in holographic QCD**|Si-wen Li et.al.|[2401.04421](http://arxiv.org/abs/2401.04421)|null|
-|**2024-01-04**|**Generalized Spectral Form Factor in Random Matrix Theory**|Zhiyang Wei et.al.|[2401.02119](http://arxiv.org/abs/2401.02119)|null|
+|**2024-01-14**|**Generalized Spectral Form Factor in Random Matrix Theory**|Zhiyang Wei et.al.|[2401.02119](http://arxiv.org/abs/2401.02119)|null|
 |**2024-01-03**|**Simulating Field Theories with Quantum Computers**|Muhammad Asaduzzaman et.al.|[2401.01962](http://arxiv.org/abs/2401.01962)|null|
 |**2024-01-03**|**Defining classical and quantum chaos through adiabatic transformations**|Cedric Lim et.al.|[2401.01927](http://arxiv.org/abs/2401.01927)|null|
-|**2024-01-02**|**Proposal for many-body quantum chaos detection**|Adway Kumar Das et.al.|[2401.01401](http://arxiv.org/abs/2401.01401)|null|
+|**2024-01-15**|**Proposal for many-body quantum chaos detection**|Adway Kumar Das et.al.|[2401.01401](http://arxiv.org/abs/2401.01401)|null|
 |**2023-12-21**|**Unsupervised Random Quantum Networks for PDEs**|Josh Dees et.al.|[2312.14975](http://arxiv.org/abs/2312.14975)|null|
 |**2024-01-08**|**Thermodynamics and dynamics of coupled complex SYK models**|Jan C. Louw et.al.|[2312.14644](http://arxiv.org/abs/2312.14644)|null|
 |**2023-12-22**|**Arbitrary relaxation rate under non-Hermitian matrix iterations**|Jaš Bensa et.al.|[2312.14617](http://arxiv.org/abs/2312.14617)|null|
@@ -608,11 +610,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Three classes of propagation rules for GRS and EGRS codes and their applications to EAQECCs**|Ruhao Wan et.al.|[2401.08195](http://arxiv.org/abs/2401.08195)|null|
+|**2024-01-16**|**Error correctable efficient quantum homomorphic encryption**|IlKwon Sohn et.al.|[2401.08059](http://arxiv.org/abs/2401.08059)|null|
+|**2024-01-15**|**Small Quantum Codes from Algebraic Extensions of Generalized Bicycle Codes**|Nikolaos Koukoulekidis et.al.|[2401.07583](http://arxiv.org/abs/2401.07583)|null|
+|**2024-01-12**|**A Joint Code and Belief Propagation Decoder Design for Quantum LDPC Codes**|Sisi Miao et.al.|[2401.06874](http://arxiv.org/abs/2401.06874)|null|
 |**2024-01-11**|**Advantage of Quantum Neural Networks as Quantum Information Decoders**|Weishun Zhong et.al.|[2401.06300](http://arxiv.org/abs/2401.06300)|null|
 |**2024-01-11**|**Geodesic Algorithm for Unitary Gate Design with Time-Independent Hamiltonians**|Dylan Lewis et.al.|[2401.05973](http://arxiv.org/abs/2401.05973)|null|
-|**2024-01-09**|**Coherent errors in stabilizer codes caused by quasistatic phase damping**|Dávid Pataki et.al.|[2401.04530](http://arxiv.org/abs/2401.04530)|null|
+|**2024-01-16**|**Coherent errors in stabilizer codes caused by quasistatic phase damping**|Dávid Pataki et.al.|[2401.04530](http://arxiv.org/abs/2401.04530)|null|
 |**2024-01-09**|**Long-lived topological time-crystalline order on a quantum processor**|Liang Xiang et.al.|[2401.04333](http://arxiv.org/abs/2401.04333)|null|
-|**2024-01-10**|**Fault-tolerant quantum computation using large spin cat-codes**|Sivaprasad Omanakuttan et.al.|[2401.04271](http://arxiv.org/abs/2401.04271)|null|
+|**2024-01-16**|**Fault-tolerant quantum computation using large spin cat-codes**|Sivaprasad Omanakuttan et.al.|[2401.04271](http://arxiv.org/abs/2401.04271)|null|
 |**2024-01-08**|**Non-adiabatic holonomies as photonic quantum gates**|Vera Neef et.al.|[2401.04014](http://arxiv.org/abs/2401.04014)|null|
 |**2024-01-08**|**Exact results on finite size corrections for surface codes tailored to biased noise**|Yinzi Xiao et.al.|[2401.04008](http://arxiv.org/abs/2401.04008)|**[link](https://github.com/yinzi-xiao/finite-size-correction-for-surface-code)**|
 |**2024-01-08**|**Fast and high-fidelity dispersive readout of a spin qubit via squeezing and resonator nonlinearity**|Chon-Fai Kam et.al.|[2401.03617](http://arxiv.org/abs/2401.03617)|null|

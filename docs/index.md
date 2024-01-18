@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Incorporating Zero-Probability Constraints to Device-Independent Randomness Expansion**|Chun-Yu Chen et.al.|[2401.08452](http://arxiv.org/abs/2401.08452)|null|
 |**2024-01-14**|**Embezzlement of entanglement, quantum fields, and the classification of von Neumann algebras**|Lauritz van Luijk et.al.|[2401.07299](http://arxiv.org/abs/2401.07299)|null|
 |**2024-01-03**|**Entanglement and confinement in lattice gauge theory tensor networks**|Johannes Knaute et.al.|[2401.01930](http://arxiv.org/abs/2401.01930)|null|
 |**2024-01-03**|**Intersystem Bell-like States in Classical Polarization Optics**|Partha Ghose et.al.|[2401.01615](http://arxiv.org/abs/2401.01615)|null|
@@ -329,6 +330,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**LRSCwait: Enabling Scalable and Efficient Synchronization in Manycore Systems through Polling-Free and Retry-Free Operation**|Samuel Riedel et.al.|[2401.09359](http://arxiv.org/abs/2401.09359)|null|
+|**2024-01-16**|**eROSITA Detection of a Cloud Obscuration Event in the Seyfert AGN EC 04570-5206**|Alex Markowitz et.al.|[2401.08768](http://arxiv.org/abs/2401.08768)|null|
 |**2024-01-12**|**Direct In Situ Measurements of a Fast Coronal Mass Ejection and Associated Structures in the Corona**|Ying D. Liu et.al.|[2401.06449](http://arxiv.org/abs/2401.06449)|null|
 |**2024-01-09**|**Generalized wave-particle-Mixdness triality for n-path interferometers**|Y. T. Tsui et.al.|[2401.04370](http://arxiv.org/abs/2401.04370)|null|
 |**2024-01-08**|**Modelling of power exhaust in TCV positive and negative triangularity L-mode plasmas**|E. Tonello et.al.|[2401.03782](http://arxiv.org/abs/2401.03782)|null|
@@ -416,6 +419,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Quantum information scrambling in two-dimensional Bose-Hubbard lattices**|Devjyoti Tripathy et.al.|[2401.08516](http://arxiv.org/abs/2401.08516)|null|
 |**2024-01-14**|**Quantum chaos in PT symmetric quantum systems**|Kshitij Sharma et.al.|[2401.07215](http://arxiv.org/abs/2401.07215)|null|
 |**2024-01-11**|**Quantum chaos in presence of non-conformality**|Ashis Saha et.al.|[2401.05814](http://arxiv.org/abs/2401.05814)|null|
 |**2024-01-10**|**Information scrambling -- a quantum thermodynamic perspective**|Akram Touil et.al.|[2401.05305](http://arxiv.org/abs/2401.05305)|null|
@@ -589,10 +593,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Security of position-based quantum cryptography limits Hamiltonian simulation via holography**|Harriet Apel et.al.|[2401.09058](http://arxiv.org/abs/2401.09058)|null|
 |**2024-01-16**|**Three classes of propagation rules for GRS and EGRS codes and their applications to EAQECCs**|Ruhao Wan et.al.|[2401.08195](http://arxiv.org/abs/2401.08195)|null|
 |**2024-01-16**|**Error correctable efficient quantum homomorphic encryption**|IlKwon Sohn et.al.|[2401.08059](http://arxiv.org/abs/2401.08059)|null|
 |**2024-01-15**|**Small Quantum Codes from Algebraic Extensions of Generalized Bicycle Codes**|Nikolaos Koukoulekidis et.al.|[2401.07583](http://arxiv.org/abs/2401.07583)|null|
-|**2024-01-12**|**A Joint Code and Belief Propagation Decoder Design for Quantum LDPC Codes**|Sisi Miao et.al.|[2401.06874](http://arxiv.org/abs/2401.06874)|null|
+|**2024-01-17**|**A Joint Code and Belief Propagation Decoder Design for Quantum LDPC Codes**|Sisi Miao et.al.|[2401.06874](http://arxiv.org/abs/2401.06874)|null|
 |**2024-01-11**|**Advantage of Quantum Neural Networks as Quantum Information Decoders**|Weishun Zhong et.al.|[2401.06300](http://arxiv.org/abs/2401.06300)|null|
 |**2024-01-11**|**Geodesic Algorithm for Unitary Gate Design with Time-Independent Hamiltonians**|Dylan Lewis et.al.|[2401.05973](http://arxiv.org/abs/2401.05973)|null|
 |**2024-01-16**|**Coherent errors in stabilizer codes caused by quasistatic phase damping**|Dávid Pataki et.al.|[2401.04530](http://arxiv.org/abs/2401.04530)|null|

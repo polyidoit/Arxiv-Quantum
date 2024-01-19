@@ -168,6 +168,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|null|
 |**2023-12-20**|**Fourier Quantum Process Tomography**|Francesco Di Colandrea et.al.|[2312.13458](http://arxiv.org/abs/2312.13458)|null|
 |**2023-12-03**|**Using non-convex optimization in quantum process tomography: Factored gradient descent is tough to beat**|David A. Quiroga et.al.|[2312.01311](http://arxiv.org/abs/2312.01311)|null|
 |**2023-11-18**|**Extreme quantum states and processes, and extreme points of general spectrahedra in finite dimensional algebras**|Giulio Chiribella et.al.|[2311.10929](http://arxiv.org/abs/2311.10929)|null|
@@ -348,7 +349,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-17**|**LRSCwait: Enabling Scalable and Efficient Synchronization in Manycore Systems through Polling-Free and Retry-Free Operation**|Samuel Riedel et.al.|[2401.09359](http://arxiv.org/abs/2401.09359)|null|
-|**2024-01-16**|**eROSITA Detection of a Cloud Obscuration Event in the Seyfert AGN EC 04570-5206**|Alex Markowitz et.al.|[2401.08768](http://arxiv.org/abs/2401.08768)|null|
+|**2024-01-18**|**eROSITA Detection of a Cloud Obscuration Event in the Seyfert AGN EC 04570-5206**|Alex Markowitz et.al.|[2401.08768](http://arxiv.org/abs/2401.08768)|null|
 |**2024-01-12**|**Direct In Situ Measurements of a Fast Coronal Mass Ejection and Associated Structures in the Corona**|Ying D. Liu et.al.|[2401.06449](http://arxiv.org/abs/2401.06449)|null|
 |**2024-01-09**|**Generalized wave-particle-Mixdness triality for n-path interferometers**|Y. T. Tsui et.al.|[2401.04370](http://arxiv.org/abs/2401.04370)|null|
 |**2024-01-08**|**Modelling of power exhaust in TCV positive and negative triangularity L-mode plasmas**|E. Tonello et.al.|[2401.03782](http://arxiv.org/abs/2401.03782)|null|
@@ -438,6 +439,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Classification of same-gate quantum circuits and their space-time symmetries with application to the level-spacing distribution**|Urban Duh et.al.|[2401.09708](http://arxiv.org/abs/2401.09708)|null|
 |**2024-01-16**|**Quantum information scrambling in two-dimensional Bose-Hubbard lattices**|Devjyoti Tripathy et.al.|[2401.08516](http://arxiv.org/abs/2401.08516)|null|
 |**2024-01-14**|**Quantum chaos in PT symmetric quantum systems**|Kshitij Sharma et.al.|[2401.07215](http://arxiv.org/abs/2401.07215)|null|
 |**2024-01-11**|**Quantum chaos in presence of non-conformality**|Ashis Saha et.al.|[2401.05814](http://arxiv.org/abs/2401.05814)|null|

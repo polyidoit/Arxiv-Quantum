@@ -168,7 +168,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|null|
+|**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|**[link](https://github.com/sy3104/isometry_adjointation)**|
 |**2023-12-20**|**Fourier Quantum Process Tomography**|Francesco Di Colandrea et.al.|[2312.13458](http://arxiv.org/abs/2312.13458)|null|
 |**2023-12-03**|**Using non-convex optimization in quantum process tomography: Factored gradient descent is tough to beat**|David A. Quiroga et.al.|[2312.01311](http://arxiv.org/abs/2312.01311)|null|
 |**2023-11-18**|**Extreme quantum states and processes, and extreme points of general spectrahedra in finite dimensional algebras**|Giulio Chiribella et.al.|[2311.10929](http://arxiv.org/abs/2311.10929)|null|

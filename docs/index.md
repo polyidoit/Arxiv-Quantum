@@ -420,6 +420,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Scaling Relations of Spectrum Form Factor and Krylov Complexity at Finite Temperature**|Chengming Tan et.al.|[2401.10499](http://arxiv.org/abs/2401.10499)|null|
+|**2024-01-18**|**Using reservoir computing to construct scarred wavefunctions**|L. Domingo et.al.|[2401.10307](http://arxiv.org/abs/2401.10307)|null|
 |**2024-01-18**|**Classification of same-gate quantum circuits and their space-time symmetries with application to the level-spacing distribution**|Urban Duh et.al.|[2401.09708](http://arxiv.org/abs/2401.09708)|null|
 |**2024-01-16**|**Quantum information scrambling in two-dimensional Bose-Hubbard lattices**|Devjyoti Tripathy et.al.|[2401.08516](http://arxiv.org/abs/2401.08516)|null|
 |**2024-01-14**|**Quantum chaos in PT symmetric quantum systems**|Kshitij Sharma et.al.|[2401.07215](http://arxiv.org/abs/2401.07215)|null|
@@ -595,6 +597,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Thresholds for the distributed surface code in the presence of memory decoherence**|Sébastian de Bone et.al.|[2401.10770](http://arxiv.org/abs/2401.10770)|null|
+|**2024-01-18**|**A dual-species Rydberg array**|Shraddha Anand et.al.|[2401.10325](http://arxiv.org/abs/2401.10325)|null|
 |**2024-01-17**|**Security of position-based quantum cryptography limits Hamiltonian simulation via holography**|Harriet Apel et.al.|[2401.09058](http://arxiv.org/abs/2401.09058)|null|
 |**2024-01-16**|**Three classes of propagation rules for GRS and EGRS codes and their applications to EAQECCs**|Ruhao Wan et.al.|[2401.08195](http://arxiv.org/abs/2401.08195)|null|
 |**2024-01-16**|**Error correctable efficient quantum homomorphic encryption**|IlKwon Sohn et.al.|[2401.08059](http://arxiv.org/abs/2401.08059)|null|

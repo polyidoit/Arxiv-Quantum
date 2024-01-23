@@ -212,6 +212,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-20**|**Nonequilibrium dynamics of the Hubbard dimer**|Yaroslav Pavlyukh et.al.|[2401.11301](http://arxiv.org/abs/2401.11301)|null|
 |**2024-01-12**|**Analysis and operating diagram of an interspecific density-dependent model**|Tahani Mtar et.al.|[2401.06339](http://arxiv.org/abs/2401.06339)|null|
 |**2024-01-08**|**Closed-Form Formula for the Partition Function and Related Functions**|Alfredo Nader et.al.|[2401.04026](http://arxiv.org/abs/2401.04026)|null|
 |**2023-12-25**|**On the rank of two-dimensional simplicial distributions**|Cihan Okay et.al.|[2312.15794](http://arxiv.org/abs/2312.15794)|null|
@@ -331,6 +332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-21**|**Study of Reconnection Dynamics and Plasma Relaxation in MHD simulation of a Solar Flare**|Satyam Agarwal et.al.|[2401.11417](http://arxiv.org/abs/2401.11417)|null|
 |**2024-01-17**|**LRSCwait: Enabling Scalable and Efficient Synchronization in Manycore Systems through Polling-Free and Retry-Free Operation**|Samuel Riedel et.al.|[2401.09359](http://arxiv.org/abs/2401.09359)|null|
 |**2024-01-18**|**eROSITA Detection of a Cloud Obscuration Event in the Seyfert AGN EC 04570-5206**|Alex Markowitz et.al.|[2401.08768](http://arxiv.org/abs/2401.08768)|null|
 |**2024-01-12**|**Direct In Situ Measurements of a Fast Coronal Mass Ejection and Associated Structures in the Corona**|Ying D. Liu et.al.|[2401.06449](http://arxiv.org/abs/2401.06449)|null|
@@ -420,6 +422,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-21**|**Quantum Circuit Simulation with Fast Tensor Decision Diagram**|Qirui Zhang et.al.|[2401.11362](http://arxiv.org/abs/2401.11362)|**[link](https://github.com/QiruiZhang/FTDD)**|
+|**2024-01-19**|**Dynamical transition of quantum scrambling in a non-Hermitian Floquet synthetic system**|Liang Huo et.al.|[2401.11059](http://arxiv.org/abs/2401.11059)|null|
+|**2024-01-19**|**Quadratic growth of Our-of-time ordered correlators in quantum kicked rotor model**|Guanling Li et.al.|[2401.11057](http://arxiv.org/abs/2401.11057)|null|
 |**2024-01-19**|**Scaling Relations of Spectrum Form Factor and Krylov Complexity at Finite Temperature**|Chengming Tan et.al.|[2401.10499](http://arxiv.org/abs/2401.10499)|null|
 |**2024-01-18**|**Using reservoir computing to construct scarred wavefunctions**|L. Domingo et.al.|[2401.10307](http://arxiv.org/abs/2401.10307)|null|
 |**2024-01-18**|**Classification of same-gate quantum circuits and their space-time symmetries with application to the level-spacing distribution**|Urban Duh et.al.|[2401.09708](http://arxiv.org/abs/2401.09708)|null|
@@ -597,6 +602,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Fault tolerance of stabilizer channels**|Michael E. Beverland et.al.|[2401.12017](http://arxiv.org/abs/2401.12017)|null|
 |**2024-01-19**|**Thresholds for the distributed surface code in the presence of memory decoherence**|Sébastian de Bone et.al.|[2401.10770](http://arxiv.org/abs/2401.10770)|null|
 |**2024-01-18**|**A dual-species Rydberg array**|Shraddha Anand et.al.|[2401.10325](http://arxiv.org/abs/2401.10325)|null|
 |**2024-01-17**|**Security of position-based quantum cryptography limits Hamiltonian simulation via holography**|Harriet Apel et.al.|[2401.09058](http://arxiv.org/abs/2401.09058)|null|

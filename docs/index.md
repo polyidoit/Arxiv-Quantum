@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Lifting noncontextuality inequalities**|Raman Choudhary et.al.|[2401.12349](http://arxiv.org/abs/2401.12349)|null|
 |**2024-01-16**|**Incorporating Zero-Probability Constraints to Device-Independent Randomness Expansion**|Chun-Yu Chen et.al.|[2401.08452](http://arxiv.org/abs/2401.08452)|null|
 |**2024-01-14**|**Embezzlement of entanglement, quantum fields, and the classification of von Neumann algebras**|Lauritz van Luijk et.al.|[2401.07299](http://arxiv.org/abs/2401.07299)|null|
 |**2024-01-03**|**Entanglement and confinement in lattice gauge theory tensor networks**|Johannes Knaute et.al.|[2401.01930](http://arxiv.org/abs/2401.01930)|null|
@@ -602,6 +603,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method**|Leanghok Hour et.al.|[2401.12495](http://arxiv.org/abs/2401.12495)|null|
+|**2024-01-23**|**Efficient near-optimal decoding of the surface code through ensembling**|Noah Shutty et.al.|[2401.12434](http://arxiv.org/abs/2401.12434)|null|
 |**2024-01-22**|**Fault tolerance of stabilizer channels**|Michael E. Beverland et.al.|[2401.12017](http://arxiv.org/abs/2401.12017)|null|
 |**2024-01-19**|**Thresholds for the distributed surface code in the presence of memory decoherence**|Sébastian de Bone et.al.|[2401.10770](http://arxiv.org/abs/2401.10770)|null|
 |**2024-01-18**|**A dual-species Rydberg array**|Shraddha Anand et.al.|[2401.10325](http://arxiv.org/abs/2401.10325)|null|

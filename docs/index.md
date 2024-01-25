@@ -423,6 +423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**A measure of chaos from eigenstate thermalization hypothesis**|Nilakash Sorokhaibam et.al.|[2401.13633](http://arxiv.org/abs/2401.13633)|null|
 |**2024-01-21**|**Quantum Circuit Simulation with Fast Tensor Decision Diagram**|Qirui Zhang et.al.|[2401.11362](http://arxiv.org/abs/2401.11362)|**[link](https://github.com/QiruiZhang/FTDD)**|
 |**2024-01-19**|**Dynamical transition of quantum scrambling in a non-Hermitian Floquet synthetic system**|Liang Huo et.al.|[2401.11059](http://arxiv.org/abs/2401.11059)|null|
 |**2024-01-19**|**Quadratic growth of Our-of-time ordered correlators in quantum kicked rotor model**|Guanling Li et.al.|[2401.11057](http://arxiv.org/abs/2401.11057)|null|
@@ -603,6 +604,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Intelligent Traffic Light Controller using Verilog and Xilinx Spartan-3e**|Apoorva Banerjee et.al.|[2401.13345](http://arxiv.org/abs/2401.13345)|null|
 |**2024-01-23**|**Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method**|Leanghok Hour et.al.|[2401.12495](http://arxiv.org/abs/2401.12495)|null|
 |**2024-01-23**|**Efficient near-optimal decoding of the surface code through ensembling**|Noah Shutty et.al.|[2401.12434](http://arxiv.org/abs/2401.12434)|null|
 |**2024-01-22**|**Fault tolerance of stabilizer channels**|Michael E. Beverland et.al.|[2401.12017](http://arxiv.org/abs/2401.12017)|null|

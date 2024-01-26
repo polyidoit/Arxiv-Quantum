@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Can quantum theory be underpinned by a non-local hidden variable theory ?**|Bryan J Dalton et.al.|[2401.13889](http://arxiv.org/abs/2401.13889)|null|
 |**2024-01-22**|**Lifting noncontextuality inequalities**|Raman Choudhary et.al.|[2401.12349](http://arxiv.org/abs/2401.12349)|null|
 |**2024-01-16**|**Incorporating Zero-Probability Constraints to Device-Independent Randomness Expansion**|Chun-Yu Chen et.al.|[2401.08452](http://arxiv.org/abs/2401.08452)|null|
 |**2024-01-14**|**Embezzlement of entanglement, quantum fields, and the classification of von Neumann algebras**|Lauritz van Luijk et.al.|[2401.07299](http://arxiv.org/abs/2401.07299)|null|
@@ -423,6 +424,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Entanglement growth from squeezing on the MPS manifold**|Sebastian Leontica et.al.|[2401.13740](http://arxiv.org/abs/2401.13740)|null|
 |**2024-01-24**|**A measure of chaos from eigenstate thermalization hypothesis**|Nilakash Sorokhaibam et.al.|[2401.13633](http://arxiv.org/abs/2401.13633)|null|
 |**2024-01-21**|**Quantum Circuit Simulation with Fast Tensor Decision Diagram**|Qirui Zhang et.al.|[2401.11362](http://arxiv.org/abs/2401.11362)|**[link](https://github.com/QiruiZhang/FTDD)**|
 |**2024-01-19**|**Dynamical transition of quantum scrambling in a non-Hermitian Floquet synthetic system**|Liang Huo et.al.|[2401.11059](http://arxiv.org/abs/2401.11059)|null|

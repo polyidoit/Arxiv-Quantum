@@ -424,6 +424,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Order-chaos transition in correlation diagrams and quantization of period orbits**|F. J. Arranz et.al.|[2401.14465](http://arxiv.org/abs/2401.14465)|null|
 |**2024-01-24**|**Entanglement growth from squeezing on the MPS manifold**|Sebastian Leontica et.al.|[2401.13740](http://arxiv.org/abs/2401.13740)|null|
 |**2024-01-24**|**A measure of chaos from eigenstate thermalization hypothesis**|Nilakash Sorokhaibam et.al.|[2401.13633](http://arxiv.org/abs/2401.13633)|null|
 |**2024-01-21**|**Quantum Circuit Simulation with Fast Tensor Decision Diagram**|Qirui Zhang et.al.|[2401.11362](http://arxiv.org/abs/2401.11362)|**[link](https://github.com/QiruiZhang/FTDD)**|

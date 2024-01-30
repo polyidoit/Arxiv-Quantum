@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Minimum Detection Efficiencies for Loophole-free Genuine Nonlocality Tests**|Subhendu B. Ghosh et.al.|[2401.16134](http://arxiv.org/abs/2401.16134)|null|
 |**2024-01-25**|**Can quantum theory be underpinned by a non-local hidden variable theory ?**|Bryan J Dalton et.al.|[2401.13889](http://arxiv.org/abs/2401.13889)|null|
 |**2024-01-22**|**Lifting noncontextuality inequalities**|Raman Choudhary et.al.|[2401.12349](http://arxiv.org/abs/2401.12349)|null|
 |**2024-01-16**|**Incorporating Zero-Probability Constraints to Device-Independent Randomness Expansion**|Chun-Yu Chen et.al.|[2401.08452](http://arxiv.org/abs/2401.08452)|null|
@@ -170,6 +171,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Quantum process matrices as images: new tools to design novel denoising methods**|Massimiliano Guarneri et.al.|[2401.16362](http://arxiv.org/abs/2401.16362)|null|
 |**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|**[link](https://github.com/sy3104/isometry_adjointation)**|
 |**2023-12-20**|**Fourier Quantum Process Tomography**|Francesco Di Colandrea et.al.|[2312.13458](http://arxiv.org/abs/2312.13458)|null|
 |**2023-12-03**|**Using non-convex optimization in quantum process tomography: Factored gradient descent is tough to beat**|David A. Quiroga et.al.|[2312.01311](http://arxiv.org/abs/2312.01311)|null|
@@ -293,6 +295,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-27**|**Demonstration of monogamy laws for Gaussian steering in optomechanics**|J El Qars et.al.|[2401.15521](http://arxiv.org/abs/2401.15521)|null|
 |**2023-12-21**|**Compressing continuous variable quantum measurements**|Pauli Jokinen et.al.|[2312.13814](http://arxiv.org/abs/2312.13814)|null|
 |**2023-12-19**|**Quantum steering ellipsoids and quantum obesity in critical systems**|Pedro Rosario et.al.|[2312.12537](http://arxiv.org/abs/2312.12537)|null|
 |**2023-12-19**|**Quantum squeezing induced quantum entanglement and EPR steering in coupled optomechanical system**|Shao-Xiong Wu et.al.|[2312.12310](http://arxiv.org/abs/2312.12310)|null|
@@ -351,6 +354,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**The relative entropy of coherence quantifies performance in Bayesian metrology**|Ruvi Lecamwasam et.al.|[2401.16020](http://arxiv.org/abs/2401.16020)|null|
 |**2024-01-21**|**Study of Reconnection Dynamics and Plasma Relaxation in MHD simulation of a Solar Flare**|Satyam Agarwal et.al.|[2401.11417](http://arxiv.org/abs/2401.11417)|null|
 |**2024-01-17**|**LRSCwait: Enabling Scalable and Efficient Synchronization in Manycore Systems through Polling-Free and Retry-Free Operation**|Samuel Riedel et.al.|[2401.09359](http://arxiv.org/abs/2401.09359)|null|
 |**2024-01-18**|**eROSITA Detection of a Cloud Obscuration Event in the Seyfert AGN EC 04570-5206**|Alex Markowitz et.al.|[2401.08768](http://arxiv.org/abs/2401.08768)|null|
@@ -448,7 +452,7 @@
 |**2024-01-24**|**A measure of chaos from eigenstate thermalization hypothesis**|Nilakash Sorokhaibam et.al.|[2401.13633](http://arxiv.org/abs/2401.13633)|null|
 |**2024-01-21**|**Quantum Circuit Simulation with Fast Tensor Decision Diagram**|Qirui Zhang et.al.|[2401.11362](http://arxiv.org/abs/2401.11362)|**[link](https://github.com/QiruiZhang/FTDD)**|
 |**2024-01-19**|**Dynamical transition of quantum scrambling in a non-Hermitian Floquet synthetic system**|Liang Huo et.al.|[2401.11059](http://arxiv.org/abs/2401.11059)|null|
-|**2024-01-19**|**Quadratic growth of Our-of-time ordered correlators in quantum kicked rotor model**|Guanling Li et.al.|[2401.11057](http://arxiv.org/abs/2401.11057)|null|
+|**2024-01-28**|**Quadratic growth of Out-of-time ordered correlators in quantum kicked rotor model**|Guanling Li et.al.|[2401.11057](http://arxiv.org/abs/2401.11057)|null|
 |**2024-01-19**|**Scaling Relations of Spectrum Form Factor and Krylov Complexity at Finite Temperature**|Chengming Tan et.al.|[2401.10499](http://arxiv.org/abs/2401.10499)|null|
 |**2024-01-18**|**Using reservoir computing to construct scarred wavefunctions**|L. Domingo et.al.|[2401.10307](http://arxiv.org/abs/2401.10307)|null|
 |**2024-01-18**|**Classification of same-gate quantum circuits and their space-time symmetries with application to the level-spacing distribution**|Urban Duh et.al.|[2401.09708](http://arxiv.org/abs/2401.09708)|null|
@@ -628,6 +632,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice**|Kou Hamada et.al.|[2401.15829](http://arxiv.org/abs/2401.15829)|null|
+|**2024-01-27**|**A method for constructing quaternary Hermitian self-dual codes and an application to quantum codes**|Masaaki Harada et.al.|[2401.15265](http://arxiv.org/abs/2401.15265)|null|
 |**2024-01-24**|**Intelligent Traffic Light Controller using Verilog and Xilinx Spartan-3e**|Apoorva Banerjee et.al.|[2401.13345](http://arxiv.org/abs/2401.13345)|null|
 |**2024-01-23**|**Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method**|Leanghok Hour et.al.|[2401.12495](http://arxiv.org/abs/2401.12495)|null|
 |**2024-01-23**|**Efficient near-optimal decoding of the surface code through ensembling**|Noah Shutty et.al.|[2401.12434](http://arxiv.org/abs/2401.12434)|null|

@@ -216,6 +216,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Hanbury Brown and Twiss interference of electrons in free space from independent needle tip sources**|Anton Classen et.al.|[2401.17088](http://arxiv.org/abs/2401.17088)|null|
 |**2024-01-20**|**Nonequilibrium dynamics of the Hubbard dimer**|Yaroslav Pavlyukh et.al.|[2401.11301](http://arxiv.org/abs/2401.11301)|null|
 |**2024-01-12**|**Analysis and operating diagram of an interspecific density-dependent model**|Tahani Mtar et.al.|[2401.06339](http://arxiv.org/abs/2401.06339)|null|
 |**2024-01-08**|**Closed-Form Formula for the Partition Function and Related Functions**|Alfredo Nader et.al.|[2401.04026](http://arxiv.org/abs/2401.04026)|null|
@@ -428,6 +429,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Markovian to non-Markovian phase transition in the operator dynamics of a mobile impurity**|Dominic Gribben et.al.|[2401.17066](http://arxiv.org/abs/2401.17066)|null|
 |**2024-01-25**|**Order-chaos transition in correlation diagrams and quantization of period orbits**|F. J. Arranz et.al.|[2401.14465](http://arxiv.org/abs/2401.14465)|null|
 |**2024-01-24**|**Entanglement growth from squeezing on the MPS manifold**|Sebastian Leontica et.al.|[2401.13740](http://arxiv.org/abs/2401.13740)|null|
 |**2024-01-24**|**A measure of chaos from eigenstate thermalization hypothesis**|Nilakash Sorokhaibam et.al.|[2401.13633](http://arxiv.org/abs/2401.13633)|null|

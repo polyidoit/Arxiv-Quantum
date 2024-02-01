@@ -20,7 +20,7 @@
 |**2024-01-25**|**Can quantum theory be underpinned by a non-local hidden variable theory ?**|Bryan J Dalton et.al.|[2401.13889](http://arxiv.org/abs/2401.13889)|null|
 |**2024-01-22**|**Lifting noncontextuality inequalities**|Raman Choudhary et.al.|[2401.12349](http://arxiv.org/abs/2401.12349)|null|
 |**2024-01-16**|**Incorporating Zero-Probability Constraints to Device-Independent Randomness Expansion**|Chun-Yu Chen et.al.|[2401.08452](http://arxiv.org/abs/2401.08452)|null|
-|**2024-01-14**|**Embezzlement of entanglement, quantum fields, and the classification of von Neumann algebras**|Lauritz van Luijk et.al.|[2401.07299](http://arxiv.org/abs/2401.07299)|null|
+|**2024-01-31**|**Embezzlement of entanglement, quantum fields, and the classification of von Neumann algebras**|Lauritz van Luijk et.al.|[2401.07299](http://arxiv.org/abs/2401.07299)|null|
 |**2024-01-03**|**Entanglement and confinement in lattice gauge theory tensor networks**|Johannes Knaute et.al.|[2401.01930](http://arxiv.org/abs/2401.01930)|null|
 |**2024-01-03**|**Intersystem Bell-like States in Classical Polarization Optics**|Partha Ghose et.al.|[2401.01615](http://arxiv.org/abs/2401.01615)|null|
 |**2024-01-02**|**Can Bell inequalities be tested via scattering cross-section at colliders ?**|Song Li et.al.|[2401.01162](http://arxiv.org/abs/2401.01162)|null|
@@ -171,6 +171,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Quantum influences and event relativity**|Nick Ormrod et.al.|[2401.18005](http://arxiv.org/abs/2401.18005)|null|
 |**2024-01-29**|**Quantum process matrices as images: new tools to design novel denoising methods**|Massimiliano Guarneri et.al.|[2401.16362](http://arxiv.org/abs/2401.16362)|null|
 |**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|**[link](https://github.com/sy3104/isometry_adjointation)**|
 |**2023-12-20**|**Fourier Quantum Process Tomography**|Francesco Di Colandrea et.al.|[2312.13458](http://arxiv.org/abs/2312.13458)|null|
@@ -296,6 +297,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Quantum steering from phase measurements with limited resources**|Gabriele Bizzarri et.al.|[2401.17431](http://arxiv.org/abs/2401.17431)|null|
 |**2024-01-27**|**Demonstration of monogamy laws for Gaussian steering in optomechanics**|J El Qars et.al.|[2401.15521](http://arxiv.org/abs/2401.15521)|null|
 |**2023-12-21**|**Compressing continuous variable quantum measurements**|Pauli Jokinen et.al.|[2312.13814](http://arxiv.org/abs/2312.13814)|null|
 |**2023-12-19**|**Quantum steering ellipsoids and quantum obesity in critical systems**|Pedro Rosario et.al.|[2312.12537](http://arxiv.org/abs/2312.12537)|null|
@@ -448,6 +450,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Chaotic scattering in ultracold atom-ion collisions**|Meirav Pinkas et.al.|[2401.18003](http://arxiv.org/abs/2401.18003)|null|
+|**2024-01-31**|**Controlling Many-Body Quantum Chaos: Bose-Hubbard systems**|Lukas Beringer et.al.|[2401.17744](http://arxiv.org/abs/2401.17744)|null|
 |**2024-01-30**|**Markovian to non-Markovian phase transition in the operator dynamics of a mobile impurity**|Dominic Gribben et.al.|[2401.17066](http://arxiv.org/abs/2401.17066)|null|
 |**2024-01-25**|**Order-chaos transition in correlation diagrams and quantization of period orbits**|F. J. Arranz et.al.|[2401.14465](http://arxiv.org/abs/2401.14465)|null|
 |**2024-01-24**|**Entanglement growth from squeezing on the MPS manifold**|Sebastian Leontica et.al.|[2401.13740](http://arxiv.org/abs/2401.13740)|null|
@@ -634,6 +638,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Quantum error correction realized by the renormalization group in scalar field theories**|Takaaki Kuwahara et.al.|[2401.17795](http://arxiv.org/abs/2401.17795)|null|
+|**2024-01-30**|**Tapestry of dualities in decohered quantum error correction codes**|Kaixiang Su et.al.|[2401.17359](http://arxiv.org/abs/2401.17359)|null|
 |**2024-01-29**|**Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice**|Kou Hamada et.al.|[2401.15829](http://arxiv.org/abs/2401.15829)|null|
 |**2024-01-27**|**A method for constructing quaternary Hermitian self-dual codes and an application to quantum codes**|Masaaki Harada et.al.|[2401.15265](http://arxiv.org/abs/2401.15265)|null|
 |**2024-01-24**|**Intelligent Traffic Light Controller using Verilog and Xilinx Spartan-3e**|Apoorva Banerjee et.al.|[2401.13345](http://arxiv.org/abs/2401.13345)|null|

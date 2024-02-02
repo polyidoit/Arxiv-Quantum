@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Test of the physical significance of Bell nonlocality**|Carlos Vieira et.al.|[2402.00801](http://arxiv.org/abs/2402.00801)|null|
+|**2024-02-01**|**Quantum Nonlocality: how does Nature do it?**|Marian Kupczynski et.al.|[2402.00725](http://arxiv.org/abs/2402.00725)|null|
 |**2024-01-29**|**Minimum Detection Efficiencies for Loophole-free Genuine Nonlocality Tests**|Subhendu B. Ghosh et.al.|[2401.16134](http://arxiv.org/abs/2401.16134)|null|
 |**2024-01-25**|**Can quantum theory be underpinned by a non-local hidden variable theory ?**|Bryan J Dalton et.al.|[2401.13889](http://arxiv.org/abs/2401.13889)|null|
 |**2024-01-22**|**Lifting noncontextuality inequalities**|Raman Choudhary et.al.|[2401.12349](http://arxiv.org/abs/2401.12349)|null|
@@ -230,6 +232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Fermion-like behavior of elements in their spatial distribution around points of interest**|Josu Martinez-Perdiguero et.al.|[2402.00499](http://arxiv.org/abs/2402.00499)|null|
 |**2024-01-30**|**Hanbury Brown and Twiss interference of electrons in free space from independent needle tip sources**|Anton Classen et.al.|[2401.17088](http://arxiv.org/abs/2401.17088)|null|
 |**2024-01-20**|**Nonequilibrium dynamics of the Hubbard dimer**|Yaroslav Pavlyukh et.al.|[2401.11301](http://arxiv.org/abs/2401.11301)|null|
 |**2024-01-12**|**Analysis and operating diagram of an interspecific density-dependent model**|Tahani Mtar et.al.|[2401.06339](http://arxiv.org/abs/2401.06339)|null|
@@ -297,6 +300,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Witnessing non-Markovianity with Gaussian quantum steering in collision model**|Yan Li et.al.|[2402.00524](http://arxiv.org/abs/2402.00524)|null|
 |**2024-01-30**|**Quantum steering from phase measurements with limited resources**|Gabriele Bizzarri et.al.|[2401.17431](http://arxiv.org/abs/2401.17431)|null|
 |**2024-01-27**|**Demonstration of monogamy laws for Gaussian steering in optomechanics**|J El Qars et.al.|[2401.15521](http://arxiv.org/abs/2401.15521)|null|
 |**2023-12-21**|**Compressing continuous variable quantum measurements**|Pauli Jokinen et.al.|[2312.13814](http://arxiv.org/abs/2312.13814)|null|
@@ -450,6 +454,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**A study of chaos and randomness in quantum systems**|Sreeram PG et.al.|[2402.00287](http://arxiv.org/abs/2402.00287)|null|
 |**2024-01-31**|**Chaotic scattering in ultracold atom-ion collisions**|Meirav Pinkas et.al.|[2401.18003](http://arxiv.org/abs/2401.18003)|null|
 |**2024-01-31**|**Controlling Many-Body Quantum Chaos: Bose-Hubbard systems**|Lukas Beringer et.al.|[2401.17744](http://arxiv.org/abs/2401.17744)|null|
 |**2024-01-30**|**Markovian to non-Markovian phase transition in the operator dynamics of a mobile impurity**|Dominic Gribben et.al.|[2401.17066](http://arxiv.org/abs/2401.17066)|null|
@@ -638,6 +643,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**System Characterization of Dispersive Readout in Superconducting Qubits**|Daniel Sank et.al.|[2402.00413](http://arxiv.org/abs/2402.00413)|null|
+|**2024-01-31**|**Randomly Monitored Quantum Codes**|Dongjin Lee et.al.|[2402.00145](http://arxiv.org/abs/2402.00145)|null|
 |**2024-01-31**|**Quantum error correction realized by the renormalization group in scalar field theories**|Takaaki Kuwahara et.al.|[2401.17795](http://arxiv.org/abs/2401.17795)|null|
 |**2024-01-30**|**Tapestry of dualities in decohered quantum error correction codes**|Kaixiang Su et.al.|[2401.17359](http://arxiv.org/abs/2401.17359)|null|
 |**2024-01-29**|**Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice**|Kou Hamada et.al.|[2401.15829](http://arxiv.org/abs/2401.15829)|null|

@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Realistic Bell tests with homodyne measurements**|Enky Oudot et.al.|[2402.01530](http://arxiv.org/abs/2402.01530)|null|
 |**2024-02-01**|**Test of the physical significance of Bell nonlocality**|Carlos Vieira et.al.|[2402.00801](http://arxiv.org/abs/2402.00801)|null|
 |**2024-02-01**|**Quantum Nonlocality: how does Nature do it?**|Marian Kupczynski et.al.|[2402.00725](http://arxiv.org/abs/2402.00725)|null|
 |**2024-01-29**|**Minimum Detection Efficiencies for Loophole-free Genuine Nonlocality Tests**|Subhendu B. Ghosh et.al.|[2401.16134](http://arxiv.org/abs/2401.16134)|null|
@@ -173,6 +174,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Double or nothing: a Kolmogorov extension theorem for multitime (bi)probabilities in quantum mechanics**|Davide Lonigro et.al.|[2402.01218](http://arxiv.org/abs/2402.01218)|null|
 |**2024-01-31**|**Quantum influences and event relativity**|Nick Ormrod et.al.|[2401.18005](http://arxiv.org/abs/2401.18005)|null|
 |**2024-01-29**|**Quantum process matrices as images: new tools to design novel denoising methods**|Massimiliano Guarneri et.al.|[2401.16362](http://arxiv.org/abs/2401.16362)|null|
 |**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|**[link](https://github.com/sy3104/isometry_adjointation)**|
@@ -361,6 +363,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Quantum censorship -- and how to get around it**|Julien Pinske et.al.|[2402.01068](http://arxiv.org/abs/2402.01068)|null|
 |**2024-01-29**|**The relative entropy of coherence quantifies performance in Bayesian metrology**|Ruvi Lecamwasam et.al.|[2401.16020](http://arxiv.org/abs/2401.16020)|null|
 |**2024-01-21**|**Study of Reconnection Dynamics and Plasma Relaxation in MHD simulation of a Solar Flare**|Satyam Agarwal et.al.|[2401.11417](http://arxiv.org/abs/2401.11417)|null|
 |**2024-01-17**|**LRSCwait: Enabling Scalable and Efficient Synchronization in Manycore Systems through Polling-Free and Retry-Free Operation**|Samuel Riedel et.al.|[2401.09359](http://arxiv.org/abs/2401.09359)|null|
@@ -643,6 +646,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Free Quantum Codes from Twisted Unitary $t$ -groups**|Eric Kubischta et.al.|[2402.01638](http://arxiv.org/abs/2402.01638)|null|
+|**2024-02-02**|**The closed-branch decoder for quantum LDPC codes**|Antonio deMarti iOlius et.al.|[2402.01532](http://arxiv.org/abs/2402.01532)|null|
 |**2024-02-01**|**System Characterization of Dispersive Readout in Superconducting Qubits**|Daniel Sank et.al.|[2402.00413](http://arxiv.org/abs/2402.00413)|null|
 |**2024-01-31**|**Randomly Monitored Quantum Codes**|Dongjin Lee et.al.|[2402.00145](http://arxiv.org/abs/2402.00145)|null|
 |**2024-01-31**|**Quantum error correction realized by the renormalization group in scalar field theories**|Takaaki Kuwahara et.al.|[2401.17795](http://arxiv.org/abs/2401.17795)|null|

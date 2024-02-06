@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Beating one bit of Communication with Quantum Correlations in Smaller Dimension**|Peter Sidajaya et.al.|[2402.02723](http://arxiv.org/abs/2402.02723)|null|
 |**2024-02-02**|**Realistic Bell tests with homodyne measurements**|Enky Oudot et.al.|[2402.01530](http://arxiv.org/abs/2402.01530)|null|
 |**2024-02-01**|**Test of the physical significance of Bell nonlocality**|Carlos Vieira et.al.|[2402.00801](http://arxiv.org/abs/2402.00801)|null|
 |**2024-02-01**|**Quantum Nonlocality: how does Nature do it?**|Marian Kupczynski et.al.|[2402.00725](http://arxiv.org/abs/2402.00725)|null|
@@ -625,6 +626,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Synchronous Detection of Cosmic Rays and Correlated Errors in Superconducting Qubit Arrays**|Patrick M. Harrington et.al.|[2402.03208](http://arxiv.org/abs/2402.03208)|null|
+|**2024-02-03**|**Comparative study of quantum error correction strategies for the heavy-hexagonal lattice**|César Benito et.al.|[2402.02185](http://arxiv.org/abs/2402.02185)|null|
 |**2024-02-02**|**Free Quantum Codes from Twisted Unitary $t$ -groups**|Eric Kubischta et.al.|[2402.01638](http://arxiv.org/abs/2402.01638)|null|
 |**2024-02-02**|**The closed-branch decoder for quantum LDPC codes**|Antonio deMarti iOlius et.al.|[2402.01532](http://arxiv.org/abs/2402.01532)|null|
 |**2024-02-01**|**System Characterization of Dispersive Readout in Superconducting Qubits**|Daniel Sank et.al.|[2402.00413](http://arxiv.org/abs/2402.00413)|null|

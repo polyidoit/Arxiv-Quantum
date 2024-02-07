@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Recollections about Växjö conferences. Preface to the special issue "Quantum Information and Probability: from Foundations to Engineering'' (QIP23)**|Andrei Khrennikov et.al.|[2402.03402](http://arxiv.org/abs/2402.03402)|null|
 |**2024-02-05**|**Beating one bit of Communication with Quantum Correlations in Smaller Dimension**|Peter Sidajaya et.al.|[2402.02723](http://arxiv.org/abs/2402.02723)|null|
 |**2024-02-02**|**Realistic Bell tests with homodyne measurements**|Enky Oudot et.al.|[2402.01530](http://arxiv.org/abs/2402.01530)|null|
 |**2024-02-01**|**Test of the physical significance of Bell nonlocality**|Carlos Vieira et.al.|[2402.00801](http://arxiv.org/abs/2402.00801)|null|
@@ -175,6 +176,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Quantifying information flow in quantum processes**|Leonardo Santos et.al.|[2402.04213](http://arxiv.org/abs/2402.04213)|null|
 |**2024-02-02**|**Double or nothing: a Kolmogorov extension theorem for multitime (bi)probabilities in quantum mechanics**|Davide Lonigro et.al.|[2402.01218](http://arxiv.org/abs/2402.01218)|null|
 |**2024-01-31**|**Quantum influences and event relativity**|Nick Ormrod et.al.|[2401.18005](http://arxiv.org/abs/2401.18005)|null|
 |**2024-01-29**|**Quantum process matrices as images: new tools to design novel denoising methods**|Massimiliano Guarneri et.al.|[2401.16362](http://arxiv.org/abs/2401.16362)|null|
@@ -364,6 +366,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**An end-to-end deep learning pipeline to derive blood input with partial volume corrections for automated parametric brain PET mapping**|Rugved Chavan et.al.|[2402.03414](http://arxiv.org/abs/2402.03414)|null|
 |**2024-02-01**|**Quantum censorship -- and how to get around it**|Julien Pinske et.al.|[2402.01068](http://arxiv.org/abs/2402.01068)|null|
 |**2024-01-29**|**The relative entropy of coherence quantifies performance in Bayesian metrology**|Ruvi Lecamwasam et.al.|[2401.16020](http://arxiv.org/abs/2401.16020)|null|
 |**2024-01-21**|**Study of Reconnection Dynamics and Plasma Relaxation in MHD simulation of a Solar Flare**|Satyam Agarwal et.al.|[2401.11417](http://arxiv.org/abs/2401.11417)|null|
@@ -458,6 +461,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Nonlocal growth of quantum conditional mutual information under decoherence**|Yifan Zhang et.al.|[2402.03439](http://arxiv.org/abs/2402.03439)|null|
+|**2024-02-05**|**Cryptographic Censorship**|Netta Engelhardt et.al.|[2402.03425](http://arxiv.org/abs/2402.03425)|null|
 |**2024-02-01**|**A study of chaos and randomness in quantum systems**|Sreeram PG et.al.|[2402.00287](http://arxiv.org/abs/2402.00287)|null|
 |**2024-01-31**|**Chaotic scattering in ultracold atom-ion collisions**|Meirav Pinkas et.al.|[2401.18003](http://arxiv.org/abs/2401.18003)|null|
 |**2024-01-31**|**Controlling Many-Body Quantum Chaos: Bose-Hubbard systems**|Lukas Beringer et.al.|[2401.17744](http://arxiv.org/abs/2401.17744)|null|
@@ -647,6 +652,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Direct evidence for cosmic-ray-induced correlated errors in superconducting qubit array**|Xue-Gang Li et.al.|[2402.04245](http://arxiv.org/abs/2402.04245)|null|
+|**2024-02-06**|**Robust projective measurements through measuring code-inspired observables**|Yingkai Ouyang et.al.|[2402.04093](http://arxiv.org/abs/2402.04093)|null|
 |**2024-02-05**|**Synchronous Detection of Cosmic Rays and Correlated Errors in Superconducting Qubit Arrays**|Patrick M. Harrington et.al.|[2402.03208](http://arxiv.org/abs/2402.03208)|null|
 |**2024-02-03**|**Comparative study of quantum error correction strategies for the heavy-hexagonal lattice**|César Benito et.al.|[2402.02185](http://arxiv.org/abs/2402.02185)|null|
 |**2024-02-02**|**Free Quantum Codes from Twisted Unitary $t$ -groups**|Eric Kubischta et.al.|[2402.01638](http://arxiv.org/abs/2402.01638)|null|

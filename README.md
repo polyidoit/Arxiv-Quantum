@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-05**|**Recollections about Växjö conferences. Preface to the special issue "Quantum Information and Probability: from Foundations to Engineering'' (QIP23)**|Andrei Khrennikov et.al.|[2402.03402](http://arxiv.org/abs/2402.03402)|null|
 |**2024-02-05**|**Beating one bit of Communication with Quantum Correlations in Smaller Dimension**|Peter Sidajaya et.al.|[2402.02723](http://arxiv.org/abs/2402.02723)|null|
 |**2024-02-02**|**Realistic Bell tests with homodyne measurements**|Enky Oudot et.al.|[2402.01530](http://arxiv.org/abs/2402.01530)|null|
@@ -237,6 +238,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-01**|**Fermion-like behavior of elements in their spatial distribution around points of interest**|Josu Martinez-Perdiguero et.al.|[2402.00499](http://arxiv.org/abs/2402.00499)|null|
 |**2024-01-30**|**Hanbury Brown and Twiss interference of electrons in free space from independent needle tip sources**|Anton Classen et.al.|[2401.17088](http://arxiv.org/abs/2401.17088)|null|
 |**2024-01-20**|**Nonequilibrium dynamics of the Hubbard dimer**|Yaroslav Pavlyukh et.al.|[2401.11301](http://arxiv.org/abs/2401.11301)|null|
@@ -305,6 +307,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-01**|**Witnessing non-Markovianity with Gaussian quantum steering in collision model**|Yan Li et.al.|[2402.00524](http://arxiv.org/abs/2402.00524)|null|
 |**2024-01-30**|**Quantum steering from phase measurements with limited resources**|Gabriele Bizzarri et.al.|[2401.17431](http://arxiv.org/abs/2401.17431)|null|
 |**2024-01-27**|**Demonstration of monogamy laws for Gaussian steering in optomechanics**|J El Qars et.al.|[2401.15521](http://arxiv.org/abs/2401.15521)|null|
@@ -461,6 +464,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Challenges and opportunities in the supervised learning of quantum circuit outputs**|Simone Cantori et.al.|[2402.04992](http://arxiv.org/abs/2402.04992)|null|
+|**2024-02-07**|**Decoherence Rate in Random Lindblad Dynamics**|Yifeng Yang et.al.|[2402.04705](http://arxiv.org/abs/2402.04705)|null|
 |**2024-02-05**|**Nonlocal growth of quantum conditional mutual information under decoherence**|Yifan Zhang et.al.|[2402.03439](http://arxiv.org/abs/2402.03439)|null|
 |**2024-02-05**|**Cryptographic Censorship**|Netta Engelhardt et.al.|[2402.03425](http://arxiv.org/abs/2402.03425)|null|
 |**2024-02-01**|**A study of chaos and randomness in quantum systems**|Sreeram PG et.al.|[2402.00287](http://arxiv.org/abs/2402.00287)|null|
@@ -652,6 +657,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Monitoring the energy of a cavity by observing the emission of a repeatedly excited qubit**|Hector Hutin et.al.|[2402.05046](http://arxiv.org/abs/2402.05046)|null|
+|**2024-02-07**|**A blockBP decoder for the surface code**|Aviad Kaufmann et.al.|[2402.04834](http://arxiv.org/abs/2402.04834)|null|
 |**2024-02-06**|**Direct evidence for cosmic-ray-induced correlated errors in superconducting qubit array**|Xue-Gang Li et.al.|[2402.04245](http://arxiv.org/abs/2402.04245)|null|
 |**2024-02-06**|**Robust projective measurements through measuring code-inspired observables**|Yingkai Ouyang et.al.|[2402.04093](http://arxiv.org/abs/2402.04093)|null|
 |**2024-02-05**|**Synchronous Detection of Cosmic Rays and Correlated Errors in Superconducting Qubit Arrays**|Patrick M. Harrington et.al.|[2402.03208](http://arxiv.org/abs/2402.03208)|null|

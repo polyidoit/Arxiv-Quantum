@@ -352,6 +352,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Resources of the Quantum World**|Gilad Gour et.al.|[2402.05474](http://arxiv.org/abs/2402.05474)|null|
 |**2024-02-05**|**An end-to-end deep learning pipeline to derive blood input with partial volume corrections for automated parametric brain PET mapping**|Rugved Chavan et.al.|[2402.03414](http://arxiv.org/abs/2402.03414)|null|
 |**2024-02-01**|**Quantum censorship -- and how to get around it**|Julien Pinske et.al.|[2402.01068](http://arxiv.org/abs/2402.01068)|null|
 |**2024-01-29**|**The relative entropy of coherence quantifies performance in Bayesian metrology**|Ruvi Lecamwasam et.al.|[2401.16020](http://arxiv.org/abs/2401.16020)|null|
@@ -636,6 +637,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Safeguarding Oscillators and Qudits with Distributed Two-Mode Squeezing**|Anthony J. Brady et.al.|[2402.05888](http://arxiv.org/abs/2402.05888)|null|
+|**2024-02-07**|**Weight Reduced Stabilizer Codes with Lower Overhead**|Eric Sabo et.al.|[2402.05228](http://arxiv.org/abs/2402.05228)|null|
 |**2024-02-07**|**Monitoring the energy of a cavity by observing the emission of a repeatedly excited qubit**|Hector Hutin et.al.|[2402.05046](http://arxiv.org/abs/2402.05046)|null|
 |**2024-02-07**|**A blockBP decoder for the surface code**|Aviad Kaufmann et.al.|[2402.04834](http://arxiv.org/abs/2402.04834)|null|
 |**2024-02-06**|**Direct evidence for cosmic-ray-induced correlated errors in superconducting qubit array**|Xue-Gang Li et.al.|[2402.04245](http://arxiv.org/abs/2402.04245)|null|

@@ -465,6 +465,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Observing quantum many-body scars in random quantum circuits**|Bárbara Andrade et.al.|[2402.06489](http://arxiv.org/abs/2402.06489)|null|
 |**2024-02-07**|**Challenges and opportunities in the supervised learning of quantum circuit outputs**|Simone Cantori et.al.|[2402.04992](http://arxiv.org/abs/2402.04992)|null|
 |**2024-02-07**|**Decoherence Rate in Random Lindblad Dynamics**|Yifeng Yang et.al.|[2402.04705](http://arxiv.org/abs/2402.04705)|null|
 |**2024-02-05**|**Nonlocal growth of quantum conditional mutual information under decoherence**|Yifan Zhang et.al.|[2402.03439](http://arxiv.org/abs/2402.03439)|null|
@@ -658,6 +659,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Determining the upper bound of code distance of quantum stabilizer codes through Monte Carlo method based on fully decoupled belief propagation**|Zhipeng Liang et.al.|[2402.06481](http://arxiv.org/abs/2402.06481)|null|
+|**2024-02-09**|**Efficient initialization of fluxonium qubits based on auxiliary energy levels**|Tenghui Wang et.al.|[2402.06267](http://arxiv.org/abs/2402.06267)|null|
 |**2024-02-08**|**Safeguarding Oscillators and Qudits with Distributed Two-Mode Squeezing**|Anthony J. Brady et.al.|[2402.05888](http://arxiv.org/abs/2402.05888)|null|
 |**2024-02-07**|**Weight Reduced Stabilizer Codes with Lower Overhead**|Eric Sabo et.al.|[2402.05228](http://arxiv.org/abs/2402.05228)|null|
 |**2024-02-07**|**Monitoring the energy of a cavity by observing the emission of a repeatedly excited qubit**|Hector Hutin et.al.|[2402.05046](http://arxiv.org/abs/2402.05046)|null|

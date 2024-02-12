@@ -768,7 +768,7 @@
 |**2023-11-18**|**Benchmarking Machine Learning Models for Quantum Error Correction**|Tim Fu et.al.|[2311.11167](http://arxiv.org/abs/2311.11167)|null|
 |**2023-11-18**|**Exotic Symmetry Breaking Properties of Self-Dual Fracton Spin Models**|Giovanni Canossa et.al.|[2311.11066](http://arxiv.org/abs/2311.11066)|null|
 |**2023-11-17**|**TISCC: A Surface Code Compiler and Resource Estimator for Trapped-Ion Processors**|Tyler LeBlond et.al.|[2311.10687](http://arxiv.org/abs/2311.10687)|**[link](https://github.com/ornl-qci/tiscc)**|
-|**2023-11-17**|**Realistic Cost to Execute Practical Quantum Circuits using Direct Clifford+T Lattice Surgery Compilation**|Tyler LeBlond et.al.|[2311.10686](http://arxiv.org/abs/2311.10686)|null|
+|**2023-11-17**|**Realistic Cost to Execute Practical Quantum Circuits using Direct Clifford+T Lattice Surgery Compilation**|Tyler LeBlond et.al.|[2311.10686](http://arxiv.org/abs/2311.10686)|**[link](https://github.com/latticesurgery-com/liblsqecc)**|
 |**2023-11-17**|**Robust universal quantum processors in spin systems via Walsh pulse sequences**|Matteo Votto et.al.|[2311.10600](http://arxiv.org/abs/2311.10600)|null|
 |**2023-11-17**|**Deterministic preparation of optical squeezed cat and Gottesman-Kitaev-Preskill states**|Matthew S. Winnel et.al.|[2311.10510](http://arxiv.org/abs/2311.10510)|null|
 |**2023-11-15**|**Reducing 2-QuBit Gate Count for ZX-Calculus based Quantum Circuit Optimization**|Korbinian Staudacher et.al.|[2311.08881](http://arxiv.org/abs/2311.08881)|null|

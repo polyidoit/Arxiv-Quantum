@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-10**|**Everettian Branching in the World and of the World**|Nadia Blackshaw et.al.|[2402.06848](http://arxiv.org/abs/2402.06848)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-05**|**Recollections about Växjö conferences. Preface to the special issue "Quantum Information and Probability: from Foundations to Engineering'' (QIP23)**|Andrei Khrennikov et.al.|[2402.03402](http://arxiv.org/abs/2402.03402)|null|
 |**2024-02-05**|**Beating one bit of Communication with Quantum Correlations in Smaller Dimension**|Peter Sidajaya et.al.|[2402.02723](http://arxiv.org/abs/2402.02723)|null|
@@ -638,6 +639,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Virtual Channel Purification**|Zhenhuan Liu et.al.|[2402.07866](http://arxiv.org/abs/2402.07866)|null|
+|**2024-02-12**|**Encoding Majorana codes**|Maryam Mudassar et.al.|[2402.07829](http://arxiv.org/abs/2402.07829)|null|
+|**2024-02-12**|**XZ-type Tanner-graph-recursive-expansion code**|Zhengzhong Yi et.al.|[2402.07823](http://arxiv.org/abs/2402.07823)|null|
+|**2024-02-11**|**EmoWear: Exploring Emotional Teasers for Voice Message Interaction on Smartwatches**|Pengcheng An et.al.|[2402.07174](http://arxiv.org/abs/2402.07174)|null|
+|**2024-02-09**|**\texttt{qec\_code\_sim}: An open-source Python framework for estimating the effectiveness of quantum-error correcting codes on superconducting qubits**|Santiago Lopez et.al.|[2402.06745](http://arxiv.org/abs/2402.06745)|null|
 |**2024-02-09**|**Determining the upper bound of code distance of quantum stabilizer codes through Monte Carlo method based on fully decoupled belief propagation**|Zhipeng Liang et.al.|[2402.06481](http://arxiv.org/abs/2402.06481)|null|
 |**2024-02-09**|**Efficient initialization of fluxonium qubits based on auxiliary energy levels**|Tenghui Wang et.al.|[2402.06267](http://arxiv.org/abs/2402.06267)|null|
 |**2024-02-08**|**Safeguarding Oscillators and Qudits with Distributed Two-Mode Squeezing**|Anthony J. Brady et.al.|[2402.05888](http://arxiv.org/abs/2402.05888)|null|

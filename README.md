@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Model-independent inference of quantum interaction from statistics**|Shubhayan Sarkar et.al.|[2402.08003](http://arxiv.org/abs/2402.08003)|null|
+|**2024-02-12**|**Quantum entanglement and Bell inequality violation at colliders**|Alan J. Barr et.al.|[2402.07972](http://arxiv.org/abs/2402.07972)|null|
 |**2024-02-10**|**Everettian Branching in the World and of the World**|Nadia Blackshaw et.al.|[2402.06848](http://arxiv.org/abs/2402.06848)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-05**|**Recollections about Växjö conferences. Preface to the special issue "Quantum Information and Probability: from Foundations to Engineering'' (QIP23)**|Andrei Khrennikov et.al.|[2402.03402](http://arxiv.org/abs/2402.03402)|null|
@@ -239,6 +241,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Arbitrary Polynomial Separations in Trainable Quantum Machine Learning**|Eric R. Anschuetz et.al.|[2402.08606](http://arxiv.org/abs/2402.08606)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-01**|**Fermion-like behavior of elements in their spatial distribution around points of interest**|Josu Martinez-Perdiguero et.al.|[2402.00499](http://arxiv.org/abs/2402.00499)|null|
 |**2024-01-30**|**Hanbury Brown and Twiss interference of electrons in free space from independent needle tip sources**|Anton Classen et.al.|[2401.17088](http://arxiv.org/abs/2401.17088)|null|
@@ -370,6 +373,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**ROSpace: Intrusion Detection Dataset for a ROS2-Based Cyber-Physical System**|Tommaso Puccetti et.al.|[2402.08468](http://arxiv.org/abs/2402.08468)|null|
 |**2024-02-08**|**Resources of the Quantum World**|Gilad Gour et.al.|[2402.05474](http://arxiv.org/abs/2402.05474)|null|
 |**2024-02-05**|**An end-to-end deep learning pipeline to derive blood input with partial volume corrections for automated parametric brain PET mapping**|Rugved Chavan et.al.|[2402.03414](http://arxiv.org/abs/2402.03414)|null|
 |**2024-02-01**|**Quantum censorship -- and how to get around it**|Julien Pinske et.al.|[2402.01068](http://arxiv.org/abs/2402.01068)|null|
@@ -466,6 +470,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**$\mathcal{N}=2$ SYK models with dynamical bosons and fermions**|Francesco Benini et.al.|[2402.08414](http://arxiv.org/abs/2402.08414)|null|
+|**2024-02-12**|**Lanczos spectrum for random operator growth**|Tran Quang Loc et.al.|[2402.07980](http://arxiv.org/abs/2402.07980)|null|
 |**2024-02-09**|**Observing quantum many-body scars in random quantum circuits**|Bárbara Andrade et.al.|[2402.06489](http://arxiv.org/abs/2402.06489)|null|
 |**2024-02-07**|**Challenges and opportunities in the supervised learning of quantum circuit outputs**|Simone Cantori et.al.|[2402.04992](http://arxiv.org/abs/2402.04992)|null|
 |**2024-02-07**|**Decoherence Rate in Random Lindblad Dynamics**|Yifeng Yang et.al.|[2402.04705](http://arxiv.org/abs/2402.04705)|null|
@@ -660,6 +666,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Subsystem surface and compass code sensitivities to non-identical infidelity distributions on heavy-hex lattice**|Malcolm S. Carroll et.al.|[2402.08203](http://arxiv.org/abs/2402.08203)|null|
 |**2024-02-12**|**Virtual Channel Purification**|Zhenhuan Liu et.al.|[2402.07866](http://arxiv.org/abs/2402.07866)|null|
 |**2024-02-12**|**Encoding Majorana codes**|Maryam Mudassar et.al.|[2402.07829](http://arxiv.org/abs/2402.07829)|null|
 |**2024-02-12**|**XZ-type Tanner-graph-recursive-expansion code**|Zhengzhong Yi et.al.|[2402.07823](http://arxiv.org/abs/2402.07823)|null|

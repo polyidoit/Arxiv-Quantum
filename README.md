@@ -470,6 +470,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Unraveling the emergence of quantum state designs in systems with symmetry**|Naga Dileep Varikuti et.al.|[2402.08949](http://arxiv.org/abs/2402.08949)|null|
 |**2024-02-13**|**$\mathcal{N}=2$ SYK models with dynamical bosons and fermions**|Francesco Benini et.al.|[2402.08414](http://arxiv.org/abs/2402.08414)|null|
 |**2024-02-12**|**Lanczos spectrum for random operator growth**|Tran Quang Loc et.al.|[2402.07980](http://arxiv.org/abs/2402.07980)|null|
 |**2024-02-09**|**Observing quantum many-body scars in random quantum circuits**|Bárbara Andrade et.al.|[2402.06489](http://arxiv.org/abs/2402.06489)|null|
@@ -666,9 +667,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Bosonic Pauli+: Efficient Simulation of Concatenated Gottesman-Kitaev-Preskill Codes**|Florian Hopfmueller et.al.|[2402.09333](http://arxiv.org/abs/2402.09333)|null|
 |**2024-02-13**|**Subsystem surface and compass code sensitivities to non-identical infidelity distributions on heavy-hex lattice**|Malcolm S. Carroll et.al.|[2402.08203](http://arxiv.org/abs/2402.08203)|null|
 |**2024-02-12**|**Virtual Channel Purification**|Zhenhuan Liu et.al.|[2402.07866](http://arxiv.org/abs/2402.07866)|null|
-|**2024-02-12**|**Encoding Majorana codes**|Maryam Mudassar et.al.|[2402.07829](http://arxiv.org/abs/2402.07829)|null|
+|**2024-02-14**|**Encoding Majorana codes**|Maryam Mudassar et.al.|[2402.07829](http://arxiv.org/abs/2402.07829)|null|
 |**2024-02-12**|**XZ-type Tanner-graph-recursive-expansion code**|Zhengzhong Yi et.al.|[2402.07823](http://arxiv.org/abs/2402.07823)|null|
 |**2024-02-11**|**EmoWear: Exploring Emotional Teasers for Voice Message Interaction on Smartwatches**|Pengcheng An et.al.|[2402.07174](http://arxiv.org/abs/2402.07174)|null|
 |**2024-02-09**|**\texttt{qec\_code\_sim}: An open-source Python framework for estimating the effectiveness of quantum-error correcting codes on superconducting qubits**|Santiago Lopez et.al.|[2402.06745](http://arxiv.org/abs/2402.06745)|null|

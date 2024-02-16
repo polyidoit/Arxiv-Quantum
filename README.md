@@ -184,7 +184,7 @@
 |**2024-02-02**|**Double or nothing: a Kolmogorov extension theorem for multitime (bi)probabilities in quantum mechanics**|Davide Lonigro et.al.|[2402.01218](http://arxiv.org/abs/2402.01218)|null|
 |**2024-01-31**|**Quantum influences and event relativity**|Nick Ormrod et.al.|[2401.18005](http://arxiv.org/abs/2401.18005)|null|
 |**2024-01-29**|**Quantum process matrices as images: new tools to design novel denoising methods**|Massimiliano Guarneri et.al.|[2401.16362](http://arxiv.org/abs/2401.16362)|null|
-|**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|**[link](https://github.com/sy3104/isometry_adjointation)**|
+|**2024-02-15**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|**[link](https://github.com/sy3104/isometry_adjointation)**|
 |**2023-12-20**|**Fourier Quantum Process Tomography**|Francesco Di Colandrea et.al.|[2312.13458](http://arxiv.org/abs/2312.13458)|null|
 |**2023-12-03**|**Using non-convex optimization in quantum process tomography: Factored gradient descent is tough to beat**|David A. Quiroga et.al.|[2312.01311](http://arxiv.org/abs/2312.01311)|null|
 |**2023-11-18**|**Extreme quantum states and processes, and extreme points of general spectrahedra in finite dimensional algebras**|Giulio Chiribella et.al.|[2311.10929](http://arxiv.org/abs/2311.10929)|null|
@@ -667,6 +667,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Hypergraph product code with 0.2 constant coding rate and high code capacity noise threshold**|Zhengzhong Yi et.al.|[2402.09648](http://arxiv.org/abs/2402.09648)|null|
+|**2024-02-14**|**Concatenate codes, save qubits**|Satoshi Yoshida et.al.|[2402.09606](http://arxiv.org/abs/2402.09606)|null|
+|**2024-02-14**|**Quantum state discrimination enhanced by path signature**|Shuxiang Cao et.al.|[2402.09532](http://arxiv.org/abs/2402.09532)|null|
+|**2024-02-14**|**Replica topological order in quantum mixed states and quantum error correction**|Zhuan Li et.al.|[2402.09516](http://arxiv.org/abs/2402.09516)|null|
+|**2024-02-14**|**Superconducting Quantum Memory with a Suspended Coaxial Resonator**|Lev Krayzman et.al.|[2402.09504](http://arxiv.org/abs/2402.09504)|null|
 |**2024-02-14**|**Bosonic Pauli+: Efficient Simulation of Concatenated Gottesman-Kitaev-Preskill Codes**|Florian Hopfmueller et.al.|[2402.09333](http://arxiv.org/abs/2402.09333)|null|
 |**2024-02-13**|**Subsystem surface and compass code sensitivities to non-identical infidelity distributions on heavy-hex lattice**|Malcolm S. Carroll et.al.|[2402.08203](http://arxiv.org/abs/2402.08203)|null|
 |**2024-02-12**|**Virtual Channel Purification**|Zhenhuan Liu et.al.|[2402.07866](http://arxiv.org/abs/2402.07866)|null|

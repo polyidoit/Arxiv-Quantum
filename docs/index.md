@@ -539,7 +539,7 @@ layout: default
 |**2023-10-11**|**Classical and quantum reservoir computing: development and applications in machine learning**|Laia Domingo et.al.|[2310.07455](http://arxiv.org/abs/2310.07455)|null|
 |**2023-10-10**|**Many-body quantum chaos in mixtures of multiple species**|Vijay Kumar et.al.|[2310.06811](http://arxiv.org/abs/2310.06811)|null|
 |**2023-10-11**|**Efficient Large-Scale Many-Body Quantum Dynamics via Local-Information Time Evolution**|Claudia Artiaco et.al.|[2310.06036](http://arxiv.org/abs/2310.06036)|null|
-|**2023-10-06**|**Efficient Quantum Circuit Simulation by Tensor Network Methods on Modern GPUs**|Feng Pan et.al.|[2310.03978](http://arxiv.org/abs/2310.03978)|null|
+|**2023-10-06**|**Efficient Quantum Circuit Simulation by Tensor Network Methods on Modern GPUs**|Feng Pan et.al.|[2310.03978](http://arxiv.org/abs/2310.03978)|**[link](https://github.com/fanerst/artensor)**|
 |**2023-10-04**|**SU(d)-Symmetric Random Unitaries: Quantum Scrambling, Error Correction, and Machine Learning**|Zimu Li et.al.|[2309.16556](http://arxiv.org/abs/2309.16556)|null|
 |**2023-09-27**|**Scale-invariant critical dynamics at eigenstate transitions**|Miroslav Hopjan et.al.|[2309.16005](http://arxiv.org/abs/2309.16005)|null|
 |**2023-09-27**|**Classical route to ergodicity and scarring in collective quantum systems**|Sudip Sinha et.al.|[2309.15527](http://arxiv.org/abs/2309.15527)|null|

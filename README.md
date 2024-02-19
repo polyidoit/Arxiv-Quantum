@@ -667,7 +667,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-15**|**Hypergraph product code with 0.2 constant coding rate and high code capacity noise threshold**|Zhengzhong Yi et.al.|[2402.09648](http://arxiv.org/abs/2402.09648)|null|
+|**2024-02-16**|**Hypergraph product code with 0.2 constant coding rate and high code capacity noise threshold**|Zhengzhong Yi et.al.|[2402.09648](http://arxiv.org/abs/2402.09648)|null|
 |**2024-02-14**|**Concatenate codes, save qubits**|Satoshi Yoshida et.al.|[2402.09606](http://arxiv.org/abs/2402.09606)|null|
 |**2024-02-14**|**Quantum state discrimination enhanced by path signature**|Shuxiang Cao et.al.|[2402.09532](http://arxiv.org/abs/2402.09532)|null|
 |**2024-02-14**|**Replica topological order in quantum mixed states and quantum error correction**|Zhuan Li et.al.|[2402.09516](http://arxiv.org/abs/2402.09516)|null|

@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Memory attacks in network nonlocality and self-testing**|Mirjam Weilenmann et.al.|[2402.12318](http://arxiv.org/abs/2402.12318)|null|
+|**2024-02-18**|**Non-classicality Primitive in a Quasi-probabilistic Toy Model**|Kelvin Onggadinata et.al.|[2402.11607](http://arxiv.org/abs/2402.11607)|null|
 |**2024-02-12**|**Model-independent inference of quantum interaction from statistics**|Shubhayan Sarkar et.al.|[2402.08003](http://arxiv.org/abs/2402.08003)|null|
 |**2024-02-12**|**Quantum entanglement and Bell inequality violation at colliders**|Alan J. Barr et.al.|[2402.07972](http://arxiv.org/abs/2402.07972)|null|
 |**2024-02-10**|**Everettian Branching in the World and of the World**|Nadia Blackshaw et.al.|[2402.06848](http://arxiv.org/abs/2402.06848)|null|
@@ -228,6 +230,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Quantum soliton-trains of strongly correlated impurities in Bose-Einstein condensates**|Hoshu Hiyane et.al.|[2402.11802](http://arxiv.org/abs/2402.11802)|null|
 |**2024-02-13**|**Arbitrary Polynomial Separations in Trainable Quantum Machine Learning**|Eric R. Anschuetz et.al.|[2402.08606](http://arxiv.org/abs/2402.08606)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-01**|**Fermion-like behavior of elements in their spatial distribution around points of interest**|Josu Martinez-Perdiguero et.al.|[2402.00499](http://arxiv.org/abs/2402.00499)|null|
@@ -646,6 +649,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Exponentially Improved Dispersive Qubit Readout with Squeezed Light**|Wei Qin et.al.|[2402.12044](http://arxiv.org/abs/2402.12044)|null|
+|**2024-02-16**|**Q-Embroidery: A Study of Weaving Quantum Error Correction into the Fabric of Quantum Classifiers**|Avimita Chatterjee et.al.|[2402.11127](http://arxiv.org/abs/2402.11127)|null|
+|**2024-02-16**|**Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall ?**|Avimita Chatterjee et.al.|[2402.11105](http://arxiv.org/abs/2402.11105)|null|
+|**2024-02-16**|**MITS: A Quantum Sorcerer Stone For Designing Surface Codes**|Avimita Chatterjee et.al.|[2402.11027](http://arxiv.org/abs/2402.11027)|null|
 |**2024-02-16**|**Hypergraph product code with 0.2 constant coding rate and high code capacity noise threshold**|Zhengzhong Yi et.al.|[2402.09648](http://arxiv.org/abs/2402.09648)|null|
 |**2024-02-14**|**Concatenate codes, save qubits**|Satoshi Yoshida et.al.|[2402.09606](http://arxiv.org/abs/2402.09606)|null|
 |**2024-02-14**|**Quantum state discrimination enhanced by path signature**|Shuxiang Cao et.al.|[2402.09532](http://arxiv.org/abs/2402.09532)|null|

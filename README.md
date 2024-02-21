@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Non-maximally entangled mixed states of X and non-X types as teleportation channels**|Anushree Bhattacharjee et.al.|[2402.12824](http://arxiv.org/abs/2402.12824)|null|
+|**2024-02-20**|**Sharing Bell nonlocality of bipartite high-dimensional pure states using only projective measurements**|Tinggui Zhang et.al.|[2402.12614](http://arxiv.org/abs/2402.12614)|null|
 |**2024-02-19**|**Memory attacks in network nonlocality and self-testing**|Mirjam Weilenmann et.al.|[2402.12318](http://arxiv.org/abs/2402.12318)|null|
 |**2024-02-18**|**Non-classicality Primitive in a Quasi-probabilistic Toy Model**|Kelvin Onggadinata et.al.|[2402.11607](http://arxiv.org/abs/2402.11607)|null|
 |**2024-02-12**|**Model-independent inference of quantum interaction from statistics**|Shubhayan Sarkar et.al.|[2402.08003](http://arxiv.org/abs/2402.08003)|null|
@@ -243,6 +245,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Application of the Inclusion-Exclusion Principle to Prime Number Subsequences**|Michael P. May et.al.|[2402.13214](http://arxiv.org/abs/2402.13214)|null|
 |**2024-02-19**|**Quantum soliton-trains of strongly correlated impurities in Bose-Einstein condensates**|Hoshu Hiyane et.al.|[2402.11802](http://arxiv.org/abs/2402.11802)|null|
 |**2024-02-13**|**Arbitrary Polynomial Separations in Trainable Quantum Machine Learning**|Eric R. Anschuetz et.al.|[2402.08606](http://arxiv.org/abs/2402.08606)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
@@ -376,6 +379,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Choi-Defined Resource Theories**|Elia Zanoni et.al.|[2402.12569](http://arxiv.org/abs/2402.12569)|null|
 |**2024-02-13**|**ROSpace: Intrusion Detection Dataset for a ROS2-Based Cyber-Physical System**|Tommaso Puccetti et.al.|[2402.08468](http://arxiv.org/abs/2402.08468)|null|
 |**2024-02-08**|**Resources of the Quantum World**|Gilad Gour et.al.|[2402.05474](http://arxiv.org/abs/2402.05474)|null|
 |**2024-02-05**|**An end-to-end deep learning pipeline to derive blood input with partial volume corrections for automated parametric brain PET mapping**|Rugved Chavan et.al.|[2402.03414](http://arxiv.org/abs/2402.03414)|null|
@@ -473,6 +477,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Disorder-Free Sachdev-Ye-Kitaev models: Integrability and Quantum Chaos**|Soshun Ozaki et.al.|[2402.13154](http://arxiv.org/abs/2402.13154)|null|
+|**2024-02-20**|**Adiabatic gauge potential and integrability breaking with free fermions**|Balázs Pozsgay et.al.|[2402.12979](http://arxiv.org/abs/2402.12979)|null|
+|**2024-02-20**|**On pole-skipping with gauge-invariant variables in holographic axion theories**|Yongjun Ahn et.al.|[2402.12951](http://arxiv.org/abs/2402.12951)|null|
 |**2024-02-14**|**Unraveling the emergence of quantum state designs in systems with symmetry**|Naga Dileep Varikuti et.al.|[2402.08949](http://arxiv.org/abs/2402.08949)|null|
 |**2024-02-13**|**$\mathcal{N}=2$ SYK models with dynamical bosons and fermions**|Francesco Benini et.al.|[2402.08414](http://arxiv.org/abs/2402.08414)|null|
 |**2024-02-12**|**Lanczos spectrum for random operator growth**|Tran Quang Loc et.al.|[2402.07980](http://arxiv.org/abs/2402.07980)|null|
@@ -670,9 +677,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**An architecture for two-qubit encoding in neutral ytterbium-171 atoms**|Zhubing Jia et.al.|[2402.13134](http://arxiv.org/abs/2402.13134)|null|
+|**2024-02-19**|**Towards early fault tolerance on a 2 $\times$ N array of qubits equipped with shuttling**|Adam Siegel et.al.|[2402.12599](http://arxiv.org/abs/2402.12599)|null|
 |**2024-02-19**|**Exponentially Improved Dispersive Qubit Readout with Squeezed Light**|Wei Qin et.al.|[2402.12044](http://arxiv.org/abs/2402.12044)|null|
-|**2024-02-16**|**Q-Embroidery: A Study of Weaving Quantum Error Correction into the Fabric of Quantum Classifiers**|Avimita Chatterjee et.al.|[2402.11127](http://arxiv.org/abs/2402.11127)|null|
-|**2024-02-16**|**Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall ?**|Avimita Chatterjee et.al.|[2402.11105](http://arxiv.org/abs/2402.11105)|null|
+|**2024-02-20**|**Q-Embroidery: A Study of Weaving Quantum Error Correction into the Fabric of Quantum Classifiers**|Avimita Chatterjee et.al.|[2402.11127](http://arxiv.org/abs/2402.11127)|null|
+|**2024-02-20**|**Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall ?**|Avimita Chatterjee et.al.|[2402.11105](http://arxiv.org/abs/2402.11105)|null|
 |**2024-02-16**|**MITS: A Quantum Sorcerer Stone For Designing Surface Codes**|Avimita Chatterjee et.al.|[2402.11027](http://arxiv.org/abs/2402.11027)|null|
 |**2024-02-16**|**Hypergraph product code with 0.2 constant coding rate and high code capacity noise threshold**|Zhengzhong Yi et.al.|[2402.09648](http://arxiv.org/abs/2402.09648)|null|
 |**2024-02-14**|**Concatenate codes, save qubits**|Satoshi Yoshida et.al.|[2402.09606](http://arxiv.org/abs/2402.09606)|null|

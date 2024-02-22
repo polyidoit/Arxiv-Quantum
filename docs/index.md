@@ -458,6 +458,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Time-reversal in a dipolar quantum many-body spin system**|Sebastian Geier et.al.|[2402.13873](http://arxiv.org/abs/2402.13873)|null|
 |**2024-02-20**|**Disorder-Free Sachdev-Ye-Kitaev models: Integrability and Quantum Chaos**|Soshun Ozaki et.al.|[2402.13154](http://arxiv.org/abs/2402.13154)|null|
 |**2024-02-20**|**Adiabatic gauge potential and integrability breaking with free fermions**|Balázs Pozsgay et.al.|[2402.12979](http://arxiv.org/abs/2402.12979)|null|
 |**2024-02-20**|**On pole-skipping with gauge-invariant variables in holographic axion theories**|Yongjun Ahn et.al.|[2402.12951](http://arxiv.org/abs/2402.12951)|null|
@@ -656,6 +657,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Improving threshold for fault-tolerant color code quantum computing by flagged weight optimization**|Yugo Takada et.al.|[2402.13958](http://arxiv.org/abs/2402.13958)|null|
 |**2024-02-20**|**An architecture for two-qubit encoding in neutral ytterbium-171 atoms**|Zhubing Jia et.al.|[2402.13134](http://arxiv.org/abs/2402.13134)|null|
 |**2024-02-19**|**Towards early fault tolerance on a 2 $\times$ N array of qubits equipped with shuttling**|Adam Siegel et.al.|[2402.12599](http://arxiv.org/abs/2402.12599)|null|
 |**2024-02-19**|**Exponentially Improved Dispersive Qubit Readout with Squeezed Light**|Wei Qin et.al.|[2402.12044](http://arxiv.org/abs/2402.12044)|null|

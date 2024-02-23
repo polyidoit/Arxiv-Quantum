@@ -174,7 +174,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-06**|**Quantifying information flow in quantum processes**|Leonardo Santos et.al.|[2402.04213](http://arxiv.org/abs/2402.04213)|null|
-|**2024-02-02**|**Double or nothing: a Kolmogorov extension theorem for multitime (bi)probabilities in quantum mechanics**|Davide Lonigro et.al.|[2402.01218](http://arxiv.org/abs/2402.01218)|null|
+|**2024-02-22**|**Double or nothing: a Kolmogorov extension theorem for multitime (bi)probabilities in quantum mechanics**|Davide Lonigro et.al.|[2402.01218](http://arxiv.org/abs/2402.01218)|null|
 |**2024-01-31**|**Quantum influences and event relativity**|Nick Ormrod et.al.|[2401.18005](http://arxiv.org/abs/2401.18005)|null|
 |**2024-01-29**|**Quantum process matrices as images: new tools to design novel denoising methods**|Massimiliano Guarneri et.al.|[2401.16362](http://arxiv.org/abs/2401.16362)|null|
 |**2024-02-15**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|**[link](https://github.com/sy3104/isometry_adjointation)**|
@@ -232,6 +232,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**The limit law of certain discrete multivariate distributions**|Andrius Grigutis et.al.|[2402.14470](http://arxiv.org/abs/2402.14470)|null|
 |**2024-02-12**|**Application of the Inclusion-Exclusion Principle to Prime Number Subsequences**|Michael P. May et.al.|[2402.13214](http://arxiv.org/abs/2402.13214)|null|
 |**2024-02-19**|**Quantum soliton-trains of strongly correlated impurities in Bose-Einstein condensates**|Hoshu Hiyane et.al.|[2402.11802](http://arxiv.org/abs/2402.11802)|null|
 |**2024-02-13**|**Arbitrary Polynomial Separations in Trainable Quantum Machine Learning**|Eric R. Anschuetz et.al.|[2402.08606](http://arxiv.org/abs/2402.08606)|null|
@@ -458,6 +459,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Subconvexity Implies Effective Quantum Unique Ergodicity for Hecke-Maaß Cusp Forms on $\mathrm{SL}_2(\mathbb{Z}) \backslash \mathrm{SL}_2(\mathbb{R})$**|Ankit Bisain et.al.|[2402.14050](http://arxiv.org/abs/2402.14050)|null|
 |**2024-02-21**|**Time-reversal in a dipolar quantum many-body spin system**|Sebastian Geier et.al.|[2402.13873](http://arxiv.org/abs/2402.13873)|null|
 |**2024-02-20**|**Disorder-Free Sachdev-Ye-Kitaev models: Integrability and Quantum Chaos**|Soshun Ozaki et.al.|[2402.13154](http://arxiv.org/abs/2402.13154)|null|
 |**2024-02-20**|**Adiabatic gauge potential and integrability breaking with free fermions**|Balázs Pozsgay et.al.|[2402.12979](http://arxiv.org/abs/2402.12979)|null|
@@ -657,6 +659,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**Dynamical quantum maps for single-qubit gates under non-Markovian phase noise**|J. M. Sánchez Velázquez et.al.|[2402.14530](http://arxiv.org/abs/2402.14530)|null|
 |**2024-02-21**|**Improving threshold for fault-tolerant color code quantum computing by flagged weight optimization**|Yugo Takada et.al.|[2402.13958](http://arxiv.org/abs/2402.13958)|null|
 |**2024-02-20**|**An architecture for two-qubit encoding in neutral ytterbium-171 atoms**|Zhubing Jia et.al.|[2402.13134](http://arxiv.org/abs/2402.13134)|null|
 |**2024-02-19**|**Towards early fault tolerance on a 2 $\times$ N array of qubits equipped with shuttling**|Adam Siegel et.al.|[2402.12599](http://arxiv.org/abs/2402.12599)|null|

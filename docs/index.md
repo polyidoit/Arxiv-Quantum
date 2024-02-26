@@ -363,6 +363,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**Towards Model-Driven Dashboard Generation for Systems-of-Systems**|Maria Teresa Rossi et.al.|[2402.15257](http://arxiv.org/abs/2402.15257)|null|
 |**2024-02-19**|**Choi-Defined Resource Theories**|Elia Zanoni et.al.|[2402.12569](http://arxiv.org/abs/2402.12569)|null|
 |**2024-02-13**|**ROSpace: Intrusion Detection Dataset for a ROS2-Based Cyber-Physical System**|Tommaso Puccetti et.al.|[2402.08468](http://arxiv.org/abs/2402.08468)|null|
 |**2024-02-08**|**Resources of the Quantum World**|Gilad Gour et.al.|[2402.05474](http://arxiv.org/abs/2402.05474)|null|
@@ -659,6 +660,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**Modeling Phonon-mediated Quasiparticle Poisoning in Superconducting Qubit Arrays**|Eric Yelton et.al.|[2402.15471](http://arxiv.org/abs/2402.15471)|null|
+|**2024-02-22**|**The Stability of Gapped Quantum Matter and Error-Correction with Adiabatic Noise**|Ali Lavasani et.al.|[2402.14906](http://arxiv.org/abs/2402.14906)|null|
 |**2024-02-22**|**Dynamical quantum maps for single-qubit gates under non-Markovian phase noise**|J. M. Sánchez Velázquez et.al.|[2402.14530](http://arxiv.org/abs/2402.14530)|null|
 |**2024-02-21**|**Improving threshold for fault-tolerant color code quantum computing by flagged weight optimization**|Yugo Takada et.al.|[2402.13958](http://arxiv.org/abs/2402.13958)|null|
 |**2024-02-20**|**An architecture for two-qubit encoding in neutral ytterbium-171 atoms**|Zhubing Jia et.al.|[2402.13134](http://arxiv.org/abs/2402.13134)|null|

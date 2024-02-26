@@ -53,7 +53,7 @@
 |**2023-12-07**|**Unmasking the Polygamous Nature of Quantum Nonlocality**|Paweł Cieśliński et.al.|[2312.04373](http://arxiv.org/abs/2312.04373)|null|
 |**2023-12-05**|**Lower-bounding entanglement with nonlocality in a general Bell's scenario**|Liang-Liang Sun et.al.|[2312.02588](http://arxiv.org/abs/2312.02588)|null|
 |**2023-12-04**|**Whence Nonlocality? Removing spooky action at a distance from the de Broglie Bohm pilot-wave theory using a time-symmetric version of de Broglie double solution**|Aurélien Drezet et.al.|[2312.01992](http://arxiv.org/abs/2312.01992)|null|
-|**2023-11-30**|**Karush-Kuhn-Tucker conditions for non-commutative optimization problems**|Mateus Araújo et.al.|[2311.18707](http://arxiv.org/abs/2311.18707)|null|
+|**2023-11-30**|**Karush-Kuhn-Tucker conditions for non-commutative optimization problems**|Mateus Araújo et.al.|[2311.18707](http://arxiv.org/abs/2311.18707)|**[link](https://github.com/ajpgarner/nckkt-nie-motzkin)**|
 |**2023-11-29**|**When Mei-Gu Guan's 1960 Postmen Get Empowered with Bell's 1964 Nonlocal Correlations, or, Nonlocal Advantage in Vehicle Routing Problem**|Abhishek Banerjee et.al.|[2311.17772](http://arxiv.org/abs/2311.17772)|null|
 |**2023-11-29**|**Probing entanglement and testing Bell inequality violation with $\textrm{e}^{+}\textrm{e}^{-} \rightarrow τ^{+}τ^{-}$ at Belle II**|Karl Ehatäht et.al.|[2311.17555](http://arxiv.org/abs/2311.17555)|null|
 |**2023-11-26**|**Quantum entanglement: proposal for a new kind of experiment**|Marco Pettini et.al.|[2311.17070](http://arxiv.org/abs/2311.17070)|null|

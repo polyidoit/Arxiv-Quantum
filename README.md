@@ -318,6 +318,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-25**|**Enhancement of Entanglement via Josephson Parametric Amplifier in a Dual Cavity-Magnon System**|Abdelkader Hidki et.al.|[2402.16042](http://arxiv.org/abs/2402.16042)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-01**|**Witnessing non-Markovianity with Gaussian quantum steering in collision model**|Yan Li et.al.|[2402.00524](http://arxiv.org/abs/2402.00524)|null|
 |**2024-01-30**|**Quantum steering from phase measurements with limited resources**|Gabriele Bizzarri et.al.|[2401.17431](http://arxiv.org/abs/2401.17431)|null|
@@ -681,6 +682,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-24**|**Progressive-Proximity Bit-Flipping for Decoding Surface Codes**|Michele Pacenti et.al.|[2402.15924](http://arxiv.org/abs/2402.15924)|null|
+|**2024-02-23**|**Resisting high-energy impact events through gap engineering in superconducting qubit arrays**|Matt McEwen et.al.|[2402.15644](http://arxiv.org/abs/2402.15644)|null|
 |**2024-02-23**|**Modeling Phonon-mediated Quasiparticle Poisoning in Superconducting Qubit Arrays**|Eric Yelton et.al.|[2402.15471](http://arxiv.org/abs/2402.15471)|null|
 |**2024-02-22**|**The Stability of Gapped Quantum Matter and Error-Correction with Adiabatic Noise**|Ali Lavasani et.al.|[2402.14906](http://arxiv.org/abs/2402.14906)|null|
 |**2024-02-22**|**Dynamical quantum maps for single-qubit gates under non-Markovian phase noise**|J. M. Sánchez Velázquez et.al.|[2402.14530](http://arxiv.org/abs/2402.14530)|null|

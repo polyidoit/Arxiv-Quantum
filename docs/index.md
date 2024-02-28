@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**A Computational Tsirelson's Theorem for the Value of Compiled XOR Games**|David Cui et.al.|[2402.17301](http://arxiv.org/abs/2402.17301)|null|
 |**2024-02-20**|**Non-maximally entangled mixed states of X and non-X types as teleportation channels**|Anushree Bhattacharjee et.al.|[2402.12824](http://arxiv.org/abs/2402.12824)|null|
 |**2024-02-20**|**Sharing Bell nonlocality of bipartite high-dimensional pure states using only projective measurements**|Tinggui Zhang et.al.|[2402.12614](http://arxiv.org/abs/2402.12614)|null|
 |**2024-02-19**|**Memory attacks in network nonlocality and self-testing**|Mirjam Weilenmann et.al.|[2402.12318](http://arxiv.org/abs/2402.12318)|null|
@@ -173,6 +174,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Quantum process tomography of structured optical gates with convolutional neural networks**|Tareq Jaouni et.al.|[2402.16616](http://arxiv.org/abs/2402.16616)|null|
 |**2024-02-06**|**Quantifying information flow in quantum processes**|Leonardo Santos et.al.|[2402.04213](http://arxiv.org/abs/2402.04213)|null|
 |**2024-02-22**|**Double or nothing: a Kolmogorov extension theorem for multitime (bi)probabilities in quantum mechanics**|Davide Lonigro et.al.|[2402.01218](http://arxiv.org/abs/2402.01218)|null|
 |**2024-01-31**|**Quantum influences and event relativity**|Nick Ormrod et.al.|[2401.18005](http://arxiv.org/abs/2401.18005)|null|
@@ -232,6 +234,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Design principles of nonlinear optical materials for Terahertz lasers**|Juan Han et.al.|[2402.17126](http://arxiv.org/abs/2402.17126)|null|
 |**2024-02-22**|**The limit law of certain discrete multivariate distributions**|Andrius Grigutis et.al.|[2402.14470](http://arxiv.org/abs/2402.14470)|null|
 |**2024-02-12**|**Application of the Inclusion-Exclusion Principle to Prime Number Subsequences**|Michael P. May et.al.|[2402.13214](http://arxiv.org/abs/2402.13214)|null|
 |**2024-02-19**|**Quantum soliton-trains of strongly correlated impurities in Bose-Einstein condensates**|Hoshu Hiyane et.al.|[2402.11802](http://arxiv.org/abs/2402.11802)|null|
@@ -461,6 +464,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Out-of-time-ordered correlators for Wigner matrices**|Giorgio Cipolloni et.al.|[2402.17609](http://arxiv.org/abs/2402.17609)|null|
+|**2024-02-26**|**Projected state ensemble of a generic model of many-body quantum chaos**|Amos Chan et.al.|[2402.16939](http://arxiv.org/abs/2402.16939)|null|
 |**2024-02-21**|**Subconvexity Implies Effective Quantum Unique Ergodicity for Hecke-Maaß Cusp Forms on $\mathrm{SL}_2(\mathbb{Z}) \backslash \mathrm{SL}_2(\mathbb{R})$**|Ankit Bisain et.al.|[2402.14050](http://arxiv.org/abs/2402.14050)|null|
 |**2024-02-21**|**Time-reversal in a dipolar quantum many-body spin system**|Sebastian Geier et.al.|[2402.13873](http://arxiv.org/abs/2402.13873)|null|
 |**2024-02-20**|**Disorder-Free Sachdev-Ye-Kitaev models: Integrability and Quantum Chaos**|Soshun Ozaki et.al.|[2402.13154](http://arxiv.org/abs/2402.13154)|null|
@@ -661,6 +666,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Quantum Circuit Discovery for Fault-Tolerant Logical State Preparation with Reinforcement Learning**|Remmy Zen et.al.|[2402.17761](http://arxiv.org/abs/2402.17761)|null|
+|**2024-02-27**|**Note on simple and consistent gateset characterization including calibration and decoherence errors**|Jeffrey M. Epstein et.al.|[2402.17727](http://arxiv.org/abs/2402.17727)|null|
+|**2024-02-26**|**Flying-cat parity checks for quantum error correction**|Z. M. McIntyre et.al.|[2402.17001](http://arxiv.org/abs/2402.17001)|null|
+|**2024-02-26**|**The Physics of (good) LDPC Codes II. Product constructions**|Tibor Rakovszky et.al.|[2402.16831](http://arxiv.org/abs/2402.16831)|null|
+|**2024-02-26**|**Modeling error correction with Lindblad dynamics and approximate channels**|Zohar Schwartzman-Nowik et.al.|[2402.16727](http://arxiv.org/abs/2402.16727)|null|
 |**2024-02-24**|**Progressive-Proximity Bit-Flipping for Decoding Surface Codes**|Michele Pacenti et.al.|[2402.15924](http://arxiv.org/abs/2402.15924)|null|
 |**2024-02-23**|**Resisting high-energy impact events through gap engineering in superconducting qubit arrays**|Matt McEwen et.al.|[2402.15644](http://arxiv.org/abs/2402.15644)|null|
 |**2024-02-23**|**Modeling Phonon-mediated Quasiparticle Poisoning in Superconducting Qubit Arrays**|Eric Yelton et.al.|[2402.15471](http://arxiv.org/abs/2402.15471)|null|

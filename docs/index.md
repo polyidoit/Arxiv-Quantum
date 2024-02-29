@@ -306,6 +306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Almost device-independent certification of GME states with minimal measurements**|Shubhayan Sarkar et.al.|[2402.18522](http://arxiv.org/abs/2402.18522)|null|
 |**2024-02-25**|**Enhancement of Entanglement via Josephson Parametric Amplifier in a Dual Cavity-Magnon System**|Abdelkader Hidki et.al.|[2402.16042](http://arxiv.org/abs/2402.16042)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-01**|**Witnessing non-Markovianity with Gaussian quantum steering in collision model**|Yan Li et.al.|[2402.00524](http://arxiv.org/abs/2402.00524)|null|
@@ -464,6 +465,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Demonstration of Robust and Efficient Quantum Property Learning with Shallow Shadows**|Hong-Ye Hu et.al.|[2402.17911](http://arxiv.org/abs/2402.17911)|null|
 |**2024-02-27**|**Out-of-time-ordered correlators for Wigner matrices**|Giorgio Cipolloni et.al.|[2402.17609](http://arxiv.org/abs/2402.17609)|null|
 |**2024-02-26**|**Projected state ensemble of a generic model of many-body quantum chaos**|Amos Chan et.al.|[2402.16939](http://arxiv.org/abs/2402.16939)|null|
 |**2024-02-21**|**Subconvexity Implies Effective Quantum Unique Ergodicity for Hecke-Maaß Cusp Forms on $\mathrm{SL}_2(\mathbb{Z}) \backslash \mathrm{SL}_2(\mathbb{R})$**|Ankit Bisain et.al.|[2402.14050](http://arxiv.org/abs/2402.14050)|null|
@@ -666,6 +668,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Operating semiconductor quantum processors with hopping spins**|Chien-An Wang et.al.|[2402.18382](http://arxiv.org/abs/2402.18382)|null|
 |**2024-02-27**|**Quantum Circuit Discovery for Fault-Tolerant Logical State Preparation with Reinforcement Learning**|Remmy Zen et.al.|[2402.17761](http://arxiv.org/abs/2402.17761)|null|
 |**2024-02-27**|**Note on simple and consistent gateset characterization including calibration and decoherence errors**|Jeffrey M. Epstein et.al.|[2402.17727](http://arxiv.org/abs/2402.17727)|null|
 |**2024-02-26**|**Flying-cat parity checks for quantum error correction**|Z. M. McIntyre et.al.|[2402.17001](http://arxiv.org/abs/2402.17001)|null|

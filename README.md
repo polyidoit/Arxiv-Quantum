@@ -16,13 +16,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Experimental Test of Quantum Nonlocality from Contextuality**|Jianqi Sheng et.al.|[2402.19149](http://arxiv.org/abs/2402.19149)|null|
+|**2024-02-29**|**Narrowband telecom band polarization-entangled photon source by superposed monolithic cavities**|Ming-Yuan Gao et.al.|[2402.18802](http://arxiv.org/abs/2402.18802)|null|
 |**2024-02-27**|**A Computational Tsirelson's Theorem for the Value of Compiled XOR Games**|David Cui et.al.|[2402.17301](http://arxiv.org/abs/2402.17301)|null|
 |**2024-02-20**|**Non-maximally entangled mixed states of X and non-X types as teleportation channels**|Anushree Bhattacharjee et.al.|[2402.12824](http://arxiv.org/abs/2402.12824)|null|
 |**2024-02-20**|**Sharing Bell nonlocality of bipartite high-dimensional pure states using only projective measurements**|Tinggui Zhang et.al.|[2402.12614](http://arxiv.org/abs/2402.12614)|null|
 |**2024-02-19**|**Memory attacks in network nonlocality and self-testing**|Mirjam Weilenmann et.al.|[2402.12318](http://arxiv.org/abs/2402.12318)|null|
 |**2024-02-18**|**Non-classicality Primitive in a Quasi-probabilistic Toy Model**|Kelvin Onggadinata et.al.|[2402.11607](http://arxiv.org/abs/2402.11607)|null|
 |**2024-02-12**|**Model-independent inference of quantum interaction from statistics**|Shubhayan Sarkar et.al.|[2402.08003](http://arxiv.org/abs/2402.08003)|null|
-|**2024-02-12**|**Quantum entanglement and Bell inequality violation at colliders**|Alan J. Barr et.al.|[2402.07972](http://arxiv.org/abs/2402.07972)|null|
+|**2024-02-29**|**Quantum entanglement and Bell inequality violation at colliders**|Alan J. Barr et.al.|[2402.07972](http://arxiv.org/abs/2402.07972)|null|
 |**2024-02-10**|**Everettian Branching in the World and of the World**|Nadia Blackshaw et.al.|[2402.06848](http://arxiv.org/abs/2402.06848)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-05**|**Recollections about Växjö conferences. Preface to the special issue "Quantum Information and Probability: from Foundations to Engineering'' (QIP23)**|Andrei Khrennikov et.al.|[2402.03402](http://arxiv.org/abs/2402.03402)|null|
@@ -484,6 +486,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Structural Stability Hypothesis of Dual Unitary Quantum Chaos**|Jonathon Riddell et.al.|[2402.19096](http://arxiv.org/abs/2402.19096)|null|
 |**2024-02-27**|**Demonstration of Robust and Efficient Quantum Property Learning with Shallow Shadows**|Hong-Ye Hu et.al.|[2402.17911](http://arxiv.org/abs/2402.17911)|null|
 |**2024-02-27**|**Out-of-time-ordered correlators for Wigner matrices**|Giorgio Cipolloni et.al.|[2402.17609](http://arxiv.org/abs/2402.17609)|null|
 |**2024-02-26**|**Projected state ensemble of a generic model of many-body quantum chaos**|Amos Chan et.al.|[2402.16939](http://arxiv.org/abs/2402.16939)|null|
@@ -689,8 +692,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Harnessing Coding Theory for Reliable Network Quantum Communication**|Ching-Yi Lai et.al.|[2402.19383](http://arxiv.org/abs/2402.19383)|null|
+|**2024-02-29**|**Realization of High-Fidelity CZ Gate based on a Double-Transmon Coupler**|Rui Li et.al.|[2402.18926](http://arxiv.org/abs/2402.18926)|null|
+|**2024-02-29**|**High-Fidelity Detection on $^{171} \mathrm{Yb}^+$ Qubit via $^2D_{3/2}$ Shelving**|Xueying Mai et.al.|[2402.18868](http://arxiv.org/abs/2402.18868)|null|
+|**2024-02-29**|**Limits of noisy quantum metrology with restricted quantum controls**|Sisi Zhou et.al.|[2402.18765](http://arxiv.org/abs/2402.18765)|null|
 |**2024-02-28**|**Operating semiconductor quantum processors with hopping spins**|Chien-An Wang et.al.|[2402.18382](http://arxiv.org/abs/2402.18382)|null|
-|**2024-02-27**|**Quantum Circuit Discovery for Fault-Tolerant Logical State Preparation with Reinforcement Learning**|Remmy Zen et.al.|[2402.17761](http://arxiv.org/abs/2402.17761)|null|
+|**2024-02-27**|**Quantum Circuit Discovery for Fault-Tolerant Logical State Preparation with Reinforcement Learning**|Remmy Zen et.al.|[2402.17761](http://arxiv.org/abs/2402.17761)|**[link](https://github.com/remmyzen/rlftqc)**|
 |**2024-02-27**|**Note on simple and consistent gateset characterization including calibration and decoherence errors**|Jeffrey M. Epstein et.al.|[2402.17727](http://arxiv.org/abs/2402.17727)|null|
 |**2024-02-26**|**Flying-cat parity checks for quantum error correction**|Z. M. McIntyre et.al.|[2402.17001](http://arxiv.org/abs/2402.17001)|null|
 |**2024-02-26**|**The Physics of (good) LDPC Codes II. Product constructions**|Tibor Rakovszky et.al.|[2402.16831](http://arxiv.org/abs/2402.16831)|null|

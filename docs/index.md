@@ -692,7 +692,7 @@ layout: default
 |**2024-02-19**|**Exponentially Improved Dispersive Qubit Readout with Squeezed Light**|Wei Qin et.al.|[2402.12044](http://arxiv.org/abs/2402.12044)|null|
 |**2024-02-20**|**Q-Embroidery: A Study of Weaving Quantum Error Correction into the Fabric of Quantum Classifiers**|Avimita Chatterjee et.al.|[2402.11127](http://arxiv.org/abs/2402.11127)|null|
 |**2024-02-20**|**Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall ?**|Avimita Chatterjee et.al.|[2402.11105](http://arxiv.org/abs/2402.11105)|null|
-|**2024-02-16**|**MITS: A Quantum Sorcerer Stone For Designing Surface Codes**|Avimita Chatterjee et.al.|[2402.11027](http://arxiv.org/abs/2402.11027)|null|
+|**2024-02-16**|**MITS: A Quantum Sorcerer Stone For Designing Surface Codes**|Avimita Chatterjee et.al.|[2402.11027](http://arxiv.org/abs/2402.11027)|**[link](https://github.com/Avimita-amc8313/MITS-A-Quantum-Sorcerer-s-Stone-For-Designing-Surface-Codes)**|
 |**2024-02-16**|**Hypergraph product code with 0.2 constant coding rate and high code capacity noise threshold**|Zhengzhong Yi et.al.|[2402.09648](http://arxiv.org/abs/2402.09648)|null|
 |**2024-02-14**|**Concatenate codes, save qubits**|Satoshi Yoshida et.al.|[2402.09606](http://arxiv.org/abs/2402.09606)|null|
 |**2024-02-14**|**Quantum state discrimination enhanced by path signature**|Shuxiang Cao et.al.|[2402.09532](http://arxiv.org/abs/2402.09532)|null|

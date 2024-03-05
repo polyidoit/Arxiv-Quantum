@@ -467,6 +467,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-01**|**Chaos-assisted Turbulence in Spinor Bose-Einstein Condensates**|Jongmin Kim et.al.|[2403.00524](http://arxiv.org/abs/2403.00524)|null|
+|**2024-02-29**|**Enabling large-depth simulation of noisy quantum circuits with positive tensor networks**|Ambroise Müller et.al.|[2403.00152](http://arxiv.org/abs/2403.00152)|null|
 |**2024-02-29**|**Structural Stability Hypothesis of Dual Unitary Quantum Chaos**|Jonathon Riddell et.al.|[2402.19096](http://arxiv.org/abs/2402.19096)|null|
 |**2024-02-27**|**Demonstration of Robust and Efficient Quantum Property Learning with Shallow Shadows**|Hong-Ye Hu et.al.|[2402.17911](http://arxiv.org/abs/2402.17911)|null|
 |**2024-02-27**|**Out-of-time-ordered correlators for Wigner matrices**|Giorgio Cipolloni et.al.|[2402.17609](http://arxiv.org/abs/2402.17609)|null|
@@ -671,6 +673,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-03**|**Spatially parallel decoding for multi-qubit lattice surgery**|Sophia Fuhui Lin et.al.|[2403.01353](http://arxiv.org/abs/2403.01353)|null|
+|**2024-03-01**|**Reducing the error rate of a superconducting logical qubit using analog readout information**|Hany Ali et.al.|[2403.00706](http://arxiv.org/abs/2403.00706)|null|
+|**2024-02-29**|**An assessment of quantum phase estimation protocols for early fault-tolerant quantum computers**|Jacob S. Nelson et.al.|[2403.00077](http://arxiv.org/abs/2403.00077)|null|
 |**2024-02-29**|**Harnessing Coding Theory for Reliable Network Quantum Communication**|Ching-Yi Lai et.al.|[2402.19383](http://arxiv.org/abs/2402.19383)|null|
 |**2024-02-29**|**Realization of High-Fidelity CZ Gate based on a Double-Transmon Coupler**|Rui Li et.al.|[2402.18926](http://arxiv.org/abs/2402.18926)|null|
 |**2024-02-29**|**High-Fidelity Detection on $^{171} \mathrm{Yb}^+$ Qubit via $^2D_{3/2}$ Shelving**|Xueying Mai et.al.|[2402.18868](http://arxiv.org/abs/2402.18868)|null|

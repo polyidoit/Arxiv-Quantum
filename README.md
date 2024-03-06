@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Tsirelson bounds for quantum correlations with indefinite causal order**|Zixuan Liu et.al.|[2403.02749](http://arxiv.org/abs/2403.02749)|null|
 |**2024-02-29**|**Experimental Test of Quantum Nonlocality from Contextuality**|Jianqi Sheng et.al.|[2402.19149](http://arxiv.org/abs/2402.19149)|null|
 |**2024-02-29**|**Narrowband telecom band polarization-entangled photon source by superposed monolithic cavities**|Ming-Yuan Gao et.al.|[2402.18802](http://arxiv.org/abs/2402.18802)|null|
 |**2024-02-27**|**A Computational Tsirelson's Theorem for the Value of Compiled XOR Games**|David Cui et.al.|[2402.17301](http://arxiv.org/abs/2402.17301)|null|
@@ -188,7 +189,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-26**|**Quantum process tomography of structured optical gates with convolutional neural networks**|Tareq Jaouni et.al.|[2402.16616](http://arxiv.org/abs/2402.16616)|null|
-|**2024-02-06**|**Quantifying information flow in quantum processes**|Leonardo Santos et.al.|[2402.04213](http://arxiv.org/abs/2402.04213)|null|
+|**2024-03-05**|**Quantifying information flow in quantum processes**|Leonardo Santos et.al.|[2402.04213](http://arxiv.org/abs/2402.04213)|null|
 |**2024-02-22**|**Double or nothing: a Kolmogorov extension theorem for multitime (bi)probabilities in quantum mechanics**|Davide Lonigro et.al.|[2402.01218](http://arxiv.org/abs/2402.01218)|null|
 |**2024-01-31**|**Quantum influences and event relativity**|Nick Ormrod et.al.|[2401.18005](http://arxiv.org/abs/2401.18005)|null|
 |**2024-01-29**|**Quantum process matrices as images: new tools to design novel denoising methods**|Massimiliano Guarneri et.al.|[2401.16362](http://arxiv.org/abs/2401.16362)|null|
@@ -387,6 +388,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Logic Programming with Multiplicative Structures**|Matteo Acclavio et.al.|[2403.03032](http://arxiv.org/abs/2403.03032)|null|
 |**2024-02-23**|**Towards Model-Driven Dashboard Generation for Systems-of-Systems**|Maria Teresa Rossi et.al.|[2402.15257](http://arxiv.org/abs/2402.15257)|null|
 |**2024-02-19**|**Choi-Defined Resource Theories**|Elia Zanoni et.al.|[2402.12569](http://arxiv.org/abs/2402.12569)|null|
 |**2024-02-13**|**ROSpace: Intrusion Detection Dataset for a ROS2-Based Cyber-Physical System**|Tommaso Puccetti et.al.|[2402.08468](http://arxiv.org/abs/2402.08468)|null|
@@ -486,6 +488,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Out of Time Order Correlation of the Hubbard Model with Random Local Disorder**|Chakradhar Rangi et.al.|[2403.03214](http://arxiv.org/abs/2403.03214)|null|
+|**2024-03-04**|**Computing exact moments of local random quantum circuits via tensor networks**|Paolo Braccia et.al.|[2403.01706](http://arxiv.org/abs/2403.01706)|null|
 |**2024-03-01**|**Chaos-assisted Turbulence in Spinor Bose-Einstein Condensates**|Jongmin Kim et.al.|[2403.00524](http://arxiv.org/abs/2403.00524)|null|
 |**2024-02-29**|**Enabling large-depth simulation of noisy quantum circuits with positive tensor networks**|Ambroise Müller et.al.|[2403.00152](http://arxiv.org/abs/2403.00152)|null|
 |**2024-02-29**|**Structural Stability Hypothesis of Dual Unitary Quantum Chaos**|Jonathon Riddell et.al.|[2402.19096](http://arxiv.org/abs/2402.19096)|null|
@@ -694,6 +698,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-04**|**Relational bulk reconstruction from modular flow**|Onkar Parrikar et.al.|[2403.02377](http://arxiv.org/abs/2403.02377)|null|
+|**2024-03-04**|**Recovering quantum coherence of a cavity qubit through environment monitoring and active feedback**|Uri Goldblatt et.al.|[2403.02081](http://arxiv.org/abs/2403.02081)|null|
+|**2024-03-04**|**Improved performance of the Bacon-Shor code with Steane's syndrome extraction method**|Guillermo Escobar-Arrieta et.al.|[2403.01659](http://arxiv.org/abs/2403.01659)|null|
+|**2024-03-05**|**Ultimate codes**|Ted Hurley et.al.|[2403.01491](http://arxiv.org/abs/2403.01491)|null|
+|**2024-03-03**|**Fault-tolerant Quantum Error Correction Using a Linear Array of Emitters**|Jintae Kim et.al.|[2403.01376](http://arxiv.org/abs/2403.01376)|null|
 |**2024-03-03**|**Spatially parallel decoding for multi-qubit lattice surgery**|Sophia Fuhui Lin et.al.|[2403.01353](http://arxiv.org/abs/2403.01353)|null|
 |**2024-03-01**|**Reducing the error rate of a superconducting logical qubit using analog readout information**|Hany Ali et.al.|[2403.00706](http://arxiv.org/abs/2403.00706)|null|
 |**2024-02-29**|**An assessment of quantum phase estimation protocols for early fault-tolerant quantum computers**|Jacob S. Nelson et.al.|[2403.00077](http://arxiv.org/abs/2403.00077)|null|

@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Loophole-free Bell inequality violations cannot disprove local realism**|F. De Zela et.al.|[2403.03780](http://arxiv.org/abs/2403.03780)|null|
+|**2024-03-05**|**Some consequences of Sica's approach to Bell's inequalities**|Alejandro Andrés Hnilo et.al.|[2403.03236](http://arxiv.org/abs/2403.03236)|null|
 |**2024-03-05**|**Tsirelson bounds for quantum correlations with indefinite causal order**|Zixuan Liu et.al.|[2403.02749](http://arxiv.org/abs/2403.02749)|null|
 |**2024-02-29**|**Experimental Test of Quantum Nonlocality from Contextuality**|Jianqi Sheng et.al.|[2402.19149](http://arxiv.org/abs/2402.19149)|null|
 |**2024-02-29**|**Narrowband telecom band polarization-entangled photon source by superposed monolithic cavities**|Ming-Yuan Gao et.al.|[2402.18802](http://arxiv.org/abs/2402.18802)|null|
@@ -188,6 +190,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations**|Yin Mo et.al.|[2403.03761](http://arxiv.org/abs/2403.03761)|null|
 |**2024-02-26**|**Quantum process tomography of structured optical gates with convolutional neural networks**|Tareq Jaouni et.al.|[2402.16616](http://arxiv.org/abs/2402.16616)|null|
 |**2024-03-05**|**Quantifying information flow in quantum processes**|Leonardo Santos et.al.|[2402.04213](http://arxiv.org/abs/2402.04213)|null|
 |**2024-02-22**|**Double or nothing: a Kolmogorov extension theorem for multitime (bi)probabilities in quantum mechanics**|Davide Lonigro et.al.|[2402.01218](http://arxiv.org/abs/2402.01218)|null|
@@ -488,6 +491,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Speed limits to the growth of Krylov complexity in open quantum systems**|Aranya Bhattacharya et.al.|[2403.03584](http://arxiv.org/abs/2403.03584)|null|
 |**2024-03-05**|**Out of Time Order Correlation of the Hubbard Model with Random Local Disorder**|Chakradhar Rangi et.al.|[2403.03214](http://arxiv.org/abs/2403.03214)|null|
 |**2024-03-04**|**Computing exact moments of local random quantum circuits via tensor networks**|Paolo Braccia et.al.|[2403.01706](http://arxiv.org/abs/2403.01706)|null|
 |**2024-03-01**|**Chaos-assisted Turbulence in Spinor Bose-Einstein Condensates**|Jongmin Kim et.al.|[2403.00524](http://arxiv.org/abs/2403.00524)|null|
@@ -698,6 +702,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**A multiplexed control architecture for superconducting qubits with row-column addressing**|Peng Zhao et.al.|[2403.03717](http://arxiv.org/abs/2403.03717)|null|
+|**2024-03-05**|**Dynamical Logical Qubits in the Bacon-Shor Code**|M. Sohaib Alam et.al.|[2403.03291](http://arxiv.org/abs/2403.03291)|null|
+|**2024-03-05**|**Correlated decoding of logical algorithms with transversal gates**|Madelyn Cain et.al.|[2403.03272](http://arxiv.org/abs/2403.03272)|null|
 |**2024-03-04**|**Relational bulk reconstruction from modular flow**|Onkar Parrikar et.al.|[2403.02377](http://arxiv.org/abs/2403.02377)|null|
 |**2024-03-04**|**Recovering quantum coherence of a cavity qubit through environment monitoring and active feedback**|Uri Goldblatt et.al.|[2403.02081](http://arxiv.org/abs/2403.02081)|null|
 |**2024-03-04**|**Improved performance of the Bacon-Shor code with Steane's syndrome extraction method**|Guillermo Escobar-Arrieta et.al.|[2403.01659](http://arxiv.org/abs/2403.01659)|null|

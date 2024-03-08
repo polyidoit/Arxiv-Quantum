@@ -702,6 +702,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Robust teleportation of a surface code and cascade of topological quantum phase transitions**|Finn Eckstein et.al.|[2403.04767](http://arxiv.org/abs/2403.04767)|null|
+|**2024-03-07**|**Equivalence of constacyclic codes with shift constants of different orders**|Reza Dastbasteh et.al.|[2403.04600](http://arxiv.org/abs/2403.04600)|null|
+|**2024-03-07**|**Analysis of Maximum Threshold and Quantum Security for Fault-Tolerant Encoding and Decoding Scheme Base on Steane Code**|Qiqing Xia et.al.|[2403.04297](http://arxiv.org/abs/2403.04297)|null|
+|**2024-03-07**|**Error Correction in Dynamical Codes**|Xiaozhen Fu et.al.|[2403.04163](http://arxiv.org/abs/2403.04163)|null|
+|**2024-03-06**|**Even more efficient magic state distillation by zero-level distillation**|Tomohiro Itogawa et.al.|[2403.03991](http://arxiv.org/abs/2403.03991)|null|
 |**2024-03-06**|**A multiplexed control architecture for superconducting qubits with row-column addressing**|Peng Zhao et.al.|[2403.03717](http://arxiv.org/abs/2403.03717)|null|
 |**2024-03-05**|**Dynamical Logical Qubits in the Bacon-Shor Code**|M. Sohaib Alam et.al.|[2403.03291](http://arxiv.org/abs/2403.03291)|null|
 |**2024-03-05**|**Correlated decoding of logical algorithms with transversal gates**|Madelyn Cain et.al.|[2403.03272](http://arxiv.org/abs/2403.03272)|null|

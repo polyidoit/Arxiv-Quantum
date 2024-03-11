@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Quantum bounds for compiled XOR games and $d$ -outcome CHSH games**|Matilde Baroni et.al.|[2403.05502](http://arxiv.org/abs/2403.05502)|null|
 |**2024-03-06**|**Loophole-free Bell inequality violations cannot disprove local realism**|F. De Zela et.al.|[2403.03780](http://arxiv.org/abs/2403.03780)|null|
 |**2024-03-05**|**Some consequences of Sica's approach to Bell's inequalities**|Alejandro Andrés Hnilo et.al.|[2403.03236](http://arxiv.org/abs/2403.03236)|null|
 |**2024-03-05**|**Tsirelson bounds for quantum correlations with indefinite causal order**|Zixuan Liu et.al.|[2403.02749](http://arxiv.org/abs/2403.02749)|null|
@@ -179,6 +180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Quantum metrology using quantum combs and tensor network formalism**|Stanislaw Kurdzialek et.al.|[2403.04854](http://arxiv.org/abs/2403.04854)|null|
 |**2024-03-06**|**Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations**|Yin Mo et.al.|[2403.03761](http://arxiv.org/abs/2403.03761)|null|
 |**2024-02-26**|**Quantum process tomography of structured optical gates with convolutional neural networks**|Tareq Jaouni et.al.|[2402.16616](http://arxiv.org/abs/2402.16616)|null|
 |**2024-03-05**|**Quantifying information flow in quantum processes**|Leonardo Santos et.al.|[2402.04213](http://arxiv.org/abs/2402.04213)|null|
@@ -374,6 +376,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Paving the Way for Pass Disturb Free Vertical NAND Storage via A Dedicated and String-Compatible Pass Gate**|Zijian Zhao et.al.|[2403.04981](http://arxiv.org/abs/2403.04981)|null|
 |**2024-03-05**|**Logic Programming with Multiplicative Structures**|Matteo Acclavio et.al.|[2403.03032](http://arxiv.org/abs/2403.03032)|null|
 |**2024-02-23**|**Towards Model-Driven Dashboard Generation for Systems-of-Systems**|Maria Teresa Rossi et.al.|[2402.15257](http://arxiv.org/abs/2402.15257)|null|
 |**2024-02-19**|**Choi-Defined Resource Theories**|Elia Zanoni et.al.|[2402.12569](http://arxiv.org/abs/2402.12569)|null|

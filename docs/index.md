@@ -696,7 +696,7 @@ layout: default
 |**2024-03-03**|**Fault-tolerant Quantum Error Correction Using a Linear Array of Emitters**|Jintae Kim et.al.|[2403.01376](http://arxiv.org/abs/2403.01376)|null|
 |**2024-03-03**|**Spatially parallel decoding for multi-qubit lattice surgery**|Sophia Fuhui Lin et.al.|[2403.01353](http://arxiv.org/abs/2403.01353)|null|
 |**2024-03-01**|**Reducing the error rate of a superconducting logical qubit using analog readout information**|Hany Ali et.al.|[2403.00706](http://arxiv.org/abs/2403.00706)|null|
-|**2024-02-29**|**An assessment of quantum phase estimation protocols for early fault-tolerant quantum computers**|Jacob S. Nelson et.al.|[2403.00077](http://arxiv.org/abs/2403.00077)|null|
+|**2024-02-29**|**An assessment of quantum phase estimation protocols for early fault-tolerant quantum computers**|Jacob S. Nelson et.al.|[2403.00077](http://arxiv.org/abs/2403.00077)|**[link](https://github.com/adbacze/qpe4earlyftqc)**|
 |**2024-02-29**|**Harnessing Coding Theory for Reliable Network Quantum Communication**|Ching-Yi Lai et.al.|[2402.19383](http://arxiv.org/abs/2402.19383)|null|
 |**2024-02-29**|**Realization of High-Fidelity CZ Gate based on a Double-Transmon Coupler**|Rui Li et.al.|[2402.18926](http://arxiv.org/abs/2402.18926)|null|
 |**2024-02-29**|**High-Fidelity Detection on $^{171} \mathrm{Yb}^+$ Qubit via $^2D_{3/2}$ Shelving**|Xueying Mai et.al.|[2402.18868](http://arxiv.org/abs/2402.18868)|null|
@@ -717,7 +717,7 @@ layout: default
 |**2024-02-19**|**Towards early fault tolerance on a 2 $\times$ N array of qubits equipped with shuttling**|Adam Siegel et.al.|[2402.12599](http://arxiv.org/abs/2402.12599)|null|
 |**2024-02-19**|**Exponentially Improved Dispersive Qubit Readout with Squeezed Light**|Wei Qin et.al.|[2402.12044](http://arxiv.org/abs/2402.12044)|null|
 |**2024-02-20**|**Q-Embroidery: A Study of Weaving Quantum Error Correction into the Fabric of Quantum Classifiers**|Avimita Chatterjee et.al.|[2402.11127](http://arxiv.org/abs/2402.11127)|null|
-|**2024-02-20**|**Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall ?**|Avimita Chatterjee et.al.|[2402.11105](http://arxiv.org/abs/2402.11105)|null|
+|**2024-02-20**|**Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall ?**|Avimita Chatterjee et.al.|[2402.11105](http://arxiv.org/abs/2402.11105)|**[link](https://github.com/Avimita-amc8313/Magic-Mirror-on-the-Wall-How-to-Benchmark-Quantum-Error-Correction-Codes-Overall-)**|
 |**2024-02-16**|**MITS: A Quantum Sorcerer Stone For Designing Surface Codes**|Avimita Chatterjee et.al.|[2402.11027](http://arxiv.org/abs/2402.11027)|**[link](https://github.com/Avimita-amc8313/MITS-A-Quantum-Sorcerer-s-Stone-For-Designing-Surface-Codes)**|
 |**2024-02-16**|**Hypergraph product code with 0.2 constant coding rate and high code capacity noise threshold**|Zhengzhong Yi et.al.|[2402.09648](http://arxiv.org/abs/2402.09648)|null|
 |**2024-02-14**|**Concatenate codes, save qubits**|Satoshi Yoshida et.al.|[2402.09606](http://arxiv.org/abs/2402.09606)|null|
@@ -859,7 +859,7 @@ layout: default
 |**2023-11-09**|**Higher-group symmetry of (3+1)D fermionic $\mathbb{Z}_2$ gauge theory: logical CCZ, CS, and T gates from higher symmetry**|Maissam Barkeshli et.al.|[2311.05674](http://arxiv.org/abs/2311.05674)|null|
 |**2023-11-09**|**A Spin-Optical Quantum Computing Architecture**|Grégoire de Gliniasty et.al.|[2311.05605](http://arxiv.org/abs/2311.05605)|null|
 |**2023-11-08**|**Scalable Fault-Tolerant Quantum Technologies with Silicon Colour Centres**|Stephanie Simmons et.al.|[2311.04858](http://arxiv.org/abs/2311.04858)|null|
-|**2023-11-08**|**Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent**|Jan Olle et.al.|[2311.04750](http://arxiv.org/abs/2311.04750)|null|
+|**2023-11-08**|**Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent**|Jan Olle et.al.|[2311.04750](http://arxiv.org/abs/2311.04750)|**[link](https://github.com/jolle-ag/qdx)**|
 |**2023-11-08**|**Erasure detection of a dual-rail qubit encoded in a double-post superconducting cavity**|Akshay Koottandavida et.al.|[2311.04423](http://arxiv.org/abs/2311.04423)|null|
 |**2023-11-07**|**Quantum stabilizer formalism for any composite system**|Zhelin Tian et.al.|[2311.04255](http://arxiv.org/abs/2311.04255)|null|
 |**2023-11-07**|**Shaping photons: quantum computation with bosonic cQED**|Adrian Copetudo et.al.|[2311.03846](http://arxiv.org/abs/2311.03846)|null|

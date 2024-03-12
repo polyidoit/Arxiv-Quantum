@@ -494,6 +494,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-09**|**Detecting quantum chaos via pseudo-entropy and negativity**|Song He et.al.|[2403.05875](http://arxiv.org/abs/2403.05875)|null|
 |**2024-03-06**|**Speed limits to the growth of Krylov complexity in open quantum systems**|Aranya Bhattacharya et.al.|[2403.03584](http://arxiv.org/abs/2403.03584)|null|
 |**2024-03-05**|**Out of Time Order Correlation of the Hubbard Model with Random Local Disorder**|Chakradhar Rangi et.al.|[2403.03214](http://arxiv.org/abs/2403.03214)|null|
 |**2024-03-04**|**Computing exact moments of local random quantum circuits via tensor networks**|Paolo Braccia et.al.|[2403.01706](http://arxiv.org/abs/2403.01706)|null|
@@ -705,6 +706,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Scalable multi-qubit intrinsic gates in quantum dot arrays**|Jiaan Qi et.al.|[2403.06894](http://arxiv.org/abs/2403.06894)|null|
+|**2024-03-11**|**Balanced Substructures in Bicolored Graphs**|P. S. Ardra et.al.|[2403.06608](http://arxiv.org/abs/2403.06608)|null|
+|**2024-03-10**|**Error-Mitigated Quantum Random Access Memory**|Wenbo Shi et.al.|[2403.06340](http://arxiv.org/abs/2403.06340)|null|
 |**2024-03-07**|**Robust teleportation of a surface code and cascade of topological quantum phase transitions**|Finn Eckstein et.al.|[2403.04767](http://arxiv.org/abs/2403.04767)|null|
 |**2024-03-07**|**Equivalence of constacyclic codes with shift constants of different orders**|Reza Dastbasteh et.al.|[2403.04600](http://arxiv.org/abs/2403.04600)|null|
 |**2024-03-07**|**Analysis of Maximum Threshold and Quantum Security for Fault-Tolerant Encoding and Decoding Scheme Base on Steane Code**|Qiqing Xia et.al.|[2403.04297](http://arxiv.org/abs/2403.04297)|null|

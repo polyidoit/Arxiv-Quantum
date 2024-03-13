@@ -242,6 +242,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Minimal cellular automaton model with heterogeneous cell sizes predicts epithelial colony growth**|Steffen Lange et.al.|[2403.07612](http://arxiv.org/abs/2403.07612)|null|
+|**2024-03-12**|**Cabello's nonlocality argument for multisetting high-dimensional systems and its experimental test**|M. Yang et.al.|[2403.07417](http://arxiv.org/abs/2403.07417)|null|
 |**2024-02-27**|**Design principles of nonlinear optical materials for Terahertz lasers**|Juan Han et.al.|[2402.17126](http://arxiv.org/abs/2402.17126)|null|
 |**2024-02-22**|**The limit law of certain discrete multivariate distributions**|Andrius Grigutis et.al.|[2402.14470](http://arxiv.org/abs/2402.14470)|null|
 |**2024-02-12**|**Application of the Inclusion-Exclusion Principle to Prime Number Subsequences**|Michael P. May et.al.|[2402.13214](http://arxiv.org/abs/2402.13214)|null|
@@ -475,6 +477,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Out-of-time-order correlator as a detector of baryonic phase structure in holographic QCD with a theta angle**|Si-wen Li et.al.|[2403.07335](http://arxiv.org/abs/2403.07335)|null|
 |**2024-03-09**|**Detecting quantum chaos via pseudo-entropy and negativity**|Song He et.al.|[2403.05875](http://arxiv.org/abs/2403.05875)|null|
 |**2024-03-06**|**Speed limits to the growth of Krylov complexity in open quantum systems**|Aranya Bhattacharya et.al.|[2403.03584](http://arxiv.org/abs/2403.03584)|null|
 |**2024-03-05**|**Out of Time Order Correlation of the Hubbard Model with Random Local Disorder**|Chakradhar Rangi et.al.|[2403.03214](http://arxiv.org/abs/2403.03214)|null|
@@ -685,6 +688,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**An Architecture for Noise-Aware Distributed Quantum Computation**|Sanidhya Gupta et.al.|[2403.07596](http://arxiv.org/abs/2403.07596)|null|
 |**2024-03-11**|**Scalable multi-qubit intrinsic gates in quantum dot arrays**|Jiaan Qi et.al.|[2403.06894](http://arxiv.org/abs/2403.06894)|null|
 |**2024-03-11**|**Balanced Substructures in Bicolored Graphs**|P. S. Ardra et.al.|[2403.06608](http://arxiv.org/abs/2403.06608)|null|
 |**2024-03-10**|**Error-Mitigated Quantum Random Access Memory**|Wenbo Shi et.al.|[2403.06340](http://arxiv.org/abs/2403.06340)|null|

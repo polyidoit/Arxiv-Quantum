@@ -191,6 +191,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan et.al.|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
 |**2024-03-07**|**Quantum metrology using quantum combs and tensor network formalism**|Stanislaw Kurdzialek et.al.|[2403.04854](http://arxiv.org/abs/2403.04854)|null|
 |**2024-03-06**|**Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations**|Yin Mo et.al.|[2403.03761](http://arxiv.org/abs/2403.03761)|null|
 |**2024-02-26**|**Quantum process tomography of structured optical gates with convolutional neural networks**|Tareq Jaouni et.al.|[2402.16616](http://arxiv.org/abs/2402.16616)|null|
@@ -496,6 +497,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Ancilla-free measurement of out-of-time-ordered correlation functions: General measurement protocol and Rydberg atom implementation**|Michael Kastner et.al.|[2403.08670](http://arxiv.org/abs/2403.08670)|null|
+|**2024-03-13**|**Symmetry restoration and quantum Mpemba effect in symmetric random circuits**|Shuo Liu et.al.|[2403.08459](http://arxiv.org/abs/2403.08459)|null|
 |**2024-03-12**|**Out-of-time-order correlator as a detector of baryonic phase structure in holographic QCD with a theta angle**|Si-wen Li et.al.|[2403.07335](http://arxiv.org/abs/2403.07335)|null|
 |**2024-03-09**|**Detecting quantum chaos via pseudo-entropy and negativity**|Song He et.al.|[2403.05875](http://arxiv.org/abs/2403.05875)|null|
 |**2024-03-06**|**Speed limits to the growth of Krylov complexity in open quantum systems**|Aranya Bhattacharya et.al.|[2403.03584](http://arxiv.org/abs/2403.03584)|null|
@@ -709,6 +712,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan et.al.|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
+|**2024-03-13**|**Stabilizer ground states: theory, algorithms and applications**|Jiace Sun et.al.|[2403.08441](http://arxiv.org/abs/2403.08441)|null|
 |**2024-03-12**|**An Architecture for Noise-Aware Distributed Quantum Computation**|Sanidhya Gupta et.al.|[2403.07596](http://arxiv.org/abs/2403.07596)|null|
 |**2024-03-11**|**Scalable multi-qubit intrinsic gates in quantum dot arrays**|Jiaan Qi et.al.|[2403.06894](http://arxiv.org/abs/2403.06894)|null|
 |**2024-03-11**|**Balanced Substructures in Bicolored Graphs**|P. S. Ardra et.al.|[2403.06608](http://arxiv.org/abs/2403.06608)|null|

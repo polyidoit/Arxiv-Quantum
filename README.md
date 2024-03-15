@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Emergence of entanglement and breakdown of causality in the quantum realm**|Shuang-Kai Yang et.al.|[2403.09368](http://arxiv.org/abs/2403.09368)|null|
+|**2024-03-14**|**Verification of Bell Nonlocality by Violating Quantum Monogamy Relations**|Yan-Han Yang et.al.|[2403.09166](http://arxiv.org/abs/2403.09166)|null|
 |**2024-03-08**|**Quantum bounds for compiled XOR games and $d$ -outcome CHSH games**|Matilde Baroni et.al.|[2403.05502](http://arxiv.org/abs/2403.05502)|null|
 |**2024-03-06**|**Loophole-free Bell inequality violations cannot disprove local realism**|F. De Zela et.al.|[2403.03780](http://arxiv.org/abs/2403.03780)|null|
 |**2024-03-05**|**Some consequences of Sica's approach to Bell's inequalities**|Alejandro Andrés Hnilo et.al.|[2403.03236](http://arxiv.org/abs/2403.03236)|null|
@@ -712,6 +714,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Efficient Tensor Networks for Control-Enhanced Quantum Metrology**|Qiushi Liu et.al.|[2403.09519](http://arxiv.org/abs/2403.09519)|null|
+|**2024-03-13**|**Quantum Codes and Irreducible Products of Characters**|Eric Kubischta et.al.|[2403.08999](http://arxiv.org/abs/2403.08999)|null|
 |**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan et.al.|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
 |**2024-03-13**|**Stabilizer ground states: theory, algorithms and applications**|Jiace Sun et.al.|[2403.08441](http://arxiv.org/abs/2403.08441)|null|
 |**2024-03-12**|**An Architecture for Noise-Aware Distributed Quantum Computation**|Sanidhya Gupta et.al.|[2403.07596](http://arxiv.org/abs/2403.07596)|null|

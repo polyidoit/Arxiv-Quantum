@@ -717,7 +717,7 @@
 |**2024-03-14**|**Efficient Tensor Networks for Control-Enhanced Quantum Metrology**|Qiushi Liu et.al.|[2403.09519](http://arxiv.org/abs/2403.09519)|null|
 |**2024-03-13**|**Quantum Codes and Irreducible Products of Characters**|Eric Kubischta et.al.|[2403.08999](http://arxiv.org/abs/2403.08999)|null|
 |**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan et.al.|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
-|**2024-03-13**|**Stabilizer ground states: theory, algorithms and applications**|Jiace Sun et.al.|[2403.08441](http://arxiv.org/abs/2403.08441)|null|
+|**2024-03-13**|**Stabilizer ground states: theory, algorithms and applications**|Jiace Sun et.al.|[2403.08441](http://arxiv.org/abs/2403.08441)|**[link](https://github.com/susyustc/stabilizer_gs)**|
 |**2024-03-12**|**An Architecture for Noise-Aware Distributed Quantum Computation**|Sanidhya Gupta et.al.|[2403.07596](http://arxiv.org/abs/2403.07596)|null|
 |**2024-03-11**|**Scalable multi-qubit intrinsic gates in quantum dot arrays**|Jiaan Qi et.al.|[2403.06894](http://arxiv.org/abs/2403.06894)|null|
 |**2024-03-11**|**Balanced Substructures in Bicolored Graphs**|P. S. Ardra et.al.|[2403.06608](http://arxiv.org/abs/2403.06608)|null|

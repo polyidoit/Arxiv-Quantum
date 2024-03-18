@@ -182,6 +182,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**A de Finetti theorem for quantum causal structures**|Fabio Costa et.al.|[2403.10316](http://arxiv.org/abs/2403.10316)|null|
 |**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan et.al.|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
 |**2024-03-07**|**Quantum metrology using quantum combs and tensor network formalism**|Stanislaw Kurdzialek et.al.|[2403.04854](http://arxiv.org/abs/2403.04854)|null|
 |**2024-03-06**|**Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations**|Yin Mo et.al.|[2403.03761](http://arxiv.org/abs/2403.03761)|null|
@@ -480,6 +481,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Universal correlations in chaotic many-body quantum states: Fock-space formulation of Berrys random wave model**|Florian Schoeppl et.al.|[2403.10132](http://arxiv.org/abs/2403.10132)|null|
 |**2024-03-13**|**Ancilla-free measurement of out-of-time-ordered correlation functions: General measurement protocol and Rydberg atom implementation**|Michael Kastner et.al.|[2403.08670](http://arxiv.org/abs/2403.08670)|null|
 |**2024-03-13**|**Symmetry restoration and quantum Mpemba effect in symmetric random circuits**|Shuo Liu et.al.|[2403.08459](http://arxiv.org/abs/2403.08459)|null|
 |**2024-03-12**|**Out-of-time-order correlator as a detector of baryonic phase structure in holographic QCD with a theta angle**|Si-wen Li et.al.|[2403.07335](http://arxiv.org/abs/2403.07335)|null|
@@ -693,6 +695,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Low-density parity-check representation of fault-tolerant quantum circuits**|Ying Li et.al.|[2403.10268](http://arxiv.org/abs/2403.10268)|null|
+|**2024-03-15**|**Effectiveness of the syndrome extraction circuit with flag qubits on IBM quantum hardware**|Younghun Kim et.al.|[2403.10217](http://arxiv.org/abs/2403.10217)|null|
+|**2024-03-15**|**Concatenated Steane code with single-flag syndrome checks**|Balint Pato et.al.|[2403.09978](http://arxiv.org/abs/2403.09978)|null|
 |**2024-03-14**|**Efficient Tensor Networks for Control-Enhanced Quantum Metrology**|Qiushi Liu et.al.|[2403.09519](http://arxiv.org/abs/2403.09519)|null|
 |**2024-03-13**|**Quantum Codes and Irreducible Products of Characters**|Eric Kubischta et.al.|[2403.08999](http://arxiv.org/abs/2403.08999)|null|
 |**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan et.al.|[2403.08706](http://arxiv.org/abs/2403.08706)|null|

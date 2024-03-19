@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**All incompatible measurements on qubits lead to multiparticle Bell nonlocality**|Martin Plávala et.al.|[2403.10564](http://arxiv.org/abs/2403.10564)|null|
 |**2024-03-14**|**Emergence of entanglement and breakdown of causality in the quantum realm**|Shuang-Kai Yang et.al.|[2403.09368](http://arxiv.org/abs/2403.09368)|null|
 |**2024-03-14**|**Verification of Bell Nonlocality by Violating Quantum Monogamy Relations**|Yan-Han Yang et.al.|[2403.09166](http://arxiv.org/abs/2403.09166)|null|
 |**2024-03-08**|**Quantum bounds for compiled XOR games and $d$ -outcome CHSH games**|Matilde Baroni et.al.|[2403.05502](http://arxiv.org/abs/2403.05502)|null|
@@ -382,6 +383,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**Bifurcation Analysis of an Influenza A (H1N1) Model with Treatment and Vaccination**|Kazi Mehedi Mohammad et.al.|[2403.11277](http://arxiv.org/abs/2403.11277)|null|
 |**2024-03-08**|**Paving the Way for Pass Disturb Free Vertical NAND Storage via A Dedicated and String-Compatible Pass Gate**|Zijian Zhao et.al.|[2403.04981](http://arxiv.org/abs/2403.04981)|null|
 |**2024-03-05**|**Logic Programming with Multiplicative Structures**|Matteo Acclavio et.al.|[2403.03032](http://arxiv.org/abs/2403.03032)|null|
 |**2024-02-23**|**Towards Model-Driven Dashboard Generation for Systems-of-Systems**|Maria Teresa Rossi et.al.|[2402.15257](http://arxiv.org/abs/2402.15257)|null|
@@ -481,6 +483,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Entanglement patterns of quantum chaotic Hamiltonians with a scalar U(1) charge**|Christopher M. Langlett et.al.|[2403.10600](http://arxiv.org/abs/2403.10600)|null|
 |**2024-03-15**|**Universal correlations in chaotic many-body quantum states: Fock-space formulation of Berrys random wave model**|Florian Schoeppl et.al.|[2403.10132](http://arxiv.org/abs/2403.10132)|null|
 |**2024-03-13**|**Ancilla-free measurement of out-of-time-ordered correlation functions: General measurement protocol and Rydberg atom implementation**|Michael Kastner et.al.|[2403.08670](http://arxiv.org/abs/2403.08670)|null|
 |**2024-03-13**|**Symmetry restoration and quantum Mpemba effect in symmetric random circuits**|Shuo Liu et.al.|[2403.08459](http://arxiv.org/abs/2403.08459)|null|
@@ -695,6 +698,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Universal high-fidelity quantum gates for spin-qubits in diamond**|H. P. Bartling et.al.|[2403.10633](http://arxiv.org/abs/2403.10633)|null|
+|**2024-03-15**|**Quantum memory at nonzero temperature in a thermodynamically trivial system**|Yifan Hong et.al.|[2403.10599](http://arxiv.org/abs/2403.10599)|null|
 |**2024-03-15**|**Low-density parity-check representation of fault-tolerant quantum circuits**|Ying Li et.al.|[2403.10268](http://arxiv.org/abs/2403.10268)|null|
 |**2024-03-15**|**Effectiveness of the syndrome extraction circuit with flag qubits on IBM quantum hardware**|Younghun Kim et.al.|[2403.10217](http://arxiv.org/abs/2403.10217)|null|
 |**2024-03-15**|**Concatenated Steane code with single-flag syndrome checks**|Balint Pato et.al.|[2403.09978](http://arxiv.org/abs/2403.09978)|null|

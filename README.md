@@ -400,6 +400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
 |**2024-03-17**|**Bifurcation Analysis of an Influenza A (H1N1) Model with Treatment and Vaccination**|Kazi Mehedi Mohammad et.al.|[2403.11277](http://arxiv.org/abs/2403.11277)|null|
 |**2024-03-08**|**Paving the Way for Pass Disturb Free Vertical NAND Storage via A Dedicated and String-Compatible Pass Gate**|Zijian Zhao et.al.|[2403.04981](http://arxiv.org/abs/2403.04981)|null|
 |**2024-03-05**|**Logic Programming with Multiplicative Structures**|Matteo Acclavio et.al.|[2403.03032](http://arxiv.org/abs/2403.03032)|null|
@@ -502,11 +503,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**The Lyapunov exponent as a signature of dissipative many-body quantum chaos**|Antonio M. García-García et.al.|[2403.12359](http://arxiv.org/abs/2403.12359)|null|
 |**2024-03-15**|**Entanglement patterns of quantum chaotic Hamiltonians with a scalar U(1) charge**|Christopher M. Langlett et.al.|[2403.10600](http://arxiv.org/abs/2403.10600)|null|
 |**2024-03-15**|**Universal correlations in chaotic many-body quantum states: Fock-space formulation of Berrys random wave model**|Florian Schoeppl et.al.|[2403.10132](http://arxiv.org/abs/2403.10132)|null|
 |**2024-03-13**|**Ancilla-free measurement of out-of-time-ordered correlation functions: General measurement protocol and Rydberg atom implementation**|Michael Kastner et.al.|[2403.08670](http://arxiv.org/abs/2403.08670)|null|
 |**2024-03-13**|**Symmetry restoration and quantum Mpemba effect in symmetric random circuits**|Shuo Liu et.al.|[2403.08459](http://arxiv.org/abs/2403.08459)|null|
-|**2024-03-12**|**Out-of-time-order correlator as a detector of baryonic phase structure in holographic QCD with a theta angle**|Si-wen Li et.al.|[2403.07335](http://arxiv.org/abs/2403.07335)|null|
+|**2024-03-19**|**Out-of-time-order correlator as a detector of baryonic phase structure in holographic QCD with a theta angle**|Si-wen Li et.al.|[2403.07335](http://arxiv.org/abs/2403.07335)|null|
 |**2024-03-09**|**Detecting quantum chaos via pseudo-entropy and negativity**|Song He et.al.|[2403.05875](http://arxiv.org/abs/2403.05875)|null|
 |**2024-03-06**|**Speed limits to the growth of Krylov complexity in open quantum systems**|Aranya Bhattacharya et.al.|[2403.03584](http://arxiv.org/abs/2403.03584)|null|
 |**2024-03-05**|**Out of Time Order Correlation of the Hubbard Model with Random Local Disorder**|Chakradhar Rangi et.al.|[2403.03214](http://arxiv.org/abs/2403.03214)|null|
@@ -719,6 +721,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Self-Orthogonal Codes from Vectorial Dual-Bent Functions**|Jiaxin Wang et.al.|[2403.12578](http://arxiv.org/abs/2403.12578)|null|
+|**2024-03-19**|**A tweezer array with 6100 highly coherent atomic qubits**|Hannah J. Manetsch et.al.|[2403.12021](http://arxiv.org/abs/2403.12021)|null|
 |**2024-03-15**|**Universal high-fidelity quantum gates for spin-qubits in diamond**|H. P. Bartling et.al.|[2403.10633](http://arxiv.org/abs/2403.10633)|null|
 |**2024-03-15**|**Quantum memory at nonzero temperature in a thermodynamically trivial system**|Yifan Hong et.al.|[2403.10599](http://arxiv.org/abs/2403.10599)|null|
 |**2024-03-15**|**Low-density parity-check representation of fault-tolerant quantum circuits**|Ying Li et.al.|[2403.10268](http://arxiv.org/abs/2403.10268)|null|

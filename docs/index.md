@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -383,7 +383,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-19**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
+|**2024-03-20**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
 |**2024-03-17**|**Bifurcation Analysis of an Influenza A (H1N1) Model with Treatment and Vaccination**|Kazi Mehedi Mohammad et.al.|[2403.11277](http://arxiv.org/abs/2403.11277)|null|
 |**2024-03-08**|**Paving the Way for Pass Disturb Free Vertical NAND Storage via A Dedicated and String-Compatible Pass Gate**|Zijian Zhao et.al.|[2403.04981](http://arxiv.org/abs/2403.04981)|null|
 |**2024-03-05**|**Logic Programming with Multiplicative Structures**|Matteo Acclavio et.al.|[2403.03032](http://arxiv.org/abs/2403.03032)|null|

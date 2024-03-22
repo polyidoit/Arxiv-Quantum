@@ -7,7 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-14**|**All incompatible measurements on qubits lead to multiparticle Bell nonlocality**|Martin Plávala et.al.|[2403.10564](http://arxiv.org/abs/2403.10564)|**[link](https://github.com/mtcq/belljm_multipartite)**|
+|**2024-03-20**|**Tripartite entanglement in $H \to ZZ,WW$ decays**|J. A. Aguilar-Saavedra et.al.|[2403.13942](http://arxiv.org/abs/2403.13942)|null|
+|**2024-03-21**|**All incompatible measurements on qubits lead to multiparticle Bell nonlocality**|Martin Plávala et.al.|[2403.10564](http://arxiv.org/abs/2403.10564)|**[link](https://github.com/mtcq/belljm_multipartite)**|
 |**2024-03-14**|**Emergence of entanglement and breakdown of causality in the quantum realm**|Shuang-Kai Yang et.al.|[2403.09368](http://arxiv.org/abs/2403.09368)|null|
 |**2024-03-14**|**Verification of Bell Nonlocality by Violating Quantum Monogamy Relations**|Yan-Han Yang et.al.|[2403.09166](http://arxiv.org/abs/2403.09166)|null|
 |**2024-03-08**|**Quantum bounds for compiled XOR games and $d$ -outcome CHSH games**|Matilde Baroni et.al.|[2403.05502](http://arxiv.org/abs/2403.05502)|null|
@@ -383,6 +384,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Emission of fast-propagating spin waves by an antiferromagnetic domain wall driven by spin current**|Roman V. Ovcharov et.al.|[2403.13949](http://arxiv.org/abs/2403.13949)|null|
 |**2024-03-20**|**Nellie: Automated organelle segmentation, tracking, and hierarchical feature extraction in 2D/3D live-cell microscopy**|Austin E. Y. T. Lefebvre et.al.|[2403.13214](http://arxiv.org/abs/2403.13214)|**[link](https://github.com/aelefebv/nellie)**|
 |**2024-03-20**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
 |**2024-03-17**|**Bifurcation Analysis of an Influenza A (H1N1) Model with Treatment and Vaccination**|Kazi Mehedi Mohammad et.al.|[2403.11277](http://arxiv.org/abs/2403.11277)|null|
@@ -485,6 +487,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Quantum chaos in the sparse SYK model**|Patrick Orman et.al.|[2403.13884](http://arxiv.org/abs/2403.13884)|null|
 |**2024-03-20**|**Quantum Chaos on Edge**|Alexander Altland et.al.|[2403.13516](http://arxiv.org/abs/2403.13516)|null|
 |**2024-03-19**|**The Lyapunov exponent as a signature of dissipative many-body quantum chaos**|Antonio M. García-García et.al.|[2403.12359](http://arxiv.org/abs/2403.12359)|null|
 |**2024-03-15**|**Entanglement patterns of quantum chaotic Hamiltonians with a scalar U(1) charge**|Christopher M. Langlett et.al.|[2403.10600](http://arxiv.org/abs/2403.10600)|null|

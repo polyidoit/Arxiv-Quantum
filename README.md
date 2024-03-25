@@ -726,6 +726,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Optimal control in large open quantum systems: the case of transmon readout and reset**|Ronan Gautier et.al.|[2403.14765](http://arxiv.org/abs/2403.14765)|null|
 |**2024-03-20**|**Experimental fault-tolerant code switching**|Ivan Pogorelov et.al.|[2403.13732](http://arxiv.org/abs/2403.13732)|null|
 |**2024-03-19**|**Self-Orthogonal Codes from Vectorial Dual-Bent Functions**|Jiaxin Wang et.al.|[2403.12578](http://arxiv.org/abs/2403.12578)|null|
 |**2024-03-19**|**A tweezer array with 6100 highly coherent atomic qubits**|Hannah J. Manetsch et.al.|[2403.12021](http://arxiv.org/abs/2403.12021)|null|

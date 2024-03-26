@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars et.al.|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
 |**2024-03-20**|**Tripartite entanglement in $H \to ZZ,WW$ decays**|J. A. Aguilar-Saavedra et.al.|[2403.13942](http://arxiv.org/abs/2403.13942)|null|
 |**2024-03-21**|**All incompatible measurements on qubits lead to multiparticle Bell nonlocality**|Martin Plávala et.al.|[2403.10564](http://arxiv.org/abs/2403.10564)|**[link](https://github.com/mtcq/belljm_multipartite)**|
 |**2024-03-14**|**Emergence of entanglement and breakdown of causality in the quantum realm**|Shuang-Kai Yang et.al.|[2403.09368](http://arxiv.org/abs/2403.09368)|null|
@@ -261,6 +262,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang et.al.|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
 |**2024-03-12**|**Minimal cellular automaton model with heterogeneous cell sizes predicts epithelial colony growth**|Steffen Lange et.al.|[2403.07612](http://arxiv.org/abs/2403.07612)|null|
 |**2024-03-12**|**Cabello's nonlocality argument for multisetting high-dimensional systems and its experimental test**|M. Yang et.al.|[2403.07417](http://arxiv.org/abs/2403.07417)|null|
 |**2024-02-27**|**Design principles of nonlinear optical materials for Terahertz lasers**|Juan Han et.al.|[2402.17126](http://arxiv.org/abs/2402.17126)|null|
@@ -337,6 +339,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars et.al.|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
 |**2024-02-28**|**Almost device-independent certification of GME states with minimal measurements**|Shubhayan Sarkar et.al.|[2402.18522](http://arxiv.org/abs/2402.18522)|null|
 |**2024-02-25**|**Enhancement of Entanglement via Josephson Parametric Amplifier in a Dual Cavity-Magnon System**|Abdelkader Hidki et.al.|[2402.16042](http://arxiv.org/abs/2402.16042)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
@@ -401,6 +404,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus**|Chen Li et.al.|[2403.16607](http://arxiv.org/abs/2403.16607)|null|
+|**2024-03-25**|**Concurrent Linguistic Error Detection (CLED) for Large Language Models**|Jinhua Zhu et.al.|[2403.16393](http://arxiv.org/abs/2403.16393)|null|
 |**2024-03-20**|**Emission of fast-propagating spin waves by an antiferromagnetic domain wall driven by spin current**|Roman V. Ovcharov et.al.|[2403.13949](http://arxiv.org/abs/2403.13949)|null|
 |**2024-03-20**|**Nellie: Automated organelle segmentation, tracking, and hierarchical feature extraction in 2D/3D live-cell microscopy**|Austin E. Y. T. Lefebvre et.al.|[2403.13214](http://arxiv.org/abs/2403.13214)|**[link](https://github.com/aelefebv/nellie)**|
 |**2024-03-20**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
@@ -726,6 +731,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-24**|**Coupler-Assisted Leakage Reduction for Scalable Quantum Error Correction with Superconducting Qubits**|Xiaohan Yang et.al.|[2403.16155](http://arxiv.org/abs/2403.16155)|null|
+|**2024-03-24**|**Many-hypercube codes: High-rate quantum error-correcting codes for high-performance fault-tolerant quantum computation**|Hayato Goto et.al.|[2403.16054](http://arxiv.org/abs/2403.16054)|null|
 |**2024-03-21**|**Optimal control in large open quantum systems: the case of transmon readout and reset**|Ronan Gautier et.al.|[2403.14765](http://arxiv.org/abs/2403.14765)|null|
 |**2024-03-20**|**Experimental fault-tolerant code switching**|Ivan Pogorelov et.al.|[2403.13732](http://arxiv.org/abs/2403.13732)|null|
 |**2024-03-19**|**Self-Orthogonal Codes from Vectorial Dual-Bent Functions**|Jiaxin Wang et.al.|[2403.12578](http://arxiv.org/abs/2403.12578)|null|

@@ -492,6 +492,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model**|Ang Yang et.al.|[2403.17912](http://arxiv.org/abs/2403.17912)|null|
+|**2024-03-25**|**Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era**|Pau Escofet et.al.|[2403.17205](http://arxiv.org/abs/2403.17205)|null|
+|**2024-03-25**|**Measuring Spectral Form Factor in Many-Body Chaotic and Localized Phases of Quantum Processors**|Hang Dong et.al.|[2403.16935](http://arxiv.org/abs/2403.16935)|null|
+|**2024-03-25**|**Fidelity of Wormhole Teleportation in Finite-qubit Systems**|Zeyu Liu et.al.|[2403.16793](http://arxiv.org/abs/2403.16793)|null|
 |**2024-03-20**|**Quantum chaos in the sparse SYK model**|Patrick Orman et.al.|[2403.13884](http://arxiv.org/abs/2403.13884)|null|
 |**2024-03-20**|**Quantum Chaos on Edge**|Alexander Altland et.al.|[2403.13516](http://arxiv.org/abs/2403.13516)|null|
 |**2024-03-19**|**The Lyapunov exponent as a signature of dissipative many-body quantum chaos**|Antonio M. García-García et.al.|[2403.12359](http://arxiv.org/abs/2403.12359)|null|
@@ -710,6 +714,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Quantum Liquids: Emergent higher-rank gauge theory and fractons**|Yizhi You et.al.|[2403.17074](http://arxiv.org/abs/2403.17074)|null|
 |**2024-03-24**|**Coupler-Assisted Leakage Reduction for Scalable Quantum Error Correction with Superconducting Qubits**|Xiaohan Yang et.al.|[2403.16155](http://arxiv.org/abs/2403.16155)|null|
 |**2024-03-24**|**Many-hypercube codes: High-rate quantum error-correcting codes for high-performance fault-tolerant quantum computation**|Hayato Goto et.al.|[2403.16054](http://arxiv.org/abs/2403.16054)|null|
 |**2024-03-21**|**Optimal control in large open quantum systems: the case of transmon readout and reset**|Ronan Gautier et.al.|[2403.14765](http://arxiv.org/abs/2403.14765)|null|

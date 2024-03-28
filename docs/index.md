@@ -249,6 +249,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**The operadic theory of convexity**|Redi Haderi et.al.|[2403.18102](http://arxiv.org/abs/2403.18102)|null|
 |**2024-03-25**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang et.al.|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
 |**2024-03-12**|**Minimal cellular automaton model with heterogeneous cell sizes predicts epithelial colony growth**|Steffen Lange et.al.|[2403.07612](http://arxiv.org/abs/2403.07612)|null|
 |**2024-03-12**|**Cabello's nonlocality argument for multisetting high-dimensional systems and its experimental test**|M. Yang et.al.|[2403.07417](http://arxiv.org/abs/2403.07417)|null|
@@ -492,6 +493,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Thermalization condition for non-Hermitian quantum systems**|Yiting Mao et.al.|[2403.18477](http://arxiv.org/abs/2403.18477)|null|
+|**2024-03-26**|**EinExprs: Contraction Paths of Tensor Networks as Symbolic Expressions**|Sergio Sanchez-Ramirez et.al.|[2403.18030](http://arxiv.org/abs/2403.18030)|null|
 |**2024-03-26**|**Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model**|Ang Yang et.al.|[2403.17912](http://arxiv.org/abs/2403.17912)|null|
 |**2024-03-25**|**Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era**|Pau Escofet et.al.|[2403.17205](http://arxiv.org/abs/2403.17205)|null|
 |**2024-03-25**|**Measuring Spectral Form Factor in Many-Body Chaotic and Localized Phases of Quantum Processors**|Hang Dong et.al.|[2403.16935](http://arxiv.org/abs/2403.16935)|null|

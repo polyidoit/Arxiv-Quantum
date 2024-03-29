@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars et.al.|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
 |**2024-03-20**|**Tripartite entanglement in $H \to ZZ,WW$ decays**|J. A. Aguilar-Saavedra et.al.|[2403.13942](http://arxiv.org/abs/2403.13942)|null|
-|**2024-03-21**|**All incompatible measurements on qubits lead to multiparticle Bell nonlocality**|Martin Plávala et.al.|[2403.10564](http://arxiv.org/abs/2403.10564)|**[link](https://github.com/mtcq/belljm_multipartite)**|
+|**2024-03-27**|**All incompatible measurements on qubits lead to multiparticle Bell nonlocality**|Martin Plávala et.al.|[2403.10564](http://arxiv.org/abs/2403.10564)|**[link](https://github.com/mtcq/belljm_multipartite)**|
 |**2024-03-14**|**Emergence of entanglement and breakdown of causality in the quantum realm**|Shuang-Kai Yang et.al.|[2403.09368](http://arxiv.org/abs/2403.09368)|null|
 |**2024-03-14**|**Verification of Bell Nonlocality by Violating Quantum Monogamy Relations**|Yan-Han Yang et.al.|[2403.09166](http://arxiv.org/abs/2403.09166)|null|
 |**2024-03-08**|**Quantum bounds for compiled XOR games and $d$ -outcome CHSH games**|Matilde Baroni et.al.|[2403.05502](http://arxiv.org/abs/2403.05502)|null|

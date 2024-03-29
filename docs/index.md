@@ -185,6 +185,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Parallel and real-time post-processing for quantum random number generators**|Xiaomin Guo et.al.|[2403.19479](http://arxiv.org/abs/2403.19479)|null|
 |**2024-03-15**|**A de Finetti theorem for quantum causal structures**|Fabio Costa et.al.|[2403.10316](http://arxiv.org/abs/2403.10316)|null|
 |**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan et.al.|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
 |**2024-03-07**|**Quantum metrology using quantum combs and tensor network formalism**|Stanislaw Kurdzialek et.al.|[2403.04854](http://arxiv.org/abs/2403.04854)|null|
@@ -392,7 +393,7 @@ layout: default
 |**2024-03-25**|**Concurrent Linguistic Error Detection (CLED) for Large Language Models**|Jinhua Zhu et.al.|[2403.16393](http://arxiv.org/abs/2403.16393)|null|
 |**2024-03-20**|**Emission of fast-propagating spin waves by an antiferromagnetic domain wall driven by spin current**|Roman V. Ovcharov et.al.|[2403.13949](http://arxiv.org/abs/2403.13949)|null|
 |**2024-03-20**|**Nellie: Automated organelle segmentation, tracking, and hierarchical feature extraction in 2D/3D live-cell microscopy**|Austin E. Y. T. Lefebvre et.al.|[2403.13214](http://arxiv.org/abs/2403.13214)|**[link](https://github.com/aelefebv/nellie)**|
-|**2024-03-20**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
+|**2024-03-28**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
 |**2024-03-17**|**Bifurcation Analysis of an Influenza A (H1N1) Model with Treatment and Vaccination**|Kazi Mehedi Mohammad et.al.|[2403.11277](http://arxiv.org/abs/2403.11277)|null|
 |**2024-03-08**|**Paving the Way for Pass Disturb Free Vertical NAND Storage via A Dedicated and String-Compatible Pass Gate**|Zijian Zhao et.al.|[2403.04981](http://arxiv.org/abs/2403.04981)|null|
 |**2024-03-05**|**Logic Programming with Multiplicative Structures**|Matteo Acclavio et.al.|[2403.03032](http://arxiv.org/abs/2403.03032)|null|
@@ -493,6 +494,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Properties and Applications of the Kirkwood-Dirac Distribution**|David R. M. Arvidsson-Shukur et.al.|[2403.18899](http://arxiv.org/abs/2403.18899)|null|
 |**2024-03-27**|**Thermalization condition for non-Hermitian quantum systems**|Yiting Mao et.al.|[2403.18477](http://arxiv.org/abs/2403.18477)|null|
 |**2024-03-26**|**EinExprs: Contraction Paths of Tensor Networks as Symbolic Expressions**|Sergio Sanchez-Ramirez et.al.|[2403.18030](http://arxiv.org/abs/2403.18030)|null|
 |**2024-03-26**|**Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model**|Ang Yang et.al.|[2403.17912](http://arxiv.org/abs/2403.17912)|null|

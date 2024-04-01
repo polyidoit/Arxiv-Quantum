@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Are nonlocal Lagrangian systems fatally unstable?**|Carlos Heredia et.al.|[2403.19777](http://arxiv.org/abs/2403.19777)|null|
 |**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars et.al.|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
 |**2024-03-20**|**Tripartite entanglement in $H \to ZZ,WW$ decays**|J. A. Aguilar-Saavedra et.al.|[2403.13942](http://arxiv.org/abs/2403.13942)|null|
 |**2024-03-27**|**All incompatible measurements on qubits lead to multiparticle Bell nonlocality**|Martin Plávala et.al.|[2403.10564](http://arxiv.org/abs/2403.10564)|**[link](https://github.com/mtcq/belljm_multipartite)**|
@@ -263,6 +264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Twisted simplicial distributions**|Cihan Okay et.al.|[2403.19808](http://arxiv.org/abs/2403.19808)|null|
 |**2024-03-26**|**The operadic theory of convexity**|Redi Haderi et.al.|[2403.18102](http://arxiv.org/abs/2403.18102)|null|
 |**2024-03-25**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang et.al.|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
 |**2024-03-12**|**Minimal cellular automaton model with heterogeneous cell sizes predicts epithelial colony growth**|Steffen Lange et.al.|[2403.07612](http://arxiv.org/abs/2403.07612)|null|

@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Optimal Bell inequalities for qubit-qudit systems**|Alexander Bernal et.al.|[2404.02092](http://arxiv.org/abs/2404.02092)|null|
+|**2024-04-02**|**$(n,m,p)$ -type quantum network configuration and its nonlocality**|Zan-Jia Li et.al.|[2404.01960](http://arxiv.org/abs/2404.01960)|null|
+|**2024-04-01**|**Secret Sharing, Teleportation and Bell's Inequality**|Pratishtha Abrol et.al.|[2404.01212](http://arxiv.org/abs/2404.01212)|null|
 |**2024-03-28**|**Are nonlocal Lagrangian systems fatally unstable?**|Carlos Heredia et.al.|[2403.19777](http://arxiv.org/abs/2403.19777)|null|
 |**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars et.al.|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
 |**2024-03-20**|**Tripartite entanglement in $H \to ZZ,WW$ decays**|J. A. Aguilar-Saavedra et.al.|[2403.13942](http://arxiv.org/abs/2403.13942)|null|
@@ -251,6 +254,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-01**|**Electronic Structure of Molybdenene**|Ashkan Shekaari et.al.|[2404.00833](http://arxiv.org/abs/2404.00833)|null|
 |**2024-03-28**|**Twisted simplicial distributions**|Cihan Okay et.al.|[2403.19808](http://arxiv.org/abs/2403.19808)|null|
 |**2024-03-26**|**The operadic theory of convexity**|Redi Haderi et.al.|[2403.18102](http://arxiv.org/abs/2403.18102)|null|
 |**2024-03-25**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang et.al.|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
@@ -391,6 +395,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-31**|**Imaginarity measure induced by relative entropy**|Xiangyu Chen et.al.|[2404.00637](http://arxiv.org/abs/2404.00637)|null|
 |**2024-03-25**|**Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus**|Chen Li et.al.|[2403.16607](http://arxiv.org/abs/2403.16607)|null|
 |**2024-03-25**|**Concurrent Linguistic Error Detection (CLED) for Large Language Models**|Jinhua Zhu et.al.|[2403.16393](http://arxiv.org/abs/2403.16393)|null|
 |**2024-03-20**|**Emission of fast-propagating spin waves by an antiferromagnetic domain wall driven by spin current**|Roman V. Ovcharov et.al.|[2403.13949](http://arxiv.org/abs/2403.13949)|null|
@@ -721,6 +726,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Construction of quantum codes from $(γ,Δ)$ -cyclic codes**|Om Prakash et.al.|[2404.01904](http://arxiv.org/abs/2404.01904)|null|
+|**2024-04-01**|**Building a fusion-based quantum computer using teleported gates**|Ashot Avanesov et.al.|[2404.01477](http://arxiv.org/abs/2404.01477)|null|
+|**2024-04-01**|**Random Circuit Sampling: Fourier Expansion and Statistics**|Gil Kalai et.al.|[2404.00935](http://arxiv.org/abs/2404.00935)|null|
+|**2024-03-31**|**On $(θ, Θ)$ -cyclic codes and their applications in constructing QECCs**|Awadhesh Kumar Shukla et.al.|[2404.00613](http://arxiv.org/abs/2404.00613)|null|
 |**2024-03-25**|**Quantum Liquids: Emergent higher-rank gauge theory and fractons**|Yizhi You et.al.|[2403.17074](http://arxiv.org/abs/2403.17074)|null|
 |**2024-03-24**|**Coupler-Assisted Leakage Reduction for Scalable Quantum Error Correction with Superconducting Qubits**|Xiaohan Yang et.al.|[2403.16155](http://arxiv.org/abs/2403.16155)|null|
 |**2024-03-24**|**Many-hypercube codes: High-rate quantum error-correcting codes for high-performance fault-tolerant quantum computation**|Hayato Goto et.al.|[2403.16054](http://arxiv.org/abs/2403.16054)|null|

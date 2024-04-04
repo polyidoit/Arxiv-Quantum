@@ -332,6 +332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Shareability of steering in 2-producible states**|Qiu-Cheng Song et.al.|[2404.02725](http://arxiv.org/abs/2404.02725)|null|
 |**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars et.al.|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
 |**2024-02-28**|**Almost device-independent certification of GME states with minimal measurements**|Shubhayan Sarkar et.al.|[2402.18522](http://arxiv.org/abs/2402.18522)|null|
 |**2024-02-25**|**Enhancement of Entanglement via Josephson Parametric Amplifier in a Dual Cavity-Magnon System**|Abdelkader Hidki et.al.|[2402.16042](http://arxiv.org/abs/2402.16042)|null|
@@ -395,6 +396,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Novel_Authentication_Protocols_Tailored_for_Ambient_IoT_Devices_in_3GPP_5G_Networks**|Xiongpeng Ren et.al.|[2404.02425](http://arxiv.org/abs/2404.02425)|null|
 |**2024-03-31**|**Imaginarity measure induced by relative entropy**|Xiangyu Chen et.al.|[2404.00637](http://arxiv.org/abs/2404.00637)|null|
 |**2024-03-25**|**Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus**|Chen Li et.al.|[2403.16607](http://arxiv.org/abs/2403.16607)|null|
 |**2024-03-25**|**Concurrent Linguistic Error Detection (CLED) for Large Language Models**|Jinhua Zhu et.al.|[2403.16393](http://arxiv.org/abs/2403.16393)|null|
@@ -501,6 +503,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Normal weak eigenstate thermalization**|Patrycja Łydżba et.al.|[2404.02199](http://arxiv.org/abs/2404.02199)|null|
 |**2024-03-27**|**Properties and Applications of the Kirkwood-Dirac Distribution**|David R. M. Arvidsson-Shukur et.al.|[2403.18899](http://arxiv.org/abs/2403.18899)|null|
 |**2024-03-27**|**Thermalization condition for non-Hermitian quantum systems**|Yiting Mao et.al.|[2403.18477](http://arxiv.org/abs/2403.18477)|null|
 |**2024-03-26**|**EinExprs: Contraction Paths of Tensor Networks as Symbolic Expressions**|Sergio Sanchez-Ramirez et.al.|[2403.18030](http://arxiv.org/abs/2403.18030)|null|

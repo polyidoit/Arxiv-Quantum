@@ -332,6 +332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Steering nonlocality in high-speed telecommunication system without detection loophole**|Qiang Zeng et.al.|[2404.03228](http://arxiv.org/abs/2404.03228)|null|
 |**2024-04-03**|**Shareability of steering in 2-producible states**|Qiu-Cheng Song et.al.|[2404.02725](http://arxiv.org/abs/2404.02725)|null|
 |**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars et.al.|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
 |**2024-02-28**|**Almost device-independent certification of GME states with minimal measurements**|Shubhayan Sarkar et.al.|[2402.18522](http://arxiv.org/abs/2402.18522)|null|
@@ -503,6 +504,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Operator growth and spread complexity in open quantum systems**|Eoin Carolan et.al.|[2404.03529](http://arxiv.org/abs/2404.03529)|null|
+|**2024-04-03**|**Critical Properties of Weak Measurement Induced Phase Transitions in Random Quantum Circuits**|Kemal Aziz et.al.|[2404.02968](http://arxiv.org/abs/2404.02968)|null|
 |**2024-04-02**|**Normal weak eigenstate thermalization**|Patrycja Łydżba et.al.|[2404.02199](http://arxiv.org/abs/2404.02199)|null|
 |**2024-03-27**|**Properties and Applications of the Kirkwood-Dirac Distribution**|David R. M. Arvidsson-Shukur et.al.|[2403.18899](http://arxiv.org/abs/2403.18899)|null|
 |**2024-03-27**|**Thermalization condition for non-Hermitian quantum systems**|Yiting Mao et.al.|[2403.18477](http://arxiv.org/abs/2403.18477)|null|
@@ -729,6 +732,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Quantum aggregation with temporal delay**|Nicolò Lo Piparo et.al.|[2404.03262](http://arxiv.org/abs/2404.03262)|null|
+|**2024-04-04**|**Promatch: Extending the Reach of Real-Time Quantum Error Correction with Adaptive Predecoding**|Narges Alavisamani et.al.|[2404.03136](http://arxiv.org/abs/2404.03136)|null|
 |**2024-04-02**|**Construction of quantum codes from $(γ,Δ)$ -cyclic codes**|Om Prakash et.al.|[2404.01904](http://arxiv.org/abs/2404.01904)|null|
 |**2024-04-01**|**Building a fusion-based quantum computer using teleported gates**|Ashot Avanesov et.al.|[2404.01477](http://arxiv.org/abs/2404.01477)|null|
 |**2024-04-01**|**Random Circuit Sampling: Fourier Expansion and Statistics**|Gil Kalai et.al.|[2404.00935](http://arxiv.org/abs/2404.00935)|null|

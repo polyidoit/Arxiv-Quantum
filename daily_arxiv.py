@@ -103,15 +103,15 @@ def get_daily_papers(topic, query="slam", max_results=2):
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
             if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_authors,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({}), Code: **[{}]({})**".format(
                        update_time,paper_title,paper_authors,paper_url,paper_url,repo_url,repo_url)
 
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|null|\n".format(
                        update_time,paper_title,paper_authors,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({})".format(
                        update_time,paper_title,paper_authors,paper_url,paper_url)
 
             comments = None
@@ -209,7 +209,7 @@ def json_to_md(filename,md_filename,
         else:
             f.write("> Updated on " + DateNow + "\n")
 
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+        f.write("\n")
 
         if use_tc == True:
             f.write("<details>\n")

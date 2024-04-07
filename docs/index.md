@@ -3,22 +3,21 @@ layout: default
 ---
 
 ## Updated on 2024.04.07
-> Usage instructions: [here](./docs/README.md#usage)
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-02**|**Optimal Bell inequalities for qubit-qudit systems**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno et.al.|[2404.02092](http://arxiv.org/abs/2404.02092)|null|
-|**2024-04-02**|**$(n,m,p)$ -type quantum network configuration and its nonlocality**|Zan-Jia Li, Ying-Qiu He, Dong Ding, Ming-Xing Yu, Ting Gao, Feng-Li Yan et.al.|[2404.01960](http://arxiv.org/abs/2404.01960)|null|
-|**2024-04-01**|**Secret Sharing, Teleportation and Bell's Inequality**|Pratishtha Abrol, Pahulpreet Singh, Indranil Chakrabarty et.al.|[2404.01212](http://arxiv.org/abs/2404.01212)|null|
-|**2024-03-28**|**Are nonlocal Lagrangian systems fatally unstable?**|Carlos Heredia, Josep Llosa et.al.|[2403.19777](http://arxiv.org/abs/2403.19777)|null|
-|**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars, Benachir Boukhris, Ahmed Tirbiyine, Abdelaziz Labrag et.al.|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
-|**2024-03-20**|**Tripartite entanglement in $H \to ZZ,WW$ decays**|J. A. Aguilar-Saavedra et.al.|[2403.13942](http://arxiv.org/abs/2403.13942)|null|
-|**2024-03-27**|**All incompatible measurements on qubits lead to multiparticle Bell nonlocality**|Martin Plávala, Otfried Gühne, Marco Túlio Quintino et.al.|[2403.10564](http://arxiv.org/abs/2403.10564)|**[link](https://github.com/mtcq/belljm_multipartite)**|
-|**2024-03-14**|**Emergence of entanglement and breakdown of causality in the quantum realm**|Shuang-Kai Yang, Wei-Min Zhang et.al.|[2403.09368](http://arxiv.org/abs/2403.09368)|null|
-|**2024-03-14**|**Verification of Bell Nonlocality by Violating Quantum Monogamy Relations**|Yan-Han Yang, Xin-Zhu Liu, Xing-Zhou Zheng, Shao-Ming Fei, Ming-Xing Luo et.al.|[2403.09166](http://arxiv.org/abs/2403.09166)|null|
-|**2024-03-08**|**Quantum bounds for compiled XOR games and $d$ -outcome CHSH games**|Matilde Baroni, Quoc-Huy Vu, Boris Bourdoncle, Eleni Diamanti, Damian Markham, Ivan Šupić et.al.|[2403.05502](http://arxiv.org/abs/2403.05502)|null|
+|**2024-04-02**|**Optimal Bell inequalities for qubit-qudit systems**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2404.02092](http://arxiv.org/abs/2404.02092)|null|
+|**2024-04-02**|**$(n,m,p)$ -type quantum network configuration and its nonlocality**|Zan-Jia Li, Ying-Qiu He, Dong Ding, Ming-Xing Yu, Ting Gao, Feng-Li Yan|[2404.01960](http://arxiv.org/abs/2404.01960)|null|
+|**2024-04-01**|**Secret Sharing, Teleportation and Bell's Inequality**|Pratishtha Abrol, Pahulpreet Singh, Indranil Chakrabarty|[2404.01212](http://arxiv.org/abs/2404.01212)|null|
+|**2024-03-28**|**Are nonlocal Lagrangian systems fatally unstable?**|Carlos Heredia, Josep Llosa|[2403.19777](http://arxiv.org/abs/2403.19777)|null|
+|**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars, Benachir Boukhris, Ahmed Tirbiyine, Abdelaziz Labrag|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
+|**2024-03-20**|**Tripartite entanglement in $H \to ZZ,WW$ decays**|J. A. Aguilar-Saavedra|[2403.13942](http://arxiv.org/abs/2403.13942)|null|
+|**2024-03-27**|**All incompatible measurements on qubits lead to multiparticle Bell nonlocality**|Martin Plávala, Otfried Gühne, Marco Túlio Quintino|[2403.10564](http://arxiv.org/abs/2403.10564)|**[link](https://github.com/mtcq/belljm_multipartite)**|
+|**2024-03-14**|**Emergence of entanglement and breakdown of causality in the quantum realm**|Shuang-Kai Yang, Wei-Min Zhang|[2403.09368](http://arxiv.org/abs/2403.09368)|null|
+|**2024-03-14**|**Verification of Bell Nonlocality by Violating Quantum Monogamy Relations**|Yan-Han Yang, Xin-Zhu Liu, Xing-Zhou Zheng, Shao-Ming Fei, Ming-Xing Luo|[2403.09166](http://arxiv.org/abs/2403.09166)|null|
+|**2024-03-08**|**Quantum bounds for compiled XOR games and $d$ -outcome CHSH games**|Matilde Baroni, Quoc-Huy Vu, Boris Bourdoncle, Eleni Diamanti, Damian Markham, Ivan Šupić|[2403.05502](http://arxiv.org/abs/2403.05502)|null|
 |**2024-03-06**|**Loophole-free Bell inequality violations cannot disprove local realism**|F. De Zela et.al.|[2403.03780](http://arxiv.org/abs/2403.03780)|null|
 |**2024-03-05**|**Some consequences of Sica's approach to Bell's inequalities**|Alejandro Andrés Hnilo et.al.|[2403.03236](http://arxiv.org/abs/2403.03236)|null|
 |**2024-03-20**|**Tsirelson bounds for quantum correlations with indefinite causal order**|Zixuan Liu et.al.|[2403.02749](http://arxiv.org/abs/2403.02749)|null|
@@ -191,16 +190,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-28**|**Parallel and real-time post-processing for quantum random number generators**|Xiaomin Guo, Fading Lin, Jiehong Lin, Zhijie Song, Yue luo, Qiqi Wang, Yanqiang Guo et.al.|[2403.19479](http://arxiv.org/abs/2403.19479)|null|
-|**2024-03-15**|**A de Finetti theorem for quantum causal structures**|Fabio Costa, Jonathan Barrett, Sally Shrapnel et.al.|[2403.10316](http://arxiv.org/abs/2403.10316)|null|
-|**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan et.al.|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
-|**2024-03-07**|**Quantum metrology using quantum combs and tensor network formalism**|Stanislaw Kurdzialek, Piotr Dulian, Joanna Majsak, Sagnik Chakraborty, Rafal Demkowicz-Dobrzanski et.al.|[2403.04854](http://arxiv.org/abs/2403.04854)|null|
-|**2024-03-06**|**Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations**|Yin Mo, Lei Zhang, Yu-Ao Chen, Yingjian Liu, Tengxiang Lin, Xin Wang et.al.|[2403.03761](http://arxiv.org/abs/2403.03761)|null|
-|**2024-02-26**|**Quantum process tomography of structured optical gates with convolutional neural networks**|Tareq Jaouni, Francesco Di Colandrea, Lorenzo Amato, Filippo Cardano, Ebrahim Karimi et.al.|[2402.16616](http://arxiv.org/abs/2402.16616)|null|
-|**2024-03-05**|**Quantifying information flow in quantum processes**|Leonardo Santos, Zhen-Peng Xu, Jyrki Piilo, Otfried Gühne et.al.|[2402.04213](http://arxiv.org/abs/2402.04213)|null|
-|**2024-02-22**|**Double or nothing: a Kolmogorov extension theorem for multitime (bi)probabilities in quantum mechanics**|Davide Lonigro, Fattah Sakuldee, Łukasz Cywiński, Dariusz Chruściński, Piotr Szańkowski et.al.|[2402.01218](http://arxiv.org/abs/2402.01218)|null|
-|**2024-01-31**|**Quantum influences and event relativity**|Nick Ormrod, Jonathan Barrett et.al.|[2401.18005](http://arxiv.org/abs/2401.18005)|null|
-|**2024-01-29**|**Quantum process matrices as images: new tools to design novel denoising methods**|Massimiliano Guarneri, Andrea Chiuri et.al.|[2401.16362](http://arxiv.org/abs/2401.16362)|null|
+|**2024-03-28**|**Parallel and real-time post-processing for quantum random number generators**|Xiaomin Guo, Fading Lin, Jiehong Lin, Zhijie Song, Yue luo, Qiqi Wang, Yanqiang Guo|[2403.19479](http://arxiv.org/abs/2403.19479)|null|
+|**2024-03-15**|**A de Finetti theorem for quantum causal structures**|Fabio Costa, Jonathan Barrett, Sally Shrapnel|[2403.10316](http://arxiv.org/abs/2403.10316)|null|
+|**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
+|**2024-03-07**|**Quantum metrology using quantum combs and tensor network formalism**|Stanislaw Kurdzialek, Piotr Dulian, Joanna Majsak, Sagnik Chakraborty, Rafal Demkowicz-Dobrzanski|[2403.04854](http://arxiv.org/abs/2403.04854)|null|
+|**2024-03-06**|**Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations**|Yin Mo, Lei Zhang, Yu-Ao Chen, Yingjian Liu, Tengxiang Lin, Xin Wang|[2403.03761](http://arxiv.org/abs/2403.03761)|null|
+|**2024-02-26**|**Quantum process tomography of structured optical gates with convolutional neural networks**|Tareq Jaouni, Francesco Di Colandrea, Lorenzo Amato, Filippo Cardano, Ebrahim Karimi|[2402.16616](http://arxiv.org/abs/2402.16616)|null|
+|**2024-03-05**|**Quantifying information flow in quantum processes**|Leonardo Santos, Zhen-Peng Xu, Jyrki Piilo, Otfried Gühne|[2402.04213](http://arxiv.org/abs/2402.04213)|null|
+|**2024-02-22**|**Double or nothing: a Kolmogorov extension theorem for multitime (bi)probabilities in quantum mechanics**|Davide Lonigro, Fattah Sakuldee, Łukasz Cywiński, Dariusz Chruściński, Piotr Szańkowski|[2402.01218](http://arxiv.org/abs/2402.01218)|null|
+|**2024-01-31**|**Quantum influences and event relativity**|Nick Ormrod, Jonathan Barrett|[2401.18005](http://arxiv.org/abs/2401.18005)|null|
+|**2024-01-29**|**Quantum process matrices as images: new tools to design novel denoising methods**|Massimiliano Guarneri, Andrea Chiuri|[2401.16362](http://arxiv.org/abs/2401.16362)|null|
 |**2024-02-15**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|**[link](https://github.com/sy3104/isometry_adjointation)**|
 |**2023-12-20**|**Fourier Quantum Process Tomography**|Francesco Di Colandrea et.al.|[2312.13458](http://arxiv.org/abs/2312.13458)|null|
 |**2023-12-03**|**Using non-convex optimization in quantum process tomography: Factored gradient descent is tough to beat**|David A. Quiroga et.al.|[2312.01311](http://arxiv.org/abs/2312.01311)|null|
@@ -256,17 +255,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-01**|**Electronic Structure of Molybdenene**|Ashkan Shekaari et.al.|[2404.00833](http://arxiv.org/abs/2404.00833)|null|
-|**2024-03-28**|**Twisted simplicial distributions**|Cihan Okay, Walker H. Stern et.al.|[2403.19808](http://arxiv.org/abs/2403.19808)|null|
-|**2024-03-26**|**The operadic theory of convexity**|Redi Haderi, Cihan Okay, Walker H. Stern et.al.|[2403.18102](http://arxiv.org/abs/2403.18102)|null|
-|**2024-03-25**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang, Han-Sen Zhong, Yu-Kun Zhang, Cheng-Cheng Yu, Xiao Yuan, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen et.al.|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
-|**2024-03-12**|**Minimal cellular automaton model with heterogeneous cell sizes predicts epithelial colony growth**|Steffen Lange, Jannik Schmied, Paul Willam, Anja Voss-Böhme et.al.|[2403.07612](http://arxiv.org/abs/2403.07612)|null|
-|**2024-03-12**|**Cabello's nonlocality argument for multisetting high-dimensional systems and its experimental test**|M. Yang, D. Zhang, L. Chen et.al.|[2403.07417](http://arxiv.org/abs/2403.07417)|null|
-|**2024-02-27**|**Design principles of nonlinear optical materials for Terahertz lasers**|Juan Han, Yiwei Sun, Xiamin Huang, Wenjun Shuai, Guangyou Fang, Zhou Li et.al.|[2402.17126](http://arxiv.org/abs/2402.17126)|null|
-|**2024-02-22**|**The limit law of certain discrete multivariate distributions**|Andrius Grigutis, Artur Nakliuda et.al.|[2402.14470](http://arxiv.org/abs/2402.14470)|null|
+|**2024-04-01**|**Electronic Structure of Molybdenene**|Ashkan Shekaari|[2404.00833](http://arxiv.org/abs/2404.00833)|null|
+|**2024-03-28**|**Twisted simplicial distributions**|Cihan Okay, Walker H. Stern|[2403.19808](http://arxiv.org/abs/2403.19808)|null|
+|**2024-03-26**|**The operadic theory of convexity**|Redi Haderi, Cihan Okay, Walker H. Stern|[2403.18102](http://arxiv.org/abs/2403.18102)|null|
+|**2024-03-25**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang, Han-Sen Zhong, Yu-Kun Zhang, Cheng-Cheng Yu, Xiao Yuan, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
+|**2024-03-12**|**Minimal cellular automaton model with heterogeneous cell sizes predicts epithelial colony growth**|Steffen Lange, Jannik Schmied, Paul Willam, Anja Voss-Böhme|[2403.07612](http://arxiv.org/abs/2403.07612)|null|
+|**2024-03-12**|**Cabello's nonlocality argument for multisetting high-dimensional systems and its experimental test**|M. Yang, D. Zhang, L. Chen|[2403.07417](http://arxiv.org/abs/2403.07417)|null|
+|**2024-02-27**|**Design principles of nonlinear optical materials for Terahertz lasers**|Juan Han, Yiwei Sun, Xiamin Huang, Wenjun Shuai, Guangyou Fang, Zhou Li|[2402.17126](http://arxiv.org/abs/2402.17126)|null|
+|**2024-02-22**|**The limit law of certain discrete multivariate distributions**|Andrius Grigutis, Artur Nakliuda|[2402.14470](http://arxiv.org/abs/2402.14470)|null|
 |**2024-02-12**|**Application of the Inclusion-Exclusion Principle to Prime Number Subsequences**|Michael P. May et.al.|[2402.13214](http://arxiv.org/abs/2402.13214)|null|
-|**2024-02-19**|**Quantum soliton-trains of strongly correlated impurities in Bose-Einstein condensates**|Hoshu Hiyane, Thomas Busch, Thomás Fogarty et.al.|[2402.11802](http://arxiv.org/abs/2402.11802)|null|
-|**2024-02-13**|**Arbitrary Polynomial Separations in Trainable Quantum Machine Learning**|Eric R. Anschuetz, Xun Gao et.al.|[2402.08606](http://arxiv.org/abs/2402.08606)|null|
+|**2024-02-19**|**Quantum soliton-trains of strongly correlated impurities in Bose-Einstein condensates**|Hoshu Hiyane, Thomas Busch, Thomás Fogarty|[2402.11802](http://arxiv.org/abs/2402.11802)|null|
+|**2024-02-13**|**Arbitrary Polynomial Separations in Trainable Quantum Machine Learning**|Eric R. Anschuetz, Xun Gao|[2402.08606](http://arxiv.org/abs/2402.08606)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
 |**2024-02-01**|**Fermion-like behavior of elements in their spatial distribution around points of interest**|Josu Martinez-Perdiguero et.al.|[2402.00499](http://arxiv.org/abs/2402.00499)|null|
 |**2024-01-30**|**Hanbury Brown and Twiss interference of electrons in free space from independent needle tip sources**|Anton Classen et.al.|[2401.17088](http://arxiv.org/abs/2401.17088)|null|
@@ -334,16 +333,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-04**|**Steering nonlocality in high-speed telecommunication system without detection loophole**|Qiang Zeng, Huihong Yuan, Haoyang Wang, Lai Zhou, Zhiliang Yuan et.al.|[2404.03228](http://arxiv.org/abs/2404.03228)|null|
-|**2024-04-03**|**Shareability of steering in 2-producible states**|Qiu-Cheng Song, Travis J. Baker, Howard M. Wiseman et.al.|[2404.02725](http://arxiv.org/abs/2404.02725)|null|
-|**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars, Benachir Boukhris, Ahmed Tirbiyine, Abdelaziz Labrag et.al.|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
-|**2024-02-28**|**Almost device-independent certification of GME states with minimal measurements**|Shubhayan Sarkar, Alexandre C. Orthey, Jr., Gautam Sharma, Remigiusz Augusiak et.al.|[2402.18522](http://arxiv.org/abs/2402.18522)|null|
-|**2024-02-25**|**Enhancement of Entanglement via Josephson Parametric Amplifier in a Dual Cavity-Magnon System**|Abdelkader Hidki, Abderrahim Lakhfif, Mostafa Nassik, Rizwan Ahmed, Amjad Sohail et.al.|[2402.16042](http://arxiv.org/abs/2402.16042)|null|
-|**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai, Changliang Ren, Tianfeng Feng, Xiaoqi Zhou, Jingling Chen et.al.|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
-|**2024-02-01**|**Witnessing non-Markovianity with Gaussian quantum steering in collision model**|Yan Li, Xingli Li, Jiasen Jin et.al.|[2402.00524](http://arxiv.org/abs/2402.00524)|null|
-|**2024-01-30**|**Quantum steering from phase measurements with limited resources**|Gabriele Bizzarri, Ilaria Gianani, Mylenne Manrique, Vincenzo Berardi, Giovanni Capellini, Fabio Bruni, Marco Barbieri et.al.|[2401.17431](http://arxiv.org/abs/2401.17431)|null|
-|**2024-01-27**|**Demonstration of monogamy laws for Gaussian steering in optomechanics**|J El Qars, M Daoud, R Ahl Laamara, N Habiballah et.al.|[2401.15521](http://arxiv.org/abs/2401.15521)|null|
-|**2023-12-21**|**Compressing continuous variable quantum measurements**|Pauli Jokinen, Sophie Egelhaaf, Juha-Pekka Pellonpää, Roope Uola et.al.|[2312.13814](http://arxiv.org/abs/2312.13814)|null|
+|**2024-04-04**|**Steering nonlocality in high-speed telecommunication system without detection loophole**|Qiang Zeng, Huihong Yuan, Haoyang Wang, Lai Zhou, Zhiliang Yuan|[2404.03228](http://arxiv.org/abs/2404.03228)|null|
+|**2024-04-03**|**Shareability of steering in 2-producible states**|Qiu-Cheng Song, Travis J. Baker, Howard M. Wiseman|[2404.02725](http://arxiv.org/abs/2404.02725)|null|
+|**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars, Benachir Boukhris, Ahmed Tirbiyine, Abdelaziz Labrag|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
+|**2024-02-28**|**Almost device-independent certification of GME states with minimal measurements**|Shubhayan Sarkar, Alexandre C. Orthey, Jr., Gautam Sharma, Remigiusz Augusiak|[2402.18522](http://arxiv.org/abs/2402.18522)|null|
+|**2024-02-25**|**Enhancement of Entanglement via Josephson Parametric Amplifier in a Dual Cavity-Magnon System**|Abdelkader Hidki, Abderrahim Lakhfif, Mostafa Nassik, Rizwan Ahmed, Amjad Sohail|[2402.16042](http://arxiv.org/abs/2402.16042)|null|
+|**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai, Changliang Ren, Tianfeng Feng, Xiaoqi Zhou, Jingling Chen|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
+|**2024-02-01**|**Witnessing non-Markovianity with Gaussian quantum steering in collision model**|Yan Li, Xingli Li, Jiasen Jin|[2402.00524](http://arxiv.org/abs/2402.00524)|null|
+|**2024-01-30**|**Quantum steering from phase measurements with limited resources**|Gabriele Bizzarri, Ilaria Gianani, Mylenne Manrique, Vincenzo Berardi, Giovanni Capellini, Fabio Bruni, Marco Barbieri|[2401.17431](http://arxiv.org/abs/2401.17431)|null|
+|**2024-01-27**|**Demonstration of monogamy laws for Gaussian steering in optomechanics**|J El Qars, M Daoud, R Ahl Laamara, N Habiballah|[2401.15521](http://arxiv.org/abs/2401.15521)|null|
+|**2023-12-21**|**Compressing continuous variable quantum measurements**|Pauli Jokinen, Sophie Egelhaaf, Juha-Pekka Pellonpää, Roope Uola|[2312.13814](http://arxiv.org/abs/2312.13814)|null|
 |**2023-12-19**|**Quantum steering ellipsoids and quantum obesity in critical systems**|Pedro Rosario et.al.|[2312.12537](http://arxiv.org/abs/2312.12537)|null|
 |**2023-12-19**|**Quantum squeezing induced quantum entanglement and EPR steering in coupled optomechanical system**|Shao-Xiong Wu et.al.|[2312.12310](http://arxiv.org/abs/2312.12310)|null|
 |**2023-12-12**|**Visually quantifying single-qubit quantum memory**|Wan-Guan Chang et.al.|[2312.06939](http://arxiv.org/abs/2312.06939)|null|
@@ -399,16 +398,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-03**|**Novel_Authentication_Protocols_Tailored_for_Ambient_IoT_Devices_in_3GPP_5G_Networks**|Xiongpeng Ren, Jin Cao, Hui Li, Yinghui Zhang et.al.|[2404.02425](http://arxiv.org/abs/2404.02425)|null|
-|**2024-03-31**|**Imaginarity measure induced by relative entropy**|Xiangyu Chen, Qiang Lei et.al.|[2404.00637](http://arxiv.org/abs/2404.00637)|null|
-|**2024-03-25**|**Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus**|Chen Li, Ruijie Ma, Xiang Qian, Xiaohao Wang, Xinghui Li et.al.|[2403.16607](http://arxiv.org/abs/2403.16607)|null|
-|**2024-03-25**|**Concurrent Linguistic Error Detection (CLED) for Large Language Models**|Jinhua Zhu, Javier Conde, Zhen Gao, Pedro Reviriego, Shanshan Liu, Fabrizio Lombardi et.al.|[2403.16393](http://arxiv.org/abs/2403.16393)|null|
-|**2024-03-20**|**Emission of fast-propagating spin waves by an antiferromagnetic domain wall driven by spin current**|Roman V. Ovcharov, B. A. Ivanov, Johan Åkerman, Roman S. Khymyn et.al.|[2403.13949](http://arxiv.org/abs/2403.13949)|null|
-|**2024-03-20**|**Nellie: Automated organelle segmentation, tracking, and hierarchical feature extraction in 2D/3D live-cell microscopy**|Austin E. Y. T. Lefebvre, Gabriel Sturm, Ting-Yu Lin, Emily Stoops, Magdalena Preciado Lopez, Benjamin Kaufmann-Malaga, Kayley Hake et.al.|[2403.13214](http://arxiv.org/abs/2403.13214)|**[link](https://github.com/aelefebv/nellie)**|
-|**2024-03-28**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou, Yao Lyu, Jie Li, Yujie Yang, Shengbo Eben Li, Jingliang Duan, Xianyuan Zhan, Jingjing Liu, Yaqin Zhang, Keqiang Li et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
-|**2024-03-17**|**Bifurcation Analysis of an Influenza A (H1N1) Model with Treatment and Vaccination**|Kazi Mehedi Mohammad, Asma Akter Akhi, Md. Kamrujjaman et.al.|[2403.11277](http://arxiv.org/abs/2403.11277)|null|
-|**2024-03-08**|**Paving the Way for Pass Disturb Free Vertical NAND Storage via A Dedicated and String-Compatible Pass Gate**|Zijian Zhao, Sola Woo, Khandker Akif Aabrar, Sharadindu Gopal Kirtania, Zhouhang Jiang, Shan Deng, Yi Xiao, Halid Mulaosmanovic, Stefan Duenkel, Dominik Kleimaier, Steven Soss, Sven Beyer, Rajiv Joshi, Scott Meninger, Mohamed Mohamed, Kijoon Kim, Jongho Woo, Suhwan Lim, Kwangsoo Kim, Wanki Kim, Daewon Ha, Vijaykrishnan Narayanan, Suman Datta, Shimeng Yu, Kai Ni et.al.|[2403.04981](http://arxiv.org/abs/2403.04981)|null|
-|**2024-03-05**|**Logic Programming with Multiplicative Structures**|Matteo Acclavio, Roberto Maieli et.al.|[2403.03032](http://arxiv.org/abs/2403.03032)|null|
+|**2024-04-03**|**Novel_Authentication_Protocols_Tailored_for_Ambient_IoT_Devices_in_3GPP_5G_Networks**|Xiongpeng Ren, Jin Cao, Hui Li, Yinghui Zhang|[2404.02425](http://arxiv.org/abs/2404.02425)|null|
+|**2024-03-31**|**Imaginarity measure induced by relative entropy**|Xiangyu Chen, Qiang Lei|[2404.00637](http://arxiv.org/abs/2404.00637)|null|
+|**2024-03-25**|**Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus**|Chen Li, Ruijie Ma, Xiang Qian, Xiaohao Wang, Xinghui Li|[2403.16607](http://arxiv.org/abs/2403.16607)|null|
+|**2024-03-25**|**Concurrent Linguistic Error Detection (CLED) for Large Language Models**|Jinhua Zhu, Javier Conde, Zhen Gao, Pedro Reviriego, Shanshan Liu, Fabrizio Lombardi|[2403.16393](http://arxiv.org/abs/2403.16393)|null|
+|**2024-03-20**|**Emission of fast-propagating spin waves by an antiferromagnetic domain wall driven by spin current**|Roman V. Ovcharov, B. A. Ivanov, Johan Åkerman, Roman S. Khymyn|[2403.13949](http://arxiv.org/abs/2403.13949)|null|
+|**2024-03-20**|**Nellie: Automated organelle segmentation, tracking, and hierarchical feature extraction in 2D/3D live-cell microscopy**|Austin E. Y. T. Lefebvre, Gabriel Sturm, Ting-Yu Lin, Emily Stoops, Magdalena Preciado Lopez, Benjamin Kaufmann-Malaga, Kayley Hake|[2403.13214](http://arxiv.org/abs/2403.13214)|**[link](https://github.com/aelefebv/nellie)**|
+|**2024-03-28**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou, Yao Lyu, Jie Li, Yujie Yang, Shengbo Eben Li, Jingliang Duan, Xianyuan Zhan, Jingjing Liu, Yaqin Zhang, Keqiang Li|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
+|**2024-03-17**|**Bifurcation Analysis of an Influenza A (H1N1) Model with Treatment and Vaccination**|Kazi Mehedi Mohammad, Asma Akter Akhi, Md. Kamrujjaman|[2403.11277](http://arxiv.org/abs/2403.11277)|null|
+|**2024-03-08**|**Paving the Way for Pass Disturb Free Vertical NAND Storage via A Dedicated and String-Compatible Pass Gate**|Zijian Zhao, Sola Woo, Khandker Akif Aabrar, Sharadindu Gopal Kirtania, Zhouhang Jiang, Shan Deng, Yi Xiao, Halid Mulaosmanovic, Stefan Duenkel, Dominik Kleimaier, Steven Soss, Sven Beyer, Rajiv Joshi, Scott Meninger, Mohamed Mohamed, Kijoon Kim, Jongho Woo, Suhwan Lim, Kwangsoo Kim, Wanki Kim, Daewon Ha, Vijaykrishnan Narayanan, Suman Datta, Shimeng Yu, Kai Ni|[2403.04981](http://arxiv.org/abs/2403.04981)|null|
+|**2024-03-05**|**Logic Programming with Multiplicative Structures**|Matteo Acclavio, Roberto Maieli|[2403.03032](http://arxiv.org/abs/2403.03032)|null|
 |**2024-02-23**|**Towards Model-Driven Dashboard Generation for Systems-of-Systems**|Maria Teresa Rossi et.al.|[2402.15257](http://arxiv.org/abs/2402.15257)|null|
 |**2024-02-19**|**Choi-Defined Resource Theories**|Elia Zanoni et.al.|[2402.12569](http://arxiv.org/abs/2402.12569)|null|
 |**2024-02-13**|**ROSpace: Intrusion Detection Dataset for a ROS2-Based Cyber-Physical System**|Tommaso Puccetti et.al.|[2402.08468](http://arxiv.org/abs/2402.08468)|null|
@@ -506,16 +505,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-04**|**Operator growth and spread complexity in open quantum systems**|Eoin Carolan, Anthony Kiely, Steve Campbell, Sebastian Deffner et.al.|[2404.03529](http://arxiv.org/abs/2404.03529)|null|
-|**2024-04-03**|**Critical Properties of Weak Measurement Induced Phase Transitions in Random Quantum Circuits**|Kemal Aziz, Ahana Chakraborty, J. H. Pixley et.al.|[2404.02968](http://arxiv.org/abs/2404.02968)|null|
-|**2024-04-02**|**Normal weak eigenstate thermalization**|Patrycja Łydżba, Rafał Świętek, Marcin Mierzejewski, Marcos Rigol, Lev Vidmar et.al.|[2404.02199](http://arxiv.org/abs/2404.02199)|null|
-|**2024-03-27**|**Properties and Applications of the Kirkwood-Dirac Distribution**|David R. M. Arvidsson-Shukur, William F. Braasch Jr., Stephan De Bievre, Justin Dressel, Andrew N. Jordan, Christopher Langrenez, Matteo Lostaglio, Jeff S. Lundeen, Nicole Yunger Halpern et.al.|[2403.18899](http://arxiv.org/abs/2403.18899)|null|
-|**2024-03-27**|**Thermalization condition for non-Hermitian quantum systems**|Yiting Mao, Peigeng Zhong, Haiqing Lin, Xiaoqun Wang, Shijie Hu et.al.|[2403.18477](http://arxiv.org/abs/2403.18477)|null|
-|**2024-03-26**|**EinExprs: Contraction Paths of Tensor Networks as Symbolic Expressions**|Sergio Sanchez-Ramirez, Jofre Vallès-Muns, Artur Garcia-Saez et.al.|[2403.18030](http://arxiv.org/abs/2403.18030)|null|
-|**2024-03-26**|**Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model**|Ang Yang, Jinlou Ma, Lei Ying et.al.|[2403.17912](http://arxiv.org/abs/2403.17912)|null|
-|**2024-03-25**|**Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era**|Pau Escofet, Anabel Ovide, Medina Bandic, Luise Prielinger, Hans van Someren, Sebastian Feld, Eduard Alarcón, Sergi Abadal, Carmen G. Almudéver et.al.|[2403.17205](http://arxiv.org/abs/2403.17205)|null|
-|**2024-03-25**|**Measuring Spectral Form Factor in Many-Body Chaotic and Localized Phases of Quantum Processors**|Hang Dong, Pengfei Zhang, Ceren B. Dag, Yu Gao, Ning Wang, Jinfeng Deng, Xu Zhang, Jiachen Chen, Shibo Xu, Ke Wang, Yaozu Wu, Chuanyu Zhang, Feitong Jin, Xuhao Zhu, Aosai Zhang, Yiren Zou, Ziqi Tan, Zhengyi Cui, Zitian Zhu, Fanhao Shen, Tingting Li, Jiarun Zhong, Zehang Bao, Hekang Li, Zhen Wang, Qiujiang Guo, Chao Song, Fangli Liu, Amos Chan, Lei Ying, H. Wang et.al.|[2403.16935](http://arxiv.org/abs/2403.16935)|null|
-|**2024-03-25**|**Fidelity of Wormhole Teleportation in Finite-qubit Systems**|Zeyu Liu, Pengfei Zhang et.al.|[2403.16793](http://arxiv.org/abs/2403.16793)|null|
+|**2024-04-04**|**Operator growth and spread complexity in open quantum systems**|Eoin Carolan, Anthony Kiely, Steve Campbell, Sebastian Deffner|[2404.03529](http://arxiv.org/abs/2404.03529)|null|
+|**2024-04-03**|**Critical Properties of Weak Measurement Induced Phase Transitions in Random Quantum Circuits**|Kemal Aziz, Ahana Chakraborty, J. H. Pixley|[2404.02968](http://arxiv.org/abs/2404.02968)|null|
+|**2024-04-02**|**Normal weak eigenstate thermalization**|Patrycja Łydżba, Rafał Świętek, Marcin Mierzejewski, Marcos Rigol, Lev Vidmar|[2404.02199](http://arxiv.org/abs/2404.02199)|null|
+|**2024-03-27**|**Properties and Applications of the Kirkwood-Dirac Distribution**|David R. M. Arvidsson-Shukur, William F. Braasch Jr., Stephan De Bievre, Justin Dressel, Andrew N. Jordan, Christopher Langrenez, Matteo Lostaglio, Jeff S. Lundeen, Nicole Yunger Halpern|[2403.18899](http://arxiv.org/abs/2403.18899)|null|
+|**2024-03-27**|**Thermalization condition for non-Hermitian quantum systems**|Yiting Mao, Peigeng Zhong, Haiqing Lin, Xiaoqun Wang, Shijie Hu|[2403.18477](http://arxiv.org/abs/2403.18477)|null|
+|**2024-03-26**|**EinExprs: Contraction Paths of Tensor Networks as Symbolic Expressions**|Sergio Sanchez-Ramirez, Jofre Vallès-Muns, Artur Garcia-Saez|[2403.18030](http://arxiv.org/abs/2403.18030)|null|
+|**2024-03-26**|**Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model**|Ang Yang, Jinlou Ma, Lei Ying|[2403.17912](http://arxiv.org/abs/2403.17912)|null|
+|**2024-03-25**|**Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era**|Pau Escofet, Anabel Ovide, Medina Bandic, Luise Prielinger, Hans van Someren, Sebastian Feld, Eduard Alarcón, Sergi Abadal, Carmen G. Almudéver|[2403.17205](http://arxiv.org/abs/2403.17205)|null|
+|**2024-03-25**|**Measuring Spectral Form Factor in Many-Body Chaotic and Localized Phases of Quantum Processors**|Hang Dong, Pengfei Zhang, Ceren B. Dag, Yu Gao, Ning Wang, Jinfeng Deng, Xu Zhang, Jiachen Chen, Shibo Xu, Ke Wang, Yaozu Wu, Chuanyu Zhang, Feitong Jin, Xuhao Zhu, Aosai Zhang, Yiren Zou, Ziqi Tan, Zhengyi Cui, Zitian Zhu, Fanhao Shen, Tingting Li, Jiarun Zhong, Zehang Bao, Hekang Li, Zhen Wang, Qiujiang Guo, Chao Song, Fangli Liu, Amos Chan, Lei Ying, H. Wang|[2403.16935](http://arxiv.org/abs/2403.16935)|null|
+|**2024-03-25**|**Fidelity of Wormhole Teleportation in Finite-qubit Systems**|Zeyu Liu, Pengfei Zhang|[2403.16793](http://arxiv.org/abs/2403.16793)|null|
 |**2024-03-20**|**Quantum chaos in the sparse SYK model**|Patrick Orman et.al.|[2403.13884](http://arxiv.org/abs/2403.13884)|null|
 |**2024-03-20**|**Quantum Chaos on Edge**|Alexander Altland et.al.|[2403.13516](http://arxiv.org/abs/2403.13516)|null|
 |**2024-03-19**|**The Lyapunov exponent as a signature of dissipative many-body quantum chaos**|Antonio M. García-García et.al.|[2403.12359](http://arxiv.org/abs/2403.12359)|null|
@@ -734,16 +733,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-04**|**Quantum aggregation with temporal delay**|Nicolò Lo Piparo, William J. Munro, Kae Nemoto et.al.|[2404.03262](http://arxiv.org/abs/2404.03262)|null|
-|**2024-04-04**|**Promatch: Extending the Reach of Real-Time Quantum Error Correction with Adaptive Predecoding**|Narges Alavisamani, Suhas Vittal, Ramin Ayanzadeh, Poulami Das, Moinuddin Qureshi et.al.|[2404.03136](http://arxiv.org/abs/2404.03136)|null|
-|**2024-04-02**|**Construction of quantum codes from $(γ,Δ)$ -cyclic codes**|Om Prakash, Shikha Patel, Habibul Islam et.al.|[2404.01904](http://arxiv.org/abs/2404.01904)|null|
-|**2024-04-01**|**Building a fusion-based quantum computer using teleported gates**|Ashot Avanesov, Alexander Shurinov, Ivan Dyakonov, Stanislav Straupe et.al.|[2404.01477](http://arxiv.org/abs/2404.01477)|null|
-|**2024-04-01**|**Random Circuit Sampling: Fourier Expansion and Statistics**|Gil Kalai, Yosef Rinott, Tomer Shoham et.al.|[2404.00935](http://arxiv.org/abs/2404.00935)|null|
-|**2024-03-31**|**On $(θ, Θ)$ -cyclic codes and their applications in constructing QECCs**|Awadhesh Kumar Shukla, Sachin Pathak, Om Prakash Pandey, Vipul Mishra, Ashish Kumar Upadhyay et.al.|[2404.00613](http://arxiv.org/abs/2404.00613)|null|
-|**2024-03-25**|**Quantum Liquids: Emergent higher-rank gauge theory and fractons**|Yizhi You et.al.|[2403.17074](http://arxiv.org/abs/2403.17074)|null|
-|**2024-03-24**|**Coupler-Assisted Leakage Reduction for Scalable Quantum Error Correction with Superconducting Qubits**|Xiaohan Yang, Ji Chu, Zechen Guo, Wenhui Huang, Yongqi Liang, Jiawei Liu, Jiawei Qiu, Xuandong Sun, Ziyu Tao, Jiawei Zhang, Jiajian Zhang, Libo Zhang, Yuxuan Zhou, Weijie Guo, Ling Hu, Ji Jiang, Yang Liu, Xiayu Linpeng, Tingyong Chen, Yuanzhen Chen, Jingjing Niu, Song Liu, Youpeng Zhong, Dapeng Yu et.al.|[2403.16155](http://arxiv.org/abs/2403.16155)|null|
-|**2024-03-24**|**Many-hypercube codes: High-rate quantum error-correcting codes for high-performance fault-tolerant quantum computation**|Hayato Goto et.al.|[2403.16054](http://arxiv.org/abs/2403.16054)|null|
-|**2024-03-21**|**Optimal control in large open quantum systems: the case of transmon readout and reset**|Ronan Gautier, Élie Genois, Alexandre Blais et.al.|[2403.14765](http://arxiv.org/abs/2403.14765)|null|
+|**2024-04-04**|**Quantum aggregation with temporal delay**|Nicolò Lo Piparo, William J. Munro, Kae Nemoto|[2404.03262](http://arxiv.org/abs/2404.03262)|null|
+|**2024-04-04**|**Promatch: Extending the Reach of Real-Time Quantum Error Correction with Adaptive Predecoding**|Narges Alavisamani, Suhas Vittal, Ramin Ayanzadeh, Poulami Das, Moinuddin Qureshi|[2404.03136](http://arxiv.org/abs/2404.03136)|null|
+|**2024-04-02**|**Construction of quantum codes from $(γ,Δ)$ -cyclic codes**|Om Prakash, Shikha Patel, Habibul Islam|[2404.01904](http://arxiv.org/abs/2404.01904)|null|
+|**2024-04-01**|**Building a fusion-based quantum computer using teleported gates**|Ashot Avanesov, Alexander Shurinov, Ivan Dyakonov, Stanislav Straupe|[2404.01477](http://arxiv.org/abs/2404.01477)|null|
+|**2024-04-01**|**Random Circuit Sampling: Fourier Expansion and Statistics**|Gil Kalai, Yosef Rinott, Tomer Shoham|[2404.00935](http://arxiv.org/abs/2404.00935)|null|
+|**2024-03-31**|**On $(θ, Θ)$ -cyclic codes and their applications in constructing QECCs**|Awadhesh Kumar Shukla, Sachin Pathak, Om Prakash Pandey, Vipul Mishra, Ashish Kumar Upadhyay|[2404.00613](http://arxiv.org/abs/2404.00613)|null|
+|**2024-03-25**|**Quantum Liquids: Emergent higher-rank gauge theory and fractons**|Yizhi You|[2403.17074](http://arxiv.org/abs/2403.17074)|null|
+|**2024-03-24**|**Coupler-Assisted Leakage Reduction for Scalable Quantum Error Correction with Superconducting Qubits**|Xiaohan Yang, Ji Chu, Zechen Guo, Wenhui Huang, Yongqi Liang, Jiawei Liu, Jiawei Qiu, Xuandong Sun, Ziyu Tao, Jiawei Zhang, Jiajian Zhang, Libo Zhang, Yuxuan Zhou, Weijie Guo, Ling Hu, Ji Jiang, Yang Liu, Xiayu Linpeng, Tingyong Chen, Yuanzhen Chen, Jingjing Niu, Song Liu, Youpeng Zhong, Dapeng Yu|[2403.16155](http://arxiv.org/abs/2403.16155)|null|
+|**2024-03-24**|**Many-hypercube codes: High-rate quantum error-correcting codes for high-performance fault-tolerant quantum computation**|Hayato Goto|[2403.16054](http://arxiv.org/abs/2403.16054)|null|
+|**2024-03-21**|**Optimal control in large open quantum systems: the case of transmon readout and reset**|Ronan Gautier, Élie Genois, Alexandre Blais|[2403.14765](http://arxiv.org/abs/2403.14765)|null|
 |**2024-03-20**|**Experimental fault-tolerant code switching**|Ivan Pogorelov et.al.|[2403.13732](http://arxiv.org/abs/2403.13732)|null|
 |**2024-03-19**|**Self-Orthogonal Codes from Vectorial Dual-Bent Functions**|Jiaxin Wang et.al.|[2403.12578](http://arxiv.org/abs/2403.12578)|null|
 |**2024-03-19**|**A tweezer array with 6100 highly coherent atomic qubits**|Hannah J. Manetsch et.al.|[2403.12021](http://arxiv.org/abs/2403.12021)|null|

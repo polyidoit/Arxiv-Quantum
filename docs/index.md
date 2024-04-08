@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 
 ## Bell nonlocality
 
@@ -510,7 +510,7 @@ layout: default
 |**2024-04-02**|**Normal weak eigenstate thermalization**|Patrycja Łydżba, Rafał Świętek, Marcin Mierzejewski, Marcos Rigol, Lev Vidmar|[2404.02199](http://arxiv.org/abs/2404.02199)|null|
 |**2024-03-27**|**Properties and Applications of the Kirkwood-Dirac Distribution**|David R. M. Arvidsson-Shukur, William F. Braasch Jr., Stephan De Bievre, Justin Dressel, Andrew N. Jordan, Christopher Langrenez, Matteo Lostaglio, Jeff S. Lundeen, Nicole Yunger Halpern|[2403.18899](http://arxiv.org/abs/2403.18899)|null|
 |**2024-03-27**|**Thermalization condition for non-Hermitian quantum systems**|Yiting Mao, Peigeng Zhong, Haiqing Lin, Xiaoqun Wang, Shijie Hu|[2403.18477](http://arxiv.org/abs/2403.18477)|null|
-|**2024-03-26**|**EinExprs: Contraction Paths of Tensor Networks as Symbolic Expressions**|Sergio Sanchez-Ramirez, Jofre Vallès-Muns, Artur Garcia-Saez|[2403.18030](http://arxiv.org/abs/2403.18030)|null|
+|**2024-03-26**|**EinExprs: Contraction Paths of Tensor Networks as Symbolic Expressions**|Sergio Sanchez-Ramirez, Jofre Vallès-Muns, Artur Garcia-Saez|[2403.18030](http://arxiv.org/abs/2403.18030)|**[link](https://github.com/bsc-quantic/einexprs.jl)**|
 |**2024-03-26**|**Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model**|Ang Yang, Jinlou Ma, Lei Ying|[2403.17912](http://arxiv.org/abs/2403.17912)|null|
 |**2024-03-25**|**Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era**|Pau Escofet, Anabel Ovide, Medina Bandic, Luise Prielinger, Hans van Someren, Sebastian Feld, Eduard Alarcón, Sergi Abadal, Carmen G. Almudéver|[2403.17205](http://arxiv.org/abs/2403.17205)|null|
 |**2024-03-25**|**Measuring Spectral Form Factor in Many-Body Chaotic and Localized Phases of Quantum Processors**|Hang Dong, Pengfei Zhang, Ceren B. Dag, Yu Gao, Ning Wang, Jinfeng Deng, Xu Zhang, Jiachen Chen, Shibo Xu, Ke Wang, Yaozu Wu, Chuanyu Zhang, Feitong Jin, Xuhao Zhu, Aosai Zhang, Yiren Zou, Ziqi Tan, Zhengyi Cui, Zitian Zhu, Fanhao Shen, Tingting Li, Jiarun Zhong, Zehang Bao, Hekang Li, Zhen Wang, Qiujiang Guo, Chao Song, Fangli Liu, Amos Chan, Lei Ying, H. Wang|[2403.16935](http://arxiv.org/abs/2403.16935)|null|

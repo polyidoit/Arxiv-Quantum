@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
 |**2024-04-05**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|
 |**2024-04-02**|**Optimal Bell inequalities for qubit-qudit systems**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2404.02092](http://arxiv.org/abs/2404.02092)|null|
 |**2024-04-02**|**$(n,m,p)$ -type quantum network configuration and its nonlocality**|Zan-Jia Li, Ying-Qiu He, Dong Ding, Ming-Xing Yu, Ting Gao, Feng-Li Yan|[2404.01960](http://arxiv.org/abs/2404.01960)|null|
@@ -334,6 +335,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
 |**2024-04-05**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|
 |**2024-04-04**|**Steering nonlocality in high-speed telecommunication system without detection loophole**|Qiang Zeng, Huihong Yuan, Haoyang Wang, Lai Zhou, Zhiliang Yuan|[2404.03228](http://arxiv.org/abs/2404.03228)|null|
 |**2024-04-03**|**Shareability of steering in 2-producible states**|Qiu-Cheng Song, Travis J. Baker, Howard M. Wiseman|[2404.02725](http://arxiv.org/abs/2404.02725)|null|
@@ -507,6 +509,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-07**|**Logarithmic singularities of Renyi entropy as a sign of chaos?**|Norihiro Iizuka, Mitsuhiro Nishida|[2404.04805](http://arxiv.org/abs/2404.04805)|null|
 |**2024-04-05**|**Discriminating chaotic and integrable regimes in quenched field Floquet system using saturation of Out-of-time-order correlation**|Rohit Kumar Shukla, Gaurav Rudra Malik, S. Aravinda, Sunil Kumar Mishra|[2404.04177](http://arxiv.org/abs/2404.04177)|null|
 |**2024-04-04**|**Operator growth and spread complexity in open quantum systems**|Eoin Carolan, Anthony Kiely, Steve Campbell, Sebastian Deffner|[2404.03529](http://arxiv.org/abs/2404.03529)|null|
 |**2024-04-03**|**Critical Properties of Weak Measurement Induced Phase Transitions in Random Quantum Circuits**|Kemal Aziz, Ahana Chakraborty, J. H. Pixley|[2404.02968](http://arxiv.org/abs/2404.02968)|null|
@@ -736,6 +739,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-07**|**Magic Boundaries of 3D Color Codes**|Zijian Song, Guanyu Zhu|[2404.05033](http://arxiv.org/abs/2404.05033)|null|
+|**2024-04-07**|**On Linear Codes Whose Hermitian Hulls are MD**|Gaojun Luo, Lin Sok, Martianus Frederic Ezerman, San Ling|[2404.04993](http://arxiv.org/abs/2404.04993)|null|
 |**2024-04-04**|**Quantum aggregation with temporal delay**|Nicolò Lo Piparo, William J. Munro, Kae Nemoto|[2404.03262](http://arxiv.org/abs/2404.03262)|null|
 |**2024-04-04**|**Promatch: Extending the Reach of Real-Time Quantum Error Correction with Adaptive Predecoding**|Narges Alavisamani, Suhas Vittal, Ramin Ayanzadeh, Poulami Das, Moinuddin Qureshi|[2404.03136](http://arxiv.org/abs/2404.03136)|null|
 |**2024-04-02**|**Construction of quantum codes from $(γ,Δ)$ -cyclic codes**|Om Prakash, Shikha Patel, Habibul Islam|[2404.01904](http://arxiv.org/abs/2404.01904)|null|

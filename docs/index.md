@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 
 ## Bell nonlocality
 
@@ -739,7 +739,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-07**|**Magic Boundaries of 3D Color Codes**|Zijian Song, Guanyu Zhu|[2404.05033](http://arxiv.org/abs/2404.05033)|null|
+|**2024-04-09**|**Magic Boundaries of 3D Color Codes**|Zijian Song, Guanyu Zhu|[2404.05033](http://arxiv.org/abs/2404.05033)|null|
 |**2024-04-07**|**On Linear Codes Whose Hermitian Hulls are MD**|Gaojun Luo, Lin Sok, Martianus Frederic Ezerman, San Ling|[2404.04993](http://arxiv.org/abs/2404.04993)|null|
 |**2024-04-04**|**Quantum aggregation with temporal delay**|Nicolò Lo Piparo, William J. Munro, Kae Nemoto|[2404.03262](http://arxiv.org/abs/2404.03262)|null|
 |**2024-04-04**|**Promatch: Extending the Reach of Real-Time Quantum Error Correction with Adaptive Predecoding**|Narges Alavisamani, Suhas Vittal, Ramin Ayanzadeh, Poulami Das, Moinuddin Qureshi|[2404.03136](http://arxiv.org/abs/2404.03136)|null|

@@ -203,6 +203,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Quantum Network Tomography via Learning Isometries on Stiefel Manifold**|Ze-Tong Li, Xin-Lin He, Cong-Cong Zheng, Xu-Tao Yu, Zai-Chen Zhang|[2404.06988](http://arxiv.org/abs/2404.06988)|null|
 |**2024-03-28**|**Parallel and real-time post-processing for quantum random number generators**|Xiaomin Guo, Fading Lin, Jiehong Lin, Zhijie Song, Yue luo, Qiqi Wang, Yanqiang Guo|[2403.19479](http://arxiv.org/abs/2403.19479)|null|
 |**2024-03-15**|**A de Finetti theorem for quantum causal structures**|Fabio Costa, Jonathan Barrett, Sally Shrapnel|[2403.10316](http://arxiv.org/abs/2403.10316)|null|
 |**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
@@ -419,6 +420,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Classical simulation and quantum resource theory of non-Gaussian optics**|Oliver Hahn, Ryuji Takagi, Giulia Ferrini, Hayata Yamasaki|[2404.07115](http://arxiv.org/abs/2404.07115)|null|
+|**2024-04-10**|**Probabilistic channel simulation using coherence**|Benchi Zhao, Kosuke Ito, Keisuke Fujii|[2404.06775](http://arxiv.org/abs/2404.06775)|null|
 |**2024-04-03**|**Novel_Authentication_Protocols_Tailored_for_Ambient_IoT_Devices_in_3GPP_5G_Networks**|Xiongpeng Ren, Jin Cao, Hui Li, Yinghui Zhang|[2404.02425](http://arxiv.org/abs/2404.02425)|null|
 |**2024-03-31**|**Imaginarity measure induced by relative entropy**|Xiangyu Chen, Qiang Lei|[2404.00637](http://arxiv.org/abs/2404.00637)|null|
 |**2024-03-25**|**Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus**|Chen Li, Ruijie Ma, Xiang Qian, Xiaohao Wang, Xinghui Li|[2403.16607](http://arxiv.org/abs/2403.16607)|null|
@@ -760,6 +763,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Scalable noise characterisation of syndrome extraction circuits with averaged circuit eigenvalue sampling**|Evan T. Hockings, Andrew C. Doherty, Robin Harper|[2404.06545](http://arxiv.org/abs/2404.06545)|null|
 |**2024-04-09**|**Magic Boundaries of 3D Color Codes**|Zijian Song, Guanyu Zhu|[2404.05033](http://arxiv.org/abs/2404.05033)|null|
 |**2024-04-07**|**On Linear Codes Whose Hermitian Hulls are MD**|Gaojun Luo, Lin Sok, Martianus Frederic Ezerman, San Ling|[2404.04993](http://arxiv.org/abs/2404.04993)|null|
 |**2024-04-04**|**Quantum aggregation with temporal delay**|Nicolò Lo Piparo, William J. Munro, Kae Nemoto|[2404.03262](http://arxiv.org/abs/2404.03262)|null|

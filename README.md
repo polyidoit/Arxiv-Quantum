@@ -271,6 +271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Spin-Energy Entanglement of a Time-Focused Neutron**|J. C. Leiner, S. J. Kuhn, S. McKay, J. K. Jochum, F. Li, A. A. M. Irfan, F. Funama, D. Mettus, L. Beddrich, C. Franz, J. Shen, S. R. Parnell, R. M. Dalgliesh, M. Loyd, N. Geerits, G. Ortiz, C. Pfleiderer, R. Pynn|[2404.07967](http://arxiv.org/abs/2404.07967)|null|
 |**2024-04-01**|**Electronic Structure of Molybdenene**|Ashkan Shekaari|[2404.00833](http://arxiv.org/abs/2404.00833)|null|
 |**2024-03-28**|**Twisted simplicial distributions**|Cihan Okay, Walker H. Stern|[2403.19808](http://arxiv.org/abs/2403.19808)|null|
 |**2024-03-26**|**The operadic theory of convexity**|Redi Haderi, Cihan Okay, Walker H. Stern|[2403.18102](http://arxiv.org/abs/2403.18102)|null|
@@ -763,6 +764,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Color code decoder with improved scaling for correcting circuit-level noise**|Seok-Hyung Lee, Andrew Li, Stephen D. Bartlett|[2404.07482](http://arxiv.org/abs/2404.07482)|null|
 |**2024-04-09**|**Scalable noise characterisation of syndrome extraction circuits with averaged circuit eigenvalue sampling**|Evan T. Hockings, Andrew C. Doherty, Robin Harper|[2404.06545](http://arxiv.org/abs/2404.06545)|null|
 |**2024-04-09**|**Magic Boundaries of 3D Color Codes**|Zijian Song, Guanyu Zhu|[2404.05033](http://arxiv.org/abs/2404.05033)|null|
 |**2024-04-07**|**On Linear Codes Whose Hermitian Hulls are MD**|Gaojun Luo, Lin Sok, Martianus Frederic Ezerman, San Ling|[2404.04993](http://arxiv.org/abs/2404.04993)|null|

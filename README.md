@@ -765,7 +765,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-11**|**Color code decoder with improved scaling for correcting circuit-level noise**|Seok-Hyung Lee, Andrew Li, Stephen D. Bartlett|[2404.07482](http://arxiv.org/abs/2404.07482)|null|
-|**2024-04-09**|**Scalable noise characterisation of syndrome extraction circuits with averaged circuit eigenvalue sampling**|Evan T. Hockings, Andrew C. Doherty, Robin Harper|[2404.06545](http://arxiv.org/abs/2404.06545)|null|
+|**2024-04-09**|**Scalable noise characterisation of syndrome extraction circuits with averaged circuit eigenvalue sampling**|Evan T. Hockings, Andrew C. Doherty, Robin Harper|[2404.06545](http://arxiv.org/abs/2404.06545)|**[link](https://github.com/evanhockings/averagedcircuiteigenvaluesampling.jl)**|
 |**2024-04-09**|**Magic Boundaries of 3D Color Codes**|Zijian Song, Guanyu Zhu|[2404.05033](http://arxiv.org/abs/2404.05033)|null|
 |**2024-04-07**|**On Linear Codes Whose Hermitian Hulls are MD**|Gaojun Luo, Lin Sok, Martianus Frederic Ezerman, San Ling|[2404.04993](http://arxiv.org/abs/2404.04993)|null|
 |**2024-04-04**|**Quantum aggregation with temporal delay**|Nicolò Lo Piparo, William J. Munro, Kae Nemoto|[2404.03262](http://arxiv.org/abs/2404.03262)|null|

@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Quantum tops at circular lepton colliders**|Fabio Maltoni, Claudio Severi, Simone Tentori, Eleni Vryonidou|[2404.08049](http://arxiv.org/abs/2404.08049)|null|
 |**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
 |**2024-04-09**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|
 |**2024-04-02**|**Optimal Bell inequalities for qubit-qudit systems**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2404.02092](http://arxiv.org/abs/2404.02092)|null|
@@ -404,6 +405,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Code Generation and Performance Engineering for Matrix-Free Finite Element Methods on Hybrid Tetrahedral Grids**|Fabian Böhm, Daniel Bauer, Nils Kohl, Christie Alappat, Dominik Thönnes, Marcus Mohr, Harald Köstler, Ulrich Rüde|[2404.08371](http://arxiv.org/abs/2404.08371)|null|
 |**2024-04-10**|**Classical simulation and quantum resource theory of non-Gaussian optics**|Oliver Hahn, Ryuji Takagi, Giulia Ferrini, Hayata Yamasaki|[2404.07115](http://arxiv.org/abs/2404.07115)|null|
 |**2024-04-10**|**Probabilistic channel simulation using coherence**|Benchi Zhao, Kosuke Ito, Keisuke Fujii|[2404.06775](http://arxiv.org/abs/2404.06775)|null|
 |**2024-04-03**|**Novel_Authentication_Protocols_Tailored_for_Ambient_IoT_Devices_in_3GPP_5G_Networks**|Xiongpeng Ren, Jin Cao, Hui Li, Yinghui Zhang|[2404.02425](http://arxiv.org/abs/2404.02425)|null|
@@ -513,6 +515,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Dissecting Quantum Many-body Chaos in the Krylov Space**|Liangyu Chen, Baoyuan Mu, Huajia Wang, Pengfei Zhang|[2404.08207](http://arxiv.org/abs/2404.08207)|null|
+|**2024-04-11**|**Complexity enriched dynamical phases for fermions on graphs**|Wei Xia, Jie Zou, Xiaopeng Li|[2404.08055](http://arxiv.org/abs/2404.08055)|null|
 |**2024-04-07**|**Logarithmic singularities of Renyi entropy as a sign of chaos?**|Norihiro Iizuka, Mitsuhiro Nishida|[2404.04805](http://arxiv.org/abs/2404.04805)|null|
 |**2024-04-05**|**Discriminating chaotic and integrable regimes in quenched field Floquet system using saturation of Out-of-time-order correlation**|Rohit Kumar Shukla, Gaurav Rudra Malik, S. Aravinda, Sunil Kumar Mishra|[2404.04177](http://arxiv.org/abs/2404.04177)|null|
 |**2024-04-04**|**Operator growth and spread complexity in open quantum systems**|Eoin Carolan, Anthony Kiely, Steve Campbell, Sebastian Deffner|[2404.03529](http://arxiv.org/abs/2404.03529)|null|
@@ -743,7 +747,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-11**|**Color code decoder with improved scaling for correcting circuit-level noise**|Seok-Hyung Lee, Andrew Li, Stephen D. Bartlett|[2404.07482](http://arxiv.org/abs/2404.07482)|null|
+|**2024-04-12**|**Abelian Group Quantum Error Correction in Kitaev's Model**|Shawn X. Cui, César Galindo, Diego Romero|[2404.08552](http://arxiv.org/abs/2404.08552)|null|
+|**2024-04-11**|**Goppa Codes: Key to High Efficiency and Reliability in Communications**|Behrooz Mosallaei, Sepideh Farivar, Vahid Nourozi|[2404.08132](http://arxiv.org/abs/2404.08132)|null|
+|**2024-04-11**|**Color code decoder with improved scaling for correcting circuit-level noise**|Seok-Hyung Lee, Andrew Li, Stephen D. Bartlett|[2404.07482](http://arxiv.org/abs/2404.07482)|**[link](https://github.com/seokhyung-lee/color-code-stim)**|
 |**2024-04-09**|**Scalable noise characterisation of syndrome extraction circuits with averaged circuit eigenvalue sampling**|Evan T. Hockings, Andrew C. Doherty, Robin Harper|[2404.06545](http://arxiv.org/abs/2404.06545)|**[link](https://github.com/evanhockings/averagedcircuiteigenvaluesampling.jl)**|
 |**2024-04-09**|**Magic Boundaries of 3D Color Codes**|Zijian Song, Guanyu Zhu|[2404.05033](http://arxiv.org/abs/2404.05033)|null|
 |**2024-04-07**|**On Linear Codes Whose Hermitian Hulls are MD**|Gaojun Luo, Lin Sok, Martianus Frederic Ezerman, San Ling|[2404.04993](http://arxiv.org/abs/2404.04993)|null|

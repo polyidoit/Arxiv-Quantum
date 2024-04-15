@@ -1,4 +1,4 @@
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Quantum tops at circular lepton colliders**|Fabio Maltoni, Claudio Severi, Simone Tentori, Eleni Vryonidou|[2404.08049](http://arxiv.org/abs/2404.08049)|null|
 |**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
 |**2024-04-09**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|
 |**2024-04-02**|**Optimal Bell inequalities for qubit-qudit systems**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2404.02092](http://arxiv.org/abs/2404.02092)|null|
@@ -197,7 +198,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -265,7 +266,7 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -346,7 +347,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -415,12 +416,13 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Code Generation and Performance Engineering for Matrix-Free Finite Element Methods on Hybrid Tetrahedral Grids**|Fabian Böhm, Daniel Bauer, Nils Kohl, Christie Alappat, Dominik Thönnes, Marcus Mohr, Harald Köstler, Ulrich Rüde|[2404.08371](http://arxiv.org/abs/2404.08371)|null|
 |**2024-04-10**|**Classical simulation and quantum resource theory of non-Gaussian optics**|Oliver Hahn, Ryuji Takagi, Giulia Ferrini, Hayata Yamasaki|[2404.07115](http://arxiv.org/abs/2404.07115)|null|
 |**2024-04-10**|**Probabilistic channel simulation using coherence**|Benchi Zhao, Kosuke Ito, Keisuke Fujii|[2404.06775](http://arxiv.org/abs/2404.06775)|null|
 |**2024-04-03**|**Novel_Authentication_Protocols_Tailored_for_Ambient_IoT_Devices_in_3GPP_5G_Networks**|Xiongpeng Ren, Jin Cao, Hui Li, Yinghui Zhang|[2404.02425](http://arxiv.org/abs/2404.02425)|null|
@@ -526,12 +528,14 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Dissecting Quantum Many-body Chaos in the Krylov Space**|Liangyu Chen, Baoyuan Mu, Huajia Wang, Pengfei Zhang|[2404.08207](http://arxiv.org/abs/2404.08207)|null|
+|**2024-04-11**|**Complexity enriched dynamical phases for fermions on graphs**|Wei Xia, Jie Zou, Xiaopeng Li|[2404.08055](http://arxiv.org/abs/2404.08055)|null|
 |**2024-04-07**|**Logarithmic singularities of Renyi entropy as a sign of chaos?**|Norihiro Iizuka, Mitsuhiro Nishida|[2404.04805](http://arxiv.org/abs/2404.04805)|null|
 |**2024-04-05**|**Discriminating chaotic and integrable regimes in quenched field Floquet system using saturation of Out-of-time-order correlation**|Rohit Kumar Shukla, Gaurav Rudra Malik, S. Aravinda, Sunil Kumar Mishra|[2404.04177](http://arxiv.org/abs/2404.04177)|null|
 |**2024-04-04**|**Operator growth and spread complexity in open quantum systems**|Eoin Carolan, Anthony Kiely, Steve Campbell, Sebastian Deffner|[2404.03529](http://arxiv.org/abs/2404.03529)|null|
@@ -758,13 +762,15 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## Quantum error-correction code
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-11**|**Color code decoder with improved scaling for correcting circuit-level noise**|Seok-Hyung Lee, Andrew Li, Stephen D. Bartlett|[2404.07482](http://arxiv.org/abs/2404.07482)|null|
+|**2024-04-12**|**Abelian Group Quantum Error Correction in Kitaev's Model**|Shawn X. Cui, César Galindo, Diego Romero|[2404.08552](http://arxiv.org/abs/2404.08552)|null|
+|**2024-04-11**|**Goppa Codes: Key to High Efficiency and Reliability in Communications**|Behrooz Mosallaei, Sepideh Farivar, Vahid Nourozi|[2404.08132](http://arxiv.org/abs/2404.08132)|null|
+|**2024-04-11**|**Color code decoder with improved scaling for correcting circuit-level noise**|Seok-Hyung Lee, Andrew Li, Stephen D. Bartlett|[2404.07482](http://arxiv.org/abs/2404.07482)|**[link](https://github.com/seokhyung-lee/color-code-stim)**|
 |**2024-04-09**|**Scalable noise characterisation of syndrome extraction circuits with averaged circuit eigenvalue sampling**|Evan T. Hockings, Andrew C. Doherty, Robin Harper|[2404.06545](http://arxiv.org/abs/2404.06545)|**[link](https://github.com/evanhockings/averagedcircuiteigenvaluesampling.jl)**|
 |**2024-04-09**|**Magic Boundaries of 3D Color Codes**|Zijian Song, Guanyu Zhu|[2404.05033](http://arxiv.org/abs/2404.05033)|null|
 |**2024-04-07**|**On Linear Codes Whose Hermitian Hulls are MD**|Gaojun Luo, Lin Sok, Martianus Frederic Ezerman, San Ling|[2404.04993](http://arxiv.org/abs/2404.04993)|null|
@@ -1230,5 +1236,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 

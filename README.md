@@ -272,6 +272,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Beable-guided measurement theory**|Aleksei M. Aleshin, Vladimir V. Nikitin, Petr I. Pronin|[2404.09934](http://arxiv.org/abs/2404.09934)|null|
 |**2024-04-11**|**Spin-Energy Entanglement of a Time-Focused Neutron**|J. C. Leiner, S. J. Kuhn, S. McKay, J. K. Jochum, F. Li, A. A. M. Irfan, F. Funama, D. Mettus, L. Beddrich, C. Franz, J. Shen, S. R. Parnell, R. M. Dalgliesh, M. Loyd, N. Geerits, G. Ortiz, C. Pfleiderer, R. Pynn|[2404.07967](http://arxiv.org/abs/2404.07967)|null|
 |**2024-04-01**|**Electronic Structure of Molybdenene**|Ashkan Shekaari|[2404.00833](http://arxiv.org/abs/2404.00833)|null|
 |**2024-03-28**|**Twisted simplicial distributions**|Cihan Okay, Walker H. Stern|[2403.19808](http://arxiv.org/abs/2403.19808)|null|
@@ -534,6 +535,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Hilbert space delocalization under random unitary circuits**|Xhek Turkeshi, Piotr Sierant|[2404.10725](http://arxiv.org/abs/2404.10725)|null|
+|**2024-04-16**|**Observation of thermal microwave photons with a Josephson junction detector**|A. L. Pankratov, A. V. Gordeeva, A. V. Chiginev, L. S. Revin, A. V. Blagodatkin, N. Crescini, L. S. Kuzmin|[2404.10434](http://arxiv.org/abs/2404.10434)|null|
+|**2024-04-15**|**Landau-Zener without a Qubit: Unveiling Multiphoton Interference, Synthetic Floquet Dimensions, and Dissipative Quantum Chaos**|Leo Peyruchat, Fabrizio Minganti, Marco Scigliuzzo, Filippo Ferrari, Vincent Jouanny, Franco Nori, Vincenzo Savona, Pasquale Scarlino|[2404.10051](http://arxiv.org/abs/2404.10051)|null|
 |**2024-04-15**|**Information Gain, Operator Spreading, and Sensitivity to Perturbations as Quantifiers of Chaos in Quantum Systems**|Abinash Sahu|[2404.09464](http://arxiv.org/abs/2404.09464)|null|
 |**2024-04-12**|**Dissecting Quantum Many-body Chaos in the Krylov Space**|Liangyu Chen, Baoyuan Mu, Huajia Wang, Pengfei Zhang|[2404.08207](http://arxiv.org/abs/2404.08207)|null|
 |**2024-04-11**|**Complexity enriched dynamical phases for fermions on graphs**|Wei Xia, Jie Zou, Xiaopeng Li|[2404.08055](http://arxiv.org/abs/2404.08055)|null|
@@ -769,6 +773,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Polycyclic codes over serial rings and their annihilator CSS construction**|Maryam Bajalan, Edgar Martinez-Moro|[2404.10452](http://arxiv.org/abs/2404.10452)|null|
+|**2024-04-15**|**Wormholes and Factorization in Exact Effective Theory**|Sergio Hernández-Cuenca|[2404.10035](http://arxiv.org/abs/2404.10035)|null|
 |**2024-04-15**|**Leveraging Zero-Level Distillation to Generate High-Fidelity Magic States**|Yutaka Hirano, Tomohiro Itogawa, Keisuke Fujii|[2404.09740](http://arxiv.org/abs/2404.09740)|null|
 |**2024-04-12**|**Abelian Group Quantum Error Correction in Kitaev's Model**|Shawn X. Cui, César Galindo, Diego Romero|[2404.08552](http://arxiv.org/abs/2404.08552)|null|
 |**2024-04-15**|**Goppa Codes: Key to High Efficiency and Reliability in Communications**|Behrooz Mosallaei, Sepideh Farivar, Vahid Nourozi|[2404.08132](http://arxiv.org/abs/2404.08132)|null|

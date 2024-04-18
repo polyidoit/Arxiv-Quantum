@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**On an Internal Dependence of Simultaneous Measurements**|Valentin Vankov Iliev|[2404.11263](http://arxiv.org/abs/2404.11263)|null|
 |**2024-04-11**|**Quantum tops at circular lepton colliders**|Fabio Maltoni, Claudio Severi, Simone Tentori, Eleni Vryonidou|[2404.08049](http://arxiv.org/abs/2404.08049)|null|
 |**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
 |**2024-04-09**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|

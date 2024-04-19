@@ -1,4 +1,4 @@
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@
 |**2024-04-09**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|
 |**2024-04-02**|**Optimal Bell inequalities for qubit-qudit systems**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2404.02092](http://arxiv.org/abs/2404.02092)|null|
 |**2024-04-02**|**$(n,m,p)$ -type quantum network configuration and its nonlocality**|Zan-Jia Li, Ying-Qiu He, Dong Ding, Ming-Xing Yu, Ting Gao, Feng-Li Yan|[2404.01960](http://arxiv.org/abs/2404.01960)|null|
-|**2024-04-01**|**Secret Sharing, Teleportation and Bell's Inequality**|Pratishtha Abrol, Pahulpreet Singh, Indranil Chakrabarty|[2404.01212](http://arxiv.org/abs/2404.01212)|null|
+|**2024-04-18**|**Maximal Secret Reconstruction, Teleportation and Bell's Inequality**|Pratishtha Abrol, Pahulpreet Singh, Indranil Chakrabarty|[2404.01212](http://arxiv.org/abs/2404.01212)|null|
 |**2024-03-28**|**Are nonlocal Lagrangian systems fatally unstable?**|Carlos Heredia, Josep Llosa|[2403.19777](http://arxiv.org/abs/2403.19777)|null|
 |**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars, Benachir Boukhris, Ahmed Tirbiyine, Abdelaziz Labrag|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
 |**2024-03-20**|**Tripartite entanglement in $H \to ZZ,WW$ decays**|J. A. Aguilar-Saavedra|[2403.13942](http://arxiv.org/abs/2403.13942)|null|
@@ -199,7 +199,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -267,7 +267,7 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -278,7 +278,7 @@
 |**2024-04-01**|**Electronic Structure of Molybdenene**|Ashkan Shekaari|[2404.00833](http://arxiv.org/abs/2404.00833)|null|
 |**2024-03-28**|**Twisted simplicial distributions**|Cihan Okay, Walker H. Stern|[2403.19808](http://arxiv.org/abs/2403.19808)|null|
 |**2024-03-26**|**The operadic theory of convexity**|Redi Haderi, Cihan Okay, Walker H. Stern|[2403.18102](http://arxiv.org/abs/2403.18102)|null|
-|**2024-03-25**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang, Han-Sen Zhong, Yu-Kun Zhang, Cheng-Cheng Yu, Xiao Yuan, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
+|**2024-04-18**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang, Han-Sen Zhong, Yu-Kun Zhang, Cheng-Cheng Yu, Xiao Yuan, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
 |**2024-03-12**|**Minimal cellular automaton model with heterogeneous cell sizes predicts epithelial colony growth**|Steffen Lange, Jannik Schmied, Paul Willam, Anja Voss-Böhme|[2403.07612](http://arxiv.org/abs/2403.07612)|null|
 |**2024-03-12**|**Cabello's nonlocality argument for multisetting high-dimensional systems and its experimental test**|M. Yang, D. Zhang, L. Chen|[2403.07417](http://arxiv.org/abs/2403.07417)|null|
 |**2024-02-27**|**Design principles of nonlinear optical materials for Terahertz lasers**|Juan Han, Yiwei Sun, Xiamin Huang, Wenjun Shuai, Guangyou Fang, Zhou Li|[2402.17126](http://arxiv.org/abs/2402.17126)|null|
@@ -349,7 +349,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -418,7 +418,7 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 ## Resource theory
 
@@ -530,7 +530,7 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -768,7 +768,7 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -1245,5 +1245,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 
 ## Bell nonlocality
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-04-09**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|
 |**2024-04-02**|**Optimal Bell inequalities for qubit-qudit systems**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2404.02092](http://arxiv.org/abs/2404.02092)|null|
 |**2024-04-02**|**$(n,m,p)$ -type quantum network configuration and its nonlocality**|Zan-Jia Li, Ying-Qiu He, Dong Ding, Ming-Xing Yu, Ting Gao, Feng-Li Yan|[2404.01960](http://arxiv.org/abs/2404.01960)|null|
-|**2024-04-01**|**Secret Sharing, Teleportation and Bell's Inequality**|Pratishtha Abrol, Pahulpreet Singh, Indranil Chakrabarty|[2404.01212](http://arxiv.org/abs/2404.01212)|null|
+|**2024-04-18**|**Maximal Secret Reconstruction, Teleportation and Bell's Inequality**|Pratishtha Abrol, Pahulpreet Singh, Indranil Chakrabarty|[2404.01212](http://arxiv.org/abs/2404.01212)|null|
 |**2024-03-28**|**Are nonlocal Lagrangian systems fatally unstable?**|Carlos Heredia, Josep Llosa|[2403.19777](http://arxiv.org/abs/2403.19777)|null|
 |**2024-03-25**|**Manipulating the direction of one-way steering in an optomechanical ring cavity**|Jamal El Qars, Benachir Boukhris, Ahmed Tirbiyine, Abdelaziz Labrag|[2403.16346](http://arxiv.org/abs/2403.16346)|null|
 |**2024-03-20**|**Tripartite entanglement in $H \to ZZ,WW$ decays**|J. A. Aguilar-Saavedra|[2403.13942](http://arxiv.org/abs/2403.13942)|null|
@@ -265,7 +265,7 @@ layout: default
 |**2024-04-01**|**Electronic Structure of Molybdenene**|Ashkan Shekaari|[2404.00833](http://arxiv.org/abs/2404.00833)|null|
 |**2024-03-28**|**Twisted simplicial distributions**|Cihan Okay, Walker H. Stern|[2403.19808](http://arxiv.org/abs/2403.19808)|null|
 |**2024-03-26**|**The operadic theory of convexity**|Redi Haderi, Cihan Okay, Walker H. Stern|[2403.18102](http://arxiv.org/abs/2403.18102)|null|
-|**2024-03-25**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang, Han-Sen Zhong, Yu-Kun Zhang, Cheng-Cheng Yu, Xiao Yuan, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
+|**2024-04-18**|**Boson sampling enhanced quantum chemistry**|Zhong-Xia Shang, Han-Sen Zhong, Yu-Kun Zhang, Cheng-Cheng Yu, Xiao Yuan, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen|[2403.16698](http://arxiv.org/abs/2403.16698)|null|
 |**2024-03-12**|**Minimal cellular automaton model with heterogeneous cell sizes predicts epithelial colony growth**|Steffen Lange, Jannik Schmied, Paul Willam, Anja Voss-Böhme|[2403.07612](http://arxiv.org/abs/2403.07612)|null|
 |**2024-03-12**|**Cabello's nonlocality argument for multisetting high-dimensional systems and its experimental test**|M. Yang, D. Zhang, L. Chen|[2403.07417](http://arxiv.org/abs/2403.07417)|null|
 |**2024-02-27**|**Design principles of nonlinear optical materials for Terahertz lasers**|Juan Han, Yiwei Sun, Xiamin Huang, Wenjun Shuai, Guangyou Fang, Zhou Li|[2402.17126](http://arxiv.org/abs/2402.17126)|null|

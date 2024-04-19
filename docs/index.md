@@ -194,6 +194,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**The quantum gravity seeds for laws of nature**|Vincent Lam, Daniele Oriti|[2404.12248](http://arxiv.org/abs/2404.12248)|null|
 |**2024-04-10**|**Quantum Network Tomography via Learning Isometries on Stiefel Manifold**|Ze-Tong Li, Xin-Lin He, Cong-Cong Zheng, Xu-Tao Yu, Zai-Chen Zhang|[2404.06988](http://arxiv.org/abs/2404.06988)|null|
 |**2024-03-28**|**Parallel and real-time post-processing for quantum random number generators**|Xiaomin Guo, Fading Lin, Jiehong Lin, Zhijie Song, Yue luo, Qiqi Wang, Yanqiang Guo|[2403.19479](http://arxiv.org/abs/2403.19479)|null|
 |**2024-03-15**|**A de Finetti theorem for quantum causal structures**|Fabio Costa, Jonathan Barrett, Sally Shrapnel|[2403.10316](http://arxiv.org/abs/2403.10316)|null|
@@ -753,6 +754,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Tailoring Fault-Tolerance to Quantum Algorithms**|Zhuangzhuang Chen, Narayanan Rengaswamy|[2404.11953](http://arxiv.org/abs/2404.11953)|null|
+|**2024-04-17**|**Optimized measurement-free and fault-tolerant quantum error correction for neutral atoms**|Stefano Veroni, Markus Müller, Giacomo Giudice|[2404.11663](http://arxiv.org/abs/2404.11663)|null|
 |**2024-04-16**|**Polycyclic codes over serial rings and their annihilator CSS construction**|Maryam Bajalan, Edgar Martinez-Moro|[2404.10452](http://arxiv.org/abs/2404.10452)|null|
 |**2024-04-15**|**Wormholes and Factorization in Exact Effective Theory**|Sergio Hernández-Cuenca|[2404.10035](http://arxiv.org/abs/2404.10035)|null|
 |**2024-04-15**|**Leveraging Zero-Level Distillation to Generate High-Fidelity Magic States**|Yutaka Hirano, Tomohiro Itogawa, Keisuke Fujii|[2404.09740](http://arxiv.org/abs/2404.09740)|null|

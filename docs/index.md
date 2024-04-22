@@ -12,7 +12,7 @@ layout: default
 |**2024-04-11**|**Quantum tops at circular lepton colliders**|Fabio Maltoni, Claudio Severi, Simone Tentori, Eleni Vryonidou|[2404.08049](http://arxiv.org/abs/2404.08049)|null|
 |**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
 |**2024-04-09**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|
-|**2024-04-02**|**Optimal Bell inequalities for qubit-qudit systems**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2404.02092](http://arxiv.org/abs/2404.02092)|null|
+|**2024-04-19**|**Optimal Bell inequalities for qubit-qudit systems**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2404.02092](http://arxiv.org/abs/2404.02092)|null|
 |**2024-04-02**|**$(n,m,p)$ -type quantum network configuration and its nonlocality**|Zan-Jia Li, Ying-Qiu He, Dong Ding, Ming-Xing Yu, Ting Gao, Feng-Li Yan|[2404.01960](http://arxiv.org/abs/2404.01960)|null|
 |**2024-04-18**|**Maximal Secret Reconstruction, Teleportation and Bell's Inequality**|Pratishtha Abrol, Pahulpreet Singh, Indranil Chakrabarty|[2404.01212](http://arxiv.org/abs/2404.01212)|null|
 |**2024-03-28**|**Are nonlocal Lagrangian systems fatally unstable?**|Carlos Heredia, Josep Llosa|[2403.19777](http://arxiv.org/abs/2403.19777)|null|
@@ -754,6 +754,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**High-rate quantum LDPC codes for long-range-connected neutral atom registers**|Laura Pecorari, Sven Jandura, Gavin K. Brennen, Guido Pupillo|[2404.13010](http://arxiv.org/abs/2404.13010)|null|
+|**2024-04-19**|**Erasure-tolerance protocol for the surface codes on Rydberg atomic quantum computers**|Fumiyoshi Kobayashi, Shota Nagayama|[2404.12656](http://arxiv.org/abs/2404.12656)|null|
 |**2024-04-18**|**Tailoring Fault-Tolerance to Quantum Algorithms**|Zhuangzhuang Chen, Narayanan Rengaswamy|[2404.11953](http://arxiv.org/abs/2404.11953)|null|
 |**2024-04-17**|**Optimized measurement-free and fault-tolerant quantum error correction for neutral atoms**|Stefano Veroni, Markus Müller, Giacomo Giudice|[2404.11663](http://arxiv.org/abs/2404.11663)|null|
 |**2024-04-16**|**Polycyclic codes over serial rings and their annihilator CSS construction**|Maryam Bajalan, Edgar Martinez-Moro|[2404.10452](http://arxiv.org/abs/2404.10452)|null|

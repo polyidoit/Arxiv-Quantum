@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Bell Correlations via Constrained Colliders -- a Path from W to V**|Huw Price|[2404.13928](http://arxiv.org/abs/2404.13928)|null|
 |**2024-04-17**|**On an Internal Dependence of Simultaneous Measurements**|Valentin Vankov Iliev|[2404.11263](http://arxiv.org/abs/2404.11263)|null|
 |**2024-04-11**|**Quantum tops at circular lepton colliders**|Fabio Maltoni, Claudio Severi, Simone Tentori, Eleni Vryonidou|[2404.08049](http://arxiv.org/abs/2404.08049)|null|
 |**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
@@ -518,6 +519,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-21**|**Ergodic and chaotic properties in Tavis-Cummings dimer: quantum and classical limit**|Tamoghna Ray, Manas Kulkarni|[2404.13653](http://arxiv.org/abs/2404.13653)|null|
 |**2024-04-16**|**Hilbert space delocalization under random unitary circuits**|Xhek Turkeshi, Piotr Sierant|[2404.10725](http://arxiv.org/abs/2404.10725)|null|
 |**2024-04-16**|**Observation of thermal microwave photons with a Josephson junction detector**|A. L. Pankratov, A. V. Gordeeva, A. V. Chiginev, L. S. Revin, A. V. Blagodatkin, N. Crescini, L. S. Kuzmin|[2404.10434](http://arxiv.org/abs/2404.10434)|null|
 |**2024-04-15**|**Landau-Zener without a Qubit: Unveiling Multiphoton Interference, Synthetic Floquet Dimensions, and Dissipative Quantum Chaos**|Leo Peyruchat, Fabrizio Minganti, Marco Scigliuzzo, Filippo Ferrari, Vincent Jouanny, Franco Nori, Vincenzo Savona, Pasquale Scarlino|[2404.10051](http://arxiv.org/abs/2404.10051)|null|
@@ -754,6 +756,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-20**|**Additive Complementary Pairs of Codes**|Sanjit Bhowmick, Deepak Kumar Dalai|[2404.13249](http://arxiv.org/abs/2404.13249)|null|
+|**2024-04-19**|**Lattice Surgery for Dummies**|Avimita Chatterjee, Subrata Das, Swaroop Ghosh|[2404.13202](http://arxiv.org/abs/2404.13202)|null|
 |**2024-04-19**|**High-rate quantum LDPC codes for long-range-connected neutral atom registers**|Laura Pecorari, Sven Jandura, Gavin K. Brennen, Guido Pupillo|[2404.13010](http://arxiv.org/abs/2404.13010)|null|
 |**2024-04-19**|**Erasure-tolerance protocol for the surface codes on Rydberg atomic quantum computers**|Fumiyoshi Kobayashi, Shota Nagayama|[2404.12656](http://arxiv.org/abs/2404.12656)|null|
 |**2024-04-18**|**Tailoring Fault-Tolerance to Quantum Algorithms**|Zhuangzhuang Chen, Narayanan Rengaswamy|[2404.11953](http://arxiv.org/abs/2404.11953)|null|

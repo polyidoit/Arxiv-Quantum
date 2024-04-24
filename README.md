@@ -275,6 +275,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Mechanisms promoting biodiversity in ecosystems**|Ju Kang, Yiyuan Niu, Xin Wang|[2404.14859](http://arxiv.org/abs/2404.14859)|null|
 |**2024-04-15**|**Beable-guided measurement theory**|Aleksei M. Aleshin, Vladimir V. Nikitin, Petr I. Pronin|[2404.09934](http://arxiv.org/abs/2404.09934)|null|
 |**2024-04-11**|**Spin-Energy Entanglement of a Time-Focused Neutron**|J. C. Leiner, S. J. Kuhn, S. McKay, J. K. Jochum, F. Li, A. A. M. Irfan, F. Funama, D. Mettus, L. Beddrich, C. Franz, J. Shen, S. R. Parnell, R. M. Dalgliesh, M. Loyd, N. Geerits, G. Ortiz, C. Pfleiderer, R. Pynn|[2404.07967](http://arxiv.org/abs/2404.07967)|null|
 |**2024-04-01**|**Electronic Structure of Molybdenene**|Ashkan Shekaari|[2404.00833](http://arxiv.org/abs/2404.00833)|null|
@@ -538,6 +539,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Unitary Synthesis of Clifford+T Circuits with Reinforcement Learning**|Sebastian Rietsch, Abhishek Y. Dubey, Christian Ufrecht, Maniraman Periyasamy, Axel Plinge, Christopher Mutschler, Daniel D. Scherer|[2404.14865](http://arxiv.org/abs/2404.14865)|null|
+|**2024-04-22**|**On verifiable quantum advantage with peaked circuit sampling**|Scott Aaronson, Yuxuan Zhang|[2404.14493](http://arxiv.org/abs/2404.14493)|null|
+|**2024-04-22**|**Optimally scrambling chiral spin-chain with effective black hole geometry**|Aiden Daniel, Andrew Hallam, Matthew D. Horner, Jiannis K. Pachos|[2404.14473](http://arxiv.org/abs/2404.14473)|null|
 |**2024-04-21**|**Ergodic and chaotic properties in Tavis-Cummings dimer: quantum and classical limit**|Tamoghna Ray, Manas Kulkarni|[2404.13653](http://arxiv.org/abs/2404.13653)|null|
 |**2024-04-16**|**Hilbert space delocalization under random unitary circuits**|Xhek Turkeshi, Piotr Sierant|[2404.10725](http://arxiv.org/abs/2404.10725)|null|
 |**2024-04-16**|**Observation of thermal microwave photons with a Josephson junction detector**|A. L. Pankratov, A. V. Gordeeva, A. V. Chiginev, L. S. Revin, A. V. Blagodatkin, N. Crescini, L. S. Kuzmin|[2404.10434](http://arxiv.org/abs/2404.10434)|null|
@@ -777,6 +781,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Parameterized Maximum Node-Disjoint Paths**|Michael Lampis, Manolis Vasilakis|[2404.14849](http://arxiv.org/abs/2404.14849)|null|
+|**2024-04-22**|**Designing open quantum systems with known steady states: Davies generators and beyond**|Jinkang Guo, Oliver Hart, Chi-Fang Chen, Aaron J. Friedman, Andrew Lucas|[2404.14538](http://arxiv.org/abs/2404.14538)|null|
 |**2024-04-20**|**Additive Complementary Pairs of Codes**|Sanjit Bhowmick, Deepak Kumar Dalai|[2404.13249](http://arxiv.org/abs/2404.13249)|null|
 |**2024-04-19**|**Lattice Surgery for Dummies**|Avimita Chatterjee, Subrata Das, Swaroop Ghosh|[2404.13202](http://arxiv.org/abs/2404.13202)|null|
 |**2024-04-19**|**High-rate quantum LDPC codes for long-range-connected neutral atom registers**|Laura Pecorari, Sven Jandura, Gavin K. Brennen, Guido Pupillo|[2404.13010](http://arxiv.org/abs/2404.13010)|null|

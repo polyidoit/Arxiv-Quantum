@@ -198,7 +198,7 @@ layout: default
 |**2024-04-18**|**The quantum gravity seeds for laws of nature**|Vincent Lam, Daniele Oriti|[2404.12248](http://arxiv.org/abs/2404.12248)|null|
 |**2024-04-10**|**Quantum Network Tomography via Learning Isometries on Stiefel Manifold**|Ze-Tong Li, Xin-Lin He, Cong-Cong Zheng, Xu-Tao Yu, Zai-Chen Zhang|[2404.06988](http://arxiv.org/abs/2404.06988)|null|
 |**2024-03-28**|**Parallel and real-time post-processing for quantum random number generators**|Xiaomin Guo, Fading Lin, Jiehong Lin, Zhijie Song, Yue luo, Qiqi Wang, Yanqiang Guo|[2403.19479](http://arxiv.org/abs/2403.19479)|null|
-|**2024-03-15**|**A de Finetti theorem for quantum causal structures**|Fabio Costa, Jonathan Barrett, Sally Shrapnel|[2403.10316](http://arxiv.org/abs/2403.10316)|null|
+|**2024-04-24**|**A de Finetti theorem for quantum causal structures**|Fabio Costa, Jonathan Barrett, Sally Shrapnel|[2403.10316](http://arxiv.org/abs/2403.10316)|null|
 |**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
 |**2024-03-07**|**Quantum metrology using quantum combs and tensor network formalism**|Stanislaw Kurdzialek, Piotr Dulian, Joanna Majsak, Sagnik Chakraborty, Rafal Demkowicz-Dobrzanski|[2403.04854](http://arxiv.org/abs/2403.04854)|null|
 |**2024-03-06**|**Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations**|Yin Mo, Lei Zhang, Yu-Ao Chen, Yingjian Liu, Tengxiang Lin, Xin Wang|[2403.03761](http://arxiv.org/abs/2403.03761)|null|
@@ -520,7 +520,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-23**|**Unitary Synthesis of Clifford+T Circuits with Reinforcement Learning**|Sebastian Rietsch, Abhishek Y. Dubey, Christian Ufrecht, Maniraman Periyasamy, Axel Plinge, Christopher Mutschler, Daniel D. Scherer|[2404.14865](http://arxiv.org/abs/2404.14865)|null|
+|**2024-04-23**|**Proof of a Universal Speed Limit on Fast Scrambling in Quantum Systems**|Amit Vikram, Laura Shou, Victor Galitski|[2404.15403](http://arxiv.org/abs/2404.15403)|null|
+|**2024-04-24**|**Unitary Synthesis of Clifford+T Circuits with Reinforcement Learning**|Sebastian Rietsch, Abhishek Y. Dubey, Christian Ufrecht, Maniraman Periyasamy, Axel Plinge, Christopher Mutschler, Daniel D. Scherer|[2404.14865](http://arxiv.org/abs/2404.14865)|null|
 |**2024-04-22**|**On verifiable quantum advantage with peaked circuit sampling**|Scott Aaronson, Yuxuan Zhang|[2404.14493](http://arxiv.org/abs/2404.14493)|null|
 |**2024-04-22**|**Optimally scrambling chiral spin-chain with effective black hole geometry**|Aiden Daniel, Andrew Hallam, Matthew D. Horner, Jiannis K. Pachos|[2404.14473](http://arxiv.org/abs/2404.14473)|null|
 |**2024-04-21**|**Ergodic and chaotic properties in Tavis-Cummings dimer: quantum and classical limit**|Tamoghna Ray, Manas Kulkarni|[2404.13653](http://arxiv.org/abs/2404.13653)|null|

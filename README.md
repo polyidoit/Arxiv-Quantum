@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Violation of Bell inequalities in an analogue black hole**|Giorgio Ciliberto, Stephanie Emig, Nicolas Pavloff, Mathieu Isoard|[2404.16497](http://arxiv.org/abs/2404.16497)|null|
+|**2024-04-24**|**Generation of bipartite mechanical cat state by performing projective Bell state measurement**|Roson Nongthombam, Urmimala Dewan, Amarendra K. Sarma|[2404.16007](http://arxiv.org/abs/2404.16007)|null|
+|**2024-04-24**|**Creating entangled logical qubits in the heavy-hex lattice with topological codes**|Bence Hetényi, James R. Wootton|[2404.15989](http://arxiv.org/abs/2404.15989)|null|
 |**2024-04-22**|**Bell Correlations via Constrained Colliders -- a Path from W to V**|Huw Price|[2404.13928](http://arxiv.org/abs/2404.13928)|null|
 |**2024-04-17**|**On an Internal Dependence of Simultaneous Measurements**|Valentin Vankov Iliev|[2404.11263](http://arxiv.org/abs/2404.11263)|null|
 |**2024-04-11**|**Quantum tops at circular lepton colliders**|Fabio Maltoni, Claudio Severi, Simone Tentori, Eleni Vryonidou|[2404.08049](http://arxiv.org/abs/2404.08049)|null|
@@ -539,6 +542,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Long-range multipartite entanglement near measurement-induced transitions**|Sebastien J Avakian, T. Pereg-Barnea, William Witczak-Krempa|[2404.16095](http://arxiv.org/abs/2404.16095)|null|
+|**2024-04-24**|**Addendum to "Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space"**|Hua Yan, Qian Wang, Marko Robnik|[2404.15874](http://arxiv.org/abs/2404.15874)|null|
 |**2024-04-23**|**Proof of a Universal Speed Limit on Fast Scrambling in Quantum Systems**|Amit Vikram, Laura Shou, Victor Galitski|[2404.15403](http://arxiv.org/abs/2404.15403)|null|
 |**2024-04-24**|**Unitary Synthesis of Clifford+T Circuits with Reinforcement Learning**|Sebastian Rietsch, Abhishek Y. Dubey, Christian Ufrecht, Maniraman Periyasamy, Axel Plinge, Christopher Mutschler, Daniel D. Scherer|[2404.14865](http://arxiv.org/abs/2404.14865)|null|
 |**2024-04-22**|**On verifiable quantum advantage with peaked circuit sampling**|Scott Aaronson, Yuxuan Zhang|[2404.14493](http://arxiv.org/abs/2404.14493)|null|
@@ -782,6 +787,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**High-fidelity and Fault-tolerant Teleportation of a Logical Qubit using Transversal Gates and Lattice Surgery on a Trapped-ion Quantum Computer**|C. Ryan-Anderson, N. C. Brown, C. H. Baldwin, J. M. Dreiling, C. Foltz, J. P. Gaebler, T. M. Gatterman, N. Hewitt, C. Holliman, C. V. Horst, J. Johansen, D. Lucchetti, T. Mengle, M. Matheny, Y. Matsuoka, K. Mayer, M. Mills, S. A. Moses, B. Neyenhuis, J. Pino, P. Siegfried, R. P. Stutz, J. Walker, D. Hayes|[2404.16728](http://arxiv.org/abs/2404.16728)|null|
+|**2024-04-25**|**High-Coherence Kerr-cat qubit in 2D architecture**|Ahmed Hajr, Bingcheng Qing, Ke Wang, Gerwin Koolstra, Zahra Pedramrazi, Ziqi Kang, Larry Chen, Long B. Nguyen, Christian Junger, Noah Goss, Irwin Huang, Bibek Bhandari, Nicholas E. Frattini, Shruti Puri, Justin Dressel, Andrew Jordan, David Santiago, Irfan Siddiqi|[2404.16697](http://arxiv.org/abs/2404.16697)|null|
+|**2024-04-24**|**Creating entangled logical qubits in the heavy-hex lattice with topological codes**|Bence Hetényi, James R. Wootton|[2404.15989](http://arxiv.org/abs/2404.15989)|null|
 |**2024-04-23**|**Parameterized Maximum Node-Disjoint Paths**|Michael Lampis, Manolis Vasilakis|[2404.14849](http://arxiv.org/abs/2404.14849)|null|
 |**2024-04-22**|**Designing open quantum systems with known steady states: Davies generators and beyond**|Jinkang Guo, Oliver Hart, Chi-Fang Chen, Aaron J. Friedman, Andrew Lucas|[2404.14538](http://arxiv.org/abs/2404.14538)|null|
 |**2024-04-20**|**Additive Complementary Pairs of Codes**|Sanjit Bhowmick, Deepak Kumar Dalai|[2404.13249](http://arxiv.org/abs/2404.13249)|null|

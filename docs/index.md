@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.28
+## Updated on 2024.04.29
 
 ## Bell nonlocality
 
@@ -771,7 +771,7 @@ layout: default
 |**2024-04-24**|**Creating entangled logical qubits in the heavy-hex lattice with topological codes**|Bence Hetényi, James R. Wootton|[2404.15989](http://arxiv.org/abs/2404.15989)|null|
 |**2024-04-23**|**Parameterized Maximum Node-Disjoint Paths**|Michael Lampis, Manolis Vasilakis|[2404.14849](http://arxiv.org/abs/2404.14849)|null|
 |**2024-04-22**|**Designing open quantum systems with known steady states: Davies generators and beyond**|Jinkang Guo, Oliver Hart, Chi-Fang Chen, Aaron J. Friedman, Andrew Lucas|[2404.14538](http://arxiv.org/abs/2404.14538)|null|
-|**2024-04-20**|**Additive Complementary Pairs of Codes**|Sanjit Bhowmick, Deepak Kumar Dalai|[2404.13249](http://arxiv.org/abs/2404.13249)|null|
+|**2024-04-26**|**Additive Complementary Pairs of Codes**|Sanjit Bhowmick, Deepak Kumar Dalai|[2404.13249](http://arxiv.org/abs/2404.13249)|null|
 |**2024-04-24**|**Lattice Surgery for Dummies**|Avimita Chatterjee, Subrata Das, Swaroop Ghosh|[2404.13202](http://arxiv.org/abs/2404.13202)|null|
 |**2024-04-19**|**High-rate quantum LDPC codes for long-range-connected neutral atom registers**|Laura Pecorari, Sven Jandura, Gavin K. Brennen, Guido Pupillo|[2404.13010](http://arxiv.org/abs/2404.13010)|null|
 |**2024-04-19**|**Erasure-tolerance protocol for the surface codes on Rydberg atomic quantum computers**|Fumiyoshi Kobayashi, Shota Nagayama|[2404.12656](http://arxiv.org/abs/2404.12656)|null|

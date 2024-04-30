@@ -278,6 +278,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-27**|**Tensor hypercontraction for fully self-consistent imaginary-time GF2 and GWSOX methods: theory, implementation, and role of the Green's function second-order exchange for intermolecular interactions**|Pavel Pokhilko, Chia-Nan Yeh, Miguel A. Morales, Dominika Zgid|[2404.17744](http://arxiv.org/abs/2404.17744)|null|
 |**2024-04-23**|**Mechanisms promoting biodiversity in ecosystems**|Ju Kang, Yiyuan Niu, Xin Wang|[2404.14859](http://arxiv.org/abs/2404.14859)|null|
 |**2024-04-15**|**Beable-guided measurement theory**|Aleksei M. Aleshin, Vladimir V. Nikitin, Petr I. Pronin|[2404.09934](http://arxiv.org/abs/2404.09934)|null|
 |**2024-04-11**|**Spin-Energy Entanglement of a Time-Focused Neutron**|J. C. Leiner, S. J. Kuhn, S. McKay, J. K. Jochum, F. Li, A. A. M. Irfan, F. Funama, D. Mettus, L. Beddrich, C. Franz, J. Shen, S. R. Parnell, R. M. Dalgliesh, M. Loyd, N. Geerits, G. Ortiz, C. Pfleiderer, R. Pynn|[2404.07967](http://arxiv.org/abs/2404.07967)|null|
@@ -542,6 +543,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Quantum Benchmarking via Random Dynamical Quantum Maps**|Daniel Volya, Prabhat Mishra|[2404.18846](http://arxiv.org/abs/2404.18846)|null|
 |**2024-04-24**|**Long-range multipartite entanglement near measurement-induced transitions**|Sebastien J Avakian, T. Pereg-Barnea, William Witczak-Krempa|[2404.16095](http://arxiv.org/abs/2404.16095)|null|
 |**2024-04-24**|**Addendum to "Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space"**|Hua Yan, Qian Wang, Marko Robnik|[2404.15874](http://arxiv.org/abs/2404.15874)|null|
 |**2024-04-23**|**Proof of a Universal Speed Limit on Fast Scrambling in Quantum Systems**|Amit Vikram, Laura Shou, Victor Galitski|[2404.15403](http://arxiv.org/abs/2404.15403)|null|
@@ -787,6 +789,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Architecture for fast implementation of qLDPC codes with optimized Rydberg gates**|C. Poole, T. M. Graham, M. A. Perlin, M. Otten, M. Saffman|[2404.18809](http://arxiv.org/abs/2404.18809)|null|
+|**2024-04-29**|**Low-Overhead Defect-Adaptive Surface Code with Bandage-Like Super-Stabilizers**|Zuolin Wei, Tan He, Yangsen Ye, Dachao Wu, Yiming Zhang, Youwei Zhao, Weiping Lin, He-Liang Huang, Xiaobo Zhu, Jian-Wei Pan|[2404.18644](http://arxiv.org/abs/2404.18644)|null|
+|**2024-04-29**|**How to surpass no-go limits in Gaussian quantum error correction and entangled Gaussian state distillation?**|En-Jui Chang, Ching-Yi Lai|[2404.18586](http://arxiv.org/abs/2404.18586)|null|
+|**2024-04-29**|**A family of self-orthogonal divisible codes with locality 2**|Ziling Heng, Mengjie Yang, Yang Ming|[2404.18437](http://arxiv.org/abs/2404.18437)|null|
+|**2024-04-29**|**A SAT Scalpel for Lattice Surgery: Representation and Synthesis of Subroutines for Surface-Code Fault-Tolerant Quantum Computing**|Daniel Bochen Tan, Murphy Yuezhen Niu, Craig Gidney|[2404.18369](http://arxiv.org/abs/2404.18369)|null|
+|**2024-04-26**|**A quantum annealing approach to minimum distance problem**|Refat Ismail, Ashish Kakkar, Anatoly Dymarsky|[2404.17703](http://arxiv.org/abs/2404.17703)|null|
+|**2024-04-26**|**Toward a 2D Local Implementation of Quantum LDPC Codes**|Noah Berthusen, Dhruv Devulapalli, Eddie Schoute, Andrew M. Childs, Michael J. Gullans, Alexey V. Gorshkov, Daniel Gottesman|[2404.17676](http://arxiv.org/abs/2404.17676)|null|
 |**2024-04-25**|**High-fidelity and Fault-tolerant Teleportation of a Logical Qubit using Transversal Gates and Lattice Surgery on a Trapped-ion Quantum Computer**|C. Ryan-Anderson, N. C. Brown, C. H. Baldwin, J. M. Dreiling, C. Foltz, J. P. Gaebler, T. M. Gatterman, N. Hewitt, C. Holliman, C. V. Horst, J. Johansen, D. Lucchetti, T. Mengle, M. Matheny, Y. Matsuoka, K. Mayer, M. Mills, S. A. Moses, B. Neyenhuis, J. Pino, P. Siegfried, R. P. Stutz, J. Walker, D. Hayes|[2404.16728](http://arxiv.org/abs/2404.16728)|null|
 |**2024-04-25**|**High-Coherence Kerr-cat qubit in 2D architecture**|Ahmed Hajr, Bingcheng Qing, Ke Wang, Gerwin Koolstra, Zahra Pedramrazi, Ziqi Kang, Larry Chen, Long B. Nguyen, Christian Junger, Noah Goss, Irwin Huang, Bibek Bhandari, Nicholas E. Frattini, Shruti Puri, Justin Dressel, Andrew Jordan, David Santiago, Irfan Siddiqi|[2404.16697](http://arxiv.org/abs/2404.16697)|null|
 |**2024-04-24**|**Creating entangled logical qubits in the heavy-hex lattice with topological codes**|Bence Hetényi, James R. Wootton|[2404.15989](http://arxiv.org/abs/2404.15989)|null|

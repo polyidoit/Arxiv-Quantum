@@ -362,6 +362,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Exploring the hierarchy of quantum correlations under thermal effects in two gravitational cat states**|Elhabib Jaloum, Mohamed Amazioug|[2404.19648](http://arxiv.org/abs/2404.19648)|null|
 |**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
 |**2024-04-09**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|
 |**2024-04-04**|**Steering nonlocality in high-speed telecommunication system without detection loophole**|Qiang Zeng, Huihong Yuan, Haoyang Wang, Lai Zhou, Zhiliang Yuan|[2404.03228](http://arxiv.org/abs/2404.03228)|null|
@@ -431,6 +432,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Optimal quantum strategy for locating Unruh channels**|Qianqian Liu, Tonghua Liu, Cuihong Wen, Jieci Wang|[2404.19216](http://arxiv.org/abs/2404.19216)|null|
 |**2024-04-12**|**Code Generation and Performance Engineering for Matrix-Free Finite Element Methods on Hybrid Tetrahedral Grids**|Fabian Böhm, Daniel Bauer, Nils Kohl, Christie Alappat, Dominik Thönnes, Marcus Mohr, Harald Köstler, Ulrich Rüde|[2404.08371](http://arxiv.org/abs/2404.08371)|null|
 |**2024-04-10**|**Classical simulation and quantum resource theory of non-Gaussian optics**|Oliver Hahn, Ryuji Takagi, Giulia Ferrini, Hayata Yamasaki|[2404.07115](http://arxiv.org/abs/2404.07115)|null|
 |**2024-04-10**|**Probabilistic channel simulation using coherence**|Benchi Zhao, Kosuke Ito, Keisuke Fujii|[2404.06775](http://arxiv.org/abs/2404.06775)|null|
@@ -548,7 +550,7 @@
 |**2024-04-24**|**Addendum to "Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space"**|Hua Yan, Qian Wang, Marko Robnik|[2404.15874](http://arxiv.org/abs/2404.15874)|null|
 |**2024-04-23**|**Proof of a Universal Speed Limit on Fast Scrambling in Quantum Systems**|Amit Vikram, Laura Shou, Victor Galitski|[2404.15403](http://arxiv.org/abs/2404.15403)|null|
 |**2024-04-24**|**Unitary Synthesis of Clifford+T Circuits with Reinforcement Learning**|Sebastian Rietsch, Abhishek Y. Dubey, Christian Ufrecht, Maniraman Periyasamy, Axel Plinge, Christopher Mutschler, Daniel D. Scherer|[2404.14865](http://arxiv.org/abs/2404.14865)|null|
-|**2024-04-22**|**On verifiable quantum advantage with peaked circuit sampling**|Scott Aaronson, Yuxuan Zhang|[2404.14493](http://arxiv.org/abs/2404.14493)|null|
+|**2024-04-22**|**On verifiable quantum advantage with peaked circuit sampling**|Scott Aaronson, Yuxuan Zhang|[2404.14493](http://arxiv.org/abs/2404.14493)|**[link](https://github.com/yuxuanzhang1995/peaked-circuits)**|
 |**2024-04-22**|**Optimally scrambling chiral spin-chain with effective black hole geometry**|Aiden Daniel, Andrew Hallam, Matthew D. Horner, Jiannis K. Pachos|[2404.14473](http://arxiv.org/abs/2404.14473)|null|
 |**2024-04-21**|**Ergodic and chaotic properties in Tavis-Cummings dimer: quantum and classical limit**|Tamoghna Ray, Manas Kulkarni|[2404.13653](http://arxiv.org/abs/2404.13653)|null|
 |**2024-04-16**|**Hilbert space delocalization under random unitary circuits**|Xhek Turkeshi, Piotr Sierant|[2404.10725](http://arxiv.org/abs/2404.10725)|null|
@@ -789,6 +791,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Simple loss-tolerant protocol for GHZ-state distribution in a quantum network**|Hikaru Shimizu, Wojciech Roga, David Elkouss, Masahiro Takeoka|[2404.19458](http://arxiv.org/abs/2404.19458)|null|
+|**2024-04-30**|**A simple method for compiling quantum stabilizer circuits**|Brendan Reid|[2404.19408](http://arxiv.org/abs/2404.19408)|null|
+|**2024-04-29**|**An Early Investigation of the HHL Quantum Linear Solver for Scientific Applications**|Muqing Zheng, Chenxu Liu, Samuel Stein, Xiangyu Li, Johannes Mülmenstädt, Yousu Chen, Ang Li|[2404.19067](http://arxiv.org/abs/2404.19067)|null|
+|**2024-04-29**|**Fault-tolerant compiling of classically hard IQP circuits on hypercubes**|Dominik Hangleiter, Marcin Kalinowski, Dolev Bluvstein, Madelyn Cain, Nishad Maskara, Xun Gao, Aleksander Kubica, Mikhail D. Lukin, Michael J. Gullans|[2404.19005](http://arxiv.org/abs/2404.19005)|null|
 |**2024-04-29**|**Architecture for fast implementation of qLDPC codes with optimized Rydberg gates**|C. Poole, T. M. Graham, M. A. Perlin, M. Otten, M. Saffman|[2404.18809](http://arxiv.org/abs/2404.18809)|null|
 |**2024-04-29**|**Low-Overhead Defect-Adaptive Surface Code with Bandage-Like Super-Stabilizers**|Zuolin Wei, Tan He, Yangsen Ye, Dachao Wu, Yiming Zhang, Youwei Zhao, Weiping Lin, He-Liang Huang, Xiaobo Zhu, Jian-Wei Pan|[2404.18644](http://arxiv.org/abs/2404.18644)|null|
 |**2024-04-29**|**How to surpass no-go limits in Gaussian quantum error correction and entangled Gaussian state distillation?**|En-Jui Chang, Ching-Yi Lai|[2404.18586](http://arxiv.org/abs/2404.18586)|null|

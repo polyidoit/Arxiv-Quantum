@@ -770,6 +770,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Entanglement and fidelity across quantum phase transitions in locally perturbed topological codes with open boundaries**|Harikrishnan K J, Amit Kumar Pal|[2405.00416](http://arxiv.org/abs/2405.00416)|null|
+|**2024-04-30**|**Averting multi-qubit burst errors in surface code magic state factories**|Jason D. Chadwick, Christopher Kang, Joshua Viszlai, Sophia Fuhui Lin, Frederic T. Chong|[2405.00146](http://arxiv.org/abs/2405.00146)|null|
 |**2024-04-30**|**Simple loss-tolerant protocol for GHZ-state distribution in a quantum network**|Hikaru Shimizu, Wojciech Roga, David Elkouss, Masahiro Takeoka|[2404.19458](http://arxiv.org/abs/2404.19458)|null|
 |**2024-04-30**|**A simple method for compiling quantum stabilizer circuits**|Brendan Reid|[2404.19408](http://arxiv.org/abs/2404.19408)|null|
 |**2024-04-29**|**An Early Investigation of the HHL Quantum Linear Solver for Scientific Applications**|Muqing Zheng, Chenxu Liu, Samuel Stein, Xiangyu Li, Johannes Mülmenstädt, Yousu Chen, Ang Li|[2404.19067](http://arxiv.org/abs/2404.19067)|null|

@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Are we allowed to subtract accidental coincidences in experiments of photon correlations?**|Eric Lantz, Fabrice Devaux, Serge Massar|[2405.01050](http://arxiv.org/abs/2405.01050)|null|
+|**2024-04-23**|**Towards a Deterministic Interpretation of Quantum Mechanics: Insights from Dynamical Systems**|Aminur Rahman|[2405.00707](http://arxiv.org/abs/2405.00707)|null|
 |**2024-04-25**|**Violation of Bell inequalities in an analogue black hole**|Giorgio Ciliberto, Stephanie Emig, Nicolas Pavloff, Mathieu Isoard|[2404.16497](http://arxiv.org/abs/2404.16497)|null|
 |**2024-04-24**|**Generation of bipartite mechanical cat state by performing projective Bell state measurement**|Roson Nongthombam, Urmimala Dewan, Amarendra K. Sarma|[2404.16007](http://arxiv.org/abs/2404.16007)|null|
 |**2024-04-24**|**Creating entangled logical qubits in the heavy-hex lattice with topological codes**|Bence Hetényi, James R. Wootton|[2404.15989](http://arxiv.org/abs/2404.15989)|null|
@@ -791,6 +793,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**How much entanglement is needed for quantum error correction?**|Sergey Bravyi, Dongjin Lee, Zhi Li, Beni Yoshida|[2405.01332](http://arxiv.org/abs/2405.01332)|null|
+|**2024-05-02**|**Spanning Tree Matching Decoder for Quantum Surface Codes**|Diego Forlivesi, Lorenzo Valentini, Marco Chiani|[2405.01151](http://arxiv.org/abs/2405.01151)|null|
+|**2024-05-01**|**Entanglement Routing using Quantum Error Correction for Distillation**|Ashlesha Patil, Michele Pacenti, Bane Vasić, Saikat Guha, Narayanan Rengaswamy|[2405.00849](http://arxiv.org/abs/2405.00849)|null|
 |**2024-05-01**|**Entanglement and fidelity across quantum phase transitions in locally perturbed topological codes with open boundaries**|Harikrishnan K J, Amit Kumar Pal|[2405.00416](http://arxiv.org/abs/2405.00416)|null|
 |**2024-04-30**|**Averting multi-qubit burst errors in surface code magic state factories**|Jason D. Chadwick, Christopher Kang, Joshua Viszlai, Sophia Fuhui Lin, Frederic T. Chong|[2405.00146](http://arxiv.org/abs/2405.00146)|null|
 |**2024-04-30**|**Simple loss-tolerant protocol for GHZ-state distribution in a quantum network**|Hikaru Shimizu, Wojciech Roga, David Elkouss, Masahiro Takeoka|[2404.19458](http://arxiv.org/abs/2404.19458)|null|

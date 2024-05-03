@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 
 ## Bell nonlocality
 
@@ -356,7 +356,7 @@ layout: default
 |**2024-02-28**|**Almost device-independent certification of GME states with minimal measurements**|Shubhayan Sarkar, Alexandre C. Orthey, Jr., Gautam Sharma, Remigiusz Augusiak|[2402.18522](http://arxiv.org/abs/2402.18522)|null|
 |**2024-02-25**|**Enhancement of Entanglement via Josephson Parametric Amplifier in a Dual Cavity-Magnon System**|Abdelkader Hidki, Abderrahim Lakhfif, Mostafa Nassik, Rizwan Ahmed, Amjad Sohail|[2402.16042](http://arxiv.org/abs/2402.16042)|null|
 |**2024-02-07**|**Quantum Correlation Sharing: A Review On Recent Progress From Nonlocality To Other Non-Classical Correlations**|Zinuo Cai, Changliang Ren, Tianfeng Feng, Xiaoqi Zhou, Jingling Chen|[2402.04652](http://arxiv.org/abs/2402.04652)|null|
-|**2024-02-01**|**Witnessing non-Markovianity with Gaussian quantum steering in collision model**|Yan Li, Xingli Li, Jiasen Jin|[2402.00524](http://arxiv.org/abs/2402.00524)|null|
+|**2024-05-02**|**Witnessing non-Markovianity with Gaussian quantum steering in collision model**|Yan Li, Xingli Li, Jiasen Jin|[2402.00524](http://arxiv.org/abs/2402.00524)|null|
 |**2024-01-30**|**Quantum steering from phase measurements with limited resources**|Gabriele Bizzarri, Ilaria Gianani, Mylenne Manrique, Vincenzo Berardi, Giovanni Capellini, Fabio Bruni, Marco Barbieri|[2401.17431](http://arxiv.org/abs/2401.17431)|null|
 |**2024-01-27**|**Demonstration of monogamy laws for Gaussian steering in optomechanics**|J El Qars, M Daoud, R Ahl Laamara, N Habiballah|[2401.15521](http://arxiv.org/abs/2401.15521)|null|
 |**2023-12-21**|**Compressing continuous variable quantum measurements**|Pauli Jokinen, Sophie Egelhaaf, Juha-Pekka Pellonpää, Roope Uola|[2312.13814](http://arxiv.org/abs/2312.13814)|null|

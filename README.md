@@ -1,4 +1,4 @@
-## Updated on 2024.05.05
+## Updated on 2024.05.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-02**|**Are we allowed to subtract accidental coincidences in experiments of photon correlations?**|Eric Lantz, Fabrice Devaux, Serge Massar|[2405.01050](http://arxiv.org/abs/2405.01050)|null|
+|**2024-05-03**|**Do we need to detect single photons to evidence interference of photon probability amplitudes?**|Eric Lantz, Fabrice Devaux, Serge Massar|[2405.01050](http://arxiv.org/abs/2405.01050)|null|
 |**2024-04-23**|**Towards a Deterministic Interpretation of Quantum Mechanics: Insights from Dynamical Systems**|Aminur Rahman|[2405.00707](http://arxiv.org/abs/2405.00707)|null|
 |**2024-04-25**|**Violation of Bell inequalities in an analogue black hole**|Giorgio Ciliberto, Stephanie Emig, Nicolas Pavloff, Mathieu Isoard|[2404.16497](http://arxiv.org/abs/2404.16497)|null|
 |**2024-04-24**|**Generation of bipartite mechanical cat state by performing projective Bell state measurement**|Roson Nongthombam, Urmimala Dewan, Amarendra K. Sarma|[2404.16007](http://arxiv.org/abs/2404.16007)|null|
@@ -205,7 +205,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -274,7 +274,7 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -358,7 +358,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -428,7 +428,7 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## Resource theory
 
@@ -541,12 +541,14 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Floquet engineered inhomogeneous quantum chaos in critical systems**|Bastien Lapierre, Tokiro Numasawa, Titus Neupert, Shinsei Ryu|[2405.01642](http://arxiv.org/abs/2405.01642)|null|
+|**2024-05-02**|**Spectral form factor in chaotic, localized, and integrable open quantum many-body systems**|Jiachen Li, Stephen Yan, Tomaž Prosen, Amos Chan|[2405.01641](http://arxiv.org/abs/2405.01641)|null|
 |**2024-04-29**|**Quantum Benchmarking via Random Dynamical Quantum Maps**|Daniel Volya, Prabhat Mishra|[2404.18846](http://arxiv.org/abs/2404.18846)|null|
 |**2024-04-24**|**Long-range multipartite entanglement near measurement-induced transitions**|Sebastien J Avakian, T. Pereg-Barnea, William Witczak-Krempa|[2404.16095](http://arxiv.org/abs/2404.16095)|null|
 |**2024-04-24**|**Addendum to "Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space"**|Hua Yan, Qian Wang, Marko Robnik|[2404.15874](http://arxiv.org/abs/2404.15874)|null|
@@ -787,12 +789,14 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 
 ## Quantum error-correction code
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Special matrices over finite fields and their applications to quantum error-correcting codes**|Meng Cao|[2405.02285](http://arxiv.org/abs/2405.02285)|null|
+|**2024-05-03**|**Strategies for implementing quantum error correction in molecular rotation**|Brandon J. Furey, Zhenlin Wu, Mariano Isaza-Monsalve, Stefan Walser, Elyas Mattivi, René Nardi, Philipp Schindler|[2405.02236](http://arxiv.org/abs/2405.02236)|null|
 |**2024-05-02**|**How much entanglement is needed for quantum error correction?**|Sergey Bravyi, Dongjin Lee, Zhi Li, Beni Yoshida|[2405.01332](http://arxiv.org/abs/2405.01332)|null|
 |**2024-05-02**|**Spanning Tree Matching Decoder for Quantum Surface Codes**|Diego Forlivesi, Lorenzo Valentini, Marco Chiani|[2405.01151](http://arxiv.org/abs/2405.01151)|null|
 |**2024-05-01**|**Entanglement Routing using Quantum Error Correction for Distillation**|Ashlesha Patil, Michele Pacenti, Bane Vasić, Saikat Guha, Narayanan Rengaswamy|[2405.00849](http://arxiv.org/abs/2405.00849)|null|
@@ -1291,5 +1295,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#updated-on-20240505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
 

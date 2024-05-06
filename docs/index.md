@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.05.05
+## Updated on 2024.05.06
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-02**|**Are we allowed to subtract accidental coincidences in experiments of photon correlations?**|Eric Lantz, Fabrice Devaux, Serge Massar|[2405.01050](http://arxiv.org/abs/2405.01050)|null|
+|**2024-05-03**|**Do we need to detect single photons to evidence interference of photon probability amplitudes?**|Eric Lantz, Fabrice Devaux, Serge Massar|[2405.01050](http://arxiv.org/abs/2405.01050)|null|
 |**2024-04-23**|**Towards a Deterministic Interpretation of Quantum Mechanics: Insights from Dynamical Systems**|Aminur Rahman|[2405.00707](http://arxiv.org/abs/2405.00707)|null|
 |**2024-04-25**|**Violation of Bell inequalities in an analogue black hole**|Giorgio Ciliberto, Stephanie Emig, Nicolas Pavloff, Mathieu Isoard|[2404.16497](http://arxiv.org/abs/2404.16497)|null|
 |**2024-04-24**|**Generation of bipartite mechanical cat state by performing projective Bell state measurement**|Roson Nongthombam, Urmimala Dewan, Amarendra K. Sarma|[2404.16007](http://arxiv.org/abs/2404.16007)|null|
@@ -528,6 +528,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Floquet engineered inhomogeneous quantum chaos in critical systems**|Bastien Lapierre, Tokiro Numasawa, Titus Neupert, Shinsei Ryu|[2405.01642](http://arxiv.org/abs/2405.01642)|null|
+|**2024-05-02**|**Spectral form factor in chaotic, localized, and integrable open quantum many-body systems**|Jiachen Li, Stephen Yan, Tomaž Prosen, Amos Chan|[2405.01641](http://arxiv.org/abs/2405.01641)|null|
 |**2024-04-29**|**Quantum Benchmarking via Random Dynamical Quantum Maps**|Daniel Volya, Prabhat Mishra|[2404.18846](http://arxiv.org/abs/2404.18846)|null|
 |**2024-04-24**|**Long-range multipartite entanglement near measurement-induced transitions**|Sebastien J Avakian, T. Pereg-Barnea, William Witczak-Krempa|[2404.16095](http://arxiv.org/abs/2404.16095)|null|
 |**2024-04-24**|**Addendum to "Power-law decay of the fraction of the mixed eigenstates in kicked top model with mixed-type classical phase space"**|Hua Yan, Qian Wang, Marko Robnik|[2404.15874](http://arxiv.org/abs/2404.15874)|null|
@@ -772,6 +774,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Special matrices over finite fields and their applications to quantum error-correcting codes**|Meng Cao|[2405.02285](http://arxiv.org/abs/2405.02285)|null|
+|**2024-05-03**|**Strategies for implementing quantum error correction in molecular rotation**|Brandon J. Furey, Zhenlin Wu, Mariano Isaza-Monsalve, Stefan Walser, Elyas Mattivi, René Nardi, Philipp Schindler|[2405.02236](http://arxiv.org/abs/2405.02236)|null|
 |**2024-05-02**|**How much entanglement is needed for quantum error correction?**|Sergey Bravyi, Dongjin Lee, Zhi Li, Beni Yoshida|[2405.01332](http://arxiv.org/abs/2405.01332)|null|
 |**2024-05-02**|**Spanning Tree Matching Decoder for Quantum Surface Codes**|Diego Forlivesi, Lorenzo Valentini, Marco Chiani|[2405.01151](http://arxiv.org/abs/2405.01151)|null|
 |**2024-05-01**|**Entanglement Routing using Quantum Error Correction for Distillation**|Ashlesha Patil, Michele Pacenti, Bane Vasić, Saikat Guha, Narayanan Rengaswamy|[2405.00849](http://arxiv.org/abs/2405.00849)|null|

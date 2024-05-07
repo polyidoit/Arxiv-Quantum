@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Kolmogorovian Censorship, Predictive Incompleteness, and the locality loophole in Bell experiments**|Philippe Grangier|[2405.03184](http://arxiv.org/abs/2405.03184)|null|
+|**2024-05-05**|**Trade-off relations between Bell nonlocality and local Kochen-Specker contextuality in generalized Bell scenarios**|Lucas E. A. Porto, Gabriel Ruffolo, Rafael Rabelo, Marcelo Terra Cunha, Pawel Kurzynski|[2405.02964](http://arxiv.org/abs/2405.02964)|null|
+|**2024-05-05**|**Nonclassical effects of photon-phonon antibunching in a multifield driven optomechanical cavity**|Joy Ghosh, Shailendra K. Varshney, Kapil Debnath|[2405.02896](http://arxiv.org/abs/2405.02896)|null|
 |**2024-05-03**|**Do we need to detect single photons to evidence interference of photon probability amplitudes?**|Eric Lantz, Fabrice Devaux, Serge Massar|[2405.01050](http://arxiv.org/abs/2405.01050)|null|
 |**2024-04-23**|**Towards a Deterministic Interpretation of Quantum Mechanics: Insights from Dynamical Systems**|Aminur Rahman|[2405.00707](http://arxiv.org/abs/2405.00707)|null|
 |**2024-04-25**|**Violation of Bell inequalities in an analogue black hole**|Giorgio Ciliberto, Stephanie Emig, Nicolas Pavloff, Mathieu Isoard|[2404.16497](http://arxiv.org/abs/2404.16497)|null|
@@ -201,7 +204,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-18**|**The quantum gravity seeds for laws of nature**|Vincent Lam, Daniele Oriti|[2404.12248](http://arxiv.org/abs/2404.12248)|null|
-|**2024-04-10**|**Quantum Network Tomography via Learning Isometries on Stiefel Manifold**|Ze-Tong Li, Xin-Lin He, Cong-Cong Zheng, Xu-Tao Yu, Zai-Chen Zhang|[2404.06988](http://arxiv.org/abs/2404.06988)|null|
+|**2024-05-06**|**Quantum Network Tomography via Learning Isometries on Stiefel Manifold**|Ze-Tong Li, Xin-Lin He, Cong-Cong Zheng, Yu-Qian Dong, Tian Luan, Xu-Tao Yu, Zai-Chen Zhang|[2404.06988](http://arxiv.org/abs/2404.06988)|null|
 |**2024-03-28**|**Parallel and real-time post-processing for quantum random number generators**|Xiaomin Guo, Fading Lin, Jiehong Lin, Zhijie Song, Yue luo, Qiqi Wang, Yanqiang Guo|[2403.19479](http://arxiv.org/abs/2403.19479)|null|
 |**2024-04-24**|**A de Finetti theorem for quantum causal structures**|Fabio Costa, Jonathan Barrett, Sally Shrapnel|[2403.10316](http://arxiv.org/abs/2403.10316)|null|
 |**2024-03-13**|**Optimal adaptation of surface-code decoders to local noise**|Andrew S. Darmawan|[2403.08706](http://arxiv.org/abs/2403.08706)|null|
@@ -349,6 +352,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Generalized Einstein-Podolsky-Rosen Steering Paradox**|Zhi-Jie Liu, Jie Zhou, Xing-Yan Fan, Mi Xie, Jing-Ling Chen|[2405.03100](http://arxiv.org/abs/2405.03100)|null|
 |**2024-04-30**|**Exploring the hierarchy of quantum correlations under thermal effects in two gravitational cat states**|Elhabib Jaloum, Mohamed Amazioug|[2404.19648](http://arxiv.org/abs/2404.19648)|null|
 |**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
 |**2024-04-09**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|
@@ -774,6 +778,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Homological Quantum Error Correction with Torsion**|Samo Novák|[2405.03559](http://arxiv.org/abs/2405.03559)|null|
 |**2024-05-03**|**Special matrices over finite fields and their applications to quantum error-correcting codes**|Meng Cao|[2405.02285](http://arxiv.org/abs/2405.02285)|null|
 |**2024-05-03**|**Strategies for implementing quantum error correction in molecular rotation**|Brandon J. Furey, Zhenlin Wu, Mariano Isaza-Monsalve, Stefan Walser, Elyas Mattivi, René Nardi, Philipp Schindler|[2405.02236](http://arxiv.org/abs/2405.02236)|null|
 |**2024-05-02**|**How much entanglement is needed for quantum error correction?**|Sergey Bravyi, Dongjin Lee, Zhi Li, Beni Yoshida|[2405.01332](http://arxiv.org/abs/2405.01332)|null|

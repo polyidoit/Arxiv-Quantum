@@ -532,6 +532,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Bipartite OTOC in open quantum systems: information scrambling and irreversibility**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2405.03810](http://arxiv.org/abs/2405.03810)|null|
 |**2024-05-02**|**Floquet engineered inhomogeneous quantum chaos in critical systems**|Bastien Lapierre, Tokiro Numasawa, Titus Neupert, Shinsei Ryu|[2405.01642](http://arxiv.org/abs/2405.01642)|null|
 |**2024-05-02**|**Spectral form factor in chaotic, localized, and integrable open quantum many-body systems**|Jiachen Li, Stephen Yan, Tomaž Prosen, Amos Chan|[2405.01641](http://arxiv.org/abs/2405.01641)|null|
 |**2024-04-29**|**Quantum Benchmarking via Random Dynamical Quantum Maps**|Daniel Volya, Prabhat Mishra|[2404.18846](http://arxiv.org/abs/2404.18846)|null|
@@ -778,6 +779,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Near-optimal decoding algorithm for color codes using Population Annealing**|Fernando Martínez-García, Francisco Revson F. Pereira, Pedro Parrado-Rodríguez|[2405.03776](http://arxiv.org/abs/2405.03776)|null|
+|**2024-05-06**|**Mitigating errors in logical qubits**|Samuel C. Smith, Benjamin J. Brown, Stephen D. Bartlett|[2405.03766](http://arxiv.org/abs/2405.03766)|null|
 |**2024-05-06**|**Homological Quantum Error Correction with Torsion**|Samo Novák|[2405.03559](http://arxiv.org/abs/2405.03559)|null|
 |**2024-05-03**|**Special matrices over finite fields and their applications to quantum error-correcting codes**|Meng Cao|[2405.02285](http://arxiv.org/abs/2405.02285)|null|
 |**2024-05-03**|**Strategies for implementing quantum error correction in molecular rotation**|Brandon J. Furey, Zhenlin Wu, Mariano Isaza-Monsalve, Stefan Walser, Elyas Mattivi, René Nardi, Philipp Schindler|[2405.02236](http://arxiv.org/abs/2405.02236)|null|

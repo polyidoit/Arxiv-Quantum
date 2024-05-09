@@ -532,6 +532,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Subsystem Information Capacity in Random Circuits and Hamiltonian Dynamics**|Yu-Qin Chen, Shuo Liu, Shi-Xin Zhang|[2405.05076](http://arxiv.org/abs/2405.05076)|null|
 |**2024-05-06**|**Bipartite OTOC in open quantum systems: information scrambling and irreversibility**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2405.03810](http://arxiv.org/abs/2405.03810)|null|
 |**2024-05-02**|**Floquet engineered inhomogeneous quantum chaos in critical systems**|Bastien Lapierre, Tokiro Numasawa, Titus Neupert, Shinsei Ryu|[2405.01642](http://arxiv.org/abs/2405.01642)|null|
 |**2024-05-02**|**Spectral form factor in chaotic, localized, and integrable open quantum many-body systems**|Jiachen Li, Stephen Yan, Tomaž Prosen, Amos Chan|[2405.01641](http://arxiv.org/abs/2405.01641)|null|

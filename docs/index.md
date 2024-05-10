@@ -203,6 +203,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Quantum Resource Theories beyond Convexity**|Roberto Salazar, Jakub Czartowski, Ricard Ravell Rodríguez, Grzegorz Rajchel-Mieldzioć, Paweł Horodecki, Karol Życzkowski|[2405.05785](http://arxiv.org/abs/2405.05785)|null|
+|**2024-05-08**|**Many-time physics in practice: characterising and controlling non-Markovian quantum stochastic processes**|Gregory A. L. White|[2405.05416](http://arxiv.org/abs/2405.05416)|null|
 |**2024-04-18**|**The quantum gravity seeds for laws of nature**|Vincent Lam, Daniele Oriti|[2404.12248](http://arxiv.org/abs/2404.12248)|null|
 |**2024-05-06**|**Quantum Network Tomography via Learning Isometries on Stiefel Manifold**|Ze-Tong Li, Xin-Lin He, Cong-Cong Zheng, Yu-Qian Dong, Tian Luan, Xu-Tao Yu, Zai-Chen Zhang|[2404.06988](http://arxiv.org/abs/2404.06988)|null|
 |**2024-03-28**|**Parallel and real-time post-processing for quantum random number generators**|Xiaomin Guo, Fading Lin, Jiehong Lin, Zhijie Song, Yue luo, Qiqi Wang, Yanqiang Guo|[2403.19479](http://arxiv.org/abs/2403.19479)|null|
@@ -421,6 +423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Quantum Resource Theories beyond Convexity**|Roberto Salazar, Jakub Czartowski, Ricard Ravell Rodríguez, Grzegorz Rajchel-Mieldzioć, Paweł Horodecki, Karol Życzkowski|[2405.05785](http://arxiv.org/abs/2405.05785)|null|
 |**2024-04-30**|**Optimal quantum strategy for locating Unruh channels**|Qianqian Liu, Tonghua Liu, Cuihong Wen, Jieci Wang|[2404.19216](http://arxiv.org/abs/2404.19216)|null|
 |**2024-04-12**|**Code Generation and Performance Engineering for Matrix-Free Finite Element Methods on Hybrid Tetrahedral Grids**|Fabian Böhm, Daniel Bauer, Nils Kohl, Christie Alappat, Dominik Thönnes, Marcus Mohr, Harald Köstler, Ulrich Rüde|[2404.08371](http://arxiv.org/abs/2404.08371)|null|
 |**2024-04-10**|**Classical simulation and quantum resource theory of non-Gaussian optics**|Oliver Hahn, Ryuji Takagi, Giulia Ferrini, Hayata Yamasaki|[2404.07115](http://arxiv.org/abs/2404.07115)|null|
@@ -780,6 +783,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Characterization of errors in a CNOT between surface code patches**|Bálint Domokos, Áron Márton, János K. Asbóth|[2405.05337](http://arxiv.org/abs/2405.05337)|null|
 |**2024-05-06**|**Near-optimal decoding algorithm for color codes using Population Annealing**|Fernando Martínez-García, Francisco Revson F. Pereira, Pedro Parrado-Rodríguez|[2405.03776](http://arxiv.org/abs/2405.03776)|null|
 |**2024-05-06**|**Mitigating errors in logical qubits**|Samuel C. Smith, Benjamin J. Brown, Stephen D. Bartlett|[2405.03766](http://arxiv.org/abs/2405.03766)|null|
 |**2024-05-06**|**Homological Quantum Error Correction with Torsion**|Samo Novák|[2405.03559](http://arxiv.org/abs/2405.03559)|null|

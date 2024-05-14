@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 
 ## Bell nonlocality
 
@@ -17,7 +17,7 @@ layout: default
 |**2024-04-25**|**Violation of Bell inequalities in an analogue black hole**|Giorgio Ciliberto, Stephanie Emig, Nicolas Pavloff, Mathieu Isoard|[2404.16497](http://arxiv.org/abs/2404.16497)|null|
 |**2024-04-24**|**Generation of bipartite mechanical cat state by performing projective Bell state measurement**|Roson Nongthombam, Urmimala Dewan, Amarendra K. Sarma|[2404.16007](http://arxiv.org/abs/2404.16007)|null|
 |**2024-04-24**|**Creating entangled logical qubits in the heavy-hex lattice with topological codes**|Bence Hetényi, James R. Wootton|[2404.15989](http://arxiv.org/abs/2404.15989)|null|
-|**2024-04-22**|**Bell Correlations via Constrained Colliders -- a Path from W to V**|Huw Price|[2404.13928](http://arxiv.org/abs/2404.13928)|null|
+|**2024-05-12**|**W as the Edge of a Wedge: Bell Correlations via Constrained Colliders**|Huw Price|[2404.13928](http://arxiv.org/abs/2404.13928)|null|
 |**2024-04-17**|**On an Internal Dependence of Simultaneous Measurements**|Valentin Vankov Iliev|[2404.11263](http://arxiv.org/abs/2404.11263)|null|
 |**2024-04-11**|**Quantum tops at circular lepton colliders**|Fabio Maltoni, Claudio Severi, Simone Tentori, Eleni Vryonidou|[2404.08049](http://arxiv.org/abs/2404.08049)|null|
 |**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
@@ -790,7 +790,7 @@ layout: default
 |**2024-05-06**|**Near-optimal decoding algorithm for color codes using Population Annealing**|Fernando Martínez-García, Francisco Revson F. Pereira, Pedro Parrado-Rodríguez|[2405.03776](http://arxiv.org/abs/2405.03776)|null|
 |**2024-05-06**|**Mitigating errors in logical qubits**|Samuel C. Smith, Benjamin J. Brown, Stephen D. Bartlett|[2405.03766](http://arxiv.org/abs/2405.03766)|null|
 |**2024-05-06**|**Homological Quantum Error Correction with Torsion**|Samo Novák|[2405.03559](http://arxiv.org/abs/2405.03559)|null|
-|**2024-05-03**|**Special matrices over finite fields and their applications to quantum error-correcting codes**|Meng Cao|[2405.02285](http://arxiv.org/abs/2405.02285)|null|
+|**2024-05-11**|**Special matrices over finite fields and their applications to quantum error-correcting codes**|Meng Cao|[2405.02285](http://arxiv.org/abs/2405.02285)|null|
 |**2024-05-03**|**Strategies for implementing quantum error correction in molecular rotation**|Brandon J. Furey, Zhenlin Wu, Mariano Isaza-Monsalve, Stefan Walser, Elyas Mattivi, René Nardi, Philipp Schindler|[2405.02236](http://arxiv.org/abs/2405.02236)|null|
 |**2024-05-02**|**How much entanglement is needed for quantum error correction?**|Sergey Bravyi, Dongjin Lee, Zhi Li, Beni Yoshida|[2405.01332](http://arxiv.org/abs/2405.01332)|null|
 |**2024-05-02**|**Spanning Tree Matching Decoder for Quantum Surface Codes**|Diego Forlivesi, Lorenzo Valentini, Marco Chiani|[2405.01151](http://arxiv.org/abs/2405.01151)|null|

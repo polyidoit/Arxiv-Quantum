@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-12**|**Does gravitational wave assist vacuum steering and Bell nonlocality?**|Shu-Min Wu, Rui-Di Wang, Xiao-Li Huang, Zejun Wang|[2405.07235](http://arxiv.org/abs/2405.07235)|null|
+|**2024-05-12**|**Cosmological Bell Tests with Decoherence Effects**|Chon Man Sou, Junqi Wang, Yi Wang|[2405.07141](http://arxiv.org/abs/2405.07141)|null|
 |**2024-05-10**|**Sharing Asymmetric Einstein-Podolsky-Rosen Steering with Projective Measurements**|Yan-Xin Rong, Shuo Wang, Zhen-Fei Zhang, Yong-Jian Gu, Ya Xiao|[2405.06255](http://arxiv.org/abs/2405.06255)|null|
 |**2024-05-06**|**Kolmogorovian Censorship, Predictive Incompleteness, and the locality loophole in Bell experiments**|Philippe Grangier|[2405.03184](http://arxiv.org/abs/2405.03184)|null|
 |**2024-05-05**|**Trade-off relations between Bell nonlocality and local Kochen-Specker contextuality in generalized Bell scenarios**|Lucas E. A. Porto, Gabriel Ruffolo, Rafael Rabelo, Marcelo Terra Cunha, Pawel Kurzynski|[2405.02964](http://arxiv.org/abs/2405.02964)|null|
@@ -286,6 +288,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**A computational test of quantum contextuality, and even simpler proofs of quantumness**|Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo|[2405.06787](http://arxiv.org/abs/2405.06787)|null|
 |**2024-04-27**|**Tensor hypercontraction for fully self-consistent imaginary-time GF2 and GWSOX methods: theory, implementation, and role of the Green's function second-order exchange for intermolecular interactions**|Pavel Pokhilko, Chia-Nan Yeh, Miguel A. Morales, Dominika Zgid|[2404.17744](http://arxiv.org/abs/2404.17744)|null|
 |**2024-04-23**|**Mechanisms promoting biodiversity in ecosystems**|Ju Kang, Yiyuan Niu, Xin Wang|[2404.14859](http://arxiv.org/abs/2404.14859)|null|
 |**2024-04-15**|**Beable-guided measurement theory**|Aleksei M. Aleshin, Vladimir V. Nikitin, Petr I. Pronin|[2404.09934](http://arxiv.org/abs/2404.09934)|null|
@@ -370,6 +373,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-12**|**Does gravitational wave assist vacuum steering and Bell nonlocality?**|Shu-Min Wu, Rui-Di Wang, Xiao-Li Huang, Zejun Wang|[2405.07235](http://arxiv.org/abs/2405.07235)|null|
+|**2024-05-12**|**Photon loss effects on light-mediated non-Gaussian entangled Bose-Einstein condensates projecting with different photon measurement outcomes**|Shuai Gao, Manish Chaudhary, Alexey N. Pyrkov, Ebubechukwu O. Ilo-Okeke, Xin Meng, Jingyan Feng, Muhammad Jamil Khan, Tim Byners, Chaogang Lou|[2405.07153](http://arxiv.org/abs/2405.07153)|null|
 |**2024-05-10**|**Sharing Asymmetric Einstein-Podolsky-Rosen Steering with Projective Measurements**|Yan-Xin Rong, Shuo Wang, Zhen-Fei Zhang, Yong-Jian Gu, Ya Xiao|[2405.06255](http://arxiv.org/abs/2405.06255)|null|
 |**2024-05-06**|**Generalized Einstein-Podolsky-Rosen Steering Paradox**|Zhi-Jie Liu, Jie Zhou, Xing-Yan Fan, Mi Xie, Jing-Ling Chen|[2405.03100](http://arxiv.org/abs/2405.03100)|null|
 |**2024-04-30**|**Exploring the hierarchy of quantum correlations under thermal effects in two gravitational cat states**|Elhabib Jaloum, Mohamed Amazioug|[2404.19648](http://arxiv.org/abs/2404.19648)|null|
@@ -556,6 +561,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Simulating Floquet scrambling circuits on trapped-ion quantum computers**|Kazuhiro Seki, Yuta Kikuchi, Tomoya Hayata, Seiji Yunoki|[2405.07613](http://arxiv.org/abs/2405.07613)|null|
 |**2024-05-08**|**Subsystem Information Capacity in Random Circuits and Hamiltonian Dynamics**|Yu-Qin Chen, Shuo Liu, Shi-Xin Zhang|[2405.05076](http://arxiv.org/abs/2405.05076)|null|
 |**2024-05-06**|**Bipartite OTOC in open quantum systems: information scrambling and irreversibility**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2405.03810](http://arxiv.org/abs/2405.03810)|null|
 |**2024-05-02**|**Floquet engineered inhomogeneous quantum chaos in critical systems**|Bastien Lapierre, Tokiro Numasawa, Titus Neupert, Shinsei Ryu|[2405.01642](http://arxiv.org/abs/2405.01642)|null|
@@ -806,7 +812,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-09**|**Sequentially Encodable Codeword Stabilized Codes**|Sowrabh Sudevan, Sourin Das, Thamadathil Aswanth, Navin Kashyap|[2405.06142](http://arxiv.org/abs/2405.06142)|null|
+|**2024-05-13**|**Generalizing Quantum Tanner Codes**|Olai Å. Mostad, Eirik Rosnes, Hsuan-Yin Lin|[2405.07980](http://arxiv.org/abs/2405.07980)|null|
+|**2024-05-13**|**How much entanglement is needed for emergent anyons and fermions?**|Zhi Li, Dongjin Lee, Beni Yoshida|[2405.07970](http://arxiv.org/abs/2405.07970)|null|
+|**2024-05-13**|**The $σ$ hulls of matrix-product codes and related entanglement-assisted quantum error-correcting codes**|Meng Cao|[2405.07740](http://arxiv.org/abs/2405.07740)|null|
+|**2024-05-13**|**Efficient soft-output decoders for the surface code**|Nadine Meister, Christopher A. Pattison, John Preskill|[2405.07433](http://arxiv.org/abs/2405.07433)|null|
+|**2024-05-12**|**Fault-Tolerant Quantum LDPC Encoders**|Abhi Kumar Sharma, Shayan Srinivasa Garan|[2405.07242](http://arxiv.org/abs/2405.07242)|null|
+|**2024-05-11**|**FlexiSCD: Flexible Surface Code Deformer for Dynamic Defects**|Keyi Yin, Hezi Zhang, Yunong Shi, Travis Humble, Ang Li, Yufei Ding|[2405.06941](http://arxiv.org/abs/2405.06941)|null|
+|**2024-05-10**|**Quantum Error Correction for Kids**|Richard A. Wolf|[2405.06795](http://arxiv.org/abs/2405.06795)|null|
+|**2024-05-13**|**Sequentially Encodable Codeword Stabilized Codes**|Sowrabh Sudevan, Sourin Das, Thamadathil Aswanth, Navin Kashyap|[2405.06142](http://arxiv.org/abs/2405.06142)|null|
 |**2024-05-08**|**Characterization of errors in a CNOT between surface code patches**|Bálint Domokos, Áron Márton, János K. Asbóth|[2405.05337](http://arxiv.org/abs/2405.05337)|null|
 |**2024-05-06**|**Near-optimal decoding algorithm for color codes using Population Annealing**|Fernando Martínez-García, Francisco Revson F. Pereira, Pedro Parrado-Rodríguez|[2405.03776](http://arxiv.org/abs/2405.03776)|null|
 |**2024-05-06**|**Mitigating errors in logical qubits**|Samuel C. Smith, Benjamin J. Brown, Stephen D. Bartlett|[2405.03766](http://arxiv.org/abs/2405.03766)|null|

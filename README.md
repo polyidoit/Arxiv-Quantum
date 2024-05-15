@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Robust self-testing of Bell inequalities tilted for maximal loophole-free nonlocality**|Nicolas Gigena, Ekta Panwar, Giovanni Scala, Mateus Araújo, Máté Farkas, Anubhav Chaturvedi|[2405.08743](http://arxiv.org/abs/2405.08743)|null|
+|**2024-05-13**|**Direct and Efficient Detection of Quantum Superposition**|Daniel Kun, Teodor Strömberg, Michele Spagnolo, Borivoje Dakić, Lee A. Rozema, Philip Walther|[2405.08065](http://arxiv.org/abs/2405.08065)|null|
 |**2024-05-12**|**Does gravitational wave assist vacuum steering and Bell nonlocality?**|Shu-Min Wu, Rui-Di Wang, Xiao-Li Huang, Zejun Wang|[2405.07235](http://arxiv.org/abs/2405.07235)|null|
 |**2024-05-12**|**Cosmological Bell Tests with Decoherence Effects**|Chon Man Sou, Junqi Wang, Yi Wang|[2405.07141](http://arxiv.org/abs/2405.07141)|null|
 |**2024-05-10**|**Sharing Asymmetric Einstein-Podolsky-Rosen Steering with Projective Measurements**|Yan-Xin Rong, Shuo Wang, Zhen-Fei Zhang, Yong-Jian Gu, Ya Xiao|[2405.06255](http://arxiv.org/abs/2405.06255)|null|
@@ -373,6 +375,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Sharing Quantum Steering via Standard Projective Measurements**|Shufen Dong, Zinuo Cai, Chunfeng Wu, Changliang Ren|[2405.08588](http://arxiv.org/abs/2405.08588)|null|
 |**2024-05-12**|**Does gravitational wave assist vacuum steering and Bell nonlocality?**|Shu-Min Wu, Rui-Di Wang, Xiao-Li Huang, Zejun Wang|[2405.07235](http://arxiv.org/abs/2405.07235)|null|
 |**2024-05-12**|**Photon loss effects on light-mediated non-Gaussian entangled Bose-Einstein condensates projecting with different photon measurement outcomes**|Shuai Gao, Manish Chaudhary, Alexey N. Pyrkov, Ebubechukwu O. Ilo-Okeke, Xin Meng, Jingyan Feng, Muhammad Jamil Khan, Tim Byners, Chaogang Lou|[2405.07153](http://arxiv.org/abs/2405.07153)|null|
 |**2024-05-10**|**Sharing Asymmetric Einstein-Podolsky-Rosen Steering with Projective Measurements**|Yan-Xin Rong, Shuo Wang, Zhen-Fei Zhang, Yong-Jian Gu, Ya Xiao|[2405.06255](http://arxiv.org/abs/2405.06255)|null|
@@ -561,6 +564,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**From the Quantum Breakdown Model to the Lattice Gauge Theory**|Yu-Min Hu, Biao Lian|[2405.08273](http://arxiv.org/abs/2405.08273)|null|
 |**2024-05-13**|**Simulating Floquet scrambling circuits on trapped-ion quantum computers**|Kazuhiro Seki, Yuta Kikuchi, Tomoya Hayata, Seiji Yunoki|[2405.07613](http://arxiv.org/abs/2405.07613)|null|
 |**2024-05-08**|**Subsystem Information Capacity in Random Circuits and Hamiltonian Dynamics**|Yu-Qin Chen, Shuo Liu, Shi-Xin Zhang|[2405.05076](http://arxiv.org/abs/2405.05076)|null|
 |**2024-05-06**|**Bipartite OTOC in open quantum systems: information scrambling and irreversibility**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2405.03810](http://arxiv.org/abs/2405.03810)|null|

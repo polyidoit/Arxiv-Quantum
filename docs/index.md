@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 
 ## Bell nonlocality
 
@@ -800,7 +800,7 @@ layout: default
 |**2024-05-13**|**The $σ$ hulls of matrix-product codes and related entanglement-assisted quantum error-correcting codes**|Meng Cao|[2405.07740](http://arxiv.org/abs/2405.07740)|null|
 |**2024-05-13**|**Efficient soft-output decoders for the surface code**|Nadine Meister, Christopher A. Pattison, John Preskill|[2405.07433](http://arxiv.org/abs/2405.07433)|null|
 |**2024-05-12**|**Fault-Tolerant Quantum LDPC Encoders**|Abhi Kumar Sharma, Shayan Srinivasa Garan|[2405.07242](http://arxiv.org/abs/2405.07242)|null|
-|**2024-05-11**|**FlexiSCD: Flexible Surface Code Deformer for Dynamic Defects**|Keyi Yin, Hezi Zhang, Yunong Shi, Travis Humble, Ang Li, Yufei Ding|[2405.06941](http://arxiv.org/abs/2405.06941)|null|
+|**2024-05-14**|**FlexiSCD: Flexible Surface Code Deformer for Dynamic Defects**|Keyi Yin, Xiang Fang, Yunong Shi, Travis Humble, Ang Li, Yufei Ding|[2405.06941](http://arxiv.org/abs/2405.06941)|null|
 |**2024-05-10**|**Quantum Error Correction for Kids**|Richard A. Wolf|[2405.06795](http://arxiv.org/abs/2405.06795)|null|
 |**2024-05-13**|**Sequentially Encodable Codeword Stabilized Codes**|Sowrabh Sudevan, Sourin Das, Thamadathil Aswanth, Navin Kashyap|[2405.06142](http://arxiv.org/abs/2405.06142)|null|
 |**2024-05-08**|**Characterization of errors in a CNOT between surface code patches**|Bálint Domokos, Áron Márton, János K. Asbóth|[2405.05337](http://arxiv.org/abs/2405.05337)|null|

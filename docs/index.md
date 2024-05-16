@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Quantum tomography with $τ$ leptons at the FCC-ee**|M. Fabbrichesi, L. Marzola|[2405.09201](http://arxiv.org/abs/2405.09201)|null|
+|**2024-05-14**|**Exploring the Local Landscape in the Triangle Network**|Elisa Bäumer, Victor Gitton, Tamás Kriváchy, Nicolas Gisin, Renato Renner|[2405.08939](http://arxiv.org/abs/2405.08939)|**[link](https://github.com/tkrivachy/triangle-nonlocality-symmetric-subspace)**|
 |**2024-05-14**|**Robust self-testing of Bell inequalities tilted for maximal loophole-free nonlocality**|Nicolas Gigena, Ekta Panwar, Giovanni Scala, Mateus Araújo, Máté Farkas, Anubhav Chaturvedi|[2405.08743](http://arxiv.org/abs/2405.08743)|null|
 |**2024-05-13**|**Direct and Efficient Detection of Quantum Superposition**|Daniel Kun, Teodor Strömberg, Michele Spagnolo, Borivoje Dakić, Lee A. Rozema, Philip Walther|[2405.08065](http://arxiv.org/abs/2405.08065)|null|
 |**2024-05-12**|**Does gravitational wave assist vacuum steering and Bell nonlocality?**|Shu-Min Wu, Rui-Di Wang, Xiao-Li Huang, Zejun Wang|[2405.07235](http://arxiv.org/abs/2405.07235)|null|
@@ -433,6 +435,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Finite-size catalysis in quantum resource theories**|Patryk Lipka-Bartosik, Kamil Korzekwa|[2405.08914](http://arxiv.org/abs/2405.08914)|null|
 |**2024-05-09**|**Quantum Resource Theories beyond Convexity**|Roberto Salazar, Jakub Czartowski, Ricard Ravell Rodríguez, Grzegorz Rajchel-Mieldzioć, Paweł Horodecki, Karol Życzkowski|[2405.05785](http://arxiv.org/abs/2405.05785)|null|
 |**2024-04-30**|**Optimal quantum strategy for locating Unruh channels**|Qianqian Liu, Tonghua Liu, Cuihong Wen, Jieci Wang|[2404.19216](http://arxiv.org/abs/2404.19216)|null|
 |**2024-04-12**|**Code Generation and Performance Engineering for Matrix-Free Finite Element Methods on Hybrid Tetrahedral Grids**|Fabian Böhm, Daniel Bauer, Nils Kohl, Christie Alappat, Dominik Thönnes, Marcus Mohr, Harald Köstler, Ulrich Rüde|[2404.08371](http://arxiv.org/abs/2404.08371)|null|
@@ -545,6 +548,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**QMedShield: A Novel Quantum Chaos-based Image Encryption Scheme for Secure Medical Image Storage in the Cloud**|Arun Amaithi Rajan, Vetriselvi V|[2405.09191](http://arxiv.org/abs/2405.09191)|null|
 |**2024-05-14**|**From the Quantum Breakdown Model to the Lattice Gauge Theory**|Yu-Min Hu, Biao Lian|[2405.08273](http://arxiv.org/abs/2405.08273)|null|
 |**2024-05-13**|**Simulating Floquet scrambling circuits on trapped-ion quantum computers**|Kazuhiro Seki, Yuta Kikuchi, Tomoya Hayata, Seiji Yunoki|[2405.07613](http://arxiv.org/abs/2405.07613)|null|
 |**2024-05-08**|**Subsystem Information Capacity in Random Circuits and Hamiltonian Dynamics**|Yu-Qin Chen, Shuo Liu, Shi-Xin Zhang|[2405.05076](http://arxiv.org/abs/2405.05076)|null|
@@ -795,6 +799,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Logical coherence in 2D compass codes**|Balint Pato, Judd Will Staples Jr., Kenneth R. Brown|[2405.09287](http://arxiv.org/abs/2405.09287)|null|
+|**2024-05-15**|**Demonstrating a universal logical gate set on a superconducting quantum processor**|Jiaxuan Zhang, Zhao-Yun Chen, Yun-Jie Wang, Bin-Han Lu, Hai-Feng Zhang, Jia-Ning Li, Peng Duan, Yu-Chun Wu, Guo-Ping Guo|[2405.09035](http://arxiv.org/abs/2405.09035)|null|
+|**2024-05-14**|**Enabling Leakage Reduction via Fast and High-Fidelity Qutrit Readout**|Chaithanya Naik Mude, Satvik Maurya, Benjamin Lienhard, Swamit Tannu|[2405.08982](http://arxiv.org/abs/2405.08982)|null|
 |**2024-05-13**|**Generalizing Quantum Tanner Codes**|Olai Å. Mostad, Eirik Rosnes, Hsuan-Yin Lin|[2405.07980](http://arxiv.org/abs/2405.07980)|null|
 |**2024-05-13**|**How much entanglement is needed for emergent anyons and fermions?**|Zhi Li, Dongjin Lee, Beni Yoshida|[2405.07970](http://arxiv.org/abs/2405.07970)|null|
 |**2024-05-13**|**The $σ$ hulls of matrix-product codes and related entanglement-assisted quantum error-correcting codes**|Meng Cao|[2405.07740](http://arxiv.org/abs/2405.07740)|null|

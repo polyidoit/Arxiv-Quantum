@@ -279,6 +279,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Revisiting the exclusion principle in epidemiology at its ultimate limit**|Nir Gavish|[2405.09813](http://arxiv.org/abs/2405.09813)|null|
 |**2024-05-10**|**A computational test of quantum contextuality, and even simpler proofs of quantumness**|Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo|[2405.06787](http://arxiv.org/abs/2405.06787)|null|
 |**2024-04-27**|**Tensor hypercontraction for fully self-consistent imaginary-time GF2 and GWSOX methods: theory, implementation, and role of the Green's function second-order exchange for intermolecular interactions**|Pavel Pokhilko, Chia-Nan Yeh, Miguel A. Morales, Dominika Zgid|[2404.17744](http://arxiv.org/abs/2404.17744)|null|
 |**2024-04-23**|**Mechanisms promoting biodiversity in ecosystems**|Ju Kang, Yiyuan Niu, Xin Wang|[2404.14859](http://arxiv.org/abs/2404.14859)|null|
@@ -548,6 +549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Quantum Dynamics in Krylov Space: Methods and Applications**|Pratik Nandy, Apollonas S. Matsoukas-Roubeas, Pablo Martínez-Azcona, Anatoly Dymarsky, Adolfo del Campo|[2405.09628](http://arxiv.org/abs/2405.09628)|null|
 |**2024-05-15**|**QMedShield: A Novel Quantum Chaos-based Image Encryption Scheme for Secure Medical Image Storage in the Cloud**|Arun Amaithi Rajan, Vetriselvi V|[2405.09191](http://arxiv.org/abs/2405.09191)|null|
 |**2024-05-14**|**From the Quantum Breakdown Model to the Lattice Gauge Theory**|Yu-Min Hu, Biao Lian|[2405.08273](http://arxiv.org/abs/2405.08273)|null|
 |**2024-05-13**|**Simulating Floquet scrambling circuits on trapped-ion quantum computers**|Kazuhiro Seki, Yuta Kikuchi, Tomoya Hayata, Seiji Yunoki|[2405.07613](http://arxiv.org/abs/2405.07613)|null|
@@ -803,7 +805,7 @@ layout: default
 |**2024-05-15**|**Demonstrating a universal logical gate set on a superconducting quantum processor**|Jiaxuan Zhang, Zhao-Yun Chen, Yun-Jie Wang, Bin-Han Lu, Hai-Feng Zhang, Jia-Ning Li, Peng Duan, Yu-Chun Wu, Guo-Ping Guo|[2405.09035](http://arxiv.org/abs/2405.09035)|null|
 |**2024-05-14**|**Enabling Leakage Reduction via Fast and High-Fidelity Qutrit Readout**|Chaithanya Naik Mude, Satvik Maurya, Benjamin Lienhard, Swamit Tannu|[2405.08982](http://arxiv.org/abs/2405.08982)|null|
 |**2024-05-13**|**Generalizing Quantum Tanner Codes**|Olai Å. Mostad, Eirik Rosnes, Hsuan-Yin Lin|[2405.07980](http://arxiv.org/abs/2405.07980)|null|
-|**2024-05-13**|**How much entanglement is needed for emergent anyons and fermions?**|Zhi Li, Dongjin Lee, Beni Yoshida|[2405.07970](http://arxiv.org/abs/2405.07970)|null|
+|**2024-05-16**|**How much entanglement is needed for emergent anyons and fermions?**|Zhi Li, Dongjin Lee, Beni Yoshida|[2405.07970](http://arxiv.org/abs/2405.07970)|null|
 |**2024-05-13**|**The $σ$ hulls of matrix-product codes and related entanglement-assisted quantum error-correcting codes**|Meng Cao|[2405.07740](http://arxiv.org/abs/2405.07740)|null|
 |**2024-05-13**|**Efficient soft-output decoders for the surface code**|Nadine Meister, Christopher A. Pattison, John Preskill|[2405.07433](http://arxiv.org/abs/2405.07433)|null|
 |**2024-05-12**|**Fault-Tolerant Quantum LDPC Encoders**|Abhi Kumar Sharma, Shayan Srinivasa Garan|[2405.07242](http://arxiv.org/abs/2405.07242)|null|

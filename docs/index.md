@@ -436,6 +436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Second Law of Entanglement Manipulation with Entanglement Battery**|Ray Ganardi, Tulja Varun Kondra, Nelly H. Y. Ng, Alexander Streltsov|[2405.10599](http://arxiv.org/abs/2405.10599)|null|
 |**2024-05-14**|**Finite-size catalysis in quantum resource theories**|Patryk Lipka-Bartosik, Kamil Korzekwa|[2405.08914](http://arxiv.org/abs/2405.08914)|null|
 |**2024-05-09**|**Quantum Resource Theories beyond Convexity**|Roberto Salazar, Jakub Czartowski, Ricard Ravell Rodríguez, Grzegorz Rajchel-Mieldzioć, Paweł Horodecki, Karol Życzkowski|[2405.05785](http://arxiv.org/abs/2405.05785)|null|
 |**2024-04-30**|**Optimal quantum strategy for locating Unruh channels**|Qianqian Liu, Tonghua Liu, Cuihong Wen, Jieci Wang|[2404.19216](http://arxiv.org/abs/2404.19216)|null|

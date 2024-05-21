@@ -292,6 +292,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-18**|**Random close packing of binary hard spheres predicts the stability of atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
 |**2024-05-16**|**Revisiting the exclusion principle in epidemiology at its ultimate limit**|Nir Gavish|[2405.09813](http://arxiv.org/abs/2405.09813)|null|
 |**2024-05-10**|**A computational test of quantum contextuality, and even simpler proofs of quantumness**|Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo|[2405.06787](http://arxiv.org/abs/2405.06787)|null|
 |**2024-04-27**|**Tensor hypercontraction for fully self-consistent imaginary-time GF2 and GWSOX methods: theory, implementation, and role of the Green's function second-order exchange for intermolecular interactions**|Pavel Pokhilko, Chia-Nan Yeh, Miguel A. Morales, Dominika Zgid|[2404.17744](http://arxiv.org/abs/2404.17744)|null|
@@ -453,6 +454,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Optimal Update Policy for the Monitoring of Distributed Sources**|Eric Graves, Jake B. Perazzone, Kevin Chan|[2405.11089](http://arxiv.org/abs/2405.11089)|null|
+|**2024-05-17**|**Characterization of the ELM-free Negative Triangularity Edge on DIII-D**|A. O. Nelson, L. Schmitz, T. Cote, J. F. Parisi, S. Stewart, C. Paz-Soldan, K. E. Thome, M. E. Austin, F. Scotti, J. L. Barr, A. Hyatt, N. Leuthold, A. Marinoni, T. Neiser, T. Osborne, N. Richner, A. S. Welander, W. P. Wehner, R. Wilcox, T. M. Wilks, J. Yang|[2405.11082](http://arxiv.org/abs/2405.11082)|null|
 |**2024-05-17**|**Second Law of Entanglement Manipulation with Entanglement Battery**|Ray Ganardi, Tulja Varun Kondra, Nelly H. Y. Ng, Alexander Streltsov|[2405.10599](http://arxiv.org/abs/2405.10599)|null|
 |**2024-05-14**|**Finite-size catalysis in quantum resource theories**|Patryk Lipka-Bartosik, Kamil Korzekwa|[2405.08914](http://arxiv.org/abs/2405.08914)|null|
 |**2024-05-09**|**Quantum Resource Theories beyond Convexity**|Roberto Salazar, Jakub Czartowski, Ricard Ravell Rodríguez, Grzegorz Rajchel-Mieldzioć, Paweł Horodecki, Karol Życzkowski|[2405.05785](http://arxiv.org/abs/2405.05785)|null|
@@ -569,6 +572,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Noise-tolerant learnability of shallow quantum circuits from statistics and the cost of quantum pseudorandomness**|Chirag Wadhwa, Mina Doosti|[2405.12085](http://arxiv.org/abs/2405.12085)|null|
+|**2024-05-19**|**Attention to Quantum Complexity**|Hyejin Kim, Yiqing Zhou, Yichen Xu, Kaarthik Varma, Amir H. Karamlou, Ilan T. Rosen, Jesse C. Hoke, Chao Wan, Jin Peng Zhou, William D. Oliver, Yuri D. Lensky, Kilian Q. Weinberger, Eun-Ah Kim|[2405.11632](http://arxiv.org/abs/2405.11632)|null|
 |**2024-05-15**|**Quantum Dynamics in Krylov Space: Methods and Applications**|Pratik Nandy, Apollonas S. Matsoukas-Roubeas, Pablo Martínez-Azcona, Anatoly Dymarsky, Adolfo del Campo|[2405.09628](http://arxiv.org/abs/2405.09628)|null|
 |**2024-05-15**|**QMedShield: A Novel Quantum Chaos-based Image Encryption Scheme for Secure Medical Image Storage in the Cloud**|Arun Amaithi Rajan, Vetriselvi V|[2405.09191](http://arxiv.org/abs/2405.09191)|null|
 |**2024-05-14**|**From the Quantum Breakdown Model to the Lattice Gauge Theory**|Yu-Min Hu, Biao Lian|[2405.08273](http://arxiv.org/abs/2405.08273)|null|

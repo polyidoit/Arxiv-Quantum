@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 
 ## Bell nonlocality
 
@@ -279,7 +279,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-18**|**Random close packing of binary hard spheres predicts the stability of atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
+|**2024-05-21**|**Random close packing of binary hard spheres predicts the stability of atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
 |**2024-05-16**|**Revisiting the exclusion principle in epidemiology at its ultimate limit**|Nir Gavish|[2405.09813](http://arxiv.org/abs/2405.09813)|null|
 |**2024-05-10**|**A computational test of quantum contextuality, and even simpler proofs of quantumness**|Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo|[2405.06787](http://arxiv.org/abs/2405.06787)|null|
 |**2024-04-27**|**Tensor hypercontraction for fully self-consistent imaginary-time GF2 and GWSOX methods: theory, implementation, and role of the Green's function second-order exchange for intermolecular interactions**|Pavel Pokhilko, Chia-Nan Yeh, Miguel A. Morales, Dominika Zgid|[2404.17744](http://arxiv.org/abs/2404.17744)|null|

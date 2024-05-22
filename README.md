@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Measurement dependence can enhance security in a quantum network**|Amit Kundu, Debasis Sarkar|[2405.12379](http://arxiv.org/abs/2405.12379)|null|
 |**2024-05-15**|**Quantum tomography with $τ$ leptons at the FCC-ee**|M. Fabbrichesi, L. Marzola|[2405.09201](http://arxiv.org/abs/2405.09201)|null|
 |**2024-05-14**|**Exploring the Local Landscape in the Triangle Network**|Elisa Bäumer, Victor Gitton, Tamás Kriváchy, Nicolas Gisin, Renato Renner|[2405.08939](http://arxiv.org/abs/2405.08939)|**[link](https://github.com/tkrivachy/triangle-nonlocality-symmetric-subspace)**|
 |**2024-05-14**|**Robust self-testing of Bell inequalities tilted for maximal loophole-free nonlocality**|Nicolas Gigena, Ekta Panwar, Giovanni Scala, Mateus Araújo, Máté Farkas, Anubhav Chaturvedi|[2405.08743](http://arxiv.org/abs/2405.08743)|null|
@@ -454,6 +455,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**On disjoint dynamical properties and Lipschitz-free spaces**|Ch. Cobollo, A. Peris|[2405.12626](http://arxiv.org/abs/2405.12626)|null|
 |**2024-05-17**|**Optimal Update Policy for the Monitoring of Distributed Sources**|Eric Graves, Jake B. Perazzone, Kevin Chan|[2405.11089](http://arxiv.org/abs/2405.11089)|null|
 |**2024-05-17**|**Characterization of the ELM-free Negative Triangularity Edge on DIII-D**|A. O. Nelson, L. Schmitz, T. Cote, J. F. Parisi, S. Stewart, C. Paz-Soldan, K. E. Thome, M. E. Austin, F. Scotti, J. L. Barr, A. Hyatt, N. Leuthold, A. Marinoni, T. Neiser, T. Osborne, N. Richner, A. S. Welander, W. P. Wehner, R. Wilcox, T. M. Wilks, J. Yang|[2405.11082](http://arxiv.org/abs/2405.11082)|null|
 |**2024-05-17**|**Second Law of Entanglement Manipulation with Entanglement Battery**|Ray Ganardi, Tulja Varun Kondra, Nelly H. Y. Ng, Alexander Streltsov|[2405.10599](http://arxiv.org/abs/2405.10599)|null|
@@ -572,6 +574,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Out-of-time-order correlators in electronic structure using Quantum Computers**|K. J. Joven, V. M. Bastidas|[2405.12289](http://arxiv.org/abs/2405.12289)|null|
 |**2024-05-20**|**Noise-tolerant learnability of shallow quantum circuits from statistics and the cost of quantum pseudorandomness**|Chirag Wadhwa, Mina Doosti|[2405.12085](http://arxiv.org/abs/2405.12085)|null|
 |**2024-05-19**|**Attention to Quantum Complexity**|Hyejin Kim, Yiqing Zhou, Yichen Xu, Kaarthik Varma, Amir H. Karamlou, Ilan T. Rosen, Jesse C. Hoke, Chao Wan, Jin Peng Zhou, William D. Oliver, Yuri D. Lensky, Kilian Q. Weinberger, Eun-Ah Kim|[2405.11632](http://arxiv.org/abs/2405.11632)|null|
 |**2024-05-15**|**Quantum Dynamics in Krylov Space: Methods and Applications**|Pratik Nandy, Apollonas S. Matsoukas-Roubeas, Pablo Martínez-Azcona, Anatoly Dymarsky, Adolfo del Campo|[2405.09628](http://arxiv.org/abs/2405.09628)|null|

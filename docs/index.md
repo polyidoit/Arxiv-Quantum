@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Effects of Topological Boundary Conditions on Bell Nonlocality**|Patrick Emonts, Mengyao Hu, Albert Aloy, Jordi Tura|[2405.14587](http://arxiv.org/abs/2405.14587)|null|
+|**2024-05-23**|**Bell Nonlocality from Wigner Negativity in Qudit Systems**|Uta Isabella Meyer, Ivan Šupić, Damian Markham, Frédéric Grosshans|[2405.14367](http://arxiv.org/abs/2405.14367)|null|
 |**2024-05-20**|**Measurement dependence can enhance security in a quantum network**|Amit Kundu, Debasis Sarkar|[2405.12379](http://arxiv.org/abs/2405.12379)|null|
 |**2024-05-15**|**Quantum tomography with $τ$ leptons at the FCC-ee**|M. Fabbrichesi, L. Marzola|[2405.09201](http://arxiv.org/abs/2405.09201)|null|
 |**2024-05-14**|**Exploring the Local Landscape in the Triangle Network**|Elisa Bäumer, Victor Gitton, Tamás Kriváchy, Nicolas Gisin, Renato Renner|[2405.08939](http://arxiv.org/abs/2405.08939)|**[link](https://github.com/tkrivachy/triangle-nonlocality-symmetric-subspace)**|
@@ -438,6 +440,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Search for inhomogeneous Meissner screening in Nb induced by low-temperature surface treatments**|Ryan M. L. McFadden, Tobias Junginger|[2405.14615](http://arxiv.org/abs/2405.14615)|null|
+|**2024-05-23**|**Coherence-mixedness trade-offs**|Qing-Hua Zhang, Shao-Ming Fei|[2405.14337](http://arxiv.org/abs/2405.14337)|null|
+|**2024-05-23**|**Room-temperature waveguide-integrated photodetector using bolometric effect for mid-infrared spectroscopy applications**|Joonsup Shim, Jinha Lim, Inki Kim, Jaeyong Jeong, Bong Ho Kim, Seong Kwang Kim, Dae-Myeong Geum, SangHyeon Kim|[2405.14155](http://arxiv.org/abs/2405.14155)|null|
 |**2024-05-21**|**On disjoint dynamical properties and Lipschitz-free spaces**|Ch. Cobollo, A. Peris|[2405.12626](http://arxiv.org/abs/2405.12626)|null|
 |**2024-05-17**|**Optimal Update Policy for the Monitoring of Distributed Sources**|Eric Graves, Jake B. Perazzone, Kevin Chan|[2405.11089](http://arxiv.org/abs/2405.11089)|null|
 |**2024-05-17**|**Characterization of the ELM-free Negative Triangularity Edge on DIII-D**|A. O. Nelson, L. Schmitz, T. Cote, J. F. Parisi, S. Stewart, C. Paz-Soldan, K. E. Thome, M. E. Austin, F. Scotti, J. L. Barr, A. Hyatt, N. Leuthold, A. Marinoni, T. Neiser, T. Osborne, N. Richner, A. S. Welander, W. P. Wehner, R. Wilcox, T. M. Wilks, J. Yang|[2405.11082](http://arxiv.org/abs/2405.11082)|null|
@@ -555,6 +560,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Quantum Chaos in Random Ising Networks**|András Grabarits, Kasturi Ranjan Swain, Mahsa Seyed Heydari, Pranav Chandarana, Fernando J. Gómez-Ruiz, Adolfo del Campo|[2405.14376](http://arxiv.org/abs/2405.14376)|null|
 |**2024-05-20**|**Out-of-time-order correlators in electronic structure using Quantum Computers**|K. J. Joven, V. M. Bastidas|[2405.12289](http://arxiv.org/abs/2405.12289)|null|
 |**2024-05-20**|**Noise-tolerant learnability of shallow quantum circuits from statistics and the cost of quantum pseudorandomness**|Chirag Wadhwa, Mina Doosti|[2405.12085](http://arxiv.org/abs/2405.12085)|null|
 |**2024-05-19**|**Attention to Quantum Complexity**|Hyejin Kim, Yiqing Zhou, Yichen Xu, Kaarthik Varma, Amir H. Karamlou, Ilan T. Rosen, Jesse C. Hoke, Chao Wan, Jin Peng Zhou, William D. Oliver, Yuri D. Lensky, Kilian Q. Weinberger, Eun-Ah Kim|[2405.11632](http://arxiv.org/abs/2405.11632)|null|
@@ -810,6 +816,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Efficient recursive encoders for quantum Reed-Muller codes towards Fault tolerance**|Praveen Jayakumar, Priya J. Nadkarni, Shayan Srinivasa Garani|[2405.14549](http://arxiv.org/abs/2405.14549)|null|
+|**2024-05-22**|**Reducing Mid-Circuit Measurements via Probabilistic Circuits**|Yanbin Chen, Innocenzo Fulginiti, Christian B. Mendl|[2405.13747](http://arxiv.org/abs/2405.13747)|null|
 |**2024-05-15**|**Logical coherence in 2D compass codes**|Balint Pato, Judd Will Staples Jr., Kenneth R. Brown|[2405.09287](http://arxiv.org/abs/2405.09287)|null|
 |**2024-05-15**|**Demonstrating a universal logical gate set on a superconducting quantum processor**|Jiaxuan Zhang, Zhao-Yun Chen, Yun-Jie Wang, Bin-Han Lu, Hai-Feng Zhang, Jia-Ning Li, Peng Duan, Yu-Chun Wu, Guo-Ping Guo|[2405.09035](http://arxiv.org/abs/2405.09035)|null|
 |**2024-05-14**|**Enabling Leakage Reduction via Fast and High-Fidelity Qutrit Readout**|Chaithanya Naik Mude, Satvik Maurya, Benjamin Lienhard, Swamit Tannu|[2405.08982](http://arxiv.org/abs/2405.08982)|null|

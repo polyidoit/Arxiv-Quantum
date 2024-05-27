@@ -298,6 +298,7 @@
 |**2024-05-21**|**Random close packing of binary hard spheres predicts the stability of atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
 |**2024-05-16**|**Revisiting the exclusion principle in epidemiology at its ultimate limit**|Nir Gavish|[2405.09813](http://arxiv.org/abs/2405.09813)|null|
 |**2024-05-10**|**A computational test of quantum contextuality, and even simpler proofs of quantumness**|Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo|[2405.06787](http://arxiv.org/abs/2405.06787)|null|
+|**2024-05-24**|**Investigating entropic dynamics of multiqubit cavity QED system**|Hui-hui Miao|[2405.05696](http://arxiv.org/abs/2405.05696)|null|
 |**2024-04-27**|**Tensor hypercontraction for fully self-consistent imaginary-time GF2 and GWSOX methods: theory, implementation, and role of the Green's function second-order exchange for intermolecular interactions**|Pavel Pokhilko, Chia-Nan Yeh, Miguel A. Morales, Dominika Zgid|[2404.17744](http://arxiv.org/abs/2404.17744)|null|
 |**2024-04-23**|**Mechanisms promoting biodiversity in ecosystems**|Ju Kang, Yiyuan Niu, Xin Wang|[2404.14859](http://arxiv.org/abs/2404.14859)|null|
 |**2024-04-15**|**Beable-guided measurement theory**|Aleksei M. Aleshin, Vladimir V. Nikitin, Petr I. Pronin|[2404.09934](http://arxiv.org/abs/2404.09934)|null|
@@ -579,6 +580,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Local and nonlocal stochastic control of quantum chaos: Measurement- and control-induced criticality**|Haining Pan, Sriram Ganeshan, Thomas Iadecola, Justin H. Wilson, J. H. Pixley|[2405.14936](http://arxiv.org/abs/2405.14936)|null|
+|**2024-05-23**|**Arresting Quantum Chaos Dynamically in Transmon Arrays**|Rohit Mukherjee, Haoyu Guo, Keiran Lewellen, Debanjan Chowdhury|[2405.14935](http://arxiv.org/abs/2405.14935)|null|
 |**2024-05-23**|**Quantum Chaos in Random Ising Networks**|András Grabarits, Kasturi Ranjan Swain, Mahsa Seyed Heydari, Pranav Chandarana, Fernando J. Gómez-Ruiz, Adolfo del Campo|[2405.14376](http://arxiv.org/abs/2405.14376)|null|
 |**2024-05-20**|**Out-of-time-order correlators in electronic structure using Quantum Computers**|K. J. Joven, V. M. Bastidas|[2405.12289](http://arxiv.org/abs/2405.12289)|null|
 |**2024-05-20**|**Noise-tolerant learnability of shallow quantum circuits from statistics and the cost of quantum pseudorandomness**|Chirag Wadhwa, Mina Doosti|[2405.12085](http://arxiv.org/abs/2405.12085)|null|
@@ -837,6 +840,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Creation and manipulation of Schrödinger cat states of a nuclear spin qudit in silicon**|Xi Yu, Benjamin Wilhelm, Danielle Holmes, Arjen Vaartjes, Daniel Schwienbacher, Martin Nurizzo, Anders Kringhøj, Mark R. van Blankenstein, Alexander M. Jakob, Pragati Gupta, Fay E. Hudson, Kohei M. Itoh, Riley J. Murray, Robin Blume-Kohout, Thaddeus D. Ladd, Andrew S. Dzurak, Barry C. Sanders, David N. Jamieson, Andrea Morello|[2405.15494](http://arxiv.org/abs/2405.15494)|null|
+|**2024-05-24**|**Detecting Errors in a Quantum Network with Pauli Checks**|Alvin Gonzales, Daniel Dilley, Bikun Li, Liang Jiang, Zain Saleem|[2405.15236](http://arxiv.org/abs/2405.15236)|null|
+|**2024-05-23**|**Characterization of Nearly Self-Orthogonal Quasi-Twisted Codes and Related Quantum Codes**|Martianus Frederic Ezerman, Markus Grassl, San Ling, Ferruh Özbudak, Buket Özkaya|[2405.15057](http://arxiv.org/abs/2405.15057)|null|
+|**2024-05-23**|**Slow measurement-only dynamics of entanglement in Pauli subsystem codes**|Benedikt Placke, S. A. Parameswaran|[2405.14927](http://arxiv.org/abs/2405.14927)|null|
 |**2024-05-23**|**Efficient recursive encoders for quantum Reed-Muller codes towards Fault tolerance**|Praveen Jayakumar, Priya J. Nadkarni, Shayan Srinivasa Garani|[2405.14549](http://arxiv.org/abs/2405.14549)|null|
 |**2024-05-22**|**Reducing Mid-Circuit Measurements via Probabilistic Circuits**|Yanbin Chen, Innocenzo Fulginiti, Christian B. Mendl|[2405.13747](http://arxiv.org/abs/2405.13747)|null|
 |**2024-05-15**|**Logical coherence in 2D compass codes**|Balint Pato, Judd Will Staples Jr., Kenneth R. Brown|[2405.09287](http://arxiv.org/abs/2405.09287)|null|

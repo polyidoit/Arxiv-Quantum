@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-26**|**Entanglement and Bell inequality violation in vector diboson systems produced in decays of spin-0 particles**|Alexander Bernal, Paweł Caban, Jakub Rembieliński|[2405.16525](http://arxiv.org/abs/2405.16525)|null|
+|**2024-05-25**|**Nonclassical characteristics in spin-1/2 Heisenberg XYZ model with added DM and KSEA interactions under sinusoidal magnetic field: Hierarchy of quantum resources**|A. Ali, S. Al-Kuwari, M. T. Rahim, M. Ghominejad, H. Ali, S. Haddadi|[2405.16294](http://arxiv.org/abs/2405.16294)|null|
 |**2024-05-23**|**Effects of Topological Boundary Conditions on Bell Nonlocality**|Patrick Emonts, Mengyao Hu, Albert Aloy, Jordi Tura|[2405.14587](http://arxiv.org/abs/2405.14587)|null|
 |**2024-05-23**|**Bell Nonlocality from Wigner Negativity in Qudit Systems**|Uta Isabella Meyer, Ivan Šupić, Damian Markham, Frédéric Grosshans|[2405.14367](http://arxiv.org/abs/2405.14367)|null|
 |**2024-05-20**|**Measurement dependence can enhance security in a quantum network**|Amit Kundu, Debasis Sarkar|[2405.12379](http://arxiv.org/abs/2405.12379)|null|
@@ -295,6 +297,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Graph Random Walk for Time-of-Flight Charge Mobilities**|Zhongquan Chen, Pim van der Hoorn, Björn Baumeier|[2405.15836](http://arxiv.org/abs/2405.15836)|null|
 |**2024-05-21**|**Random close packing of binary hard spheres predicts the stability of atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
 |**2024-05-16**|**Revisiting the exclusion principle in epidemiology at its ultimate limit**|Nir Gavish|[2405.09813](http://arxiv.org/abs/2405.09813)|null|
 |**2024-05-10**|**A computational test of quantum contextuality, and even simpler proofs of quantumness**|Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo|[2405.06787](http://arxiv.org/abs/2405.06787)|null|
@@ -383,6 +386,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-25**|**Nonclassical characteristics in spin-1/2 Heisenberg XYZ model with added DM and KSEA interactions under sinusoidal magnetic field: Hierarchy of quantum resources**|A. Ali, S. Al-Kuwari, M. T. Rahim, M. Ghominejad, H. Ali, S. Haddadi|[2405.16294](http://arxiv.org/abs/2405.16294)|null|
 |**2024-05-14**|**Sharing Quantum Steering via Standard Projective Measurements**|Shufen Dong, Zinuo Cai, Chunfeng Wu, Changliang Ren|[2405.08588](http://arxiv.org/abs/2405.08588)|null|
 |**2024-05-12**|**Does gravitational wave assist vacuum steering and Bell nonlocality?**|Shu-Min Wu, Rui-Di Wang, Xiao-Li Huang, Zejun Wang|[2405.07235](http://arxiv.org/abs/2405.07235)|null|
 |**2024-05-12**|**Photon loss effects on light-mediated non-Gaussian entangled Bose-Einstein condensates projecting with different photon measurement outcomes**|Shuai Gao, Manish Chaudhary, Alexey N. Pyrkov, Ebubechukwu O. Ilo-Okeke, Xin Meng, Jingyan Feng, Muhammad Jamil Khan, Tim Byners, Chaogang Lou|[2405.07153](http://arxiv.org/abs/2405.07153)|null|
@@ -458,10 +462,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof, Yana Veitsman, Michael Hahn|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
 |**2024-05-23**|**Search for inhomogeneous Meissner screening in Nb induced by low-temperature surface treatments**|Ryan M. L. McFadden, Tobias Junginger|[2405.14615](http://arxiv.org/abs/2405.14615)|null|
 |**2024-05-23**|**Coherence-mixedness trade-offs**|Qing-Hua Zhang, Shao-Ming Fei|[2405.14337](http://arxiv.org/abs/2405.14337)|null|
 |**2024-05-23**|**Room-temperature waveguide-integrated photodetector using bolometric effect for mid-infrared spectroscopy applications**|Joonsup Shim, Jinha Lim, Inki Kim, Jaeyong Jeong, Bong Ho Kim, Seong Kwang Kim, Dae-Myeong Geum, SangHyeon Kim|[2405.14155](http://arxiv.org/abs/2405.14155)|null|
-|**2024-05-21**|**On disjoint dynamical properties and Lipschitz-free spaces**|Ch. Cobollo, A. Peris|[2405.12626](http://arxiv.org/abs/2405.12626)|null|
+|**2024-05-26**|**On disjoint dynamical properties and Lipschitz-free spaces**|Ch. Cobollo, A. Peris|[2405.12626](http://arxiv.org/abs/2405.12626)|null|
 |**2024-05-17**|**Optimal Update Policy for the Monitoring of Distributed Sources**|Eric Graves, Jake B. Perazzone, Kevin Chan|[2405.11089](http://arxiv.org/abs/2405.11089)|null|
 |**2024-05-17**|**Characterization of the ELM-free Negative Triangularity Edge on DIII-D**|A. O. Nelson, L. Schmitz, T. Cote, J. F. Parisi, S. Stewart, C. Paz-Soldan, K. E. Thome, M. E. Austin, F. Scotti, J. L. Barr, A. Hyatt, N. Leuthold, A. Marinoni, T. Neiser, T. Osborne, N. Richner, A. S. Welander, W. P. Wehner, R. Wilcox, T. M. Wilks, J. Yang|[2405.11082](http://arxiv.org/abs/2405.11082)|null|
 |**2024-05-17**|**Second Law of Entanglement Manipulation with Entanglement Battery**|Ray Ganardi, Tulja Varun Kondra, Nelly H. Y. Ng, Alexander Streltsov|[2405.10599](http://arxiv.org/abs/2405.10599)|null|
@@ -580,6 +585,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Unorientable topological gravity and orthogonal random matrix universality**|Torsten Weber, Jarod Tall, Fabian Haneder, Juan Diego Urbina, Klaus Richter|[2405.17177](http://arxiv.org/abs/2405.17177)|null|
+|**2024-05-25**|**Spread complexity and quantum chaos for periodically driven spin-chains**|Amin A. Nizami, Ankit W. Shrestha|[2405.16182](http://arxiv.org/abs/2405.16182)|null|
 |**2024-05-23**|**Local and nonlocal stochastic control of quantum chaos: Measurement- and control-induced criticality**|Haining Pan, Sriram Ganeshan, Thomas Iadecola, Justin H. Wilson, J. H. Pixley|[2405.14936](http://arxiv.org/abs/2405.14936)|null|
 |**2024-05-23**|**Arresting Quantum Chaos Dynamically in Transmon Arrays**|Rohit Mukherjee, Haoyu Guo, Keiran Lewellen, Debanjan Chowdhury|[2405.14935](http://arxiv.org/abs/2405.14935)|null|
 |**2024-05-23**|**Quantum Chaos in Random Ising Networks**|András Grabarits, Kasturi Ranjan Swain, Mahsa Seyed Heydari, Pranav Chandarana, Fernando J. Gómez-Ruiz, Adolfo del Campo|[2405.14376](http://arxiv.org/abs/2405.14376)|null|
@@ -840,6 +847,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-26**|**Surface Code Stabilizer Measurements for Rydberg Atoms**|Sven Jandura, Guido Pupillo|[2405.16621](http://arxiv.org/abs/2405.16621)|null|
+|**2024-05-25**|**Quantum entanglement of multiple excitons in strained graphene**|Gabriel P. Martins, Oleg Berman, Godfrey Gumbs, Yurii E. Lozovik|[2405.16024](http://arxiv.org/abs/2405.16024)|null|
+|**2024-05-24**|**Accommodating Fabrication Defects on Floquet Codes with Minimal Hardware Requirements**|Campbell McLauchlan, György P. Gehér, Alexandra E. Moylett|[2405.15854](http://arxiv.org/abs/2405.15854)|null|
+|**2024-05-24**|**Anomaly inflow for CSS and fractonic lattice models and dualities via cluster state measurement**|Takuya Okuda, Aswin Parayil Mana, Hiroki Sukeno|[2405.15853](http://arxiv.org/abs/2405.15853)|null|
 |**2024-05-24**|**Creation and manipulation of Schrödinger cat states of a nuclear spin qudit in silicon**|Xi Yu, Benjamin Wilhelm, Danielle Holmes, Arjen Vaartjes, Daniel Schwienbacher, Martin Nurizzo, Anders Kringhøj, Mark R. van Blankenstein, Alexander M. Jakob, Pragati Gupta, Fay E. Hudson, Kohei M. Itoh, Riley J. Murray, Robin Blume-Kohout, Thaddeus D. Ladd, Andrew S. Dzurak, Barry C. Sanders, David N. Jamieson, Andrea Morello|[2405.15494](http://arxiv.org/abs/2405.15494)|null|
 |**2024-05-24**|**Detecting Errors in a Quantum Network with Pauli Checks**|Alvin Gonzales, Daniel Dilley, Bikun Li, Liang Jiang, Zain Saleem|[2405.15236](http://arxiv.org/abs/2405.15236)|null|
 |**2024-05-23**|**Characterization of Nearly Self-Orthogonal Quasi-Twisted Codes and Related Quantum Codes**|Martianus Frederic Ezerman, Markus Grassl, San Ling, Ferruh Özbudak, Buket Özkaya|[2405.15057](http://arxiv.org/abs/2405.15057)|null|

@@ -226,6 +226,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Strategic Code: A Unified Spatio-Temporal Framework for Quantum Error-Correction**|Andrew Tanggara, Mile Gu, Kishor Bharti|[2405.17567](http://arxiv.org/abs/2405.17567)|null|
+|**2024-05-27**|**Operator representation of spatiotemporal quantum correlations**|James Fullwood, Arthur J. Parzygnat|[2405.17555](http://arxiv.org/abs/2405.17555)|null|
 |**2024-05-09**|**Quantum Resource Theories beyond Convexity**|Roberto Salazar, Jakub Czartowski, Ricard Ravell Rodríguez, Grzegorz Rajchel-Mieldzioć, Paweł Horodecki, Karol Życzkowski|[2405.05785](http://arxiv.org/abs/2405.05785)|null|
 |**2024-05-08**|**Many-time physics in practice: characterising and controlling non-Markovian quantum stochastic processes**|Gregory A. L. White|[2405.05416](http://arxiv.org/abs/2405.05416)|null|
 |**2024-04-18**|**The quantum gravity seeds for laws of nature**|Vincent Lam, Daniele Oriti|[2404.12248](http://arxiv.org/abs/2404.12248)|null|
@@ -297,6 +299,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Biunits of ternary algebra of hypermatrices**|Viktor Abramov|[2405.17907](http://arxiv.org/abs/2405.17907)|null|
 |**2024-05-24**|**Graph Random Walk for Time-of-Flight Charge Mobilities**|Zhongquan Chen, Pim van der Hoorn, Björn Baumeier|[2405.15836](http://arxiv.org/abs/2405.15836)|null|
 |**2024-05-21**|**Random close packing of binary hard spheres predicts the stability of atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
 |**2024-05-16**|**Revisiting the exclusion principle in epidemiology at its ultimate limit**|Nir Gavish|[2405.09813](http://arxiv.org/abs/2405.09813)|null|
@@ -462,6 +465,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**The set of Kirkwood-Dirac positive states is almost always minimal**|Christopher Langrenez, Wilfred Salmon, Stephan De Bièvre, Jonathan J. Thio, Christopher K. Long, David R. M. Arvidsson-Shukur|[2405.17557](http://arxiv.org/abs/2405.17557)|null|
 |**2024-05-27**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof, Yana Veitsman, Michael Hahn|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
 |**2024-05-23**|**Search for inhomogeneous Meissner screening in Nb induced by low-temperature surface treatments**|Ryan M. L. McFadden, Tobias Junginger|[2405.14615](http://arxiv.org/abs/2405.14615)|null|
 |**2024-05-23**|**Coherence-mixedness trade-offs**|Qing-Hua Zhang, Shao-Ming Fei|[2405.14337](http://arxiv.org/abs/2405.14337)|null|
@@ -585,6 +589,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**New horizon symmetries, hydrodynamics, and quantum chaos**|Maria Knysh, Hong Liu, Natalia Pinzani-Fokeeva|[2405.17559](http://arxiv.org/abs/2405.17559)|null|
 |**2024-05-27**|**Unorientable topological gravity and orthogonal random matrix universality**|Torsten Weber, Jarod Tall, Fabian Haneder, Juan Diego Urbina, Klaus Richter|[2405.17177](http://arxiv.org/abs/2405.17177)|null|
 |**2024-05-25**|**Spread complexity and quantum chaos for periodically driven spin-chains**|Amin A. Nizami, Ankit W. Shrestha|[2405.16182](http://arxiv.org/abs/2405.16182)|null|
 |**2024-05-23**|**Local and nonlocal stochastic control of quantum chaos: Measurement- and control-induced criticality**|Haining Pan, Sriram Ganeshan, Thomas Iadecola, Justin H. Wilson, J. H. Pixley|[2405.14936](http://arxiv.org/abs/2405.14936)|null|
@@ -847,6 +852,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Quantum subsystem codes, CFTs and their $\mathbb{Z}_2$ -gaugings**|Keiichi Ando, Kohki Kawabata, Tatsuma Nishioka|[2405.18145](http://arxiv.org/abs/2405.18145)|null|
+|**2024-05-27**|**Multi-qubit Lattice Surgery Scheduling**|Allyson Silva, Xiangyi Zhang, Zak Webb, Mia Kramer, Chan Woo Yang, Xiao Liu, Jessica Lemieux, Ka-Wai Chen, Artur Scherer, Pooya Ronagh|[2405.17688](http://arxiv.org/abs/2405.17688)|null|
+|**2024-05-27**|**Strategic Code: A Unified Spatio-Temporal Framework for Quantum Error-Correction**|Andrew Tanggara, Mile Gu, Kishor Bharti|[2405.17567](http://arxiv.org/abs/2405.17567)|null|
+|**2024-05-27**|**The MQT Handbook: A Summary of Design Automation Tools and Software for Quantum Computing**|Robert Wille, Lucas Berent, Tobias Forster, Jagatheesan Kunasaikaran, Kevin Mato, Tom Peham, Nils Quetschlich, Damian Rovara, Aaron Sander, Ludwig Schmid, Daniel Schönberger, Yannick Stade, Lukas Burgholzer|[2405.17543](http://arxiv.org/abs/2405.17543)|null|
 |**2024-05-26**|**Surface Code Stabilizer Measurements for Rydberg Atoms**|Sven Jandura, Guido Pupillo|[2405.16621](http://arxiv.org/abs/2405.16621)|null|
 |**2024-05-25**|**Quantum entanglement of multiple excitons in strained graphene**|Gabriel P. Martins, Oleg Berman, Godfrey Gumbs, Yurii E. Lozovik|[2405.16024](http://arxiv.org/abs/2405.16024)|null|
 |**2024-05-24**|**Accommodating Fabrication Defects on Floquet Codes with Minimal Hardware Requirements**|Campbell McLauchlan, György P. Gehér, Alexandra E. Moylett|[2405.15854](http://arxiv.org/abs/2405.15854)|null|

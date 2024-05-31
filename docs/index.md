@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Monogamy of Nonlocal Games**|David Cui, Arthur Mehta, Denis Rochette|[2405.20286](http://arxiv.org/abs/2405.20286)|null|
 |**2024-05-29**|**Causal Data Fusion with Quantum Confounders**|Pedro Lauand, Bereket Ngussie Bekele, Elie Wolfe|[2405.19278](http://arxiv.org/abs/2405.19278)|null|
 |**2024-05-26**|**Entanglement and Bell inequality violation in vector diboson systems produced in decays of spin-0 particles**|Alexander Bernal, Paweł Caban, Jakub Rembieliński|[2405.16525](http://arxiv.org/abs/2405.16525)|null|
 |**2024-05-25**|**Nonclassical characteristics in spin-1/2 Heisenberg XYZ model with added DM and KSEA interactions under sinusoidal magnetic field: Hierarchy of quantum resources**|A. Ali, S. Al-Kuwari, M. T. Rahim, M. Ghominejad, H. Ali, S. Haddadi|[2405.16294](http://arxiv.org/abs/2405.16294)|null|
@@ -216,6 +217,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Higher-order incompatibility improves distinguishability of causal quantum networks**|Nidhin Sudarsanan Ragini, Sk Sazim|[2405.20080](http://arxiv.org/abs/2405.20080)|null|
+|**2024-05-30**|**Quantum Circuit Tensors and Enumerators with Applications to Quantum Fault Tolerance**|Alon Kukliansky, Brad Lackey|[2405.19643](http://arxiv.org/abs/2405.19643)|null|
 |**2024-05-27**|**Strategic Code: A Unified Spatio-Temporal Framework for Quantum Error-Correction**|Andrew Tanggara, Mile Gu, Kishor Bharti|[2405.17567](http://arxiv.org/abs/2405.17567)|null|
 |**2024-05-27**|**Operator representation of spatiotemporal quantum correlations**|James Fullwood, Arthur J. Parzygnat|[2405.17555](http://arxiv.org/abs/2405.17555)|null|
 |**2024-05-09**|**Quantum Resource Theories beyond Convexity**|Roberto Salazar, Jakub Czartowski, Ricard Ravell Rodríguez, Grzegorz Rajchel-Mieldzioć, Paweł Horodecki, Karol Życzkowski|[2405.05785](http://arxiv.org/abs/2405.05785)|null|
@@ -449,6 +452,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Decoherence-free many-body Hamiltonians in nonlinear waveguide quantum electrodynamics**|Aviv Karnieli, Offek Tziperman, Charles Roques-Carmes, Shanhui Fan|[2405.20241](http://arxiv.org/abs/2405.20241)|null|
 |**2024-05-27**|**The set of Kirkwood-Dirac positive states is almost always minimal**|Christopher Langrenez, Wilfred Salmon, Stephan De Bièvre, Jonathan J. Thio, Christopher K. Long, David R. M. Arvidsson-Shukur|[2405.17557](http://arxiv.org/abs/2405.17557)|null|
 |**2024-05-27**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof, Yana Veitsman, Michael Hahn|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
 |**2024-05-23**|**Search for inhomogeneous Meissner screening in Nb induced by low-temperature surface treatments**|Ryan M. L. McFadden, Tobias Junginger|[2405.14615](http://arxiv.org/abs/2405.14615)|null|
@@ -832,6 +836,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Quantum Circuit Tensors and Enumerators with Applications to Quantum Fault Tolerance**|Alon Kukliansky, Brad Lackey|[2405.19643](http://arxiv.org/abs/2405.19643)|null|
+|**2024-05-29**|**Quantum error detection with noise-resilient parity-controlled gate in two-dimensional Rydberg atom arrays**|F. Q. Guo, S. L. Su, Weibin Li, X. Q. Shao|[2405.19564](http://arxiv.org/abs/2405.19564)|null|
+|**2024-05-29**|**Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code**|Nicolas Dupuis, Luca Buratti, Sanjay Vishwakarma, Aitana Viudes Forrat, David Kremer, Ismael Faro, Ruchir Puri, Juan Cruz-Benito|[2405.19495](http://arxiv.org/abs/2405.19495)|null|
 |**2024-05-29**|**Fault-tolerant simulation of Lattice Gauge Theories with gauge covariant codes**|L. Spagnoli, A. Roggero, N. Wiebe|[2405.19293](http://arxiv.org/abs/2405.19293)|null|
 |**2024-05-29**|**Linear Logic and Quantum Error Correcting Codes**|Daniel Murfet, William Troiani|[2405.19051](http://arxiv.org/abs/2405.19051)|null|
 |**2024-05-29**|**Quantum Circuit Switching with One-Way Repeaters in Star Networks**|Álvaro G. Iñesta, Hyeongrak Choi, Dirk Englund, Stephanie Wehner|[2405.19049](http://arxiv.org/abs/2405.19049)|null|

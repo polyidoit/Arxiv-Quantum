@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-22**|**Bell inequalities violation in relativity theory**|Alexander Belinsky, Igor Dzhadan|[2405.20789](http://arxiv.org/abs/2405.20789)|null|
 |**2024-05-30**|**Monogamy of Nonlocal Games**|David Cui, Arthur Mehta, Denis Rochette|[2405.20286](http://arxiv.org/abs/2405.20286)|null|
 |**2024-05-29**|**Causal Data Fusion with Quantum Confounders**|Pedro Lauand, Bereket Ngussie Bekele, Elie Wolfe|[2405.19278](http://arxiv.org/abs/2405.19278)|null|
 |**2024-05-26**|**Entanglement and Bell inequality violation in vector diboson systems produced in decays of spin-0 particles**|Alexander Bernal, Paweł Caban, Jakub Rembieliński|[2405.16525](http://arxiv.org/abs/2405.16525)|null|
@@ -303,6 +304,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Statistical signatures of quantum contextuality**|Holger F. Hofmann|[2405.20569](http://arxiv.org/abs/2405.20569)|null|
 |**2024-05-28**|**Biunits of ternary algebra of hypermatrices**|Viktor Abramov|[2405.17907](http://arxiv.org/abs/2405.17907)|null|
 |**2024-05-24**|**Graph Random Walk for Time-of-Flight Charge Mobilities**|Zhongquan Chen, Pim van der Hoorn, Björn Baumeier|[2405.15836](http://arxiv.org/abs/2405.15836)|null|
 |**2024-05-21**|**Random close packing of binary hard spheres predicts the stability of atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
@@ -857,6 +859,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Quantum Information Processing with Molecular Nanomagnets: an introduction**|Alessandro Chiesa, Emilio Macaluso, Stefano Carretta|[2405.21000](http://arxiv.org/abs/2405.21000)|null|
+|**2024-05-31**|**Experimental demonstration of a fault-tolerant qubit encoded on a hyperfine-coupled qudit**|Sumin Lim, Mikhail Vaganov, Junjie Liu, Arzhang Ardavan|[2405.20827](http://arxiv.org/abs/2405.20827)|null|
+|**2024-05-30**|**Facilitating Human-LLM Collaboration through Factuality Scores and Source Attributions**|Hyo Jin Do, Rachel Ostrand, Justin D. Weisz, Casey Dugan, Prasanna Sattigeri, Dennis Wei, Keerthiram Murugesan, Werner Geyer|[2405.20434](http://arxiv.org/abs/2405.20434)|null|
 |**2024-05-30**|**Quantum Circuit Tensors and Enumerators with Applications to Quantum Fault Tolerance**|Alon Kukliansky, Brad Lackey|[2405.19643](http://arxiv.org/abs/2405.19643)|null|
 |**2024-05-29**|**Quantum error detection with noise-resilient parity-controlled gate in two-dimensional Rydberg atom arrays**|F. Q. Guo, S. L. Su, Weibin Li, X. Q. Shao|[2405.19564](http://arxiv.org/abs/2405.19564)|null|
 |**2024-05-29**|**Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code**|Nicolas Dupuis, Luca Buratti, Sanjay Vishwakarma, Aitana Viudes Forrat, David Kremer, Ismael Faro, Ruchir Puri, Juan Cruz-Benito|[2405.19495](http://arxiv.org/abs/2405.19495)|null|

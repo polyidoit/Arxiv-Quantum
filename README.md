@@ -473,7 +473,7 @@
 |---|---|---|---|---|
 |**2024-05-30**|**Decoherence-free many-body Hamiltonians in nonlinear waveguide quantum electrodynamics**|Aviv Karnieli, Offek Tziperman, Charles Roques-Carmes, Shanhui Fan|[2405.20241](http://arxiv.org/abs/2405.20241)|null|
 |**2024-05-27**|**The set of Kirkwood-Dirac positive states is almost always minimal**|Christopher Langrenez, Wilfred Salmon, Stephan De Bièvre, Jonathan J. Thio, Christopher K. Long, David R. M. Arvidsson-Shukur|[2405.17557](http://arxiv.org/abs/2405.17557)|null|
-|**2024-05-27**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof, Yana Veitsman, Michael Hahn|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
+|**2024-06-02**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof, Yana Veitsman, Michael Hahn|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
 |**2024-05-23**|**Search for inhomogeneous Meissner screening in Nb induced by low-temperature surface treatments**|Ryan M. L. McFadden, Tobias Junginger|[2405.14615](http://arxiv.org/abs/2405.14615)|null|
 |**2024-05-23**|**Coherence-mixedness trade-offs**|Qing-Hua Zhang, Shao-Ming Fei|[2405.14337](http://arxiv.org/abs/2405.14337)|null|
 |**2024-05-23**|**Room-temperature waveguide-integrated photodetector using bolometric effect for mid-infrared spectroscopy applications**|Joonsup Shim, Jinha Lim, Inki Kim, Jaeyong Jeong, Bong Ho Kim, Seong Kwang Kim, Dae-Myeong Geum, SangHyeon Kim|[2405.14155](http://arxiv.org/abs/2405.14155)|null|

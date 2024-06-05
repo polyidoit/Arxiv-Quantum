@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-02**|**Influence of joint measurement bases on sharing network nonlocality**|Amit Kundu, Debasis Sarkar|[2406.00838](http://arxiv.org/abs/2406.00838)|null|
 |**2024-05-22**|**Bell inequalities violation in relativity theory**|Alexander Belinsky, Igor Dzhadan|[2405.20789](http://arxiv.org/abs/2405.20789)|null|
 |**2024-05-30**|**Monogamy of Nonlocal Games**|David Cui, Arthur Mehta, Denis Rochette|[2405.20286](http://arxiv.org/abs/2405.20286)|null|
 |**2024-05-29**|**Causal Data Fusion with Quantum Confounders**|Pedro Lauand, Bereket Ngussie Bekele, Elie Wolfe|[2405.19278](http://arxiv.org/abs/2405.19278)|null|
@@ -218,6 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-02**|**Matrix-Valued Measures and Wishart Statistics for Target Tracking Applications**|Robin Forsling, Simon J. Julier, Gustaf Hendeby|[2406.00861](http://arxiv.org/abs/2406.00861)|null|
 |**2024-05-30**|**Higher-order incompatibility improves distinguishability of causal quantum networks**|Nidhin Sudarsanan Ragini, Sk Sazim|[2405.20080](http://arxiv.org/abs/2405.20080)|null|
 |**2024-05-30**|**Quantum Circuit Tensors and Enumerators with Applications to Quantum Fault Tolerance**|Alon Kukliansky, Brad Lackey|[2405.19643](http://arxiv.org/abs/2405.19643)|null|
 |**2024-05-27**|**Strategic Code: A Unified Spatio-Temporal Framework for Quantum Error-Correction**|Andrew Tanggara, Mile Gu, Kishor Bharti|[2405.17567](http://arxiv.org/abs/2405.17567)|null|
@@ -454,6 +456,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-03**|**Kronecker-product random matrices and a matrix least squares problem**|Zhou Fan, Renyuan Ma|[2406.00961](http://arxiv.org/abs/2406.00961)|null|
+|**2024-06-02**|**Resource-theoretic hierarchy of contextuality for general probabilistic theories**|Lorenzo Catani, Thomas D. Galley, Tomáš Gonda|[2406.00717](http://arxiv.org/abs/2406.00717)|null|
 |**2024-05-30**|**Decoherence-free many-body Hamiltonians in nonlinear waveguide quantum electrodynamics**|Aviv Karnieli, Offek Tziperman, Charles Roques-Carmes, Shanhui Fan|[2405.20241](http://arxiv.org/abs/2405.20241)|null|
 |**2024-05-27**|**The set of Kirkwood-Dirac positive states is almost always minimal**|Christopher Langrenez, Wilfred Salmon, Stephan De Bièvre, Jonathan J. Thio, Christopher K. Long, David R. M. Arvidsson-Shukur|[2405.17557](http://arxiv.org/abs/2405.17557)|null|
 |**2024-06-02**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof, Yana Veitsman, Michael Hahn|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
@@ -577,6 +581,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**The computational power of random quantum circuits in arbitrary geometries**|Matthew DeCross, Reza Haghshenas, Minzhao Liu, Yuri Alexeev, Charles H. Baldwin, John P. Bartolotta, Matthew Bohn, Eli Chertkov, Jonhas Colina, Davide DelVento, Joan M. Dreiling, Cameron Foltz, John P. Gaebler, Thomas M. Gatterman, Christopher N. Gilbreth, Johnnie Gray, Dan Gresh, Nathan Hewitt, Ross B. Hutson, Jacob Johansen, Dominic Lucchetti, Danylo Lykov, Ivaylo S. Madjarov, Karl Mayer, Michael Mills, Pradeep Niroula, Enrico Rinaldi, Peter E. Siegfried, Bruce G. Tiemann, James Walker, Ruslan Shaydulin, Marco Pistoia, Steven. A. Moses, David Hayes, Brian Neyenhuis, Russell P. Stutz, Michael Foss-Feig|[2406.02501](http://arxiv.org/abs/2406.02501)|null|
 |**2024-05-27**|**New horizon symmetries, hydrodynamics, and quantum chaos**|Maria Knysh, Hong Liu, Natalia Pinzani-Fokeeva|[2405.17559](http://arxiv.org/abs/2405.17559)|null|
 |**2024-05-27**|**Unorientable topological gravity and orthogonal random matrix universality**|Torsten Weber, Jarod Tall, Fabian Haneder, Juan Diego Urbina, Klaus Richter|[2405.17177](http://arxiv.org/abs/2405.17177)|null|
 |**2024-05-25**|**Spread complexity and quantum chaos for periodically driven spin-chains**|Amin A. Nizami, Ankit W. Shrestha|[2405.16182](http://arxiv.org/abs/2405.16182)|null|
@@ -838,6 +843,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Noise-adapted qudit codes for amplitude-damping noise**|Sourav Dutta, Debjyoti Biswas, Prabha Mandayam|[2406.02444](http://arxiv.org/abs/2406.02444)|null|
+|**2024-06-04**|**Demonstration of two-dimensional connectivity for a scalable error-corrected ion-trap quantum processor architecture**|Marco Valentini, Martin W. van Mourik, Friederike Butt, Jakob Wahl, Matthias Dietl, Michael Pfeifer, Fabian Anmasser, Yves Colombe, Clemens Rössler, Philip Holz, Rainer Blatt, Markus Müller, Thomas Monz, Philipp Schindler|[2406.02406](http://arxiv.org/abs/2406.02406)|null|
+|**2024-06-04**|**Demonstration of Erasure Conversion in a Molecular Tweezer Array**|Connor M. Holland, Yukai Lu, Samuel J. Li, Callum L. Welsh, Lawrence W. Cheuk|[2406.02391](http://arxiv.org/abs/2406.02391)|null|
+|**2024-06-03**|**Snowflake: A Distributed Streaming Decoder**|Tim Chan|[2406.01701](http://arxiv.org/abs/2406.01701)|null|
+|**2024-06-01**|**Creation and manipulation of surface code defects with quantum optimal control**|Omar Raii, Anirban Dey, Florian Mintert, Daniel Burgarth|[2406.00460](http://arxiv.org/abs/2406.00460)|null|
+|**2024-06-01**|**Toward Quantum CSS-T Codes from Sparse Matrices**|Eduardo Camps-Moreno, Hiram H. López, Gretchen L. Matthews, Emily McMillon|[2406.00425](http://arxiv.org/abs/2406.00425)|null|
+|**2024-06-01**|**On Transversality Across Two Distinct Quantum Error Correction Codes For Quantum Repeaters**|Mahdi Bayanifar, Alexei Ashikhmin, Dawei Jiao, Olav Tirkkonen|[2406.00350](http://arxiv.org/abs/2406.00350)|null|
+|**2024-06-04**|**Learning topological states from randomized measurements using variational tensor network tomography**|Yanting Teng, Rhine Samajdar, Katherine Van Kirk, Frederik Wilde, Subir Sachdev, Jens Eisert, Ryan Sweke, Khadijeh Najafi|[2406.00193](http://arxiv.org/abs/2406.00193)|null|
 |**2024-05-31**|**Quantum Information Processing with Molecular Nanomagnets: an introduction**|Alessandro Chiesa, Emilio Macaluso, Stefano Carretta|[2405.21000](http://arxiv.org/abs/2405.21000)|null|
 |**2024-05-31**|**Experimental demonstration of a fault-tolerant qubit encoded on a hyperfine-coupled qudit**|Sumin Lim, Mikhail Vaganov, Junjie Liu, Arzhang Ardavan|[2405.20827](http://arxiv.org/abs/2405.20827)|null|
 |**2024-05-30**|**Facilitating Human-LLM Collaboration through Factuality Scores and Source Attributions**|Hyo Jin Do, Rachel Ostrand, Justin D. Weisz, Casey Dugan, Prasanna Sattigeri, Dennis Wei, Keerthiram Murugesan, Werner Geyer|[2405.20434](http://arxiv.org/abs/2405.20434)|null|

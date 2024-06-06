@@ -402,7 +402,7 @@
 |**2024-05-12**|**Does gravitational wave assist vacuum steering and Bell nonlocality?**|Shu-Min Wu, Rui-Di Wang, Xiao-Li Huang, Zejun Wang|[2405.07235](http://arxiv.org/abs/2405.07235)|null|
 |**2024-05-12**|**Photon loss effects on light-mediated non-Gaussian entangled Bose-Einstein condensates projecting with different photon measurement outcomes**|Shuai Gao, Manish Chaudhary, Alexey N. Pyrkov, Ebubechukwu O. Ilo-Okeke, Xin Meng, Jingyan Feng, Muhammad Jamil Khan, Tim Byners, Chaogang Lou|[2405.07153](http://arxiv.org/abs/2405.07153)|null|
 |**2024-05-10**|**Sharing Asymmetric Einstein-Podolsky-Rosen Steering with Projective Measurements**|Yan-Xin Rong, Shuo Wang, Zhen-Fei Zhang, Yong-Jian Gu, Ya Xiao|[2405.06255](http://arxiv.org/abs/2405.06255)|null|
-|**2024-05-06**|**Generalized Einstein-Podolsky-Rosen Steering Paradox**|Zhi-Jie Liu, Jie Zhou, Xing-Yan Fan, Mi Xie, Jing-Ling Chen|[2405.03100](http://arxiv.org/abs/2405.03100)|null|
+|**2024-06-05**|**Generalized Einstein-Podolsky-Rosen Steering Paradox**|Zhi-Jie Liu, Xing-Yan Fan, Jie Zhou, Mi Xie, Jing-Ling Chen|[2405.03100](http://arxiv.org/abs/2405.03100)|null|
 |**2024-04-30**|**Exploring the hierarchy of quantum correlations under thermal effects in two gravitational cat states**|Elhabib Jaloum, Mohamed Amazioug|[2404.19648](http://arxiv.org/abs/2404.19648)|null|
 |**2024-04-07**|**Observational-Interventional Bell Inequalities**|Davide Poderini, Ranieri Nery, George Moreno, Santiago Zamora, Pedro Lauand, Rafael Chaves|[2404.05015](http://arxiv.org/abs/2404.05015)|null|
 |**2024-04-09**|**Revealing the Boundary between Quantum Mechanics and Classical Model by EPR-Steering Inequality**|Ruo-Chen Wang, Zhuo-Chen Li, Xing-Yan Fan, Xiang-Ru Xie, Hong-Hao Wei, Choo Hiap Oh, Jing-Ling Chen|[2404.04048](http://arxiv.org/abs/2404.04048)|null|
@@ -864,6 +864,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Sparse Color-Code Net: Real-Time RGB-Based 6D Object Pose Estimation on Edge Devices**|Xingjian Yang, Zhitao Yu, Ashis G. Banerjee|[2406.02977](http://arxiv.org/abs/2406.02977)|null|
+|**2024-06-05**|**The Focked-up ZX Calculus: Picturing Continuous-Variable Quantum Computation**|Razin A. Shaikh, Lia Yeh, Stefano Gogioso|[2406.02905](http://arxiv.org/abs/2406.02905)|null|
+|**2024-06-04**|**Optimization of decoder priors for accurate quantum error correction**|Volodymyr Sivak, Michael Newman, Paul Klimov|[2406.02700](http://arxiv.org/abs/2406.02700)|null|
+|**2024-06-04**|**Entangling four logical qubits beyond break-even in a nonlocal code**|Yifan Hong, Elijah Durso-Sabina, David Hayes, Andrew Lucas|[2406.02666](http://arxiv.org/abs/2406.02666)|null|
 |**2024-06-04**|**Noise-adapted qudit codes for amplitude-damping noise**|Sourav Dutta, Debjyoti Biswas, Prabha Mandayam|[2406.02444](http://arxiv.org/abs/2406.02444)|null|
 |**2024-06-04**|**Demonstration of two-dimensional connectivity for a scalable error-corrected ion-trap quantum processor architecture**|Marco Valentini, Martin W. van Mourik, Friederike Butt, Jakob Wahl, Matthias Dietl, Michael Pfeifer, Fabian Anmasser, Yves Colombe, Clemens Rössler, Philip Holz, Rainer Blatt, Markus Müller, Thomas Monz, Philipp Schindler|[2406.02406](http://arxiv.org/abs/2406.02406)|null|
 |**2024-06-04**|**Demonstration of Erasure Conversion in a Molecular Tweezer Array**|Connor M. Holland, Yukai Lu, Samuel J. Li, Callum L. Welsh, Lawrence W. Cheuk|[2406.02391](http://arxiv.org/abs/2406.02391)|null|

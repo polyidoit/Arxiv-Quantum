@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 
 ## Bell nonlocality
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-05-29**|**Causal Data Fusion with Quantum Confounders**|Pedro Lauand, Bereket Ngussie Bekele, Elie Wolfe|[2405.19278](http://arxiv.org/abs/2405.19278)|null|
 |**2024-05-26**|**Entanglement and Bell inequality violation in vector diboson systems produced in decays of spin-0 particles**|Alexander Bernal, Paweł Caban, Jakub Rembieliński|[2405.16525](http://arxiv.org/abs/2405.16525)|null|
 |**2024-05-25**|**Nonclassical characteristics in spin-1/2 Heisenberg XYZ model with added DM and KSEA interactions under sinusoidal magnetic field: Hierarchy of quantum resources**|A. Ali, S. Al-Kuwari, M. T. Rahim, M. Ghominejad, H. Ali, S. Haddadi|[2405.16294](http://arxiv.org/abs/2405.16294)|null|
-|**2024-05-23**|**Effects of Topological Boundary Conditions on Bell Nonlocality**|Patrick Emonts, Mengyao Hu, Albert Aloy, Jordi Tura|[2405.14587](http://arxiv.org/abs/2405.14587)|null|
+|**2024-05-23**|**Effects of Topological Boundary Conditions on Bell Nonlocality**|Patrick Emonts, Mengyao Hu, Albert Aloy, Jordi Tura|[2405.14587](http://arxiv.org/abs/2405.14587)|**[link](https://gitlab.com/patrick.emonts/topo-bell)**|
 |**2024-05-23**|**Bell Nonlocality from Wigner Negativity in Qudit Systems**|Uta Isabella Meyer, Ivan Šupić, Damian Markham, Frédéric Grosshans|[2405.14367](http://arxiv.org/abs/2405.14367)|null|
 |**2024-05-20**|**Measurement dependence can enhance security in a quantum network**|Amit Kundu, Debasis Sarkar|[2405.12379](http://arxiv.org/abs/2405.12379)|null|
 |**2024-05-15**|**Quantum tomography with $τ$ leptons at the FCC-ee**|M. Fabbrichesi, L. Marzola|[2405.09201](http://arxiv.org/abs/2405.09201)|null|
@@ -850,7 +850,7 @@ layout: default
 |**2024-06-01**|**Creation and manipulation of surface code defects with quantum optimal control**|Omar Raii, Anirban Dey, Florian Mintert, Daniel Burgarth|[2406.00460](http://arxiv.org/abs/2406.00460)|null|
 |**2024-06-01**|**Toward Quantum CSS-T Codes from Sparse Matrices**|Eduardo Camps-Moreno, Hiram H. López, Gretchen L. Matthews, Emily McMillon|[2406.00425](http://arxiv.org/abs/2406.00425)|null|
 |**2024-06-01**|**On Transversality Across Two Distinct Quantum Error Correction Codes For Quantum Repeaters**|Mahdi Bayanifar, Alexei Ashikhmin, Dawei Jiao, Olav Tirkkonen|[2406.00350](http://arxiv.org/abs/2406.00350)|null|
-|**2024-06-04**|**Learning topological states from randomized measurements using variational tensor network tomography**|Yanting Teng, Rhine Samajdar, Katherine Van Kirk, Frederik Wilde, Subir Sachdev, Jens Eisert, Ryan Sweke, Khadijeh Najafi|[2406.00193](http://arxiv.org/abs/2406.00193)|null|
+|**2024-06-04**|**Learning topological states from randomized measurements using variational tensor network tomography**|Yanting Teng, Rhine Samajdar, Katherine Van Kirk, Frederik Wilde, Subir Sachdev, Jens Eisert, Ryan Sweke, Khadijeh Najafi|[2406.00193](http://arxiv.org/abs/2406.00193)|**[link](https://github.com/teng10/tn-shadow-qst)**|
 |**2024-05-31**|**Quantum Information Processing with Molecular Nanomagnets: an introduction**|Alessandro Chiesa, Emilio Macaluso, Stefano Carretta|[2405.21000](http://arxiv.org/abs/2405.21000)|null|
 |**2024-05-31**|**Experimental demonstration of a fault-tolerant qubit encoded on a hyperfine-coupled qudit**|Sumin Lim, Mikhail Vaganov, Junjie Liu, Arzhang Ardavan|[2405.20827](http://arxiv.org/abs/2405.20827)|null|
 |**2024-05-30**|**Facilitating Human-LLM Collaboration through Factuality Scores and Source Attributions**|Hyo Jin Do, Rachel Ostrand, Justin D. Weisz, Casey Dugan, Prasanna Sattigeri, Dennis Wei, Keerthiram Murugesan, Werner Geyer|[2405.20434](http://arxiv.org/abs/2405.20434)|null|

@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Locally inaccessible hidden quantum correlations**|Andrés F. Ducuara, Cristian E. Susa, Paul Skrzypczyk|[2406.03945](http://arxiv.org/abs/2406.03945)|null|
 |**2024-06-02**|**Influence of joint measurement bases on sharing network nonlocality**|Amit Kundu, Debasis Sarkar|[2406.00838](http://arxiv.org/abs/2406.00838)|null|
 |**2024-05-22**|**Bell inequalities violation in relativity theory**|Alexander Belinsky, Igor Dzhadan|[2405.20789](http://arxiv.org/abs/2405.20789)|null|
 |**2024-05-30**|**Monogamy of Nonlocal Games**|David Cui, Arthur Mehta, Denis Rochette|[2405.20286](http://arxiv.org/abs/2405.20286)|null|
@@ -230,6 +231,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Online learning of quantum processes**|Asad Raza, Matthias C. Caro, Jens Eisert, Sumeet Khatri|[2406.04250](http://arxiv.org/abs/2406.04250)|null|
 |**2024-06-02**|**Matrix-Valued Measures and Wishart Statistics for Target Tracking Applications**|Robin Forsling, Simon J. Julier, Gustaf Hendeby|[2406.00861](http://arxiv.org/abs/2406.00861)|null|
 |**2024-05-30**|**Higher-order incompatibility improves distinguishability of causal quantum networks**|Nidhin Sudarsanan Ragini, Sk Sazim|[2405.20080](http://arxiv.org/abs/2405.20080)|null|
 |**2024-05-30**|**Quantum Circuit Tensors and Enumerators with Applications to Quantum Fault Tolerance**|Alon Kukliansky, Brad Lackey|[2405.19643](http://arxiv.org/abs/2405.19643)|null|
@@ -397,6 +399,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Locally inaccessible hidden quantum correlations**|Andrés F. Ducuara, Cristian E. Susa, Paul Skrzypczyk|[2406.03945](http://arxiv.org/abs/2406.03945)|null|
 |**2024-05-25**|**Nonclassical characteristics in spin-1/2 Heisenberg XYZ model with added DM and KSEA interactions under sinusoidal magnetic field: Hierarchy of quantum resources**|A. Ali, S. Al-Kuwari, M. T. Rahim, M. Ghominejad, H. Ali, S. Haddadi|[2405.16294](http://arxiv.org/abs/2405.16294)|null|
 |**2024-05-14**|**Sharing Quantum Steering via Standard Projective Measurements**|Shufen Dong, Zinuo Cai, Chunfeng Wu, Changliang Ren|[2405.08588](http://arxiv.org/abs/2405.08588)|null|
 |**2024-05-12**|**Does gravitational wave assist vacuum steering and Bell nonlocality?**|Shu-Min Wu, Rui-Di Wang, Xiao-Li Huang, Zejun Wang|[2405.07235](http://arxiv.org/abs/2405.07235)|null|
@@ -473,6 +476,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Enhanced Model-Free Dynamic State Estimation for a Soft Robot Finger Using an Embedded Optical Waveguide Sensor**|Henrik Krauss, Kenjiro Takemura|[2406.03708](http://arxiv.org/abs/2406.03708)|null|
 |**2024-06-03**|**Kronecker-product random matrices and a matrix least squares problem**|Zhou Fan, Renyuan Ma|[2406.00961](http://arxiv.org/abs/2406.00961)|null|
 |**2024-06-02**|**Resource-theoretic hierarchy of contextuality for general probabilistic theories**|Lorenzo Catani, Thomas D. Galley, Tomáš Gonda|[2406.00717](http://arxiv.org/abs/2406.00717)|null|
 |**2024-05-30**|**Decoherence-free many-body Hamiltonians in nonlinear waveguide quantum electrodynamics**|Aviv Karnieli, Offek Tziperman, Charles Roques-Carmes, Shanhui Fan|[2405.20241](http://arxiv.org/abs/2405.20241)|null|
@@ -864,6 +868,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Leakage Mobility in Superconducting Qubits as a Leakage Reduction Unit**|Joan Camps, Ophelia Crawford, György P. Gehér, Alexander V. Gramolin, Matthew P. Stafford, Mark Turner|[2406.04083](http://arxiv.org/abs/2406.04083)|null|
+|**2024-06-06**|**New MDS codes of non-GRS type and NMDS codes**|Yujie Zhi, Shixin Zhu|[2406.03693](http://arxiv.org/abs/2406.03693)|null|
 |**2024-06-05**|**Sparse Color-Code Net: Real-Time RGB-Based 6D Object Pose Estimation on Edge Devices**|Xingjian Yang, Zhitao Yu, Ashis G. Banerjee|[2406.02977](http://arxiv.org/abs/2406.02977)|null|
 |**2024-06-05**|**The Focked-up ZX Calculus: Picturing Continuous-Variable Quantum Computation**|Razin A. Shaikh, Lia Yeh, Stefano Gogioso|[2406.02905](http://arxiv.org/abs/2406.02905)|null|
 |**2024-06-04**|**Optimization of decoder priors for accurate quantum error correction**|Volodymyr Sivak, Michael Newman, Paul Klimov|[2406.02700](http://arxiv.org/abs/2406.02700)|null|

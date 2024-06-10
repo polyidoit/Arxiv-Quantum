@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**CHSH Bell Tests For Optical Hybrid Entanglement**|Morteza Moradi, Juan Camilo López Carreño, Adam Buraczewski, Thomas McDermott, Beate Elisabeth Asenbeck, Julien Laurat, Magdalena Stobińska|[2406.04736](http://arxiv.org/abs/2406.04736)|null|
+|**2024-06-07**|**A Mechanism for Entanglement?**|Huw Price, Ken Wharton|[2406.04571](http://arxiv.org/abs/2406.04571)|null|
+|**2024-06-06**|**Entanglement and Bell nonlocality with bottom-quark pairs at hadron colliders**|Yoav Afik, Yevgeny Kats, Juan Ramón Muñoz de Nova, Abner Soffer, David Uzan|[2406.04402](http://arxiv.org/abs/2406.04402)|null|
+|**2024-05-29**|**Comment on Chiribella et al., Phys. Rev. Lett. 132 (2024) 190201, arXiv:2301.10885**|Robert B. Griffiths|[2406.04363](http://arxiv.org/abs/2406.04363)|null|
 |**2024-06-06**|**Locally inaccessible hidden quantum correlations**|Andrés F. Ducuara, Cristian E. Susa, Paul Skrzypczyk|[2406.03945](http://arxiv.org/abs/2406.03945)|null|
 |**2024-06-02**|**Influence of joint measurement bases on sharing network nonlocality**|Amit Kundu, Debasis Sarkar|[2406.00838](http://arxiv.org/abs/2406.00838)|null|
 |**2024-05-22**|**Bell inequalities violation in relativity theory**|Alexander Belinsky, Igor Dzhadan|[2405.20789](http://arxiv.org/abs/2405.20789)|null|

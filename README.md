@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-09**|**Long Range Azimuthal Correlation, Entanglement and Bell Inequality Violation by Spinning Gluons at the LHC**|Yuxun Guo, Xiaohui Liu, Feng Yuan, Hua Xing Zhu|[2406.05880](http://arxiv.org/abs/2406.05880)|null|
 |**2024-06-07**|**CHSH Bell Tests For Optical Hybrid Entanglement**|Morteza Moradi, Juan Camilo López Carreño, Adam Buraczewski, Thomas McDermott, Beate Elisabeth Asenbeck, Julien Laurat, Magdalena Stobińska|[2406.04736](http://arxiv.org/abs/2406.04736)|null|
 |**2024-06-07**|**A Mechanism for Entanglement?**|Huw Price, Ken Wharton|[2406.04571](http://arxiv.org/abs/2406.04571)|null|
 |**2024-06-06**|**Entanglement and Bell nonlocality with bottom-quark pairs at hadron colliders**|Yoav Afik, Yevgeny Kats, Juan Ramón Muñoz de Nova, Abner Soffer, David Uzan|[2406.04402](http://arxiv.org/abs/2406.04402)|null|
@@ -403,6 +404,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Entanglement and steering in quantum batteries**|Dayang Zhang, Shuangquan Ma, Yunxiu Jiang, Youbin Yu, Guangri Jin, Aixi Chen|[2406.06373](http://arxiv.org/abs/2406.06373)|null|
 |**2024-06-06**|**Locally inaccessible hidden quantum correlations**|Andrés F. Ducuara, Cristian E. Susa, Paul Skrzypczyk|[2406.03945](http://arxiv.org/abs/2406.03945)|null|
 |**2024-05-25**|**Nonclassical characteristics in spin-1/2 Heisenberg XYZ model with added DM and KSEA interactions under sinusoidal magnetic field: Hierarchy of quantum resources**|A. Ali, S. Al-Kuwari, M. T. Rahim, M. Ghominejad, H. Ali, S. Haddadi|[2405.16294](http://arxiv.org/abs/2405.16294)|null|
 |**2024-05-14**|**Sharing Quantum Steering via Standard Projective Measurements**|Shufen Dong, Zinuo Cai, Chunfeng Wu, Changliang Ren|[2405.08588](http://arxiv.org/abs/2405.08588)|null|
@@ -608,7 +610,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-04**|**The computational power of random quantum circuits in arbitrary geometries**|Matthew DeCross, Reza Haghshenas, Minzhao Liu, Yuri Alexeev, Charles H. Baldwin, John P. Bartolotta, Matthew Bohn, Eli Chertkov, Jonhas Colina, Davide DelVento, Joan M. Dreiling, Cameron Foltz, John P. Gaebler, Thomas M. Gatterman, Christopher N. Gilbreth, Johnnie Gray, Dan Gresh, Nathan Hewitt, Ross B. Hutson, Jacob Johansen, Dominic Lucchetti, Danylo Lykov, Ivaylo S. Madjarov, Karl Mayer, Michael Mills, Pradeep Niroula, Enrico Rinaldi, Peter E. Siegfried, Bruce G. Tiemann, James Walker, Ruslan Shaydulin, Marco Pistoia, Steven. A. Moses, David Hayes, Brian Neyenhuis, Russell P. Stutz, Michael Foss-Feig|[2406.02501](http://arxiv.org/abs/2406.02501)|null|
+|**2024-06-10**|**The Negative Action Keldysh Spinors**|A. Jourjine|[2406.06194](http://arxiv.org/abs/2406.06194)|null|
+|**2024-06-09**|**Information scrambling in quantum-walks**|Himanshu Sahu|[2406.05865](http://arxiv.org/abs/2406.05865)|null|
+|**2024-06-10**|**The computational power of random quantum circuits in arbitrary geometries**|Matthew DeCross, Reza Haghshenas, Minzhao Liu, Yuri Alexeev, Charles H. Baldwin, John P. Bartolotta, Matthew Bohn, Eli Chertkov, Jonhas Colina, Davide DelVento, Joan M. Dreiling, Cameron Foltz, John P. Gaebler, Thomas M. Gatterman, Christopher N. Gilbreth, Johnnie Gray, Dan Gresh, Nathan Hewitt, Ross B. Hutson, Jacob Johansen, Dominic Lucchetti, Danylo Lykov, Ivaylo S. Madjarov, Karl Mayer, Michael Mills, Pradeep Niroula, Enrico Rinaldi, Peter E. Siegfried, Bruce G. Tiemann, Curtis Volin, James Walker, Ruslan Shaydulin, Marco Pistoia, Steven. A. Moses, David Hayes, Brian Neyenhuis, Russell P. Stutz, Michael Foss-Feig|[2406.02501](http://arxiv.org/abs/2406.02501)|null|
 |**2024-05-27**|**New horizon symmetries, hydrodynamics, and quantum chaos**|Maria Knysh, Hong Liu, Natalia Pinzani-Fokeeva|[2405.17559](http://arxiv.org/abs/2405.17559)|null|
 |**2024-05-27**|**Unorientable topological gravity and orthogonal random matrix universality**|Torsten Weber, Jarod Tall, Fabian Haneder, Juan Diego Urbina, Klaus Richter|[2405.17177](http://arxiv.org/abs/2405.17177)|null|
 |**2024-05-25**|**Spread complexity and quantum chaos for periodically driven spin-chains**|Amin A. Nizami, Ankit W. Shrestha|[2405.16182](http://arxiv.org/abs/2405.16182)|null|

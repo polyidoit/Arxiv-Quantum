@@ -591,6 +591,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Incompressibility and spectral gaps of random circuits**|Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan|[2406.07478](http://arxiv.org/abs/2406.07478)|null|
+|**2024-06-11**|**Few-Body Quantum Chaos, Localization, and Multi-Photon Entanglement in Optical Synthetic Frequency Dimension**|Junlin Wang, Luojia Wang, Jinlou Ma, Ang Yang, Luqi Yuan, Lei Ying|[2406.07346](http://arxiv.org/abs/2406.07346)|null|
 |**2024-06-10**|**The Negative Action Keldysh Spinors**|A. Jourjine|[2406.06194](http://arxiv.org/abs/2406.06194)|null|
 |**2024-06-09**|**Information scrambling in quantum-walks**|Himanshu Sahu|[2406.05865](http://arxiv.org/abs/2406.05865)|null|
 |**2024-06-10**|**The computational power of random quantum circuits in arbitrary geometries**|Matthew DeCross, Reza Haghshenas, Minzhao Liu, Yuri Alexeev, Charles H. Baldwin, John P. Bartolotta, Matthew Bohn, Eli Chertkov, Jonhas Colina, Davide DelVento, Joan M. Dreiling, Cameron Foltz, John P. Gaebler, Thomas M. Gatterman, Christopher N. Gilbreth, Johnnie Gray, Dan Gresh, Nathan Hewitt, Ross B. Hutson, Jacob Johansen, Dominic Lucchetti, Danylo Lykov, Ivaylo S. Madjarov, Karl Mayer, Michael Mills, Pradeep Niroula, Enrico Rinaldi, Peter E. Siegfried, Bruce G. Tiemann, Curtis Volin, James Walker, Ruslan Shaydulin, Marco Pistoia, Steven. A. Moses, David Hayes, Brian Neyenhuis, Russell P. Stutz, Michael Foss-Feig|[2406.02501](http://arxiv.org/abs/2406.02501)|null|
@@ -855,6 +857,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Quantum repeaters based on stationary Gottesman-Kitaev-Preskill qubits**|Stefan Häussler, Peter van Loock|[2406.07158](http://arxiv.org/abs/2406.07158)|null|
 |**2024-06-06**|**Leakage Mobility in Superconducting Qubits as a Leakage Reduction Unit**|Joan Camps, Ophelia Crawford, György P. Gehér, Alexander V. Gramolin, Matthew P. Stafford, Mark Turner|[2406.04083](http://arxiv.org/abs/2406.04083)|null|
 |**2024-06-06**|**New MDS codes of non-GRS type and NMDS codes**|Yujie Zhi, Shixin Zhu|[2406.03693](http://arxiv.org/abs/2406.03693)|null|
 |**2024-06-05**|**Sparse Color-Code Net: Real-Time RGB-Based 6D Object Pose Estimation on Edge Devices**|Xingjian Yang, Zhitao Yu, Ashis G. Banerjee|[2406.02977](http://arxiv.org/abs/2406.02977)|null|

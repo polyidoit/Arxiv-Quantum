@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 
 ## Bell nonlocality
 
@@ -593,7 +593,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-11**|**Incompressibility and spectral gaps of random circuits**|Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan|[2406.07478](http://arxiv.org/abs/2406.07478)|null|
 |**2024-06-11**|**Few-Body Quantum Chaos, Localization, and Multi-Photon Entanglement in Optical Synthetic Frequency Dimension**|Junlin Wang, Luojia Wang, Jinlou Ma, Ang Yang, Luqi Yuan, Lei Ying|[2406.07346](http://arxiv.org/abs/2406.07346)|null|
-|**2024-06-10**|**The Negative Action Keldysh Spinors**|A. Jourjine|[2406.06194](http://arxiv.org/abs/2406.06194)|null|
+|**2024-06-12**|**The Negative Action Keldysh Spinors**|A. Jourjine|[2406.06194](http://arxiv.org/abs/2406.06194)|null|
 |**2024-06-09**|**Information scrambling in quantum-walks**|Himanshu Sahu|[2406.05865](http://arxiv.org/abs/2406.05865)|null|
 |**2024-06-10**|**The computational power of random quantum circuits in arbitrary geometries**|Matthew DeCross, Reza Haghshenas, Minzhao Liu, Yuri Alexeev, Charles H. Baldwin, John P. Bartolotta, Matthew Bohn, Eli Chertkov, Jonhas Colina, Davide DelVento, Joan M. Dreiling, Cameron Foltz, John P. Gaebler, Thomas M. Gatterman, Christopher N. Gilbreth, Johnnie Gray, Dan Gresh, Nathan Hewitt, Ross B. Hutson, Jacob Johansen, Dominic Lucchetti, Danylo Lykov, Ivaylo S. Madjarov, Karl Mayer, Michael Mills, Pradeep Niroula, Enrico Rinaldi, Peter E. Siegfried, Bruce G. Tiemann, Curtis Volin, James Walker, Ruslan Shaydulin, Marco Pistoia, Steven. A. Moses, David Hayes, Brian Neyenhuis, Russell P. Stutz, Michael Foss-Feig|[2406.02501](http://arxiv.org/abs/2406.02501)|null|
 |**2024-05-27**|**New horizon symmetries, hydrodynamics, and quantum chaos**|Maria Knysh, Hong Liu, Natalia Pinzani-Fokeeva|[2405.17559](http://arxiv.org/abs/2405.17559)|null|

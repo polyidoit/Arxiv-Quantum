@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Generating multipartite nonlocality to benchmark quantum computers**|Jan Lennart Bönsel, Otfried Gühne, Adán Cabello|[2406.07659](http://arxiv.org/abs/2406.07659)|null|
 |**2024-06-09**|**Long Range Azimuthal Correlation, Entanglement and Bell Inequality Violation by Spinning Gluons at the LHC**|Yuxun Guo, Xiaohui Liu, Feng Yuan, Hua Xing Zhu|[2406.05880](http://arxiv.org/abs/2406.05880)|null|
 |**2024-06-07**|**CHSH Bell Tests For Optical Hybrid Entanglement**|Morteza Moradi, Juan Camilo López Carreño, Adam Buraczewski, Thomas McDermott, Beate Elisabeth Asenbeck, Julien Laurat, Magdalena Stobińska|[2406.04736](http://arxiv.org/abs/2406.04736)|null|
 |**2024-06-07**|**A Mechanism for Entanglement?**|Huw Price, Ken Wharton|[2406.04571](http://arxiv.org/abs/2406.04571)|null|

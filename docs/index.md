@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.14
+## Updated on 2024.06.15
 
 ## Bell nonlocality
 
@@ -301,6 +301,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Optimal demonstration of generalized quantum contextuality**|Soumyabrata Hazra, Debashis Saha, Anubhav Chaturvedi, Subhankar Bera, A. S. Majumdar|[2406.09111](http://arxiv.org/abs/2406.09111)|null|
 |**2024-05-31**|**Statistical signatures of quantum contextuality**|Holger F. Hofmann|[2405.20569](http://arxiv.org/abs/2405.20569)|null|
 |**2024-05-28**|**Biunits of ternary algebra of hypermatrices**|Viktor Abramov|[2405.17907](http://arxiv.org/abs/2405.17907)|null|
 |**2024-05-24**|**Graph Random Walk for Time-of-Flight Charge Mobilities**|Zhongquan Chen, Pim van der Hoorn, Björn Baumeier|[2405.15836](http://arxiv.org/abs/2405.15836)|null|
@@ -592,6 +593,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Boosting information transfer in a quantum correlated medium**|Finn Schmolke, Etienne Springer, Eric Lutz|[2406.09278](http://arxiv.org/abs/2406.09278)|null|
+|**2024-06-13**|**Finite-size generators for weak integrability breaking perturbations in the Heisenberg chain**|Sara Vanovac, Federica Maria Surace, Olexei Motrunich|[2406.08730](http://arxiv.org/abs/2406.08730)|null|
+|**2024-06-12**|**Family of Exact and Inexact Quantum Speed Limits for Completely Positive and Trace-Preserving Dynamics**|Abhay Srivastav, Vivek Pandey, Brij Mohan, Arun Kumar Pati|[2406.08584](http://arxiv.org/abs/2406.08584)|null|
 |**2024-06-11**|**Incompressibility and spectral gaps of random circuits**|Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan|[2406.07478](http://arxiv.org/abs/2406.07478)|null|
 |**2024-06-11**|**Few-Body Quantum Chaos, Localization, and Multi-Photon Entanglement in Optical Synthetic Frequency Dimension**|Junlin Wang, Luojia Wang, Jinlou Ma, Ang Yang, Luqi Yuan, Lei Ying|[2406.07346](http://arxiv.org/abs/2406.07346)|null|
 |**2024-06-12**|**The Negative Action Keldysh Spinors**|A. Jourjine|[2406.06194](http://arxiv.org/abs/2406.06194)|null|
@@ -858,6 +862,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Bayesian Inference of General Noise Model Parameters from Surface Code's Syndrome Statistics**|Takumi Kobori, Synge Todo|[2406.08981](http://arxiv.org/abs/2406.08981)|null|
+|**2024-06-13**|**Harnessing Quantum Entanglement: Comprehensive Strategies for Enhanced Communication and Beyond in Quantum Networks**|Amit Kumar Bhuyan, Hrishikesh Dutta|[2406.08833](http://arxiv.org/abs/2406.08833)|null|
+|**2024-06-13**|**Multiplexed Quantum Communication with Surface and Hypergraph Product Codes**|Shin Nishio, Nicholas Connolly, Nicolò Lo Piparo, William John Munro, Thomas Rowan Scruby, Kae Nemoto|[2406.08832](http://arxiv.org/abs/2406.08832)|null|
 |**2024-06-11**|**Quantum repeaters based on stationary Gottesman-Kitaev-Preskill qubits**|Stefan Häussler, Peter van Loock|[2406.07158](http://arxiv.org/abs/2406.07158)|null|
 |**2024-06-06**|**Leakage Mobility in Superconducting Qubits as a Leakage Reduction Unit**|Joan Camps, Ophelia Crawford, György P. Gehér, Alexander V. Gramolin, Matthew P. Stafford, Mark Turner|[2406.04083](http://arxiv.org/abs/2406.04083)|null|
 |**2024-06-06**|**New MDS codes of non-GRS type and NMDS codes**|Yujie Zhi, Shixin Zhu|[2406.03693](http://arxiv.org/abs/2406.03693)|null|

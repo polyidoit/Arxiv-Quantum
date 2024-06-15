@@ -1,4 +1,4 @@
-## Updated on 2024.06.14
+## Updated on 2024.06.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -231,7 +231,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240615>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -308,12 +308,13 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240615>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Optimal demonstration of generalized quantum contextuality**|Soumyabrata Hazra, Debashis Saha, Anubhav Chaturvedi, Subhankar Bera, A. S. Majumdar|[2406.09111](http://arxiv.org/abs/2406.09111)|null|
 |**2024-05-31**|**Statistical signatures of quantum contextuality**|Holger F. Hofmann|[2405.20569](http://arxiv.org/abs/2405.20569)|null|
 |**2024-05-28**|**Biunits of ternary algebra of hypermatrices**|Viktor Abramov|[2405.17907](http://arxiv.org/abs/2405.17907)|null|
 |**2024-05-24**|**Graph Random Walk for Time-of-Flight Charge Mobilities**|Zhongquan Chen, Pim van der Hoorn, Björn Baumeier|[2405.15836](http://arxiv.org/abs/2405.15836)|null|
@@ -399,7 +400,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240615>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -477,7 +478,7 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240615>back to top</a>)</p>
 
 ## Resource theory
 
@@ -605,12 +606,15 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240615>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Boosting information transfer in a quantum correlated medium**|Finn Schmolke, Etienne Springer, Eric Lutz|[2406.09278](http://arxiv.org/abs/2406.09278)|null|
+|**2024-06-13**|**Finite-size generators for weak integrability breaking perturbations in the Heisenberg chain**|Sara Vanovac, Federica Maria Surace, Olexei Motrunich|[2406.08730](http://arxiv.org/abs/2406.08730)|null|
+|**2024-06-12**|**Family of Exact and Inexact Quantum Speed Limits for Completely Positive and Trace-Preserving Dynamics**|Abhay Srivastav, Vivek Pandey, Brij Mohan, Arun Kumar Pati|[2406.08584](http://arxiv.org/abs/2406.08584)|null|
 |**2024-06-11**|**Incompressibility and spectral gaps of random circuits**|Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan|[2406.07478](http://arxiv.org/abs/2406.07478)|null|
 |**2024-06-11**|**Few-Body Quantum Chaos, Localization, and Multi-Photon Entanglement in Optical Synthetic Frequency Dimension**|Junlin Wang, Luojia Wang, Jinlou Ma, Ang Yang, Luqi Yuan, Lei Ying|[2406.07346](http://arxiv.org/abs/2406.07346)|null|
 |**2024-06-12**|**The Negative Action Keldysh Spinors**|A. Jourjine|[2406.06194](http://arxiv.org/abs/2406.06194)|null|
@@ -873,12 +877,15 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240615>back to top</a>)</p>
 
 ## Quantum error-correction code
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Bayesian Inference of General Noise Model Parameters from Surface Code's Syndrome Statistics**|Takumi Kobori, Synge Todo|[2406.08981](http://arxiv.org/abs/2406.08981)|null|
+|**2024-06-13**|**Harnessing Quantum Entanglement: Comprehensive Strategies for Enhanced Communication and Beyond in Quantum Networks**|Amit Kumar Bhuyan, Hrishikesh Dutta|[2406.08833](http://arxiv.org/abs/2406.08833)|null|
+|**2024-06-13**|**Multiplexed Quantum Communication with Surface and Hypergraph Product Codes**|Shin Nishio, Nicholas Connolly, Nicolò Lo Piparo, William John Munro, Thomas Rowan Scruby, Kae Nemoto|[2406.08832](http://arxiv.org/abs/2406.08832)|null|
 |**2024-06-11**|**Quantum repeaters based on stationary Gottesman-Kitaev-Preskill qubits**|Stefan Häussler, Peter van Loock|[2406.07158](http://arxiv.org/abs/2406.07158)|null|
 |**2024-06-06**|**Leakage Mobility in Superconducting Qubits as a Leakage Reduction Unit**|Joan Camps, Ophelia Crawford, György P. Gehér, Alexander V. Gramolin, Matthew P. Stafford, Mark Turner|[2406.04083](http://arxiv.org/abs/2406.04083)|null|
 |**2024-06-06**|**New MDS codes of non-GRS type and NMDS codes**|Yujie Zhi, Shixin Zhu|[2406.03693](http://arxiv.org/abs/2406.03693)|null|
@@ -1432,5 +1439,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240615>back to top</a>)</p>
 

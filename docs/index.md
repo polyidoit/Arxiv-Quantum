@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Topologically Robust Quantum Network Nonlocality**|Sadra Boreiri, Tamas Krivachy, Pavel Sekatski, Antoine Girardin, Nicolas Brunner|[2406.09510](http://arxiv.org/abs/2406.09510)|null|
 |**2024-06-11**|**Generating multipartite nonlocality to benchmark quantum computers**|Jan Lennart Bönsel, Otfried Gühne, Adán Cabello|[2406.07659](http://arxiv.org/abs/2406.07659)|null|
 |**2024-06-09**|**Long Range Azimuthal Correlation, Entanglement and Bell Inequality Violation by Spinning Gluons at the LHC**|Yuxun Guo, Xiaohui Liu, Feng Yuan, Hua Xing Zhu|[2406.05880](http://arxiv.org/abs/2406.05880)|null|
 |**2024-06-07**|**CHSH Bell Tests For Optical Hybrid Entanglement**|Morteza Moradi, Juan Camilo López Carreño, Adam Buraczewski, Thomas McDermott, Beate Elisabeth Asenbeck, Julien Laurat, Magdalena Stobińska|[2406.04736](http://arxiv.org/abs/2406.04736)|null|
@@ -593,6 +594,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Operator Space Entangling Power of Quantum Dynamics and Local Operator Entanglement Growth in Dual-Unitary Circuits**|Faidon Andreadakis, Emanuel Dallas, Paolo Zanardi|[2406.10206](http://arxiv.org/abs/2406.10206)|null|
 |**2024-06-13**|**Boosting information transfer in a quantum correlated medium**|Finn Schmolke, Etienne Springer, Eric Lutz|[2406.09278](http://arxiv.org/abs/2406.09278)|null|
 |**2024-06-13**|**Finite-size generators for weak integrability breaking perturbations in the Heisenberg chain**|Sara Vanovac, Federica Maria Surace, Olexei Motrunich|[2406.08730](http://arxiv.org/abs/2406.08730)|null|
 |**2024-06-12**|**Family of Exact and Inexact Quantum Speed Limits for Completely Positive and Trace-Preserving Dynamics**|Abhay Srivastav, Vivek Pandey, Brij Mohan, Arun Kumar Pati|[2406.08584](http://arxiv.org/abs/2406.08584)|null|
@@ -862,6 +864,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Genons, Double Covers and Fault-tolerant Clifford Gates**|Simon Burton, Elijah Durso-Sabina, Natalie C. Brown|[2406.09951](http://arxiv.org/abs/2406.09951)|null|
+|**2024-06-13**|**Approximate quantum error correcting codes from conformal field theory**|Shengqi Sang, Timothy H. Hsieh, Yijian Zou|[2406.09555](http://arxiv.org/abs/2406.09555)|null|
 |**2024-06-13**|**Bayesian Inference of General Noise Model Parameters from Surface Code's Syndrome Statistics**|Takumi Kobori, Synge Todo|[2406.08981](http://arxiv.org/abs/2406.08981)|null|
 |**2024-06-13**|**Harnessing Quantum Entanglement: Comprehensive Strategies for Enhanced Communication and Beyond in Quantum Networks**|Amit Kumar Bhuyan, Hrishikesh Dutta|[2406.08833](http://arxiv.org/abs/2406.08833)|null|
 |**2024-06-13**|**Multiplexed Quantum Communication with Surface and Hypergraph Product Codes**|Shin Nishio, Nicholas Connolly, Nicolò Lo Piparo, William John Munro, Thomas Rowan Scruby, Kae Nemoto|[2406.08832](http://arxiv.org/abs/2406.08832)|null|

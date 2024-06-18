@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Deriving three-outcome permutationally invariant Bell inequalities**|Albert Aloy, Guillem Müller-Rigat, Jordi Tura, Matteo Fadel|[2406.11792](http://arxiv.org/abs/2406.11792)|null|
+|**2024-06-17**|**Bell inequalities as a tool to probe quantum chaos**|Albert Aloy, Guillem Müller-Rigat, Maciej Lewenstein, Jordi Tura, Matteo Fadel|[2406.11791](http://arxiv.org/abs/2406.11791)|null|
+|**2024-06-17**|**Unbounded sequential multipartite nonlocality via violation of Mermin inequality**|Bang-Zhu Shen, Mao-Sheng Li|[2406.11466](http://arxiv.org/abs/2406.11466)|null|
+|**2024-06-15**|**Activation of post-quantumness in bipartite generalised EPR scenarios**|Beata Zjawin, Matty J. Hoban, Paul Skrzypczyk, Ana Belén Sainz|[2406.10697](http://arxiv.org/abs/2406.10697)|null|
+|**2024-06-15**|**Activation of post-quantum steering**|Ana Belén Sainz, Paul Skrzypczyk, Matty J. Hoban|[2406.10570](http://arxiv.org/abs/2406.10570)|null|
 |**2024-06-13**|**Topologically Robust Quantum Network Nonlocality**|Sadra Boreiri, Tamas Krivachy, Pavel Sekatski, Antoine Girardin, Nicolas Brunner|[2406.09510](http://arxiv.org/abs/2406.09510)|null|
 |**2024-06-11**|**Generating multipartite nonlocality to benchmark quantum computers**|Jan Lennart Bönsel, Otfried Gühne, Adán Cabello|[2406.07659](http://arxiv.org/abs/2406.07659)|null|
 |**2024-06-09**|**Long Range Azimuthal Correlation, Entanglement and Bell Inequality Violation by Spinning Gluons at the LHC**|Yuxun Guo, Xiaohui Liu, Feng Yuan, Hua Xing Zhu|[2406.05880](http://arxiv.org/abs/2406.05880)|null|
@@ -392,6 +397,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-15**|**Activation of post-quantum steering**|Ana Belén Sainz, Paul Skrzypczyk, Matty J. Hoban|[2406.10570](http://arxiv.org/abs/2406.10570)|null|
 |**2024-06-10**|**Entanglement and steering in quantum batteries**|Dayang Zhang, Shuangquan Ma, Yunxiu Jiang, Youbin Yu, Guangri Jin, Aixi Chen|[2406.06373](http://arxiv.org/abs/2406.06373)|null|
 |**2024-06-06**|**Locally inaccessible hidden quantum correlations**|Andrés F. Ducuara, Cristian E. Susa, Paul Skrzypczyk|[2406.03945](http://arxiv.org/abs/2406.03945)|null|
 |**2024-05-25**|**Nonclassical characteristics in spin-1/2 Heisenberg XYZ model with added DM and KSEA interactions under sinusoidal magnetic field: Hierarchy of quantum resources**|A. Ali, S. Al-Kuwari, M. T. Rahim, M. Ghominejad, H. Ali, S. Haddadi|[2405.16294](http://arxiv.org/abs/2405.16294)|null|
@@ -468,6 +474,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-15**|**Nonlocal cooperative behaviour, psychological effects, and collective decision-making: an exemplification with predator-prey models**|Sangeeta Saha, Swadesh Pal, Roderick Melnik|[2406.10713](http://arxiv.org/abs/2406.10713)|null|
+|**2024-06-15**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang, Lue Fan, Chenhang He, Zhen Lei, Zhaoxiang Zhang, Lei Zhang|[2406.10700](http://arxiv.org/abs/2406.10700)|null|
 |**2024-06-06**|**Enhanced Model-Free Dynamic State Estimation for a Soft Robot Finger Using an Embedded Optical Waveguide Sensor**|Henrik Krauss, Kenjiro Takemura|[2406.03708](http://arxiv.org/abs/2406.03708)|null|
 |**2024-06-03**|**Kronecker-product random matrices and a matrix least squares problem**|Zhou Fan, Renyuan Ma|[2406.00961](http://arxiv.org/abs/2406.00961)|null|
 |**2024-06-02**|**Resource-theoretic hierarchy of contextuality for general probabilistic theories**|Lorenzo Catani, Thomas D. Galley, Tomáš Gonda|[2406.00717](http://arxiv.org/abs/2406.00717)|null|
@@ -594,6 +602,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Bell inequalities as a tool to probe quantum chaos**|Albert Aloy, Guillem Müller-Rigat, Maciej Lewenstein, Jordi Tura, Matteo Fadel|[2406.11791](http://arxiv.org/abs/2406.11791)|null|
+|**2024-06-17**|**Brownian Gaussian Unitary Ensemble: non-equilibrium dynamics, efficient $k$ -design and application in classical shadow tomography**|Haifeng Tang|[2406.11320](http://arxiv.org/abs/2406.11320)|null|
 |**2024-06-14**|**Operator Space Entangling Power of Quantum Dynamics and Local Operator Entanglement Growth in Dual-Unitary Circuits**|Faidon Andreadakis, Emanuel Dallas, Paolo Zanardi|[2406.10206](http://arxiv.org/abs/2406.10206)|null|
 |**2024-06-13**|**Boosting information transfer in a quantum correlated medium**|Finn Schmolke, Etienne Springer, Eric Lutz|[2406.09278](http://arxiv.org/abs/2406.09278)|null|
 |**2024-06-13**|**Finite-size generators for weak integrability breaking perturbations in the Heisenberg chain**|Sara Vanovac, Federica Maria Surace, Olexei Motrunich|[2406.08730](http://arxiv.org/abs/2406.08730)|null|
@@ -864,6 +874,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Lecture Notes on Quantum Algorithms in Open Quantum Systems**|Matteo Carlesso|[2406.11613](http://arxiv.org/abs/2406.11613)|null|
+|**2024-06-15**|**m-QMDS codes over mixed alphabets via orthogonal arrays**|Shanqi Pang, Mengqian Chen, Rong Yan, Yan Zhu|[2406.10629](http://arxiv.org/abs/2406.10629)|null|
+|**2024-06-14**|**Fast and Accurate GHZ Encoding Using All-to-all Interactions**|Chao Yin|[2406.10336](http://arxiv.org/abs/2406.10336)|null|
 |**2024-06-14**|**Genons, Double Covers and Fault-tolerant Clifford Gates**|Simon Burton, Elijah Durso-Sabina, Natalie C. Brown|[2406.09951](http://arxiv.org/abs/2406.09951)|null|
 |**2024-06-13**|**Approximate quantum error correcting codes from conformal field theory**|Shengqi Sang, Timothy H. Hsieh, Yijian Zou|[2406.09555](http://arxiv.org/abs/2406.09555)|null|
 |**2024-06-13**|**Bayesian Inference of General Noise Model Parameters from Surface Code's Syndrome Statistics**|Takumi Kobori, Synge Todo|[2406.08981](http://arxiv.org/abs/2406.08981)|null|

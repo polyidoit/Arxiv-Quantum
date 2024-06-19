@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Three-outcome multipartite Bell inequalities: applications to dimension witnessing and spin-nematic squeezing in many-body systems**|Guillem Müller-Rigat, Albert Aloy, Maciej Lewenstein, Matteo Fadel, Jordi Tura|[2406.12823](http://arxiv.org/abs/2406.12823)|null|
+|**2024-06-18**|**The Local Account of Bell Nonlocality**|Charles Alexandre Bédard|[2406.12184](http://arxiv.org/abs/2406.12184)|null|
 |**2024-06-17**|**Deriving three-outcome permutationally invariant Bell inequalities**|Albert Aloy, Guillem Müller-Rigat, Jordi Tura, Matteo Fadel|[2406.11792](http://arxiv.org/abs/2406.11792)|null|
 |**2024-06-17**|**Bell inequalities as a tool to probe quantum chaos**|Albert Aloy, Guillem Müller-Rigat, Maciej Lewenstein, Jordi Tura, Matteo Fadel|[2406.11791](http://arxiv.org/abs/2406.11791)|null|
 |**2024-06-17**|**Unbounded sequential multipartite nonlocality via violation of Mermin inequality**|Bang-Zhu Shen, Mao-Sheng Li|[2406.11466](http://arxiv.org/abs/2406.11466)|null|
@@ -492,7 +494,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-15**|**Nonlocal cooperative behaviour, psychological effects, and collective decision-making: an exemplification with predator-prey models**|Sangeeta Saha, Swadesh Pal, Roderick Melnik|[2406.10713](http://arxiv.org/abs/2406.10713)|null|
-|**2024-06-15**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang, Lue Fan, Chenhang He, Zhen Lei, Zhaoxiang Zhang, Lei Zhang|[2406.10700](http://arxiv.org/abs/2406.10700)|null|
+|**2024-06-18**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang, Lue Fan, Chenhang He, Zhen Lei, Zhaoxiang Zhang, Lei Zhang|[2406.10700](http://arxiv.org/abs/2406.10700)|**[link](https://github.com/gwenzhang/voxel-mamba)**|
 |**2024-06-06**|**Enhanced Model-Free Dynamic State Estimation for a Soft Robot Finger Using an Embedded Optical Waveguide Sensor**|Henrik Krauss, Kenjiro Takemura|[2406.03708](http://arxiv.org/abs/2406.03708)|null|
 |**2024-06-03**|**Kronecker-product random matrices and a matrix least squares problem**|Zhou Fan, Renyuan Ma|[2406.00961](http://arxiv.org/abs/2406.00961)|null|
 |**2024-06-02**|**Resource-theoretic hierarchy of contextuality for general probabilistic theories**|Lorenzo Catani, Thomas D. Galley, Tomáš Gonda|[2406.00717](http://arxiv.org/abs/2406.00717)|null|
@@ -621,6 +623,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Probing quantum chaos through singular-value correlations in sparse non-Hermitian SYK model**|Pratik Nandy, Tanay Pathak, Masaki Tezuka|[2406.11969](http://arxiv.org/abs/2406.11969)|null|
 |**2024-06-17**|**Bell inequalities as a tool to probe quantum chaos**|Albert Aloy, Guillem Müller-Rigat, Maciej Lewenstein, Jordi Tura, Matteo Fadel|[2406.11791](http://arxiv.org/abs/2406.11791)|null|
 |**2024-06-17**|**Brownian Gaussian Unitary Ensemble: non-equilibrium dynamics, efficient $k$ -design and application in classical shadow tomography**|Haifeng Tang|[2406.11320](http://arxiv.org/abs/2406.11320)|null|
 |**2024-06-14**|**Operator Space Entangling Power of Quantum Dynamics and Local Operator Entanglement Growth in Dual-Unitary Circuits**|Faidon Andreadakis, Emanuel Dallas, Paolo Zanardi|[2406.10206](http://arxiv.org/abs/2406.10206)|null|
@@ -895,6 +898,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Transversal CNOT gate with multi-cycle error correction**|Younghun Kim, Martin Sevior, Muhammad Usman|[2406.12267](http://arxiv.org/abs/2406.12267)|null|
+|**2024-06-18**|**A hybrid atom tweezer array of nuclear spin and optical clock qubits**|Yuma Nakamura, Toshi Kusano, Rei Yokoyama, Keito Saito, Koichiro Higashi, Naoya Ozawa, Tetsushi Takano, Yosuke Takasu, Yoshiro Takahashi|[2406.12247](http://arxiv.org/abs/2406.12247)|null|
+|**2024-06-17**|**Equivalence Classes of Quantum Error-Correcting Codes**|Andrey Boris Khesin, Alexander Li|[2406.12083](http://arxiv.org/abs/2406.12083)|null|
+|**2024-06-17**|**Exploring Gamification in Quantum Computing: The Qubit Factory**|Glen Evenbly|[2406.11995](http://arxiv.org/abs/2406.11995)|null|
 |**2024-06-17**|**Lecture Notes on Quantum Algorithms in Open Quantum Systems**|Matteo Carlesso|[2406.11613](http://arxiv.org/abs/2406.11613)|null|
 |**2024-06-15**|**m-QMDS codes over mixed alphabets via orthogonal arrays**|Shanqi Pang, Mengqian Chen, Rong Yan, Yan Zhu|[2406.10629](http://arxiv.org/abs/2406.10629)|null|
 |**2024-06-14**|**Fast and Accurate GHZ Encoding Using All-to-all Interactions**|Chao Yin|[2406.10336](http://arxiv.org/abs/2406.10336)|null|

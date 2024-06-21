@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Single Bell inequality to detect genuine nonlocality in three-qubit genuinely entangled states**|Ignacy Stachura, Owidiusz Makuta, Remigiusz Augusiak|[2406.14078](http://arxiv.org/abs/2406.14078)|null|
+|**2024-06-18**|**Why quantum correlations are shocking**|Michael J. W. Hall|[2406.13040](http://arxiv.org/abs/2406.13040)|null|
 |**2024-06-18**|**Three-outcome multipartite Bell inequalities: applications to dimension witnessing and spin-nematic squeezing in many-body systems**|Guillem Müller-Rigat, Albert Aloy, Maciej Lewenstein, Matteo Fadel, Jordi Tura|[2406.12823](http://arxiv.org/abs/2406.12823)|null|
 |**2024-06-18**|**The Local Account of Bell Nonlocality**|Charles Alexandre Bédard|[2406.12184](http://arxiv.org/abs/2406.12184)|null|
 |**2024-06-17**|**Deriving three-outcome permutationally invariant Bell inequalities**|Albert Aloy, Guillem Müller-Rigat, Jordi Tura, Matteo Fadel|[2406.11792](http://arxiv.org/abs/2406.11792)|null|
@@ -399,6 +401,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-19**|**Quantum steering under constrained free-will**|Abhishek Sadhu, Siddhartha Das|[2406.13494](http://arxiv.org/abs/2406.13494)|null|
+|**2024-06-19**|**EPR Steering Criterion and Monogamy Relation via Correlation Matrices in Tripartite Systems**|Li-Juan Li, Xiao-Gang Fan, Xue-Ke Song, Liu Ye, Dong Wang|[2406.13290](http://arxiv.org/abs/2406.13290)|null|
 |**2024-06-15**|**Activation of post-quantum steering**|Ana Belén Sainz, Paul Skrzypczyk, Matty J. Hoban|[2406.10570](http://arxiv.org/abs/2406.10570)|null|
 |**2024-06-10**|**Entanglement and steering in quantum batteries**|Dayang Zhang, Shuangquan Ma, Yunxiu Jiang, Youbin Yu, Guangri Jin, Aixi Chen|[2406.06373](http://arxiv.org/abs/2406.06373)|null|
 |**2024-06-06**|**Locally inaccessible hidden quantum correlations**|Andrés F. Ducuara, Cristian E. Susa, Paul Skrzypczyk|[2406.03945](http://arxiv.org/abs/2406.03945)|null|
@@ -476,6 +480,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Orbit symmetry breaking in MXene implements enhanced soft bioelectronic implants**|Yizhang Wu, Yuan Li, Yihan Liu, Dashuai Zhu, Sicheng Xing, Noah Lambert, Hannah Weisbecker, Siyuan Liu, Brayden Davis, Lin Zhang, Meixiang Wang, Gongkai Yuan, Chris Zhoufan You, Anran Zhang, Cate Duncan, Wanrong Xie, Yihang Wang, Yong Wang, Sreya Kanamurlapudi, Garcia-Guzman Evert, Arjun Putcha, Michael D. Dickey, Ke Huang, Wubin Bai|[2406.13956](http://arxiv.org/abs/2406.13956)|null|
 |**2024-06-15**|**Nonlocal cooperative behaviour, psychological effects, and collective decision-making: an exemplification with predator-prey models**|Sangeeta Saha, Swadesh Pal, Roderick Melnik|[2406.10713](http://arxiv.org/abs/2406.10713)|null|
 |**2024-06-18**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang, Lue Fan, Chenhang He, Zhen Lei, Zhaoxiang Zhang, Lei Zhang|[2406.10700](http://arxiv.org/abs/2406.10700)|**[link](https://github.com/gwenzhang/voxel-mamba)**|
 |**2024-06-06**|**Enhanced Model-Free Dynamic State Estimation for a Soft Robot Finger Using an Embedded Optical Waveguide Sensor**|Henrik Krauss, Kenjiro Takemura|[2406.03708](http://arxiv.org/abs/2406.03708)|null|
@@ -604,6 +609,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-19**|**Amplitude Amplification and Estimation using quantum kicked rotor**|Keshav V., M. S. Santhanam|[2406.13211](http://arxiv.org/abs/2406.13211)|null|
 |**2024-06-17**|**Probing quantum chaos through singular-value correlations in sparse non-Hermitian SYK model**|Pratik Nandy, Tanay Pathak, Masaki Tezuka|[2406.11969](http://arxiv.org/abs/2406.11969)|null|
 |**2024-06-17**|**Bell inequalities as a tool to probe quantum chaos**|Albert Aloy, Guillem Müller-Rigat, Maciej Lewenstein, Jordi Tura, Matteo Fadel|[2406.11791](http://arxiv.org/abs/2406.11791)|null|
 |**2024-06-17**|**Brownian Gaussian Unitary Ensemble: non-equilibrium dynamics, efficient $k$ -design and application in classical shadow tomography**|Haifeng Tang|[2406.11320](http://arxiv.org/abs/2406.11320)|null|
@@ -877,6 +883,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Ambiguity Clustering: an accurate and efficient decoder for qLDPC codes**|Stasiu Wolanski, Ben Barber|[2406.14527](http://arxiv.org/abs/2406.14527)|null|
+|**2024-06-20**|**Science in a Blink: Supporting Ensemble Perception in Scalar Fields**|Victor A. Mateevitsi, Michael E. Papka, Khairi Reda|[2406.14452](http://arxiv.org/abs/2406.14452)|null|
+|**2024-06-20**|**High-threshold, low-overhead and single-shot decodable fault-tolerant quantum memory**|Thomas R. Scruby, Timo Hillmann, Joschka Roffe|[2406.14445](http://arxiv.org/abs/2406.14445)|null|
+|**2024-06-20**|**New QEC codes and EAQEC codes from repeated-root cyclic codes of length $2^rp^s$**|Lanqiang Li, Ziwen Cao, Tingting Wu, Li Liu|[2406.13943](http://arxiv.org/abs/2406.13943)|null|
 |**2024-06-18**|**Transversal CNOT gate with multi-cycle error correction**|Younghun Kim, Martin Sevior, Muhammad Usman|[2406.12267](http://arxiv.org/abs/2406.12267)|null|
 |**2024-06-18**|**A hybrid atom tweezer array of nuclear spin and optical clock qubits**|Yuma Nakamura, Toshi Kusano, Rei Yokoyama, Keito Saito, Koichiro Higashi, Naoya Ozawa, Tetsushi Takano, Yosuke Takasu, Yoshiro Takahashi|[2406.12247](http://arxiv.org/abs/2406.12247)|null|
 |**2024-06-17**|**Equivalence Classes of Quantum Error-Correcting Codes**|Andrey Boris Khesin, Alexander Li|[2406.12083](http://arxiv.org/abs/2406.12083)|null|

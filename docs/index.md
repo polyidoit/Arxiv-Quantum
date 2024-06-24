@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Verifying Hierarchic Multipartite and Network Nonlocalities with a Unified Method**|Ming-Xing Luo, Shao-Ming Fei|[2406.14831](http://arxiv.org/abs/2406.14831)|null|
 |**2024-06-20**|**Single Bell inequality to detect genuine nonlocality in three-qubit genuinely entangled states**|Ignacy Stachura, Owidiusz Makuta, Remigiusz Augusiak|[2406.14078](http://arxiv.org/abs/2406.14078)|null|
 |**2024-06-18**|**Why quantum correlations are shocking**|Michael J. W. Hall|[2406.13040](http://arxiv.org/abs/2406.13040)|null|
 |**2024-06-18**|**Three-outcome multipartite Bell inequalities: applications to dimension witnessing and spin-nematic squeezing in many-body systems**|Guillem Müller-Rigat, Albert Aloy, Maciej Lewenstein, Matteo Fadel, Jordi Tura|[2406.12823](http://arxiv.org/abs/2406.12823)|null|
@@ -480,6 +481,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Investigating Instabilities in Magnetized Low-pressure Capacitively-Coupled RF Plasma using Particle-in-Cell (PIC) Simulations**|Sathya Ganta, Kallol Bera, Shahid Rauf, Igor Kaganovich, Alexander Khrabrov, Andrew T Powis, Dmytro Sydorenko, Liang Xu|[2406.14974](http://arxiv.org/abs/2406.14974)|null|
 |**2024-06-20**|**Orbit symmetry breaking in MXene implements enhanced soft bioelectronic implants**|Yizhang Wu, Yuan Li, Yihan Liu, Dashuai Zhu, Sicheng Xing, Noah Lambert, Hannah Weisbecker, Siyuan Liu, Brayden Davis, Lin Zhang, Meixiang Wang, Gongkai Yuan, Chris Zhoufan You, Anran Zhang, Cate Duncan, Wanrong Xie, Yihang Wang, Yong Wang, Sreya Kanamurlapudi, Garcia-Guzman Evert, Arjun Putcha, Michael D. Dickey, Ke Huang, Wubin Bai|[2406.13956](http://arxiv.org/abs/2406.13956)|null|
 |**2024-06-15**|**Nonlocal cooperative behaviour, psychological effects, and collective decision-making: an exemplification with predator-prey models**|Sangeeta Saha, Swadesh Pal, Roderick Melnik|[2406.10713](http://arxiv.org/abs/2406.10713)|null|
 |**2024-06-18**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang, Lue Fan, Chenhang He, Zhen Lei, Zhaoxiang Zhang, Lei Zhang|[2406.10700](http://arxiv.org/abs/2406.10700)|**[link](https://github.com/gwenzhang/voxel-mamba)**|
@@ -883,6 +885,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models**|Sanjay Vishwakarma, Francis Harkins, Siddharth Golecha, Vishal Sharathchandra Bajpe, Nicolas Dupuis, Luca Buratti, David Kremer, Ismael Faro, Ruchir Puri, Juan Cruz-Benito|[2406.14712](http://arxiv.org/abs/2406.14712)|null|
 |**2024-06-20**|**Ambiguity Clustering: an accurate and efficient decoder for qLDPC codes**|Stasiu Wolanski, Ben Barber|[2406.14527](http://arxiv.org/abs/2406.14527)|null|
 |**2024-06-20**|**Science in a Blink: Supporting Ensemble Perception in Scalar Fields**|Victor A. Mateevitsi, Michael E. Papka, Khairi Reda|[2406.14452](http://arxiv.org/abs/2406.14452)|null|
 |**2024-06-20**|**High-threshold, low-overhead and single-shot decodable fault-tolerant quantum memory**|Thomas R. Scruby, Timo Hillmann, Joschka Roffe|[2406.14445](http://arxiv.org/abs/2406.14445)|null|

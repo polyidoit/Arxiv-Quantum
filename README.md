@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Bell nonlocality and entanglement in $e^{+}e^{-} \rightarrow Y\bar{Y}$ at BESIII**|Sihao Wu, Chen Qian, Qun Wang, Xiao-Rong Zhou|[2406.16298](http://arxiv.org/abs/2406.16298)|null|
+|**2024-06-23**|**Refined Tsirelson Bounds on Multipartite Bell Inequalities**|Rain Lenny, Dana Ben Porath, Eliahu Cohen|[2406.16202](http://arxiv.org/abs/2406.16202)|null|
+|**2024-06-21**|**Escaping the Shadow of Bell's Theorem in Network Nonlocality**|Maria Ciudad-Alañón, Emanuel-Cristian Boghiu, Paolo Abiuso, Elie Wolfe|[2406.15587](http://arxiv.org/abs/2406.15587)|null|
 |**2024-06-21**|**Verifying Hierarchic Multipartite and Network Nonlocalities with a Unified Method**|Ming-Xing Luo, Shao-Ming Fei|[2406.14831](http://arxiv.org/abs/2406.14831)|null|
 |**2024-06-20**|**Single Bell inequality to detect genuine nonlocality in three-qubit genuinely entangled states**|Ignacy Stachura, Owidiusz Makuta, Remigiusz Augusiak|[2406.14078](http://arxiv.org/abs/2406.14078)|null|
 |**2024-06-18**|**Why quantum correlations are shocking**|Michael J. W. Hall|[2406.13040](http://arxiv.org/abs/2406.13040)|null|
@@ -325,6 +328,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-23**|**Free Electron Theory for Thin Metal Films**|Philip B. Allen|[2406.16197](http://arxiv.org/abs/2406.16197)|null|
 |**2024-06-13**|**Optimal demonstration of generalized quantum contextuality**|Soumyabrata Hazra, Debashis Saha, Anubhav Chaturvedi, Subhankar Bera, A. S. Majumdar|[2406.09111](http://arxiv.org/abs/2406.09111)|null|
 |**2024-05-31**|**Statistical signatures of quantum contextuality**|Holger F. Hofmann|[2405.20569](http://arxiv.org/abs/2405.20569)|null|
 |**2024-05-28**|**Biunits of ternary algebra of hypermatrices**|Viktor Abramov|[2405.17907](http://arxiv.org/abs/2405.17907)|null|
@@ -417,6 +421,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-23**|**Quantum battery in the Heisenberg spin chain models with Dzyaloshinskii-Moriya interaction**|Xiang-Long Zhang, Xue-Ke Song, Dong Wang|[2406.16047](http://arxiv.org/abs/2406.16047)|null|
 |**2024-06-19**|**Quantum steering under constrained free-will**|Abhishek Sadhu, Siddhartha Das|[2406.13494](http://arxiv.org/abs/2406.13494)|null|
 |**2024-06-19**|**EPR Steering Criterion and Monogamy Relation via Correlation Matrices in Tripartite Systems**|Li-Juan Li, Xiao-Gang Fan, Xue-Ke Song, Liu Ye, Dong Wang|[2406.13290](http://arxiv.org/abs/2406.13290)|null|
 |**2024-06-15**|**Activation of post-quantum steering**|Ana Belén Sainz, Paul Skrzypczyk, Matty J. Hoban|[2406.10570](http://arxiv.org/abs/2406.10570)|null|
@@ -630,6 +635,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Thermal state preparation of the SYK model using a variational quantum algorithm**|Jack Y. Araz, Raghav G. Jha, Felix Ringer, Bharath Sambasivam|[2406.15545](http://arxiv.org/abs/2406.15545)|null|
 |**2024-06-19**|**Amplitude Amplification and Estimation using quantum kicked rotor**|Keshav V., M. S. Santhanam|[2406.13211](http://arxiv.org/abs/2406.13211)|null|
 |**2024-06-17**|**Probing quantum chaos through singular-value correlations in sparse non-Hermitian SYK model**|Pratik Nandy, Tanay Pathak, Masaki Tezuka|[2406.11969](http://arxiv.org/abs/2406.11969)|null|
 |**2024-06-17**|**Bell inequalities as a tool to probe quantum chaos**|Albert Aloy, Guillem Müller-Rigat, Maciej Lewenstein, Jordi Tura, Matteo Fadel|[2406.11791](http://arxiv.org/abs/2406.11791)|null|
@@ -906,6 +912,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-23**|**Quantum computer specification for nuclear structure calculations**|Ching-Hwa Wee, Meng-Hock Koh, Yung Szen Yap|[2406.16165](http://arxiv.org/abs/2406.16165)|null|
+|**2024-06-22**|**Perturbative stability and error correction thresholds of quantum codes**|Yaodong Li, Nicholas O'Dea, Vedika Khemani|[2406.15757](http://arxiv.org/abs/2406.15757)|null|
 |**2024-06-20**|**Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models**|Sanjay Vishwakarma, Francis Harkins, Siddharth Golecha, Vishal Sharathchandra Bajpe, Nicolas Dupuis, Luca Buratti, David Kremer, Ismael Faro, Ruchir Puri, Juan Cruz-Benito|[2406.14712](http://arxiv.org/abs/2406.14712)|null|
 |**2024-06-20**|**Ambiguity Clustering: an accurate and efficient decoder for qLDPC codes**|Stasiu Wolanski, Ben Barber|[2406.14527](http://arxiv.org/abs/2406.14527)|null|
 |**2024-06-20**|**Science in a Blink: Supporting Ensemble Perception in Scalar Fields**|Victor A. Mateevitsi, Michael E. Papka, Khairi Reda|[2406.14452](http://arxiv.org/abs/2406.14452)|null|

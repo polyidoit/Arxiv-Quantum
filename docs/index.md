@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Bell inequality is violated in charmonium decays**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2406.17772](http://arxiv.org/abs/2406.17772)|null|
+|**2024-06-25**|**Sharing tripartite nonlocality sequentially using only projective measurements**|Yiyang Xu, Hao Sun, Fenzhuo Guo, Haifeng Dong, Qiaoyan Wen|[2406.17551](http://arxiv.org/abs/2406.17551)|null|
+|**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
 |**2024-06-24**|**Bell nonlocality and entanglement in $e^{+}e^{-} \rightarrow Y\bar{Y}$ at BESIII**|Sihao Wu, Chen Qian, Qun Wang, Xiao-Rong Zhou|[2406.16298](http://arxiv.org/abs/2406.16298)|null|
 |**2024-06-23**|**Refined Tsirelson Bounds on Multipartite Bell Inequalities**|Rain Lenny, Dana Ben Porath, Eliahu Cohen|[2406.16202](http://arxiv.org/abs/2406.16202)|null|
 |**2024-06-21**|**Escaping the Shadow of Bell's Theorem in Network Nonlocality**|Maria Ciudad-Alañón, Emanuel-Cristian Boghiu, Paolo Abiuso, Elie Wolfe|[2406.15587](http://arxiv.org/abs/2406.15587)|null|
@@ -406,6 +409,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
 |**2024-06-23**|**Quantum battery in the Heisenberg spin chain models with Dzyaloshinskii-Moriya interaction**|Xiang-Long Zhang, Xue-Ke Song, Dong Wang|[2406.16047](http://arxiv.org/abs/2406.16047)|null|
 |**2024-06-19**|**Quantum steering under constrained free-will**|Abhishek Sadhu, Siddhartha Das|[2406.13494](http://arxiv.org/abs/2406.13494)|null|
 |**2024-06-19**|**EPR Steering Criterion and Monogamy Relation via Correlation Matrices in Tripartite Systems**|Li-Juan Li, Xiao-Gang Fan, Xue-Ke Song, Liu Ye, Dong Wang|[2406.13290](http://arxiv.org/abs/2406.13290)|null|
@@ -891,6 +895,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Algorithmic Fault Tolerance for Fast Quantum Computing**|Hengyun Zhou, Chen Zhao, Madelyn Cain, Dolev Bluvstein, Casey Duckering, Hong-Ye Hu, Sheng-Tao Wang, Aleksander Kubica, Mikhail D. Lukin|[2406.17653](http://arxiv.org/abs/2406.17653)|null|
+|**2024-06-25**|**YAQQ: Yet Another Quantum Quantizer -- Design Space Exploration of Quantum Gate Sets using Novelty Search**|Aritra Sarkar, Akash Kundu, Matthew Steinberg, Sibasish Mishra, Sebastiaan Fauquenot, Tamal Acharya, Jarosław A. Miszczak, Sebastian Feld|[2406.17610](http://arxiv.org/abs/2406.17610)|null|
+|**2024-06-24**|**Collective Bit Flipping-Based Decoding of Quantum LDPC Codes**|Dimitris Chytas, Nithin Raveendran, Bane Vasić|[2406.17070](http://arxiv.org/abs/2406.17070)|null|
+|**2024-06-24**|**Fault-tolerant embedding of quantum circuits on hardware architectures via swap gates**|Shao-Hen Chiew, Ezequiel Ignacio Rodriguez Chiacchio, Vishal Sharma, Jing Hao Chai, Hui Khoon Ng|[2406.17044](http://arxiv.org/abs/2406.17044)|null|
 |**2024-06-23**|**Quantum computer specification for nuclear structure calculations**|Ching-Hwa Wee, Meng-Hock Koh, Yung Szen Yap|[2406.16165](http://arxiv.org/abs/2406.16165)|null|
 |**2024-06-22**|**Perturbative stability and error correction thresholds of quantum codes**|Yaodong Li, Nicholas O'Dea, Vedika Khemani|[2406.15757](http://arxiv.org/abs/2406.15757)|null|
 |**2024-06-20**|**Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models**|Sanjay Vishwakarma, Francis Harkins, Siddharth Golecha, Vishal Sharathchandra Bajpe, Nicolas Dupuis, Luca Buratti, David Kremer, Ismael Faro, Ruchir Puri, Juan Cruz-Benito|[2406.14712](http://arxiv.org/abs/2406.14712)|null|

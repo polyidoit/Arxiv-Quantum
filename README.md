@@ -254,6 +254,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Indefinite Causal Structure and Causal Inequalities with Time-Symmetry**|Luke Mrini, Lucien Hardy|[2406.18489](http://arxiv.org/abs/2406.18489)|null|
 |**2024-06-06**|**Online learning of quantum processes**|Asad Raza, Matthias C. Caro, Jens Eisert, Sumeet Khatri|[2406.04250](http://arxiv.org/abs/2406.04250)|null|
 |**2024-06-02**|**Matrix-Valued Measures and Wishart Statistics for Target Tracking Applications**|Robin Forsling, Simon J. Julier, Gustaf Hendeby|[2406.00861](http://arxiv.org/abs/2406.00861)|null|
 |**2024-05-30**|**Higher-order incompatibility improves distinguishability of causal quantum networks**|Nidhin Sudarsanan Ragini, Sk Sazim|[2405.20080](http://arxiv.org/abs/2405.20080)|null|
@@ -639,6 +640,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**A study of three butterflies: entanglement wedge method, OTOC and pole-skipping**|Banashree Baishya, Adrita Chakraborty, Nibedita Padhi|[2406.18319](http://arxiv.org/abs/2406.18319)|null|
 |**2024-06-21**|**Thermal state preparation of the SYK model using a variational quantum algorithm**|Jack Y. Araz, Raghav G. Jha, Felix Ringer, Bharath Sambasivam|[2406.15545](http://arxiv.org/abs/2406.15545)|null|
 |**2024-06-19**|**Amplitude Amplification and Estimation using quantum kicked rotor**|Keshav V., M. S. Santhanam|[2406.13211](http://arxiv.org/abs/2406.13211)|null|
 |**2024-06-17**|**Probing quantum chaos through singular-value correlations in sparse non-Hermitian SYK model**|Pratik Nandy, Tanay Pathak, Masaki Tezuka|[2406.11969](http://arxiv.org/abs/2406.11969)|null|
@@ -916,6 +918,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Exploring quantum weight enumerators from the $n$ -qubit parallelized SWAP test**|Fei Shi, Kaiyi Guo, Xiande Zhang, Qi Zhao|[2406.18280](http://arxiv.org/abs/2406.18280)|null|
+|**2024-06-26**|**Managing Classical Processing Requirements for Quantum Error Correction**|Satvik Maurya, Swamit Tannu|[2406.17995](http://arxiv.org/abs/2406.17995)|null|
 |**2024-06-25**|**Algorithmic Fault Tolerance for Fast Quantum Computing**|Hengyun Zhou, Chen Zhao, Madelyn Cain, Dolev Bluvstein, Casey Duckering, Hong-Ye Hu, Sheng-Tao Wang, Aleksander Kubica, Mikhail D. Lukin|[2406.17653](http://arxiv.org/abs/2406.17653)|null|
 |**2024-06-25**|**YAQQ: Yet Another Quantum Quantizer -- Design Space Exploration of Quantum Gate Sets using Novelty Search**|Aritra Sarkar, Akash Kundu, Matthew Steinberg, Sibasish Mishra, Sebastiaan Fauquenot, Tamal Acharya, Jarosław A. Miszczak, Sebastian Feld|[2406.17610](http://arxiv.org/abs/2406.17610)|null|
 |**2024-06-24**|**Collective Bit Flipping-Based Decoding of Quantum LDPC Codes**|Dimitris Chytas, Nithin Raveendran, Bane Vasić|[2406.17070](http://arxiv.org/abs/2406.17070)|null|

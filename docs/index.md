@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-25**|**Bell inequality is violated in charmonium decays**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2406.17772](http://arxiv.org/abs/2406.17772)|null|
-|**2024-06-25**|**Sharing tripartite nonlocality sequentially using only projective measurements**|Yiyang Xu, Hao Sun, Fenzhuo Guo, Haifeng Dong, Qiaoyan Wen|[2406.17551](http://arxiv.org/abs/2406.17551)|null|
+|**2024-06-26**|**Bell inequality is violated in charmonium decays**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2406.17772](http://arxiv.org/abs/2406.17772)|null|
+|**2024-06-26**|**Sharing tripartite nonlocality sequentially using only projective measurements**|Yiyang Xu, Hao Sun, Fenzhuo Guo, Haifeng Dong, Qiaoyan Wen|[2406.17551](http://arxiv.org/abs/2406.17551)|null|
 |**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
 |**2024-06-24**|**Bell nonlocality and entanglement in $e^{+}e^{-} \rightarrow Y\bar{Y}$ at BESIII**|Sihao Wu, Chen Qian, Qun Wang, Xiao-Rong Zhou|[2406.16298](http://arxiv.org/abs/2406.16298)|null|
 |**2024-06-23**|**Refined Tsirelson Bounds on Multipartite Bell Inequalities**|Rain Lenny, Dana Ben Porath, Eliahu Cohen|[2406.16202](http://arxiv.org/abs/2406.16202)|null|

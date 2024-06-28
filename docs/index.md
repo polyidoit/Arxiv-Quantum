@@ -319,6 +319,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Characterizing Contextuality via Rank Separation with Applications to Cloning**|Farid Shahandeh, Theodoros Yianni, Mina Doosti|[2406.19382](http://arxiv.org/abs/2406.19382)|null|
 |**2024-06-23**|**Free Electron Theory for Thin Metal Films**|Philip B. Allen|[2406.16197](http://arxiv.org/abs/2406.16197)|null|
 |**2024-06-13**|**Optimal demonstration of generalized quantum contextuality**|Soumyabrata Hazra, Debashis Saha, Anubhav Chaturvedi, Subhankar Bera, A. S. Majumdar|[2406.09111](http://arxiv.org/abs/2406.09111)|null|
 |**2024-05-31**|**Statistical signatures of quantum contextuality**|Holger F. Hofmann|[2405.20569](http://arxiv.org/abs/2405.20569)|null|
@@ -621,6 +622,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Leapfrogging Sycamore: Harnessing 1432 GPUs for 7 $\times$ Faster Quantum Random Circuit Sampling**|Xian-He Zhao, Han-Sen Zhong, Feng Pan, Zi-Han Chen, Rong Fu, Zhongling Su, Xiaotong Xie, Chaoxing Zhao, Pan Zhang, Wanli Ouyang, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen|[2406.18889](http://arxiv.org/abs/2406.18889)|null|
 |**2024-06-26**|**A study of three butterflies: entanglement wedge method, OTOC and pole-skipping**|Banashree Baishya, Adrita Chakraborty, Nibedita Padhi|[2406.18319](http://arxiv.org/abs/2406.18319)|null|
 |**2024-06-21**|**Thermal state preparation of the SYK model using a variational quantum algorithm**|Jack Y. Araz, Raghav G. Jha, Felix Ringer, Bharath Sambasivam|[2406.15545](http://arxiv.org/abs/2406.15545)|null|
 |**2024-06-19**|**Amplitude Amplification and Estimation using quantum kicked rotor**|Keshav V., M. S. Santhanam|[2406.13211](http://arxiv.org/abs/2406.13211)|null|
@@ -897,6 +899,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Trivariate Bicycle Codes**|Lukas Voss, Sim Jian Xian, Tobias Haug, Kishor Bharti|[2406.19151](http://arxiv.org/abs/2406.19151)|null|
+|**2024-06-27**|**Resilience of the surface code to error bursts**|Shi Jie Samuel Tan, Christopher A. Pattison, Matt McEwen, John Preskill|[2406.18897](http://arxiv.org/abs/2406.18897)|null|
+|**2024-06-26**|**Resource overheads and attainable rates for trapped-ion lattice surgery**|Hudson Leone, Thinh Le, S. Srikara, Simon Devitt|[2406.18764](http://arxiv.org/abs/2406.18764)|null|
+|**2024-06-26**|**Localized statistics decoding: A parallel decoding algorithm for quantum low-density parity-check codes**|Timo Hillmann, Lucas Berent, Armanda O. Quintavalle, Jens Eisert, Robert Wille, Joschka Roffe|[2406.18655](http://arxiv.org/abs/2406.18655)|null|
 |**2024-06-26**|**Exploring quantum weight enumerators from the $n$ -qubit parallelized SWAP test**|Fei Shi, Kaiyi Guo, Xiande Zhang, Qi Zhao|[2406.18280](http://arxiv.org/abs/2406.18280)|null|
 |**2024-06-26**|**Managing Classical Processing Requirements for Quantum Error Correction**|Satvik Maurya, Swamit Tannu|[2406.17995](http://arxiv.org/abs/2406.17995)|null|
 |**2024-06-25**|**Algorithmic Fault Tolerance for Fast Quantum Computing**|Hengyun Zhou, Chen Zhao, Madelyn Cain, Dolev Bluvstein, Casey Duckering, Hong-Ye Hu, Sheng-Tao Wang, Aleksander Kubica, Mikhail D. Lukin|[2406.17653](http://arxiv.org/abs/2406.17653)|null|

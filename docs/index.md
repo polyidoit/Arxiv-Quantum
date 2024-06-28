@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 
 ## Bell nonlocality
 

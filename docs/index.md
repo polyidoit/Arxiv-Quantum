@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**The sum of entanglement and subsystem coherence is invariant under quantum reference frame transformations**|Carlo Cepollaro, Ali Akil, Paweł Cieśliński, Anne-Catherine de la Hamette, Časlav Brukner|[2406.19448](http://arxiv.org/abs/2406.19448)|null|
+|**2024-06-27**|**Bell vs Bell: a ding-dong battle over quantum incompleteness**|Michael J. W. Hall|[2406.19426](http://arxiv.org/abs/2406.19426)|null|
 |**2024-06-26**|**Bell inequality is violated in charmonium decays**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2406.17772](http://arxiv.org/abs/2406.17772)|null|
 |**2024-06-26**|**Sharing tripartite nonlocality sequentially using only projective measurements**|Yiyang Xu, Hao Sun, Fenzhuo Guo, Haifeng Dong, Qiaoyan Wen|[2406.17551](http://arxiv.org/abs/2406.17551)|null|
 |**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
@@ -492,6 +494,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Unified Framework for Calculating Convex Roof Resource Measures**|Xuanran Zhu, Chao Zhang, Zheng An, Bei Zeng|[2406.19683](http://arxiv.org/abs/2406.19683)|null|
 |**2024-06-21**|**Investigating Instabilities in Magnetized Low-pressure Capacitively-Coupled RF Plasma using Particle-in-Cell (PIC) Simulations**|Sathya Ganta, Kallol Bera, Shahid Rauf, Igor Kaganovich, Alexander Khrabrov, Andrew T Powis, Dmytro Sydorenko, Liang Xu|[2406.14974](http://arxiv.org/abs/2406.14974)|null|
 |**2024-06-20**|**Orbit symmetry breaking in MXene implements enhanced soft bioelectronic implants**|Yizhang Wu, Yuan Li, Yihan Liu, Dashuai Zhu, Sicheng Xing, Noah Lambert, Hannah Weisbecker, Siyuan Liu, Brayden Davis, Lin Zhang, Meixiang Wang, Gongkai Yuan, Chris Zhoufan You, Anran Zhang, Cate Duncan, Wanrong Xie, Yihang Wang, Yong Wang, Sreya Kanamurlapudi, Garcia-Guzman Evert, Arjun Putcha, Michael D. Dickey, Ke Huang, Wubin Bai|[2406.13956](http://arxiv.org/abs/2406.13956)|null|
 |**2024-06-15**|**Nonlocal cooperative behaviour, psychological effects, and collective decision-making: an exemplification with predator-prey models**|Sangeeta Saha, Swadesh Pal, Roderick Melnik|[2406.10713](http://arxiv.org/abs/2406.10713)|null|

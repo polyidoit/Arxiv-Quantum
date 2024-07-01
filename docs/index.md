@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 
 ## Bell nonlocality
 
@@ -11,7 +11,7 @@ layout: default
 |**2024-06-26**|**Bell inequality is violated in charmonium decays**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2406.17772](http://arxiv.org/abs/2406.17772)|null|
 |**2024-06-26**|**Sharing tripartite nonlocality sequentially using only projective measurements**|Yiyang Xu, Hao Sun, Fenzhuo Guo, Haifeng Dong, Qiaoyan Wen|[2406.17551](http://arxiv.org/abs/2406.17551)|null|
 |**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
-|**2024-06-24**|**Bell nonlocality and entanglement in $e^{+}e^{-} \rightarrow Y\bar{Y}$ at BESIII**|Sihao Wu, Chen Qian, Qun Wang, Xiao-Rong Zhou|[2406.16298](http://arxiv.org/abs/2406.16298)|null|
+|**2024-06-28**|**Bell nonlocality and entanglement in $e^{+}e^{-} \rightarrow Y\bar{Y}$ at BESIII**|Sihao Wu, Chen Qian, Qun Wang, Xiao-Rong Zhou|[2406.16298](http://arxiv.org/abs/2406.16298)|null|
 |**2024-06-23**|**Refined Tsirelson Bounds on Multipartite Bell Inequalities**|Rain Lenny, Dana Ben Porath, Eliahu Cohen|[2406.16202](http://arxiv.org/abs/2406.16202)|null|
 |**2024-06-21**|**Escaping the Shadow of Bell's Theorem in Network Nonlocality**|Maria Ciudad-Alañón, Emanuel-Cristian Boghiu, Paolo Abiuso, Elie Wolfe|[2406.15587](http://arxiv.org/abs/2406.15587)|null|
 |**2024-06-21**|**Verifying Hierarchic Multipartite and Network Nonlocalities with a Unified Method**|Ming-Xing Luo, Shao-Ming Fei|[2406.14831](http://arxiv.org/abs/2406.14831)|null|
@@ -322,7 +322,7 @@ layout: default
 |**2024-06-27**|**Characterizing Contextuality via Rank Separation with Applications to Cloning**|Farid Shahandeh, Theodoros Yianni, Mina Doosti|[2406.19382](http://arxiv.org/abs/2406.19382)|null|
 |**2024-06-23**|**Free Electron Theory for Thin Metal Films**|Philip B. Allen|[2406.16197](http://arxiv.org/abs/2406.16197)|null|
 |**2024-06-13**|**Optimal demonstration of generalized quantum contextuality**|Soumyabrata Hazra, Debashis Saha, Anubhav Chaturvedi, Subhankar Bera, A. S. Majumdar|[2406.09111](http://arxiv.org/abs/2406.09111)|null|
-|**2024-05-31**|**Statistical signatures of quantum contextuality**|Holger F. Hofmann|[2405.20569](http://arxiv.org/abs/2405.20569)|null|
+|**2024-06-28**|**Statistical signatures of quantum contextuality**|Holger F. Hofmann|[2405.20569](http://arxiv.org/abs/2405.20569)|null|
 |**2024-05-28**|**Biunits of ternary algebra of hypermatrices**|Viktor Abramov|[2405.17907](http://arxiv.org/abs/2405.17907)|null|
 |**2024-05-24**|**Graph Random Walk for Time-of-Flight Charge Mobilities**|Zhongquan Chen, Pim van der Hoorn, Björn Baumeier|[2405.15836](http://arxiv.org/abs/2405.15836)|null|
 |**2024-05-21**|**Random close packing of binary hard spheres predicts the stability of atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|

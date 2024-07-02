@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.01
+## Updated on 2024.07.02
 
 ## Bell nonlocality
 
@@ -626,7 +626,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-27**|**Leapfrogging Sycamore: Harnessing 1432 GPUs for 7 $\times$ Faster Quantum Random Circuit Sampling**|Xian-He Zhao, Han-Sen Zhong, Feng Pan, Zi-Han Chen, Rong Fu, Zhongling Su, Xiaotong Xie, Chaoxing Zhao, Pan Zhang, Wanli Ouyang, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen|[2406.18889](http://arxiv.org/abs/2406.18889)|null|
-|**2024-06-26**|**A study of three butterflies: entanglement wedge method, OTOC and pole-skipping**|Banashree Baishya, Adrita Chakraborty, Nibedita Padhi|[2406.18319](http://arxiv.org/abs/2406.18319)|null|
+|**2024-06-29**|**A study of three butterflies: entanglement wedge method, OTOC and pole-skipping**|Banashree Baishya, Adrita Chakraborty, Nibedita Padhi|[2406.18319](http://arxiv.org/abs/2406.18319)|null|
 |**2024-06-21**|**Thermal state preparation of the SYK model using a variational quantum algorithm**|Jack Y. Araz, Raghav G. Jha, Felix Ringer, Bharath Sambasivam|[2406.15545](http://arxiv.org/abs/2406.15545)|null|
 |**2024-06-19**|**Amplitude Amplification and Estimation using quantum kicked rotor**|Keshav V., M. S. Santhanam|[2406.13211](http://arxiv.org/abs/2406.13211)|null|
 |**2024-06-17**|**Probing quantum chaos through singular-value correlations in sparse non-Hermitian SYK model**|Pratik Nandy, Tanay Pathak, Masaki Tezuka|[2406.11969](http://arxiv.org/abs/2406.11969)|null|

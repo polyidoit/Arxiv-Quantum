@@ -8,9 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Optimizing Entanglement and Bell Inequality Violation in Top Anti-Top Events**|Kun Cheng, Tao Han, Matthew Low|[2407.01672](http://arxiv.org/abs/2407.01672)|null|
+|**2024-06-21**|**The single-photon steering and the quantum mechanical free-interaction measurement are identical phenomena**|LM Arévalo Aguilar, Rolando Velázquez García|[2407.01587](http://arxiv.org/abs/2407.01587)|null|
 |**2024-06-27**|**The sum of entanglement and subsystem coherence is invariant under quantum reference frame transformations**|Carlo Cepollaro, Ali Akil, Paweł Cieśliński, Anne-Catherine de la Hamette, Časlav Brukner|[2406.19448](http://arxiv.org/abs/2406.19448)|null|
 |**2024-06-27**|**Bell vs Bell: a ding-dong battle over quantum incompleteness**|Michael J. W. Hall|[2406.19426](http://arxiv.org/abs/2406.19426)|null|
-|**2024-06-26**|**Bell inequality is violated in charmonium decays**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2406.17772](http://arxiv.org/abs/2406.17772)|null|
+|**2024-07-02**|**Bell inequality is violated in charmonium decays**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2406.17772](http://arxiv.org/abs/2406.17772)|null|
 |**2024-06-26**|**Sharing tripartite nonlocality sequentially using only projective measurements**|Yiyang Xu, Hao Sun, Fenzhuo Guo, Haifeng Dong, Qiaoyan Wen|[2406.17551](http://arxiv.org/abs/2406.17551)|null|
 |**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
 |**2024-06-28**|**Bell nonlocality and entanglement in $e^{+}e^{-} \rightarrow Y\bar{Y}$ at BESIII**|Sihao Wu, Chen Qian, Qun Wang, Xiao-Rong Zhou|[2406.16298](http://arxiv.org/abs/2406.16298)|null|
@@ -413,6 +415,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**The single-photon steering and the quantum mechanical free-interaction measurement are identical phenomena**|LM Arévalo Aguilar, Rolando Velázquez García|[2407.01587](http://arxiv.org/abs/2407.01587)|null|
 |**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
 |**2024-06-23**|**Quantum battery in the Heisenberg spin chain models with Dzyaloshinskii-Moriya interaction**|Xiang-Long Zhang, Xue-Ke Song, Dong Wang|[2406.16047](http://arxiv.org/abs/2406.16047)|null|
 |**2024-06-19**|**Quantum steering under constrained free-will**|Abhishek Sadhu, Siddhartha Das|[2406.13494](http://arxiv.org/abs/2406.13494)|null|
@@ -495,6 +498,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Convexity of noncontextual wirings and how they order the set of correlations**|Tiago Santos, Rafael Wagner, Bárbara Amaral|[2407.02120](http://arxiv.org/abs/2407.02120)|null|
+|**2024-07-01**|**Operational advantage of quantum resources in a semi-device independent framework**|Shubhayan Sarkar, Chandan Datta|[2407.01693](http://arxiv.org/abs/2407.01693)|null|
+|**2024-06-29**|**Krenn-Gu conjecture for sparse graphs**|L. Sunil Chandran, Rishikesh Gajjala, Abraham M. Illickan|[2407.00303](http://arxiv.org/abs/2407.00303)|null|
+|**2024-06-29**|**High-power and narrow-linewidth laser on thin-film lithium niobate enabled by photonic wire bonding**|Cornelis A. A. Franken, Rebecca Cheng, Keith Powell, Georgios Kyriazidis, Victoria Rosborough, Juergen Musolf, Maximilian Shah, David R. Barton III, Gage Hills, Leif Johansson, Klaus-J. Boller, Marko Lončar|[2407.00269](http://arxiv.org/abs/2407.00269)|null|
+|**2024-06-28**|**Conceptual and formal groundwork for the study of resource dependence relations**|Yìlè Yīng, Tomáš Gonda, Robert Spekkens|[2407.00164](http://arxiv.org/abs/2407.00164)|null|
 |**2024-06-28**|**Unified Framework for Calculating Convex Roof Resource Measures**|Xuanran Zhu, Chao Zhang, Zheng An, Bei Zeng|[2406.19683](http://arxiv.org/abs/2406.19683)|null|
 |**2024-06-21**|**Investigating Instabilities in Magnetized Low-pressure Capacitively-Coupled RF Plasma using Particle-in-Cell (PIC) Simulations**|Sathya Ganta, Kallol Bera, Shahid Rauf, Igor Kaganovich, Alexander Khrabrov, Andrew T Powis, Dmytro Sydorenko, Liang Xu|[2406.14974](http://arxiv.org/abs/2406.14974)|null|
 |**2024-06-20**|**Orbit symmetry breaking in MXene implements enhanced soft bioelectronic implants**|Yizhang Wu, Yuan Li, Yihan Liu, Dashuai Zhu, Sicheng Xing, Noah Lambert, Hannah Weisbecker, Siyuan Liu, Brayden Davis, Lin Zhang, Meixiang Wang, Gongkai Yuan, Chris Zhoufan You, Anran Zhang, Cate Duncan, Wanrong Xie, Yihang Wang, Yong Wang, Sreya Kanamurlapudi, Garcia-Guzman Evert, Arjun Putcha, Michael D. Dickey, Ke Huang, Wubin Bai|[2406.13956](http://arxiv.org/abs/2406.13956)|null|
@@ -626,6 +634,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-30**|**Achieving Energetic Superiority Through System-Level Quantum Circuit Simulation**|Rong Fu, Zhongling Su, Han-Sen Zhong, Xiti Zhao, Jianyang Zhang, Feng Pan, Pan Zhang, Xianhe Zhao, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan, Zhiling Pei, Xingcheng Zhang, Wanli Ouyang|[2407.00769](http://arxiv.org/abs/2407.00769)|null|
 |**2024-06-27**|**Leapfrogging Sycamore: Harnessing 1432 GPUs for 7 $\times$ Faster Quantum Random Circuit Sampling**|Xian-He Zhao, Han-Sen Zhong, Feng Pan, Zi-Han Chen, Rong Fu, Zhongling Su, Xiaotong Xie, Chaoxing Zhao, Pan Zhang, Wanli Ouyang, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen|[2406.18889](http://arxiv.org/abs/2406.18889)|null|
 |**2024-06-29**|**A study of three butterflies: entanglement wedge method, OTOC and pole-skipping**|Banashree Baishya, Adrita Chakraborty, Nibedita Padhi|[2406.18319](http://arxiv.org/abs/2406.18319)|null|
 |**2024-06-21**|**Thermal state preparation of the SYK model using a variational quantum algorithm**|Jack Y. Araz, Raghav G. Jha, Felix Ringer, Bharath Sambasivam|[2406.15545](http://arxiv.org/abs/2406.15545)|null|
@@ -903,6 +912,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**The Inverted 3-Sum Box: General Formulation and Quantum Information Theoretic Optimality**|Yuhang Yao, Syed A. Jafar|[2407.01498](http://arxiv.org/abs/2407.01498)|null|
+|**2024-06-30**|**Quantum State Transfer via a Multimode Resonator**|Yang He, Yu-Xiang Zhang|[2407.00683](http://arxiv.org/abs/2407.00683)|null|
+|**2024-06-30**|**Reducing Quantum Error Correction Overhead with Versatile Flag-Sharing Syndrome Extraction Circuits**|Pei-Hao Liou, Ching-Yi Lai|[2407.00607](http://arxiv.org/abs/2407.00607)|null|
 |**2024-06-27**|**Trivariate Bicycle Codes**|Lukas Voss, Sim Jian Xian, Tobias Haug, Kishor Bharti|[2406.19151](http://arxiv.org/abs/2406.19151)|null|
 |**2024-06-27**|**Resilience of the surface code to error bursts**|Shi Jie Samuel Tan, Christopher A. Pattison, Matt McEwen, John Preskill|[2406.18897](http://arxiv.org/abs/2406.18897)|null|
 |**2024-06-26**|**Resource overheads and attainable rates for trapped-ion lattice surgery**|Hudson Leone, Thinh Le, S. Srikara, Simon Devitt|[2406.18764](http://arxiv.org/abs/2406.18764)|null|

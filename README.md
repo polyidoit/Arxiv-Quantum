@@ -336,6 +336,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**A new heuristic approach for contextuality degree estimates and its four- to six-qubit portrayals**|Axel Muller, Metod Saniga, Alain Giorgetti, Frédéric Holweck, Colm Kelleher|[2407.02928](http://arxiv.org/abs/2407.02928)|null|
 |**2024-06-27**|**Characterizing Contextuality via Rank Separation with Applications to Cloning**|Farid Shahandeh, Theodoros Yianni, Mina Doosti|[2406.19382](http://arxiv.org/abs/2406.19382)|null|
 |**2024-06-23**|**Free Electron Theory for Thin Metal Films**|Philip B. Allen|[2406.16197](http://arxiv.org/abs/2406.16197)|null|
 |**2024-06-13**|**Optimal demonstration of generalized quantum contextuality**|Soumyabrata Hazra, Debashis Saha, Anubhav Chaturvedi, Subhankar Bera, A. S. Majumdar|[2406.09111](http://arxiv.org/abs/2406.09111)|null|
@@ -515,6 +516,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**ShiftAddAug: Augment Multiplication-Free Tiny Neural Network with Hybrid Computation**|Yipin Guo, Zihao Li, Yilin Lang, Qinyuan Ren|[2407.02881](http://arxiv.org/abs/2407.02881)|null|
 |**2024-07-02**|**Convexity of noncontextual wirings and how they order the set of correlations**|Tiago Santos, Rafael Wagner, Bárbara Amaral|[2407.02120](http://arxiv.org/abs/2407.02120)|null|
 |**2024-07-01**|**Operational advantage of quantum resources in a semi-device independent framework**|Shubhayan Sarkar, Chandan Datta|[2407.01693](http://arxiv.org/abs/2407.01693)|null|
 |**2024-06-29**|**Krenn-Gu conjecture for sparse graphs**|L. Sunil Chandran, Rishikesh Gajjala, Abraham M. Illickan|[2407.00303](http://arxiv.org/abs/2407.00303)|null|
@@ -653,6 +655,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Global Out of Time Order Correlators as a Signature of Scrambling Dynamics of Local Observables**|Fabricio S. Lozano-Negro, Claudia M. Sánchez, Ana K. Chattah, Gonzalo A. Álvarez, Horacio M. Pastawski|[2407.03273](http://arxiv.org/abs/2407.03273)|null|
 |**2024-06-30**|**Achieving Energetic Superiority Through System-Level Quantum Circuit Simulation**|Rong Fu, Zhongling Su, Han-Sen Zhong, Xiti Zhao, Jianyang Zhang, Feng Pan, Pan Zhang, Xianhe Zhao, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan, Zhiling Pei, Xingcheng Zhang, Wanli Ouyang|[2407.00769](http://arxiv.org/abs/2407.00769)|null|
 |**2024-06-27**|**Leapfrogging Sycamore: Harnessing 1432 GPUs for 7 $\times$ Faster Quantum Random Circuit Sampling**|Xian-He Zhao, Han-Sen Zhong, Feng Pan, Zi-Han Chen, Rong Fu, Zhongling Su, Xiaotong Xie, Chaoxing Zhao, Pan Zhang, Wanli Ouyang, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen|[2406.18889](http://arxiv.org/abs/2406.18889)|null|
 |**2024-06-29**|**A study of three butterflies: entanglement wedge method, OTOC and pole-skipping**|Banashree Baishya, Adrita Chakraborty, Nibedita Padhi|[2406.18319](http://arxiv.org/abs/2406.18319)|null|
@@ -933,6 +936,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**The sudden death of quantum advantage in correlation generations**|Weixiao Sun, Fuchuan Wei, Yuguo Shao, Zhaohui Wei|[2407.03088](http://arxiv.org/abs/2407.03088)|null|
+|**2024-07-02**|**Coherent information for CSS codes under decoherence**|Ryotaro Niwa, Jong Yeon Lee|[2407.02564](http://arxiv.org/abs/2407.02564)|null|
 |**2024-07-01**|**The Inverted 3-Sum Box: General Formulation and Quantum Information Theoretic Optimality**|Yuhang Yao, Syed A. Jafar|[2407.01498](http://arxiv.org/abs/2407.01498)|null|
 |**2024-06-30**|**Quantum State Transfer via a Multimode Resonator**|Yang He, Yu-Xiang Zhang|[2407.00683](http://arxiv.org/abs/2407.00683)|null|
 |**2024-06-30**|**Reducing Quantum Error Correction Overhead with Versatile Flag-Sharing Syndrome Extraction Circuits**|Pei-Hao Liou, Ching-Yi Lai|[2407.00607](http://arxiv.org/abs/2407.00607)|null|

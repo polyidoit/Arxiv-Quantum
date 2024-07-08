@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam, Florian Marquardt|[2407.04673](http://arxiv.org/abs/2407.04673)|null|
+|**2024-07-04**|**High-quality entangled photons source by symmetric beam displacement design**|Giacomo Paganini, Alvaro Cuevas, Robin Camphausen, Alexander Demuth, Valerio Pruneri|[2407.03806](http://arxiv.org/abs/2407.03806)|null|
 |**2024-07-01**|**Optimizing Entanglement and Bell Inequality Violation in Top Anti-Top Events**|Kun Cheng, Tao Han, Matthew Low|[2407.01672](http://arxiv.org/abs/2407.01672)|null|
 |**2024-06-21**|**The single-photon steering and the quantum mechanical free-interaction measurement are identical phenomena**|LM Arévalo Aguilar, Rolando Velázquez García|[2407.01587](http://arxiv.org/abs/2407.01587)|null|
 |**2024-06-27**|**The sum of entanglement and subsystem coherence is invariant under quantum reference frame transformations**|Carlo Cepollaro, Ali Akil, Paweł Cieśliński, Anne-Catherine de la Hamette, Časlav Brukner|[2406.19448](http://arxiv.org/abs/2406.19448)|null|
@@ -636,6 +638,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-04**|**Magic spreading in random quantum circuits**|Xhek Turkeshi, Emanuele Tirrito, Piotr Sierant|[2407.03929](http://arxiv.org/abs/2407.03929)|null|
+|**2024-07-04**|**On Krylov Complexity**|A. Sánchez-Garrido|[2407.03866](http://arxiv.org/abs/2407.03866)|null|
 |**2024-07-03**|**Global Out of Time Order Correlators as a Signature of Scrambling Dynamics of Local Observables**|Fabricio S. Lozano-Negro, Claudia M. Sánchez, Ana K. Chattah, Gonzalo A. Álvarez, Horacio M. Pastawski|[2407.03273](http://arxiv.org/abs/2407.03273)|null|
 |**2024-06-30**|**Achieving Energetic Superiority Through System-Level Quantum Circuit Simulation**|Rong Fu, Zhongling Su, Han-Sen Zhong, Xiti Zhao, Jianyang Zhang, Feng Pan, Pan Zhang, Xianhe Zhao, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan, Zhiling Pei, Xingcheng Zhang, Wanli Ouyang|[2407.00769](http://arxiv.org/abs/2407.00769)|null|
 |**2024-06-27**|**Leapfrogging Sycamore: Harnessing 1432 GPUs for 7 $\times$ Faster Quantum Random Circuit Sampling**|Xian-He Zhao, Han-Sen Zhong, Feng Pan, Zi-Han Chen, Rong Fu, Zhongling Su, Xiaotong Xie, Chaoxing Zhao, Pan Zhang, Wanli Ouyang, Chao-Yang Lu, Jian-Wei Pan, Ming-Cheng Chen|[2406.18889](http://arxiv.org/abs/2406.18889)|null|
@@ -915,6 +919,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-04**|**Logical Operators and Fold-Transversal Gates of Bivariate Bicycle Codes**|Jens Niklas Eberhardt, Vincent Steffan|[2407.03973](http://arxiv.org/abs/2407.03973)|null|
 |**2024-07-03**|**The sudden death of quantum advantage in correlation generations**|Weixiao Sun, Fuchuan Wei, Yuguo Shao, Zhaohui Wei|[2407.03088](http://arxiv.org/abs/2407.03088)|null|
 |**2024-07-02**|**Coherent information for CSS codes under decoherence**|Ryotaro Niwa, Jong Yeon Lee|[2407.02564](http://arxiv.org/abs/2407.02564)|null|
 |**2024-07-01**|**The Inverted 3-Sum Box: General Formulation and Quantum Information Theoretic Optimality**|Yuhang Yao, Syed A. Jafar|[2407.01498](http://arxiv.org/abs/2407.01498)|null|

@@ -518,6 +518,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-07**|**The Fermionic Entanglement Entropy of Causal Diamonds in Two-Dimensional Minkowski Space**|Felix Finster, Magdalena Lottner, Albert Much, Simone Murro|[2407.05292](http://arxiv.org/abs/2407.05292)|null|
 |**2024-07-03**|**ShiftAddAug: Augment Multiplication-Free Tiny Neural Network with Hybrid Computation**|Yipin Guo, Zihao Li, Yilin Lang, Qinyuan Ren|[2407.02881](http://arxiv.org/abs/2407.02881)|null|
 |**2024-07-02**|**Convexity of noncontextual wirings and how they order the set of correlations**|Tiago Santos, Rafael Wagner, Bárbara Amaral|[2407.02120](http://arxiv.org/abs/2407.02120)|null|
 |**2024-07-01**|**Operational advantage of quantum resources in a semi-device independent framework**|Shubhayan Sarkar, Chandan Datta|[2407.01693](http://arxiv.org/abs/2407.01693)|null|

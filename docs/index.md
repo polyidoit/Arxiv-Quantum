@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 
 ## Bell nonlocality
 
@@ -420,9 +420,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-21**|**The single-photon steering and the quantum mechanical free-interaction measurement are identical phenomena**|LM Arévalo Aguilar, Rolando Velázquez García|[2407.01587](http://arxiv.org/abs/2407.01587)|null|
 |**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
-|**2024-06-23**|**Quantum battery in the Heisenberg spin chain models with Dzyaloshinskii-Moriya interaction**|Xiang-Long Zhang, Xue-Ke Song, Dong Wang|[2406.16047](http://arxiv.org/abs/2406.16047)|null|
+|**2024-07-09**|**Quantum battery in the Heisenberg spin chain models with Dzyaloshinskii-Moriya interaction**|Xiang-Long Zhang, Xue-Ke Song, Dong Wang|[2406.16047](http://arxiv.org/abs/2406.16047)|null|
 |**2024-06-19**|**Quantum steering under constrained free-will**|Abhishek Sadhu, Siddhartha Das|[2406.13494](http://arxiv.org/abs/2406.13494)|null|
-|**2024-06-19**|**EPR Steering Criterion and Monogamy Relation via Correlation Matrices in Tripartite Systems**|Li-Juan Li, Xiao-Gang Fan, Xue-Ke Song, Liu Ye, Dong Wang|[2406.13290](http://arxiv.org/abs/2406.13290)|null|
+|**2024-07-09**|**EPR Steering Criterion and Monogamy Relation via Correlation Matrices in Tripartite Systems**|Li-Juan Li, Xiao-Gang Fan, Xue-Ke Song, Liu Ye, Dong Wang|[2406.13290](http://arxiv.org/abs/2406.13290)|null|
 |**2024-06-29**|**Witnessing network steerability of every bipartite entangled state without inputs**|Shubhayan Sarkar|[2406.11994](http://arxiv.org/abs/2406.11994)|null|
 |**2024-06-15**|**Activation of post-quantum steering**|Ana Belén Sainz, Paul Skrzypczyk, Matty J. Hoban|[2406.10570](http://arxiv.org/abs/2406.10570)|null|
 |**2024-06-10**|**Entanglement and steering in quantum batteries**|Dayang Zhang, Shuangquan Ma, Yunxiu Jiang, Youbin Yu, Guangri Jin, Aixi Chen|[2406.06373](http://arxiv.org/abs/2406.06373)|null|

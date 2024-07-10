@@ -1,4 +1,4 @@
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -254,7 +254,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -332,7 +332,7 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -427,7 +427,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -435,9 +435,9 @@
 |---|---|---|---|---|
 |**2024-06-21**|**The single-photon steering and the quantum mechanical free-interaction measurement are identical phenomena**|LM Arévalo Aguilar, Rolando Velázquez García|[2407.01587](http://arxiv.org/abs/2407.01587)|null|
 |**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
-|**2024-06-23**|**Quantum battery in the Heisenberg spin chain models with Dzyaloshinskii-Moriya interaction**|Xiang-Long Zhang, Xue-Ke Song, Dong Wang|[2406.16047](http://arxiv.org/abs/2406.16047)|null|
+|**2024-07-09**|**Quantum battery in the Heisenberg spin chain models with Dzyaloshinskii-Moriya interaction**|Xiang-Long Zhang, Xue-Ke Song, Dong Wang|[2406.16047](http://arxiv.org/abs/2406.16047)|null|
 |**2024-06-19**|**Quantum steering under constrained free-will**|Abhishek Sadhu, Siddhartha Das|[2406.13494](http://arxiv.org/abs/2406.13494)|null|
-|**2024-06-19**|**EPR Steering Criterion and Monogamy Relation via Correlation Matrices in Tripartite Systems**|Li-Juan Li, Xiao-Gang Fan, Xue-Ke Song, Liu Ye, Dong Wang|[2406.13290](http://arxiv.org/abs/2406.13290)|null|
+|**2024-07-09**|**EPR Steering Criterion and Monogamy Relation via Correlation Matrices in Tripartite Systems**|Li-Juan Li, Xiao-Gang Fan, Xue-Ke Song, Liu Ye, Dong Wang|[2406.13290](http://arxiv.org/abs/2406.13290)|null|
 |**2024-06-29**|**Witnessing network steerability of every bipartite entangled state without inputs**|Shubhayan Sarkar|[2406.11994](http://arxiv.org/abs/2406.11994)|null|
 |**2024-06-15**|**Activation of post-quantum steering**|Ana Belén Sainz, Paul Skrzypczyk, Matty J. Hoban|[2406.10570](http://arxiv.org/abs/2406.10570)|null|
 |**2024-06-10**|**Entanglement and steering in quantum batteries**|Dayang Zhang, Shuangquan Ma, Yunxiu Jiang, Youbin Yu, Guangri Jin, Aixi Chen|[2406.06373](http://arxiv.org/abs/2406.06373)|null|
@@ -512,7 +512,7 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Resource theory
 
@@ -652,7 +652,7 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -935,7 +935,7 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -1529,5 +1529,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 

@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Censorship of Quantum Resources in Quantum Networks**|Julien Pinske, Klaus Mølmer|[2407.06417](http://arxiv.org/abs/2407.06417)|null|
 |**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam, Florian Marquardt|[2407.04673](http://arxiv.org/abs/2407.04673)|null|
 |**2024-07-04**|**High-quality entangled photons source by symmetric beam displacement design**|Giacomo Paganini, Alvaro Cuevas, Robin Camphausen, Alexander Demuth, Valerio Pruneri|[2407.03806](http://arxiv.org/abs/2407.03806)|null|
 |**2024-07-01**|**Optimizing Entanglement and Bell Inequality Violation in Top Anti-Top Events**|Kun Cheng, Tao Han, Matthew Low|[2407.01672](http://arxiv.org/abs/2407.01672)|null|
@@ -518,6 +519,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Censorship of Quantum Resources in Quantum Networks**|Julien Pinske, Klaus Mølmer|[2407.06417](http://arxiv.org/abs/2407.06417)|null|
 |**2024-07-07**|**The Fermionic Entanglement Entropy of Causal Diamonds in Two-Dimensional Minkowski Space**|Felix Finster, Magdalena Lottner, Albert Much, Simone Murro|[2407.05292](http://arxiv.org/abs/2407.05292)|null|
 |**2024-07-03**|**ShiftAddAug: Augment Multiplication-Free Tiny Neural Network with Hybrid Computation**|Yipin Guo, Zihao Li, Yilin Lang, Qinyuan Ren|[2407.02881](http://arxiv.org/abs/2407.02881)|null|
 |**2024-07-02**|**Convexity of noncontextual wirings and how they order the set of correlations**|Tiago Santos, Rafael Wagner, Bárbara Amaral|[2407.02120](http://arxiv.org/abs/2407.02120)|null|
@@ -941,6 +943,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Low-cost noise reduction for Clifford circuits**|Nicolas Delfosse, Edwin Tham|[2407.06583](http://arxiv.org/abs/2407.06583)|null|
+|**2024-07-08**|**Noise-tolerant public-key quantum money from a classical oracle**|Peter Yuen|[2407.06463](http://arxiv.org/abs/2407.06463)|null|
 |**2024-07-04**|**Logical Operators and Fold-Transversal Gates of Bivariate Bicycle Codes**|Jens Niklas Eberhardt, Vincent Steffan|[2407.03973](http://arxiv.org/abs/2407.03973)|null|
 |**2024-07-03**|**The sudden death of quantum advantage in correlation generations**|Weixiao Sun, Fuchuan Wei, Yuguo Shao, Zhaohui Wei|[2407.03088](http://arxiv.org/abs/2407.03088)|null|
 |**2024-07-02**|**Coherent information for CSS codes under decoherence**|Ryotaro Niwa, Jong Yeon Lee|[2407.02564](http://arxiv.org/abs/2407.02564)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 
 ## Bell nonlocality
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-08**|**Censorship of Quantum Resources in Quantum Networks**|Julien Pinske, Klaus Mølmer|[2407.06417](http://arxiv.org/abs/2407.06417)|null|
 |**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam, Florian Marquardt|[2407.04673](http://arxiv.org/abs/2407.04673)|null|
-|**2024-07-04**|**High-quality entangled photons source by symmetric beam displacement design**|Giacomo Paganini, Alvaro Cuevas, Robin Camphausen, Alexander Demuth, Valerio Pruneri|[2407.03806](http://arxiv.org/abs/2407.03806)|null|
+|**2024-07-11**|**High-quality entangled photon source by symmetric beam displacement design**|Giacomo Paganini, Alvaro Cuevas, Robin Camphausen, Alexander Demuth, Valerio Pruneri|[2407.03806](http://arxiv.org/abs/2407.03806)|null|
 |**2024-07-01**|**Optimizing Entanglement and Bell Inequality Violation in Top Anti-Top Events**|Kun Cheng, Tao Han, Matthew Low|[2407.01672](http://arxiv.org/abs/2407.01672)|null|
 |**2024-06-21**|**The single-photon steering and the quantum mechanical free-interaction measurement are identical phenomena**|LM Arévalo Aguilar, Rolando Velázquez García|[2407.01587](http://arxiv.org/abs/2407.01587)|null|
 |**2024-06-27**|**The sum of entanglement and subsystem coherence is invariant under quantum reference frame transformations**|Carlo Cepollaro, Ali Akil, Paweł Cieśliński, Anne-Catherine de la Hamette, Časlav Brukner|[2406.19448](http://arxiv.org/abs/2406.19448)|null|
@@ -419,11 +419,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**On compatibility of binary qubit measurements**|Dmitry Grinko, Roope Uola|[2407.07711](http://arxiv.org/abs/2407.07711)|null|
 |**2024-06-21**|**The single-photon steering and the quantum mechanical free-interaction measurement are identical phenomena**|LM Arévalo Aguilar, Rolando Velázquez García|[2407.01587](http://arxiv.org/abs/2407.01587)|null|
 |**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
 |**2024-07-09**|**Quantum battery in the Heisenberg spin chain models with Dzyaloshinskii-Moriya interaction**|Xiang-Long Zhang, Xue-Ke Song, Dong Wang|[2406.16047](http://arxiv.org/abs/2406.16047)|null|
 |**2024-06-19**|**Quantum steering under constrained free-will**|Abhishek Sadhu, Siddhartha Das|[2406.13494](http://arxiv.org/abs/2406.13494)|null|
-|**2024-07-09**|**EPR Steering Criterion and Monogamy Relation via Correlation Matrices in Tripartite Systems**|Li-Juan Li, Xiao-Gang Fan, Xue-Ke Song, Liu Ye, Dong Wang|[2406.13290](http://arxiv.org/abs/2406.13290)|null|
+|**2024-07-10**|**Einstein-Podolsky-Rosen Steering Criterion and Monogamy Relation via Correlation Matrices in Tripartite Systems**|Li-Juan Li, Xiao-Gang Fan, Xue-Ke Song, Liu Ye, Dong Wang|[2406.13290](http://arxiv.org/abs/2406.13290)|null|
 |**2024-06-29**|**Witnessing network steerability of every bipartite entangled state without inputs**|Shubhayan Sarkar|[2406.11994](http://arxiv.org/abs/2406.11994)|null|
 |**2024-06-15**|**Activation of post-quantum steering**|Ana Belén Sainz, Paul Skrzypczyk, Matty J. Hoban|[2406.10570](http://arxiv.org/abs/2406.10570)|null|
 |**2024-06-10**|**Entanglement and steering in quantum batteries**|Dayang Zhang, Shuangquan Ma, Yunxiu Jiang, Youbin Yu, Guangri Jin, Aixi Chen|[2406.06373](http://arxiv.org/abs/2406.06373)|null|
@@ -641,6 +642,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Random unitaries in extremely low depth**|Thomas Schuster, Jonas Haferkamp, Hsin-Yuan Huang|[2407.07754](http://arxiv.org/abs/2407.07754)|null|
+|**2024-07-10**|**Spectral Statistics, Hydrodynamics and Quantum Chaos**|Michael Winer|[2407.07692](http://arxiv.org/abs/2407.07692)|null|
+|**2024-07-09**|**Fuzzy Spheres in Stringy Matrix Models: Quantifying Chaos in a Mixed Phase Space**|Paolo Amore, Leopoldo A. Pando Zayas, Juan F. Pedraza, Norma Quiroz, César A. Terrero-Escalante|[2407.07259](http://arxiv.org/abs/2407.07259)|null|
 |**2024-07-04**|**Magic spreading in random quantum circuits**|Xhek Turkeshi, Emanuele Tirrito, Piotr Sierant|[2407.03929](http://arxiv.org/abs/2407.03929)|null|
 |**2024-07-04**|**On Krylov Complexity**|A. Sánchez-Garrido|[2407.03866](http://arxiv.org/abs/2407.03866)|null|
 |**2024-07-03**|**Global Out of Time Order Correlators as a Signature of Scrambling Dynamics of Local Observables**|Fabricio S. Lozano-Negro, Claudia M. Sánchez, Ana K. Chattah, Gonzalo A. Álvarez, Horacio M. Pastawski|[2407.03273](http://arxiv.org/abs/2407.03273)|null|
@@ -922,6 +926,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Information dynamics in decohered quantum memory with repeated syndrome measurements: a dual approach**|Jacob Hauser, Yimu Bao, Shengqi Sang, Ali Lavasani, Utkarsh Agrawal, Matthew P. A. Fisher|[2407.07882](http://arxiv.org/abs/2407.07882)|null|
+|**2024-07-10**|**Quantum CSS Duadic and Triadic Codes: New Insights and Properties**|Reza Dastbasteh, Olatz Sanz Larrarte, Josu Etxezarreta Martinez, Antonio deMarti iOlius, Javier Oliva del Moral, Pedro Crespo Bofill|[2407.07753](http://arxiv.org/abs/2407.07753)|null|
+|**2024-07-10**|**Transforming qubits via quasi-geometric approaches**|Nyirahafashimana Valentine, Nurisya Mohd Shah, Umair Abdul Halim, Sharifah Kartini Said Husain, Ahmed Jellal|[2407.07562](http://arxiv.org/abs/2407.07562)|null|
 |**2024-07-09**|**Low-cost noise reduction for Clifford circuits**|Nicolas Delfosse, Edwin Tham|[2407.06583](http://arxiv.org/abs/2407.06583)|null|
 |**2024-07-08**|**Noise-tolerant public-key quantum money from a classical oracle**|Peter Yuen|[2407.06463](http://arxiv.org/abs/2407.06463)|null|
 |**2024-07-04**|**Logical Operators and Fold-Transversal Gates of Bivariate Bicycle Codes**|Jens Niklas Eberhardt, Vincent Steffan|[2407.03973](http://arxiv.org/abs/2407.03973)|null|

@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Nonlocal Locking of Observable Quantities: A Faithful Signature of Nonclassical Correlations**|Mir Alimuddin, Snehasish Roy Chowdhury, Ram Krishna Patra, Subhendu B. Ghosh, Tommaso Tufarelli, Gerardo Adesso, Manik Banik|[2407.08292](http://arxiv.org/abs/2407.08292)|null|
 |**2024-07-08**|**Censorship of Quantum Resources in Quantum Networks**|Julien Pinske, Klaus Mølmer|[2407.06417](http://arxiv.org/abs/2407.06417)|null|
 |**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam, Florian Marquardt|[2407.04673](http://arxiv.org/abs/2407.04673)|null|
 |**2024-07-11**|**High-quality entangled photon source by symmetric beam displacement design**|Giacomo Paganini, Alvaro Cuevas, Robin Camphausen, Alexander Demuth, Valerio Pruneri|[2407.03806](http://arxiv.org/abs/2407.03806)|null|
@@ -947,6 +948,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**The XYZ ruby code: Making a case for a three-colored graphical calculus for quantum error correction in spacetime**|Julio C. Magdalena de la Fuente, Josias Old, Alex Townsend-Teague, Manuel Rispler, Jens Eisert, Markus Müller|[2407.08566](http://arxiv.org/abs/2407.08566)|null|
+|**2024-07-11**|**Finding Quantum Codes via Riemannian Optimization**|Miguel Casanova, Kentaro Ohki, Francesco Ticozzi|[2407.08423](http://arxiv.org/abs/2407.08423)|null|
 |**2024-07-10**|**Information dynamics in decohered quantum memory with repeated syndrome measurements: a dual approach**|Jacob Hauser, Yimu Bao, Shengqi Sang, Ali Lavasani, Utkarsh Agrawal, Matthew P. A. Fisher|[2407.07882](http://arxiv.org/abs/2407.07882)|null|
 |**2024-07-10**|**Quantum CSS Duadic and Triadic Codes: New Insights and Properties**|Reza Dastbasteh, Olatz Sanz Larrarte, Josu Etxezarreta Martinez, Antonio deMarti iOlius, Javier Oliva del Moral, Pedro Crespo Bofill|[2407.07753](http://arxiv.org/abs/2407.07753)|null|
 |**2024-07-10**|**Transforming qubits via quasi-geometric approaches**|Nyirahafashimana Valentine, Nurisya Mohd Shah, Umair Abdul Halim, Sharifah Kartini Said Husain, Ahmed Jellal|[2407.07562](http://arxiv.org/abs/2407.07562)|null|

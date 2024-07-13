@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2024-07-11**|**Nonlocal Locking of Observable Quantities: A Faithful Signature of Nonclassical Correlations**|Mir Alimuddin, Snehasish Roy Chowdhury, Ram Krishna Patra, Subhendu B. Ghosh, Tommaso Tufarelli, Gerardo Adesso, Manik Banik|[2407.08292](http://arxiv.org/abs/2407.08292)|null|
 |**2024-07-08**|**Censorship of Quantum Resources in Quantum Networks**|Julien Pinske, Klaus Mølmer|[2407.06417](http://arxiv.org/abs/2407.06417)|null|
-|**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam, Florian Marquardt|[2407.04673](http://arxiv.org/abs/2407.04673)|null|
+|**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam, Florian Marquardt|[2407.04673](http://arxiv.org/abs/2407.04673)|**[link](https://github.com/nick-von-selzam/autolhvs)**|
 |**2024-07-11**|**High-quality entangled photon source by symmetric beam displacement design**|Giacomo Paganini, Alvaro Cuevas, Robin Camphausen, Alexander Demuth, Valerio Pruneri|[2407.03806](http://arxiv.org/abs/2407.03806)|null|
 |**2024-07-01**|**Optimizing Entanglement and Bell Inequality Violation in Top Anti-Top Events**|Kun Cheng, Tao Han, Matthew Low|[2407.01672](http://arxiv.org/abs/2407.01672)|null|
 |**2024-06-21**|**The single-photon steering and the quantum mechanical free-interaction measurement are identical phenomena**|LM Arévalo Aguilar, Rolando Velázquez García|[2407.01587](http://arxiv.org/abs/2407.01587)|null|

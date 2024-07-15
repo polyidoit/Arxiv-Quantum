@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Characterizing Translation-Invariant Bell Inequalities using Tropical Algebra and Graph Polytopes**|Mengyao Hu, Eloïc Vallée, Tim Seynnaeve, Patrick Emonts, Jordi Tura|[2407.08783](http://arxiv.org/abs/2407.08783)|null|
 |**2024-07-11**|**Nonlocal Locking of Observable Quantities: A Faithful Signature of Nonclassical Correlations**|Mir Alimuddin, Snehasish Roy Chowdhury, Ram Krishna Patra, Subhendu B. Ghosh, Tommaso Tufarelli, Gerardo Adesso, Manik Banik|[2407.08292](http://arxiv.org/abs/2407.08292)|null|
 |**2024-07-08**|**Censorship of Quantum Resources in Quantum Networks**|Julien Pinske, Klaus Mølmer|[2407.06417](http://arxiv.org/abs/2407.06417)|null|
 |**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam, Florian Marquardt|[2407.04673](http://arxiv.org/abs/2407.04673)|**[link](https://github.com/nick-von-selzam/autolhvs)**|
@@ -948,6 +949,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**SSIP: automated surgery with quantum LDPC codes**|Alexander Cowtan|[2407.09423](http://arxiv.org/abs/2407.09423)|null|
+|**2024-07-12**|**Resource-aware scheduling of multiple quantum circuits on a hardware device**|Debasmita Bhoumik, Ritajit Majumdar, Susmita Sur-Kolay|[2407.08930](http://arxiv.org/abs/2407.08930)|null|
 |**2024-07-11**|**The XYZ ruby code: Making a case for a three-colored graphical calculus for quantum error correction in spacetime**|Julio C. Magdalena de la Fuente, Josias Old, Alex Townsend-Teague, Manuel Rispler, Jens Eisert, Markus Müller|[2407.08566](http://arxiv.org/abs/2407.08566)|null|
 |**2024-07-11**|**Finding Quantum Codes via Riemannian Optimization**|Miguel Casanova, Kentaro Ohki, Francesco Ticozzi|[2407.08423](http://arxiv.org/abs/2407.08423)|null|
 |**2024-07-10**|**Information dynamics in decohered quantum memory with repeated syndrome measurements: a dual approach**|Jacob Hauser, Yimu Bao, Shengqi Sang, Ali Lavasani, Utkarsh Agrawal, Matthew P. A. Fisher|[2407.07882](http://arxiv.org/abs/2407.07882)|null|

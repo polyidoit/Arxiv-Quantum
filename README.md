@@ -522,6 +522,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-13**|**Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation**|Anqi Zhang, Guangyu Gao|[2407.09838](http://arxiv.org/abs/2407.09838)|null|
 |**2024-07-08**|**Censorship of Quantum Resources in Quantum Networks**|Julien Pinske, Klaus Mølmer|[2407.06417](http://arxiv.org/abs/2407.06417)|null|
 |**2024-07-07**|**The Fermionic Entanglement Entropy of Causal Diamonds in Two-Dimensional Minkowski Space**|Felix Finster, Magdalena Lottner, Albert Much, Simone Murro|[2407.05292](http://arxiv.org/abs/2407.05292)|null|
 |**2024-07-03**|**ShiftAddAug: Augment Multiplication-Free Tiny Neural Network with Hybrid Computation**|Yipin Guo, Zihao Li, Yilin Lang, Qinyuan Ren|[2407.02881](http://arxiv.org/abs/2407.02881)|null|
@@ -663,6 +664,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-13**|**Chaos, entanglement and Husimi Q function in quantum Rabi model**|Shangyun Wang, Songbai Chen, Jiliang Jing|[2407.09802](http://arxiv.org/abs/2407.09802)|null|
 |**2024-07-10**|**Random unitaries in extremely low depth**|Thomas Schuster, Jonas Haferkamp, Hsin-Yuan Huang|[2407.07754](http://arxiv.org/abs/2407.07754)|null|
 |**2024-07-10**|**Spectral Statistics, Hydrodynamics and Quantum Chaos**|Michael Winer|[2407.07692](http://arxiv.org/abs/2407.07692)|null|
 |**2024-07-09**|**Fuzzy Spheres in Stringy Matrix Models: Quantifying Chaos in a Mixed Phase Space**|Paolo Amore, Leopoldo A. Pando Zayas, Juan F. Pedraza, Norma Quiroz, César A. Terrero-Escalante|[2407.07259](http://arxiv.org/abs/2407.07259)|null|
@@ -949,6 +951,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Quantum Control of an Oscillator with a Kerr-cat Qubit**|Andy Z. Ding, Benjamin L. Brock, Alec Eickbusch, Akshay Koottandavida, Nicholas E. Frattini, Rodrigo G. Cortinas, Vidul R. Joshi, Stijn J. de Graaf, Benjamin J. Chapman, Suhas Ganjam, Luigi Frunzio, Robert J. Schoelkopf, Michel H. Devoret|[2407.10940](http://arxiv.org/abs/2407.10940)|null|
+|**2024-07-15**|**On the Efficacy of Surface Codes in Compensating for Radiation Events in Superconducting Devices**|Marzio Vallero, Gioele Casagranda, Flavio Vella, Paolo Rech|[2407.10841](http://arxiv.org/abs/2407.10841)|null|
+|**2024-07-15**|**The geometry of the Hermitian matrix space and the Schrieffer--Wolff transformation**|Gergő Pintér, György Frank, Dániel Varjas, András Pályi|[2407.10478](http://arxiv.org/abs/2407.10478)|null|
+|**2024-07-15**|**Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstract Machine Models, and Applications**|Yuan Liu, Shraddha Singh, Kevin C. Smith, Eleanor Crane, John M. Martyn, Alec Eickbusch, Alexander Schuckert, Richard D. Li, Jasmine Sinanan-Singh, Micheline B. Soley, Takahiro Tsunoda, Isaac L. Chuang, Nathan Wiebe, Steven M. Girvin|[2407.10381](http://arxiv.org/abs/2407.10381)|null|
+|**2024-07-14**|**Building holographic code from the boundary**|Wei Wang|[2407.10271](http://arxiv.org/abs/2407.10271)|null|
 |**2024-07-12**|**SSIP: automated surgery with quantum LDPC codes**|Alexander Cowtan|[2407.09423](http://arxiv.org/abs/2407.09423)|null|
 |**2024-07-12**|**Resource-aware scheduling of multiple quantum circuits on a hardware device**|Debasmita Bhoumik, Ritajit Majumdar, Susmita Sur-Kolay|[2407.08930](http://arxiv.org/abs/2407.08930)|null|
 |**2024-07-11**|**The XYZ ruby code: Making a case for a three-colored graphical calculus for quantum error correction in spacetime**|Julio C. Magdalena de la Fuente, Josias Old, Alex Townsend-Teague, Manuel Rispler, Jens Eisert, Markus Müller|[2407.08566](http://arxiv.org/abs/2407.08566)|null|

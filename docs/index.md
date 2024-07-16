@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 
 ## Bell nonlocality
 
@@ -512,7 +512,7 @@ layout: default
 |**2024-07-01**|**Operational advantage of quantum resources in a semi-device independent framework**|Shubhayan Sarkar, Chandan Datta|[2407.01693](http://arxiv.org/abs/2407.01693)|null|
 |**2024-06-29**|**Krenn-Gu conjecture for sparse graphs**|L. Sunil Chandran, Rishikesh Gajjala, Abraham M. Illickan|[2407.00303](http://arxiv.org/abs/2407.00303)|null|
 |**2024-07-05**|**High-power and narrow-linewidth laser on thin-film lithium niobate enabled by photonic wire bonding**|Cornelis A. A. Franken, Rebecca Cheng, Keith Powell, Georgios Kyriazidis, Victoria Rosborough, Juergen Musolf, Maximilian Shah, David R. Barton III, Gage Hills, Leif Johansson, Klaus-J. Boller, Marko Lončar|[2407.00269](http://arxiv.org/abs/2407.00269)|null|
-|**2024-06-28**|**Conceptual and formal groundwork for the study of resource dependence relations**|Yìlè Yīng, Tomáš Gonda, Robert Spekkens|[2407.00164](http://arxiv.org/abs/2407.00164)|null|
+|**2024-07-12**|**Conceptual and formal groundwork for the study of resource dependence relations**|Yìlè Yīng, Tomáš Gonda, Robert Spekkens|[2407.00164](http://arxiv.org/abs/2407.00164)|null|
 |**2024-06-28**|**Unified Framework for Calculating Convex Roof Resource Measures**|Xuanran Zhu, Chao Zhang, Zheng An, Bei Zeng|[2406.19683](http://arxiv.org/abs/2406.19683)|null|
 |**2024-06-21**|**Investigating Instabilities in Magnetized Low-pressure Capacitively-Coupled RF Plasma using Particle-in-Cell (PIC) Simulations**|Sathya Ganta, Kallol Bera, Shahid Rauf, Igor Kaganovich, Alexander Khrabrov, Andrew T Powis, Dmytro Sydorenko, Liang Xu|[2406.14974](http://arxiv.org/abs/2406.14974)|null|
 |**2024-06-20**|**Orbit symmetry breaking in MXene implements enhanced soft bioelectronic implants**|Yizhang Wu, Yuan Li, Yihan Liu, Dashuai Zhu, Sicheng Xing, Noah Lambert, Hannah Weisbecker, Siyuan Liu, Brayden Davis, Lin Zhang, Meixiang Wang, Gongkai Yuan, Chris Zhoufan You, Anran Zhang, Cate Duncan, Wanrong Xie, Yihang Wang, Yong Wang, Sreya Kanamurlapudi, Garcia-Guzman Evert, Arjun Putcha, Michael D. Dickey, Ke Huang, Wubin Bai|[2406.13956](http://arxiv.org/abs/2406.13956)|null|

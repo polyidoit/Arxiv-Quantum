@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Undergraduate setup for measuring the Bell inequalities and performing Quantum State Tomography**|Raul Lahoz Sanz, Lidia Lozano Martín, Adrià Brú i Cortés, Martí Duocastella, Jose M. Gómez Cama, Bruno Juliá-Díaz|[2407.11570](http://arxiv.org/abs/2407.11570)|null|
+|**2024-07-15**|**Spin entanglement in two-proton emission from $^6$ Be**|Tomohiro Oishi|[2407.11136](http://arxiv.org/abs/2407.11136)|null|
 |**2024-07-11**|**Characterizing Translation-Invariant Bell Inequalities using Tropical Algebra and Graph Polytopes**|Mengyao Hu, Eloïc Vallée, Tim Seynnaeve, Patrick Emonts, Jordi Tura|[2407.08783](http://arxiv.org/abs/2407.08783)|null|
 |**2024-07-11**|**Nonlocal Locking of Observable Quantities: A Faithful Signature of Nonclassical Correlations**|Mir Alimuddin, Snehasish Roy Chowdhury, Ram Krishna Patra, Subhendu B. Ghosh, Tommaso Tufarelli, Gerardo Adesso, Manik Banik|[2407.08292](http://arxiv.org/abs/2407.08292)|null|
 |**2024-07-08**|**Censorship of Quantum Resources in Quantum Networks**|Julien Pinske, Klaus Mølmer|[2407.06417](http://arxiv.org/abs/2407.06417)|null|
@@ -263,6 +265,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Time-symmetric correlations for open quantum systems**|Arthur J. Parzygnat, James Fullwood|[2407.11123](http://arxiv.org/abs/2407.11123)|null|
 |**2024-06-26**|**Indefinite Causal Structure and Causal Inequalities with Time-Symmetry**|Luke Mrini, Lucien Hardy|[2406.18489](http://arxiv.org/abs/2406.18489)|null|
 |**2024-06-06**|**Online learning of quantum processes**|Asad Raza, Matthias C. Caro, Jens Eisert, Sumeet Khatri|[2406.04250](http://arxiv.org/abs/2406.04250)|null|
 |**2024-06-02**|**Matrix-Valued Measures and Wishart Statistics for Target Tracking Applications**|Robin Forsling, Simon J. Julier, Gustaf Hendeby|[2406.00861](http://arxiv.org/abs/2406.00861)|null|
@@ -436,6 +439,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Operational quantification of simultaneous correlations in complementary bases of two-qubit states via one-sided semi-device-independent steering**|Chellasamy Jebarathinam, Debarshi Das, Debasis Sarkar|[2407.11755](http://arxiv.org/abs/2407.11755)|null|
 |**2024-07-10**|**On compatibility of binary qubit measurements**|Dmitry Grinko, Roope Uola|[2407.07711](http://arxiv.org/abs/2407.07711)|null|
 |**2024-06-21**|**The single-photon steering and the quantum mechanical free-interaction measurement are identical phenomena**|LM Arévalo Aguilar, Rolando Velázquez García|[2407.01587](http://arxiv.org/abs/2407.01587)|null|
 |**2024-06-25**|**Einstein-Podolsky-Rosen steering paradox "2=1'' for $N$ qubits**|Zhi-Jie Liu, Jie Zhou, Hui-Xian Meng, Xing-Yan Fan, Mi Xie, Fu-lin Zhang, Jing-Ling Chen|[2406.17247](http://arxiv.org/abs/2406.17247)|null|
@@ -522,6 +526,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Pseudorandom density matrices**|Nikhil Bansal, Wai-Keong Mok, Kishor Bharti, Dax Enshan Koh, Tobias Haug|[2407.11607](http://arxiv.org/abs/2407.11607)|null|
+|**2024-07-16**|**Quantum Coherence, Dynamics and Their connections**|Hai Wang|[2407.11568](http://arxiv.org/abs/2407.11568)|null|
 |**2024-07-13**|**Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation**|Anqi Zhang, Guangyu Gao|[2407.09838](http://arxiv.org/abs/2407.09838)|null|
 |**2024-07-08**|**Censorship of Quantum Resources in Quantum Networks**|Julien Pinske, Klaus Mølmer|[2407.06417](http://arxiv.org/abs/2407.06417)|null|
 |**2024-07-07**|**The Fermionic Entanglement Entropy of Causal Diamonds in Two-Dimensional Minkowski Space**|Felix Finster, Magdalena Lottner, Albert Much, Simone Murro|[2407.05292](http://arxiv.org/abs/2407.05292)|null|
@@ -664,6 +670,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Quantum and Classical Dynamics with Random Permutation Circuits**|Bruno Bertini, Katja Klobas, Pavel Kos, Daniel Malz|[2407.11960](http://arxiv.org/abs/2407.11960)|null|
+|**2024-07-16**|**Stable infinite-temperature eigenstates in SU(2)-symmetric nonintegrable models**|Christopher J. Turner, Marcin Szyniszewski, Bhaskar Mukherjee, Ronald Melendrez, Hitesh J. Changlani, Arijeet Pal|[2407.11956](http://arxiv.org/abs/2407.11956)|null|
+|**2024-07-16**|**Quantum Chaos, Randomness and Universal Scaling of Entanglement in Various Krylov Spaces**|Hai-Long Shi, Augusto Smerzi, Luca Pezzè|[2407.11822](http://arxiv.org/abs/2407.11822)|null|
+|**2024-07-16**|**Quantum Entropies and Decoherence for the Multiparticle Quantum Arnol'd Cat**|Giorgio Mantica|[2407.11587](http://arxiv.org/abs/2407.11587)|null|
+|**2024-07-15**|**Quantum Chaos in Liouville CFT**|Julian Sonner, Benjamin Strittmatter|[2407.11124](http://arxiv.org/abs/2407.11124)|null|
 |**2024-07-13**|**Chaos, entanglement and Husimi Q function in quantum Rabi model**|Shangyun Wang, Songbai Chen, Jiliang Jing|[2407.09802](http://arxiv.org/abs/2407.09802)|null|
 |**2024-07-10**|**Random unitaries in extremely low depth**|Thomas Schuster, Jonas Haferkamp, Hsin-Yuan Huang|[2407.07754](http://arxiv.org/abs/2407.07754)|null|
 |**2024-07-10**|**Spectral Statistics, Hydrodynamics and Quantum Chaos**|Michael Winer|[2407.07692](http://arxiv.org/abs/2407.07692)|null|
@@ -951,6 +962,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Far from Perfect: Quantum Error Correction with (Hyperinvariant) Evenbly Codes**|Matthew Steinberg, Junyu Fan, Robert J. Harris, David Elkouss, Sebastian Feld, Alexander Jahn|[2407.11926](http://arxiv.org/abs/2407.11926)|null|
+|**2024-07-16**|**Improved Belief Propagation Decoding on Surface Codes with High Accuracy and Low Latency**|Jiahan Chen, Zhipeng Liang, Zhengzhong Yi, Xuan Wang|[2407.11523](http://arxiv.org/abs/2407.11523)|null|
 |**2024-07-15**|**Quantum Control of an Oscillator with a Kerr-cat Qubit**|Andy Z. Ding, Benjamin L. Brock, Alec Eickbusch, Akshay Koottandavida, Nicholas E. Frattini, Rodrigo G. Cortinas, Vidul R. Joshi, Stijn J. de Graaf, Benjamin J. Chapman, Suhas Ganjam, Luigi Frunzio, Robert J. Schoelkopf, Michel H. Devoret|[2407.10940](http://arxiv.org/abs/2407.10940)|null|
 |**2024-07-15**|**On the Efficacy of Surface Codes in Compensating for Radiation Events in Superconducting Devices**|Marzio Vallero, Gioele Casagranda, Flavio Vella, Paolo Rech|[2407.10841](http://arxiv.org/abs/2407.10841)|null|
 |**2024-07-15**|**The geometry of the Hermitian matrix space and the Schrieffer--Wolff transformation**|Gergő Pintér, György Frank, Dániel Varjas, András Pályi|[2407.10478](http://arxiv.org/abs/2407.10478)|null|

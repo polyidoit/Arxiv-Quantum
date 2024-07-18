@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Improved Nonlocality Certification via Bouncing between Bell Operators and Inequalities**|Weikang Li, Mengyao Hu, Ke Wang, Shibo Xu, Zhide Lu, Jiachen Chen, Yaozu Wu, Chuanyu Zhang, Feitong Jin, Xuhao Zhu, Yu Gao, Zhengyi Cui, Aosai Zhang, Ning Wang, Yiren Zou, Fanhao Shen, Jiarun Zhong, Zehang Bao, Zitian Zhu, Pengfei Zhang, Hekang Li, Qiujiang Guo, Zhen Wang, Dong-Ling Deng, Chao Song, H. Wang, Patrick Emonts, Jordi Tura|[2407.12347](http://arxiv.org/abs/2407.12347)|null|
 |**2024-07-16**|**Undergraduate setup for measuring the Bell inequalities and performing Quantum State Tomography**|Raul Lahoz Sanz, Lidia Lozano Martín, Adrià Brú i Cortés, Martí Duocastella, Jose M. Gómez Cama, Bruno Juliá-Díaz|[2407.11570](http://arxiv.org/abs/2407.11570)|null|
 |**2024-07-15**|**Spin entanglement in two-proton emission from $^6$ Be**|Tomohiro Oishi|[2407.11136](http://arxiv.org/abs/2407.11136)|null|
 |**2024-07-11**|**Characterizing Translation-Invariant Bell Inequalities using Tropical Algebra and Graph Polytopes**|Mengyao Hu, Eloïc Vallée, Tim Seynnaeve, Patrick Emonts, Jordi Tura|[2407.08783](http://arxiv.org/abs/2407.08783)|null|
@@ -651,6 +652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Entanglement Structure of Non-Gaussian States and How to Measure It**|Henry Froland, Torsten V. Zache, Robert Ott, Niklas Mueller|[2407.12083](http://arxiv.org/abs/2407.12083)|null|
 |**2024-07-16**|**Quantum and Classical Dynamics with Random Permutation Circuits**|Bruno Bertini, Katja Klobas, Pavel Kos, Daniel Malz|[2407.11960](http://arxiv.org/abs/2407.11960)|null|
 |**2024-07-16**|**Stable infinite-temperature eigenstates in SU(2)-symmetric nonintegrable models**|Christopher J. Turner, Marcin Szyniszewski, Bhaskar Mukherjee, Ronald Melendrez, Hitesh J. Changlani, Arijeet Pal|[2407.11956](http://arxiv.org/abs/2407.11956)|null|
 |**2024-07-16**|**Quantum Chaos, Randomness and Universal Scaling of Entanglement in Various Krylov Spaces**|Hai-Long Shi, Augusto Smerzi, Luca Pezzè|[2407.11822](http://arxiv.org/abs/2407.11822)|null|
@@ -941,6 +943,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Tutorial on Quantum Error Correction for 2024 Quantum Information Knowledge (QuIK) Workshop**|Priya J. Nadkarni, Narayanan Rengaswamy, Bane Vasić|[2407.12737](http://arxiv.org/abs/2407.12737)|null|
 |**2024-07-16**|**Far from Perfect: Quantum Error Correction with (Hyperinvariant) Evenbly Codes**|Matthew Steinberg, Junyu Fan, Robert J. Harris, David Elkouss, Sebastian Feld, Alexander Jahn|[2407.11926](http://arxiv.org/abs/2407.11926)|null|
 |**2024-07-16**|**Improved Belief Propagation Decoding on Surface Codes with High Accuracy and Low Latency**|Jiahan Chen, Zhipeng Liang, Zhengzhong Yi, Xuan Wang|[2407.11523](http://arxiv.org/abs/2407.11523)|null|
 |**2024-07-15**|**Quantum Control of an Oscillator with a Kerr-cat Qubit**|Andy Z. Ding, Benjamin L. Brock, Alec Eickbusch, Akshay Koottandavida, Nicholas E. Frattini, Rodrigo G. Cortinas, Vidul R. Joshi, Stijn J. de Graaf, Benjamin J. Chapman, Suhas Ganjam, Luigi Frunzio, Robert J. Schoelkopf, Michel H. Devoret|[2407.10940](http://arxiv.org/abs/2407.10940)|null|

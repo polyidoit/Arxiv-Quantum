@@ -527,6 +527,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**The separatrix operational space of next-step fusion experiments: From ASDEX Upgrade data to SPARC scenarios**|Thomas Eich, Thomas Body, Michael Faitsch, Ondrej Grover, Marco Andres Miller, Peter Manz, Tom Looby, Adam Qingyang Kuang, Andreas Redl, Matt Reinke, Alex J. Creely, Devon Battaglia, Jon Hillesheim, Mike Wigram, Jerry W. Hughes, the ASDEX Upgrade team|[2407.13539](http://arxiv.org/abs/2407.13539)|null|
+|**2024-07-18**|**Multipartite Entanglement versus Multiparticle Entanglement**|Marcin Wieśniak|[2407.13348](http://arxiv.org/abs/2407.13348)|null|
 |**2024-07-16**|**Pseudorandom density matrices**|Nikhil Bansal, Wai-Keong Mok, Kishor Bharti, Dax Enshan Koh, Tobias Haug|[2407.11607](http://arxiv.org/abs/2407.11607)|null|
 |**2024-07-16**|**Quantum Coherence, Dynamics and Their connections**|Hai Wang|[2407.11568](http://arxiv.org/abs/2407.11568)|null|
 |**2024-07-13**|**Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation**|Anqi Zhang, Guangyu Gao|[2407.09838](http://arxiv.org/abs/2407.09838)|null|
@@ -671,6 +673,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Fast Scrambling at the Boundary**|Ancel Larzul, Anirvan M. Sengupta, Antoine Georges, Marco Schirò|[2407.13617](http://arxiv.org/abs/2407.13617)|null|
 |**2024-07-16**|**Entanglement Structure of Non-Gaussian States and How to Measure It**|Henry Froland, Torsten V. Zache, Robert Ott, Niklas Mueller|[2407.12083](http://arxiv.org/abs/2407.12083)|null|
 |**2024-07-16**|**Quantum and Classical Dynamics with Random Permutation Circuits**|Bruno Bertini, Katja Klobas, Pavel Kos, Daniel Malz|[2407.11960](http://arxiv.org/abs/2407.11960)|null|
 |**2024-07-16**|**Stable infinite-temperature eigenstates in SU(2)-symmetric nonintegrable models**|Christopher J. Turner, Marcin Szyniszewski, Bhaskar Mukherjee, Ronald Melendrez, Hitesh J. Changlani, Arijeet Pal|[2407.11956](http://arxiv.org/abs/2407.11956)|null|
@@ -964,6 +967,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**A Construction of Quantum Stabilizer Codes from Classical Codes and Butson Hadamard Matrices**|Bulent Sarac, Damla Acar|[2407.13527](http://arxiv.org/abs/2407.13527)|null|
 |**2024-07-17**|**Tutorial on Quantum Error Correction for 2024 Quantum Information Knowledge (QuIK) Workshop**|Priya J. Nadkarni, Narayanan Rengaswamy, Bane Vasić|[2407.12737](http://arxiv.org/abs/2407.12737)|null|
 |**2024-07-16**|**Far from Perfect: Quantum Error Correction with (Hyperinvariant) Evenbly Codes**|Matthew Steinberg, Junyu Fan, Robert J. Harris, David Elkouss, Sebastian Feld, Alexander Jahn|[2407.11926](http://arxiv.org/abs/2407.11926)|null|
 |**2024-07-16**|**Improved Belief Propagation Decoding on Surface Codes with High Accuracy and Low Latency**|Jiahan Chen, Zhipeng Liang, Zhengzhong Yi, Xuan Wang|[2407.11523](http://arxiv.org/abs/2407.11523)|null|

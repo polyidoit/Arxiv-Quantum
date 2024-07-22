@@ -20,7 +20,7 @@
 |**2024-07-17**|**Improved Nonlocality Certification via Bouncing between Bell Operators and Inequalities**|Weikang Li, Mengyao Hu, Ke Wang, Shibo Xu, Zhide Lu, Jiachen Chen, Yaozu Wu, Chuanyu Zhang, Feitong Jin, Xuhao Zhu, Yu Gao, Zhengyi Cui, Aosai Zhang, Ning Wang, Yiren Zou, Fanhao Shen, Jiarun Zhong, Zehang Bao, Zitian Zhu, Pengfei Zhang, Hekang Li, Qiujiang Guo, Zhen Wang, Dong-Ling Deng, Chao Song, H. Wang, Patrick Emonts, Jordi Tura|[2407.12347](http://arxiv.org/abs/2407.12347)|null|
 |**2024-07-16**|**Undergraduate setup for measuring the Bell inequalities and performing Quantum State Tomography**|Raul Lahoz Sanz, Lidia Lozano Martín, Adrià Brú i Cortés, Martí Duocastella, Jose M. Gómez Cama, Bruno Juliá-Díaz|[2407.11570](http://arxiv.org/abs/2407.11570)|null|
 |**2024-07-15**|**Spin entanglement in two-proton emission from $^6$ Be**|Tomohiro Oishi|[2407.11136](http://arxiv.org/abs/2407.11136)|null|
-|**2024-07-11**|**Characterizing Translation-Invariant Bell Inequalities using Tropical Algebra and Graph Polytopes**|Mengyao Hu, Eloïc Vallée, Tim Seynnaeve, Patrick Emonts, Jordi Tura|[2407.08783](http://arxiv.org/abs/2407.08783)|null|
+|**2024-07-11**|**Characterizing Translation-Invariant Bell Inequalities using Tropical Algebra and Graph Polytopes**|Mengyao Hu, Eloïc Vallée, Tim Seynnaeve, Patrick Emonts, Jordi Tura|[2407.08783](http://arxiv.org/abs/2407.08783)|**[link](https://gitlab.com/elo_val/ti-bell-inequalities)**|
 |**2024-07-11**|**Nonlocal Locking of Observable Quantities: A Faithful Signature of Nonclassical Correlations**|Mir Alimuddin, Snehasish Roy Chowdhury, Ram Krishna Patra, Subhendu B. Ghosh, Tommaso Tufarelli, Gerardo Adesso, Manik Banik|[2407.08292](http://arxiv.org/abs/2407.08292)|null|
 |**2024-07-08**|**Censorship of Quantum Resources in Quantum Networks**|Julien Pinske, Klaus Mølmer|[2407.06417](http://arxiv.org/abs/2407.06417)|null|
 |**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam, Florian Marquardt|[2407.04673](http://arxiv.org/abs/2407.04673)|**[link](https://github.com/nick-von-selzam/autolhvs)**|
@@ -345,6 +345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Quantum Hamiltonian Embedding of Images for Data Reuploading Classifiers**|Peiyong Wang, Casey R. Myers, Lloyd C. L. Hollenberg, Udaya Parampalli|[2407.14055](http://arxiv.org/abs/2407.14055)|null|
 |**2024-07-03**|**A new heuristic approach for contextuality degree estimates and its four- to six-qubit portrayals**|Axel Muller, Metod Saniga, Alain Giorgetti, Frédéric Holweck, Colm Kelleher|[2407.02928](http://arxiv.org/abs/2407.02928)|null|
 |**2024-06-27**|**Characterizing Contextuality via Rank Separation with Applications to Cloning**|Farid Shahandeh, Theodoros Yianni, Mina Doosti|[2406.19382](http://arxiv.org/abs/2406.19382)|null|
 |**2024-06-23**|**Free Electron Theory for Thin Metal Films**|Philip B. Allen|[2406.16197](http://arxiv.org/abs/2406.16197)|null|
@@ -967,6 +968,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Designing fault-tolerant circuits using detector error models**|Peter-Jan H. S. Derks, Alex Townsend-Teague, Ansgar G. Burchards, Jens Eisert|[2407.13826](http://arxiv.org/abs/2407.13826)|null|
+|**2024-07-18**|**Optimized Quantum Simulation Algorithms for Scalar Quantum Field Theories**|Andrew Hardy, Priyanka Mukhopadhyay, M. Sohaib Alam, Robert Konik, Layla Hormozi, Eleanor Rieffel, Stuart Hadfield, João Barata, Raju Venugopalan, Dmitri E. Kharzeev, Nathan Wiebe|[2407.13819](http://arxiv.org/abs/2407.13819)|null|
 |**2024-07-18**|**A Construction of Quantum Stabilizer Codes from Classical Codes and Butson Hadamard Matrices**|Bulent Sarac, Damla Acar|[2407.13527](http://arxiv.org/abs/2407.13527)|null|
 |**2024-07-17**|**Tutorial on Quantum Error Correction for 2024 Quantum Information Knowledge (QuIK) Workshop**|Priya J. Nadkarni, Narayanan Rengaswamy, Bane Vasić|[2407.12737](http://arxiv.org/abs/2407.12737)|null|
 |**2024-07-16**|**Far from Perfect: Quantum Error Correction with (Hyperinvariant) Evenbly Codes**|Matthew Steinberg, Junyu Fan, Robert J. Harris, David Elkouss, Sebastian Feld, Alexander Jahn|[2407.11926](http://arxiv.org/abs/2407.11926)|null|

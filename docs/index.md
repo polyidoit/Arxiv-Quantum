@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Violating Bell's inequality in gate-defined quantum dots**|Paul Steinacker, Tuomo Tanttu, Wee Han Lim, Nard Dumoulin Stuyck, MengKe Feng, Santiago Serrano, Ensar Vahapoglu, Rocky Y. Su, Jonathan Y. Huang, Cameron Jones, Kohei M. Itoh, Fay E. Hudson, Christopher C. Escott, Andrea Morello, Andre Saraiva, Chih Hwan Yang, Andrew S. Dzurak, Arne Laucht|[2407.15778](http://arxiv.org/abs/2407.15778)|null|
+|**2024-07-22**|**Can foreign exchange rates violate Bell inequalities?**|Hans De Raedt, Mikhail I. Katsnelson, Manpreet S. Jattana, Vrinda Mehta, Madita Willsch, Dennis Willsch, Kristel Michielsen, Fengping Jin|[2407.15747](http://arxiv.org/abs/2407.15747)|null|
+|**2024-07-20**|**Simultaneous Verification of Genuine Multipartite Nonlocality and Full Network Nonlocality**|Wang Ning-Ning, Yang Xue, Yang Yan-Han, Zhang Chao, Luo Ming-Xing, Liu Bi-Heng, Huang Yun-Feng, Li Chuan-Feng, Guo Guang-Can|[2407.14871](http://arxiv.org/abs/2407.14871)|null|
 |**2024-07-17**|**Improved Nonlocality Certification via Bouncing between Bell Operators and Inequalities**|Weikang Li, Mengyao Hu, Ke Wang, Shibo Xu, Zhide Lu, Jiachen Chen, Yaozu Wu, Chuanyu Zhang, Feitong Jin, Xuhao Zhu, Yu Gao, Zhengyi Cui, Aosai Zhang, Ning Wang, Yiren Zou, Fanhao Shen, Jiarun Zhong, Zehang Bao, Zitian Zhu, Pengfei Zhang, Hekang Li, Qiujiang Guo, Zhen Wang, Dong-Ling Deng, Chao Song, H. Wang, Patrick Emonts, Jordi Tura|[2407.12347](http://arxiv.org/abs/2407.12347)|null|
 |**2024-07-16**|**Undergraduate setup for measuring the Bell inequalities and performing Quantum State Tomography**|Raul Lahoz Sanz, Lidia Lozano Martín, Adrià Brú i Cortés, Martí Duocastella, Jose M. Gómez Cama, Bruno Juliá-Díaz|[2407.11570](http://arxiv.org/abs/2407.11570)|null|
 |**2024-07-15**|**Spin entanglement in two-proton emission from $^6$ Be**|Tomohiro Oishi|[2407.11136](http://arxiv.org/abs/2407.11136)|null|
@@ -255,6 +258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Process tensor distinguishability measures**|Guilherme Zambon|[2407.15712](http://arxiv.org/abs/2407.15712)|null|
 |**2024-07-15**|**Time-symmetric correlations for open quantum systems**|Arthur J. Parzygnat, James Fullwood|[2407.11123](http://arxiv.org/abs/2407.11123)|null|
 |**2024-06-26**|**Indefinite Causal Structure and Causal Inequalities with Time-Symmetry**|Luke Mrini, Lucien Hardy|[2406.18489](http://arxiv.org/abs/2406.18489)|null|
 |**2024-06-06**|**Online learning of quantum processes**|Asad Raza, Matthias C. Caro, Jens Eisert, Sumeet Khatri|[2406.04250](http://arxiv.org/abs/2406.04250)|null|
@@ -511,6 +515,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Error correction for encoded quantum annealing revisited**|Yoshihiro Nambu|[2407.15480](http://arxiv.org/abs/2407.15480)|null|
 |**2024-07-18**|**The separatrix operational space of next-step fusion experiments: From ASDEX Upgrade data to SPARC scenarios**|Thomas Eich, Thomas Body, Michael Faitsch, Ondrej Grover, Marco Andres Miller, Peter Manz, Tom Looby, Adam Qingyang Kuang, Andreas Redl, Matt Reinke, Alex J. Creely, Devon Battaglia, Jon Hillesheim, Mike Wigram, Jerry W. Hughes, the ASDEX Upgrade team|[2407.13539](http://arxiv.org/abs/2407.13539)|null|
 |**2024-07-18**|**Multipartite Entanglement versus Multiparticle Entanglement**|Marcin Wieśniak|[2407.13348](http://arxiv.org/abs/2407.13348)|null|
 |**2024-07-16**|**Pseudorandom density matrices**|Nikhil Bansal, Wai-Keong Mok, Kishor Bharti, Dax Enshan Koh, Tobias Haug|[2407.11607](http://arxiv.org/abs/2407.11607)|null|

@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Controlling nonlocality of bipartite qubit states via quantum channels**|Adam Rutkowski, Katarzyna Siudzińska|[2407.16035](http://arxiv.org/abs/2407.16035)|null|
 |**2024-07-22**|**Violating Bell's inequality in gate-defined quantum dots**|Paul Steinacker, Tuomo Tanttu, Wee Han Lim, Nard Dumoulin Stuyck, MengKe Feng, Santiago Serrano, Ensar Vahapoglu, Rocky Y. Su, Jonathan Y. Huang, Cameron Jones, Kohei M. Itoh, Fay E. Hudson, Christopher C. Escott, Andrea Morello, Andre Saraiva, Chih Hwan Yang, Andrew S. Dzurak, Arne Laucht|[2407.15778](http://arxiv.org/abs/2407.15778)|null|
 |**2024-07-22**|**Can foreign exchange rates violate Bell inequalities?**|Hans De Raedt, Mikhail I. Katsnelson, Manpreet S. Jattana, Vrinda Mehta, Madita Willsch, Dennis Willsch, Kristel Michielsen, Fengping Jin|[2407.15747](http://arxiv.org/abs/2407.15747)|null|
 |**2024-07-20**|**Simultaneous Verification of Genuine Multipartite Nonlocality and Full Network Nonlocality**|Wang Ning-Ning, Yang Xue, Yang Yan-Han, Zhang Chao, Luo Ming-Xing, Liu Bi-Heng, Huang Yun-Feng, Li Chuan-Feng, Guo Guang-Can|[2407.14871](http://arxiv.org/abs/2407.14871)|null|
@@ -532,7 +533,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-22**|**Error correction for encoded quantum annealing revisited**|Yoshihiro Nambu|[2407.15480](http://arxiv.org/abs/2407.15480)|null|
+|**2024-07-23**|**Error correction for encoded quantum annealing revisited**|Yoshihiro Nambu|[2407.15480](http://arxiv.org/abs/2407.15480)|null|
 |**2024-07-18**|**The separatrix operational space of next-step fusion experiments: From ASDEX Upgrade data to SPARC scenarios**|Thomas Eich, Thomas Body, Michael Faitsch, Ondrej Grover, Marco Andres Miller, Peter Manz, Tom Looby, Adam Qingyang Kuang, Andreas Redl, Matt Reinke, Alex J. Creely, Devon Battaglia, Jon Hillesheim, Mike Wigram, Jerry W. Hughes, the ASDEX Upgrade team|[2407.13539](http://arxiv.org/abs/2407.13539)|null|
 |**2024-07-18**|**Multipartite Entanglement versus Multiparticle Entanglement**|Marcin Wieśniak|[2407.13348](http://arxiv.org/abs/2407.13348)|null|
 |**2024-07-16**|**Pseudorandom density matrices**|Nikhil Bansal, Wai-Keong Mok, Kishor Bharti, Dax Enshan Koh, Tobias Haug|[2407.11607](http://arxiv.org/abs/2407.11607)|null|
@@ -679,6 +680,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Pauli path simulations of noisy quantum circuits beyond average case**|Guillermo González-García, J. Ignacio Cirac, Rahul Trivedi|[2407.16068](http://arxiv.org/abs/2407.16068)|null|
 |**2024-07-18**|**Fast Scrambling at the Boundary**|Ancel Larzul, Anirvan M. Sengupta, Antoine Georges, Marco Schirò|[2407.13617](http://arxiv.org/abs/2407.13617)|null|
 |**2024-07-16**|**Entanglement Structure of Non-Gaussian States and How to Measure It**|Henry Froland, Torsten V. Zache, Robert Ott, Niklas Mueller|[2407.12083](http://arxiv.org/abs/2407.12083)|null|
 |**2024-07-16**|**Quantum and Classical Dynamics with Random Permutation Circuits**|Bruno Bertini, Katja Klobas, Pavel Kos, Daniel Malz|[2407.11960](http://arxiv.org/abs/2407.11960)|null|
@@ -973,6 +975,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Lowering Connectivity Requirements For Bivariate Bicycle Codes Using Morphing Circuits**|Mackenzie H. Shaw, Barbara M. Terhal|[2407.16336](http://arxiv.org/abs/2407.16336)|null|
+|**2024-07-23**|**Quantum memory based on concatenating surface codes and quantum Hamming codes**|Menglong Fang, Daiqin Su|[2407.16176](http://arxiv.org/abs/2407.16176)|null|
+|**2024-07-22**|**Breadth-first graph traversal union-find decoder**|Matthias C. Löbl, Susan X. Chen, Stefano Paesani, Anders S. Sørensen|[2407.15988](http://arxiv.org/abs/2407.15988)|null|
 |**2024-07-18**|**Designing fault-tolerant circuits using detector error models**|Peter-Jan H. S. Derks, Alex Townsend-Teague, Ansgar G. Burchards, Jens Eisert|[2407.13826](http://arxiv.org/abs/2407.13826)|null|
 |**2024-07-18**|**Optimized Quantum Simulation Algorithms for Scalar Quantum Field Theories**|Andrew Hardy, Priyanka Mukhopadhyay, M. Sohaib Alam, Robert Konik, Layla Hormozi, Eleanor Rieffel, Stuart Hadfield, João Barata, Raju Venugopalan, Dmitri E. Kharzeev, Nathan Wiebe|[2407.13819](http://arxiv.org/abs/2407.13819)|null|
 |**2024-07-18**|**A Construction of Quantum Stabilizer Codes from Classical Codes and Butson Hadamard Matrices**|Bulent Sarac, Damla Acar|[2407.13527](http://arxiv.org/abs/2407.13527)|null|

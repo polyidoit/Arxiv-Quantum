@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**The Möbius Game: A Quantum-Inspired Test of General Relativity**|Eleftherios-Ermis Tselentis, Ämin Baumeler|[2407.17203](http://arxiv.org/abs/2407.17203)|null|
 |**2024-07-22**|**Controlling nonlocality of bipartite qubit states via quantum channels**|Adam Rutkowski, Katarzyna Siudzińska|[2407.16035](http://arxiv.org/abs/2407.16035)|null|
 |**2024-07-22**|**Violating Bell's inequality in gate-defined quantum dots**|Paul Steinacker, Tuomo Tanttu, Wee Han Lim, Nard Dumoulin Stuyck, MengKe Feng, Santiago Serrano, Ensar Vahapoglu, Rocky Y. Su, Jonathan Y. Huang, Cameron Jones, Kohei M. Itoh, Fay E. Hudson, Christopher C. Escott, Andrea Morello, Andre Saraiva, Chih Hwan Yang, Andrew S. Dzurak, Arne Laucht|[2407.15778](http://arxiv.org/abs/2407.15778)|null|
 |**2024-07-22**|**Can foreign exchange rates violate Bell inequalities?**|Hans De Raedt, Mikhail I. Katsnelson, Manpreet S. Jattana, Vrinda Mehta, Madita Willsch, Dennis Willsch, Kristel Michielsen, Fengping Jin|[2407.15747](http://arxiv.org/abs/2407.15747)|null|
@@ -533,6 +534,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Quantum coherence in neutrino spin-flavor oscillations**|Ashutosh Kumar Alok, Trambak Jyoti Chall, Neetu Raj Singh Chundawat, Shireen Gangal, Gaetano Lambiase|[2407.16742](http://arxiv.org/abs/2407.16742)|null|
 |**2024-07-23**|**Error correction for encoded quantum annealing revisited**|Yoshihiro Nambu|[2407.15480](http://arxiv.org/abs/2407.15480)|null|
 |**2024-07-18**|**The separatrix operational space of next-step fusion experiments: From ASDEX Upgrade data to SPARC scenarios**|Thomas Eich, Thomas Body, Michael Faitsch, Ondrej Grover, Marco Andres Miller, Peter Manz, Tom Looby, Adam Qingyang Kuang, Andreas Redl, Matt Reinke, Alex J. Creely, Devon Battaglia, Jon Hillesheim, Mike Wigram, Jerry W. Hughes, the ASDEX Upgrade team|[2407.13539](http://arxiv.org/abs/2407.13539)|null|
 |**2024-07-18**|**Multipartite Entanglement versus Multiparticle Entanglement**|Marcin Wieśniak|[2407.13348](http://arxiv.org/abs/2407.13348)|null|
@@ -680,6 +682,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Krylov complexity as an order parameter for quantum chaotic-integrable transitions**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Keun-Young Kim, Juan F. Pedraza|[2407.17054](http://arxiv.org/abs/2407.17054)|null|
+|**2024-07-23**|**Calderón problem for fractional Schrödinger operators on closed Riemannian manifolds**|Ali Feizmohammadi, Katya Krupchyk, Gunther Uhlmann|[2407.16866](http://arxiv.org/abs/2407.16866)|null|
 |**2024-07-22**|**Pauli path simulations of noisy quantum circuits beyond average case**|Guillermo González-García, J. Ignacio Cirac, Rahul Trivedi|[2407.16068](http://arxiv.org/abs/2407.16068)|null|
 |**2024-07-18**|**Fast Scrambling at the Boundary**|Ancel Larzul, Anirvan M. Sengupta, Antoine Georges, Marco Schirò|[2407.13617](http://arxiv.org/abs/2407.13617)|null|
 |**2024-07-16**|**Entanglement Structure of Non-Gaussian States and How to Measure It**|Henry Froland, Torsten V. Zache, Robert Ott, Niklas Mueller|[2407.12083](http://arxiv.org/abs/2407.12083)|null|
@@ -975,6 +979,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Speeding up quantum measurement using space-time trade-off**|C. Corlett, I. Čepaitė, A. J. Daley, C. Gustiani, G. Pelegrí, J. D. Pritchard, N. Linden, P. Skrzypczyk|[2407.17342](http://arxiv.org/abs/2407.17342)|null|
+|**2024-07-23**|**Quantum Constacyclic BCH Codes over Qudits: A Spectral-Domain Approach**|Shikha Patel, Shayan Srinivasa Garani|[2407.16814](http://arxiv.org/abs/2407.16814)|null|
 |**2024-07-23**|**Lowering Connectivity Requirements For Bivariate Bicycle Codes Using Morphing Circuits**|Mackenzie H. Shaw, Barbara M. Terhal|[2407.16336](http://arxiv.org/abs/2407.16336)|null|
 |**2024-07-23**|**Quantum memory based on concatenating surface codes and quantum Hamming codes**|Menglong Fang, Daiqin Su|[2407.16176](http://arxiv.org/abs/2407.16176)|null|
 |**2024-07-22**|**Breadth-first graph traversal union-find decoder**|Matthias C. Löbl, Susan X. Chen, Stefano Paesani, Anders S. Sørensen|[2407.15988](http://arxiv.org/abs/2407.15988)|null|

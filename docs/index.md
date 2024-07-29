@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 
 ## Bell nonlocality
 
@@ -663,7 +663,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-24**|**Krylov complexity as an order parameter for quantum chaotic-integrable transitions**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Keun-Young Kim, Juan F. Pedraza|[2407.17054](http://arxiv.org/abs/2407.17054)|null|
+|**2024-07-26**|**Krylov complexity as an order parameter for quantum chaotic-integrable transitions**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Keun-Young Kim, Juan F. Pedraza|[2407.17054](http://arxiv.org/abs/2407.17054)|null|
 |**2024-07-23**|**Calderón problem for fractional Schrödinger operators on closed Riemannian manifolds**|Ali Feizmohammadi, Katya Krupchyk, Gunther Uhlmann|[2407.16866](http://arxiv.org/abs/2407.16866)|null|
 |**2024-07-22**|**Pauli path simulations of noisy quantum circuits beyond average case**|Guillermo González-García, J. Ignacio Cirac, Rahul Trivedi|[2407.16068](http://arxiv.org/abs/2407.16068)|null|
 |**2024-07-18**|**Fast Scrambling at the Boundary**|Ancel Larzul, Anirvan M. Sengupta, Antoine Georges, Marco Schirò|[2407.13617](http://arxiv.org/abs/2407.13617)|null|

@@ -979,6 +979,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Fast and Parallelizable Logical Computation with Homological Product Codes**|Qian Xu, Hengyun Zhou, Guo Zheng, Dolev Bluvstein, J. Pablo Bonilla Ataides, Mikhail D. Lukin, Liang Jiang|[2407.18490](http://arxiv.org/abs/2407.18490)|null|
+|**2024-07-25**|**Computational Phase Transitions in Two-Dimensional Antiferromagnetic Melting**|Zack Weinstein, Jalal Abu Ahmad, Daniel Podolsky, Ehud Altman|[2407.18405](http://arxiv.org/abs/2407.18405)|null|
+|**2024-07-25**|**Identifying quantum resources in encoded computations**|Jack Davis, Nicolas Fabre, Ulysse Chabaud|[2407.18394](http://arxiv.org/abs/2407.18394)|null|
 |**2024-07-24**|**Speeding up quantum measurement using space-time trade-off**|C. Corlett, I. Čepaitė, A. J. Daley, C. Gustiani, G. Pelegrí, J. D. Pritchard, N. Linden, P. Skrzypczyk|[2407.17342](http://arxiv.org/abs/2407.17342)|null|
 |**2024-07-23**|**Quantum Constacyclic BCH Codes over Qudits: A Spectral-Domain Approach**|Shikha Patel, Shayan Srinivasa Garani|[2407.16814](http://arxiv.org/abs/2407.16814)|null|
 |**2024-07-23**|**Lowering Connectivity Requirements For Bivariate Bicycle Codes Using Morphing Circuits**|Mackenzie H. Shaw, Barbara M. Terhal|[2407.16336](http://arxiv.org/abs/2407.16336)|null|

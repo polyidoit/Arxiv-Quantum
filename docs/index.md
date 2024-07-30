@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-28**|**Strength of statistical evidence for genuine tripartite nonlocality**|Soumyadip Patra, Peter Bierhorst|[2407.19587](http://arxiv.org/abs/2407.19587)|null|
+|**2024-07-27**|**Test of Bell Locality Violation in Flavor Entangled Neutral Meson Pair**|Kaiwen Chen, Zhi-Peng Xing, Ruilin Zhu|[2407.19242](http://arxiv.org/abs/2407.19242)|null|
+|**2024-07-26**|**Microwave-Optical Entanglement from Pulse-pumped Electro-optomechanics**|Changchun Zhong, Fangxin Li, Srujan Meesala, Steven Wood, David Lake, Oskar Painter, Liang Jiang|[2407.19109](http://arxiv.org/abs/2407.19109)|null|
 |**2024-07-24**|**The Möbius Game: A Quantum-Inspired Test of General Relativity**|Eleftherios-Ermis Tselentis, Ämin Baumeler|[2407.17203](http://arxiv.org/abs/2407.17203)|null|
 |**2024-07-22**|**Controlling nonlocality of bipartite qubit states via quantum channels**|Adam Rutkowski, Katarzyna Siudzińska|[2407.16035](http://arxiv.org/abs/2407.16035)|null|
 |**2024-07-22**|**Violating Bell's inequality in gate-defined quantum dots**|Paul Steinacker, Tuomo Tanttu, Wee Han Lim, Nard Dumoulin Stuyck, MengKe Feng, Santiago Serrano, Ensar Vahapoglu, Rocky Y. Su, Jonathan Y. Huang, Cameron Jones, Kohei M. Itoh, Fay E. Hudson, Christopher C. Escott, Andrea Morello, Andre Saraiva, Chih Hwan Yang, Andrew S. Dzurak, Arne Laucht|[2407.15778](http://arxiv.org/abs/2407.15778)|null|
@@ -663,6 +666,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Eigenstate Correlations in Dual-Unitary Quantum Circuits: Partial Spectral Form Factor**|Felix Fritzsch, Maximilian F. I. Kieler, Arnd Bäcker|[2407.19929](http://arxiv.org/abs/2407.19929)|null|
+|**2024-07-28**|**Anti-Concentration for the Unitary Haar Measure and Applications to Random Quantum Circuits**|Bill Fefferman, Soumik Ghosh, Wei Zhan|[2407.19561](http://arxiv.org/abs/2407.19561)|null|
 |**2024-07-26**|**Krylov complexity as an order parameter for quantum chaotic-integrable transitions**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Keun-Young Kim, Juan F. Pedraza|[2407.17054](http://arxiv.org/abs/2407.17054)|null|
 |**2024-07-23**|**Calderón problem for fractional Schrödinger operators on closed Riemannian manifolds**|Ali Feizmohammadi, Katya Krupchyk, Gunther Uhlmann|[2407.16866](http://arxiv.org/abs/2407.16866)|null|
 |**2024-07-22**|**Pauli path simulations of noisy quantum circuits beyond average case**|Guillermo González-García, J. Ignacio Cirac, Rahul Trivedi|[2407.16068](http://arxiv.org/abs/2407.16068)|null|
@@ -958,6 +963,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Benchmarking and linear response modeling of high-fidelity Rydberg gates**|Richard Bing-Shiun Tsai, Xiangkai Sun, Adam L. Shaw, Ran Finkelstein, Manuel Endres|[2407.20184](http://arxiv.org/abs/2407.20184)|null|
+|**2024-07-29**|**Purification and correction of quantum channels by commutation-derived quantum filters**|Sowmitra Das, Jinzhao Sun, Michael Hanks, Bálint Koczor, M. S. Kim|[2407.20173](http://arxiv.org/abs/2407.20173)|null|
+|**2024-07-29**|**Impact of Parallel Gating on Gate Fidelities in Linear, Square, and Star Arrays of Noisy Flip-Flop Qubits**|Marco De Michielis, Elena Ferraro|[2407.20166](http://arxiv.org/abs/2407.20166)|null|
 |**2024-07-26**|**Fast and Parallelizable Logical Computation with Homological Product Codes**|Qian Xu, Hengyun Zhou, Guo Zheng, Dolev Bluvstein, J. Pablo Bonilla Ataides, Mikhail D. Lukin, Liang Jiang|[2407.18490](http://arxiv.org/abs/2407.18490)|null|
 |**2024-07-25**|**Computational Phase Transitions in Two-Dimensional Antiferromagnetic Melting**|Zack Weinstein, Jalal Abu Ahmad, Daniel Podolsky, Ehud Altman|[2407.18405](http://arxiv.org/abs/2407.18405)|null|
 |**2024-07-25**|**Identifying quantum resources in encoded computations**|Jack Davis, Nicolas Fabre, Ulysse Chabaud|[2407.18394](http://arxiv.org/abs/2407.18394)|null|

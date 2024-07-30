@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 
 ## Bell nonlocality
 
@@ -346,7 +346,7 @@ layout: default
 |**2024-06-28**|**Statistical signatures of quantum contextuality**|Holger F. Hofmann|[2405.20569](http://arxiv.org/abs/2405.20569)|null|
 |**2024-05-28**|**Biunits of ternary algebra of hypermatrices**|Viktor Abramov|[2405.17907](http://arxiv.org/abs/2405.17907)|null|
 |**2024-05-24**|**Graph Random Walk for Time-of-Flight Charge Mobilities**|Zhongquan Chen, Pim van der Hoorn, Björn Baumeier|[2405.15836](http://arxiv.org/abs/2405.15836)|null|
-|**2024-05-21**|**Random close packing of binary hard spheres predicts the stability of atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
+|**2024-07-28**|**Random close packing of binary hard spheres favors the stability of neutron-rich atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
 |**2024-05-16**|**Revisiting the exclusion principle in epidemiology at its ultimate limit**|Nir Gavish|[2405.09813](http://arxiv.org/abs/2405.09813)|null|
 |**2024-05-10**|**A computational test of quantum contextuality, and even simpler proofs of quantumness**|Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo|[2405.06787](http://arxiv.org/abs/2405.06787)|null|
 |**2024-05-24**|**Investigating entropic dynamics of multiqubit cavity QED system**|Hui-hui Miao|[2405.05696](http://arxiv.org/abs/2405.05696)|null|

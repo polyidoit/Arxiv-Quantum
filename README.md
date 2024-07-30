@@ -1,4 +1,4 @@
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -265,7 +265,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -345,7 +345,7 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -359,7 +359,7 @@
 |**2024-06-28**|**Statistical signatures of quantum contextuality**|Holger F. Hofmann|[2405.20569](http://arxiv.org/abs/2405.20569)|null|
 |**2024-05-28**|**Biunits of ternary algebra of hypermatrices**|Viktor Abramov|[2405.17907](http://arxiv.org/abs/2405.17907)|null|
 |**2024-05-24**|**Graph Random Walk for Time-of-Flight Charge Mobilities**|Zhongquan Chen, Pim van der Hoorn, Björn Baumeier|[2405.15836](http://arxiv.org/abs/2405.15836)|null|
-|**2024-05-21**|**Random close packing of binary hard spheres predicts the stability of atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
+|**2024-07-28**|**Random close packing of binary hard spheres favors the stability of neutron-rich atomic nuclei**|Carmine Anzivino, Vinay Vaibhav, Alessio Zaccone|[2405.11268](http://arxiv.org/abs/2405.11268)|null|
 |**2024-05-16**|**Revisiting the exclusion principle in epidemiology at its ultimate limit**|Nir Gavish|[2405.09813](http://arxiv.org/abs/2405.09813)|null|
 |**2024-05-10**|**A computational test of quantum contextuality, and even simpler proofs of quantumness**|Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo|[2405.06787](http://arxiv.org/abs/2405.06787)|null|
 |**2024-05-24**|**Investigating entropic dynamics of multiqubit cavity QED system**|Hui-hui Miao|[2405.05696](http://arxiv.org/abs/2405.05696)|null|
@@ -441,7 +441,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -528,7 +528,7 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
 ## Resource theory
 
@@ -676,7 +676,7 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -973,7 +973,7 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -1595,5 +1595,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 

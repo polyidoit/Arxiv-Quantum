@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Local Friendliness Polytopes In Multipartite Scenarios**|Marwan Haddara, Eric G. Cavalcanti|[2407.20346](http://arxiv.org/abs/2407.20346)|null|
+|**2024-07-29**|**Realizaiton of high-fidelity perfect entangler between remote superconducting quantum processors**|Juan Song, Shuang Yang, Pei Liu, Guang-Ming Xue, Zhen-Yu Mi, Wen-Gang Zhang, Fei Yan, Yi-Rong Jin, Hai-Feng Yu|[2407.20338](http://arxiv.org/abs/2407.20338)|null|
 |**2024-07-28**|**Strength of statistical evidence for genuine tripartite nonlocality**|Soumyadip Patra, Peter Bierhorst|[2407.19587](http://arxiv.org/abs/2407.19587)|null|
 |**2024-07-27**|**Test of Bell Locality Violation in Flavor Entangled Neutral Meson Pair**|Kaiwen Chen, Zhi-Peng Xing, Ruilin Zhu|[2407.19242](http://arxiv.org/abs/2407.19242)|null|
 |**2024-07-26**|**Microwave-Optical Entanglement from Pulse-pumped Electro-optomechanics**|Changchun Zhong, Fangxin Li, Srujan Meesala, Steven Wood, David Lake, Oskar Painter, Liang Jiang|[2407.19109](http://arxiv.org/abs/2407.19109)|null|
@@ -984,6 +986,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**An iterative transversal CNOT decoder**|Kwok Ho Wan, Mark Webber, Austin G. Fowler, Winfried K. Hensinger|[2407.20976](http://arxiv.org/abs/2407.20976)|null|
+|**2024-07-30**|**On the energy barrier of hypergraph product codes**|Guangqi Zhao, Andrew C. Doherty, Isaac H. Kim|[2407.20526](http://arxiv.org/abs/2407.20526)|null|
 |**2024-07-29**|**Benchmarking and linear response modeling of high-fidelity Rydberg gates**|Richard Bing-Shiun Tsai, Xiangkai Sun, Adam L. Shaw, Ran Finkelstein, Manuel Endres|[2407.20184](http://arxiv.org/abs/2407.20184)|null|
 |**2024-07-29**|**Purification and correction of quantum channels by commutation-derived quantum filters**|Sowmitra Das, Jinzhao Sun, Michael Hanks, Bálint Koczor, M. S. Kim|[2407.20173](http://arxiv.org/abs/2407.20173)|null|
 |**2024-07-29**|**Impact of Parallel Gating on Gate Fidelities in Linear, Square, and Star Arrays of Noisy Flip-Flop Qubits**|Marco De Michielis, Elena Ferraro|[2407.20166](http://arxiv.org/abs/2407.20166)|null|

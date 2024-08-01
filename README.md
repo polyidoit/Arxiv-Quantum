@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**Coordinating Decisions via Quantum Telepathy**|Dawei Ding, Liang Jiang|[2407.21723](http://arxiv.org/abs/2407.21723)|null|
+|**2024-07-31**|**Perfect quantum strategies with small input cardinality**|Stefan Trandafir, Junior R. Gonzales-Ureta, Adan Cabello|[2407.21473](http://arxiv.org/abs/2407.21473)|null|
 |**2024-07-29**|**Local Friendliness Polytopes In Multipartite Scenarios**|Marwan Haddara, Eric G. Cavalcanti|[2407.20346](http://arxiv.org/abs/2407.20346)|null|
 |**2024-07-29**|**Realizaiton of high-fidelity perfect entangler between remote superconducting quantum processors**|Juan Song, Shuang Yang, Pei Liu, Guang-Ming Xue, Zhen-Yu Mi, Wen-Gang Zhang, Fei Yan, Yi-Rong Jin, Hai-Feng Yu|[2407.20338](http://arxiv.org/abs/2407.20338)|null|
 |**2024-07-28**|**Strength of statistical evidence for genuine tripartite nonlocality**|Soumyadip Patra, Peter Bierhorst|[2407.19587](http://arxiv.org/abs/2407.19587)|null|
@@ -687,6 +689,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**Relaxation Fluctuations of Correlation Functions: Spin and Random Matrix Models**|Tanay Pathak|[2407.21644](http://arxiv.org/abs/2407.21644)|null|
 |**2024-07-29**|**Eigenstate Correlations in Dual-Unitary Quantum Circuits: Partial Spectral Form Factor**|Felix Fritzsch, Maximilian F. I. Kieler, Arnd Bäcker|[2407.19929](http://arxiv.org/abs/2407.19929)|null|
 |**2024-07-28**|**Anti-Concentration for the Unitary Haar Measure and Applications to Random Quantum Circuits**|Bill Fefferman, Soumik Ghosh, Wei Zhan|[2407.19561](http://arxiv.org/abs/2407.19561)|null|
 |**2024-07-26**|**Krylov complexity as an order parameter for quantum chaotic-integrable transitions**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Keun-Young Kim, Juan F. Pedraza|[2407.17054](http://arxiv.org/abs/2407.17054)|null|

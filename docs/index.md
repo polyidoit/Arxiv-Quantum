@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 
 ## Bell nonlocality
 
@@ -345,7 +345,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-19**|**Quantum Hamiltonian Embedding of Images for Data Reuploading Classifiers**|Peiyong Wang, Casey R. Myers, Lloyd C. L. Hollenberg, Udaya Parampalli|[2407.14055](http://arxiv.org/abs/2407.14055)|null|
+|**2024-08-01**|**Quantum Hamiltonian Embedding of Images for Data Reuploading Classifiers**|Peiyong Wang, Casey R. Myers, Lloyd C. L. Hollenberg, Udaya Parampalli|[2407.14055](http://arxiv.org/abs/2407.14055)|null|
 |**2024-07-03**|**A new heuristic approach for contextuality degree estimates and its four- to six-qubit portrayals**|Axel Muller, Metod Saniga, Alain Giorgetti, Frédéric Holweck, Colm Kelleher|[2407.02928](http://arxiv.org/abs/2407.02928)|null|
 |**2024-06-27**|**Characterizing Contextuality via Rank Separation with Applications to Cloning**|Farid Shahandeh, Theodoros Yianni, Mina Doosti|[2406.19382](http://arxiv.org/abs/2406.19382)|null|
 |**2024-06-23**|**Free Electron Theory for Thin Metal Films**|Philip B. Allen|[2406.16197](http://arxiv.org/abs/2406.16197)|null|

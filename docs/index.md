@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-31**|**Coordinating Decisions via Quantum Telepathy**|Dawei Ding, Liang Jiang|[2407.21723](http://arxiv.org/abs/2407.21723)|null|
-|**2024-07-31**|**Perfect quantum strategies with small input cardinality**|Stefan Trandafir, Junior R. Gonzales-Ureta, Adan Cabello|[2407.21473](http://arxiv.org/abs/2407.21473)|null|
+|**2024-07-31**|**Perfect quantum strategies with small input cardinality**|Stefan Trandafir, Junior R. Gonzales-Ureta, Adán Cabello|[2407.21473](http://arxiv.org/abs/2407.21473)|null|
 |**2024-07-29**|**Local Friendliness Polytopes In Multipartite Scenarios**|Marwan Haddara, Eric G. Cavalcanti|[2407.20346](http://arxiv.org/abs/2407.20346)|null|
 |**2024-07-29**|**Realizaiton of high-fidelity perfect entangler between remote superconducting quantum processors**|Juan Song, Shuang Yang, Pei Liu, Guang-Ming Xue, Zhen-Yu Mi, Wen-Gang Zhang, Fei Yan, Yi-Rong Jin, Hai-Feng Yu|[2407.20338](http://arxiv.org/abs/2407.20338)|null|
 |**2024-07-28**|**Strength of statistical evidence for genuine tripartite nonlocality**|Soumyadip Patra, Peter Bierhorst|[2407.19587](http://arxiv.org/abs/2407.19587)|null|

@@ -541,6 +541,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**First Access to ELM-free Negative Triangularity at Low Aspect Ratio**|A. O. Nelson, C. Vincent, H. Anand, J. Lovell, J. F. Parisi, H. S. Wilson, K. Imada, W. P. Wehner, M. Kochan, S. Blackmore, G. McArdle, S. Guizzo, L. Rondini, S. Freiberger, C. Paz-Soldan|[2408.00180](http://arxiv.org/abs/2408.00180)|null|
 |**2024-07-23**|**Quantum coherence in neutrino spin-flavor oscillations**|Ashutosh Kumar Alok, Trambak Jyoti Chall, Neetu Raj Singh Chundawat, Shireen Gangal, Gaetano Lambiase|[2407.16742](http://arxiv.org/abs/2407.16742)|null|
 |**2024-07-23**|**Error correction for encoded quantum annealing revisited**|Yoshihiro Nambu|[2407.15480](http://arxiv.org/abs/2407.15480)|null|
 |**2024-07-18**|**The separatrix operational space of next-step fusion experiments: From ASDEX Upgrade data to SPARC scenarios**|Thomas Eich, Thomas Body, Michael Faitsch, Ondrej Grover, Marco Andres Miller, Peter Manz, Tom Looby, Adam Qingyang Kuang, Andreas Redl, Matt Reinke, Alex J. Creely, Devon Battaglia, Jon Hillesheim, Mike Wigram, Jerry W. Hughes, the ASDEX Upgrade team|[2407.13539](http://arxiv.org/abs/2407.13539)|null|
@@ -689,6 +690,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**Quantum Computing Universal Thermalization Dynamics in a (2+1)D Lattice Gauge Theory**|Niklas Mueller, Tianyi Wang, Or Katz, Zohreh Davoudi, Marko Cetina|[2408.00069](http://arxiv.org/abs/2408.00069)|null|
 |**2024-07-31**|**Relaxation Fluctuations of Correlation Functions: Spin and Random Matrix Models**|Tanay Pathak|[2407.21644](http://arxiv.org/abs/2407.21644)|null|
 |**2024-07-29**|**Eigenstate Correlations in Dual-Unitary Quantum Circuits: Partial Spectral Form Factor**|Felix Fritzsch, Maximilian F. I. Kieler, Arnd Bäcker|[2407.19929](http://arxiv.org/abs/2407.19929)|null|
 |**2024-07-28**|**Anti-Concentration for the Unitary Haar Measure and Applications to Random Quantum Circuits**|Bill Fefferman, Soumik Ghosh, Wei Zhan|[2407.19561](http://arxiv.org/abs/2407.19561)|null|
@@ -989,6 +991,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**To reset, or not to reset -- that is the question**|György P. Gehér, Marcin Jastrzebski, Earl T. Campbell, Ophelia Crawford|[2408.00758](http://arxiv.org/abs/2408.00758)|null|
 |**2024-07-30**|**An iterative transversal CNOT decoder**|Kwok Ho Wan, Mark Webber, Austin G. Fowler, Winfried K. Hensinger|[2407.20976](http://arxiv.org/abs/2407.20976)|null|
 |**2024-07-30**|**On the energy barrier of hypergraph product codes**|Guangqi Zhao, Andrew C. Doherty, Isaac H. Kim|[2407.20526](http://arxiv.org/abs/2407.20526)|null|
 |**2024-07-29**|**Benchmarking and linear response modeling of high-fidelity Rydberg gates**|Richard Bing-Shiun Tsai, Xiangkai Sun, Adam L. Shaw, Ran Finkelstein, Manuel Endres|[2407.20184](http://arxiv.org/abs/2407.20184)|null|

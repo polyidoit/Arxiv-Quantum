@@ -991,6 +991,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Error correction of transversal controlled-NOT gates for scalable surface code computation**|Kaavya Sahay, Yingjia Lin, Shilin Huang, Kenneth R. Brown, Shruti Puri|[2408.01393](http://arxiv.org/abs/2408.01393)|null|
+|**2024-08-02**|**Encoded-Fusion-Based Quantum Computation for High Thresholds with Linear Optics**|Wooyeong Song, Nuri Kang, Yong-Su Kim, Seung-Woo Lee|[2408.01041](http://arxiv.org/abs/2408.01041)|null|
+|**2024-08-01**|**Surface Code with Imperfect Erasure Checks**|Kathleen Chang, Shraddha Singh, Jahan Claes, Kaavya Sahay, James Teoh, Shruti Puri|[2408.00842](http://arxiv.org/abs/2408.00842)|null|
+|**2024-08-01**|**Optimizing quantum error correction protocols with erasure qubits**|Shouzhen Gu, Yotam Vaknin, Alex Retzker, Aleksander Kubica|[2408.00829](http://arxiv.org/abs/2408.00829)|null|
 |**2024-08-01**|**To reset, or not to reset -- that is the question**|György P. Gehér, Marcin Jastrzebski, Earl T. Campbell, Ophelia Crawford|[2408.00758](http://arxiv.org/abs/2408.00758)|null|
 |**2024-07-30**|**An iterative transversal CNOT decoder**|Kwok Ho Wan, Mark Webber, Austin G. Fowler, Winfried K. Hensinger|[2407.20976](http://arxiv.org/abs/2407.20976)|null|
 |**2024-07-30**|**On the energy barrier of hypergraph product codes**|Guangqi Zhao, Andrew C. Doherty, Isaac H. Kim|[2407.20526](http://arxiv.org/abs/2407.20526)|null|

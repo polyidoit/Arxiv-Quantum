@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 
 ## Bell nonlocality
 
@@ -447,7 +447,7 @@ layout: default
 |**2024-06-19**|**Quantum steering under constrained free-will**|Abhishek Sadhu, Siddhartha Das|[2406.13494](http://arxiv.org/abs/2406.13494)|null|
 |**2024-07-10**|**Einstein-Podolsky-Rosen Steering Criterion and Monogamy Relation via Correlation Matrices in Tripartite Systems**|Li-Juan Li, Xiao-Gang Fan, Xue-Ke Song, Liu Ye, Dong Wang|[2406.13290](http://arxiv.org/abs/2406.13290)|null|
 |**2024-06-29**|**Witnessing network steerability of every bipartite entangled state without inputs**|Shubhayan Sarkar|[2406.11994](http://arxiv.org/abs/2406.11994)|null|
-|**2024-06-15**|**Activation of post-quantum steering**|Ana Belén Sainz, Paul Skrzypczyk, Matty J. Hoban|[2406.10570](http://arxiv.org/abs/2406.10570)|null|
+|**2024-08-02**|**Activation of post-quantum steering**|Ana Belén Sainz, Paul Skrzypczyk, Matty J. Hoban|[2406.10570](http://arxiv.org/abs/2406.10570)|null|
 |**2024-06-10**|**Entanglement and steering in quantum batteries**|Dayang Zhang, Shuangquan Ma, Yunxiu Jiang, Youbin Yu, Guangri Jin, Aixi Chen|[2406.06373](http://arxiv.org/abs/2406.06373)|null|
 |**2024-06-06**|**Locally inaccessible hidden quantum correlations**|Andrés F. Ducuara, Cristian E. Susa, Paul Skrzypczyk|[2406.03945](http://arxiv.org/abs/2406.03945)|null|
 |**2024-05-25**|**Nonclassical characteristics in spin-1/2 Heisenberg XYZ model with added DM and KSEA interactions under sinusoidal magnetic field: Hierarchy of quantum resources**|A. Ali, S. Al-Kuwari, M. T. Rahim, M. Ghominejad, H. Ali, S. Haddadi|[2405.16294](http://arxiv.org/abs/2405.16294)|null|

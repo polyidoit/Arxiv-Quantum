@@ -345,6 +345,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Search for Pauli Exclusion Principle Violations with Gator at LNGS**|L. Baudis, R. Biondi, A. Bismark, A. Clozza, C. Curceanu, M. Galloway, F. Napolitano, F. Piastra, K. Piscicchia, A. Porcelli, D. Ramírez García|[2408.02500](http://arxiv.org/abs/2408.02500)|null|
 |**2024-08-01**|**Quantum Hamiltonian Embedding of Images for Data Reuploading Classifiers**|Peiyong Wang, Casey R. Myers, Lloyd C. L. Hollenberg, Udaya Parampalli|[2407.14055](http://arxiv.org/abs/2407.14055)|null|
 |**2024-07-03**|**A new heuristic approach for contextuality degree estimates and its four- to six-qubit portrayals**|Axel Muller, Metod Saniga, Alain Giorgetti, Frédéric Holweck, Colm Kelleher|[2407.02928](http://arxiv.org/abs/2407.02928)|null|
 |**2024-06-27**|**Characterizing Contextuality via Rank Separation with Applications to Cloning**|Farid Shahandeh, Theodoros Yianni, Mina Doosti|[2406.19382](http://arxiv.org/abs/2406.19382)|null|
@@ -524,6 +525,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Long-living Equilibria in Kinetic Astrophysical Plasma Turbulence**|Mario Imbrogno, Claudio Meringolo, Sergio Servidio, Alejandro Cruz-Osorio, Benoît Cerutti, Francesco Pegoraro|[2408.02656](http://arxiv.org/abs/2408.02656)|null|
+|**2024-08-05**|**Local ergotropy and its fluctuations across a dissipative quantum phase transition**|G. Di Bello, D. Farina, D. Jansen, C. A. Perroni, V. Cataudella, G. De Filippis|[2408.02655](http://arxiv.org/abs/2408.02655)|null|
 |**2024-07-31**|**First Access to ELM-free Negative Triangularity at Low Aspect Ratio**|A. O. Nelson, C. Vincent, H. Anand, J. Lovell, J. F. Parisi, H. S. Wilson, K. Imada, W. P. Wehner, M. Kochan, S. Blackmore, G. McArdle, S. Guizzo, L. Rondini, S. Freiberger, C. Paz-Soldan|[2408.00180](http://arxiv.org/abs/2408.00180)|null|
 |**2024-07-23**|**Quantum coherence in neutrino spin-flavor oscillations**|Ashutosh Kumar Alok, Trambak Jyoti Chall, Neetu Raj Singh Chundawat, Shireen Gangal, Gaetano Lambiase|[2407.16742](http://arxiv.org/abs/2407.16742)|null|
 |**2024-07-23**|**Error correction for encoded quantum annealing revisited**|Yoshihiro Nambu|[2407.15480](http://arxiv.org/abs/2407.15480)|null|
@@ -671,9 +674,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Operator space fragmentation in perturbed Floquet-Clifford circuits**|Marcell D. Kovács, Christopher J. Turner, Lluis Masanes, Arijeet Pal|[2408.01545](http://arxiv.org/abs/2408.01545)|null|
+|**2024-08-02**|**3D $\mathcal{N}=1$ supergravity from Virasoro TQFT: Gravitational partition function and Out-of-time-order correlator**|Arpan Bhattacharyya, Saptaswa Ghosh, Poulami Nandi, Sounak Pal|[2408.01538](http://arxiv.org/abs/2408.01538)|null|
 |**2024-07-31**|**Quantum Computing Universal Thermalization Dynamics in a (2+1)D Lattice Gauge Theory**|Niklas Mueller, Tianyi Wang, Or Katz, Zohreh Davoudi, Marko Cetina|[2408.00069](http://arxiv.org/abs/2408.00069)|null|
 |**2024-07-31**|**Relaxation Fluctuations of Correlation Functions: Spin and Random Matrix Models**|Tanay Pathak|[2407.21644](http://arxiv.org/abs/2407.21644)|null|
-|**2024-07-29**|**Eigenstate Correlations in Dual-Unitary Quantum Circuits: Partial Spectral Form Factor**|Felix Fritzsch, Maximilian F. I. Kieler, Arnd Bäcker|[2407.19929](http://arxiv.org/abs/2407.19929)|null|
+|**2024-08-05**|**Eigenstate Correlations in Dual-Unitary Quantum Circuits: Partial Spectral Form Factor**|Felix Fritzsch, Maximilian F. I. Kieler, Arnd Bäcker|[2407.19929](http://arxiv.org/abs/2407.19929)|null|
 |**2024-07-28**|**Anti-Concentration for the Unitary Haar Measure and Applications to Random Quantum Circuits**|Bill Fefferman, Soumik Ghosh, Wei Zhan|[2407.19561](http://arxiv.org/abs/2407.19561)|null|
 |**2024-07-26**|**Krylov complexity as an order parameter for quantum chaotic-integrable transitions**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Keun-Young Kim, Juan F. Pedraza|[2407.17054](http://arxiv.org/abs/2407.17054)|null|
 |**2024-07-23**|**Calderón problem for fractional Schrödinger operators on closed Riemannian manifolds**|Ali Feizmohammadi, Katya Krupchyk, Gunther Uhlmann|[2407.16866](http://arxiv.org/abs/2407.16866)|null|
@@ -970,6 +975,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Using Detector Likelihood for Benchmarking Quantum Error Correction**|Ian Hesner, Bence Hetényi, James R. Wootton|[2408.02082](http://arxiv.org/abs/2408.02082)|null|
+|**2024-08-03**|**Transform Arbitrary Good Quantum LDPC Codes into Good Geometrically Local Codes in Any Dimension**|Xingjian Li, Ting-Chun Lin, Min-Hsiu Hsieh|[2408.01769](http://arxiv.org/abs/2408.01769)|null|
 |**2024-08-02**|**Error correction of transversal controlled-NOT gates for scalable surface code computation**|Kaavya Sahay, Yingjia Lin, Shilin Huang, Kenneth R. Brown, Shruti Puri|[2408.01393](http://arxiv.org/abs/2408.01393)|null|
 |**2024-08-02**|**Encoded-Fusion-Based Quantum Computation for High Thresholds with Linear Optics**|Wooyeong Song, Nuri Kang, Yong-Su Kim, Seung-Woo Lee|[2408.01041](http://arxiv.org/abs/2408.01041)|null|
 |**2024-08-01**|**Surface Code with Imperfect Erasure Checks**|Kathleen Chang, Shraddha Singh, Jahan Claes, Kaavya Sahay, James Teoh, Shruti Puri|[2408.00842](http://arxiv.org/abs/2408.00842)|null|

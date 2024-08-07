@@ -542,6 +542,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Generalized Quantum Stein's Lemma and Second Law of Quantum Resource Theories**|Masahito Hayashi, Hayata Yamasaki|[2408.02722](http://arxiv.org/abs/2408.02722)|null|
 |**2024-08-05**|**Long-living Equilibria in Kinetic Astrophysical Plasma Turbulence**|Mario Imbrogno, Claudio Meringolo, Sergio Servidio, Alejandro Cruz-Osorio, Benoît Cerutti, Francesco Pegoraro|[2408.02656](http://arxiv.org/abs/2408.02656)|null|
 |**2024-08-05**|**Local ergotropy and its fluctuations across a dissipative quantum phase transition**|G. Di Bello, D. Farina, D. Jansen, C. A. Perroni, V. Cataudella, G. De Filippis|[2408.02655](http://arxiv.org/abs/2408.02655)|null|
 |**2024-07-31**|**First Access to ELM-free Negative Triangularity at Low Aspect Ratio**|A. O. Nelson, C. Vincent, H. Anand, J. Lovell, J. F. Parisi, H. S. Wilson, K. Imada, W. P. Wehner, M. Kochan, S. Blackmore, G. McArdle, S. Guizzo, L. Rondini, S. Freiberger, C. Paz-Soldan|[2408.00180](http://arxiv.org/abs/2408.00180)|null|
@@ -693,6 +694,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Scrambling-induced entanglement suppression in noisy quantum circuits**|Lea Haas, Christian Carisch, Oded Zilberberg|[2408.02810](http://arxiv.org/abs/2408.02810)|null|
+|**2024-08-05**|**Quantum information scrambling in adiabatically-driven critical systems**|Ricardo Puebla, Fernando J. Gómez-Ruiz|[2408.02735](http://arxiv.org/abs/2408.02735)|null|
+|**2024-08-05**|**Fock-space delocalization and the emergence of the Porter-Thomas distribution from dual-unitary dynamics**|Pieter W. Claeys, Giuseppe De Tomasi|[2408.02732](http://arxiv.org/abs/2408.02732)|null|
 |**2024-08-02**|**Operator space fragmentation in perturbed Floquet-Clifford circuits**|Marcell D. Kovács, Christopher J. Turner, Lluis Masanes, Arijeet Pal|[2408.01545](http://arxiv.org/abs/2408.01545)|null|
 |**2024-08-02**|**3D $\mathcal{N}=1$ supergravity from Virasoro TQFT: Gravitational partition function and Out-of-time-order correlator**|Arpan Bhattacharyya, Saptaswa Ghosh, Poulami Nandi, Sounak Pal|[2408.01538](http://arxiv.org/abs/2408.01538)|null|
 |**2024-07-31**|**Quantum Computing Universal Thermalization Dynamics in a (2+1)D Lattice Gauge Theory**|Niklas Mueller, Tianyi Wang, Or Katz, Zohreh Davoudi, Marko Cetina|[2408.00069](http://arxiv.org/abs/2408.00069)|null|
@@ -996,6 +1000,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Binary Triorthogonal and CSS-T Codes for Quantum Error Correction**|Eduardo Camps-Moreno, Hiram H. López, Gretchen L. Matthews, Diego Ruano, Rodrigo San-José, Ivan Soprunov|[2408.02916](http://arxiv.org/abs/2408.02916)|null|
+|**2024-08-05**|**Modular Architectures and Entanglement Schemes for Error-Corrected Distributed Quantum Computation**|Siddhant Singh, Fenglei Gu, Sébastian de Bone, Eduardo Villaseñor, David Elkouss, Johannes Borregaard|[2408.02837](http://arxiv.org/abs/2408.02837)|null|
+|**2024-08-05**|**On Galois duality, self-orthogonality, and dual-containment of matrix product codes**|Ramy Farouk Taki Eldin|[2408.02799](http://arxiv.org/abs/2408.02799)|null|
 |**2024-08-04**|**Using Detector Likelihood for Benchmarking Quantum Error Correction**|Ian Hesner, Bence Hetényi, James R. Wootton|[2408.02082](http://arxiv.org/abs/2408.02082)|null|
 |**2024-08-03**|**Transform Arbitrary Good Quantum LDPC Codes into Good Geometrically Local Codes in Any Dimension**|Xingjian Li, Ting-Chun Lin, Min-Hsiu Hsieh|[2408.01769](http://arxiv.org/abs/2408.01769)|null|
 |**2024-08-02**|**Error correction of transversal controlled-NOT gates for scalable surface code computation**|Kaavya Sahay, Yingjia Lin, Shilin Huang, Kenneth R. Brown, Shruti Puri|[2408.01393](http://arxiv.org/abs/2408.01393)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 
 ## Bell nonlocality
 
@@ -527,7 +527,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-05**|**Generalized Quantum Stein's Lemma and Second Law of Quantum Resource Theories**|Masahito Hayashi, Hayata Yamasaki|[2408.02722](http://arxiv.org/abs/2408.02722)|null|
 |**2024-08-05**|**Long-living Equilibria in Kinetic Astrophysical Plasma Turbulence**|Mario Imbrogno, Claudio Meringolo, Sergio Servidio, Alejandro Cruz-Osorio, Benoît Cerutti, Francesco Pegoraro|[2408.02656](http://arxiv.org/abs/2408.02656)|null|
-|**2024-08-05**|**Local ergotropy and its fluctuations across a dissipative quantum phase transition**|G. Di Bello, D. Farina, D. Jansen, C. A. Perroni, V. Cataudella, G. De Filippis|[2408.02655](http://arxiv.org/abs/2408.02655)|null|
+|**2024-08-06**|**Local ergotropy and its fluctuations across a dissipative quantum phase transition**|G. Di Bello, D. Farina, D. Jansen, C. A. Perroni, V. Cataudella, G. De Filippis|[2408.02655](http://arxiv.org/abs/2408.02655)|null|
 |**2024-07-31**|**First Access to ELM-free Negative Triangularity at Low Aspect Ratio**|A. O. Nelson, C. Vincent, H. Anand, J. Lovell, J. F. Parisi, H. S. Wilson, K. Imada, W. P. Wehner, M. Kochan, S. Blackmore, G. McArdle, S. Guizzo, L. Rondini, S. Freiberger, C. Paz-Soldan|[2408.00180](http://arxiv.org/abs/2408.00180)|null|
 |**2024-07-23**|**Quantum coherence in neutrino spin-flavor oscillations**|Ashutosh Kumar Alok, Trambak Jyoti Chall, Neetu Raj Singh Chundawat, Shireen Gangal, Gaetano Lambiase|[2407.16742](http://arxiv.org/abs/2407.16742)|null|
 |**2024-07-23**|**Error correction for encoded quantum annealing revisited**|Yoshihiro Nambu|[2407.15480](http://arxiv.org/abs/2407.15480)|null|

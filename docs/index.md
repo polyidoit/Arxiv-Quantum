@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Maximum Quantum Non-Locality is not always Sufficient for Device-Independent Randomness Generation**|Ravishankar Ramanathan, Yuan Liu, Stefano Pironio|[2408.03665](http://arxiv.org/abs/2408.03665)|null|
 |**2024-07-31**|**Coordinating Decisions via Quantum Telepathy**|Dawei Ding, Liang Jiang|[2407.21723](http://arxiv.org/abs/2407.21723)|null|
 |**2024-07-31**|**Perfect quantum strategies with small input cardinality**|Stefan Trandafir, Junior R. Gonzales-Ureta, Adán Cabello|[2407.21473](http://arxiv.org/abs/2407.21473)|null|
 |**2024-07-29**|**Local Friendliness Polytopes In Multipartite Scenarios**|Marwan Haddara, Eric G. Cavalcanti|[2407.20346](http://arxiv.org/abs/2407.20346)|null|
@@ -345,6 +346,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Nucleon-quark mixed matter and neutron star EOS**|Y. Yamamoto, N. Yasutake, Th. A. Rijken|[2408.03812](http://arxiv.org/abs/2408.03812)|null|
 |**2024-08-05**|**Search for Pauli Exclusion Principle Violations with Gator at LNGS**|L. Baudis, R. Biondi, A. Bismark, A. Clozza, C. Curceanu, M. Galloway, F. Napolitano, F. Piastra, K. Piscicchia, A. Porcelli, D. Ramírez García|[2408.02500](http://arxiv.org/abs/2408.02500)|null|
 |**2024-08-01**|**Quantum Hamiltonian Embedding of Images for Data Reuploading Classifiers**|Peiyong Wang, Casey R. Myers, Lloyd C. L. Hollenberg, Udaya Parampalli|[2407.14055](http://arxiv.org/abs/2407.14055)|null|
 |**2024-07-03**|**A new heuristic approach for contextuality degree estimates and its four- to six-qubit portrayals**|Axel Muller, Metod Saniga, Alain Giorgetti, Frédéric Holweck, Colm Kelleher|[2407.02928](http://arxiv.org/abs/2407.02928)|null|
@@ -525,6 +527,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Mutual information fluctuations and non-stabilizerness in random circuits**|Arash Ahmadi, Jonas Helsen, Cagan Karaca, Eliska Greplova|[2408.03831](http://arxiv.org/abs/2408.03831)|null|
 |**2024-08-05**|**Generalized Quantum Stein's Lemma and Second Law of Quantum Resource Theories**|Masahito Hayashi, Hayata Yamasaki|[2408.02722](http://arxiv.org/abs/2408.02722)|null|
 |**2024-08-05**|**Long-living Equilibria in Kinetic Astrophysical Plasma Turbulence**|Mario Imbrogno, Claudio Meringolo, Sergio Servidio, Alejandro Cruz-Osorio, Benoît Cerutti, Francesco Pegoraro|[2408.02656](http://arxiv.org/abs/2408.02656)|null|
 |**2024-08-06**|**Local ergotropy and its fluctuations across a dissipative quantum phase transition**|G. Di Bello, D. Farina, D. Jansen, C. A. Perroni, V. Cataudella, G. De Filippis|[2408.02655](http://arxiv.org/abs/2408.02655)|null|
@@ -675,6 +678,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Mutual information fluctuations and non-stabilizerness in random circuits**|Arash Ahmadi, Jonas Helsen, Cagan Karaca, Eliska Greplova|[2408.03831](http://arxiv.org/abs/2408.03831)|null|
 |**2024-08-05**|**Scrambling-induced entanglement suppression in noisy quantum circuits**|Lea Haas, Christian Carisch, Oded Zilberberg|[2408.02810](http://arxiv.org/abs/2408.02810)|null|
 |**2024-08-05**|**Quantum information scrambling in adiabatically-driven critical systems**|Ricardo Puebla, Fernando J. Gómez-Ruiz|[2408.02735](http://arxiv.org/abs/2408.02735)|null|
 |**2024-08-05**|**Fock-space delocalization and the emergence of the Porter-Thomas distribution from dual-unitary dynamics**|Pieter W. Claeys, Giuseppe De Tomasi|[2408.02732](http://arxiv.org/abs/2408.02732)|null|
@@ -979,6 +983,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Demonstrating anyonic non-Abelian statistics with a minimal $d = 6$ qudit lattice**|Lucy Byles, Ewan Forbes, Jiannis K. Pachos|[2408.03377](http://arxiv.org/abs/2408.03377)|null|
 |**2024-08-06**|**Binary Triorthogonal and CSS-T Codes for Quantum Error Correction**|Eduardo Camps-Moreno, Hiram H. López, Gretchen L. Matthews, Diego Ruano, Rodrigo San-José, Ivan Soprunov|[2408.02916](http://arxiv.org/abs/2408.02916)|null|
 |**2024-08-05**|**Modular Architectures and Entanglement Schemes for Error-Corrected Distributed Quantum Computation**|Siddhant Singh, Fenglei Gu, Sébastian de Bone, Eduardo Villaseñor, David Elkouss, Johannes Borregaard|[2408.02837](http://arxiv.org/abs/2408.02837)|null|
 |**2024-08-05**|**On Galois duality, self-orthogonality, and dual-containment of matrix product codes**|Ramy Farouk Taki Eldin|[2408.02799](http://arxiv.org/abs/2408.02799)|null|

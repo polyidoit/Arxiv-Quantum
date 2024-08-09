@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Randomness versus Nonlocality in Multi-input and Multi-output Quantum Scenario**|Chao Zhang, Yi Li, Xiao-Min Hu, Yu Xiang, Chuan-Feng Li, Guang-Can Guo, Jordi Tura, Qihuang Gong, Qiongyi He, Bi-Heng Liu|[2408.04566](http://arxiv.org/abs/2408.04566)|null|
+|**2024-08-08**|**Interference Resurrection of the $τ$ Dipole through Quantum Tomography**|Prisco Lo Chiatto|[2408.04553](http://arxiv.org/abs/2408.04553)|null|
 |**2024-08-07**|**Maximum Quantum Non-Locality is not always Sufficient for Device-Independent Randomness Generation**|Ravishankar Ramanathan, Yuan Liu, Stefano Pironio|[2408.03665](http://arxiv.org/abs/2408.03665)|null|
 |**2024-07-31**|**Coordinating Decisions via Quantum Telepathy**|Dawei Ding, Liang Jiang|[2407.21723](http://arxiv.org/abs/2407.21723)|null|
 |**2024-07-31**|**Perfect quantum strategies with small input cardinality**|Stefan Trandafir, Junior R. Gonzales-Ureta, Adán Cabello|[2407.21473](http://arxiv.org/abs/2407.21473)|null|
@@ -678,6 +680,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Out-of-time-order Correlators and Chaos in Quantum Billiards**|Tasnim Anzum Ador, Nayeem Farid, Tibra Ali|[2408.04052](http://arxiv.org/abs/2408.04052)|null|
+|**2024-08-07**|**Reducing Depth and Measurement Weights in Pauli-based Computation**|Filipa C. R. Peres, Ernesto F. Galvão|[2408.04007](http://arxiv.org/abs/2408.04007)|null|
 |**2024-08-07**|**Mutual information fluctuations and non-stabilizerness in random circuits**|Arash Ahmadi, Jonas Helsen, Cagan Karaca, Eliska Greplova|[2408.03831](http://arxiv.org/abs/2408.03831)|null|
 |**2024-08-05**|**Scrambling-induced entanglement suppression in noisy quantum circuits**|Lea Haas, Christian Carisch, Oded Zilberberg|[2408.02810](http://arxiv.org/abs/2408.02810)|null|
 |**2024-08-05**|**Quantum information scrambling in adiabatically-driven critical systems**|Ricardo Puebla, Fernando J. Gómez-Ruiz|[2408.02735](http://arxiv.org/abs/2408.02735)|null|
@@ -983,6 +987,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Linear-optical quantum computation with arbitrary error-correcting codes**|Blayney W. Walshe, Ben Q. Baragiola, Hugo Ferretti, José Gefaell, Michael Vasmer, Ryohei Weil, Takaya Matsuura, Thomas Jaeken, Giacomo Pantaleoni, Zhihua Han, Nicolas C. Menicucci, Ilan Tzitrin, Rafael N. Alexander|[2408.04126](http://arxiv.org/abs/2408.04126)|null|
 |**2024-08-06**|**Demonstrating anyonic non-Abelian statistics with a minimal $d = 6$ qudit lattice**|Lucy Byles, Ewan Forbes, Jiannis K. Pachos|[2408.03377](http://arxiv.org/abs/2408.03377)|null|
 |**2024-08-06**|**Binary Triorthogonal and CSS-T Codes for Quantum Error Correction**|Eduardo Camps-Moreno, Hiram H. López, Gretchen L. Matthews, Diego Ruano, Rodrigo San-José, Ivan Soprunov|[2408.02916](http://arxiv.org/abs/2408.02916)|null|
 |**2024-08-05**|**Modular Architectures and Entanglement Schemes for Error-Corrected Distributed Quantum Computation**|Siddhant Singh, Fenglei Gu, Sébastian de Bone, Eduardo Villaseñor, David Elkouss, Johannes Borregaard|[2408.02837](http://arxiv.org/abs/2408.02837)|null|

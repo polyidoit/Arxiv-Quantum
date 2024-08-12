@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Entanglement and Bell inequality violation in $B\to \it{ΦΦ}$ decays**|Emidio Gabrielli, Luca Marzola|[2408.05010](http://arxiv.org/abs/2408.05010)|null|
 |**2024-08-08**|**Randomness versus Nonlocality in Multi-input and Multi-output Quantum Scenario**|Chao Zhang, Yi Li, Xiao-Min Hu, Yu Xiang, Chuan-Feng Li, Guang-Can Guo, Jordi Tura, Qihuang Gong, Qiongyi He, Bi-Heng Liu|[2408.04566](http://arxiv.org/abs/2408.04566)|null|
 |**2024-08-08**|**Interference Resurrection of the $τ$ Dipole through Quantum Tomography**|Prisco Lo Chiatto|[2408.04553](http://arxiv.org/abs/2408.04553)|null|
 |**2024-08-07**|**Maximum Quantum Non-Locality is not always Sufficient for Device-Independent Randomness Generation**|Ravishankar Ramanathan, Yuan Liu, Stefano Pironio|[2408.03665](http://arxiv.org/abs/2408.03665)|null|
@@ -348,6 +349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Model-independent predictions for decays of double-heavy hadrons into pairs of heavy hadrons**|R. Bruschini|[2408.05150](http://arxiv.org/abs/2408.05150)|null|
 |**2024-08-07**|**Nucleon-quark mixed matter and neutron star EOS**|Y. Yamamoto, N. Yasutake, Th. A. Rijken|[2408.03812](http://arxiv.org/abs/2408.03812)|null|
 |**2024-08-05**|**Search for Pauli Exclusion Principle Violations with Gator at LNGS**|L. Baudis, R. Biondi, A. Bismark, A. Clozza, C. Curceanu, M. Galloway, F. Napolitano, F. Piastra, K. Piscicchia, A. Porcelli, D. Ramírez García|[2408.02500](http://arxiv.org/abs/2408.02500)|null|
 |**2024-08-01**|**Quantum Hamiltonian Embedding of Images for Data Reuploading Classifiers**|Peiyong Wang, Casey R. Myers, Lloyd C. L. Hollenberg, Udaya Parampalli|[2407.14055](http://arxiv.org/abs/2407.14055)|null|

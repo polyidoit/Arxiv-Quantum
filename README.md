@@ -552,6 +552,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Forming and Compliance-free Operation of Low-power, Fast-switching HfO $_x$S$_y$/HfS$_2$ Heterostructure Memristors**|Aferdita Xhameni, AbdulAziz AlMutairi, Xuyun Guo, Irina Chircă, Tianyi Wen, Stephan Hofmann, Valeria Nicolosi, Antonio Lombardo|[2408.07466](http://arxiv.org/abs/2408.07466)|null|
 |**2024-08-12**|**Mutual information fluctuations and non-stabilizerness in random circuits**|Arash Ahmadi, Jonas Helsen, Cagan Karaca, Eliska Greplova|[2408.03831](http://arxiv.org/abs/2408.03831)|null|
 |**2024-08-05**|**Generalized Quantum Stein's Lemma and Second Law of Quantum Resource Theories**|Masahito Hayashi, Hayata Yamasaki|[2408.02722](http://arxiv.org/abs/2408.02722)|null|
 |**2024-08-05**|**Long-living Equilibria in Kinetic Astrophysical Plasma Turbulence**|Mario Imbrogno, Claudio Meringolo, Sergio Servidio, Alejandro Cruz-Osorio, Benoît Cerutti, Francesco Pegoraro|[2408.02656](http://arxiv.org/abs/2408.02656)|null|
@@ -1014,6 +1015,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Optimal number of stabilizer measurement rounds in an idling surface code patch**|Áron Márton, János K. Asbóth|[2408.07529](http://arxiv.org/abs/2408.07529)|null|
+|**2024-08-14**|**The x+y Floquet code: A simple example for topological quantum computation in the path integral approach**|Andreas Bauer|[2408.07265](http://arxiv.org/abs/2408.07265)|null|
 |**2024-08-13**|**Solar active region evolution and imminent flaring activity through a color-coded visualization of photospheric vector magnetograms**|I. Kontogiannis, A. G. M. Pietrow, M. K. Druett, E. Dineva, M. Verma, C. Denker|[2408.07047](http://arxiv.org/abs/2408.07047)|null|
 |**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan, Alexandru Paler|[2408.07038](http://arxiv.org/abs/2408.07038)|null|
 |**2024-08-12**|**What Color Scheme is More Effective in Assisting Readers to Locate Information in a Color-Coded Article?**|Ho Yin Ng, Zeyu He, Ting-Hao 'Kenneth' Huang|[2408.06494](http://arxiv.org/abs/2408.06494)|null|

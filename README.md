@@ -283,6 +283,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Bayesian retrodiction of quantum supermaps**|Ge Bai|[2408.07885](http://arxiv.org/abs/2408.07885)|null|
 |**2024-07-22**|**Process tensor distinguishability measures**|Guilherme Zambon|[2407.15712](http://arxiv.org/abs/2407.15712)|null|
 |**2024-07-15**|**Time-symmetric correlations for open quantum systems**|Arthur J. Parzygnat, James Fullwood|[2407.11123](http://arxiv.org/abs/2407.11123)|null|
 |**2024-06-26**|**Indefinite Causal Structure and Causal Inequalities with Time-Symmetry**|Luke Mrini, Lucien Hardy|[2406.18489](http://arxiv.org/abs/2406.18489)|null|
@@ -552,6 +553,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Response of any arbitrary initially stressed reference and the stress-free reference**|Soumya Mukherjee|[2408.08170](http://arxiv.org/abs/2408.08170)|null|
+|**2024-08-15**|**Critical assessment of information back-flow in measurement-free teleportation**|Hannah McAleese, Mauro Paternostro|[2408.08164](http://arxiv.org/abs/2408.08164)|null|
 |**2024-08-14**|**Forming and Compliance-free Operation of Low-power, Fast-switching HfO $_x$S$_y$/HfS$_2$ Heterostructure Memristors**|Aferdita Xhameni, AbdulAziz AlMutairi, Xuyun Guo, Irina Chircă, Tianyi Wen, Stephan Hofmann, Valeria Nicolosi, Antonio Lombardo|[2408.07466](http://arxiv.org/abs/2408.07466)|null|
 |**2024-08-12**|**Mutual information fluctuations and non-stabilizerness in random circuits**|Arash Ahmadi, Jonas Helsen, Cagan Karaca, Eliska Greplova|[2408.03831](http://arxiv.org/abs/2408.03831)|null|
 |**2024-08-05**|**Generalized Quantum Stein's Lemma and Second Law of Quantum Resource Theories**|Masahito Hayashi, Hayata Yamasaki|[2408.02722](http://arxiv.org/abs/2408.02722)|null|
@@ -706,6 +709,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Perturbing a quantum black hole**|Casey Cartwright, Umut Gürsoy, Juan F. Pedraza, Guim Planella Planas|[2408.08010](http://arxiv.org/abs/2408.08010)|null|
 |**2024-08-07**|**Out-of-time-order Correlators and Chaos in Quantum Billiards**|Tasnim Anzum Ador, Nayeem Farid, Tibra Ali|[2408.04052](http://arxiv.org/abs/2408.04052)|null|
 |**2024-08-07**|**Reducing Depth and Measurement Weights in Pauli-based Computation**|Filipa C. R. Peres, Ernesto F. Galvão|[2408.04007](http://arxiv.org/abs/2408.04007)|null|
 |**2024-08-12**|**Mutual information fluctuations and non-stabilizerness in random circuits**|Arash Ahmadi, Jonas Helsen, Cagan Karaca, Eliska Greplova|[2408.03831](http://arxiv.org/abs/2408.03831)|null|
@@ -1015,6 +1019,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Constant-Overhead Magic State Distillation**|Adam Wills, Min-Hsiu Hsieh, Hayata Yamasaki|[2408.07764](http://arxiv.org/abs/2408.07764)|null|
 |**2024-08-14**|**Optimal number of stabilizer measurement rounds in an idling surface code patch**|Áron Márton, János K. Asbóth|[2408.07529](http://arxiv.org/abs/2408.07529)|null|
 |**2024-08-14**|**The x+y Floquet code: A simple example for topological quantum computation in the path integral approach**|Andreas Bauer|[2408.07265](http://arxiv.org/abs/2408.07265)|null|
 |**2024-08-13**|**Solar active region evolution and imminent flaring activity through a color-coded visualization of photospheric vector magnetograms**|I. Kontogiannis, A. G. M. Pietrow, M. K. Druett, E. Dineva, M. Verma, C. Denker|[2408.07047](http://arxiv.org/abs/2408.07047)|null|

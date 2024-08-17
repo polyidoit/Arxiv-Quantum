@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 
 ## Bell nonlocality
 
@@ -1002,7 +1002,7 @@ layout: default
 |**2024-08-14**|**Optimal number of stabilizer measurement rounds in an idling surface code patch**|Áron Márton, János K. Asbóth|[2408.07529](http://arxiv.org/abs/2408.07529)|null|
 |**2024-08-14**|**The x+y Floquet code: A simple example for topological quantum computation in the path integral approach**|Andreas Bauer|[2408.07265](http://arxiv.org/abs/2408.07265)|null|
 |**2024-08-13**|**Solar active region evolution and imminent flaring activity through a color-coded visualization of photospheric vector magnetograms**|I. Kontogiannis, A. G. M. Pietrow, M. K. Druett, E. Dineva, M. Verma, C. Denker|[2408.07047](http://arxiv.org/abs/2408.07047)|null|
-|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan, Alexandru Paler|[2408.07038](http://arxiv.org/abs/2408.07038)|null|
+|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan, Alexandru Paler|[2408.07038](http://arxiv.org/abs/2408.07038)|**[link](https://github.com/arshpreetmaan/astra)**|
 |**2024-08-12**|**What Color Scheme is More Effective in Assisting Readers to Locate Information in a Color-Coded Article?**|Ho Yin Ng, Zeyu He, Ting-Hao 'Kenneth' Huang|[2408.06494](http://arxiv.org/abs/2408.06494)|null|
 |**2024-08-12**|**Stabilizer Entanglement Distillation and Efficient Fault-Tolerant Encoder**|Yu Shi, Ashlesha Patil, Saikat Guha|[2408.06299](http://arxiv.org/abs/2408.06299)|null|
 |**2024-08-12**|**Overcoming the Zero-Rate Hashing Bound with Holographic Quantum Error Correction**|Junyu Fan, Matthew Steinberg, Alexander Jahn, Charles Cao, Sebastian Feld|[2408.06232](http://arxiv.org/abs/2408.06232)|null|

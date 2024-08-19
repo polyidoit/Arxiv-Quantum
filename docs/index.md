@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Nature cannot be described by any causal theory with a finite number of measurements**|Lucas Tendick|[2408.08347](http://arxiv.org/abs/2408.08347)|null|
+|**2024-08-13**|**Primer on quantum weirdness**|R. D. Hazeltine|[2408.08329](http://arxiv.org/abs/2408.08329)|null|
 |**2024-08-10**|**Testing Bell inequalities and probing quantum entanglement at a muon collider**|Youpeng Wu, Ran Ding, Sitian Qian, Andrew Micheal Levin, Alim Ruzi, Qiang Li|[2408.05429](http://arxiv.org/abs/2408.05429)|null|
 |**2024-08-09**|**Entanglement and Bell inequality violation in $B\to \it{ΦΦ}$ decays**|Emidio Gabrielli, Luca Marzola|[2408.05010](http://arxiv.org/abs/2408.05010)|null|
 |**2024-08-08**|**Randomness versus Nonlocality in Multi-input and Multi-output Quantum Scenario**|Chao Zhang, Yi Li, Xiao-Min Hu, Yu Xiang, Chuan-Feng Li, Guang-Can Guo, Jordi Tura, Qihuang Gong, Qiongyi He, Bi-Heng Liu|[2408.04566](http://arxiv.org/abs/2408.04566)|null|
@@ -998,6 +1000,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Experiments with the 4D Surface Code on a QCCD Quantum Computer**|Noah Berthusen, Joan Dreiling, Cameron Foltz, John P. Gaebler, Thomas M. Gatterman, Dan Gresh, Nathan Hewitt, Michael Mills, Steven A. Moses, Brian Neyenhuis, Peter Siegfried, David Hayes|[2408.08865](http://arxiv.org/abs/2408.08865)|null|
 |**2024-08-14**|**Constant-Overhead Magic State Distillation**|Adam Wills, Min-Hsiu Hsieh, Hayata Yamasaki|[2408.07764](http://arxiv.org/abs/2408.07764)|null|
 |**2024-08-14**|**Optimal number of stabilizer measurement rounds in an idling surface code patch**|Áron Márton, János K. Asbóth|[2408.07529](http://arxiv.org/abs/2408.07529)|null|
 |**2024-08-14**|**The x+y Floquet code: A simple example for topological quantum computation in the path integral approach**|Andreas Bauer|[2408.07265](http://arxiv.org/abs/2408.07265)|null|

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-18**|**Parallel Repetition for $3$ -Player XOR Games**|Amey Bhangale, Mark Braverman, Subhash Khot, Yang P. Liu, Dor Minzer|[2408.09352](http://arxiv.org/abs/2408.09352)|null|
 |**2024-08-15**|**Nature cannot be described by any causal theory with a finite number of measurements**|Lucas Tendick|[2408.08347](http://arxiv.org/abs/2408.08347)|null|
 |**2024-08-13**|**Primer on quantum weirdness**|R. D. Hazeltine|[2408.08329](http://arxiv.org/abs/2408.08329)|null|
 |**2024-08-10**|**Testing Bell inequalities and probing quantum entanglement at a muon collider**|Youpeng Wu, Ran Ding, Sitian Qian, Andrew Micheal Levin, Alim Ruzi, Qiang Li|[2408.05429](http://arxiv.org/abs/2408.05429)|null|
@@ -538,6 +539,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Volatile MoS ${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications**|Sofia Cruces, Mohit D. Ganeriwala, Jimin Lee, Lukas Völkel, Dennis Braun, Annika Grundmann, Ke Ran, Enrique G. Marín, Holger Kalisch, Michael Heuken, Andrei Vescan, Joachim Mayer, Andrés Godoy, Alwin Daus, Max C. Lemme|[2408.09780](http://arxiv.org/abs/2408.09780)|null|
 |**2024-08-15**|**Response of any arbitrary initially stressed reference and the stress-free reference**|Soumya Mukherjee|[2408.08170](http://arxiv.org/abs/2408.08170)|null|
 |**2024-08-15**|**Critical assessment of information back-flow in measurement-free teleportation**|Hannah McAleese, Mauro Paternostro|[2408.08164](http://arxiv.org/abs/2408.08164)|null|
 |**2024-08-14**|**Forming and Compliance-free Operation of Low-power, Fast-switching HfO $_x$S$_y$/HfS$_2$ Heterostructure Memristors**|Aferdita Xhameni, AbdulAziz AlMutairi, Xuyun Guo, Irina Chircă, Tianyi Wen, Stephan Hofmann, Valeria Nicolosi, Antonio Lombardo|[2408.07466](http://arxiv.org/abs/2408.07466)|null|
@@ -1000,6 +1002,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Good binary quantum codes with transversal CCZ gate**|Quynh T. Nguyen|[2408.10140](http://arxiv.org/abs/2408.10140)|null|
+|**2024-08-19**|**Coprime Bivariate Bicycle Codes and their Properties**|Ming Wang, Frank Mueller|[2408.10001](http://arxiv.org/abs/2408.10001)|null|
+|**2024-08-18**|**Enhancing Quantum Memory Lifetime with Measurement-Free Local Error Correction and Reinforcement Learning**|Mincheol Park, Nishad Maskara, Marcin Kalinowski, Mikhail D. Lukin|[2408.09524](http://arxiv.org/abs/2408.09524)|null|
+|**2024-08-18**|**EAQEC codes from s-Galois hulls decomposition of linear codes**|Hui Li, Xiusheng Liu|[2408.09334](http://arxiv.org/abs/2408.09334)|null|
+|**2024-08-17**|**Asymptotically Good Quantum Codes with Transversal Non-Clifford Gates**|Louis Golowich, Venkatesan Guruswami|[2408.09254](http://arxiv.org/abs/2408.09254)|null|
+|**2024-08-16**|**Fault-tolerant optical interconnects for neutral-atom arrays**|Josiah Sinclair, Joshua Ramette, Brandon Grinkemeyer, Dolev Bluvstein, Mikhail Lukin, Vladan Vuletić|[2408.08955](http://arxiv.org/abs/2408.08955)|null|
 |**2024-08-16**|**Experiments with the 4D Surface Code on a QCCD Quantum Computer**|Noah Berthusen, Joan Dreiling, Cameron Foltz, John P. Gaebler, Thomas M. Gatterman, Dan Gresh, Nathan Hewitt, Michael Mills, Steven A. Moses, Brian Neyenhuis, Peter Siegfried, David Hayes|[2408.08865](http://arxiv.org/abs/2408.08865)|null|
 |**2024-08-14**|**Constant-Overhead Magic State Distillation**|Adam Wills, Min-Hsiu Hsieh, Hayata Yamasaki|[2408.07764](http://arxiv.org/abs/2408.07764)|null|
 |**2024-08-14**|**Optimal number of stabilizer measurement rounds in an idling surface code patch**|Áron Márton, János K. Asbóth|[2408.07529](http://arxiv.org/abs/2408.07529)|null|

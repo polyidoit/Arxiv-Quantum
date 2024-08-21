@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Robust self-testing of the $m-$ partite maximally entangled state and observables**|Ritesh K. Singh, Souradeep Sasmal, A. K. Pan|[2408.10732](http://arxiv.org/abs/2408.10732)|null|
+|**2024-08-20**|**Interplay of Quantum Resources in Nonlocality Tests**|Hai-Hao Dong, Yuwei Zhu, Su-Yi Cheng, Xingjian Zhang, Cheng-Long Li, Ying-Zhao Li, Hao Li, Lixing You, Xiongfeng Ma, Qiang Zhang, Jian-Wei Pan|[2408.10489](http://arxiv.org/abs/2408.10489)|null|
+|**2024-08-19**|**Self-testing of multiple unsharpness parameters through sequential violations of non-contextual inequality**|Rajdeep Paul, Souradeep Sasmal, A. K. Pan|[2408.10363](http://arxiv.org/abs/2408.10363)|null|
+|**2024-08-19**|**Towards Necessary and sufficient state condition for violation of a multi-settings Bell inequality**|Swapnil Bhowmick, Som Kanjilal, A. K. Pan, Souradeep Sasmal|[2408.10350](http://arxiv.org/abs/2408.10350)|null|
 |**2024-08-18**|**Parallel Repetition for $3$ -Player XOR Games**|Amey Bhangale, Mark Braverman, Subhash Khot, Yang P. Liu, Dor Minzer|[2408.09352](http://arxiv.org/abs/2408.09352)|null|
 |**2024-08-15**|**Nature cannot be described by any causal theory with a finite number of measurements**|Lucas Tendick|[2408.08347](http://arxiv.org/abs/2408.08347)|null|
 |**2024-08-13**|**Primer on quantum weirdness**|R. D. Hazeltine|[2408.08329](http://arxiv.org/abs/2408.08329)|null|
@@ -694,6 +698,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Improved Differential Evolution based Feature Selection through Quantum, Chaos, and Lasso**|Yelleti Vivek, Sri Krishna Vadlamani, Vadlamani Ravi, P. Radha Krishna|[2408.10693](http://arxiv.org/abs/2408.10693)|null|
+|**2024-08-20**|**The Limits of Quantum Information Scrambling**|Ahmed Zahia, M. Y. Abd-Rabbou, Atta ur Rahman, Cong Feng Qiao|[2408.10684](http://arxiv.org/abs/2408.10684)|null|
 |**2024-08-15**|**Perturbing a quantum black hole**|Casey Cartwright, Umut Gürsoy, Juan F. Pedraza, Guim Planella Planas|[2408.08010](http://arxiv.org/abs/2408.08010)|null|
 |**2024-08-07**|**Out-of-time-order Correlators and Chaos in Quantum Billiards**|Tasnim Anzum Ador, Nayeem Farid, Tibra Ali|[2408.04052](http://arxiv.org/abs/2408.04052)|null|
 |**2024-08-07**|**Reducing Depth and Measurement Weights in Pauli-based Computation**|Filipa C. R. Peres, Ernesto F. Galvão|[2408.04007](http://arxiv.org/abs/2408.04007)|null|
@@ -1002,6 +1008,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Fast Algorithms and Implementations for Computing the Minimum Distance of Quantum Codes**|Fernando Hernando, Gregorio Quintana-Ortí, Markus Grassl|[2408.10743](http://arxiv.org/abs/2408.10743)|null|
+|**2024-08-19**|**SDP bounds on quantum codes**|Gerard Anglès Munné, Andrew Nemec, Felix Huber|[2408.10323](http://arxiv.org/abs/2408.10323)|null|
+|**2024-08-19**|**Channel nonlocality under decoherence**|Albert Rico, Moisés Bermejo Morán, Fereshte Shahbeigi, Karol Życzkowski|[2408.10317](http://arxiv.org/abs/2408.10317)|null|
 |**2024-08-19**|**Good binary quantum codes with transversal CCZ gate**|Quynh T. Nguyen|[2408.10140](http://arxiv.org/abs/2408.10140)|null|
 |**2024-08-19**|**Coprime Bivariate Bicycle Codes and their Properties**|Ming Wang, Frank Mueller|[2408.10001](http://arxiv.org/abs/2408.10001)|null|
 |**2024-08-18**|**Enhancing Quantum Memory Lifetime with Measurement-Free Local Error Correction and Reinforcement Learning**|Mincheol Park, Nishad Maskara, Marcin Kalinowski, Mikhail D. Lukin|[2408.09524](http://arxiv.org/abs/2408.09524)|null|

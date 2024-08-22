@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Genuinely nonlocal sets without entanglement in multipartite systems**|Ying-Ying Lu, Hai-Qing Cao, Hui-Juan Zuo, Shao-Ming Fei|[2408.11566](http://arxiv.org/abs/2408.11566)|null|
+|**2024-08-21**|**Designing elegant Bell inequalities**|Kwangil Bae, Junghee Ryu, Ilkwon Sohn, Wonhyuk Lee|[2408.11391](http://arxiv.org/abs/2408.11391)|null|
 |**2024-08-20**|**Robust self-testing of the $m-$ partite maximally entangled state and observables**|Ritesh K. Singh, Souradeep Sasmal, A. K. Pan|[2408.10732](http://arxiv.org/abs/2408.10732)|null|
 |**2024-08-20**|**Interplay of Quantum Resources in Nonlocality Tests**|Hai-Hao Dong, Yuwei Zhu, Su-Yi Cheng, Xingjian Zhang, Cheng-Long Li, Ying-Zhao Li, Hao Li, Lixing You, Xiongfeng Ma, Qiang Zhang, Jian-Wei Pan|[2408.10489](http://arxiv.org/abs/2408.10489)|null|
 |**2024-08-19**|**Self-testing of multiple unsharpness parameters through sequential violations of non-contextual inequality**|Rajdeep Paul, Souradeep Sasmal, A. K. Pan|[2408.10363](http://arxiv.org/abs/2408.10363)|null|
@@ -698,6 +700,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Dynamics of operator size distribution in q-local quantum Brownian SYK and spin models**|Shenglong Xu|[2408.11737](http://arxiv.org/abs/2408.11737)|null|
+|**2024-08-20**|**Exact spectral gaps of random one-dimensional quantum circuits**|Andrew E. Deneris, Pablo Bermejo, Paolo Braccia, Lukasz Cincio, M. Cerezo|[2408.11201](http://arxiv.org/abs/2408.11201)|null|
+|**2024-08-20**|**Notes on solvable models of many-body quantum chaos**|Shunyu Yao|[2408.11123](http://arxiv.org/abs/2408.11123)|null|
+|**2024-08-20**|**Quantum chaos and complexity from string scattering amplitudes**|Aranya Bhattacharya, Aneek Jana|[2408.11096](http://arxiv.org/abs/2408.11096)|null|
 |**2024-08-20**|**Improved Differential Evolution based Feature Selection through Quantum, Chaos, and Lasso**|Yelleti Vivek, Sri Krishna Vadlamani, Vadlamani Ravi, P. Radha Krishna|[2408.10693](http://arxiv.org/abs/2408.10693)|null|
 |**2024-08-20**|**The Limits of Quantum Information Scrambling**|Ahmed Zahia, M. Y. Abd-Rabbou, Atta ur Rahman, Cong Feng Qiao|[2408.10684](http://arxiv.org/abs/2408.10684)|null|
 |**2024-08-15**|**Perturbing a quantum black hole**|Casey Cartwright, Umut Gürsoy, Juan F. Pedraza, Guim Planella Planas|[2408.08010](http://arxiv.org/abs/2408.08010)|null|
@@ -1008,6 +1014,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Quantum error correction for unresolvable spin ensemble**|Harsh Sharma, Himadri Shekhar Dhar, Hoi-Kwan Lau|[2408.11628](http://arxiv.org/abs/2408.11628)|null|
+|**2024-08-21**|**Quantum Property Preservation**|Kumar Saurav, Daniel A. Lidar|[2408.11262](http://arxiv.org/abs/2408.11262)|null|
+|**2024-08-20**|**Stabilizer codes for Heisenberg-limited many-body Hamiltonian estimation**|Santanu Bosu Antu, Sisi Zhou|[2408.11101](http://arxiv.org/abs/2408.11101)|null|
 |**2024-08-20**|**Fast Algorithms and Implementations for Computing the Minimum Distance of Quantum Codes**|Fernando Hernando, Gregorio Quintana-Ortí, Markus Grassl|[2408.10743](http://arxiv.org/abs/2408.10743)|null|
 |**2024-08-19**|**SDP bounds on quantum codes**|Gerard Anglès Munné, Andrew Nemec, Felix Huber|[2408.10323](http://arxiv.org/abs/2408.10323)|null|
 |**2024-08-19**|**Channel nonlocality under decoherence**|Albert Rico, Moisés Bermejo Morán, Fereshte Shahbeigi, Karol Życzkowski|[2408.10317](http://arxiv.org/abs/2408.10317)|null|

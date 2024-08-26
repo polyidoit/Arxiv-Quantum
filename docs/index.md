@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-21**|**Genuinely nonlocal sets without entanglement in multipartite systems**|Ying-Ying Lu, Hai-Qing Cao, Hui-Juan Zuo, Shao-Ming Fei|[2408.11566](http://arxiv.org/abs/2408.11566)|null|
-|**2024-08-21**|**Designing elegant Bell inequalities**|Kwangil Bae, Junghee Ryu, Ilkwon Sohn, Wonhyuk Lee|[2408.11391](http://arxiv.org/abs/2408.11391)|null|
+|**2024-08-23**|**Designing elegant Bell inequalities**|Kwangil Bae, Junghee Ryu, Ilkwon Sohn, Wonhyuk Lee|[2408.11391](http://arxiv.org/abs/2408.11391)|null|
 |**2024-08-20**|**Robust self-testing of the $m-$ partite maximally entangled state and observables**|Ritesh K. Singh, Souradeep Sasmal, A. K. Pan|[2408.10732](http://arxiv.org/abs/2408.10732)|null|
 |**2024-08-20**|**Interplay of Quantum Resources in Nonlocality Tests**|Hai-Hao Dong, Yuwei Zhu, Su-Yi Cheng, Xingjian Zhang, Cheng-Long Li, Ying-Zhao Li, Hao Li, Lixing You, Xiongfeng Ma, Qiang Zhang, Jian-Wei Pan|[2408.10489](http://arxiv.org/abs/2408.10489)|null|
 |**2024-08-19**|**Self-testing of multiple unsharpness parameters through sequential violations of non-contextual inequality**|Rajdeep Paul, Souradeep Sasmal, A. K. Pan|[2408.10363](http://arxiv.org/abs/2408.10363)|null|

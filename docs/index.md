@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Comparing the cost of violating causal assumptions in Bell experiments: locality, free choice and arrow-of-time**|Pawel Blasiak, Christoph Gallus|[2408.12740](http://arxiv.org/abs/2408.12740)|null|
 |**2024-08-21**|**Genuinely nonlocal sets without entanglement in multipartite systems**|Ying-Ying Lu, Hai-Qing Cao, Hui-Juan Zuo, Shao-Ming Fei|[2408.11566](http://arxiv.org/abs/2408.11566)|null|
 |**2024-08-23**|**Designing elegant Bell inequalities**|Kwangil Bae, Junghee Ryu, Ilkwon Sohn, Wonhyuk Lee|[2408.11391](http://arxiv.org/abs/2408.11391)|null|
 |**2024-08-20**|**Robust self-testing of the $m-$ partite maximally entangled state and observables**|Ritesh K. Singh, Souradeep Sasmal, A. K. Pan|[2408.10732](http://arxiv.org/abs/2408.10732)|null|
@@ -701,6 +702,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Out-Of-Time-Ordered-Correlators for the Pure Inverted Quartic Oscillator: Classical Chaos meets Quantum Stability**|Paul Romatschke|[2408.12643](http://arxiv.org/abs/2408.12643)|null|
 |**2024-08-22**|**Information Scrambling in Bosonic Gaussian Dynamics**|Ali Mollabashi, Saleh Rahimi-Keshari|[2408.12089](http://arxiv.org/abs/2408.12089)|null|
 |**2024-08-21**|**Dynamics of operator size distribution in q-local quantum Brownian SYK and spin models**|Shenglong Xu|[2408.11737](http://arxiv.org/abs/2408.11737)|null|
 |**2024-08-20**|**Exact spectral gaps of random one-dimensional quantum circuits**|Andrew E. Deneris, Pablo Bermejo, Paolo Braccia, Lukasz Cincio, M. Cerezo|[2408.11201](http://arxiv.org/abs/2408.11201)|null|
@@ -1016,6 +1018,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Quantum Rainbow Codes**|Thomas R. Scruby, Arthur Pesah, Mark Webster|[2408.13130](http://arxiv.org/abs/2408.13130)|null|
 |**2024-08-22**|**Improved accuracy for decoding surface codes with matching synthesis**|Cody Jones|[2408.12135](http://arxiv.org/abs/2408.12135)|null|
 |**2024-08-22**|**A Practical Introduction to Benchmarking and Characterization of Quantum Computers**|Akel Hashim, Long B. Nguyen, Noah Goss, Brian Marinelli, Ravi K. Naik, Trevor Chistolini, Jordan Hines, J. P. Marceaux, Yosep Kim, Pranav Gokhale, Teague Tomesh, Senrui Chen, Liang Jiang, Samuele Ferracin, Kenneth Rudinger, Timothy Proctor, Kevin C. Young, Robin Blume-Kohout, Irfan Siddiqi|[2408.12064](http://arxiv.org/abs/2408.12064)|null|
 |**2024-08-21**|**Automated Synthesis of Fault-Tolerant State Preparation Circuits for Quantum Error Correction Codes**|Tom Peham, Ludwig Schmid, Lucas Berent, Markus Müller, Robert Wille|[2408.11894](http://arxiv.org/abs/2408.11894)|null|

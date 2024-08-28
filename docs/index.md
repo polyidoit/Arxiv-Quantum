@@ -1021,6 +1021,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Page transition as a phase transition in approximate quantum error correction**|Haocheng Zhong|[2408.15104](http://arxiv.org/abs/2408.15104)|null|
+|**2024-08-27**|**Weakly Fault-Tolerant Computation in a Quantum Error-Detecting Code**|Christopher Gerhard, Todd A. Brun|[2408.14828](http://arxiv.org/abs/2408.14828)|null|
+|**2024-08-27**|**Realtime Compilation for Continuous Angle Quantum Error Correction Architectures**|Sayam Sethi, Jonathan M. Baker|[2408.14708](http://arxiv.org/abs/2408.14708)|null|
 |**2024-08-26**|**Theoretical framework for quantum associative memories**|Adrià Labay-Mora, Eliana Fiorelli, Roberta Zambrini, Gian Luca Giorgi|[2408.14272](http://arxiv.org/abs/2408.14272)|null|
 |**2024-08-26**|**Bosonic Quantum Error Correction with Neutral Atoms in Optical Dipole Traps**|Leon H. Bohnmann, David F. Locher, Johannes Zeiher, Markus Müller|[2408.14251](http://arxiv.org/abs/2408.14251)|null|
 |**2024-08-26**|**Quantum state transfer between superconducting cavities via exchange-free interactions**|Jie Zhou, Ming Li, Weiting Wang, Weizhou Cai, Ziyue Hua, Yifang Xu, Xiaoxuan Pan, Guangming Xue, Hongyi Zhang, Yipu Song, Haifeng Yu, Chang-Ling Zou, Luyan Sun|[2408.14076](http://arxiv.org/abs/2408.14076)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 
 ## Bell nonlocality
 
@@ -282,7 +282,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-15**|**Bayesian retrodiction of quantum supermaps**|Ge Bai|[2408.07885](http://arxiv.org/abs/2408.07885)|null|
+|**2024-08-27**|**Bayesian retrodiction of quantum supermaps**|Ge Bai|[2408.07885](http://arxiv.org/abs/2408.07885)|null|
 |**2024-07-22**|**Process tensor distinguishability measures**|Guilherme Zambon|[2407.15712](http://arxiv.org/abs/2407.15712)|null|
 |**2024-07-15**|**Time-symmetric correlations for open quantum systems**|Arthur J. Parzygnat, James Fullwood|[2407.11123](http://arxiv.org/abs/2407.11123)|null|
 |**2024-06-26**|**Indefinite Causal Structure and Causal Inequalities with Time-Symmetry**|Luke Mrini, Lucien Hardy|[2406.18489](http://arxiv.org/abs/2406.18489)|null|
@@ -547,7 +547,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-24**|**Resource theories with completely passive states and passive states as free states**|Gianluca Francica|[2408.13641](http://arxiv.org/abs/2408.13641)|null|
+|**2024-08-27**|**Resource theories with completely passive states and passive states as free states**|Gianluca Francica|[2408.13641](http://arxiv.org/abs/2408.13641)|null|
 |**2024-08-19**|**Volatile MoS ${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications**|Sofia Cruces, Mohit D. Ganeriwala, Jimin Lee, Lukas Völkel, Dennis Braun, Annika Grundmann, Ke Ran, Enrique G. Marín, Holger Kalisch, Michael Heuken, Andrei Vescan, Joachim Mayer, Andrés Godoy, Alwin Daus, Max C. Lemme|[2408.09780](http://arxiv.org/abs/2408.09780)|null|
 |**2024-08-15**|**Response of any arbitrary initially stressed reference and the stress-free reference**|Soumya Mukherjee|[2408.08170](http://arxiv.org/abs/2408.08170)|null|
 |**2024-08-15**|**Critical assessment of information back-flow in measurement-free teleportation**|Hannah McAleese, Mauro Paternostro|[2408.08164](http://arxiv.org/abs/2408.08164)|null|

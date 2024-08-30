@@ -1046,6 +1046,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Long-Range $ZZ$ Interaction via Resonator-Induced Phase in Superconducting Qubits**|Xiang Deng, Wen Zheng, Xudong Liao, Haoyu Zhou, Yangyang Ge, Jie Zhao, Dong Lan, Xinsheng Tan, Yu Zhang, Shaoxiong Li, Yang Yu|[2408.16617](http://arxiv.org/abs/2408.16617)|null|
 |**2024-08-28**|**New quantum codes from constacyclic codes over finite chain rings**|Yongsheng Tang, Ting Yao, Heqian Xu, Xiaoshan Kai|[2408.15558](http://arxiv.org/abs/2408.15558)|null|
 |**2024-08-28**|**Statistical modeling of quantum error propagation**|Zhuoyang Ye|[2408.15459](http://arxiv.org/abs/2408.15459)|null|
 |**2024-08-27**|**Artificially intelligent Maxwell's demon for optimal control of open quantum systems**|Paolo Andrea Erdman, Robert Czupryniak, Bibek Bhandari, Andrew N. Jordan, Frank Noé, Jens Eisert, Giacomo Guarnieri|[2408.15328](http://arxiv.org/abs/2408.15328)|null|

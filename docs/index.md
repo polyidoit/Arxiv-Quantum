@@ -1025,6 +1025,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Experimental measurement and a physical interpretation of quantum shadow enumerators**|Daniel Miller, Kyano Levi, Lukas Postler, Alex Steiner, Lennart Bittel, Gregory A. L. White, Yifan Tang, Eric J. Kuehnke, Antonio A. Mele, Sumeet Khatri, Lorenzo Leone, Jose Carrasco, Christian D. Marciniak, Ivan Pogorelov, Milena Guevara-Bertsch, Robert Freund, Rainer Blatt, Philipp Schindler, Thomas Monz, Martin Ringbauer, Jens Eisert|[2408.16914](http://arxiv.org/abs/2408.16914)|null|
 |**2024-08-29**|**Long-Range $ZZ$ Interaction via Resonator-Induced Phase in Superconducting Qubits**|Xiang Deng, Wen Zheng, Xudong Liao, Haoyu Zhou, Yangyang Ge, Jie Zhao, Dong Lan, Xinsheng Tan, Yu Zhang, Shaoxiong Li, Yang Yu|[2408.16617](http://arxiv.org/abs/2408.16617)|null|
 |**2024-08-28**|**New quantum codes from constacyclic codes over finite chain rings**|Yongsheng Tang, Ting Yao, Heqian Xu, Xiaoshan Kai|[2408.15558](http://arxiv.org/abs/2408.15558)|null|
 |**2024-08-28**|**Statistical modeling of quantum error propagation**|Zhuoyang Ye|[2408.15459](http://arxiv.org/abs/2408.15459)|null|

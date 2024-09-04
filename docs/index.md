@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.03
+## Updated on 2024.09.04
 
 ## Bell nonlocality
 
@@ -1030,7 +1030,7 @@ layout: default
 |**2024-08-28**|**New quantum codes from constacyclic codes over finite chain rings**|Yongsheng Tang, Ting Yao, Heqian Xu, Xiaoshan Kai|[2408.15558](http://arxiv.org/abs/2408.15558)|null|
 |**2024-08-28**|**Statistical modeling of quantum error propagation**|Zhuoyang Ye|[2408.15459](http://arxiv.org/abs/2408.15459)|null|
 |**2024-08-27**|**Artificially intelligent Maxwell's demon for optimal control of open quantum systems**|Paolo Andrea Erdman, Robert Czupryniak, Bibek Bhandari, Andrew N. Jordan, Frank Noé, Jens Eisert, Giacomo Guarnieri|[2408.15328](http://arxiv.org/abs/2408.15328)|null|
-|**2024-08-27**|**Page transition as a phase transition in approximate quantum error correction**|Haocheng Zhong|[2408.15104](http://arxiv.org/abs/2408.15104)|null|
+|**2024-08-31**|**Page transition as a phase transition in approximate quantum error correction**|Haocheng Zhong|[2408.15104](http://arxiv.org/abs/2408.15104)|null|
 |**2024-08-27**|**Weakly Fault-Tolerant Computation in a Quantum Error-Detecting Code**|Christopher Gerhard, Todd A. Brun|[2408.14828](http://arxiv.org/abs/2408.14828)|null|
 |**2024-08-27**|**Realtime Compilation for Continuous Angle Quantum Error Correction Architectures**|Sayam Sethi, Jonathan M. Baker|[2408.14708](http://arxiv.org/abs/2408.14708)|null|
 |**2024-08-26**|**Theoretical framework for quantum associative memories**|Adrià Labay-Mora, Eliana Fiorelli, Roberta Zambrini, Gian Luca Giorgi|[2408.14272](http://arxiv.org/abs/2408.14272)|null|

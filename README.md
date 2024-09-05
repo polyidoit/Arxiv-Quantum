@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Bounds on detection of Bell correlations with entangled ultra-cold atoms in optical lattices under occupation defects**|Tanausú Hernández Yanes, Youcef Bamaara, Alice Sinatra, Emilia Witkowska|[2409.02873](http://arxiv.org/abs/2409.02873)|null|
+|**2024-09-04**|**Consequences of the single-pair measurement of the Bell parameter**|Marco Genovese, Fabrizio Piacentini|[2409.02510](http://arxiv.org/abs/2409.02510)|null|
+|**2024-09-03**|**Self-Testing Quantum Error Correcting Codes: Analyzing Computational Hardness**|En-Jui Kuo, Li-Yi Hsu|[2409.01987](http://arxiv.org/abs/2409.01987)|null|
+|**2024-08-31**|**Universal bound on the relaxation rates for quantum Markovian dynamics**|Paolo Muratore-Ginanneschi, Gen Kimura, Dariusz Chruściński|[2409.00436](http://arxiv.org/abs/2409.00436)|null|
 |**2024-08-27**|**Fermionic entanglement in the presence of background electric and magnetic fields**|Shagun Kaushal|[2408.15309](http://arxiv.org/abs/2408.15309)|null|
 |**2024-08-22**|**Comparing the cost of violating causal assumptions in Bell experiments: locality, free choice and arrow-of-time**|Pawel Blasiak, Christoph Gallus|[2408.12740](http://arxiv.org/abs/2408.12740)|null|
 |**2024-08-21**|**Genuinely nonlocal sets without entanglement in multipartite systems**|Ying-Ying Lu, Hai-Qing Cao, Hui-Juan Zuo, Shao-Ming Fei|[2408.11566](http://arxiv.org/abs/2408.11566)|null|
@@ -294,6 +298,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Certifying Quantum Temporal Correlation via Randomized Measurements: Theory and Experiment**|Hongfeng Liu, Zhenhuan Liu, Shu Chen, Xinfang Nie, Xiangjing Liu, Dawei Lu|[2409.02470](http://arxiv.org/abs/2409.02470)|null|
 |**2024-08-27**|**Bayesian retrodiction of quantum supermaps**|Ge Bai|[2408.07885](http://arxiv.org/abs/2408.07885)|null|
 |**2024-07-22**|**Process tensor distinguishability measures**|Guilherme Zambon|[2407.15712](http://arxiv.org/abs/2407.15712)|null|
 |**2024-07-15**|**Time-symmetric correlations for open quantum systems**|Arthur J. Parzygnat, James Fullwood|[2407.11123](http://arxiv.org/abs/2407.11123)|null|
@@ -375,6 +380,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Fully polarized Fermi systems at finite temperature**|Krzysztof Myśliwy, Marek Napiórkowski|[2409.02568](http://arxiv.org/abs/2409.02568)|null|
 |**2024-08-14**|**Quantum obesity and steering ellipsoids for fermionic fields in Garfinkle-Horowitz-Strominger dilation spacetime**|Samira Elghaayda, M. Y. Abd-Rabbou, Mostafa Mansour|[2408.06869](http://arxiv.org/abs/2408.06869)|null|
 |**2024-08-09**|**Model-independent predictions for decays of double-heavy hadrons into pairs of heavy hadrons**|R. Bruschini|[2408.05150](http://arxiv.org/abs/2408.05150)|null|
 |**2024-08-07**|**Nucleon-quark mixed matter and neutron star EOS**|Y. Yamamoto, N. Yasutake, Th. A. Rijken|[2408.03812](http://arxiv.org/abs/2408.03812)|null|
@@ -475,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
 |**2024-08-28**|**Quantum Assemblage Tomography**|Luis Villegas-Aguilar, Yuanlong Wang, Alex Pepper, Travis J. Baker, Geoff J. Pryde, Sergei Slussarenko, Nora Tischler, Howard M. Wiseman|[2408.15576](http://arxiv.org/abs/2408.15576)|null|
 |**2024-08-13**|**Threshold (Q, P) Quantum Distillation**|Shashank Gupta, William John Munro, Carlos Cid|[2408.15274](http://arxiv.org/abs/2408.15274)|null|
 |**2024-08-22**|**Imprecision plateaus in quantum steering**|Elna Svegborn, Nicola d'Alessandro, Otfried Gühne, Armin Tavakoli|[2408.12280](http://arxiv.org/abs/2408.12280)|null|
@@ -567,6 +574,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
 |**2024-08-13**|**Threshold (Q, P) Quantum Distillation**|Shashank Gupta, William John Munro, Carlos Cid|[2408.15274](http://arxiv.org/abs/2408.15274)|null|
 |**2024-08-27**|**Resource theories with completely passive states and passive states as free states**|Gianluca Francica|[2408.13641](http://arxiv.org/abs/2408.13641)|null|
 |**2024-08-19**|**Volatile MoS ${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications**|Sofia Cruces, Mohit D. Ganeriwala, Jimin Lee, Lukas Völkel, Dennis Braun, Annika Grundmann, Ke Ran, Enrique G. Marín, Holger Kalisch, Michael Heuken, Andrei Vescan, Joachim Mayer, Andrés Godoy, Alwin Daus, Max C. Lemme|[2408.09780](http://arxiv.org/abs/2408.09780)|null|
@@ -726,6 +734,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-03**|**The Magnetic Maze: A System With Tunable Scale Invariance**|Tian-Gang Zhou, Michael Winer, Brian Swingle|[2409.02176](http://arxiv.org/abs/2409.02176)|null|
+|**2024-09-03**|**Learning out-of-time-ordered correlators with classical kernel methods**|John Tanner, Jason Pye, Jingbo Wang|[2409.01592](http://arxiv.org/abs/2409.01592)|null|
+|**2024-09-02**|**Many-body adiabatic passage: Instability, chaos, and quantum classical correspondence**|Anant Vijay Varma, Amichay Vardi, Doron Cohen|[2409.00952](http://arxiv.org/abs/2409.00952)|null|
 |**2024-08-26**|**Unitary Designs from Random Symmetric Quantum Circuits**|Austin Hulse, Hanqing Liu, Iman Marvian|[2408.14463](http://arxiv.org/abs/2408.14463)|null|
 |**2024-08-23**|**Quantum Information Scrambling and Entanglement: An Elegant Mathematical Connection**|Kapil K. Sharma, Rishikant Rajdeepak, Ashok Kumar, Prasanta K. Panigrahi|[2408.13286](http://arxiv.org/abs/2408.13286)|null|
 |**2024-08-22**|**Out-Of-Time-Ordered-Correlators for the Pure Inverted Quartic Oscillator: Classical Chaos meets Quantum Stability**|Paul Romatschke|[2408.12643](http://arxiv.org/abs/2408.12643)|null|
@@ -1046,6 +1057,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-03**|**Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes**|Shi Jie Samuel Tan, Lev Stambler|[2409.02193](http://arxiv.org/abs/2409.02193)|null|
+|**2024-09-03**|**Self-Testing Quantum Error Correcting Codes: Analyzing Computational Hardness**|En-Jui Kuo, Li-Yi Hsu|[2409.01987](http://arxiv.org/abs/2409.01987)|null|
+|**2024-09-02**|**An almost-linear time decoding algorithm for quantum LDPC codes under circuit-level noise**|Antonio deMarti iOlius, Imanol Etxezarreta Martinez, Joschka Roffe, Josu Etxezarreta Martinez|[2409.01440](http://arxiv.org/abs/2409.01440)|null|
+|**2024-08-31**|**Expanding self-orthogonal codes over a ring $\Z_4$ to self-dual codes and unimodular lattices**|Minjia Shi, Sihui Tao, Jihoon Hong, Jon-Lark Kim|[2409.00404](http://arxiv.org/abs/2409.00404)|null|
+|**2024-08-30**|**Preprocessing to Reduce the Search Space for Odd Cycle Transversal**|Bart M. P. Jansen, Yosuke Mizutani, Blair D. Sullivan, Ruben F. A. Verhaegh|[2409.00245](http://arxiv.org/abs/2409.00245)|null|
 |**2024-08-29**|**Experimental measurement and a physical interpretation of quantum shadow enumerators**|Daniel Miller, Kyano Levi, Lukas Postler, Alex Steiner, Lennart Bittel, Gregory A. L. White, Yifan Tang, Eric J. Kuehnke, Antonio A. Mele, Sumeet Khatri, Lorenzo Leone, Jose Carrasco, Christian D. Marciniak, Ivan Pogorelov, Milena Guevara-Bertsch, Robert Freund, Rainer Blatt, Philipp Schindler, Thomas Monz, Martin Ringbauer, Jens Eisert|[2408.16914](http://arxiv.org/abs/2408.16914)|null|
 |**2024-08-29**|**Long-Range $ZZ$ Interaction via Resonator-Induced Phase in Superconducting Qubits**|Xiang Deng, Wen Zheng, Xudong Liao, Haoyu Zhou, Yangyang Ge, Jie Zhao, Dong Lan, Xinsheng Tan, Yu Zhang, Shaoxiong Li, Yang Yu|[2408.16617](http://arxiv.org/abs/2408.16617)|null|
 |**2024-08-28**|**New quantum codes from constacyclic codes over finite chain rings**|Yongsheng Tang, Ting Yao, Heqian Xu, Xiaoshan Kai|[2408.15558](http://arxiv.org/abs/2408.15558)|null|

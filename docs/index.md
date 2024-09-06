@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Better bounds on Grothendieck constants of finite orders**|Sébastien Designolle, Tamás Vértesi, Sebastian Pokutta|[2409.03739](http://arxiv.org/abs/2409.03739)|null|
+|**2024-09-04**|**Quantum theory at the macroscopic scale**|Miguel Gallego, Borivoje Dakić|[2409.03001](http://arxiv.org/abs/2409.03001)|null|
 |**2024-09-04**|**Bounds on detection of Bell correlations with entangled ultra-cold atoms in optical lattices under occupation defects**|Tanausú Hernández Yanes, Youcef Bamaara, Alice Sinatra, Emilia Witkowska|[2409.02873](http://arxiv.org/abs/2409.02873)|null|
 |**2024-09-04**|**Consequences of the single-pair measurement of the Bell parameter**|Marco Genovese, Fabrizio Piacentini|[2409.02510](http://arxiv.org/abs/2409.02510)|null|
 |**2024-09-03**|**Self-Testing Quantum Error Correcting Codes: Analyzing Computational Hardness**|En-Jui Kuo, Li-Yi Hsu|[2409.01987](http://arxiv.org/abs/2409.01987)|null|
@@ -557,6 +559,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Experimental Catalytic Amplification of Asymmetry**|Chao Zhang, Xiao-Min Hu, Feng Ding, Xue-Yuan Hu, Yu Guo, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo|[2409.03217](http://arxiv.org/abs/2409.03217)|null|
 |**2024-09-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
 |**2024-08-13**|**Threshold (Q, P) Quantum Distillation**|Shashank Gupta, William John Munro, Carlos Cid|[2408.15274](http://arxiv.org/abs/2408.15274)|null|
 |**2024-08-27**|**Resource theories with completely passive states and passive states as free states**|Gianluca Francica|[2408.13641](http://arxiv.org/abs/2408.13641)|null|
@@ -715,6 +718,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Quantum complexity and localization in random quantum circuits**|Himanshu Sahu, Aranya Bhattacharya, Pingal Pratyush Nath|[2409.03656](http://arxiv.org/abs/2409.03656)|null|
 |**2024-09-03**|**The Magnetic Maze: A System With Tunable Scale Invariance**|Tian-Gang Zhou, Michael Winer, Brian Swingle|[2409.02176](http://arxiv.org/abs/2409.02176)|null|
 |**2024-09-03**|**Learning out-of-time-ordered correlators with classical kernel methods**|John Tanner, Jason Pye, Jingbo Wang|[2409.01592](http://arxiv.org/abs/2409.01592)|null|
 |**2024-09-02**|**Many-body adiabatic passage: Instability, chaos, and quantum classical correspondence**|Anant Vijay Varma, Amichay Vardi, Doron Cohen|[2409.00952](http://arxiv.org/abs/2409.00952)|null|
@@ -1036,12 +1040,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Weight enumerators of self-dual quantum codes**|Yin Chen, Shan Ren|[2409.03576](http://arxiv.org/abs/2409.03576)|null|
+|**2024-09-05**|**Non-Uniform Noise Rates and Griffiths Phases in Topological Quantum Error Correction**|Adithya Sriram, Nicholas O'Dea, Yaodong Li, Tibor Rakovszky, Vedika Khemani|[2409.03325](http://arxiv.org/abs/2409.03325)|null|
 |**2024-09-05**|**Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes**|Shi Jie Samuel Tan, Lev Stambler|[2409.02193](http://arxiv.org/abs/2409.02193)|null|
 |**2024-09-03**|**Self-Testing Quantum Error Correcting Codes: Analyzing Computational Hardness**|En-Jui Kuo, Li-Yi Hsu|[2409.01987](http://arxiv.org/abs/2409.01987)|null|
 |**2024-09-02**|**An almost-linear time decoding algorithm for quantum LDPC codes under circuit-level noise**|Antonio deMarti iOlius, Imanol Etxezarreta Martinez, Joschka Roffe, Josu Etxezarreta Martinez|[2409.01440](http://arxiv.org/abs/2409.01440)|null|
 |**2024-08-31**|**Expanding self-orthogonal codes over a ring $\Z_4$ to self-dual codes and unimodular lattices**|Minjia Shi, Sihui Tao, Jihoon Hong, Jon-Lark Kim|[2409.00404](http://arxiv.org/abs/2409.00404)|null|
 |**2024-08-30**|**Preprocessing to Reduce the Search Space for Odd Cycle Transversal**|Bart M. P. Jansen, Yosuke Mizutani, Blair D. Sullivan, Ruben F. A. Verhaegh|[2409.00245](http://arxiv.org/abs/2409.00245)|null|
-|**2024-08-29**|**Experimental measurement and a physical interpretation of quantum shadow enumerators**|Daniel Miller, Kyano Levi, Lukas Postler, Alex Steiner, Lennart Bittel, Gregory A. L. White, Yifan Tang, Eric J. Kuehnke, Antonio A. Mele, Sumeet Khatri, Lorenzo Leone, Jose Carrasco, Christian D. Marciniak, Ivan Pogorelov, Milena Guevara-Bertsch, Robert Freund, Rainer Blatt, Philipp Schindler, Thomas Monz, Martin Ringbauer, Jens Eisert|[2408.16914](http://arxiv.org/abs/2408.16914)|null|
+|**2024-08-29**|**Experimental measurement and a physical interpretation of quantum shadow enumerators**|Daniel Miller, Kyano Levi, Lukas Postler, Alex Steiner, Lennart Bittel, Gregory A. L. White, Yifan Tang, Eric J. Kuehnke, Antonio A. Mele, Sumeet Khatri, Lorenzo Leone, Jose Carrasco, Christian D. Marciniak, Ivan Pogorelov, Milena Guevara-Bertsch, Robert Freund, Rainer Blatt, Philipp Schindler, Thomas Monz, Martin Ringbauer, Jens Eisert|[2408.16914](http://arxiv.org/abs/2408.16914)|**[link](https://github.com/mc-zen/qsalto)**|
 |**2024-08-29**|**Long-Range $ZZ$ Interaction via Resonator-Induced Phase in Superconducting Qubits**|Xiang Deng, Wen Zheng, Xudong Liao, Haoyu Zhou, Yangyang Ge, Jie Zhao, Dong Lan, Xinsheng Tan, Yu Zhang, Shaoxiong Li, Yang Yu|[2408.16617](http://arxiv.org/abs/2408.16617)|null|
 |**2024-08-28**|**New quantum codes from constacyclic codes over finite chain rings**|Yongsheng Tang, Ting Yao, Heqian Xu, Xiaoshan Kai|[2408.15558](http://arxiv.org/abs/2408.15558)|null|
 |**2024-08-28**|**Statistical modeling of quantum error propagation**|Zhuoyang Ye|[2408.15459](http://arxiv.org/abs/2408.15459)|null|

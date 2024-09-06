@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 
 ## Bell nonlocality
 
@@ -1036,7 +1036,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-03**|**Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes**|Shi Jie Samuel Tan, Lev Stambler|[2409.02193](http://arxiv.org/abs/2409.02193)|null|
+|**2024-09-05**|**Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes**|Shi Jie Samuel Tan, Lev Stambler|[2409.02193](http://arxiv.org/abs/2409.02193)|null|
 |**2024-09-03**|**Self-Testing Quantum Error Correcting Codes: Analyzing Computational Hardness**|En-Jui Kuo, Li-Yi Hsu|[2409.01987](http://arxiv.org/abs/2409.01987)|null|
 |**2024-09-02**|**An almost-linear time decoding algorithm for quantum LDPC codes under circuit-level noise**|Antonio deMarti iOlius, Imanol Etxezarreta Martinez, Joschka Roffe, Josu Etxezarreta Martinez|[2409.01440](http://arxiv.org/abs/2409.01440)|null|
 |**2024-08-31**|**Expanding self-orthogonal codes over a ring $\Z_4$ to self-dual codes and unimodular lattices**|Minjia Shi, Sihui Tao, Jihoon Hong, Jon-Lark Kim|[2409.00404](http://arxiv.org/abs/2409.00404)|null|

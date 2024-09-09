@@ -369,6 +369,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**An Explicit Wavefunction of the Interacting Non-Hermitian Spin-1/2 1D System**|Yue Wang, Xiangyu Zhang, Zhesen Yang, Congjun Wu|[2409.04112](http://arxiv.org/abs/2409.04112)|null|
 |**2024-09-04**|**Fully polarized Fermi systems at finite temperature**|Krzysztof Myśliwy, Marek Napiórkowski|[2409.02568](http://arxiv.org/abs/2409.02568)|null|
 |**2024-08-14**|**Quantum obesity and steering ellipsoids for fermionic fields in Garfinkle-Horowitz-Strominger dilation spacetime**|Samira Elghaayda, M. Y. Abd-Rabbou, Mostafa Mansour|[2408.06869](http://arxiv.org/abs/2408.06869)|null|
 |**2024-08-09**|**Model-independent predictions for decays of double-heavy hadrons into pairs of heavy hadrons**|R. Bruschini|[2408.05150](http://arxiv.org/abs/2408.05150)|null|
@@ -1040,6 +1041,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Geometrical Approach to Logical Qubit Fidelities of Neutral Atom CSS Codes**|J. J. Postema, S. J. J. M. F. Kokkelmans|[2409.04324](http://arxiv.org/abs/2409.04324)|null|
 |**2024-09-05**|**Weight enumerators of self-dual quantum codes**|Yin Chen, Shan Ren|[2409.03576](http://arxiv.org/abs/2409.03576)|null|
 |**2024-09-05**|**Non-Uniform Noise Rates and Griffiths Phases in Topological Quantum Error Correction**|Adithya Sriram, Nicholas O'Dea, Yaodong Li, Tibor Rakovszky, Vedika Khemani|[2409.03325](http://arxiv.org/abs/2409.03325)|null|
 |**2024-09-05**|**Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes**|Shi Jie Samuel Tan, Lev Stambler|[2409.02193](http://arxiv.org/abs/2409.02193)|null|

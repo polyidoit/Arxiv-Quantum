@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-08**|**Gaussian geometric discord, entanglement and EPR-steering of two rotational mirrors in a double Laguerre-Gaussian cavity optomechanics in the presence of YIG sphere**|Noura Chabar, M'bark Amghar, S. K. Singh, Mohamed Amazioug|[2409.05111](http://arxiv.org/abs/2409.05111)|null|
 |**2024-09-05**|**Better bounds on Grothendieck constants of finite orders**|Sébastien Designolle, Tamás Vértesi, Sebastian Pokutta|[2409.03739](http://arxiv.org/abs/2409.03739)|null|
 |**2024-09-04**|**Quantum theory at the macroscopic scale**|Miguel Gallego, Borivoje Dakić|[2409.03001](http://arxiv.org/abs/2409.03001)|null|
 |**2024-09-04**|**Bounds on detection of Bell correlations with entangled ultra-cold atoms in optical lattices under occupation defects**|Tanausú Hernández Yanes, Youcef Bamaara, Alice Sinatra, Emilia Witkowska|[2409.02873](http://arxiv.org/abs/2409.02873)|null|
@@ -469,6 +470,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-08**|**Gaussian geometric discord, entanglement and EPR-steering of two rotational mirrors in a double Laguerre-Gaussian cavity optomechanics in the presence of YIG sphere**|Noura Chabar, M'bark Amghar, S. K. Singh, Mohamed Amazioug|[2409.05111](http://arxiv.org/abs/2409.05111)|null|
 |**2024-09-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
 |**2024-08-28**|**Quantum Assemblage Tomography**|Luis Villegas-Aguilar, Yuanlong Wang, Alex Pepper, Travis J. Baker, Geoff J. Pryde, Sergei Slussarenko, Nora Tischler, Howard M. Wiseman|[2408.15576](http://arxiv.org/abs/2408.15576)|null|
 |**2024-08-13**|**Threshold (Q, P) Quantum Distillation**|Shashank Gupta, William John Munro, Carlos Cid|[2408.15274](http://arxiv.org/abs/2408.15274)|null|
@@ -560,6 +562,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Bound state basics**|Paul Hoyer|[2409.05660](http://arxiv.org/abs/2409.05660)|null|
 |**2024-09-05**|**Experimental Catalytic Amplification of Asymmetry**|Chao Zhang, Xiao-Min Hu, Feng Ding, Xue-Yuan Hu, Yu Guo, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo|[2409.03217](http://arxiv.org/abs/2409.03217)|null|
 |**2024-09-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
 |**2024-08-13**|**Threshold (Q, P) Quantum Distillation**|Shashank Gupta, William John Munro, Carlos Cid|[2408.15274](http://arxiv.org/abs/2408.15274)|null|
@@ -719,6 +722,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Finite time quantum-classical correspondence in quantum chaotic systems**|Qian Wang, Marko Robnik|[2409.05596](http://arxiv.org/abs/2409.05596)|null|
 |**2024-09-05**|**Quantum complexity and localization in random quantum circuits**|Himanshu Sahu, Aranya Bhattacharya, Pingal Pratyush Nath|[2409.03656](http://arxiv.org/abs/2409.03656)|null|
 |**2024-09-03**|**The Magnetic Maze: A System With Tunable Scale Invariance**|Tian-Gang Zhou, Michael Winer, Brian Swingle|[2409.02176](http://arxiv.org/abs/2409.02176)|null|
 |**2024-09-03**|**Learning out-of-time-ordered correlators with classical kernel methods**|John Tanner, Jason Pye, Jingbo Wang|[2409.01592](http://arxiv.org/abs/2409.01592)|null|
@@ -1041,6 +1045,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Non-local resources for error correction in quantum LDPC codes**|Omprakash Chandra, Gopikrishnan Muraleedharan, Gavin K. Brennen|[2409.05818](http://arxiv.org/abs/2409.05818)|null|
+|**2024-09-09**|**Hardware-Efficient Fault Tolerant Quantum Computing with Bosonic Grid States in Superconducting Circuits**|Marc-Antoine Lemonde, Dany Lachance-Quirion, Guillaume Duclos-Cianci, Nicholas E. Frattini, Florian Hopfmueller, Chloe Gauvin-Ndiaye, Julien Camirand-Lemyre, Philippe St-Jean|[2409.05813](http://arxiv.org/abs/2409.05813)|null|
+|**2024-09-08**|**Towards Distributed Quantum Error Correction for Distributed Quantum Computing**|Shahram Babaie, Chunming Qiao|[2409.05244](http://arxiv.org/abs/2409.05244)|null|
+|**2024-09-07**|**Quantum error correction of motional dephasing using optical dressing**|Yuechun Jiao, Changcheng Li, Jiabei Fan, Jingxu Bai, XiaoFeng Shi, Suotang Jia, Jianming Zhao, C. Stuart Adams|[2409.04769](http://arxiv.org/abs/2409.04769)|null|
+|**2024-09-06**|**Expressing and Analyzing Quantum Algorithms with Qualtran**|Matthew P. Harrigan, Tanuj Khattar, Charles Yuan, Anurudh Peduri, Noureldin Yosri, Fionn D. Malone, Ryan Babbush, Nicholas C. Rubin|[2409.04643](http://arxiv.org/abs/2409.04643)|null|
+|**2024-09-06**|**Demonstration of quantum computation and error correction with a tesseract code**|Ben W. Reichardt, David Aasen, Rui Chao, Alex Chernoguzov, Wim van Dam, John P. Gaebler, Dan Gresh, Dominic Lucchetti, Michael Mills, Steven A. Moses, Brian Neyenhuis, Adam Paetznick, Andres Paz, Peter E. Siegfried, Marcus P. da Silva, Krysta M. Svore, Zhenghan Wang, Matt Zanner|[2409.04628](http://arxiv.org/abs/2409.04628)|null|
 |**2024-09-06**|**Geometrical Approach to Logical Qubit Fidelities of Neutral Atom CSS Codes**|J. J. Postema, S. J. J. M. F. Kokkelmans|[2409.04324](http://arxiv.org/abs/2409.04324)|null|
 |**2024-09-05**|**Weight enumerators of self-dual quantum codes**|Yin Chen, Shan Ren|[2409.03576](http://arxiv.org/abs/2409.03576)|null|
 |**2024-09-05**|**Non-Uniform Noise Rates and Griffiths Phases in Topological Quantum Error Correction**|Adithya Sriram, Nicholas O'Dea, Yaodong Li, Tibor Rakovszky, Vedika Khemani|[2409.03325](http://arxiv.org/abs/2409.03325)|null|

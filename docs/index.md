@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 
 ## Bell nonlocality
 
@@ -566,7 +566,7 @@ layout: default
 |**2024-09-05**|**Experimental Catalytic Amplification of Asymmetry**|Chao Zhang, Xiao-Min Hu, Feng Ding, Xue-Yuan Hu, Yu Guo, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo|[2409.03217](http://arxiv.org/abs/2409.03217)|null|
 |**2024-09-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
 |**2024-08-13**|**Threshold (Q, P) Quantum Distillation**|Shashank Gupta, William John Munro, Carlos Cid|[2408.15274](http://arxiv.org/abs/2408.15274)|null|
-|**2024-08-27**|**Resource theories with completely passive states and passive states as free states**|Gianluca Francica|[2408.13641](http://arxiv.org/abs/2408.13641)|null|
+|**2024-09-10**|**Resource theories with completely passive states and passive states as free states**|Gianluca Francica|[2408.13641](http://arxiv.org/abs/2408.13641)|null|
 |**2024-08-19**|**Volatile MoS ${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications**|Sofia Cruces, Mohit D. Ganeriwala, Jimin Lee, Lukas Völkel, Dennis Braun, Annika Grundmann, Ke Ran, Enrique G. Marín, Holger Kalisch, Michael Heuken, Andrei Vescan, Joachim Mayer, Andrés Godoy, Alwin Daus, Max C. Lemme|[2408.09780](http://arxiv.org/abs/2408.09780)|null|
 |**2024-08-15**|**Response of any arbitrary initially stressed reference and the stress-free reference**|Soumya Mukherjee|[2408.08170](http://arxiv.org/abs/2408.08170)|null|
 |**2024-08-15**|**Critical assessment of information back-flow in measurement-free teleportation**|Hannah McAleese, Mauro Paternostro|[2408.08164](http://arxiv.org/abs/2408.08164)|null|
@@ -724,7 +724,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-09**|**Finite time quantum-classical correspondence in quantum chaotic systems**|Qian Wang, Marko Robnik|[2409.05596](http://arxiv.org/abs/2409.05596)|null|
 |**2024-09-05**|**Quantum complexity and localization in random quantum circuits**|Himanshu Sahu, Aranya Bhattacharya, Pingal Pratyush Nath|[2409.03656](http://arxiv.org/abs/2409.03656)|null|
-|**2024-09-03**|**The Magnetic Maze: A System With Tunable Scale Invariance**|Tian-Gang Zhou, Michael Winer, Brian Swingle|[2409.02176](http://arxiv.org/abs/2409.02176)|null|
+|**2024-09-10**|**The Magnetic Maze: A System With Tunable Scale Invariance**|Tian-Gang Zhou, Michael Winer, Brian Swingle|[2409.02176](http://arxiv.org/abs/2409.02176)|null|
 |**2024-09-03**|**Learning out-of-time-ordered correlators with classical kernel methods**|John Tanner, Jason Pye, Jingbo Wang|[2409.01592](http://arxiv.org/abs/2409.01592)|null|
 |**2024-09-02**|**Many-body adiabatic passage: Instability, chaos, and quantum classical correspondence**|Anant Vijay Varma, Amichay Vardi, Doron Cohen|[2409.00952](http://arxiv.org/abs/2409.00952)|null|
 |**2024-08-26**|**Unitary Designs from Random Symmetric Quantum Circuits**|Austin Hulse, Hanqing Liu, Iman Marvian|[2408.14463](http://arxiv.org/abs/2408.14463)|null|

@@ -301,6 +301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Accelerated detector in a superposed spacetime**|Lakshay Goel, Everett A. Patterson, María Rosa Preciado-Rivas, Mahdi Torabian, Robert B. Mann, Niayesh Afshordi|[2409.06818](http://arxiv.org/abs/2409.06818)|null|
 |**2024-09-04**|**Certifying Quantum Temporal Correlation via Randomized Measurements: Theory and Experiment**|Hongfeng Liu, Zhenhuan Liu, Shu Chen, Xinfang Nie, Xiangjing Liu, Dawei Lu|[2409.02470](http://arxiv.org/abs/2409.02470)|null|
 |**2024-08-27**|**Bayesian retrodiction of quantum supermaps**|Ge Bai|[2408.07885](http://arxiv.org/abs/2408.07885)|null|
 |**2024-07-22**|**Process tensor distinguishability measures**|Guilherme Zambon|[2407.15712](http://arxiv.org/abs/2407.15712)|null|
@@ -742,6 +743,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**State estimation with quantum extreme learning machines beyond the scrambling time**|Marco Vetrano, Gabriele Lo Monaco, Luca Innocenti, Salvatore Lorenzo, G. Massimo Palma|[2409.06782](http://arxiv.org/abs/2409.06782)|null|
 |**2024-09-09**|**Finite time quantum-classical correspondence in quantum chaotic systems**|Qian Wang, Marko Robnik|[2409.05596](http://arxiv.org/abs/2409.05596)|null|
 |**2024-09-05**|**Quantum complexity and localization in random quantum circuits**|Himanshu Sahu, Aranya Bhattacharya, Pingal Pratyush Nath|[2409.03656](http://arxiv.org/abs/2409.03656)|null|
 |**2024-09-10**|**The Magnetic Maze: A System With Tunable Scale Invariance**|Tian-Gang Zhou, Michael Winer, Brian Swingle|[2409.02176](http://arxiv.org/abs/2409.02176)|null|
@@ -1067,6 +1069,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Variational LOCC-assisted quantum circuits for long-range entangled states**|Yuxuan Yan, Muzhou Ma, You Zhou, Xiongfeng Ma|[2409.07281](http://arxiv.org/abs/2409.07281)|null|
+|**2024-09-11**|**Fidelity-optimized quantum surface code via GAN decoder and application to quantum teleportation**|Jiaxin Li, Zhimin Wang, Alberto Ferrara, Yongjian Gu, Rosario Lo Franco|[2409.06984](http://arxiv.org/abs/2409.06984)|null|
+|**2024-09-11**|**A High-Performance List Decoding Algorithm for Surface Codes with Erroneous Syndrome**|Jifan Liang, Qianfan Wang, Lvzhou Li, Xiao Ma|[2409.06979](http://arxiv.org/abs/2409.06979)|null|
+|**2024-09-10**|**Concomitant Entanglement and Control Criticality Driven by Collective Measurements**|Thomas Iadecola, Justin H. Wilson, J. H. Pixley|[2409.06780](http://arxiv.org/abs/2409.06780)|null|
 |**2024-09-09**|**Non-local resources for error correction in quantum LDPC codes**|Omprakash Chandra, Gopikrishnan Muraleedharan, Gavin K. Brennen|[2409.05818](http://arxiv.org/abs/2409.05818)|null|
 |**2024-09-09**|**Hardware-Efficient Fault Tolerant Quantum Computing with Bosonic Grid States in Superconducting Circuits**|Marc-Antoine Lemonde, Dany Lachance-Quirion, Guillaume Duclos-Cianci, Nicholas E. Frattini, Florian Hopfmueller, Chloe Gauvin-Ndiaye, Julien Camirand-Lemyre, Philippe St-Jean|[2409.05813](http://arxiv.org/abs/2409.05813)|null|
 |**2024-09-08**|**Towards Distributed Quantum Error Correction for Distributed Quantum Computing**|Shahram Babaie, Chunming Qiao|[2409.05244](http://arxiv.org/abs/2409.05244)|null|

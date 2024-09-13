@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 
 ## Bell nonlocality
 
@@ -565,7 +565,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-09**|**Bound state basics**|Paul Hoyer|[2409.05660](http://arxiv.org/abs/2409.05660)|null|
-|**2024-09-05**|**Experimental Catalytic Amplification of Asymmetry**|Chao Zhang, Xiao-Min Hu, Feng Ding, Xue-Yuan Hu, Yu Guo, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo|[2409.03217](http://arxiv.org/abs/2409.03217)|null|
+|**2024-09-12**|**Experimental Catalytic Amplification of Asymmetry**|Chao Zhang, Xiao-Min Hu, Feng Ding, Xue-Yuan Hu, Yu Guo, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo|[2409.03217](http://arxiv.org/abs/2409.03217)|null|
 |**2024-09-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
 |**2024-08-13**|**Threshold (Q, P) Quantum Distillation**|Shashank Gupta, William John Munro, Carlos Cid|[2408.15274](http://arxiv.org/abs/2408.15274)|null|
 |**2024-09-10**|**Resource theories with completely passive states and passive states as free states**|Gianluca Francica|[2408.13641](http://arxiv.org/abs/2408.13641)|null|

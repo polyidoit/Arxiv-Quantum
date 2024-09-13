@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Introduction to Bell's inequality in Quantum Mechanics**|M. S. Guimaraes, I. Roditi, S. P. Sorella|[2409.07597](http://arxiv.org/abs/2409.07597)|null|
 |**2024-09-08**|**Gaussian geometric discord, entanglement and EPR-steering of two rotational mirrors in a double Laguerre-Gaussian cavity optomechanics in the presence of YIG sphere**|Noura Chabar, M'bark Amghar, S. K. Singh, Mohamed Amazioug|[2409.05111](http://arxiv.org/abs/2409.05111)|null|
 |**2024-09-05**|**Better bounds on Grothendieck constants of finite orders**|Sébastien Designolle, Tamás Vértesi, Sebastian Pokutta|[2409.03739](http://arxiv.org/abs/2409.03739)|null|
 |**2024-09-04**|**Quantum theory at the macroscopic scale**|Miguel Gallego, Borivoje Dakić|[2409.03001](http://arxiv.org/abs/2409.03001)|null|
@@ -1069,6 +1070,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda, Nuno M. M. Rodrigues, Fernando Pereira|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
+|**2024-09-12**|**Low-overhead magic state distillation with color codes**|Seok-Hyung Lee, Felix Thomsen, Nicholas Fazio, Benjamin J. Brown, Stephen D. Bartlett|[2409.07707](http://arxiv.org/abs/2409.07707)|null|
 |**2024-09-11**|**Variational LOCC-assisted quantum circuits for long-range entangled states**|Yuxuan Yan, Muzhou Ma, You Zhou, Xiongfeng Ma|[2409.07281](http://arxiv.org/abs/2409.07281)|null|
 |**2024-09-11**|**Fidelity-optimized quantum surface code via GAN decoder and application to quantum teleportation**|Jiaxin Li, Zhimin Wang, Alberto Ferrara, Yongjian Gu, Rosario Lo Franco|[2409.06984](http://arxiv.org/abs/2409.06984)|null|
 |**2024-09-11**|**A High-Performance List Decoding Algorithm for Surface Codes with Erroneous Syndrome**|Jifan Liang, Qianfan Wang, Lvzhou Li, Xiao Ma|[2409.06979](http://arxiv.org/abs/2409.06979)|null|

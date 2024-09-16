@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Turing Video-based Cognitive Tests to Handle Entangled Concepts**|Diederik Aerts, Roberto Leporini, Sandro Sozzo|[2409.08868](http://arxiv.org/abs/2409.08868)|null|
+|**2024-09-13**|**SOS decomposition for general Bell inequalities in two qubits systems and its application to quantum randomness**|Wen-Na Zhao, Youwang Xiao, Ming Li, Li Xu, Shao-Ming Fei|[2409.08467](http://arxiv.org/abs/2409.08467)|null|
 |**2024-09-11**|**Introduction to Bell's inequality in Quantum Mechanics**|M. S. Guimaraes, I. Roditi, S. P. Sorella|[2409.07597](http://arxiv.org/abs/2409.07597)|null|
 |**2024-09-08**|**Gaussian geometric discord, entanglement and EPR-steering of two rotational mirrors in a double Laguerre-Gaussian cavity optomechanics in the presence of YIG sphere**|Noura Chabar, M'bark Amghar, S. K. Singh, Mohamed Amazioug|[2409.05111](http://arxiv.org/abs/2409.05111)|null|
 |**2024-09-05**|**Better bounds on Grothendieck constants of finite orders**|Sébastien Designolle, Tamás Vértesi, Sebastian Pokutta|[2409.03739](http://arxiv.org/abs/2409.03739)|null|

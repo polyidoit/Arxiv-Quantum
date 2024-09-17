@@ -374,6 +374,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Exploring Quantum Contextuality with the Quantum Moebius-Escher-Penrose hypergraph**|Mirko Navara, Karl Svozil|[2409.10179](http://arxiv.org/abs/2409.10179)|null|
 |**2024-09-06**|**An Explicit Wavefunction of the Interacting Non-Hermitian Spin-1/2 1D System**|Yue Wang, Xiangyu Zhang, Zhesen Yang, Congjun Wu|[2409.04112](http://arxiv.org/abs/2409.04112)|null|
 |**2024-09-04**|**Fully polarized Fermi systems at finite temperature**|Krzysztof Myśliwy, Marek Napiórkowski|[2409.02568](http://arxiv.org/abs/2409.02568)|null|
 |**2024-08-14**|**Quantum obesity and steering ellipsoids for fermionic fields in Garfinkle-Horowitz-Strominger dilation spacetime**|Samira Elghaayda, M. Y. Abd-Rabbou, Mostafa Mansour|[2408.06869](http://arxiv.org/abs/2408.06869)|null|
@@ -567,6 +568,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-15**|**An accurate vector optically pumped magnetometer with microwave-driven Rabi frequency measurements**|Christopher Kiehl, Thanmay S. Menon, Svenja Knappe, Tobias Thiele, Cindy A. Regal|[2409.09885](http://arxiv.org/abs/2409.09885)|null|
+|**2024-09-14**|**Quantum resource theory of coding for error correction**|Dong-Sheng Wang, Yuan-Dong Liu, Yun-Jiang Wang, Shunlong Luo|[2409.09416](http://arxiv.org/abs/2409.09416)|null|
 |**2024-09-09**|**Bound state basics**|Paul Hoyer|[2409.05660](http://arxiv.org/abs/2409.05660)|null|
 |**2024-09-12**|**Experimental Catalytic Amplification of Asymmetry**|Chao Zhang, Xiao-Min Hu, Feng Ding, Xue-Yuan Hu, Yu Guo, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo|[2409.03217](http://arxiv.org/abs/2409.03217)|null|
 |**2024-09-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
@@ -727,6 +730,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Hilbert Space Fragmentation in the Chiral Luttinger Liquid**|Alexandre Chaduteau, Nyan Raess, Henry Davenport, Frank Schindler|[2409.10359](http://arxiv.org/abs/2409.10359)|null|
+|**2024-09-16**|**Quantum Information Scrambling, Chaos, Sensitivity, and Emergent State Designs**|Naga Dileep Varikuti|[2409.10182](http://arxiv.org/abs/2409.10182)|null|
 |**2024-09-10**|**State estimation with quantum extreme learning machines beyond the scrambling time**|Marco Vetrano, Gabriele Lo Monaco, Luca Innocenti, Salvatore Lorenzo, G. Massimo Palma|[2409.06782](http://arxiv.org/abs/2409.06782)|null|
 |**2024-09-09**|**Finite time quantum-classical correspondence in quantum chaotic systems**|Qian Wang, Marko Robnik|[2409.05596](http://arxiv.org/abs/2409.05596)|null|
 |**2024-09-05**|**Quantum complexity and localization in random quantum circuits**|Himanshu Sahu, Aranya Bhattacharya, Pingal Pratyush Nath|[2409.03656](http://arxiv.org/abs/2409.03656)|null|
@@ -1051,6 +1056,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Quantum Information Scrambling, Chaos, Sensitivity, and Emergent State Designs**|Naga Dileep Varikuti|[2409.10182](http://arxiv.org/abs/2409.10182)|null|
+|**2024-09-16**|**Quantum codes for asymmetric channels: ZZZY surface codes**|Diego Forlivesi, Lorenzo Valentini, Marco Chiani|[2409.10162](http://arxiv.org/abs/2409.10162)|null|
 |**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda, Nuno M. M. Rodrigues, Fernando Pereira|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
 |**2024-09-12**|**Low-overhead magic state distillation with color codes**|Seok-Hyung Lee, Felix Thomsen, Nicholas Fazio, Benjamin J. Brown, Stephen D. Bartlett|[2409.07707](http://arxiv.org/abs/2409.07707)|null|
 |**2024-09-11**|**Variational LOCC-assisted quantum circuits for long-range entangled states**|Yuxuan Yan, Muzhou Ma, You Zhou, Xiongfeng Ma|[2409.07281](http://arxiv.org/abs/2409.07281)|null|

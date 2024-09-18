@@ -749,6 +749,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Scrambling in the Charging of Quantum Batteries**|Sebastián V. Romero, Yongcheng Ding, Xi Chen, Yue Ban|[2409.10590](http://arxiv.org/abs/2409.10590)|null|
 |**2024-09-16**|**Hilbert Space Fragmentation in the Chiral Luttinger Liquid**|Alexandre Chaduteau, Nyan Raess, Henry Davenport, Frank Schindler|[2409.10359](http://arxiv.org/abs/2409.10359)|null|
 |**2024-09-16**|**Quantum Information Scrambling, Chaos, Sensitivity, and Emergent State Designs**|Naga Dileep Varikuti|[2409.10182](http://arxiv.org/abs/2409.10182)|null|
 |**2024-09-10**|**State estimation with quantum extreme learning machines beyond the scrambling time**|Marco Vetrano, Gabriele Lo Monaco, Luca Innocenti, Salvatore Lorenzo, G. Massimo Palma|[2409.06782](http://arxiv.org/abs/2409.06782)|null|
@@ -1077,6 +1078,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Synchronizable hybrid subsystem codes**|Theerapat Tansuwannont, Andrew Nemec|[2409.11312](http://arxiv.org/abs/2409.11312)|null|
+|**2024-09-17**|**A Symbol-Pair Decoder for CSS Codes**|Vatsal Pramod Jha, Udaya Parampalli, Abhay Kumar Singh|[2409.10979](http://arxiv.org/abs/2409.10979)|null|
+|**2024-09-17**|**Decoding Algorithm Correcting Single-Insertion Plus Single-Deletion for Non-binary Quantum Codes**|Ken Nakamura, Takayuki Nozaki|[2409.10924](http://arxiv.org/abs/2409.10924)|null|
 |**2024-09-16**|**Quantum Information Scrambling, Chaos, Sensitivity, and Emergent State Designs**|Naga Dileep Varikuti|[2409.10182](http://arxiv.org/abs/2409.10182)|null|
 |**2024-09-16**|**Quantum codes for asymmetric channels: ZZZY surface codes**|Diego Forlivesi, Lorenzo Valentini, Marco Chiani|[2409.10162](http://arxiv.org/abs/2409.10162)|null|
 |**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda, Nuno M. M. Rodrigues, Fernando Pereira|[2409.08130](http://arxiv.org/abs/2409.08130)|null|

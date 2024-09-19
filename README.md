@@ -304,6 +304,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Knot invariants and indefinite causal order**|Samuel Fedida, Anne-Catherine de la Hamette, Viktoria Kabel, Časlav Brukner|[2409.11448](http://arxiv.org/abs/2409.11448)|null|
 |**2024-09-10**|**Accelerated detector in a superposed spacetime**|Lakshay Goel, Everett A. Patterson, María Rosa Preciado-Rivas, Mahdi Torabian, Robert B. Mann, Niayesh Afshordi|[2409.06818](http://arxiv.org/abs/2409.06818)|null|
 |**2024-09-04**|**Certifying Quantum Temporal Correlation via Randomized Measurements: Theory and Experiment**|Hongfeng Liu, Zhenhuan Liu, Shu Chen, Xinfang Nie, Xiangjing Liu, Dawei Lu|[2409.02470](http://arxiv.org/abs/2409.02470)|null|
 |**2024-08-27**|**Bayesian retrodiction of quantum supermaps**|Ge Bai|[2408.07885](http://arxiv.org/abs/2408.07885)|null|
@@ -749,6 +750,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**A comparison between classical and Bohmian quantum chaos**|Athanasios C. Tzemos, George Contopoulos|[2409.12056](http://arxiv.org/abs/2409.12056)|null|
+|**2024-09-18**|**Hydrodynamic modes and operator spreading in a long-range center-of-mass-conserving Brownian SYK model**|Bai-Lin Cheng, Shao-Kai Jian, Zhi-Cheng Yang|[2409.11655](http://arxiv.org/abs/2409.11655)|null|
 |**2024-09-16**|**Scrambling in the Charging of Quantum Batteries**|Sebastián V. Romero, Yongcheng Ding, Xi Chen, Yue Ban|[2409.10590](http://arxiv.org/abs/2409.10590)|null|
 |**2024-09-16**|**Hilbert Space Fragmentation in the Chiral Luttinger Liquid**|Alexandre Chaduteau, Nyan Raess, Henry Davenport, Frank Schindler|[2409.10359](http://arxiv.org/abs/2409.10359)|null|
 |**2024-09-16**|**Quantum Information Scrambling, Chaos, Sensitivity, and Emergent State Designs**|Naga Dileep Varikuti|[2409.10182](http://arxiv.org/abs/2409.10182)|null|
@@ -1078,6 +1081,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Flexible Fault Tolerant Gate Gadgets**|Eric Kubischta, Ian Teixeira|[2409.11616](http://arxiv.org/abs/2409.11616)|null|
 |**2024-09-17**|**Synchronizable hybrid subsystem codes**|Theerapat Tansuwannont, Andrew Nemec|[2409.11312](http://arxiv.org/abs/2409.11312)|null|
 |**2024-09-17**|**A Symbol-Pair Decoder for CSS Codes**|Vatsal Pramod Jha, Udaya Parampalli, Abhay Kumar Singh|[2409.10979](http://arxiv.org/abs/2409.10979)|null|
 |**2024-09-17**|**Decoding Algorithm Correcting Single-Insertion Plus Single-Deletion for Non-binary Quantum Codes**|Ken Nakamura, Takayuki Nozaki|[2409.10924](http://arxiv.org/abs/2409.10924)|null|

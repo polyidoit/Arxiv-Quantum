@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.22
+## Updated on 2024.09.23
 
 ## Bell nonlocality
 
@@ -578,7 +578,7 @@ layout: default
 |**2024-09-10**|**Resource theories with completely passive states and passive states as free states**|Gianluca Francica|[2408.13641](http://arxiv.org/abs/2408.13641)|null|
 |**2024-08-19**|**Volatile MoS ${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications**|Sofia Cruces, Mohit D. Ganeriwala, Jimin Lee, Lukas Völkel, Dennis Braun, Annika Grundmann, Ke Ran, Enrique G. Marín, Holger Kalisch, Michael Heuken, Andrei Vescan, Joachim Mayer, Andrés Godoy, Alwin Daus, Max C. Lemme|[2408.09780](http://arxiv.org/abs/2408.09780)|null|
 |**2024-08-15**|**Response of any arbitrary initially stressed reference and the stress-free reference**|Soumya Mukherjee|[2408.08170](http://arxiv.org/abs/2408.08170)|null|
-|**2024-08-15**|**Critical assessment of information back-flow in measurement-free teleportation**|Hannah McAleese, Mauro Paternostro|[2408.08164](http://arxiv.org/abs/2408.08164)|null|
+|**2024-09-20**|**Critical assessment of information back-flow in measurement-free teleportation**|Hannah McAleese, Mauro Paternostro|[2408.08164](http://arxiv.org/abs/2408.08164)|null|
 |**2024-08-14**|**Forming and Compliance-free Operation of Low-power, Fast-switching HfO $_x$S$_y$/HfS$_2$ Heterostructure Memristors**|Aferdita Xhameni, AbdulAziz AlMutairi, Xuyun Guo, Irina Chircă, Tianyi Wen, Stephan Hofmann, Valeria Nicolosi, Antonio Lombardo|[2408.07466](http://arxiv.org/abs/2408.07466)|null|
 |**2024-08-12**|**Mutual information fluctuations and non-stabilizerness in random circuits**|Arash Ahmadi, Jonas Helsen, Cagan Karaca, Eliska Greplova|[2408.03831](http://arxiv.org/abs/2408.03831)|null|
 |**2024-08-05**|**Generalized Quantum Stein's Lemma and Second Law of Quantum Resource Theories**|Masahito Hayashi, Hayata Yamasaki|[2408.02722](http://arxiv.org/abs/2408.02722)|null|

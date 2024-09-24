@@ -14,7 +14,7 @@ layout: default
 |**2024-09-08**|**Gaussian geometric discord, entanglement and EPR-steering of two rotational mirrors in a double Laguerre-Gaussian cavity optomechanics in the presence of YIG sphere**|Noura Chabar, M'bark Amghar, S. K. Singh, Mohamed Amazioug|[2409.05111](http://arxiv.org/abs/2409.05111)|null|
 |**2024-09-05**|**Better bounds on Grothendieck constants of finite orders**|Sébastien Designolle, Tamás Vértesi, Sebastian Pokutta|[2409.03739](http://arxiv.org/abs/2409.03739)|null|
 |**2024-09-04**|**Quantum theory at the macroscopic scale**|Miguel Gallego, Borivoje Dakić|[2409.03001](http://arxiv.org/abs/2409.03001)|null|
-|**2024-09-04**|**Bounds on detection of Bell correlations with entangled ultra-cold atoms in optical lattices under occupation defects**|Tanausú Hernández Yanes, Youcef Bamaara, Alice Sinatra, Emilia Witkowska|[2409.02873](http://arxiv.org/abs/2409.02873)|null|
+|**2024-09-23**|**Bounds on detection of Bell correlations with entangled ultra-cold atoms in optical lattices under occupation defects**|Tanausú Hernández Yanes, Youcef Bamaara, Alice Sinatra, Emilia Witkowska|[2409.02873](http://arxiv.org/abs/2409.02873)|null|
 |**2024-09-04**|**Consequences of the single-pair measurement of the Bell parameter**|Marco Genovese, Fabrizio Piacentini|[2409.02510](http://arxiv.org/abs/2409.02510)|null|
 |**2024-09-03**|**Self-Testing Quantum Error Correcting Codes: Analyzing Computational Hardness**|En-Jui Kuo, Li-Yi Hsu|[2409.01987](http://arxiv.org/abs/2409.01987)|null|
 |**2024-08-31**|**Universal bound on the relaxation rates for quantum Markovian dynamics**|Paolo Muratore-Ginanneschi, Gen Kimura, Dariusz Chruściński|[2409.00436](http://arxiv.org/abs/2409.00436)|null|

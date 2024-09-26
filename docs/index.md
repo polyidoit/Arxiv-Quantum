@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Long-distance device-independent quantum key distribution using single-photon entanglement**|Anna Steffinlongo, Mariana Navarro, Marina Cenni, Xavier Valcarce, Antonio Acín, Enky Oudot|[2409.17075](http://arxiv.org/abs/2409.17075)|null|
+|**2024-09-25**|**From angular coefficients to quantum observables: a phenomenological appraisal in di-boson systems**|Michele Grossi, Giovanni Pelliccioli, Alessandro Vicini|[2409.16731](http://arxiv.org/abs/2409.16731)|null|
+|**2024-09-24**|**The Separability Problem in Quantum Mechanics: Insights from Research on Axiomatics and Human Language**|Diederik Aerts, Jonito Aerts Arguëlles, Lester Beltran. Massimiliano Sassoli de Bianchi, Sandro Sozzo|[2409.15942](http://arxiv.org/abs/2409.15942)|null|
+|**2024-09-23**|**Impact of parity violation on quantum entanglement and Bell nonlocality**|Yong Du, Xiao-Gang He, Chia-Wei Liu, Jian-Ping Ma|[2409.15418](http://arxiv.org/abs/2409.15418)|null|
+|**2024-09-20**|**Irreversible Diagonalization of Mechanical Quantities and the EPR Paradox**|Tao Liu|[2409.15379](http://arxiv.org/abs/2409.15379)|null|
+|**2024-09-23**|**Necessary and Sufficient Condition for Randomness Certification from Incompatibility**|Yi Li, Yu Xiang, Jordi Tura, Qiongyi He|[2409.14991](http://arxiv.org/abs/2409.14991)|null|
+|**2024-09-23**|**A categorical view of Bell's inequalities in quantum field theory**|Rafael Grossi, João C. A. Barata|[2409.14930](http://arxiv.org/abs/2409.14930)|null|
+|**2024-09-24**|**Stronger Nonlocality in GHZ States: A Step Beyond the Conventional GHZ Paradox**|Ananya Chakraborty, Kunika Agarwal, Sahil Gopalkrishna Naik, Manik Banik|[2409.14711](http://arxiv.org/abs/2409.14711)|null|
 |**2024-09-13**|**Turing Video-based Cognitive Tests to Handle Entangled Concepts**|Diederik Aerts, Roberto Leporini, Sandro Sozzo|[2409.08868](http://arxiv.org/abs/2409.08868)|null|
 |**2024-09-13**|**SOS decomposition for general Bell inequalities in two qubits systems and its application to quantum randomness**|Wen-Na Zhao, Youwang Xiao, Ming Li, Li Xu, Shao-Ming Fei|[2409.08467](http://arxiv.org/abs/2409.08467)|null|
 |**2024-09-11**|**Introduction to Bell's inequality in Quantum Mechanics**|M. S. Guimaraes, I. Roditi, S. P. Sorella|[2409.07597](http://arxiv.org/abs/2409.07597)|null|
@@ -375,6 +383,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Foundations of Quantum Contextual Topos: Integrating Modality and Topos Theory in Quantum Logic**|Jesse Werbow|[2409.12198](http://arxiv.org/abs/2409.12198)|null|
 |**2024-09-16**|**Exploring Quantum Contextuality with the Quantum Moebius-Escher-Penrose hypergraph**|Mirko Navara, Karl Svozil|[2409.10179](http://arxiv.org/abs/2409.10179)|null|
 |**2024-09-06**|**An Explicit Wavefunction of the Interacting Non-Hermitian Spin-1/2 1D System**|Yue Wang, Xiangyu Zhang, Zhesen Yang, Congjun Wu|[2409.04112](http://arxiv.org/abs/2409.04112)|null|
 |**2024-09-04**|**Fully polarized Fermi systems at finite temperature**|Krzysztof Myśliwy, Marek Napiórkowski|[2409.02568](http://arxiv.org/abs/2409.02568)|null|
@@ -476,6 +485,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-21**|**Enhancing One-Way Steering and Non-Classical Correlations in Magnomechanics via Coherent Feedback**|Hamza Harraf, Noura Chabar, Mohamed Amazioug, Rachid Ahl Laamara|[2409.14139](http://arxiv.org/abs/2409.14139)|null|
 |**2024-09-10**|**Nonreciprocal tripartite entanglement and asymmetric Einstein-Podolsky-Rosen steering via directional quantum squeezing**|Ya-Feng Jiao, Jie Wang, Dong-Yang Wang, Lei Tang, Yan Wang, Yun-Lan Zuo, Wan-Su Bao, Le-Man Kuang, Hui Jing|[2409.06133](http://arxiv.org/abs/2409.06133)|null|
 |**2024-09-08**|**Gaussian geometric discord, entanglement and EPR-steering of two rotational mirrors in a double Laguerre-Gaussian cavity optomechanics in the presence of YIG sphere**|Noura Chabar, M'bark Amghar, S. K. Singh, Mohamed Amazioug|[2409.05111](http://arxiv.org/abs/2409.05111)|null|
 |**2024-09-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
@@ -569,6 +579,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-23**|**Effective Dynamics of Local Observables for Extended Fermi Gases in the High-Density Regime**|Luca Fresta, Marcello Porta, Benjamin Schlein|[2409.14841](http://arxiv.org/abs/2409.14841)|null|
 |**2024-09-15**|**An accurate vector optically pumped magnetometer with microwave-driven Rabi frequency measurements**|Christopher Kiehl, Thanmay S. Menon, Svenja Knappe, Tobias Thiele, Cindy A. Regal|[2409.09885](http://arxiv.org/abs/2409.09885)|null|
 |**2024-09-14**|**Quantum resource theory of coding for error correction**|Dong-Sheng Wang, Yuan-Dong Liu, Yun-Jiang Wang, Shunlong Luo|[2409.09416](http://arxiv.org/abs/2409.09416)|null|
 |**2024-09-09**|**Bound state basics**|Paul Hoyer|[2409.05660](http://arxiv.org/abs/2409.05660)|null|
@@ -731,6 +742,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**A Butterfly Effect in Encoding-Decoding Quantum Circuits**|Emanuel Dallas, Faidon Andreadakis, Paolo Zanardi|[2409.16481](http://arxiv.org/abs/2409.16481)|null|
+|**2024-09-23**|**Founding Quantum Cryptography on Quantum Advantage, or, Towards Cryptography from #P-Hardness**|Dakshita Khurana, Kabir Tomer|[2409.15248](http://arxiv.org/abs/2409.15248)|null|
+|**2024-09-23**|**Machine Learning Methods as Robust Quantum Noise Estimators**|Jon Gardeazabal-Gutierrez, Erik B. Terres-Escudero, Pablo García Bringas|[2409.14831](http://arxiv.org/abs/2409.14831)|null|
+|**2024-09-22**|**Information acquisition, scrambling, and sensitivity to errors in quantum chaos**|Sreeram PG, Abinash Sahu, Naga Dileep Varikuti, Bishal Kumar Das, Sourav Manna, Vaibhav Madhok|[2409.14332](http://arxiv.org/abs/2409.14332)|null|
+|**2024-09-18**|**Chaos and spatial prethermalization in driven-dissipative bosonic chains**|Filippo Ferrari, Fabrizio Minganti, Camille Aron, Vincenzo Savona|[2409.12225](http://arxiv.org/abs/2409.12225)|null|
 |**2024-09-18**|**A comparison between classical and Bohmian quantum chaos**|Athanasios C. Tzemos, George Contopoulos|[2409.12056](http://arxiv.org/abs/2409.12056)|null|
 |**2024-09-18**|**Hydrodynamic modes and operator spreading in a long-range center-of-mass-conserving Brownian SYK model**|Bai-Lin Cheng, Shao-Kai Jian, Zhi-Cheng Yang|[2409.11655](http://arxiv.org/abs/2409.11655)|null|
 |**2024-09-16**|**Scrambling in the Charging of Quantum Batteries**|Sebastián V. Romero, Yongcheng Ding, Xi Chen, Yue Ban|[2409.10590](http://arxiv.org/abs/2409.10590)|null|
@@ -1060,6 +1076,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Non-collapsing electric readout of arbitrary Andreev qubits**|Xian-Peng Zhang, Chuanchang Zeng, Zhen-Biao Yang, Jose Carlos Egues, Yugui Yao|[2409.17008](http://arxiv.org/abs/2409.17008)|null|
+|**2024-09-25**|**Fast unconditional reset and leakage reduction in fixed-frequency transmon qubits**|Liangyu Chen, Simon Pettersson Fors, Zixian Yan, Anaida Ali, Tahereh Abad, Amr Osman, Eleftherios Moschandreou, Benjamin Lienhard, Sandoko Kosen, Hang-Xi Li, Daryoush Shiri, Tong Liu, Stefan Hill, Abdullah-Al Amin, Robert Rehammar, Mamta Dahiya, Andreas Nylander, Marcus Rommel, Anita Fadavi Roudsari, Marco Caputo, Grönberg Leif, Joonas Govenius, Miroslav Dobsicek, Michele Faucci Giannelli, Anton Frisk Kockum, Jonas Bylander, Giovanna Tancredi|[2409.16748](http://arxiv.org/abs/2409.16748)|null|
+|**2024-09-25**|**Quantum error correction-inspired multiparameter quantum metrology**|Sivaprasad Omanakuttan, Jonathan A. Gross, T. J. Volkoff|[2409.16515](http://arxiv.org/abs/2409.16515)|null|
+|**2024-09-23**|**Locality vs Quantum Codes**|Samuel Dai, Ray Li|[2409.15203](http://arxiv.org/abs/2409.15203)|null|
+|**2024-09-23**|**Joint State-Channel Decoupling and One-Shot Quantum Coding Theorem**|Hao-Chung Cheng, Frédéric Dupuis, Li Gao|[2409.15149](http://arxiv.org/abs/2409.15149)|null|
+|**2024-09-23**|**The geometric phase transition of the three-dimensional $\mathbb{Z}_2$ lattice gauge model**|Ramgopal Agrawal, Leticia F. Cugliandolo, Lara Faoro, Lev B. Ioffe, Marco Picco|[2409.15123](http://arxiv.org/abs/2409.15123)|null|
+|**2024-09-23**|**Quantum Error Correction of Qudits Beyond Break-even**|Benjamin L. Brock, Shraddha Singh, Alec Eickbusch, Volodymyr V. Sivak, Andy Z. Ding, Luigi Frunzio, Steven M. Girvin, Michel H. Devoret|[2409.15065](http://arxiv.org/abs/2409.15065)|null|
+|**2024-09-23**|**Machine Learning Methods as Robust Quantum Noise Estimators**|Jon Gardeazabal-Gutierrez, Erik B. Terres-Escudero, Pablo García Bringas|[2409.14831](http://arxiv.org/abs/2409.14831)|null|
+|**2024-09-23**|**Compare the Pair: Rotated vs. Unrotated Surface Codes at Equal Logical Error Rates**|Anthony Ryan O'Rourke, Simon Devitt|[2409.14765](http://arxiv.org/abs/2409.14765)|null|
+|**2024-09-22**|**Flag Proxy Networks: Tackling the Architectural, Scheduling, and Decoding Obstacles of Quantum LDPC codes**|Suhas Vittal, Ali Javadi-Abhari, Andrew W. Cross, Lev S. Bishop, Moinuddin Qureshi|[2409.14283](http://arxiv.org/abs/2409.14283)|null|
 |**2024-09-18**|**Flexible Fault Tolerant Gate Gadgets**|Eric Kubischta, Ian Teixeira|[2409.11616](http://arxiv.org/abs/2409.11616)|null|
 |**2024-09-17**|**Synchronizable hybrid subsystem codes**|Theerapat Tansuwannont, Andrew Nemec|[2409.11312](http://arxiv.org/abs/2409.11312)|null|
 |**2024-09-17**|**A Symbol-Pair Decoder for CSS Codes**|Vatsal Pramod Jha, Udaya Parampalli, Abhay Kumar Singh|[2409.10979](http://arxiv.org/abs/2409.10979)|null|

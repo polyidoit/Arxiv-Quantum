@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Temporal Bell inequalities in a many-body system**|A. Tononi, M. Lewenstein|[2409.17290](http://arxiv.org/abs/2409.17290)|null|
 |**2024-09-25**|**Long-distance device-independent quantum key distribution using single-photon entanglement**|Anna Steffinlongo, Mariana Navarro, Marina Cenni, Xavier Valcarce, Antonio Acín, Enky Oudot|[2409.17075](http://arxiv.org/abs/2409.17075)|null|
 |**2024-09-25**|**From angular coefficients to quantum observables: a phenomenological appraisal in di-boson systems**|Michele Grossi, Giovanni Pelliccioli, Alessandro Vicini|[2409.16731](http://arxiv.org/abs/2409.16731)|null|
 |**2024-09-24**|**The Separability Problem in Quantum Mechanics: Insights from Research on Axiomatics and Human Language**|Diederik Aerts, Jonito Aerts Arguëlles, Lester Beltran. Massimiliano Sassoli de Bianchi, Sandro Sozzo|[2409.15942](http://arxiv.org/abs/2409.15942)|null|
@@ -383,6 +384,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Atom graph, partial Boolean algebra and quantum contextuality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Jian Yan, Heng Zhou|[2409.17651](http://arxiv.org/abs/2409.17651)|null|
 |**2024-09-04**|**Foundations of Quantum Contextual Topos: Integrating Modality and Topos Theory in Quantum Logic**|Jesse Werbow|[2409.12198](http://arxiv.org/abs/2409.12198)|null|
 |**2024-09-16**|**Exploring Quantum Contextuality with the Quantum Moebius-Escher-Penrose hypergraph**|Mirko Navara, Karl Svozil|[2409.10179](http://arxiv.org/abs/2409.10179)|null|
 |**2024-09-06**|**An Explicit Wavefunction of the Interacting Non-Hermitian Spin-1/2 1D System**|Yue Wang, Xiangyu Zhang, Zhesen Yang, Congjun Wu|[2409.04112](http://arxiv.org/abs/2409.04112)|null|
@@ -742,6 +744,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Free Independence and the Noncrossing Partition Lattice in Dual-Unitary Quantum Circuits**|Hyaline Junhe Chen, Jonah Kudler-Flam|[2409.17226](http://arxiv.org/abs/2409.17226)|null|
 |**2024-09-24**|**A Butterfly Effect in Encoding-Decoding Quantum Circuits**|Emanuel Dallas, Faidon Andreadakis, Paolo Zanardi|[2409.16481](http://arxiv.org/abs/2409.16481)|null|
 |**2024-09-23**|**Founding Quantum Cryptography on Quantum Advantage, or, Towards Cryptography from #P-Hardness**|Dakshita Khurana, Kabir Tomer|[2409.15248](http://arxiv.org/abs/2409.15248)|null|
 |**2024-09-23**|**Machine Learning Methods as Robust Quantum Noise Estimators**|Jon Gardeazabal-Gutierrez, Erik B. Terres-Escudero, Pablo García Bringas|[2409.14831](http://arxiv.org/abs/2409.14831)|null|
@@ -1076,6 +1079,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Magic state cultivation: growing T states as cheap as CNOT gates**|Craig Gidney, Noah Shutty, Cody Jones|[2409.17595](http://arxiv.org/abs/2409.17595)|null|
 |**2024-09-25**|**Non-collapsing electric readout of arbitrary Andreev qubits**|Xian-Peng Zhang, Chuanchang Zeng, Zhen-Biao Yang, Jose Carlos Egues, Yugui Yao|[2409.17008](http://arxiv.org/abs/2409.17008)|null|
 |**2024-09-25**|**Fast unconditional reset and leakage reduction in fixed-frequency transmon qubits**|Liangyu Chen, Simon Pettersson Fors, Zixian Yan, Anaida Ali, Tahereh Abad, Amr Osman, Eleftherios Moschandreou, Benjamin Lienhard, Sandoko Kosen, Hang-Xi Li, Daryoush Shiri, Tong Liu, Stefan Hill, Abdullah-Al Amin, Robert Rehammar, Mamta Dahiya, Andreas Nylander, Marcus Rommel, Anita Fadavi Roudsari, Marco Caputo, Grönberg Leif, Joonas Govenius, Miroslav Dobsicek, Michele Faucci Giannelli, Anton Frisk Kockum, Jonas Bylander, Giovanna Tancredi|[2409.16748](http://arxiv.org/abs/2409.16748)|null|
 |**2024-09-25**|**Quantum error correction-inspired multiparameter quantum metrology**|Sivaprasad Omanakuttan, Jonathan A. Gross, T. J. Volkoff|[2409.16515](http://arxiv.org/abs/2409.16515)|null|

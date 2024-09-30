@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Unveiling Hidden Vulnerabilities in Quantum Systems by Expanding Attack Vectors through Heisenberg's Uncertainty Principle**|Jose R. Rosas-Bustos, Jesse Van Griensven The, Roydon Frayser|[2409.18471](http://arxiv.org/abs/2409.18471)|null|
 |**2024-09-25**|**Temporal Bell inequalities in a many-body system**|A. Tononi, M. Lewenstein|[2409.17290](http://arxiv.org/abs/2409.17290)|null|
 |**2024-09-25**|**Long-distance device-independent quantum key distribution using single-photon entanglement**|Anna Steffinlongo, Mariana Navarro, Marina Cenni, Xavier Valcarce, Antonio Acín, Enky Oudot|[2409.17075](http://arxiv.org/abs/2409.17075)|null|
 |**2024-09-25**|**From angular coefficients to quantum observables: a phenomenological appraisal in di-boson systems**|Michele Grossi, Giovanni Pelliccioli, Alessandro Vicini|[2409.16731](http://arxiv.org/abs/2409.16731)|null|
@@ -581,6 +582,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Quantum resource-theoretical analysis of the role of vibrational structure in photoisomerization**|Siddharth Tiwary, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio|[2409.18710](http://arxiv.org/abs/2409.18710)|null|
 |**2024-09-23**|**Effective Dynamics of Local Observables for Extended Fermi Gases in the High-Density Regime**|Luca Fresta, Marcello Porta, Benjamin Schlein|[2409.14841](http://arxiv.org/abs/2409.14841)|null|
 |**2024-09-15**|**An accurate vector optically pumped magnetometer with microwave-driven Rabi frequency measurements**|Christopher Kiehl, Thanmay S. Menon, Svenja Knappe, Tobias Thiele, Cindy A. Regal|[2409.09885](http://arxiv.org/abs/2409.09885)|null|
 |**2024-09-14**|**Quantum resource theory of coding for error correction**|Dong-Sheng Wang, Yuan-Dong Liu, Yun-Jiang Wang, Shunlong Luo|[2409.09416](http://arxiv.org/abs/2409.09416)|null|
@@ -1079,6 +1081,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Classification and regression of trajectories rendered as images via 2D Convolutional Neural Networks**|Mariaclaudia Nicolai, Raffaella Fiamma Cabini, Diego Ulisse Pizzagalli|[2409.18832](http://arxiv.org/abs/2409.18832)|null|
+|**2024-09-27**|**Fault-Tolerant Belief Propagation for Practical Quantum Memory**|Kao-Yueh Kuo, Ching-Yi Lai|[2409.18689](http://arxiv.org/abs/2409.18689)|null|
+|**2024-09-26**|**Fault-Tolerant Logical Clifford Gates from Code Automorphisms**|Hasan Sayginel, Stergios Koutsioumpas, Mark Webster, Abhishek Rajput, Dan E Browne|[2409.18175](http://arxiv.org/abs/2409.18175)|null|
 |**2024-09-26**|**Magic state cultivation: growing T states as cheap as CNOT gates**|Craig Gidney, Noah Shutty, Cody Jones|[2409.17595](http://arxiv.org/abs/2409.17595)|null|
 |**2024-09-25**|**Non-collapsing electric readout of arbitrary Andreev qubits**|Xian-Peng Zhang, Chuanchang Zeng, Zhen-Biao Yang, Jose Carlos Egues, Yugui Yao|[2409.17008](http://arxiv.org/abs/2409.17008)|null|
 |**2024-09-25**|**Fast unconditional reset and leakage reduction in fixed-frequency transmon qubits**|Liangyu Chen, Simon Pettersson Fors, Zixian Yan, Anaida Ali, Tahereh Abad, Amr Osman, Eleftherios Moschandreou, Benjamin Lienhard, Sandoko Kosen, Hang-Xi Li, Daryoush Shiri, Tong Liu, Stefan Hill, Abdullah-Al Amin, Robert Rehammar, Mamta Dahiya, Andreas Nylander, Marcus Rommel, Anita Fadavi Roudsari, Marco Caputo, Grönberg Leif, Joonas Govenius, Miroslav Dobsicek, Michele Faucci Giannelli, Anton Frisk Kockum, Jonas Bylander, Giovanna Tancredi|[2409.16748](http://arxiv.org/abs/2409.16748)|null|

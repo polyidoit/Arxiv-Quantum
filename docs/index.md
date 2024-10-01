@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-28**|**Device-independent full network nonlocality for arbitrary-party and unbounded-input scenario**|Sneha Munshi, A. K. Pan|[2409.19419](http://arxiv.org/abs/2409.19419)|null|
 |**2024-09-27**|**Unveiling Hidden Vulnerabilities in Quantum Systems by Expanding Attack Vectors through Heisenberg's Uncertainty Principle**|Jose R. Rosas-Bustos, Jesse Van Griensven The, Roydon Frayser|[2409.18471](http://arxiv.org/abs/2409.18471)|null|
 |**2024-09-25**|**Temporal Bell inequalities in a many-body system**|A. Tononi, M. Lewenstein|[2409.17290](http://arxiv.org/abs/2409.17290)|null|
 |**2024-09-25**|**Long-distance device-independent quantum key distribution using single-photon entanglement**|Anna Steffinlongo, Mariana Navarro, Marina Cenni, Xavier Valcarce, Antonio Acín, Enky Oudot|[2409.17075](http://arxiv.org/abs/2409.17075)|null|
@@ -391,7 +392,7 @@ layout: default
 |**2024-09-06**|**An Explicit Wavefunction of the Interacting Non-Hermitian Spin-1/2 1D System**|Yue Wang, Xiangyu Zhang, Zhesen Yang, Congjun Wu|[2409.04112](http://arxiv.org/abs/2409.04112)|null|
 |**2024-09-04**|**Fully polarized Fermi systems at finite temperature**|Krzysztof Myśliwy, Marek Napiórkowski|[2409.02568](http://arxiv.org/abs/2409.02568)|null|
 |**2024-08-14**|**Quantum obesity and steering ellipsoids for fermionic fields in Garfinkle-Horowitz-Strominger dilation spacetime**|Samira Elghaayda, M. Y. Abd-Rabbou, Mostafa Mansour|[2408.06869](http://arxiv.org/abs/2408.06869)|null|
-|**2024-08-09**|**Model-independent predictions for decays of double-heavy hadrons into pairs of heavy hadrons**|R. Bruschini|[2408.05150](http://arxiv.org/abs/2408.05150)|null|
+|**2024-09-30**|**Model-independent predictions for decays of double-heavy hadrons into pairs of heavy hadrons**|R. Bruschini|[2408.05150](http://arxiv.org/abs/2408.05150)|null|
 |**2024-08-07**|**Nucleon-quark mixed matter and neutron star EOS**|Y. Yamamoto, N. Yasutake, Th. A. Rijken|[2408.03812](http://arxiv.org/abs/2408.03812)|null|
 |**2024-08-05**|**Search for Pauli Exclusion Principle Violations with Gator at LNGS**|L. Baudis, R. Biondi, A. Bismark, A. Clozza, C. Curceanu, M. Galloway, F. Napolitano, F. Piastra, K. Piscicchia, A. Porcelli, D. Ramírez García|[2408.02500](http://arxiv.org/abs/2408.02500)|null|
 |**2024-08-01**|**Quantum Hamiltonian Embedding of Images for Data Reuploading Classifiers**|Peiyong Wang, Casey R. Myers, Lloyd C. L. Hollenberg, Udaya Parampalli|[2407.14055](http://arxiv.org/abs/2407.14055)|null|
@@ -746,6 +747,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**Higher-spin localized shocks**|Diandian Wang, Zi-Yue Wang|[2409.19785](http://arxiv.org/abs/2409.19785)|null|
 |**2024-09-25**|**Free Independence and the Noncrossing Partition Lattice in Dual-Unitary Quantum Circuits**|Hyaline Junhe Chen, Jonah Kudler-Flam|[2409.17226](http://arxiv.org/abs/2409.17226)|null|
 |**2024-09-24**|**A Butterfly Effect in Encoding-Decoding Quantum Circuits**|Emanuel Dallas, Faidon Andreadakis, Paolo Zanardi|[2409.16481](http://arxiv.org/abs/2409.16481)|null|
 |**2024-09-23**|**Founding Quantum Cryptography on Quantum Advantage, or, Towards Cryptography from #P-Hardness**|Dakshita Khurana, Kabir Tomer|[2409.15248](http://arxiv.org/abs/2409.15248)|null|
@@ -1081,6 +1083,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Covariant Quantum Error-Correcting Codes with Metrological Entanglement Advantage**|Cheng-Ju Lin, Zi-Wen Liu, Victor V. Albert, Alexey V. Gorshkov|[2409.20561](http://arxiv.org/abs/2409.20561)|null|
+|**2024-09-30**|**Universal quantum computing with a single arbitrary gate**|Zhong-Yi Ni, Yu-Sheng Zhao, Jin-Guo Liu|[2409.20025](http://arxiv.org/abs/2409.20025)|null|
+|**2024-09-29**|**Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation**|Xiaofeng Cong, Jing Zhang, Yeying Jin, Junming Hou, Yu Zhao, Jie Gui, James Tin-Yau Kwok, Yuan Yan Tang|[2409.19685](http://arxiv.org/abs/2409.19685)|**[link](https://github.com/xiaofeng-life/colorcode)**|
+|**2024-09-26**|**Exploring LLM-Driven Explanations for Quantum Algorithms**|Giordano d'Aloisio, Sophie Fortz, Carol Hanna, Daniel Fortunato, Avner Bensoussan, Eñaut Mendiluze Usandizaga, Federica Sarro|[2409.19028](http://arxiv.org/abs/2409.19028)|null|
 |**2024-09-27**|**Classification and regression of trajectories rendered as images via 2D Convolutional Neural Networks**|Mariaclaudia Nicolai, Raffaella Fiamma Cabini, Diego Ulisse Pizzagalli|[2409.18832](http://arxiv.org/abs/2409.18832)|null|
 |**2024-09-27**|**Fault-Tolerant Belief Propagation for Practical Quantum Memory**|Kao-Yueh Kuo, Ching-Yi Lai|[2409.18689](http://arxiv.org/abs/2409.18689)|null|
 |**2024-09-26**|**Fault-Tolerant Logical Clifford Gates from Code Automorphisms**|Hasan Sayginel, Stergios Koutsioumpas, Mark Webster, Abhishek Rajput, Dan E Browne|[2409.18175](http://arxiv.org/abs/2409.18175)|null|

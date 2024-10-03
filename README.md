@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Bounding conditional entropy of bipartite states with Bell operators**|Jan Horodecki, Piotr Mironowicz|[2410.01646](http://arxiv.org/abs/2410.01646)|null|
 |**2024-09-28**|**Device-independent full network nonlocality for arbitrary-party and unbounded-input scenario**|Sneha Munshi, A. K. Pan|[2409.19419](http://arxiv.org/abs/2409.19419)|null|
 |**2024-09-27**|**Unveiling Hidden Vulnerabilities in Quantum Systems by Expanding Attack Vectors through Heisenberg's Uncertainty Principle**|Jose R. Rosas-Bustos, Jesse Van Griensven The, Roydon Frayser|[2409.18471](http://arxiv.org/abs/2409.18471)|null|
 |**2024-09-25**|**Temporal Bell inequalities in a many-body system**|A. Tononi, M. Lewenstein|[2409.17290](http://arxiv.org/abs/2409.17290)|null|
@@ -315,6 +316,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-01**|**Quantum Bayes' rule and Petz transpose map from the minimal change principle**|Ge Bai, Francesco Buscemi, Valerio Scarani|[2410.00319](http://arxiv.org/abs/2410.00319)|null|
 |**2024-09-17**|**Knot invariants and indefinite causal order**|Samuel Fedida, Anne-Catherine de la Hamette, Viktoria Kabel, Časlav Brukner|[2409.11448](http://arxiv.org/abs/2409.11448)|null|
 |**2024-09-10**|**Accelerated detector in a superposed spacetime**|Lakshay Goel, Everett A. Patterson, María Rosa Preciado-Rivas, Mahdi Torabian, Robert B. Mann, Niayesh Afshordi|[2409.06818](http://arxiv.org/abs/2409.06818)|null|
 |**2024-09-04**|**Certifying Quantum Temporal Correlation via Randomized Measurements: Theory and Experiment**|Hongfeng Liu, Zhenhuan Liu, Shu Chen, Xinfang Nie, Xiangjing Liu, Dawei Lu|[2409.02470](http://arxiv.org/abs/2409.02470)|null|
@@ -600,6 +602,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Towards eliminating the nonlinear Kelvin wake**|Jack Keeler, Benjamin Binder, Mark Blyth|[2410.01255](http://arxiv.org/abs/2410.01255)|null|
 |**2024-09-27**|**Quantum resource-theoretical analysis of the role of vibrational structure in photoisomerization**|Siddharth Tiwary, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio|[2409.18710](http://arxiv.org/abs/2409.18710)|null|
 |**2024-09-23**|**Effective Dynamics of Local Observables for Extended Fermi Gases in the High-Density Regime**|Luca Fresta, Marcello Porta, Benjamin Schlein|[2409.14841](http://arxiv.org/abs/2409.14841)|null|
 |**2024-09-15**|**An accurate vector optically pumped magnetometer with microwave-driven Rabi frequency measurements**|Christopher Kiehl, Thanmay S. Menon, Svenja Knappe, Tobias Thiele, Cindy A. Regal|[2409.09885](http://arxiv.org/abs/2409.09885)|null|
@@ -1104,6 +1107,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**MaxSAT decoders for arbitrary CSS codes**|Mohammadreza Noormandipour, Tobias Haug|[2410.01673](http://arxiv.org/abs/2410.01673)|null|
+|**2024-10-02**|**Resource Estimation for Delayed Choice Quantum Entanglement Based Sneakernet Networks Using Neutral Atom qLDPC Memories**|S. Srikara, Andrew D. Greentree, Simon J. Devitt|[2410.01211](http://arxiv.org/abs/2410.01211)|null|
+|**2024-10-01**|**The quantum trajectory sensing problem and its solution**|Zachary E. Chin, Isaac L. Chuang|[2410.00893](http://arxiv.org/abs/2410.00893)|null|
+|**2024-09-30**|**Smallest quantum codes for amplitude damping noise**|Sourav Dutta, Aditya Jain, Prabha Mandayam|[2410.00155](http://arxiv.org/abs/2410.00155)|null|
 |**2024-09-30**|**Covariant Quantum Error-Correcting Codes with Metrological Entanglement Advantage**|Cheng-Ju Lin, Zi-Wen Liu, Victor V. Albert, Alexey V. Gorshkov|[2409.20561](http://arxiv.org/abs/2409.20561)|null|
 |**2024-09-30**|**Universal quantum computing with a single arbitrary gate**|Zhong-Yi Ni, Yu-Sheng Zhao, Jin-Guo Liu|[2409.20025](http://arxiv.org/abs/2409.20025)|null|
 |**2024-09-29**|**Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation**|Xiaofeng Cong, Jing Zhang, Yeying Jin, Junming Hou, Yu Zhao, Jie Gui, James Tin-Yau Kwok, Yuan Yan Tang|[2409.19685](http://arxiv.org/abs/2409.19685)|**[link](https://github.com/xiaofeng-life/colorcode)**|

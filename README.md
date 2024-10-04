@@ -316,6 +316,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Universal bounds in quantum metrology in presence of correlated noise**|Stanislaw Kurdzialek, Francesco Albarelli, Rafal Demkowicz-Dobrzanski|[2410.01881](http://arxiv.org/abs/2410.01881)|null|
 |**2024-10-01**|**Quantum Bayes' rule and Petz transpose map from the minimal change principle**|Ge Bai, Francesco Buscemi, Valerio Scarani|[2410.00319](http://arxiv.org/abs/2410.00319)|null|
 |**2024-09-17**|**Knot invariants and indefinite causal order**|Samuel Fedida, Anne-Catherine de la Hamette, Viktoria Kabel, Časlav Brukner|[2409.11448](http://arxiv.org/abs/2409.11448)|null|
 |**2024-09-10**|**Accelerated detector in a superposed spacetime**|Lakshay Goel, Everett A. Patterson, María Rosa Preciado-Rivas, Mahdi Torabian, Robert B. Mann, Niayesh Afshordi|[2409.06818](http://arxiv.org/abs/2409.06818)|null|
@@ -769,6 +770,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Beyond the ensemble paradigm in low dimensional quantum gravity: Schwarzian density, quantum chaos and wormhole contributions**|Fabian Haneder, Juan Diego Urbina, Camilo Moreno, Torsten Weber, Klaus Richter|[2410.02270](http://arxiv.org/abs/2410.02270)|null|
 |**2024-09-29**|**Higher-spin localized shocks**|Diandian Wang, Zi-Yue Wang|[2409.19785](http://arxiv.org/abs/2409.19785)|null|
 |**2024-09-25**|**Free Independence and the Noncrossing Partition Lattice in Dual-Unitary Quantum Circuits**|Hyaline Junhe Chen, Jonah Kudler-Flam|[2409.17226](http://arxiv.org/abs/2409.17226)|null|
 |**2024-09-24**|**A Butterfly Effect in Encoding-Decoding Quantum Circuits**|Emanuel Dallas, Faidon Andreadakis, Paolo Zanardi|[2409.16481](http://arxiv.org/abs/2409.16481)|null|
@@ -1107,6 +1109,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Variational Graphical Quantum Error Correction Codes: adjustable codes from topological insights**|Yuguo Shao, Fuchuan Wei, Zhaohui Wei, Zhengwei Liu|[2410.02608](http://arxiv.org/abs/2410.02608)|null|
+|**2024-10-03**|**Qudit-based quantum error-correcting codes from irreducible representations of SU(d)**|Robert Frederik Uy, Dorian A. Gangloff|[2410.02407](http://arxiv.org/abs/2410.02407)|null|
+|**2024-10-03**|**Competing automorphisms and disordered Floquet codes**|Cory T. Aitchison, Benjamin Béri|[2410.02398](http://arxiv.org/abs/2410.02398)|null|
+|**2024-10-03**|**Low-overhead fault-tolerant quantum computation by gauging logical operators**|Dominic J. Williamson, Theodore J. Yoder|[2410.02213](http://arxiv.org/abs/2410.02213)|null|
+|**2024-10-02**|**Simple Construction of Qudit Floquet Codes on a Family of Lattices**|Andrew Tanggara, Mile Gu, Kishor Bharti|[2410.02022](http://arxiv.org/abs/2410.02022)|null|
 |**2024-10-02**|**MaxSAT decoders for arbitrary CSS codes**|Mohammadreza Noormandipour, Tobias Haug|[2410.01673](http://arxiv.org/abs/2410.01673)|null|
 |**2024-10-02**|**Resource Estimation for Delayed Choice Quantum Entanglement Based Sneakernet Networks Using Neutral Atom qLDPC Memories**|S. Srikara, Andrew D. Greentree, Simon J. Devitt|[2410.01211](http://arxiv.org/abs/2410.01211)|null|
 |**2024-10-01**|**The quantum trajectory sensing problem and its solution**|Zachary E. Chin, Isaac L. Chuang|[2410.00893](http://arxiv.org/abs/2410.00893)|null|

@@ -770,6 +770,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Tensor Product Structure Geometry under Unitary Channels**|Faidon Andreadakis, Paolo Zanardi|[2410.02911](http://arxiv.org/abs/2410.02911)|null|
 |**2024-10-03**|**Beyond the ensemble paradigm in low dimensional quantum gravity: Schwarzian density, quantum chaos and wormhole contributions**|Fabian Haneder, Juan Diego Urbina, Camilo Moreno, Torsten Weber, Klaus Richter|[2410.02270](http://arxiv.org/abs/2410.02270)|null|
 |**2024-09-29**|**Higher-spin localized shocks**|Diandian Wang, Zi-Yue Wang|[2409.19785](http://arxiv.org/abs/2409.19785)|null|
 |**2024-09-25**|**Free Independence and the Noncrossing Partition Lattice in Dual-Unitary Quantum Circuits**|Hyaline Junhe Chen, Jonah Kudler-Flam|[2409.17226](http://arxiv.org/abs/2409.17226)|null|
@@ -1109,6 +1110,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Class of codes correcting absorptions and emissions**|Arda Aydin, Alexander Barg|[2410.03562](http://arxiv.org/abs/2410.03562)|null|
+|**2024-10-04**|**LEGO: QEC Decoding System Architecture for Dynamic Circuits**|Yue Wu, Namitha Liyanage, Lin Zhong|[2410.03073](http://arxiv.org/abs/2410.03073)|null|
 |**2024-10-03**|**Variational Graphical Quantum Error Correction Codes: adjustable codes from topological insights**|Yuguo Shao, Fuchuan Wei, Zhaohui Wei, Zhengwei Liu|[2410.02608](http://arxiv.org/abs/2410.02608)|null|
 |**2024-10-03**|**Qudit-based quantum error-correcting codes from irreducible representations of SU(d)**|Robert Frederik Uy, Dorian A. Gangloff|[2410.02407](http://arxiv.org/abs/2410.02407)|null|
 |**2024-10-03**|**Competing automorphisms and disordered Floquet codes**|Cory T. Aitchison, Benjamin Béri|[2410.02398](http://arxiv.org/abs/2410.02398)|null|

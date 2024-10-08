@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-06**|**Early Universe Cosmology with Coherent state as an Initial Choice**|Aurindam Mondal, Rathul Nath Raveendran|[2410.04608](http://arxiv.org/abs/2410.04608)|null|
+|**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-02**|**Bounding conditional entropy of bipartite states with Bell operators**|Jan Horodecki, Piotr Mironowicz|[2410.01646](http://arxiv.org/abs/2410.01646)|null|
 |**2024-09-28**|**Device-independent full network nonlocality for arbitrary-party and unbounded-input scenario**|Sneha Munshi, A. K. Pan|[2409.19419](http://arxiv.org/abs/2409.19419)|null|
 |**2024-09-27**|**Unveiling Hidden Vulnerabilities in Quantum Systems by Expanding Attack Vectors through Heisenberg's Uncertainty Principle**|Jose R. Rosas-Bustos, Jesse Van Griensven The, Roydon Frayser|[2409.18471](http://arxiv.org/abs/2409.18471)|null|
@@ -305,6 +307,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-06**|**Unitary Closed Timelike Curves can Solve all of NP**|Omri Shmueli|[2410.04630](http://arxiv.org/abs/2410.04630)|null|
 |**2024-10-02**|**Universal bounds in quantum metrology in presence of correlated noise**|Stanislaw Kurdzialek, Francesco Albarelli, Rafal Demkowicz-Dobrzanski|[2410.01881](http://arxiv.org/abs/2410.01881)|null|
 |**2024-10-01**|**Quantum Bayes' rule and Petz transpose map from the minimal change principle**|Ge Bai, Francesco Buscemi, Valerio Scarani|[2410.00319](http://arxiv.org/abs/2410.00319)|null|
 |**2024-09-17**|**Knot invariants and indefinite causal order**|Samuel Fedida, Anne-Catherine de la Hamette, Viktoria Kabel, Časlav Brukner|[2409.11448](http://arxiv.org/abs/2409.11448)|null|
@@ -492,6 +495,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
+|**2024-10-05**|**Probing quantum correlations in non-degenerate hyper-Raman process**|Moumita Das, Biswajit Sen, Ankur Sensharma, Kishore Thapliyal, Anirban Pathak|[2410.04007](http://arxiv.org/abs/2410.04007)|null|
 |**2024-09-21**|**Enhancing One-Way Steering and Non-Classical Correlations in Magnomechanics via Coherent Feedback**|Hamza Harraf, Noura Chabar, Mohamed Amazioug, Rachid Ahl Laamara|[2409.14139](http://arxiv.org/abs/2409.14139)|null|
 |**2024-09-10**|**Nonreciprocal tripartite entanglement and asymmetric Einstein-Podolsky-Rosen steering via directional quantum squeezing**|Ya-Feng Jiao, Jie Wang, Dong-Yang Wang, Lei Tang, Yan Wang, Yun-Lan Zuo, Wan-Su Bao, Le-Man Kuang, Hui Jing|[2409.06133](http://arxiv.org/abs/2409.06133)|null|
 |**2024-09-08**|**Gaussian geometric discord, entanglement and EPR-steering of two rotational mirrors in a double Laguerre-Gaussian cavity optomechanics in the presence of YIG sphere**|Noura Chabar, M'bark Amghar, S. K. Singh, Mohamed Amazioug|[2409.05111](http://arxiv.org/abs/2409.05111)|null|
@@ -586,6 +591,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-02**|**Towards eliminating the nonlinear Kelvin wake**|Jack Keeler, Benjamin Binder, Mark Blyth|[2410.01255](http://arxiv.org/abs/2410.01255)|null|
 |**2024-09-27**|**Quantum resource-theoretical analysis of the role of vibrational structure in photoisomerization**|Siddharth Tiwary, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio|[2409.18710](http://arxiv.org/abs/2409.18710)|null|
 |**2024-09-23**|**Effective Dynamics of Local Observables for Extended Fermi Gases in the High-Density Regime**|Luca Fresta, Marcello Porta, Benjamin Schlein|[2409.14841](http://arxiv.org/abs/2409.14841)|null|
@@ -751,6 +757,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Optimal Conversion from Classical to Quantum Randomness via Quantum Chaos**|Wai-Keong Mok, Tobias Haug, Adam L. Shaw, Manuel Endres, John Preskill|[2410.05181](http://arxiv.org/abs/2410.05181)|null|
+|**2024-10-07**|**Localization transitions in quadratic systems without quantum chaos**|Mateusz Lisiecki, Lev Vidmar, Patrycja Łydżba|[2410.05075](http://arxiv.org/abs/2410.05075)|null|
+|**2024-10-07**|**System Symmetry and the Classification of Out-of-Time-Ordered Correlator Dynamics in Quantum Chaos**|Fuxing Chen, Ping Fang|[2410.04712](http://arxiv.org/abs/2410.04712)|null|
+|**2024-10-04**|**Harnessing quantum chaos in spin-boson models for all-purpose quantum-enhanced sensing**|Yicheng Zhang, Juan Zuniga Castro, Robert J. Lewis-Swan|[2410.03965](http://arxiv.org/abs/2410.03965)|null|
 |**2024-10-03**|**Tensor Product Structure Geometry under Unitary Channels**|Faidon Andreadakis, Paolo Zanardi|[2410.02911](http://arxiv.org/abs/2410.02911)|null|
 |**2024-10-03**|**Beyond the ensemble paradigm in low dimensional quantum gravity: Schwarzian density, quantum chaos and wormhole contributions**|Fabian Haneder, Juan Diego Urbina, Camilo Moreno, Torsten Weber, Klaus Richter|[2410.02270](http://arxiv.org/abs/2410.02270)|null|
 |**2024-09-29**|**Higher-spin localized shocks**|Diandian Wang, Zi-Yue Wang|[2409.19785](http://arxiv.org/abs/2409.19785)|null|
@@ -1089,6 +1099,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Demonstrating real-time and low-latency quantum error correction with superconducting qubits**|Laura Caune, Luka Skoric, Nick S. Blunt, Archibald Ruban, Jimmy McDaniel, Joseph A. Valery, Andrew D. Patterson, Alexander V. Gramolin, Joonas Majaniemi, Kenton M. Barnes, Tomasz Bialas, Okan Buğdaycı, Ophelia Crawford, György P. Gehér, Hari Krovi, Elisha Matekole, Canberk Topal, Stefano Poletto, Michael Bryant, Kalan Snyder, Neil I. Gillespie, Glenn Jones, Kauser Johar, Earl T. Campbell, Alexander D. Hill|[2410.05202](http://arxiv.org/abs/2410.05202)|null|
+|**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong|[2410.05171](http://arxiv.org/abs/2410.05171)|null|
+|**2024-10-05**|**Entanglement-assisted Quantum Error Correcting Code Saturating The Classical Singleton Bound**|Soham Ghosh, Evagoras Stylianou, Holger Boche|[2410.04130](http://arxiv.org/abs/2410.04130)|null|
 |**2024-10-04**|**Class of codes correcting absorptions and emissions**|Arda Aydin, Alexander Barg|[2410.03562](http://arxiv.org/abs/2410.03562)|null|
 |**2024-10-04**|**LEGO: QEC Decoding System Architecture for Dynamic Circuits**|Yue Wu, Namitha Liyanage, Lin Zhong|[2410.03073](http://arxiv.org/abs/2410.03073)|null|
 |**2024-10-03**|**Variational Graphical Quantum Error Correction Codes: adjustable codes from topological insights**|Yuguo Shao, Fuchuan Wei, Zhaohui Wei, Zhengwei Liu|[2410.02608](http://arxiv.org/abs/2410.02608)|null|

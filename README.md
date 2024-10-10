@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Experimental quantum triangle network nonlocality with an AlGaAs multiplexed entangled photon source**|Othmane Meskine, Ivan Šupić, Damian Markham, Félicien Appas, Fabien Boitier, Martina Morassi, Aristide Lemaître, Maria Ines Amanti, Florent Baboux, Eleni Diamanti, Sara Ducci|[2410.06860](http://arxiv.org/abs/2410.06860)|null|
+|**2024-10-09**|**Experimental single-copy distillation of quantumness from higher-dimensional entanglement**|Xiao-Xu Fang, Gelo Noel M. Tabia, Kai-Siang Chen, Yeong-Cherng Liang, He Lu|[2410.06610](http://arxiv.org/abs/2410.06610)|null|
 |**2024-10-06**|**Early Universe Cosmology with Coherent state as an Initial Choice**|Aurindam Mondal, Rathul Nath Raveendran|[2410.04608](http://arxiv.org/abs/2410.04608)|null|
 |**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-08**|**Bounding conditional entropy of bipartite states with Bell operators**|Jan Horodecki, Piotr Mironowicz|[2410.01646](http://arxiv.org/abs/2410.01646)|null|
@@ -405,6 +407,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-08**|**On Principles and Representations for Extended Contextuality**|Matt Jones|[2410.05723](http://arxiv.org/abs/2410.05723)|null|
 |**2024-09-26**|**Atom graph, partial Boolean algebra and quantum contextuality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Jian Yan, Heng Zhou|[2409.17651](http://arxiv.org/abs/2409.17651)|null|
 |**2024-09-04**|**Foundations of Quantum Contextual Topos: Integrating Modality and Topos Theory in Quantum Logic**|Jesse Werbow|[2409.12198](http://arxiv.org/abs/2409.12198)|null|
 |**2024-09-16**|**Exploring Quantum Contextuality with the Quantum Moebius-Escher-Penrose hypergraph**|Mirko Navara, Karl Svozil|[2409.10179](http://arxiv.org/abs/2409.10179)|null|
@@ -776,6 +779,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Mpemba Meets Quantum Chaos: Anomalous Relaxation and Mpemba Crossings in Dissipative Sachdev-Ye-Kitaev Models**|Xuanhua Wang, Jie Su, Jin Wang|[2410.06669](http://arxiv.org/abs/2410.06669)|null|
+|**2024-10-08**|**Quasiclassical theory of out-of-time-ordered correlators**|Thomas R. Michel, Juan Diego Urbina, Peter Schlagheck|[2410.06064](http://arxiv.org/abs/2410.06064)|null|
 |**2024-10-07**|**Optimal Conversion from Classical to Quantum Randomness via Quantum Chaos**|Wai-Keong Mok, Tobias Haug, Adam L. Shaw, Manuel Endres, John Preskill|[2410.05181](http://arxiv.org/abs/2410.05181)|null|
 |**2024-10-07**|**Localization transitions in quadratic systems without quantum chaos**|Mateusz Lisiecki, Lev Vidmar, Patrycja Łydżba|[2410.05075](http://arxiv.org/abs/2410.05075)|null|
 |**2024-10-07**|**System Symmetry and the Classification of Out-of-Time-Ordered Correlator Dynamics in Quantum Chaos**|Fuxing Chen, Ping Fang|[2410.04712](http://arxiv.org/abs/2410.04712)|null|
@@ -1120,9 +1125,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Enhanced Fault-tolerance in Photonic Quantum Computing: Floquet Code Outperforms Surface Code in Tailored Architecture**|Paul Hilaire, Théo Dessertaine, Boris Bourdoncle, Aurélie Denys, Grégoire de Gliniasty, Gerard Valentí-Rojas, Shane Mansfield|[2410.07065](http://arxiv.org/abs/2410.07065)|null|
+|**2024-10-09**|**Universal transversal gates**|Pragati Gupta, Andrea Morello, Barry C. Sanders|[2410.07045](http://arxiv.org/abs/2410.07045)|null|
+|**2024-10-09**|**Engineering the Nonlinearity of Bosonic Modes with a Multi-loop SQUID**|Ziyue Hua, Yifang Xu, Weiting Wang, Yuwei Ma, Jie Zhou, Weizhou Cai, Hao Ai, Yu-xi Liu, Ming Li, Chang-Ling Zou, Luyan Sun|[2410.06904](http://arxiv.org/abs/2410.06904)|null|
+|**2024-10-08**|**An Optimized Nearest Neighbor Compliant Quantum Circuit for 5-qubit Code**|Arijit Mondal, Keshab K. Parhi|[2410.06375](http://arxiv.org/abs/2410.06375)|null|
+|**2024-10-08**|**Experimental realization of direct entangling gates between dual-type qubits**|Chenxi Wang, Chuanxin Huang, Hongxuan Zhang, Hongyuan Hu, Zhichao Mao, Panyu Hou, Yukai Wu, Zichao Zhou, Luming Duan|[2410.05659](http://arxiv.org/abs/2410.05659)|null|
 |**2024-10-07**|**Demonstrating real-time and low-latency quantum error correction with superconducting qubits**|Laura Caune, Luka Skoric, Nick S. Blunt, Archibald Ruban, Jimmy McDaniel, Joseph A. Valery, Andrew D. Patterson, Alexander V. Gramolin, Joonas Majaniemi, Kenton M. Barnes, Tomasz Bialas, Okan Buğdaycı, Ophelia Crawford, György P. Gehér, Hari Krovi, Elisha Matekole, Canberk Topal, Stefano Poletto, Michael Bryant, Kalan Snyder, Neil I. Gillespie, Glenn Jones, Kauser Johar, Earl T. Campbell, Alexander D. Hill|[2410.05202](http://arxiv.org/abs/2410.05202)|null|
 |**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong|[2410.05171](http://arxiv.org/abs/2410.05171)|null|
-|**2024-10-05**|**Entanglement-assisted Quantum Error Correcting Code Saturating The Classical Singleton Bound**|Soham Ghosh, Evagoras Stylianou, Holger Boche|[2410.04130](http://arxiv.org/abs/2410.04130)|null|
+|**2024-10-09**|**Entanglement-assisted Quantum Error Correcting Code Saturating The Classical Singleton Bound**|Soham Ghosh, Evagoras Stylianou, Holger Boche|[2410.04130](http://arxiv.org/abs/2410.04130)|null|
 |**2024-10-04**|**Class of codes correcting absorptions and emissions**|Arda Aydin, Alexander Barg|[2410.03562](http://arxiv.org/abs/2410.03562)|null|
 |**2024-10-04**|**LEGO: QEC Decoding System Architecture for Dynamic Circuits**|Yue Wu, Namitha Liyanage, Lin Zhong|[2410.03073](http://arxiv.org/abs/2410.03073)|null|
 |**2024-10-03**|**Variational Graphical Quantum Error Correction Codes: adjustable codes from topological insights**|Yuguo Shao, Fuchuan Wei, Zhaohui Wei, Zhengwei Liu|[2410.02608](http://arxiv.org/abs/2410.02608)|null|

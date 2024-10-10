@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 
 ## Bell nonlocality
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-06**|**Early Universe Cosmology with Coherent state as an Initial Choice**|Aurindam Mondal, Rathul Nath Raveendran|[2410.04608](http://arxiv.org/abs/2410.04608)|null|
 |**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
-|**2024-10-02**|**Bounding conditional entropy of bipartite states with Bell operators**|Jan Horodecki, Piotr Mironowicz|[2410.01646](http://arxiv.org/abs/2410.01646)|null|
+|**2024-10-08**|**Bounding conditional entropy of bipartite states with Bell operators**|Jan Horodecki, Piotr Mironowicz|[2410.01646](http://arxiv.org/abs/2410.01646)|null|
 |**2024-09-28**|**Device-independent full network nonlocality for arbitrary-party and unbounded-input scenario**|Sneha Munshi, A. K. Pan|[2409.19419](http://arxiv.org/abs/2409.19419)|null|
 |**2024-09-27**|**Unveiling Hidden Vulnerabilities in Quantum Systems by Expanding Attack Vectors through Heisenberg's Uncertainty Principle**|Jose R. Rosas-Bustos, Jesse Van Griensven The, Roydon Frayser|[2409.18471](http://arxiv.org/abs/2409.18471)|null|
 |**2024-09-25**|**Temporal Bell inequalities in a many-body system**|A. Tononi, M. Lewenstein|[2409.17290](http://arxiv.org/abs/2409.17290)|null|

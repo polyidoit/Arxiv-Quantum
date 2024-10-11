@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 
 ## Bell nonlocality
 
@@ -1113,7 +1113,7 @@ layout: default
 |**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong|[2410.05171](http://arxiv.org/abs/2410.05171)|null|
 |**2024-10-09**|**Entanglement-assisted Quantum Error Correcting Code Saturating The Classical Singleton Bound**|Soham Ghosh, Evagoras Stylianou, Holger Boche|[2410.04130](http://arxiv.org/abs/2410.04130)|null|
 |**2024-10-04**|**Class of codes correcting absorptions and emissions**|Arda Aydin, Alexander Barg|[2410.03562](http://arxiv.org/abs/2410.03562)|null|
-|**2024-10-04**|**LEGO: QEC Decoding System Architecture for Dynamic Circuits**|Yue Wu, Namitha Liyanage, Lin Zhong|[2410.03073](http://arxiv.org/abs/2410.03073)|null|
+|**2024-10-09**|**LEGO: QEC Decoding System Architecture for Dynamic Circuits**|Yue Wu, Namitha Liyanage, Lin Zhong|[2410.03073](http://arxiv.org/abs/2410.03073)|null|
 |**2024-10-03**|**Variational Graphical Quantum Error Correction Codes: adjustable codes from topological insights**|Yuguo Shao, Fuchuan Wei, Zhaohui Wei, Zhengwei Liu|[2410.02608](http://arxiv.org/abs/2410.02608)|null|
 |**2024-10-03**|**Qudit-based quantum error-correcting codes from irreducible representations of SU(d)**|Robert Frederik Uy, Dorian A. Gangloff|[2410.02407](http://arxiv.org/abs/2410.02407)|null|
 |**2024-10-03**|**Competing automorphisms and disordered Floquet codes**|Cory T. Aitchison, Benjamin Béri|[2410.02398](http://arxiv.org/abs/2410.02398)|null|

@@ -611,6 +611,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**A 3D-Printed Table for Hybrid X-ray CT and Optical Imaging of a Live Mouse**|Wenxuan Xue, Yuxuan Liang, Mengzhou Li, Shan Gao, Xavier R. Intes, Ge Wang|[2410.07517](http://arxiv.org/abs/2410.07517)|null|
 |**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-02**|**Towards eliminating the nonlinear Kelvin wake**|Jack Keeler, Benjamin Binder, Mark Blyth|[2410.01255](http://arxiv.org/abs/2410.01255)|null|
 |**2024-09-27**|**Quantum resource-theoretical analysis of the role of vibrational structure in photoisomerization**|Siddharth Tiwary, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio|[2409.18710](http://arxiv.org/abs/2409.18710)|null|
@@ -1125,6 +1126,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Characterizing Quantum Codes via the Coefficients in Knill-Laflamme Conditions**|Mengxin Du, Chao Zhang, Yiu-Tung Poon, Bei Zeng|[2410.07983](http://arxiv.org/abs/2410.07983)|null|
+|**2024-10-10**|**Minimal Trellises for non-Degenerate and Degenerate Decoding of Quantum Stabilizer Codes**|Evagoras Stylianou, Vladimir Sidorenko, Christian Deppe, Holger Boche|[2410.07897](http://arxiv.org/abs/2410.07897)|null|
+|**2024-10-10**|**Thresholds for post-selected quantum error correction from statistical mechanics**|Lucas H. English, Dominic J. Williamson, Stephen D. Bartlett|[2410.07598](http://arxiv.org/abs/2410.07598)|null|
+|**2024-10-10**|**Geometric structure and transversal logic of quantum Reed-Muller codes**|Alexander Barg, Nolan J. Coble, Dominik Hangleiter, Christopher Kang|[2410.07595](http://arxiv.org/abs/2410.07595)|null|
+|**2024-10-09**|**Fiber Bundle Fault Tolerance of GKP Codes**|Ansgar G. Burchards, Steven T. Flammia, Jonathan Conrad|[2410.07332](http://arxiv.org/abs/2410.07332)|null|
+|**2024-10-09**|**Code switching revisited: low-overhead magic state preparation using color codes**|Lucas Daguerre, Isaac H. Kim|[2410.07327](http://arxiv.org/abs/2410.07327)|null|
 |**2024-10-09**|**Enhanced Fault-tolerance in Photonic Quantum Computing: Floquet Code Outperforms Surface Code in Tailored Architecture**|Paul Hilaire, Théo Dessertaine, Boris Bourdoncle, Aurélie Denys, Grégoire de Gliniasty, Gerard Valentí-Rojas, Shane Mansfield|[2410.07065](http://arxiv.org/abs/2410.07065)|null|
 |**2024-10-09**|**Universal transversal gates**|Pragati Gupta, Andrea Morello, Barry C. Sanders|[2410.07045](http://arxiv.org/abs/2410.07045)|null|
 |**2024-10-09**|**Engineering the Nonlinearity of Bosonic Modes with a Multi-loop SQUID**|Ziyue Hua, Yifang Xu, Weiting Wang, Yuwei Ma, Jie Zhou, Weizhou Cai, Hao Ai, Yu-xi Liu, Ming Li, Chang-Ling Zou, Luyan Sun|[2410.06904](http://arxiv.org/abs/2410.06904)|null|

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-01**|**Bell's inequality and the spooky actions at a distance**|Jorge Pinochet|[2410.11850](http://arxiv.org/abs/2410.11850)|null|
 |**2024-10-15**|**Relationship between average correlation and quantum steering for arbitrary two-qubit states**|youneng Guo, Xiangjun Chen, huping Peng, qinglong Tian|[2410.11219](http://arxiv.org/abs/2410.11219)|null|
 |**2024-10-14**|**Nonlocality under Jaynes-Cummings evolution: beyond pseudospin operators**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2410.10651](http://arxiv.org/abs/2410.10651)|null|
 |**2024-10-14**|**Prospects for measuring quark polarization and spin correlations in $b\bar{b}$ and $c\bar{c}$ samples at the LHC**|Yevgeny Kats, David Uzan|[2410.10564](http://arxiv.org/abs/2410.10564)|null|
@@ -599,6 +600,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Phase transitions for polyadic epidemic and voter models with multiscale groups**|Pia Steinmeyer, Jan Mölter, Christian Kuehn|[2410.12682](http://arxiv.org/abs/2410.12682)|null|
 |**2024-10-12**|**Multigrid methods for the Stokes problem on GPU systems**|Cu Cui, Guido Kanschat|[2410.09497](http://arxiv.org/abs/2410.09497)|null|
 |**2024-10-10**|**A 3D-Printed Table for Hybrid X-ray CT and Optical Imaging of a Live Mouse**|Wenxuan Xue, Yuxuan Liang, Mengzhou Li, Shan Gao, Xavier R. Intes, Ge Wang|[2410.07517](http://arxiv.org/abs/2410.07517)|null|
 |**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
@@ -1113,8 +1115,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Quantum subspace verification for error correction codes**|Junjie Chen, Pei Zeng, Qi Zhao, Xiongfeng Ma, You Zhou|[2410.12551](http://arxiv.org/abs/2410.12551)|null|
+|**2024-10-16**|**Dynamical weight reduction of Pauli measurements**|Julio C. Magdalena de la Fuente|[2410.12527](http://arxiv.org/abs/2410.12527)|null|
+|**2024-10-16**|**Unifying error-correcting code/Narain CFT correspondences via lattices over integers of cyclotomic fields**|Shun'ya Mizoguchi, Takumi Oikawa|[2410.12488](http://arxiv.org/abs/2410.12488)|null|
+|**2024-10-16**|**Continuous-Variable Fault-Tolerant Quantum Computation under General Noise**|Takaya Matsuura, Nicolas C. Menicucci, Hayata Yamasaki|[2410.12365](http://arxiv.org/abs/2410.12365)|null|
+|**2024-10-16**|**Elementary Constructions of Best Known Quantum Codes**|Nuh Aydin, Trang T. T. Nguyen, Long B. Tran|[2410.12167](http://arxiv.org/abs/2410.12167)|null|
+|**2024-10-15**|**Operator algebra and algorithmic construction of boundaries and defects in (2+1)D topological Pauli stabilizer codes**|Zijian Liang, Bowen Yang, Joseph T. Iosue, Yu-An Chen|[2410.11942](http://arxiv.org/abs/2410.11942)|null|
 |**2024-10-15**|**Khovanov homology and quantum error-correcting codes**|Milena Harned, Pranav Venkata Konda, Felix Shanglin Liu, Nikhil Mudumbi, Eric Yuang Shao, Zheheng Xiao|[2410.11252](http://arxiv.org/abs/2410.11252)|null|
-|**2024-10-14**|**Data-Aware Training Quality Monitoring and Certification for Reliable Deep Learning**|Farhang Yeganegi, Arian Eamaz, Mojtaba Soltanalian|[2410.10984](http://arxiv.org/abs/2410.10984)|null|
+|**2024-10-14**|**Data-Aware Training Quality Monitoring and Certification for Reliable Deep Learning**|Farhang Yeganegi, Arian Eamaz, Mojtaba Soltanalian|[2410.10984](http://arxiv.org/abs/2410.10984)|**[link](https://github.com/WaveOpt-Lab/YES-bound)**|
 |**2024-10-14**|**Application of zero-noise extrapolation-based quantum error mitigation to a silicon spin qubit**|Hanseo Sohn, Jaewon Jung, Jaemin Park, Hyeongyu Jang, Lucas E. A. Stehouwer, Davide Degli Esposti, Giordano Scappucci, Dohun Kim|[2410.10339](http://arxiv.org/abs/2410.10339)|null|
 |**2024-10-14**|**Wire Codes**|Nouédyn Baspin, Dominic Williamson|[2410.10194](http://arxiv.org/abs/2410.10194)|null|
 |**2024-10-11**|**Systematic construction of stabilizer codes via gauging abelian boundary symmetries**|Bram Vancraeynest-De Cuiper, José Garre-Rubio|[2410.09044](http://arxiv.org/abs/2410.09044)|null|

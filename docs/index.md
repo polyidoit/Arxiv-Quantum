@@ -2,12 +2,15 @@
 layout: default
 ---
 
-## Updated on 2024.10.14
+## Updated on 2024.10.17
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Relationship between average correlation and quantum steering for arbitrary two-qubit states**|youneng Guo, Xiangjun Chen, huping Peng, qinglong Tian|[2410.11219](http://arxiv.org/abs/2410.11219)|null|
+|**2024-10-14**|**Nonlocality under Jaynes-Cummings evolution: beyond pseudospin operators**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2410.10651](http://arxiv.org/abs/2410.10651)|null|
+|**2024-10-14**|**Prospects for measuring quark polarization and spin correlations in $b\bar{b}$ and $c\bar{c}$ samples at the LHC**|Yevgeny Kats, David Uzan|[2410.10564](http://arxiv.org/abs/2410.10564)|null|
 |**2024-10-09**|**Experimental quantum triangle network nonlocality with an AlGaAs multiplexed entangled photon source**|Othmane Meskine, Ivan Šupić, Damian Markham, Félicien Appas, Fabien Boitier, Martina Morassi, Aristide Lemaître, Maria Ines Amanti, Florent Baboux, Eleni Diamanti, Sara Ducci|[2410.06860](http://arxiv.org/abs/2410.06860)|null|
 |**2024-10-09**|**Experimental single-copy distillation of quantumness from higher-dimensional entanglement**|Xiao-Xu Fang, Gelo Noel M. Tabia, Kai-Siang Chen, Yeong-Cherng Liang, He Lu|[2410.06610](http://arxiv.org/abs/2410.06610)|null|
 |**2024-10-06**|**Early Universe Cosmology with Coherent state as an Initial Choice**|Aurindam Mondal, Rathul Nath Raveendran|[2410.04608](http://arxiv.org/abs/2410.04608)|null|
@@ -311,7 +314,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-06**|**Unitary Closed Timelike Curves can Solve all of NP**|Omri Shmueli|[2410.04630](http://arxiv.org/abs/2410.04630)|null|
 |**2024-10-02**|**Universal bounds in quantum metrology in presence of correlated noise**|Stanislaw Kurdzialek, Francesco Albarelli, Rafal Demkowicz-Dobrzanski|[2410.01881](http://arxiv.org/abs/2410.01881)|null|
-|**2024-10-01**|**Quantum Bayes' rule and Petz transpose map from the minimal change principle**|Ge Bai, Francesco Buscemi, Valerio Scarani|[2410.00319](http://arxiv.org/abs/2410.00319)|null|
+|**2024-10-14**|**Quantum Bayes' rule and Petz transpose map from the minimal change principle**|Ge Bai, Francesco Buscemi, Valerio Scarani|[2410.00319](http://arxiv.org/abs/2410.00319)|null|
 |**2024-09-17**|**Knot invariants and indefinite causal order**|Samuel Fedida, Anne-Catherine de la Hamette, Viktoria Kabel, Časlav Brukner|[2409.11448](http://arxiv.org/abs/2409.11448)|null|
 |**2024-09-10**|**Accelerated detector in a superposed spacetime**|Lakshay Goel, Everett A. Patterson, María Rosa Preciado-Rivas, Mahdi Torabian, Robert B. Mann, Niayesh Afshordi|[2409.06818](http://arxiv.org/abs/2409.06818)|null|
 |**2024-09-04**|**Certifying Quantum Temporal Correlation via Randomized Measurements: Theory and Experiment**|Hongfeng Liu, Zhenhuan Liu, Shu Chen, Xinfang Nie, Xiangjing Liu, Dawei Lu|[2409.02470](http://arxiv.org/abs/2409.02470)|null|
@@ -394,6 +397,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**A Method to Generate Multi-interval Pairwise Compatibility Graphs**|Seemab Hayat, Naveed Ahmed Azam|[2410.10525](http://arxiv.org/abs/2410.10525)|null|
 |**2024-10-08**|**On Principles and Representations for Extended Contextuality**|Matt Jones|[2410.05723](http://arxiv.org/abs/2410.05723)|null|
 |**2024-09-26**|**Atom graph, partial Boolean algebra and quantum contextuality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Jian Yan, Heng Zhou|[2409.17651](http://arxiv.org/abs/2409.17651)|null|
 |**2024-09-04**|**Foundations of Quantum Contextual Topos: Integrating Modality and Topos Theory in Quantum Logic**|Jesse Werbow|[2409.12198](http://arxiv.org/abs/2409.12198)|null|
@@ -498,6 +502,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Relationship between average correlation and quantum steering for arbitrary two-qubit states**|youneng Guo, Xiangjun Chen, huping Peng, qinglong Tian|[2410.11219](http://arxiv.org/abs/2410.11219)|null|
 |**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-05**|**Probing quantum correlations in non-degenerate hyper-Raman process**|Moumita Das, Biswajit Sen, Ankur Sensharma, Kishore Thapliyal, Anirban Pathak|[2410.04007](http://arxiv.org/abs/2410.04007)|null|
 |**2024-09-21**|**Enhancing One-Way Steering and Non-Classical Correlations in Magnomechanics via Coherent Feedback**|Hamza Harraf, Noura Chabar, Mohamed Amazioug, Rachid Ahl Laamara|[2409.14139](http://arxiv.org/abs/2409.14139)|null|
@@ -594,6 +599,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-12**|**Multigrid methods for the Stokes problem on GPU systems**|Cu Cui, Guido Kanschat|[2410.09497](http://arxiv.org/abs/2410.09497)|null|
 |**2024-10-10**|**A 3D-Printed Table for Hybrid X-ray CT and Optical Imaging of a Live Mouse**|Wenxuan Xue, Yuxuan Liang, Mengzhou Li, Shan Gao, Xavier R. Intes, Ge Wang|[2410.07517](http://arxiv.org/abs/2410.07517)|null|
 |**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-02**|**Towards eliminating the nonlinear Kelvin wake**|Jack Keeler, Benjamin Binder, Mark Blyth|[2410.01255](http://arxiv.org/abs/2410.01255)|null|
@@ -761,7 +767,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-09**|**Mpemba Meets Quantum Chaos: Anomalous Relaxation and Mpemba Crossings in Dissipative Sachdev-Ye-Kitaev Models**|Xuanhua Wang, Jie Su, Jin Wang|[2410.06669](http://arxiv.org/abs/2410.06669)|null|
+|**2024-10-15**|**Non-unitarity maximizing unraveling of open quantum dynamics**|Ruben Daraban, Fabrizio Salas-Ramírez, Johannes Schachenmayer|[2410.11690](http://arxiv.org/abs/2410.11690)|null|
+|**2024-10-14**|**Propagation of two-particle correlations across the chaotic phase for interacting bosons**|Óscar Dueñas, David Peña, Alberto Rodríguez|[2410.10571](http://arxiv.org/abs/2410.10571)|null|
+|**2024-10-13**|**Mpemba Meets Quantum Chaos: Anomalous Relaxation and Mpemba Crossings in Dissipative Sachdev-Ye-Kitaev Models**|Xuanhua Wang, Jie Su, Jin Wang|[2410.06669](http://arxiv.org/abs/2410.06669)|null|
 |**2024-10-08**|**Quasiclassical theory of out-of-time-ordered correlators**|Thomas R. Michel, Juan Diego Urbina, Peter Schlagheck|[2410.06064](http://arxiv.org/abs/2410.06064)|null|
 |**2024-10-07**|**Optimal Conversion from Classical to Quantum Randomness via Quantum Chaos**|Wai-Keong Mok, Tobias Haug, Adam L. Shaw, Manuel Endres, John Preskill|[2410.05181](http://arxiv.org/abs/2410.05181)|null|
 |**2024-10-07**|**Localization transitions in quadratic systems without quantum chaos**|Mateusz Lisiecki, Lev Vidmar, Patrycja Łydżba|[2410.05075](http://arxiv.org/abs/2410.05075)|null|
@@ -1105,6 +1113,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Khovanov homology and quantum error-correcting codes**|Milena Harned, Pranav Venkata Konda, Felix Shanglin Liu, Nikhil Mudumbi, Eric Yuang Shao, Zheheng Xiao|[2410.11252](http://arxiv.org/abs/2410.11252)|null|
+|**2024-10-14**|**Data-Aware Training Quality Monitoring and Certification for Reliable Deep Learning**|Farhang Yeganegi, Arian Eamaz, Mojtaba Soltanalian|[2410.10984](http://arxiv.org/abs/2410.10984)|null|
+|**2024-10-14**|**Application of zero-noise extrapolation-based quantum error mitigation to a silicon spin qubit**|Hanseo Sohn, Jaewon Jung, Jaemin Park, Hyeongyu Jang, Lucas E. A. Stehouwer, Davide Degli Esposti, Giordano Scappucci, Dohun Kim|[2410.10339](http://arxiv.org/abs/2410.10339)|null|
+|**2024-10-14**|**Wire Codes**|Nouédyn Baspin, Dominic Williamson|[2410.10194](http://arxiv.org/abs/2410.10194)|null|
+|**2024-10-11**|**Systematic construction of stabilizer codes via gauging abelian boundary symmetries**|Bram Vancraeynest-De Cuiper, José Garre-Rubio|[2410.09044](http://arxiv.org/abs/2410.09044)|null|
 |**2024-10-10**|**Characterizing Quantum Codes via the Coefficients in Knill-Laflamme Conditions**|Mengxin Du, Chao Zhang, Yiu-Tung Poon, Bei Zeng|[2410.07983](http://arxiv.org/abs/2410.07983)|null|
 |**2024-10-10**|**Minimal Trellises for non-Degenerate and Degenerate Decoding of Quantum Stabilizer Codes**|Evagoras Stylianou, Vladimir Sidorenko, Christian Deppe, Holger Boche|[2410.07897](http://arxiv.org/abs/2410.07897)|null|
 |**2024-10-10**|**Thresholds for post-selected quantum error correction from statistical mechanics**|Lucas H. English, Dominic J. Williamson, Stephen D. Bartlett|[2410.07598](http://arxiv.org/abs/2410.07598)|null|

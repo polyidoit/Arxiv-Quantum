@@ -617,6 +617,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Formalizing Hyperspaces and Operations on Subsets of Polish spaces over Abstract Exact Real Numbers**|Michal Konečný, Sewon Park, Holger Thies|[2410.13508](http://arxiv.org/abs/2410.13508)|null|
 |**2024-10-16**|**Phase transitions for polyadic epidemic and voter models with multiscale groups**|Pia Steinmeyer, Jan Mölter, Christian Kuehn|[2410.12682](http://arxiv.org/abs/2410.12682)|null|
 |**2024-10-12**|**Multigrid methods for the Stokes problem on GPU systems**|Cu Cui, Guido Kanschat|[2410.09497](http://arxiv.org/abs/2410.09497)|null|
 |**2024-10-10**|**A 3D-Printed Table for Hybrid X-ray CT and Optical Imaging of a Live Mouse**|Wenxuan Xue, Yuxuan Liang, Mengzhou Li, Shan Gao, Xavier R. Intes, Ge Wang|[2410.07517](http://arxiv.org/abs/2410.07517)|null|
@@ -788,6 +789,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Characterizing the support of semiclassical measures for higher-dimensional cat maps**|Elena Kim, Theresa C. Anderson, Robert J. Lemke Oliver|[2410.13449](http://arxiv.org/abs/2410.13449)|null|
 |**2024-10-15**|**Non-unitarity maximizing unraveling of open quantum dynamics**|Ruben Daraban, Fabrizio Salas-Ramírez, Johannes Schachenmayer|[2410.11690](http://arxiv.org/abs/2410.11690)|null|
 |**2024-10-14**|**Propagation of two-particle correlations across the chaotic phase for interacting bosons**|Óscar Dueñas, David Peña, Alberto Rodríguez|[2410.10571](http://arxiv.org/abs/2410.10571)|null|
 |**2024-10-13**|**Mpemba Meets Quantum Chaos: Anomalous Relaxation and Mpemba Crossings in Dissipative Sachdev-Ye-Kitaev Models**|Xuanhua Wang, Jie Su, Jin Wang|[2410.06669](http://arxiv.org/abs/2410.06669)|null|
@@ -1136,6 +1138,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**On the practicality of quantum sieving algorithms for the shortest vector problem**|Joao F. Doriguello, George Giapitzakis, Alessandro Luongo, Aditya Morolia|[2410.13759](http://arxiv.org/abs/2410.13759)|null|
+|**2024-10-17**|**Measurement-free, scalable and fault-tolerant universal quantum computing**|Friederike Butt, David F. Locher, Katharina Brechtelsbauer, Hans Peter Büchler, Markus Müller|[2410.13568](http://arxiv.org/abs/2410.13568)|null|
+|**2024-10-16**|**Single-shot and measurement-based quantum error correction via fault complexes**|Timo Hillmann, Guillaume Dauphinais, Ilan Tzitrin, Michael Vasmer|[2410.12963](http://arxiv.org/abs/2410.12963)|null|
 |**2024-10-16**|**Quantum subspace verification for error correction codes**|Junjie Chen, Pei Zeng, Qi Zhao, Xiongfeng Ma, You Zhou|[2410.12551](http://arxiv.org/abs/2410.12551)|null|
 |**2024-10-16**|**Dynamical weight reduction of Pauli measurements**|Julio C. Magdalena de la Fuente|[2410.12527](http://arxiv.org/abs/2410.12527)|null|
 |**2024-10-16**|**Unifying error-correcting code/Narain CFT correspondences via lattices over integers of cyclotomic fields**|Shun'ya Mizoguchi, Takumi Oikawa|[2410.12488](http://arxiv.org/abs/2410.12488)|null|

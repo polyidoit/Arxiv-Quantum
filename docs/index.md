@@ -398,6 +398,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**An abstract structure determines the contextuality degree of observable-based Kochen-Specker proofs**|Axel Muller, Alain Giorgetti|[2410.14463](http://arxiv.org/abs/2410.14463)|null|
 |**2024-10-15**|**A Method to Generate Multi-interval Pairwise Compatibility Graphs**|Seemab Hayat, Naveed Ahmed Azam|[2410.10525](http://arxiv.org/abs/2410.10525)|null|
 |**2024-10-08**|**On Principles and Representations for Extended Contextuality**|Matt Jones|[2410.05723](http://arxiv.org/abs/2410.05723)|null|
 |**2024-09-26**|**Atom graph, partial Boolean algebra and quantum contextuality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Jian Yan, Heng Zhou|[2409.17651](http://arxiv.org/abs/2409.17651)|null|
@@ -770,6 +771,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Nearly query-optimal classical shadow estimation of unitary channels**|Zihao Li, Changhao Yi, You Zhou, Huangjun Zhu|[2410.14538](http://arxiv.org/abs/2410.14538)|null|
 |**2024-10-17**|**Characterizing the support of semiclassical measures for higher-dimensional cat maps**|Elena Kim, Theresa C. Anderson, Robert J. Lemke Oliver|[2410.13449](http://arxiv.org/abs/2410.13449)|null|
 |**2024-10-15**|**Non-unitarity maximizing unraveling of open quantum dynamics**|Ruben Daraban, Fabrizio Salas-Ramírez, Johannes Schachenmayer|[2410.11690](http://arxiv.org/abs/2410.11690)|null|
 |**2024-10-14**|**Propagation of two-particle correlations across the chaotic phase for interacting bosons**|Óscar Dueñas, David Peña, Alberto Rodríguez|[2410.10571](http://arxiv.org/abs/2410.10571)|null|
@@ -1117,6 +1119,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Quantum LDPC Codes with Transversal Non-Clifford Gates via Products of Algebraic Codes**|Louis Golowich, Ting-Chun Lin|[2410.14662](http://arxiv.org/abs/2410.14662)|null|
+|**2024-10-18**|**Surpassing the fundamental limits of distillation with catalysts**|Kun Fang, Zi-Wen Liu|[2410.14547](http://arxiv.org/abs/2410.14547)|null|
+|**2024-10-18**|**Neural Real-Time Recalibration for Infrared Multi-Camera Systems**|Benyamin Mehmandar, Reza Talakoob, Charalambos Poullis|[2410.14505](http://arxiv.org/abs/2410.14505)|**[link](https://github.com/theictlab/neural-recalibration)**|
 |**2024-10-17**|**On the practicality of quantum sieving algorithms for the shortest vector problem**|Joao F. Doriguello, George Giapitzakis, Alessandro Luongo, Aditya Morolia|[2410.13759](http://arxiv.org/abs/2410.13759)|null|
 |**2024-10-17**|**Measurement-free, scalable and fault-tolerant universal quantum computing**|Friederike Butt, David F. Locher, Katharina Brechtelsbauer, Hans Peter Büchler, Markus Müller|[2410.13568](http://arxiv.org/abs/2410.13568)|null|
 |**2024-10-16**|**Single-shot and measurement-based quantum error correction via fault complexes**|Timo Hillmann, Guillaume Dauphinais, Ilan Tzitrin, Michael Vasmer|[2410.12963](http://arxiv.org/abs/2410.12963)|null|

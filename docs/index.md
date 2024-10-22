@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 
 ## Bell nonlocality
 
@@ -15,7 +15,7 @@ layout: default
 |**2024-10-09**|**Experimental quantum triangle network nonlocality with an AlGaAs multiplexed entangled photon source**|Othmane Meskine, Ivan Šupić, Damian Markham, Félicien Appas, Fabien Boitier, Martina Morassi, Aristide Lemaître, Maria Ines Amanti, Florent Baboux, Eleni Diamanti, Sara Ducci|[2410.06860](http://arxiv.org/abs/2410.06860)|null|
 |**2024-10-09**|**Experimental single-copy distillation of quantumness from higher-dimensional entanglement**|Xiao-Xu Fang, Gelo Noel M. Tabia, Kai-Siang Chen, Yeong-Cherng Liang, He Lu|[2410.06610](http://arxiv.org/abs/2410.06610)|null|
 |**2024-10-06**|**Early Universe Cosmology with Coherent state as an Initial Choice**|Aurindam Mondal, Rathul Nath Raveendran|[2410.04608](http://arxiv.org/abs/2410.04608)|null|
-|**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
+|**2024-10-20**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-08**|**Bounding conditional entropy of bipartite states with Bell operators**|Jan Horodecki, Piotr Mironowicz|[2410.01646](http://arxiv.org/abs/2410.01646)|null|
 |**2024-09-28**|**Device-independent full network nonlocality for arbitrary-party and unbounded-input scenario**|Sneha Munshi, A. K. Pan|[2409.19419](http://arxiv.org/abs/2409.19419)|null|
 |**2024-09-27**|**Unveiling Hidden Vulnerabilities in Quantum Systems by Expanding Attack Vectors through Heisenberg's Uncertainty Principle**|Jose R. Rosas-Bustos, Jesse Van Griensven The, Roydon Frayser|[2409.18471](http://arxiv.org/abs/2409.18471)|null|
@@ -505,7 +505,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-15**|**Relationship between average correlation and quantum steering for arbitrary two-qubit states**|youneng Guo, Xiangjun Chen, huping Peng, qinglong Tian|[2410.11219](http://arxiv.org/abs/2410.11219)|null|
-|**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
+|**2024-10-20**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-05**|**Probing quantum correlations in non-degenerate hyper-Raman process**|Moumita Das, Biswajit Sen, Ankur Sensharma, Kishore Thapliyal, Anirban Pathak|[2410.04007](http://arxiv.org/abs/2410.04007)|null|
 |**2024-09-21**|**Enhancing One-Way Steering and Non-Classical Correlations in Magnomechanics via Coherent Feedback**|Hamza Harraf, Noura Chabar, Mohamed Amazioug, Rachid Ahl Laamara|[2409.14139](http://arxiv.org/abs/2409.14139)|null|
 |**2024-09-10**|**Nonreciprocal tripartite entanglement and asymmetric Einstein-Podolsky-Rosen steering via directional quantum squeezing**|Ya-Feng Jiao, Jie Wang, Dong-Yang Wang, Lei Tang, Yan Wang, Yun-Lan Zuo, Wan-Su Bao, Le-Man Kuang, Hui Jing|[2409.06133](http://arxiv.org/abs/2409.06133)|null|
@@ -605,7 +605,7 @@ layout: default
 |**2024-10-16**|**Phase transitions for polyadic epidemic and voter models with multiscale groups**|Pia Steinmeyer, Jan Mölter, Christian Kuehn|[2410.12682](http://arxiv.org/abs/2410.12682)|null|
 |**2024-10-12**|**Multigrid methods for the Stokes problem on GPU systems**|Cu Cui, Guido Kanschat|[2410.09497](http://arxiv.org/abs/2410.09497)|null|
 |**2024-10-10**|**A 3D-Printed Table for Hybrid X-ray CT and Optical Imaging of a Live Mouse**|Wenxuan Xue, Yuxuan Liang, Mengzhou Li, Shan Gao, Xavier R. Intes, Ge Wang|[2410.07517](http://arxiv.org/abs/2410.07517)|null|
-|**2024-10-06**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
+|**2024-10-20**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-02**|**Towards eliminating the nonlinear Kelvin wake**|Jack Keeler, Benjamin Binder, Mark Blyth|[2410.01255](http://arxiv.org/abs/2410.01255)|null|
 |**2024-09-27**|**Quantum resource-theoretical analysis of the role of vibrational structure in photoisomerization**|Siddharth Tiwary, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio|[2409.18710](http://arxiv.org/abs/2409.18710)|null|
 |**2024-09-23**|**Effective Dynamics of Local Observables for Extended Fermi Gases in the High-Density Regime**|Luca Fresta, Marcello Porta, Benjamin Schlein|[2409.14841](http://arxiv.org/abs/2409.14841)|null|

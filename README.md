@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**Bound entangled states are useful in prepare-and-measure scenarios**|Carles Roch i Carceller, Armin Tavakoli|[2410.15388](http://arxiv.org/abs/2410.15388)|null|
+|**2024-10-19**|**Network Nonlocality Without Entanglement Of All Sources**|Kaushiki Mukherjee, Biswajit Paul|[2410.15131](http://arxiv.org/abs/2410.15131)|null|
 |**2024-10-01**|**Bell's inequality and the spooky actions at a distance**|Jorge Pinochet|[2410.11850](http://arxiv.org/abs/2410.11850)|null|
 |**2024-10-15**|**Relationship between average correlation and quantum steering for arbitrary two-qubit states**|youneng Guo, Xiangjun Chen, huping Peng, qinglong Tian|[2410.11219](http://arxiv.org/abs/2410.11219)|null|
 |**2024-10-14**|**Nonlocality under Jaynes-Cummings evolution: beyond pseudospin operators**|Alexander Bernal, J. Alberto Casas, Jesus M. Moreno|[2410.10651](http://arxiv.org/abs/2410.10651)|null|
@@ -411,6 +413,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Effects of graph operations on star pairwise compatibility graphs**|Angelo Monti, Blerina Sinaimeri|[2410.16023](http://arxiv.org/abs/2410.16023)|null|
+|**2024-10-21**|**Event-based contextuality theory**|Songyi Liu, Yongjun Wang, Baoshan Wang|[2410.15790](http://arxiv.org/abs/2410.15790)|null|
 |**2024-10-18**|**An abstract structure determines the contextuality degree of observable-based Kochen-Specker proofs**|Axel Muller, Alain Giorgetti|[2410.14463](http://arxiv.org/abs/2410.14463)|null|
 |**2024-10-15**|**A Method to Generate Multi-interval Pairwise Compatibility Graphs**|Seemab Hayat, Naveed Ahmed Azam|[2410.10525](http://arxiv.org/abs/2410.10525)|null|
 |**2024-10-08**|**On Principles and Representations for Extended Contextuality**|Matt Jones|[2410.05723](http://arxiv.org/abs/2410.05723)|null|
@@ -618,6 +622,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Dead-zone-free single-beam atomic magnetometer based on free-induction-decay of Rb atoms**|Shrey Mehta, G. K. Samanta, Raghwinder Singh Grewal|[2410.15663](http://arxiv.org/abs/2410.15663)|null|
 |**2024-10-17**|**Formalizing Hyperspaces and Operations on Subsets of Polish spaces over Abstract Exact Real Numbers**|Michal Konečný, Sewon Park, Holger Thies|[2410.13508](http://arxiv.org/abs/2410.13508)|null|
 |**2024-10-16**|**Phase transitions for polyadic epidemic and voter models with multiscale groups**|Pia Steinmeyer, Jan Mölter, Christian Kuehn|[2410.12682](http://arxiv.org/abs/2410.12682)|null|
 |**2024-10-12**|**Multigrid methods for the Stokes problem on GPU systems**|Cu Cui, Guido Kanschat|[2410.09497](http://arxiv.org/abs/2410.09497)|null|
@@ -790,6 +795,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Observation of anomalous information scrambling in a Rydberg atom array**|Xinhui Liang, Zongpei Yue, Yu-Xin Chao, Zhen-Xing Hua, Yige Lin, Meng Khoon Tey, Li You|[2410.16174](http://arxiv.org/abs/2410.16174)|null|
+|**2024-10-21**|**Hierarchical analytical approach to universal spectral correlations in Brownian Quantum Chaos**|Tara Kalsi, Alessandro Romito, Henning Schomerus|[2410.15872](http://arxiv.org/abs/2410.15872)|null|
+|**2024-10-20**|**Observation of quantum information collapse-and-revival in a strongly-interacting Rydberg atom array**|De-Sheng Xiang, Yao-Wen Zhang, Hao-Xiang Liu, Peng Zhou, Dong Yuan, Kuan Zhang, Shun-Yao Zhang, Biao Xu, Lu Liu, Yitong Li, Lin Li|[2410.15455](http://arxiv.org/abs/2410.15455)|null|
 |**2024-10-18**|**Nearly query-optimal classical shadow estimation of unitary channels**|Zihao Li, Changhao Yi, You Zhou, Huangjun Zhu|[2410.14538](http://arxiv.org/abs/2410.14538)|null|
 |**2024-10-17**|**Characterizing the support of semiclassical measures for higher-dimensional cat maps**|Elena Kim, Theresa C. Anderson, Robert J. Lemke Oliver|[2410.13449](http://arxiv.org/abs/2410.13449)|null|
 |**2024-10-15**|**Non-unitarity maximizing unraveling of open quantum dynamics**|Ruben Daraban, Fabrizio Salas-Ramírez, Johannes Schachenmayer|[2410.11690](http://arxiv.org/abs/2410.11690)|null|
@@ -1140,6 +1148,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Cups and Gates I: Cohomology invariants and logical quantum operations**|Nikolas P. Breuckmann, Margarita Davydova, Jens N. Eberhardt, Nathanan Tantivasadakarn|[2410.16250](http://arxiv.org/abs/2410.16250)|null|
+|**2024-10-21**|**IGMaxHS -- An Incremental MaxSAT Solver with Support for XOR Clauses**|Ole Lübke|[2410.15897](http://arxiv.org/abs/2410.15897)|null|
+|**2024-10-18**|**LUCI in the Surface Code with Dropouts**|Dripto M. Debroy, Matt McEwen, Craig Gidney, Noah Shutty, Adam Zalcman|[2410.14891](http://arxiv.org/abs/2410.14891)|null|
 |**2024-10-18**|**Quantum LDPC Codes with Transversal Non-Clifford Gates via Products of Algebraic Codes**|Louis Golowich, Ting-Chun Lin|[2410.14662](http://arxiv.org/abs/2410.14662)|null|
 |**2024-10-18**|**Surpassing the fundamental limits of distillation with catalysts**|Kun Fang, Zi-Wen Liu|[2410.14547](http://arxiv.org/abs/2410.14547)|null|
 |**2024-10-18**|**Neural Real-Time Recalibration for Infrared Multi-Camera Systems**|Benyamin Mehmandar, Reza Talakoob, Charalambos Poullis|[2410.14505](http://arxiv.org/abs/2410.14505)|**[link](https://github.com/theictlab/neural-recalibration)**|

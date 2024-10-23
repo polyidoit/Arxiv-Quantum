@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Testing Bell inequalities and probing quantum entanglement at CEPC**|Youpeng Wu, Ruobing Jiang, Alim Ruzi, Yong Ban, Qiang Li|[2410.17025](http://arxiv.org/abs/2410.17025)|null|
+|**2024-10-22**|**Entanglement in Algebraic Quantum Field Theories**|Rafael Grossi|[2410.16599](http://arxiv.org/abs/2410.16599)|null|
 |**2024-10-20**|**Bound entangled states are useful in prepare-and-measure scenarios**|Carles Roch i Carceller, Armin Tavakoli|[2410.15388](http://arxiv.org/abs/2410.15388)|null|
 |**2024-10-19**|**Network Nonlocality Without Entanglement Of All Sources**|Kaushiki Mukherjee, Biswajit Paul|[2410.15131](http://arxiv.org/abs/2410.15131)|null|
 |**2024-10-01**|**Bell's inequality and the spooky actions at a distance**|Jorge Pinochet|[2410.11850](http://arxiv.org/abs/2410.11850)|null|
@@ -605,6 +607,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Strong symmetries in collision models and physical dilations of covariant quantum maps**|Marco Cattaneo|[2410.16907](http://arxiv.org/abs/2410.16907)|null|
 |**2024-10-21**|**Dead-zone-free single-beam atomic magnetometer based on free-induction-decay of Rb atoms**|Shrey Mehta, G. K. Samanta, Raghwinder Singh Grewal|[2410.15663](http://arxiv.org/abs/2410.15663)|null|
 |**2024-10-17**|**Formalizing Hyperspaces and Operations on Subsets of Polish spaces over Abstract Exact Real Numbers**|Michal Konečný, Sewon Park, Holger Thies|[2410.13508](http://arxiv.org/abs/2410.13508)|null|
 |**2024-10-16**|**Phase transitions for polyadic epidemic and voter models with multiscale groups**|Pia Steinmeyer, Jan Mölter, Christian Kuehn|[2410.12682](http://arxiv.org/abs/2410.12682)|null|
@@ -776,6 +779,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Semiclassical origin of suppressed quantum chaos in Rydberg chains**|Markus Müller, Ruslan Mushkaev|[2410.17223](http://arxiv.org/abs/2410.17223)|null|
+|**2024-10-22**|**Quantum many-body scars as remnants of stable many-body periodic orbits**|Keita Omiya|[2410.16916](http://arxiv.org/abs/2410.16916)|null|
+|**2024-10-22**|**TE-PAI: Exact Time Evolution by Sampling Random Circuits**|Chusei Kiumi, Bálint Koczor|[2410.16850](http://arxiv.org/abs/2410.16850)|null|
 |**2024-10-21**|**Observation of anomalous information scrambling in a Rydberg atom array**|Xinhui Liang, Zongpei Yue, Yu-Xin Chao, Zhen-Xing Hua, Yige Lin, Meng Khoon Tey, Li You|[2410.16174](http://arxiv.org/abs/2410.16174)|null|
 |**2024-10-21**|**Hierarchical analytical approach to universal spectral correlations in Brownian Quantum Chaos**|Tara Kalsi, Alessandro Romito, Henning Schomerus|[2410.15872](http://arxiv.org/abs/2410.15872)|null|
 |**2024-10-20**|**Observation of quantum information collapse-and-revival in a strongly-interacting Rydberg atom array**|De-Sheng Xiang, Yao-Wen Zhang, Hao-Xiang Liu, Peng Zhou, Dong Yuan, Kuan Zhang, Shun-Yao Zhang, Biao Xu, Lu Liu, Yitong Li, Lin Li|[2410.15455](http://arxiv.org/abs/2410.15455)|null|
@@ -1127,6 +1133,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Floquetifying stabiliser codes with distance-preserving rewrites**|Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger|[2410.17240](http://arxiv.org/abs/2410.17240)|null|
+|**2024-10-22**|**Engineering Fault-tolerant Bosonic Codes with Quantum Lattice Gates**|Lingzhen Guo, Tangyou Huang, Lei Du|[2410.17069](http://arxiv.org/abs/2410.17069)|null|
+|**2024-10-22**|**Integrating Window-Based Correlated Decoding with Constant-Time Logical Gates for Large-Scale Quantum Computation**|Jiaxuan Zhang, Zhao-Yun Chen, Jia-Ning Li, Tian-Hao Wei, Huan-Yu Liu, Xi-Ning Zhuang, Qing-Song Li, Yu-Chun Wu, Guo-Ping Guo|[2410.16963](http://arxiv.org/abs/2410.16963)|null|
+|**2024-10-22**|**Measuring error rates of mid-circuit measurements**|Daniel Hothem, Jordan Hines, Charles Baldwin, Dan Gresh, Robin Blume-Kohout, Timothy Proctor|[2410.16706](http://arxiv.org/abs/2410.16706)|null|
 |**2024-10-21**|**Cups and Gates I: Cohomology invariants and logical quantum operations**|Nikolas P. Breuckmann, Margarita Davydova, Jens N. Eberhardt, Nathanan Tantivasadakarn|[2410.16250](http://arxiv.org/abs/2410.16250)|null|
 |**2024-10-21**|**IGMaxHS -- An Incremental MaxSAT Solver with Support for XOR Clauses**|Ole Lübke|[2410.15897](http://arxiv.org/abs/2410.15897)|null|
 |**2024-10-18**|**LUCI in the Surface Code with Dropouts**|Dripto M. Debroy, Matt McEwen, Craig Gidney, Noah Shutty, Adam Zalcman|[2410.14891](http://arxiv.org/abs/2410.14891)|null|

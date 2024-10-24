@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 
 ## Bell nonlocality
 
@@ -780,7 +780,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-22**|**Semiclassical origin of suppressed quantum chaos in Rydberg chains**|Markus Müller, Ruslan Mushkaev|[2410.17223](http://arxiv.org/abs/2410.17223)|null|
-|**2024-10-22**|**Quantum many-body scars as remnants of stable many-body periodic orbits**|Keita Omiya|[2410.16916](http://arxiv.org/abs/2410.16916)|null|
+|**2024-10-23**|**Quantum many-body scars as remnants of stable many-body periodic orbits**|Keita Omiya|[2410.16916](http://arxiv.org/abs/2410.16916)|null|
 |**2024-10-22**|**TE-PAI: Exact Time Evolution by Sampling Random Circuits**|Chusei Kiumi, Bálint Koczor|[2410.16850](http://arxiv.org/abs/2410.16850)|null|
 |**2024-10-21**|**Observation of anomalous information scrambling in a Rydberg atom array**|Xinhui Liang, Zongpei Yue, Yu-Xin Chao, Zhen-Xing Hua, Yige Lin, Meng Khoon Tey, Li You|[2410.16174](http://arxiv.org/abs/2410.16174)|null|
 |**2024-10-21**|**Hierarchical analytical approach to universal spectral correlations in Brownian Quantum Chaos**|Tara Kalsi, Alessandro Romito, Henning Schomerus|[2410.15872](http://arxiv.org/abs/2410.15872)|null|

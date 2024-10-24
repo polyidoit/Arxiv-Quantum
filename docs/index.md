@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**An improved Bell-CHSH observable for gauge boson pairs**|Radosław Grabarczyk|[2410.18022](http://arxiv.org/abs/2410.18022)|null|
+|**2024-10-23**|**Testing local realistic hidden-variable theories without inequalities**|Andrea Aiello|[2410.17912](http://arxiv.org/abs/2410.17912)|null|
 |**2024-10-22**|**Testing Bell inequalities and probing quantum entanglement at CEPC**|Youpeng Wu, Ruobing Jiang, Alim Ruzi, Yong Ban, Qiang Li|[2410.17025](http://arxiv.org/abs/2410.17025)|null|
 |**2024-10-22**|**Entanglement in Algebraic Quantum Field Theories**|Rafael Grossi|[2410.16599](http://arxiv.org/abs/2410.16599)|null|
 |**2024-10-20**|**Bound entangled states are useful in prepare-and-measure scenarios**|Carles Roch i Carceller, Armin Tavakoli|[2410.15388](http://arxiv.org/abs/2410.15388)|null|
@@ -607,6 +609,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**Automated Quality Control System for Canned Tuna Production using Artificial Vision**|Sendey Vera, Luis Chuquimarca, Wilson Galdea, Bremnen Véliz, Carlos Saldaña|[2410.17275](http://arxiv.org/abs/2410.17275)|null|
 |**2024-10-22**|**Strong symmetries in collision models and physical dilations of covariant quantum maps**|Marco Cattaneo|[2410.16907](http://arxiv.org/abs/2410.16907)|null|
 |**2024-10-21**|**Dead-zone-free single-beam atomic magnetometer based on free-induction-decay of Rb atoms**|Shrey Mehta, G. K. Samanta, Raghwinder Singh Grewal|[2410.15663](http://arxiv.org/abs/2410.15663)|null|
 |**2024-10-17**|**Formalizing Hyperspaces and Operations on Subsets of Polish spaces over Abstract Exact Real Numbers**|Michal Konečný, Sewon Park, Holger Thies|[2410.13508](http://arxiv.org/abs/2410.13508)|null|
@@ -1133,6 +1136,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Constant-time magic state distillation**|Kwok Ho Wan|[2410.17992](http://arxiv.org/abs/2410.17992)|null|
+|**2024-10-23**|**Puncturing Quantum Stabilizer Codes**|Jaron Skovsted Gundersen, René Bødker Christensen, Petar Popovski, Rafał Wisniewski|[2410.17754](http://arxiv.org/abs/2410.17754)|null|
 |**2024-10-22**|**Floquetifying stabiliser codes with distance-preserving rewrites**|Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger|[2410.17240](http://arxiv.org/abs/2410.17240)|null|
 |**2024-10-22**|**Engineering Fault-tolerant Bosonic Codes with Quantum Lattice Gates**|Lingzhen Guo, Tangyou Huang, Lei Du|[2410.17069](http://arxiv.org/abs/2410.17069)|null|
 |**2024-10-22**|**Integrating Window-Based Correlated Decoding with Constant-Time Logical Gates for Large-Scale Quantum Computation**|Jiaxuan Zhang, Zhao-Yun Chen, Jia-Ning Li, Tian-Hao Wei, Huan-Yu Liu, Xi-Ning Zhuang, Qing-Song Li, Yu-Chun Wu, Guo-Ping Guo|[2410.16963](http://arxiv.org/abs/2410.16963)|null|

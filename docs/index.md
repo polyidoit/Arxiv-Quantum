@@ -12,7 +12,7 @@ layout: default
 |**2024-10-23**|**Testing local realistic hidden-variable theories without inequalities**|Andrea Aiello|[2410.17912](http://arxiv.org/abs/2410.17912)|null|
 |**2024-10-22**|**Testing Bell inequalities and probing quantum entanglement at CEPC**|Youpeng Wu, Ruobing Jiang, Alim Ruzi, Yong Ban, Qiang Li|[2410.17025](http://arxiv.org/abs/2410.17025)|null|
 |**2024-10-22**|**Entanglement in Algebraic Quantum Field Theories**|Rafael Grossi|[2410.16599](http://arxiv.org/abs/2410.16599)|null|
-|**2024-10-20**|**Bound entangled states are useful in prepare-and-measure scenarios**|Carles Roch i Carceller, Armin Tavakoli|[2410.15388](http://arxiv.org/abs/2410.15388)|null|
+|**2024-10-20**|**Bound entangled states are useful in prepare-and-measure scenarios**|Carles Roch i Carceller, Armin Tavakoli|[2410.15388](http://arxiv.org/abs/2410.15388)|**[link](https://github.com/chalswater/bound_entanglement_conjecture)**|
 |**2024-10-19**|**Network Nonlocality Without Entanglement Of All Sources**|Kaushiki Mukherjee, Biswajit Paul|[2410.15131](http://arxiv.org/abs/2410.15131)|null|
 |**2024-10-01**|**Bell's inequality and the spooky actions at a distance**|Jorge Pinochet|[2410.11850](http://arxiv.org/abs/2410.11850)|null|
 |**2024-10-15**|**Relationship between average correlation and quantum steering for arbitrary two-qubit states**|youneng Guo, Xiangjun Chen, huping Peng, qinglong Tian|[2410.11219](http://arxiv.org/abs/2410.11219)|null|
@@ -512,6 +512,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Enhanced Gaussian interferometric power, entanglement and Gaussian quantum steering in magnonics system with squeezed light**|Noura Chabar, M bark Amghar, Mohamed Amazioug|[2410.18288](http://arxiv.org/abs/2410.18288)|null|
 |**2024-10-15**|**Relationship between average correlation and quantum steering for arbitrary two-qubit states**|youneng Guo, Xiangjun Chen, huping Peng, qinglong Tian|[2410.11219](http://arxiv.org/abs/2410.11219)|null|
 |**2024-10-20**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-05**|**Probing quantum correlations in non-degenerate hyper-Raman process**|Moumita Das, Biswajit Sen, Ankur Sensharma, Kishore Thapliyal, Anirban Pathak|[2410.04007](http://arxiv.org/abs/2410.04007)|null|
@@ -782,6 +783,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Benchmarking quantum chaos from geometric complexity**|Arpan Bhattacharyya, Suddhasattwa Brahma, Satyaki Chowdhury, Xiancong Luo|[2410.18754](http://arxiv.org/abs/2410.18754)|null|
+|**2024-10-23**|**Simulating quantum chaos without chaos**|Andi Gu, Yihui Quek, Susanne Yelin, Jens Eisert, Lorenzo Leone|[2410.18196](http://arxiv.org/abs/2410.18196)|null|
 |**2024-10-22**|**Semiclassical origin of suppressed quantum chaos in Rydberg chains**|Markus Müller, Ruslan Mushkaev|[2410.17223](http://arxiv.org/abs/2410.17223)|null|
 |**2024-10-23**|**Quantum many-body scars as remnants of stable many-body periodic orbits**|Keita Omiya|[2410.16916](http://arxiv.org/abs/2410.16916)|null|
 |**2024-10-22**|**TE-PAI: Exact Time Evolution by Sampling Random Circuits**|Chusei Kiumi, Bálint Koczor|[2410.16850](http://arxiv.org/abs/2410.16850)|null|
@@ -1136,6 +1139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Explainable News Summarization -- Analysis and mitigation of Disagreement Problem**|Seema Aswani, Sujala D. Shetty|[2410.18560](http://arxiv.org/abs/2410.18560)|null|
 |**2024-10-23**|**Constant-time magic state distillation**|Kwok Ho Wan|[2410.17992](http://arxiv.org/abs/2410.17992)|null|
 |**2024-10-23**|**Puncturing Quantum Stabilizer Codes**|Jaron Skovsted Gundersen, René Bødker Christensen, Petar Popovski, Rafał Wisniewski|[2410.17754](http://arxiv.org/abs/2410.17754)|null|
 |**2024-10-22**|**Floquetifying stabiliser codes with distance-preserving rewrites**|Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger|[2410.17240](http://arxiv.org/abs/2410.17240)|null|

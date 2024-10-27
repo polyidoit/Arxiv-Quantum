@@ -787,7 +787,7 @@ layout: default
 |**2024-10-23**|**Simulating quantum chaos without chaos**|Andi Gu, Yihui Quek, Susanne Yelin, Jens Eisert, Lorenzo Leone|[2410.18196](http://arxiv.org/abs/2410.18196)|null|
 |**2024-10-22**|**Semiclassical origin of suppressed quantum chaos in Rydberg chains**|Markus Müller, Ruslan Mushkaev|[2410.17223](http://arxiv.org/abs/2410.17223)|null|
 |**2024-10-23**|**Quantum many-body scars as remnants of stable many-body periodic orbits**|Keita Omiya|[2410.16916](http://arxiv.org/abs/2410.16916)|null|
-|**2024-10-22**|**TE-PAI: Exact Time Evolution by Sampling Random Circuits**|Chusei Kiumi, Bálint Koczor|[2410.16850](http://arxiv.org/abs/2410.16850)|null|
+|**2024-10-22**|**TE-PAI: Exact Time Evolution by Sampling Random Circuits**|Chusei Kiumi, Bálint Koczor|[2410.16850](http://arxiv.org/abs/2410.16850)|**[link](https://github.com/CKiumi/te_pai)**|
 |**2024-10-21**|**Observation of anomalous information scrambling in a Rydberg atom array**|Xinhui Liang, Zongpei Yue, Yu-Xin Chao, Zhen-Xing Hua, Yige Lin, Meng Khoon Tey, Li You|[2410.16174](http://arxiv.org/abs/2410.16174)|null|
 |**2024-10-21**|**Hierarchical analytical approach to universal spectral correlations in Brownian Quantum Chaos**|Tara Kalsi, Alessandro Romito, Henning Schomerus|[2410.15872](http://arxiv.org/abs/2410.15872)|null|
 |**2024-10-20**|**Observation of quantum information collapse-and-revival in a strongly-interacting Rydberg atom array**|De-Sheng Xiang, Yao-Wen Zhang, Hao-Xiang Liu, Peng Zhou, Dong Yuan, Kuan Zhang, Shun-Yao Zhang, Biao Xu, Lu Liu, Yitong Li, Lin Li|[2410.15455](http://arxiv.org/abs/2410.15455)|null|

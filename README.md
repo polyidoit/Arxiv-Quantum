@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Automated generation of photonic circuits for Bell tests with homodyne measurements**|Corentin Lanore, Federico Grasselli, Xavier Valcarce, Jean-Daniel Bancal, Nicolas Sangouard|[2410.19670](http://arxiv.org/abs/2410.19670)|null|
+|**2024-10-24**|**Bell's inequality in relativistic Quantum Field Theory**|M. S. Guimaraes, I. Roditi, S. P. Sorella|[2410.19101](http://arxiv.org/abs/2410.19101)|null|
 |**2024-10-23**|**An improved Bell-CHSH observable for gauge boson pairs**|Radosław Grabarczyk|[2410.18022](http://arxiv.org/abs/2410.18022)|null|
 |**2024-10-23**|**Testing local realistic hidden-variable theories without inequalities**|Andrea Aiello|[2410.17912](http://arxiv.org/abs/2410.17912)|null|
 |**2024-10-22**|**Testing Bell inequalities and probing quantum entanglement at CEPC**|Youpeng Wu, Ruobing Jiang, Alim Ruzi, Yong Ban, Qiang Li|[2410.17025](http://arxiv.org/abs/2410.17025)|null|
@@ -802,6 +804,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Fast Scrambling in Classically Simulable Quantum Circuits**|Mike Blake, Noah Linden, Anthony P. Thompson|[2410.19614](http://arxiv.org/abs/2410.19614)|null|
 |**2024-10-24**|**Benchmarking quantum chaos from geometric complexity**|Arpan Bhattacharyya, Suddhasattwa Brahma, Satyaki Chowdhury, Xiancong Luo|[2410.18754](http://arxiv.org/abs/2410.18754)|null|
 |**2024-10-23**|**Simulating quantum chaos without chaos**|Andi Gu, Yihui Quek, Susanne Yelin, Jens Eisert, Lorenzo Leone|[2410.18196](http://arxiv.org/abs/2410.18196)|null|
 |**2024-10-22**|**Semiclassical origin of suppressed quantum chaos in Rydberg chains**|Markus Müller, Ruslan Mushkaev|[2410.17223](http://arxiv.org/abs/2410.17223)|null|

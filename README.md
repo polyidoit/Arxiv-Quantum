@@ -529,6 +529,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in magnon frequency comb**|Qianjun Zheng, H. Y. Yuan, Yunshan Cao, Peng Yan|[2410.21122](http://arxiv.org/abs/2410.21122)|null|
+|**2024-10-27**|**Certifying classes of $d$ -outcome measurements with quantum steering**|Alexandre C. Orthey Jr, Remigiusz Augusiak|[2410.20477](http://arxiv.org/abs/2410.20477)|null|
 |**2024-10-23**|**Enhanced Gaussian interferometric power, entanglement and Gaussian quantum steering in magnonics system with squeezed light**|Noura Chabar, M bark Amghar, Mohamed Amazioug|[2410.18288](http://arxiv.org/abs/2410.18288)|null|
 |**2024-10-15**|**Relationship between average correlation and quantum steering for arbitrary two-qubit states**|youneng Guo, Xiangjun Chen, huping Peng, qinglong Tian|[2410.11219](http://arxiv.org/abs/2410.11219)|null|
 |**2024-10-20**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
@@ -804,6 +806,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Pseudochaotic Many-Body Dynamics as a Pseudorandom State Generator**|Wonjun Lee, Hyukjoon Kwon, Gil Young Cho|[2410.21268](http://arxiv.org/abs/2410.21268)|null|
 |**2024-10-25**|**Fast Scrambling in Classically Simulable Quantum Circuits**|Mike Blake, Noah Linden, Anthony P. Thompson|[2410.19614](http://arxiv.org/abs/2410.19614)|null|
 |**2024-10-24**|**Benchmarking quantum chaos from geometric complexity**|Arpan Bhattacharyya, Suddhasattwa Brahma, Satyaki Chowdhury, Xiancong Luo|[2410.18754](http://arxiv.org/abs/2410.18754)|null|
 |**2024-10-23**|**Simulating quantum chaos without chaos**|Andi Gu, Yihui Quek, Susanne Yelin, Jens Eisert, Lorenzo Leone|[2410.18196](http://arxiv.org/abs/2410.18196)|null|
@@ -1163,6 +1166,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**MDS Stabilizer Poset Codes**|Mahir Bilen Can|[2410.20993](http://arxiv.org/abs/2410.20993)|null|
+|**2024-10-26**|**Characterization of $n$ -Dimensional Toric and Burst-Error-Correcting Quantum Codes from Lattice Codes**|Cibele Cristina Trinca, Reginaldo Palazzo Jr., J. Carmelo Interlando, Ricardo Augusto Watanabe, Clarice Dias de Albuquerque, Edson Donizete de Carvalho, Antonio Aparecido de Andrade|[2410.20233](http://arxiv.org/abs/2410.20233)|null|
+|**2024-10-26**|**3D Distance-color-coded Assessment of PCI Stent Apposition via Deep-learning-based Three-dimensional Multi-object Segmentation**|Xiaoyang Qin, Hao Huang, Shuaichen Lin, Xinhao Zeng, Kaizhi Cao, Renxiong Wu, Yuming Huang, Junqing Yang, Yong Liu, Gang Li, Guangming Ni|[2410.20055](http://arxiv.org/abs/2410.20055)|null|
 |**2024-10-24**|**Explainable News Summarization -- Analysis and mitigation of Disagreement Problem**|Seema Aswani, Sujala D. Shetty|[2410.18560](http://arxiv.org/abs/2410.18560)|null|
 |**2024-10-23**|**Constant-time magic state distillation**|Kwok Ho Wan|[2410.17992](http://arxiv.org/abs/2410.17992)|null|
 |**2024-10-23**|**Puncturing Quantum Stabilizer Codes**|Jaron Skovsted Gundersen, René Bødker Christensen, Petar Popovski, Rafał Wisniewski|[2410.17754](http://arxiv.org/abs/2410.17754)|null|

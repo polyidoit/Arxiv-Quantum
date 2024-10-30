@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 
 ## Bell nonlocality
 
@@ -518,7 +518,7 @@ layout: default
 |**2024-10-27**|**Certifying classes of $d$ -outcome measurements with quantum steering**|Alexandre C. Orthey Jr, Remigiusz Augusiak|[2410.20477](http://arxiv.org/abs/2410.20477)|null|
 |**2024-10-23**|**Enhanced Gaussian interferometric power, entanglement and Gaussian quantum steering in magnonics system with squeezed light**|Noura Chabar, M bark Amghar, Mohamed Amazioug|[2410.18288](http://arxiv.org/abs/2410.18288)|null|
 |**2024-10-15**|**Relationship between average correlation and quantum steering for arbitrary two-qubit states**|youneng Guo, Xiangjun Chen, huping Peng, qinglong Tian|[2410.11219](http://arxiv.org/abs/2410.11219)|null|
-|**2024-10-20**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
+|**2024-10-29**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-05**|**Probing quantum correlations in non-degenerate hyper-Raman process**|Moumita Das, Biswajit Sen, Ankur Sensharma, Kishore Thapliyal, Anirban Pathak|[2410.04007](http://arxiv.org/abs/2410.04007)|null|
 |**2024-09-21**|**Enhancing One-Way Steering and Non-Classical Correlations in Magnomechanics via Coherent Feedback**|Hamza Harraf, Noura Chabar, Mohamed Amazioug, Rachid Ahl Laamara|[2409.14139](http://arxiv.org/abs/2409.14139)|null|
 |**2024-09-10**|**Nonreciprocal tripartite entanglement and asymmetric Einstein-Podolsky-Rosen steering via directional quantum squeezing**|Ya-Feng Jiao, Jie Wang, Dong-Yang Wang, Lei Tang, Yan Wang, Yun-Lan Zuo, Wan-Su Bao, Le-Man Kuang, Hui Jing|[2409.06133](http://arxiv.org/abs/2409.06133)|null|

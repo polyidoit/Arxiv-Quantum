@@ -621,7 +621,7 @@ layout: default
 |**2024-10-16**|**Phase transitions for polyadic epidemic and voter models with multiscale groups**|Pia Steinmeyer, Jan Mölter, Christian Kuehn|[2410.12682](http://arxiv.org/abs/2410.12682)|null|
 |**2024-10-12**|**Multigrid methods for the Stokes problem on GPU systems**|Cu Cui, Guido Kanschat|[2410.09497](http://arxiv.org/abs/2410.09497)|null|
 |**2024-10-10**|**A 3D-Printed Table for Hybrid X-ray CT and Optical Imaging of a Live Mouse**|Wenxuan Xue, Yuxuan Liang, Mengzhou Li, Shan Gao, Xavier R. Intes, Ge Wang|[2410.07517](http://arxiv.org/abs/2410.07517)|null|
-|**2024-10-20**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
+|**2024-10-29**|**The aspect of bipartite coherence in quantum discord to semi-device-independent nonlocality and its implication for quantum information processing**|Chellasamy Jebarathinam, Huan-Yu Ku, Hao-Chung Cheng, Hsi-Sheng Goan|[2410.04430](http://arxiv.org/abs/2410.04430)|null|
 |**2024-10-02**|**Towards eliminating the nonlinear Kelvin wake**|Jack Keeler, Benjamin Binder, Mark Blyth|[2410.01255](http://arxiv.org/abs/2410.01255)|null|
 |**2024-09-27**|**Quantum resource-theoretical analysis of the role of vibrational structure in photoisomerization**|Siddharth Tiwary, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio|[2409.18710](http://arxiv.org/abs/2409.18710)|null|
 |**2024-09-23**|**Effective Dynamics of Local Observables for Extended Fermi Gases in the High-Density Regime**|Luca Fresta, Marcello Porta, Benjamin Schlein|[2409.14841](http://arxiv.org/abs/2409.14841)|null|
@@ -1145,6 +1145,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**The convex algebraic geometry of higher-rank numerical ranges**|Jonathan Nino-Cortes, Cynthia Vinzant|[2410.21625](http://arxiv.org/abs/2410.21625)|null|
 |**2024-10-28**|**MDS Stabilizer Poset Codes**|Mahir Bilen Can|[2410.20993](http://arxiv.org/abs/2410.20993)|null|
 |**2024-10-26**|**Characterization of $n$ -Dimensional Toric and Burst-Error-Correcting Quantum Codes from Lattice Codes**|Cibele Cristina Trinca, Reginaldo Palazzo Jr., J. Carmelo Interlando, Ricardo Augusto Watanabe, Clarice Dias de Albuquerque, Edson Donizete de Carvalho, Antonio Aparecido de Andrade|[2410.20233](http://arxiv.org/abs/2410.20233)|null|
 |**2024-10-26**|**3D Distance-color-coded Assessment of PCI Stent Apposition via Deep-learning-based Three-dimensional Multi-object Segmentation**|Xiaoyang Qin, Hao Huang, Shuaichen Lin, Xinhao Zeng, Kaizhi Cao, Renxiong Wu, Yuming Huang, Junqing Yang, Yong Liu, Gang Li, Guangming Ni|[2410.20055](http://arxiv.org/abs/2410.20055)|null|

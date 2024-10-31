@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**A threshold for higher-order asymptotic development of genuinely nonlocal phase transition energies**|Serena Dipierro, Enrico Valdinoci, Mary Vaughan|[2410.22873](http://arxiv.org/abs/2410.22873)|null|
 |**2024-10-25**|**Automated generation of photonic circuits for Bell tests with homodyne measurements**|Corentin Lanore, Federico Grasselli, Xavier Valcarce, Jean-Daniel Bancal, Nicolas Sangouard|[2410.19670](http://arxiv.org/abs/2410.19670)|null|
 |**2024-10-24**|**Bell's inequality in relativistic Quantum Field Theory**|M. S. Guimaraes, I. Roditi, S. P. Sorella|[2410.19101](http://arxiv.org/abs/2410.19101)|null|
 |**2024-10-23**|**An improved Bell-CHSH observable for gauge boson pairs**|Radosław Grabarczyk|[2410.18022](http://arxiv.org/abs/2410.18022)|null|
@@ -332,6 +333,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Unique multipartite extension of quantum states over time**|Seok Hyung Lie, James Fullwood|[2410.22630](http://arxiv.org/abs/2410.22630)|null|
 |**2024-10-06**|**Unitary Closed Timelike Curves can Solve all of NP**|Omri Shmueli|[2410.04630](http://arxiv.org/abs/2410.04630)|null|
 |**2024-10-02**|**Universal bounds in quantum metrology in presence of correlated noise**|Stanislaw Kurdzialek, Francesco Albarelli, Rafal Demkowicz-Dobrzanski|[2410.01881](http://arxiv.org/abs/2410.01881)|null|
 |**2024-10-14**|**Quantum Bayes' rule and Petz transpose map from the minimal change principle**|Ge Bai, Francesco Buscemi, Valerio Scarani|[2410.00319](http://arxiv.org/abs/2410.00319)|null|
@@ -806,6 +808,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Slow Relaxation in a Glassy Quantum Circuit**|Richard D. Barney, Yunxiang Liao, Victor Galitski|[2410.23281](http://arxiv.org/abs/2410.23281)|null|
 |**2024-10-28**|**Pseudochaotic Many-Body Dynamics as a Pseudorandom State Generator**|Wonjun Lee, Hyukjoon Kwon, Gil Young Cho|[2410.21268](http://arxiv.org/abs/2410.21268)|null|
 |**2024-10-25**|**Fast Scrambling in Classically Simulable Quantum Circuits**|Mike Blake, Noah Linden, Anthony P. Thompson|[2410.19614](http://arxiv.org/abs/2410.19614)|null|
 |**2024-10-24**|**Benchmarking quantum chaos from geometric complexity**|Arpan Bhattacharyya, Suddhasattwa Brahma, Satyaki Chowdhury, Xiancong Luo|[2410.18754](http://arxiv.org/abs/2410.18754)|null|
@@ -1166,6 +1169,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**LEGO_HQEC: A Software Tool for Analyzing Holographic Quantum Codes**|Junyu Fan, Matthew Steinberg, Alexander Jahn, Chunjun Cao, Aritra Sarkar, Sebastian Feld|[2410.22861](http://arxiv.org/abs/2410.22861)|null|
+|**2024-10-29**|**Statistical mechanical mapping and maximum-likelihood thresholds for the surface code under generic single-qubit coherent errors**|Jan Behrends, Benjamin Béri|[2410.22436](http://arxiv.org/abs/2410.22436)|null|
 |**2024-10-29**|**The convex algebraic geometry of higher-rank numerical ranges**|Jonathan Nino-Cortes, Cynthia Vinzant|[2410.21625](http://arxiv.org/abs/2410.21625)|null|
 |**2024-10-28**|**MDS Stabilizer Poset Codes**|Mahir Bilen Can|[2410.20993](http://arxiv.org/abs/2410.20993)|null|
 |**2024-10-26**|**Characterization of $n$ -Dimensional Toric and Burst-Error-Correcting Quantum Codes from Lattice Codes**|Cibele Cristina Trinca, Reginaldo Palazzo Jr., J. Carmelo Interlando, Ricardo Augusto Watanabe, Clarice Dias de Albuquerque, Edson Donizete de Carvalho, Antonio Aparecido de Andrade|[2410.20233](http://arxiv.org/abs/2410.20233)|null|

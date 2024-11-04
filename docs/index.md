@@ -619,7 +619,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-31**|**Assessing non-Gaussian quantum state conversion with the stellar rank**|Oliver Hahn, Giulia Ferrini, Alessandro Ferraro, Ulysse Chabaud|[2410.23721](http://arxiv.org/abs/2410.23721)|**[link](https://github.com/oliverhahnk/stellar-fidelities-no-go-regions)**|
+|**2024-11-01**|**Assessing non-Gaussian quantum state conversion with the stellar rank**|Oliver Hahn, Giulia Ferrini, Alessandro Ferraro, Ulysse Chabaud|[2410.23721](http://arxiv.org/abs/2410.23721)|**[link](https://github.com/oliverhahnk/stellar-fidelities-no-go-regions)**|
 |**2024-10-08**|**Automated Quality Control System for Canned Tuna Production using Artificial Vision**|Sendey Vera, Luis Chuquimarca, Wilson Galdea, Bremnen Véliz, Carlos Saldaña|[2410.17275](http://arxiv.org/abs/2410.17275)|null|
 |**2024-10-22**|**Strong symmetries in collision models and physical dilations of covariant quantum maps**|Marco Cattaneo|[2410.16907](http://arxiv.org/abs/2410.16907)|null|
 |**2024-10-21**|**Dead-zone-free single-beam atomic magnetometer based on free-induction-decay of Rb atoms**|Shrey Mehta, G. K. Samanta, Raghwinder Singh Grewal|[2410.15663](http://arxiv.org/abs/2410.15663)|null|

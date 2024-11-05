@@ -13,7 +13,7 @@ layout: default
 |**2024-10-25**|**Automated generation of photonic circuits for Bell tests with homodyne measurements**|Corentin Lanore, Federico Grasselli, Xavier Valcarce, Jean-Daniel Bancal, Nicolas Sangouard|[2410.19670](http://arxiv.org/abs/2410.19670)|null|
 |**2024-10-24**|**Bell's inequality in relativistic Quantum Field Theory**|M. S. Guimaraes, I. Roditi, S. P. Sorella|[2410.19101](http://arxiv.org/abs/2410.19101)|null|
 |**2024-10-23**|**An improved Bell-CHSH observable for gauge boson pairs**|Radosław Grabarczyk|[2410.18022](http://arxiv.org/abs/2410.18022)|null|
-|**2024-10-23**|**Testing local realistic hidden-variable theories without inequalities**|Andrea Aiello|[2410.17912](http://arxiv.org/abs/2410.17912)|null|
+|**2024-11-04**|**A simple test of local realistic hidden-variable theories without inequalities**|Andrea Aiello|[2410.17912](http://arxiv.org/abs/2410.17912)|null|
 |**2024-10-22**|**Testing Bell inequalities and probing quantum entanglement at CEPC**|Youpeng Wu, Ruobing Jiang, Alim Ruzi, Yong Ban, Qiang Li|[2410.17025](http://arxiv.org/abs/2410.17025)|null|
 |**2024-10-22**|**Entanglement in Algebraic Quantum Field Theories**|Rafael Grossi|[2410.16599](http://arxiv.org/abs/2410.16599)|null|
 |**2024-10-20**|**Bound entangled states are useful in prepare-and-measure scenarios**|Carles Roch i Carceller, Armin Tavakoli|[2410.15388](http://arxiv.org/abs/2410.15388)|**[link](https://github.com/chalswater/bound_entanglement_conjecture)**|
@@ -323,6 +323,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-01**|**Pauli Transfer Matrices**|Lukas Hantzko, Lennart Binkowski, Sabhyata Gupta|[2411.00526](http://arxiv.org/abs/2411.00526)|null|
 |**2024-10-30**|**Unique multipartite extension of quantum states over time**|Seok Hyung Lie, James Fullwood|[2410.22630](http://arxiv.org/abs/2410.22630)|null|
 |**2024-10-06**|**Unitary Closed Timelike Curves can Solve all of NP**|Omri Shmueli|[2410.04630](http://arxiv.org/abs/2410.04630)|null|
 |**2024-10-02**|**Universal bounds in quantum metrology in presence of correlated noise**|Stanislaw Kurdzialek, Francesco Albarelli, Rafal Demkowicz-Dobrzanski|[2410.01881](http://arxiv.org/abs/2410.01881)|null|
@@ -409,6 +410,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-01**|**From supefluid 3He to altermagnets**|T. Jungwirth, R. M. Fernandes, E. Fradkin, A. H. MacDonald, J. Sinova, L. Smejkal|[2411.00717](http://arxiv.org/abs/2411.00717)|null|
 |**2024-10-31**|**2D magnetic stability**|Douglas Lundholm|[2410.24156](http://arxiv.org/abs/2410.24156)|null|
 |**2024-10-30**|**Pauli energy contribution to nucleus-nucleus interaction**|A. S. Umar. K. Godbey, C. Simenel|[2410.23489](http://arxiv.org/abs/2410.23489)|null|
 |**2024-10-21**|**Effects of graph operations on star pairwise compatibility graphs**|Angelo Monti, Blerina Sinaimeri|[2410.16023](http://arxiv.org/abs/2410.16023)|null|
@@ -528,7 +530,7 @@ layout: default
 |**2024-09-21**|**Enhancing One-Way Steering and Non-Classical Correlations in Magnomechanics via Coherent Feedback**|Hamza Harraf, Noura Chabar, Mohamed Amazioug, Rachid Ahl Laamara|[2409.14139](http://arxiv.org/abs/2409.14139)|null|
 |**2024-09-10**|**Nonreciprocal tripartite entanglement and asymmetric Einstein-Podolsky-Rosen steering via directional quantum squeezing**|Ya-Feng Jiao, Jie Wang, Dong-Yang Wang, Lei Tang, Yan Wang, Yun-Lan Zuo, Wan-Su Bao, Le-Man Kuang, Hui Jing|[2409.06133](http://arxiv.org/abs/2409.06133)|null|
 |**2024-09-08**|**Gaussian geometric discord, entanglement and EPR-steering of two rotational mirrors in a double Laguerre-Gaussian cavity optomechanics in the presence of YIG sphere**|Noura Chabar, M'bark Amghar, S. K. Singh, Mohamed Amazioug|[2409.05111](http://arxiv.org/abs/2409.05111)|null|
-|**2024-09-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
+|**2024-11-02**|**Gaussian unsteerable channels and computable quantifications of Gaussian steering**|Taotao Yan, Jie Guo, Jinchuan Hou, Xiaofei Qi, Kan He|[2409.00878](http://arxiv.org/abs/2409.00878)|null|
 |**2024-08-28**|**Quantum Assemblage Tomography**|Luis Villegas-Aguilar, Yuanlong Wang, Alex Pepper, Travis J. Baker, Geoff J. Pryde, Sergei Slussarenko, Nora Tischler, Howard M. Wiseman|[2408.15576](http://arxiv.org/abs/2408.15576)|null|
 |**2024-08-13**|**Threshold (Q, P) Quantum Distillation**|Shashank Gupta, William John Munro, Carlos Cid|[2408.15274](http://arxiv.org/abs/2408.15274)|null|
 |**2024-08-22**|**Imprecision plateaus in quantum steering**|Elna Svegborn, Nicola d'Alessandro, Otfried Gühne, Armin Tavakoli|[2408.12280](http://arxiv.org/abs/2408.12280)|null|
@@ -619,6 +621,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Optimal recoil-free state preparation in an optical atom tweezer**|Lia Kley, Nicolas Heimann, Aslam Parvej, Lukas Broers, Ludwig Mathey|[2411.02262](http://arxiv.org/abs/2411.02262)|null|
+|**2024-11-04**|**Frequency-based Design Method for Model-Free Controllers**|Marcos Moreno-Gonzalez, Antonio Artuñedo, Jorge Villagra|[2411.01908](http://arxiv.org/abs/2411.01908)|null|
+|**2024-11-03**|**Genuine non-Gaussian entanglement: quantum correlations beyond Hong-Ou-Mandel**|Xiaobin Zhao, Pengcheng Liao, Quntao Zhuang|[2411.01609](http://arxiv.org/abs/2411.01609)|null|
 |**2024-11-01**|**Assessing non-Gaussian quantum state conversion with the stellar rank**|Oliver Hahn, Giulia Ferrini, Alessandro Ferraro, Ulysse Chabaud|[2410.23721](http://arxiv.org/abs/2410.23721)|**[link](https://github.com/oliverhahnk/stellar-fidelities-no-go-regions)**|
 |**2024-10-08**|**Automated Quality Control System for Canned Tuna Production using Artificial Vision**|Sendey Vera, Luis Chuquimarca, Wilson Galdea, Bremnen Véliz, Carlos Saldaña|[2410.17275](http://arxiv.org/abs/2410.17275)|null|
 |**2024-10-22**|**Strong symmetries in collision models and physical dilations of covariant quantum maps**|Marco Cattaneo|[2410.16907](http://arxiv.org/abs/2410.16907)|null|
@@ -793,6 +798,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-01**|**Self-interaction induced phase modulation for directed current, energy diffusion and quantum scrambling in a Floquet ratchet system**|Jiejin Shi, Lihao Hua, Wenxuan Song, Wen-Lei Zhao|[2411.01059](http://arxiv.org/abs/2411.01059)|null|
+|**2024-11-01**|**Dynamical simulations of many-body quantum chaos on a quantum computer**|Laurin E. Fischer, Matea Leahy, Andrew Eddins, Nathan Keenan, Davide Ferracin, Matteo A. C. Rossi, Youngseok Kim, Andre He, Francesca Pietracaprina, Boris Sokolov, Shane Dooley, Zoltán Zimborás, Francesco Tacchino, Sabrina Maniscalco, John Goold, Guillermo García-Pérez, Ivano Tavernelli, Abhinav Kandala, Sergey N. Filippov|[2411.00765](http://arxiv.org/abs/2411.00765)|null|
 |**2024-10-31**|**More global randomness from less random local gates**|Ryotaro Suzuki, Hosho Katsura, Yosuke Mitsuhashi, Tomohiro Soejima, Jens Eisert, Nobuyuki Yoshioka|[2410.24127](http://arxiv.org/abs/2410.24127)|null|
 |**2024-10-30**|**On computational complexity of unitary and state design properties**|Yoshifumi Nakata, Yuki Takeuchi, Martin Kliesch, Andrew Darmawan|[2410.23353](http://arxiv.org/abs/2410.23353)|null|
 |**2024-10-30**|**Slow Relaxation in a Glassy Quantum Circuit**|Richard D. Barney, Yunxiang Liao, Victor Galitski|[2410.23281](http://arxiv.org/abs/2410.23281)|null|
@@ -1154,10 +1161,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Advancements and limitations of LLMs in replicating human color-word associations**|Makoto Fukushima, Shusuke Eshita, Hiroshige Fukuhara|[2411.02116](http://arxiv.org/abs/2411.02116)|null|
+|**2024-11-04**|**Magic states are rarely the most important resource to optimize**|Marco Fellous-Asiani, Hui Khoon Ng, Robert S. Whitney|[2411.01880](http://arxiv.org/abs/2411.01880)|null|
+|**2024-11-01**|**Low-density parity-check codes as stable phases of quantum matter**|Chao Yin, Andrew Lucas|[2411.01002](http://arxiv.org/abs/2411.01002)|null|
+|**2024-11-01**|**Reshaping quantum device noise via quantum error correction**|Yue Ma, Michael Hanks, Evdokia Gneusheva, M. S. Kim|[2411.00751](http://arxiv.org/abs/2411.00751)|null|
+|**2024-10-31**|**Scaling up to Problem Sizes: An Environmental Life Cycle Assessment of Quantum Computing**|Sylvain Cordier, Karl Thibault, Marie-Luc Arpin, Ben Amor|[2411.00118](http://arxiv.org/abs/2411.00118)|null|
 |**2024-10-31**|**Error Threshold of SYK Codes from Strong-to-Weak Parity Symmetry Breaking**|Jaewon Kim, Ehud Altman, Jong Yeon Lee|[2410.24225](http://arxiv.org/abs/2410.24225)|null|
 |**2024-10-31**|**On codes induced from Hadamard matrices**|Ted Hurley|[2410.24027](http://arxiv.org/abs/2410.24027)|null|
 |**2024-10-31**|**Detrimental non-Markovian errors for surface code memory**|John F Kam, Spiro Gicev, Kavan Modi, Angus Southwell, Muhammad Usman|[2410.23779](http://arxiv.org/abs/2410.23779)|null|
-|**2024-10-31**|**Optimality Condition for the Transpose Channel**|Bikun Li, Zhaoyou Wang, Guo Zheng, Liang Jiang|[2410.23622](http://arxiv.org/abs/2410.23622)|null|
+|**2024-11-04**|**Optimality Condition for the Transpose Channel**|Bikun Li, Zhaoyou Wang, Guo Zheng, Liang Jiang|[2410.23622](http://arxiv.org/abs/2410.23622)|null|
 |**2024-10-30**|**Hybrid cat-transmon architecture for scalable, hardware-efficient quantum error correction**|Connor T. Hann, Kyungjoo Noh, Harald Putterman, Matthew H. Matheny, Joseph K. Iverson, Michael T. Fang, Christopher Chamberland, Oskar Painter, Fernando G. S. L. Brandão|[2410.23363](http://arxiv.org/abs/2410.23363)|null|
 |**2024-10-30**|**LEGO_HQEC: A Software Tool for Analyzing Holographic Quantum Codes**|Junyu Fan, Matthew Steinberg, Alexander Jahn, Chunjun Cao, Aritra Sarkar, Sebastian Feld|[2410.22861](http://arxiv.org/abs/2410.22861)|null|
 |**2024-10-29**|**Statistical mechanical mapping and maximum-likelihood thresholds for the surface code under generic single-qubit coherent errors**|Jan Behrends, Benjamin Béri|[2410.22436](http://arxiv.org/abs/2410.22436)|null|

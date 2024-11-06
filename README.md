@@ -17,13 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Robust self-testing for nonlocal games with robust game algebras**|Yuming Zhao|[2411.03259](http://arxiv.org/abs/2411.03259)|null|
+|**2024-10-21**|**Time series and the meaning of quantum non-locality**|Alejandro Hnilo|[2411.02420](http://arxiv.org/abs/2411.02420)|null|
 |**2024-10-31**|**Impact of High-Brightness Entangled Photon Pairs on CHSH Inequality Experiment**|Jin-Woo Kim, Suseong Lim, Heonoh Kim, June Koo Kevin Rhee|[2410.23689](http://arxiv.org/abs/2410.23689)|null|
 |**2024-10-30**|**A threshold for higher-order asymptotic development of genuinely nonlocal phase transition energies**|Serena Dipierro, Enrico Valdinoci, Mary Vaughan|[2410.22873](http://arxiv.org/abs/2410.22873)|null|
 |**2024-10-25**|**Automated generation of photonic circuits for Bell tests with homodyne measurements**|Corentin Lanore, Federico Grasselli, Xavier Valcarce, Jean-Daniel Bancal, Nicolas Sangouard|[2410.19670](http://arxiv.org/abs/2410.19670)|null|
 |**2024-10-24**|**Bell's inequality in relativistic Quantum Field Theory**|M. S. Guimaraes, I. Roditi, S. P. Sorella|[2410.19101](http://arxiv.org/abs/2410.19101)|null|
 |**2024-10-23**|**An improved Bell-CHSH observable for gauge boson pairs**|Radosław Grabarczyk|[2410.18022](http://arxiv.org/abs/2410.18022)|null|
 |**2024-11-04**|**A simple test of local realistic hidden-variable theories without inequalities**|Andrea Aiello|[2410.17912](http://arxiv.org/abs/2410.17912)|null|
-|**2024-10-22**|**Testing Bell inequalities and probing quantum entanglement at CEPC**|Youpeng Wu, Ruobing Jiang, Alim Ruzi, Yong Ban, Qiang Li|[2410.17025](http://arxiv.org/abs/2410.17025)|null|
+|**2024-11-05**|**Testing Bell inequalities and probing quantum entanglement at CEPC**|Youpeng Wu, Ruobing Jiang, Alim Ruzi, Yong Ban, Qiang Li|[2410.17025](http://arxiv.org/abs/2410.17025)|null|
 |**2024-10-22**|**Entanglement in Algebraic Quantum Field Theories**|Rafael Grossi|[2410.16599](http://arxiv.org/abs/2410.16599)|null|
 |**2024-10-20**|**Bound entangled states are useful in prepare-and-measure scenarios**|Carles Roch i Carceller, Armin Tavakoli|[2410.15388](http://arxiv.org/abs/2410.15388)|**[link](https://github.com/chalswater/bound_entanglement_conjecture)**|
 |**2024-10-19**|**Network Nonlocality Without Entanglement Of All Sources**|Kaushiki Mukherjee, Biswajit Paul|[2410.15131](http://arxiv.org/abs/2410.15131)|null|
@@ -817,6 +819,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Exploring the properties of quantum scars in a toy model**|Sudip Sinha, S. Sinha|[2411.03234](http://arxiv.org/abs/2411.03234)|null|
 |**2024-11-01**|**Self-interaction induced phase modulation for directed current, energy diffusion and quantum scrambling in a Floquet ratchet system**|Jiejin Shi, Lihao Hua, Wenxuan Song, Wen-Lei Zhao|[2411.01059](http://arxiv.org/abs/2411.01059)|null|
 |**2024-11-01**|**Dynamical simulations of many-body quantum chaos on a quantum computer**|Laurin E. Fischer, Matea Leahy, Andrew Eddins, Nathan Keenan, Davide Ferracin, Matteo A. C. Rossi, Youngseok Kim, Andre He, Francesca Pietracaprina, Boris Sokolov, Shane Dooley, Zoltán Zimborás, Francesco Tacchino, Sabrina Maniscalco, John Goold, Guillermo García-Pérez, Ivano Tavernelli, Abhinav Kandala, Sergey N. Filippov|[2411.00765](http://arxiv.org/abs/2411.00765)|null|
 |**2024-10-31**|**More global randomness from less random local gates**|Ryotaro Suzuki, Hosho Katsura, Yosuke Mitsuhashi, Tomohiro Soejima, Jens Eisert, Nobuyuki Yoshioka|[2410.24127](http://arxiv.org/abs/2410.24127)|null|
@@ -1182,6 +1185,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Architectures for Heterogeneous Quantum Error Correction Codes**|Samuel Stein, Shifan Xu, Andrew W. Cross, Theodore J. Yoder, Ali Javadi-Abhari, Chenxu Liu, Kun Liu, Victor Zhou, Charles Guinn, Yufei Ding, Yongshan Ding, Ang Li|[2411.03202](http://arxiv.org/abs/2411.03202)|null|
+|**2024-11-05**|**Proposals for 3D self-correcting quantum memory**|Ting-Chun Lin, Hsin-Po Wang, Min-Hsiu Hsieh|[2411.03115](http://arxiv.org/abs/2411.03115)|null|
+|**2024-11-05**|**Fast Unconditional Reset and Leakage Reduction of a Tunable Superconducting Qubit via an Engineered Dissipative Bath**|Gihwan Kim, Andreas Butler, Vinicius S. Ferreira, Xueyue Zhang, Alex Hadley, Eunjong Kim, Oskar Painter|[2411.02950](http://arxiv.org/abs/2411.02950)|null|
+|**2024-11-05**|**Almost Linear Decoder for Optimal Geometrically Local Quantum Codes**|Quinten Eggerickx, Adam Wills, Ting-Chun Lin, Kristiaan De Greve, Min-Hsiu Hsieh|[2411.02928](http://arxiv.org/abs/2411.02928)|null|
+|**2024-11-04**|**Benchmarking Accuracy in an Emulated Memory Experiment**|Tim Chan|[2411.02505](http://arxiv.org/abs/2411.02505)|null|
 |**2024-11-04**|**Advancements and limitations of LLMs in replicating human color-word associations**|Makoto Fukushima, Shusuke Eshita, Hiroshige Fukuhara|[2411.02116](http://arxiv.org/abs/2411.02116)|null|
 |**2024-11-04**|**Magic states are rarely the most important resource to optimize**|Marco Fellous-Asiani, Hui Khoon Ng, Robert S. Whitney|[2411.01880](http://arxiv.org/abs/2411.01880)|null|
 |**2024-11-01**|**Low-density parity-check codes as stable phases of quantum matter**|Chao Yin, Andrew Lucas|[2411.01002](http://arxiv.org/abs/2411.01002)|null|

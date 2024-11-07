@@ -336,6 +336,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Causality and Duality in Multipartite Generalized Probabilistic Theories**|Yiying Chen, Peidong Wang, Zizhu Wang|[2411.03903](http://arxiv.org/abs/2411.03903)|null|
 |**2024-11-01**|**Pauli Transfer Matrices**|Lukas Hantzko, Lennart Binkowski, Sabhyata Gupta|[2411.00526](http://arxiv.org/abs/2411.00526)|null|
 |**2024-10-30**|**Unique multipartite extension of quantum states over time**|Seok Hyung Lie, James Fullwood|[2410.22630](http://arxiv.org/abs/2410.22630)|null|
 |**2024-10-06**|**Unitary Closed Timelike Curves can Solve all of NP**|Omri Shmueli|[2410.04630](http://arxiv.org/abs/2410.04630)|null|
@@ -640,6 +641,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Generalized quantum asymptotic equipartition**|Kun Fang, Hamza Fawzi, Omar Fawzi|[2411.04035](http://arxiv.org/abs/2411.04035)|null|
 |**2024-11-04**|**Optimal recoil-free state preparation in an optical atom tweezer**|Lia Kley, Nicolas Heimann, Aslam Parvej, Lukas Broers, Ludwig Mathey|[2411.02262](http://arxiv.org/abs/2411.02262)|null|
 |**2024-11-04**|**Frequency-based Design Method for Model-Free Controllers**|Marcos Moreno-Gonzalez, Antonio Artuñedo, Jorge Villagra|[2411.01908](http://arxiv.org/abs/2411.01908)|null|
 |**2024-11-03**|**Genuine non-Gaussian entanglement: quantum correlations beyond Hong-Ou-Mandel**|Xiaobin Zhao, Pengcheng Liao, Quntao Zhuang|[2411.01609](http://arxiv.org/abs/2411.01609)|null|
@@ -819,6 +821,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Holographic deep thermalization**|Bingzhi Zhang, Peng Xu, Xiaohui Chen, Quntao Zhuang|[2411.03587](http://arxiv.org/abs/2411.03587)|null|
 |**2024-11-05**|**Exploring the properties of quantum scars in a toy model**|Sudip Sinha, S. Sinha|[2411.03234](http://arxiv.org/abs/2411.03234)|null|
 |**2024-11-01**|**Self-interaction induced phase modulation for directed current, energy diffusion and quantum scrambling in a Floquet ratchet system**|Jiejin Shi, Lihao Hua, Wenxuan Song, Wen-Lei Zhao|[2411.01059](http://arxiv.org/abs/2411.01059)|null|
 |**2024-11-01**|**Dynamical simulations of many-body quantum chaos on a quantum computer**|Laurin E. Fischer, Matea Leahy, Andrew Eddins, Nathan Keenan, Davide Ferracin, Matteo A. C. Rossi, Youngseok Kim, Andre He, Francesca Pietracaprina, Boris Sokolov, Shane Dooley, Zoltán Zimborás, Francesco Tacchino, Sabrina Maniscalco, John Goold, Guillermo García-Pérez, Ivano Tavernelli, Abhinav Kandala, Sergey N. Filippov|[2411.00765](http://arxiv.org/abs/2411.00765)|null|
@@ -1185,6 +1188,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**High-fidelity gates in a transmon using bath engineering for passive leakage reset**|Ted Thorbeck, Alexander McDonald, O. Lanes, John Blair, George Keefe, Adam A. Stabile, Baptiste Royer, Luke C. G. Govia, Alexandre Blais|[2411.04101](http://arxiv.org/abs/2411.04101)|null|
+|**2024-11-06**|**Quantum LDPC Codes of Almost Linear Distance via Homological Products**|Louis Golowich, Venkatesan Guruswami|[2411.03646](http://arxiv.org/abs/2411.03646)|null|
+|**2024-11-05**|**Generalizing the matching decoder for the Chamon code**|Zohar Schwartzman-Nowik, Benjamin J. Brown|[2411.03443](http://arxiv.org/abs/2411.03443)|null|
+|**2024-11-05**|**Mixed-State Topological Order under Coherent Noises**|Seunghun Lee, Eun-Gook Moon|[2411.03441](http://arxiv.org/abs/2411.03441)|null|
 |**2024-11-05**|**Architectures for Heterogeneous Quantum Error Correction Codes**|Samuel Stein, Shifan Xu, Andrew W. Cross, Theodore J. Yoder, Ali Javadi-Abhari, Chenxu Liu, Kun Liu, Victor Zhou, Charles Guinn, Yufei Ding, Yongshan Ding, Ang Li|[2411.03202](http://arxiv.org/abs/2411.03202)|null|
 |**2024-11-05**|**Proposals for 3D self-correcting quantum memory**|Ting-Chun Lin, Hsin-Po Wang, Min-Hsiu Hsieh|[2411.03115](http://arxiv.org/abs/2411.03115)|null|
 |**2024-11-05**|**Fast Unconditional Reset and Leakage Reduction of a Tunable Superconducting Qubit via an Engineered Dissipative Bath**|Gihwan Kim, Andreas Butler, Vinicius S. Ferreira, Xueyue Zhang, Alex Hadley, Eunjong Kim, Oskar Painter|[2411.02950](http://arxiv.org/abs/2411.02950)|null|

@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**Optimization of experimental quantum randomness expansion**|Amelie Piveteau, Alban Seguinard, Piotr Mironowicz, Mohamed Bourennane|[2411.04934](http://arxiv.org/abs/2411.04934)|null|
+|**2024-11-06**|**Achieving Maximal Causal Indefiniteness in a Maximally Nonlocal Theory**|Kuntal Sengupta|[2411.04201](http://arxiv.org/abs/2411.04201)|null|
 |**2024-11-05**|**Robust self-testing for nonlocal games with robust game algebras**|Yuming Zhao|[2411.03259](http://arxiv.org/abs/2411.03259)|null|
 |**2024-10-21**|**Time series and the meaning of quantum non-locality**|Alejandro Hnilo|[2411.02420](http://arxiv.org/abs/2411.02420)|null|
 |**2024-10-31**|**Impact of High-Brightness Entangled Photon Pairs on CHSH Inequality Experiment**|Jin-Woo Kim, Suseong Lim, Heonoh Kim, June Koo Kevin Rhee|[2410.23689](http://arxiv.org/abs/2410.23689)|null|
@@ -802,6 +804,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**FQsun: A Configurable Wave Function-Based Quantum Emulator for Power-Efficient Quantum Simulations**|Tuan Hai Vu, Vu Trung Duong Le, Hoai Luan Pham, Quoc Chuong Nguyen, Yasuhiko Nakashima|[2411.04471](http://arxiv.org/abs/2411.04471)|null|
+|**2024-11-06**|**On the complexity of sampling from shallow Brownian circuits**|Gregory Bentsen, Bill Fefferman, Soumik Ghosh, Michael J. Gullans, Yinchen Liu|[2411.04169](http://arxiv.org/abs/2411.04169)|null|
 |**2024-11-06**|**Holographic deep thermalization**|Bingzhi Zhang, Peng Xu, Xiaohui Chen, Quntao Zhuang|[2411.03587](http://arxiv.org/abs/2411.03587)|null|
 |**2024-11-05**|**Exploring the properties of quantum scars in a toy model**|Sudip Sinha, S. Sinha|[2411.03234](http://arxiv.org/abs/2411.03234)|null|
 |**2024-11-01**|**Self-interaction induced phase modulation for directed current, energy diffusion and quantum scrambling in a Floquet ratchet system**|Jiejin Shi, Lihao Hua, Wenxuan Song, Wen-Lei Zhao|[2411.01059](http://arxiv.org/abs/2411.01059)|null|
@@ -1167,6 +1171,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**Tailoring Dynamical Codes for Biased Noise: The X $^3$Z$^3$ Floquet Code**|F. Setiawan, Campbell McLauchlan|[2411.04974](http://arxiv.org/abs/2411.04974)|null|
+|**2024-11-07**|**Belief propagation for general graphical models with loops**|Pedro Hack, Christian B. Mendl, Alexandru Paler|[2411.04957](http://arxiv.org/abs/2411.04957)|null|
+|**2024-11-07**|**Efficient quantum pseudorandomness under conservation laws**|Zimu Li, Han Zheng, Zi-Wen Liu|[2411.04893](http://arxiv.org/abs/2411.04893)|null|
+|**2024-11-07**|**Self-orthogonal codes from plateaued functions**|Peng Wang, Ziling Heng|[2411.04447](http://arxiv.org/abs/2411.04447)|null|
+|**2024-11-07**|**Benchmarking Single-Qubit Gates on a Noise-Biased Qubit Beyond the Fault-Tolerant Threshold**|Bingcheng Qing, Ahmed Hajr, Ke Wang, Gerwin Koolstra, Long B. Nguyen, Jordan Hines, Irwin Huang, Bibek Bhandari, Zahra Padramrazi, Larry Chen, Ziqi Kang, Christian Jünger, Noah Goss, Nikitha Jain, Hyunseong Kim, Kan-Heng Lee, Akel Hashim, Nicholas E. Frattini, Justin Dressel, Andrew N. Jordan, David I. Santiago, Irfan Siddiqi|[2411.04442](http://arxiv.org/abs/2411.04442)|null|
+|**2024-11-07**|**On fault tolerant single-shot logical state preparation and robust long-range entanglement**|Thiago Bergamaschi, Yunchao Liu|[2411.04405](http://arxiv.org/abs/2411.04405)|null|
+|**2024-11-06**|**List Decodable Quantum LDPC Codes**|Thiago Bergamaschi, Fernando Granha Jeronimo, Tushant Mittal, Shashank Srivastava, Madhur Tulsiani|[2411.04306](http://arxiv.org/abs/2411.04306)|null|
+|**2024-11-06**|**Exploring the quantum capacity of a Gaussian random displacement channel using Gottesman-Kitaev-Preskill codes and maximum likelihood decoding**|Mao Lin, Kyungjoo Noh|[2411.04277](http://arxiv.org/abs/2411.04277)|null|
+|**2024-11-06**|**Superadditivity in large $N$ field theories and performance of quantum tasks**|Samuel Leutheusser, Hong Liu|[2411.04183](http://arxiv.org/abs/2411.04183)|null|
 |**2024-11-06**|**High-fidelity gates in a transmon using bath engineering for passive leakage reset**|Ted Thorbeck, Alexander McDonald, O. Lanes, John Blair, George Keefe, Adam A. Stabile, Baptiste Royer, Luke C. G. Govia, Alexandre Blais|[2411.04101](http://arxiv.org/abs/2411.04101)|null|
 |**2024-11-06**|**Quantum LDPC Codes of Almost Linear Distance via Homological Products**|Louis Golowich, Venkatesan Guruswami|[2411.03646](http://arxiv.org/abs/2411.03646)|null|
 |**2024-11-05**|**Generalizing the matching decoder for the Chamon code**|Zohar Schwartzman-Nowik, Benjamin J. Brown|[2411.03443](http://arxiv.org/abs/2411.03443)|null|

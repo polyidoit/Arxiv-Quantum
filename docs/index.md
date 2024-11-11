@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**AI-assisted experimental measures of entanglement and Bell's nonlocality without state tomography**|Patrycja Tulewicz, Karol Bartkiewicz, Adam Miranowicz, Franco Nori|[2411.05745](http://arxiv.org/abs/2411.05745)|null|
 |**2024-11-07**|**Optimization of experimental quantum randomness expansion**|Amelie Piveteau, Alban Seguinard, Piotr Mironowicz, Mohamed Bourennane|[2411.04934](http://arxiv.org/abs/2411.04934)|null|
 |**2024-11-06**|**Achieving Maximal Causal Indefiniteness in a Maximally Nonlocal Theory**|Kuntal Sengupta|[2411.04201](http://arxiv.org/abs/2411.04201)|null|
 |**2024-11-05**|**Robust self-testing for nonlocal games with robust game algebras**|Yuming Zhao|[2411.03259](http://arxiv.org/abs/2411.03259)|null|
@@ -327,6 +328,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Quantum processes as thermodynamic resources: the role of non-Markovianity**|Guilherme Zambon, Gerardo Adesso|[2411.05559](http://arxiv.org/abs/2411.05559)|null|
 |**2024-11-06**|**Causality and Duality in Multipartite Generalized Probabilistic Theories**|Yiying Chen, Peidong Wang, Zizhu Wang|[2411.03903](http://arxiv.org/abs/2411.03903)|null|
 |**2024-11-01**|**Pauli Transfer Matrices**|Lukas Hantzko, Lennart Binkowski, Sabhyata Gupta|[2411.00526](http://arxiv.org/abs/2411.00526)|null|
 |**2024-10-30**|**Unique multipartite extension of quantum states over time**|Seok Hyung Lie, James Fullwood|[2410.22630](http://arxiv.org/abs/2410.22630)|null|
@@ -417,7 +419,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-01**|**From supefluid 3He to altermagnets**|T. Jungwirth, R. M. Fernandes, E. Fradkin, A. H. MacDonald, J. Sinova, L. Smejkal|[2411.00717](http://arxiv.org/abs/2411.00717)|null|
 |**2024-10-31**|**2D magnetic stability**|Douglas Lundholm|[2410.24156](http://arxiv.org/abs/2410.24156)|null|
-|**2024-10-30**|**Pauli energy contribution to nucleus-nucleus interaction**|A. S. Umar. K. Godbey, C. Simenel|[2410.23489](http://arxiv.org/abs/2410.23489)|null|
+|**2024-11-08**|**Pauli energy contribution to nucleus-nucleus interaction**|A. S. Umar, K. Godbey, C. Simenel|[2410.23489](http://arxiv.org/abs/2410.23489)|null|
 |**2024-10-21**|**Effects of graph operations on star pairwise compatibility graphs**|Angelo Monti, Blerina Sinaimeri|[2410.16023](http://arxiv.org/abs/2410.16023)|null|
 |**2024-10-21**|**Event-based contextuality theory**|Songyi Liu, Yongjun Wang, Baoshan Wang|[2410.15790](http://arxiv.org/abs/2410.15790)|null|
 |**2024-10-18**|**An abstract structure determines the contextuality degree of observable-based Kochen-Specker proofs**|Axel Muller, Alain Giorgetti|[2410.14463](http://arxiv.org/abs/2410.14463)|null|
@@ -804,6 +806,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**DQC1-hardness of estimating correlation functions**|Subhayan Roy Moulik, Sergii Strelchuk|[2411.05208](http://arxiv.org/abs/2411.05208)|null|
 |**2024-11-07**|**FQsun: A Configurable Wave Function-Based Quantum Emulator for Power-Efficient Quantum Simulations**|Tuan Hai Vu, Vu Trung Duong Le, Hoai Luan Pham, Quoc Chuong Nguyen, Yasuhiko Nakashima|[2411.04471](http://arxiv.org/abs/2411.04471)|null|
 |**2024-11-06**|**On the complexity of sampling from shallow Brownian circuits**|Gregory Bentsen, Bill Fefferman, Soumik Ghosh, Michael J. Gullans, Yinchen Liu|[2411.04169](http://arxiv.org/abs/2411.04169)|null|
 |**2024-11-06**|**Holographic deep thermalization**|Bingzhi Zhang, Peng Xu, Xiaohui Chen, Quntao Zhuang|[2411.03587](http://arxiv.org/abs/2411.03587)|null|
@@ -1171,6 +1174,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Phases of decodability in the surface code with unitary errors**|Yimu Bao, Sajant Anand|[2411.05785](http://arxiv.org/abs/2411.05785)|null|
+|**2024-11-08**|**Color codes with domino twists: Construction, logical measurements, and computation**|Manoj G. Gowda|[2411.05402](http://arxiv.org/abs/2411.05402)|null|
 |**2024-11-07**|**Tailoring Dynamical Codes for Biased Noise: The X $^3$Z$^3$ Floquet Code**|F. Setiawan, Campbell McLauchlan|[2411.04974](http://arxiv.org/abs/2411.04974)|null|
 |**2024-11-07**|**Belief propagation for general graphical models with loops**|Pedro Hack, Christian B. Mendl, Alexandru Paler|[2411.04957](http://arxiv.org/abs/2411.04957)|null|
 |**2024-11-07**|**Efficient quantum pseudorandomness under conservation laws**|Zimu Li, Han Zheng, Zi-Wen Liu|[2411.04893](http://arxiv.org/abs/2411.04893)|null|

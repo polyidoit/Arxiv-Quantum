@@ -335,7 +335,7 @@ layout: default
 |**2024-11-01**|**Pauli Transfer Matrices**|Lukas Hantzko, Lennart Binkowski, Sabhyata Gupta|[2411.00526](http://arxiv.org/abs/2411.00526)|null|
 |**2024-10-30**|**Unique multipartite extension of quantum states over time**|Seok Hyung Lie, James Fullwood|[2410.22630](http://arxiv.org/abs/2410.22630)|null|
 |**2024-10-06**|**Unitary Closed Timelike Curves can Solve all of NP**|Omri Shmueli|[2410.04630](http://arxiv.org/abs/2410.04630)|null|
-|**2024-10-02**|**Universal bounds in quantum metrology in presence of correlated noise**|Stanislaw Kurdzialek, Francesco Albarelli, Rafal Demkowicz-Dobrzanski|[2410.01881](http://arxiv.org/abs/2410.01881)|null|
+|**2024-11-12**|**Universal bounds for quantum metrology in the presence of correlated noise**|Stanislaw Kurdzialek, Francesco Albarelli, Rafal Demkowicz-Dobrzanski|[2410.01881](http://arxiv.org/abs/2410.01881)|null|
 |**2024-10-14**|**Quantum Bayes' rule and Petz transpose map from the minimal change principle**|Ge Bai, Francesco Buscemi, Valerio Scarani|[2410.00319](http://arxiv.org/abs/2410.00319)|null|
 |**2024-09-17**|**Knot invariants and indefinite causal order**|Samuel Fedida, Anne-Catherine de la Hamette, Viktoria Kabel, Časlav Brukner|[2409.11448](http://arxiv.org/abs/2409.11448)|null|
 |**2024-09-10**|**Accelerated detector in a superposed spacetime**|Lakshay Goel, Everett A. Patterson, María Rosa Preciado-Rivas, Mahdi Torabian, Robert B. Mann, Niayesh Afshordi|[2409.06818](http://arxiv.org/abs/2409.06818)|null|
@@ -531,7 +531,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-11**|**Quantum steering and entanglement for coupled systems: exact results**|Radouan Hab arrih, Ayoub Ghaba, Ahmed Jellal|[2411.07010](http://arxiv.org/abs/2411.07010)|null|
-|**2024-11-08**|**Measurement incompatibility under loss**|Mohammad Mehboudi, Fatemeh Rezayinia, Saleh Rahimi-Kesharri|[2411.05920](http://arxiv.org/abs/2411.05920)|null|
+|**2024-11-12**|**Measurement incompatibility under loss**|Mohammad Mehboudi, Fatemeh Rezaeinia, Saleh Rahimi-Keshari|[2411.05920](http://arxiv.org/abs/2411.05920)|null|
 |**2024-10-28**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in magnon frequency comb**|Qianjun Zheng, H. Y. Yuan, Yunshan Cao, Peng Yan|[2410.21122](http://arxiv.org/abs/2410.21122)|null|
 |**2024-10-27**|**Certifying classes of $d$ -outcome measurements with quantum steering**|Alexandre C. Orthey Jr, Remigiusz Augusiak|[2410.20477](http://arxiv.org/abs/2410.20477)|null|
 |**2024-10-23**|**Enhanced Gaussian interferometric power, entanglement and Gaussian quantum steering in magnonics system with squeezed light**|Noura Chabar, M bark Amghar, Mohamed Amazioug|[2410.18288](http://arxiv.org/abs/2410.18288)|null|
@@ -810,6 +810,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Two-stage relaxation of operators through domain wall and magnon dynamics**|Cheryne Jonay, Cathy Li, Tianci Zhou|[2411.07298](http://arxiv.org/abs/2411.07298)|null|
 |**2024-11-08**|**On quantum ergodicity for higher dimensional cat maps**|Pär Kurlberg, Alina Ostafe, Zeev Rudnick, Igor E. Shparlinski|[2411.05997](http://arxiv.org/abs/2411.05997)|null|
 |**2024-11-07**|**DQC1-hardness of estimating correlation functions**|Subhayan Roy Moulik, Sergii Strelchuk|[2411.05208](http://arxiv.org/abs/2411.05208)|null|
 |**2024-11-07**|**FQsun: A Configurable Wave Function-Based Quantum Emulator for Power-Efficient Quantum Simulations**|Tuan Hai Vu, Vu Trung Duong Le, Hoai Luan Pham, Quoc Chuong Nguyen, Yasuhiko Nakashima|[2411.04471](http://arxiv.org/abs/2411.04471)|**[link](https://github.com/NAIST-Archlab/FQsun)**|
@@ -1179,9 +1180,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Non-isometry, State-Dependence and Holography**|Stefano Antonini, Vijay Balasubramanian, Ning Bao, ChunJun Cao, Wissam Chemissany|[2411.07296](http://arxiv.org/abs/2411.07296)|null|
+|**2024-11-11**|**Emergent Geometry from Quantum Probability**|Shadi Ali Ahmad, Marc S. Klinger|[2411.07288](http://arxiv.org/abs/2411.07288)|null|
 |**2024-11-10**|**Low bit-flip rate probabilistic error cancellation**|Mathys Rennela, Harold Ollivier|[2411.06422](http://arxiv.org/abs/2411.06422)|null|
 |**2024-11-10**|**Error-mitigated initialization of surface codes with non-Pauli stabilizers**|Zhi-Cheng He, Zheng-Yuan Xue|[2411.06407](http://arxiv.org/abs/2411.06407)|null|
-|**2024-11-10**|**Adding the algebraic Ryu-Takayanigi formula to the algebraic reconstruction theorem**|Mingshuai Xu, Haocheng Zhong|[2411.06361](http://arxiv.org/abs/2411.06361)|null|
+|**2024-11-12**|**Adding the algebraic Ryu-Takayanagi formula to the algebraic reconstruction theorem**|Mingshuai Xu, Haocheng Zhong|[2411.06361](http://arxiv.org/abs/2411.06361)|null|
 |**2024-11-08**|**Phases of decodability in the surface code with unitary errors**|Yimu Bao, Sajant Anand|[2411.05785](http://arxiv.org/abs/2411.05785)|null|
 |**2024-11-08**|**Color codes with domino twists: Construction, logical measurements, and computation**|Manoj G. Gowda|[2411.05402](http://arxiv.org/abs/2411.05402)|null|
 |**2024-11-07**|**Tailoring Dynamical Codes for Biased Noise: The X $^3$Z$^3$ Floquet Code**|F. Setiawan, Campbell McLauchlan|[2411.04974](http://arxiv.org/abs/2411.04974)|null|

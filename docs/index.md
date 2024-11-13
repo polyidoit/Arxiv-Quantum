@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 
 ## Bell nonlocality
 
@@ -812,7 +812,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-08**|**On quantum ergodicity for higher dimensional cat maps**|Pär Kurlberg, Alina Ostafe, Zeev Rudnick, Igor E. Shparlinski|[2411.05997](http://arxiv.org/abs/2411.05997)|null|
 |**2024-11-07**|**DQC1-hardness of estimating correlation functions**|Subhayan Roy Moulik, Sergii Strelchuk|[2411.05208](http://arxiv.org/abs/2411.05208)|null|
-|**2024-11-07**|**FQsun: A Configurable Wave Function-Based Quantum Emulator for Power-Efficient Quantum Simulations**|Tuan Hai Vu, Vu Trung Duong Le, Hoai Luan Pham, Quoc Chuong Nguyen, Yasuhiko Nakashima|[2411.04471](http://arxiv.org/abs/2411.04471)|null|
+|**2024-11-07**|**FQsun: A Configurable Wave Function-Based Quantum Emulator for Power-Efficient Quantum Simulations**|Tuan Hai Vu, Vu Trung Duong Le, Hoai Luan Pham, Quoc Chuong Nguyen, Yasuhiko Nakashima|[2411.04471](http://arxiv.org/abs/2411.04471)|**[link](https://github.com/NAIST-Archlab/FQsun)**|
 |**2024-11-06**|**On the complexity of sampling from shallow Brownian circuits**|Gregory Bentsen, Bill Fefferman, Soumik Ghosh, Michael J. Gullans, Yinchen Liu|[2411.04169](http://arxiv.org/abs/2411.04169)|null|
 |**2024-11-06**|**Holographic deep thermalization**|Bingzhi Zhang, Peng Xu, Xiaohui Chen, Quntao Zhuang|[2411.03587](http://arxiv.org/abs/2411.03587)|null|
 |**2024-11-05**|**Exploring the properties of quantum scars in a toy model**|Sudip Sinha, S. Sinha|[2411.03234](http://arxiv.org/abs/2411.03234)|null|

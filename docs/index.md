@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Proposal for a Bell Test with Entangled Atoms of Different Mass**|X. T. Yan, S. Kannan, Y. S. Athreya, A. G. Truscott, S. S. Hodgman|[2411.08356](http://arxiv.org/abs/2411.08356)|null|
 |**2024-11-08**|**AI-assisted experimental measures of entanglement and Bell's nonlocality without state tomography**|Patrycja Tulewicz, Karol Bartkiewicz, Adam Miranowicz, Franco Nori|[2411.05745](http://arxiv.org/abs/2411.05745)|null|
 |**2024-11-07**|**Optimization of experimental quantum randomness expansion**|Amelie Piveteau, Alban Seguinard, Piotr Mironowicz, Mohamed Bourennane|[2411.04934](http://arxiv.org/abs/2411.04934)|null|
 |**2024-11-06**|**Achieving Maximal Causal Indefiniteness in a Maximally Nonlocal Theory**|Kuntal Sengupta|[2411.04201](http://arxiv.org/abs/2411.04201)|null|
@@ -530,6 +531,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**One-Sided Device-Independent Random Number Generation Through Fiber Channels**|Jinfang Zhang, Yi Li, Mengyu Zhao, Dongmei Han, Jun Liu, Meihong Wang, Qihuang Gong, Yu Xiang, Qiongyi He, Xiaolong Su|[2411.08441](http://arxiv.org/abs/2411.08441)|null|
 |**2024-11-11**|**Quantum steering and entanglement for coupled systems: exact results**|Radouan Hab arrih, Ayoub Ghaba, Ahmed Jellal|[2411.07010](http://arxiv.org/abs/2411.07010)|null|
 |**2024-11-12**|**Measurement incompatibility under loss**|Mohammad Mehboudi, Fatemeh Rezaeinia, Saleh Rahimi-Keshari|[2411.05920](http://arxiv.org/abs/2411.05920)|null|
 |**2024-10-28**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in magnon frequency comb**|Qianjun Zheng, H. Y. Yuan, Yunshan Cao, Peng Yan|[2410.21122](http://arxiv.org/abs/2410.21122)|null|
@@ -810,6 +812,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**A Classical Analogue of Entanglement for a Kicked Top**|Bilal Khalid, Sabre Kais|[2411.08857](http://arxiv.org/abs/2411.08857)|null|
+|**2024-11-13**|**Chaotic-Integrable Transition for Disordered Orbital Hatsugai-Kohmoto Model**|Ying-Lin Li, Chen-Te Ma, Po-Yao Chang|[2411.08496](http://arxiv.org/abs/2411.08496)|null|
+|**2024-11-12**|**Two types of quantum chaos: testing the limits of the Bohigas-Giannoni-Schmit conjecture**|Javier M. Magan, Qingyue Wu|[2411.08186](http://arxiv.org/abs/2411.08186)|null|
+|**2024-11-12**|**Chaos in unorientable JT gravity**|Jarod Tall, Torsten Weber, Juan Diego Urbina, Klaus Richter|[2411.08129](http://arxiv.org/abs/2411.08129)|null|
+|**2024-11-12**|**Chaos and the Emergence of the Cosmological Horizon**|David K. Kolchmeyer, Hong Liu|[2411.08090](http://arxiv.org/abs/2411.08090)|null|
 |**2024-11-11**|**Two-stage relaxation of operators through domain wall and magnon dynamics**|Cheryne Jonay, Cathy Li, Tianci Zhou|[2411.07298](http://arxiv.org/abs/2411.07298)|null|
 |**2024-11-08**|**On quantum ergodicity for higher dimensional cat maps**|Pär Kurlberg, Alina Ostafe, Zeev Rudnick, Igor E. Shparlinski|[2411.05997](http://arxiv.org/abs/2411.05997)|null|
 |**2024-11-07**|**DQC1-hardness of estimating correlation functions**|Subhayan Roy Moulik, Sergii Strelchuk|[2411.05208](http://arxiv.org/abs/2411.05208)|null|
@@ -1180,6 +1187,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Twisted Kitaev quantum double model as local topological order**|Shawn X. Cui, César Galindo, Diego Romero|[2411.08675](http://arxiv.org/abs/2411.08675)|null|
+|**2024-11-12**|**Erasure Decoding for Quantum LDPC Codes via Belief Propagation with Guided Decimation**|Mert Gökduman, Hanwen Yao, Henry D. Pfister|[2411.08177](http://arxiv.org/abs/2411.08177)|null|
+|**2024-11-12**|**A cat qubit stabilization scheme using a voltage biased Josephson junction**|Thiziri Aissaoui, Anil Murani, Raphaël Lescanne, Alain Sarlette|[2411.08132](http://arxiv.org/abs/2411.08132)|null|
 |**2024-11-11**|**Non-isometry, State-Dependence and Holography**|Stefano Antonini, Vijay Balasubramanian, Ning Bao, ChunJun Cao, Wissam Chemissany|[2411.07296](http://arxiv.org/abs/2411.07296)|null|
 |**2024-11-11**|**Emergent Geometry from Quantum Probability**|Shadi Ali Ahmad, Marc S. Klinger|[2411.07288](http://arxiv.org/abs/2411.07288)|null|
 |**2024-11-10**|**Low bit-flip rate probabilistic error cancellation**|Mathys Rennela, Harold Ollivier|[2411.06422](http://arxiv.org/abs/2411.06422)|null|

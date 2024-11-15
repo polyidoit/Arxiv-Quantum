@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Coherent coupling of momentum states: selectivity and phase control**|Charlie Leprince, Victor Gondret, Clothilde Lamirault, Rui Dias, Quentin Marolleau, Denis Boiron, Christoph I Westbrook|[2411.09284](http://arxiv.org/abs/2411.09284)|null|
 |**2024-11-13**|**Proposal for a Bell Test with Entangled Atoms of Different Mass**|X. T. Yan, S. Kannan, Y. S. Athreya, A. G. Truscott, S. S. Hodgman|[2411.08356](http://arxiv.org/abs/2411.08356)|null|
 |**2024-11-08**|**AI-assisted experimental measures of entanglement and Bell's nonlocality without state tomography**|Patrycja Tulewicz, Karol Bartkiewicz, Adam Miranowicz, Franco Nori|[2411.05745](http://arxiv.org/abs/2411.05745)|null|
 |**2024-11-07**|**Optimization of experimental quantum randomness expansion**|Amelie Piveteau, Alban Seguinard, Piotr Mironowicz, Mohamed Bourennane|[2411.04934](http://arxiv.org/abs/2411.04934)|null|
@@ -433,6 +434,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**Unexpected consequences of Post-Quantum theories in the graph-theoretical approach to correlations**|José Nogueira, Carlos Vieira, Marcelo Terra Cunha|[2411.09036](http://arxiv.org/abs/2411.09036)|null|
 |**2024-11-01**|**From supefluid 3He to altermagnets**|T. Jungwirth, R. M. Fernandes, E. Fradkin, A. H. MacDonald, J. Sinova, L. Smejkal|[2411.00717](http://arxiv.org/abs/2411.00717)|null|
 |**2024-10-31**|**2D magnetic stability**|Douglas Lundholm|[2410.24156](http://arxiv.org/abs/2410.24156)|null|
 |**2024-11-08**|**Pauli energy contribution to nucleus-nucleus interaction**|A. S. Umar, K. Godbey, C. Simenel|[2410.23489](http://arxiv.org/abs/2410.23489)|null|
@@ -831,6 +833,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Chaos in hyperscaling violating Lifshitz theories**|Nikesh Lilani|[2411.09667](http://arxiv.org/abs/2411.09667)|null|
 |**2024-11-13**|**A Classical Analogue of Entanglement for a Kicked Top**|Bilal Khalid, Sabre Kais|[2411.08857](http://arxiv.org/abs/2411.08857)|null|
 |**2024-11-13**|**Chaotic-Integrable Transition for Disordered Orbital Hatsugai-Kohmoto Model**|Ying-Lin Li, Chen-Te Ma, Po-Yao Chang|[2411.08496](http://arxiv.org/abs/2411.08496)|null|
 |**2024-11-12**|**Two types of quantum chaos: testing the limits of the Bohigas-Giannoni-Schmit conjecture**|Javier M. Magan, Qingyue Wu|[2411.08186](http://arxiv.org/abs/2411.08186)|null|
@@ -1208,6 +1211,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**A Universal Circuit Set Using the $S_3$ Quantum Double**|Liyuan Chen, Yuanjie Ren, Ruihua Fan, Arthur Jaffe|[2411.09697](http://arxiv.org/abs/2411.09697)|null|
+|**2024-11-14**|**Letting the tiger out of its cage: bosonic coding without concatenation**|Yijia Xu, Yixu Wang, Christophe Vuillot, Victor V. Albert|[2411.09668](http://arxiv.org/abs/2411.09668)|null|
+|**2024-11-14**|**Noise-adapted Quantum Error Correction for Non-Markovian Noise**|Debjyoti Biswas, Shrikant Utagi, Prabha Mandayam|[2411.09637](http://arxiv.org/abs/2411.09637)|null|
+|**2024-11-14**|**Correction of circuit faults in a stacked quantum memory using rank-metric codes**|Nicolas Delfosse, Gilles Zémor|[2411.09173](http://arxiv.org/abs/2411.09173)|null|
+|**2024-11-13**|**Fermion-qubit fault-tolerant quantum computing**|Alexander Schuckert, Eleanor Crane, Alexey V. Gorshkov, Mohammad Hafezi, Michael J. Gullans|[2411.08955](http://arxiv.org/abs/2411.08955)|null|
 |**2024-11-13**|**Twisted Kitaev quantum double model as local topological order**|Shawn X. Cui, César Galindo, Diego Romero|[2411.08675](http://arxiv.org/abs/2411.08675)|null|
 |**2024-11-12**|**Erasure Decoding for Quantum LDPC Codes via Belief Propagation with Guided Decimation**|Mert Gökduman, Hanwen Yao, Henry D. Pfister|[2411.08177](http://arxiv.org/abs/2411.08177)|null|
 |**2024-11-12**|**A cat qubit stabilization scheme using a voltage biased Josephson junction**|Thiziri Aissaoui, Anil Murani, Raphaël Lescanne, Alain Sarlette|[2411.08132](http://arxiv.org/abs/2411.08132)|null|

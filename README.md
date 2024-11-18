@@ -434,6 +434,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Distribution Function for $n \ge g$ Quantum Particles**|Shimul Akhanjee|[2411.09877](http://arxiv.org/abs/2411.09877)|null|
+|**2024-11-14**|**Exclusivity principle, Ramsey theory, and $n$ -cycle PR boxes**|Raman Choudhary, Rui Soares Barbosa|[2411.09773](http://arxiv.org/abs/2411.09773)|null|
 |**2024-11-13**|**Unexpected consequences of Post-Quantum theories in the graph-theoretical approach to correlations**|José Nogueira, Carlos Vieira, Marcelo Terra Cunha|[2411.09036](http://arxiv.org/abs/2411.09036)|null|
 |**2024-11-01**|**From supefluid 3He to altermagnets**|T. Jungwirth, R. M. Fernandes, E. Fradkin, A. H. MacDonald, J. Sinova, L. Smejkal|[2411.00717](http://arxiv.org/abs/2411.00717)|null|
 |**2024-10-31**|**2D magnetic stability**|Douglas Lundholm|[2410.24156](http://arxiv.org/abs/2410.24156)|null|
@@ -833,6 +835,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Measuring Butterfly Velocity in the XY Model on Emerging Quantum Computers**|Calum McCartney, Eric Chen, Subhayan Roy Moulik|[2411.10206](http://arxiv.org/abs/2411.10206)|null|
+|**2024-11-14**|**Reinforced Disentanglers on Random Unitary Circuits**|Ning Bao, Keiichiro Furuya, Gun Suer|[2411.09784](http://arxiv.org/abs/2411.09784)|null|
 |**2024-11-14**|**Chaos in hyperscaling violating Lifshitz theories**|Nikesh Lilani|[2411.09667](http://arxiv.org/abs/2411.09667)|null|
 |**2024-11-13**|**A Classical Analogue of Entanglement for a Kicked Top**|Bilal Khalid, Sabre Kais|[2411.08857](http://arxiv.org/abs/2411.08857)|null|
 |**2024-11-13**|**Chaotic-Integrable Transition for Disordered Orbital Hatsugai-Kohmoto Model**|Ying-Lin Li, Chen-Te Ma, Po-Yao Chang|[2411.08496](http://arxiv.org/abs/2411.08496)|null|
@@ -1211,6 +1215,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni, Artur Scherer, K. Grace Johnson, Oded Wertheim, Matthew Otten, Navid Anjum Aadit, Kirk M. Bresniker, Kerem Y. Camsari, Barbara Chapman, Soumitra Chatterjee, Gebremedhin A. Dagnew, Aniello Esposito, Farah Fahim, Marco Fiorentino, Abdullah Khalid, Xiangzhou Kong, Bohdan Kulchytskyy, Ruoyu Li, P. Aaron Lott, Igor L. Markov, Robert F. McDermott, Giacomo Pedretti, Archit Gajjar, Allyson Silva, John Sorebo, Panagiotis Spentzouris, Ziv Steiner, Boyan Torosov, Davide Venturelli, Robert J. Visser, Zak Webb, Xin Zhan, Yonatan Cohen, Pooya Ronagh, Alan Ho, Raymond G. Beausoleil, John M. Martinis|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
+|**2024-11-15**|**Local Clustering Decoder: a fast and adaptive hardware decoder for the surface code**|Abbas B. Ziad, Ankit Zalawadiya, Canberk Topal, Joan Camps, György P. Gehér, Matthew P. Stafford, Mark L. Turner|[2411.10343](http://arxiv.org/abs/2411.10343)|null|
+|**2024-11-14**|**Optimal State Preparation for Logical Arrays on Zoned Neutral Atom Quantum Computers**|Yannick Stade, Ludwig Schmid, Lukas Burgholzer, Robert Wille|[2411.09738](http://arxiv.org/abs/2411.09738)|null|
 |**2024-11-14**|**A Universal Circuit Set Using the $S_3$ Quantum Double**|Liyuan Chen, Yuanjie Ren, Ruihua Fan, Arthur Jaffe|[2411.09697](http://arxiv.org/abs/2411.09697)|null|
 |**2024-11-14**|**Letting the tiger out of its cage: bosonic coding without concatenation**|Yijia Xu, Yixu Wang, Christophe Vuillot, Victor V. Albert|[2411.09668](http://arxiv.org/abs/2411.09668)|null|
 |**2024-11-14**|**Noise-adapted Quantum Error Correction for Non-Markovian Noise**|Debjyoti Biswas, Shrikant Utagi, Prabha Mandayam|[2411.09637](http://arxiv.org/abs/2411.09637)|null|

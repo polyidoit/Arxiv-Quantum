@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Relativistic Quantum Information from Unequal-Time QFT Correlation Functions**|Charis Anastopoulos, Konstantina Savvidou|[2411.11631](http://arxiv.org/abs/2411.11631)|null|
+|**2024-11-18**|**Generalizing Bell nonlocality without global causal assumptions**|Ravi Kunjwal, Ognyan Oreshkov|[2411.11397](http://arxiv.org/abs/2411.11397)|null|
 |**2024-11-14**|**Coherent coupling of momentum states: selectivity and phase control**|Charlie Leprince, Victor Gondret, Clothilde Lamirault, Rui Dias, Quentin Marolleau, Denis Boiron, Christoph I Westbrook|[2411.09284](http://arxiv.org/abs/2411.09284)|null|
 |**2024-11-13**|**Proposal for a Bell Test with Entangled Atoms of Different Mass**|X. T. Yan, S. Kannan, Y. S. Athreya, A. G. Truscott, S. S. Hodgman|[2411.08356](http://arxiv.org/abs/2411.08356)|null|
 |**2024-11-08**|**AI-assisted experimental measures of entanglement and Bell's nonlocality without state tomography**|Patrycja Tulewicz, Karol Bartkiewicz, Adam Miranowicz, Franco Nori|[2411.05745](http://arxiv.org/abs/2411.05745)|null|
@@ -434,6 +436,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Energy shifts and broadening of excitonic resonances in electrostatically-doped semiconductors**|Hanan Dery, Cedric Robert, Scott A. Crooker, Xavier Marie, Dinh Van Tuan|[2411.11790](http://arxiv.org/abs/2411.11790)|null|
 |**2024-11-15**|**Distribution Function for $n \ge g$ Quantum Particles**|Shimul Akhanjee|[2411.09877](http://arxiv.org/abs/2411.09877)|null|
 |**2024-11-14**|**Exclusivity principle, Ramsey theory, and $n$ -cycle PR boxes**|Raman Choudhary, Rui Soares Barbosa|[2411.09773](http://arxiv.org/abs/2411.09773)|null|
 |**2024-11-13**|**Unexpected consequences of Post-Quantum theories in the graph-theoretical approach to correlations**|José Nogueira, Carlos Vieira, Marcelo Terra Cunha|[2411.09036](http://arxiv.org/abs/2411.09036)|null|
@@ -1215,9 +1218,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-17**|**Image-Based RKPM for Accessing Failure Mechanisms in Composite Materials**|Yanran Wang, Yichun Tang, Jing Du, Mike Hillman, J. S. Chen|[2411.10998](http://arxiv.org/abs/2411.10998)|null|
 |**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni, Artur Scherer, K. Grace Johnson, Oded Wertheim, Matthew Otten, Navid Anjum Aadit, Kirk M. Bresniker, Kerem Y. Camsari, Barbara Chapman, Soumitra Chatterjee, Gebremedhin A. Dagnew, Aniello Esposito, Farah Fahim, Marco Fiorentino, Abdullah Khalid, Xiangzhou Kong, Bohdan Kulchytskyy, Ruoyu Li, P. Aaron Lott, Igor L. Markov, Robert F. McDermott, Giacomo Pedretti, Archit Gajjar, Allyson Silva, John Sorebo, Panagiotis Spentzouris, Ziv Steiner, Boyan Torosov, Davide Venturelli, Robert J. Visser, Zak Webb, Xin Zhan, Yonatan Cohen, Pooya Ronagh, Alan Ho, Raymond G. Beausoleil, John M. Martinis|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
 |**2024-11-15**|**Local Clustering Decoder: a fast and adaptive hardware decoder for the surface code**|Abbas B. Ziad, Ankit Zalawadiya, Canberk Topal, Joan Camps, György P. Gehér, Matthew P. Stafford, Mark L. Turner|[2411.10343](http://arxiv.org/abs/2411.10343)|null|
-|**2024-11-14**|**Optimal State Preparation for Logical Arrays on Zoned Neutral Atom Quantum Computers**|Yannick Stade, Ludwig Schmid, Lukas Burgholzer, Robert Wille|[2411.09738](http://arxiv.org/abs/2411.09738)|null|
+|**2024-11-14**|**Optimal State Preparation for Logical Arrays on Zoned Neutral Atom Quantum Computers**|Yannick Stade, Ludwig Schmid, Lukas Burgholzer, Robert Wille|[2411.09738](http://arxiv.org/abs/2411.09738)|**[link](https://github.com/cda-tum/mqt-qmap)**|
 |**2024-11-14**|**A Universal Circuit Set Using the $S_3$ Quantum Double**|Liyuan Chen, Yuanjie Ren, Ruihua Fan, Arthur Jaffe|[2411.09697](http://arxiv.org/abs/2411.09697)|null|
 |**2024-11-14**|**Letting the tiger out of its cage: bosonic coding without concatenation**|Yijia Xu, Yixu Wang, Christophe Vuillot, Victor V. Albert|[2411.09668](http://arxiv.org/abs/2411.09668)|null|
 |**2024-11-14**|**Noise-adapted Quantum Error Correction for Non-Markovian Noise**|Debjyoti Biswas, Shrikant Utagi, Prabha Mandayam|[2411.09637](http://arxiv.org/abs/2411.09637)|null|

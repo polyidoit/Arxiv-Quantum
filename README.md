@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Quantum state tomography with muons**|Leyun Gao, Alim Ruzi, Qite Li, Chen Zhou, Liangwen Chen, Xueheng Zhang, Zhiyu Sun, Qiang Li|[2411.12518](http://arxiv.org/abs/2411.12518)|null|
 |**2024-11-18**|**Relativistic Quantum Information from Unequal-Time QFT Correlation Functions**|Charis Anastopoulos, Konstantina Savvidou|[2411.11631](http://arxiv.org/abs/2411.11631)|null|
 |**2024-11-18**|**Generalizing Bell nonlocality without global causal assumptions**|Ravi Kunjwal, Ognyan Oreshkov|[2411.11397](http://arxiv.org/abs/2411.11397)|null|
 |**2024-11-14**|**Coherent coupling of momentum states: selectivity and phase control**|Charlie Leprince, Victor Gondret, Clothilde Lamirault, Rui Dias, Quentin Marolleau, Denis Boiron, Christoph I Westbrook|[2411.09284](http://arxiv.org/abs/2411.09284)|null|
@@ -838,6 +839,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Quantum ergodicity and scrambling in quantum annealers**|Manuel H. Muñoz-Arias, Pablo M. Poggi|[2411.12625](http://arxiv.org/abs/2411.12625)|null|
+|**2024-11-19**|**Classical and quantum chaos of closed strings on a charged confining holographic background**|Bhaskar Shukla, Owais Riyaz, Subhash Mahapatra|[2411.12536](http://arxiv.org/abs/2411.12536)|null|
+|**2024-11-18**|**Long-time Freeness in the Kicked Top**|Elisa Vallini, Silvia Pappalardi|[2411.12050](http://arxiv.org/abs/2411.12050)|null|
+|**2024-11-18**|**Hilbert space geometry and quantum chaos**|Rustem Sharipov, Anastasiia Tiutiakina, Alexander Gorsky, Vladimir Gritsev, Anatoli Polkovnikov|[2411.11968](http://arxiv.org/abs/2411.11968)|null|
 |**2024-11-15**|**Measuring Butterfly Velocity in the XY Model on Emerging Quantum Computers**|Calum McCartney, Eric Chen, Subhayan Roy Moulik|[2411.10206](http://arxiv.org/abs/2411.10206)|null|
 |**2024-11-14**|**Reinforced Disentanglers on Random Unitary Circuits**|Ning Bao, Keiichiro Furuya, Gun Suer|[2411.09784](http://arxiv.org/abs/2411.09784)|null|
 |**2024-11-14**|**Chaos in hyperscaling violating Lifshitz theories**|Nikesh Lilani|[2411.09667](http://arxiv.org/abs/2411.09667)|null|

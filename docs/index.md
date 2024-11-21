@@ -642,6 +642,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Automating Sonologists USG Commands with AI and Voice Interface**|Emad Mohamed, Shruti Tiwari, Sheena Christabel Pravin|[2411.13006](http://arxiv.org/abs/2411.13006)|null|
 |**2024-11-06**|**Generalized quantum asymptotic equipartition**|Kun Fang, Hamza Fawzi, Omar Fawzi|[2411.04035](http://arxiv.org/abs/2411.04035)|null|
 |**2024-11-04**|**Optimal recoil-free state preparation in an optical atom tweezer**|Lia Kley, Nicolas Heimann, Aslam Parvej, Lukas Broers, Ludwig Mathey|[2411.02262](http://arxiv.org/abs/2411.02262)|null|
 |**2024-11-04**|**Frequency-based Design Method for Model-Free Controllers**|Marcos Moreno-Gonzalez, Antonio Artuñedo, Jorge Villagra|[2411.01908](http://arxiv.org/abs/2411.01908)|null|
@@ -820,6 +821,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Information scrambling and entanglement dynamics in Floquet Time Crystals**|Himanshu Sahu, Fernando Iemini|[2411.13469](http://arxiv.org/abs/2411.13469)|null|
+|**2024-11-19**|**D-commuting SYK model: building quantum chaos from integrable blocks**|Ping Gao, Han Lin, Cheng Peng|[2411.12806](http://arxiv.org/abs/2411.12806)|null|
+|**2024-11-19**|**A Universal Protocol for Quantum-Enhanced Sensing via Information Scrambling**|Bryce Kobrin, Thomas Schuster, Maxwell Block, Weijie Wu, Bradley Mitchell, Emily Davis, Norman Y. Yao|[2411.12794](http://arxiv.org/abs/2411.12794)|null|
 |**2024-11-19**|**Quantum ergodicity and scrambling in quantum annealers**|Manuel H. Muñoz-Arias, Pablo M. Poggi|[2411.12625](http://arxiv.org/abs/2411.12625)|null|
 |**2024-11-19**|**Classical and quantum chaos of closed strings on a charged confining holographic background**|Bhaskar Shukla, Owais Riyaz, Subhash Mahapatra|[2411.12536](http://arxiv.org/abs/2411.12536)|null|
 |**2024-11-18**|**Long-time Freeness in the Kicked Top**|Elisa Vallini, Silvia Pappalardi|[2411.12050](http://arxiv.org/abs/2411.12050)|null|
@@ -1202,6 +1206,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Degenerate quantum erasure decoding**|Kao-Yueh Kuo, Yingkai Ouyang|[2411.13509](http://arxiv.org/abs/2411.13509)|null|
+|**2024-11-20**|**The weight hierarchy of decreasing norm-trace codes**|Eduardo Camps-Moreno, Hiram H. López, Gretchen L. Matthews, Rodrigo San-José|[2411.13375](http://arxiv.org/abs/2411.13375)|null|
+|**2024-11-20**|**Measurement-free code-switching for low overhead quantum computation using permutation invariant codes**|Yingkai Ouyang, Yumang Jing, Gavin K. Brennen|[2411.13142](http://arxiv.org/abs/2411.13142)|null|
+|**2024-11-20**|**Optimized four-qubit quantum error correcting code for amplitude damping channel**|Xuanhui Mao, Qian Xu, Liang Jiang|[2411.12952](http://arxiv.org/abs/2411.12952)|null|
+|**2024-11-19**|**Quantum Prometheus: Defying Overhead with Recycled Ancillas in Quantum Error Correction**|Avimita Chatterjee, Archishman Ghosh, Swaroop Ghosh|[2411.12813](http://arxiv.org/abs/2411.12813)|null|
+|**2024-11-19**|**Thermodynamic limitations on fault-tolerant quantum computing**|Mykhailo Bilokur, Sarang Gopalakrishnan, Shayan Majidy|[2411.12805](http://arxiv.org/abs/2411.12805)|null|
 |**2024-11-17**|**Image-Based RKPM for Accessing Failure Mechanisms in Composite Materials**|Yanran Wang, Yichun Tang, Jing Du, Mike Hillman, J. S. Chen|[2411.10998](http://arxiv.org/abs/2411.10998)|null|
 |**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni, Artur Scherer, K. Grace Johnson, Oded Wertheim, Matthew Otten, Navid Anjum Aadit, Kirk M. Bresniker, Kerem Y. Camsari, Barbara Chapman, Soumitra Chatterjee, Gebremedhin A. Dagnew, Aniello Esposito, Farah Fahim, Marco Fiorentino, Abdullah Khalid, Xiangzhou Kong, Bohdan Kulchytskyy, Ruoyu Li, P. Aaron Lott, Igor L. Markov, Robert F. McDermott, Giacomo Pedretti, Archit Gajjar, Allyson Silva, John Sorebo, Panagiotis Spentzouris, Ziv Steiner, Boyan Torosov, Davide Venturelli, Robert J. Visser, Zak Webb, Xin Zhan, Yonatan Cohen, Pooya Ronagh, Alan Ho, Raymond G. Beausoleil, John M. Martinis|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
 |**2024-11-15**|**Local Clustering Decoder: a fast and adaptive hardware decoder for the surface code**|Abbas B. Ziad, Ankit Zalawadiya, Canberk Topal, Joan Camps, György P. Gehér, Matthew P. Stafford, Mark L. Turner|[2411.10343](http://arxiv.org/abs/2411.10343)|null|

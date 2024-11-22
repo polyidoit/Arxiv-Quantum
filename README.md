@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**The transfer of Bell nonlocality between two and three-qubit dissipative systems with counter-rotating-wave terms**|Zi-Yu Xiong, Yong-Jun Xiao, Ye-Qi Zhang, Qi-Liang He|[2411.13905](http://arxiv.org/abs/2411.13905)|null|
 |**2024-11-19**|**Quantum state tomography with muons**|Leyun Gao, Alim Ruzi, Qite Li, Chen Zhou, Liangwen Chen, Xueheng Zhang, Zhiyu Sun, Qiang Li|[2411.12518](http://arxiv.org/abs/2411.12518)|null|
 |**2024-11-18**|**Relativistic Quantum Information from Unequal-Time QFT Correlation Functions**|Charis Anastopoulos, Konstantina Savvidou|[2411.11631](http://arxiv.org/abs/2411.11631)|null|
 |**2024-11-18**|**Generalizing Bell nonlocality without global causal assumptions**|Ravi Kunjwal, Ognyan Oreshkov|[2411.11397](http://arxiv.org/abs/2411.11397)|null|
@@ -437,6 +438,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Non-Bloch self-energy of dissipative interacting fermions**|He-Ran Wang, Zijian Wang, Zhong Wang|[2411.13661](http://arxiv.org/abs/2411.13661)|null|
 |**2024-11-18**|**Energy shifts and broadening of excitonic resonances in electrostatically-doped semiconductors**|Hanan Dery, Cedric Robert, Scott A. Crooker, Xavier Marie, Dinh Van Tuan|[2411.11790](http://arxiv.org/abs/2411.11790)|null|
 |**2024-11-15**|**Distribution Function for $n \ge g$ Quantum Particles**|Shimul Akhanjee|[2411.09877](http://arxiv.org/abs/2411.09877)|null|
 |**2024-11-14**|**Exclusivity principle, Ramsey theory, and $n$ -cycle PR boxes**|Raman Choudhary, Rui Soares Barbosa|[2411.09773](http://arxiv.org/abs/2411.09773)|null|
@@ -554,6 +556,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Steering in Neutrino Oscillations with Non-Standard Interaction**|Lekhashri Konwar, Bhavna Yadav|[2411.14234](http://arxiv.org/abs/2411.14234)|null|
 |**2024-11-13**|**One-Sided Device-Independent Random Number Generation Through Fiber Channels**|Jinfang Zhang, Yi Li, Mengyu Zhao, Dongmei Han, Jun Liu, Meihong Wang, Qihuang Gong, Yu Xiang, Qiongyi He, Xiaolong Su|[2411.08441](http://arxiv.org/abs/2411.08441)|null|
 |**2024-11-11**|**Quantum steering and entanglement for coupled systems: exact results**|Radouan Hab arrih, Ayoub Ghaba, Ahmed Jellal|[2411.07010](http://arxiv.org/abs/2411.07010)|null|
 |**2024-11-12**|**Measurement incompatibility under loss**|Mohammad Mehboudi, Fatemeh Rezaeinia, Saleh Rahimi-Keshari|[2411.05920](http://arxiv.org/abs/2411.05920)|null|
@@ -659,6 +662,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Low-Field Regime of Magnon Transport in Yttrium Iron Garnet**|Hossein Taghinejad, Kohtaro Yamakawa, Xiaoxi Huang, Yuanqi Lyu, Luke P. Cairns, Ramamoorthy Ramesh, James G. Analytis|[2411.14428](http://arxiv.org/abs/2411.14428)|null|
 |**2024-11-20**|**Automating Sonologists USG Commands with AI and Voice Interface**|Emad Mohamed, Shruti Tiwari, Sheena Christabel Pravin|[2411.13006](http://arxiv.org/abs/2411.13006)|null|
 |**2024-11-06**|**Generalized quantum asymptotic equipartition**|Kun Fang, Hamza Fawzi, Omar Fawzi|[2411.04035](http://arxiv.org/abs/2411.04035)|null|
 |**2024-11-04**|**Optimal recoil-free state preparation in an optical atom tweezer**|Lia Kley, Nicolas Heimann, Aslam Parvej, Lukas Broers, Ludwig Mathey|[2411.02262](http://arxiv.org/abs/2411.02262)|null|
@@ -840,6 +844,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Conditional t-independent spectral gap for random quantum circuits and implications for t-design depths**|James Allen, Daniel Belkin, Bryan K. Clark|[2411.13739](http://arxiv.org/abs/2411.13739)|null|
 |**2024-11-20**|**Information scrambling and entanglement dynamics in Floquet Time Crystals**|Himanshu Sahu, Fernando Iemini|[2411.13469](http://arxiv.org/abs/2411.13469)|null|
 |**2024-11-19**|**D-commuting SYK model: building quantum chaos from integrable blocks**|Ping Gao, Han Lin, Cheng Peng|[2411.12806](http://arxiv.org/abs/2411.12806)|null|
 |**2024-11-19**|**A Universal Protocol for Quantum-Enhanced Sensing via Information Scrambling**|Bryce Kobrin, Thomas Schuster, Maxwell Block, Weijie Wu, Bradley Mitchell, Emily Davis, Norman Y. Yao|[2411.12794](http://arxiv.org/abs/2411.12794)|null|
@@ -1227,6 +1232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Unified and Generalized Approach to Entanglement-Assisted Quantum Error Correction**|Priya J. Nadkarni, Serge Adonsou, Guillaume Dauphinais, David W. Kribs, Michael Vasmer|[2411.14389](http://arxiv.org/abs/2411.14389)|null|
 |**2024-11-20**|**Degenerate quantum erasure decoding**|Kao-Yueh Kuo, Yingkai Ouyang|[2411.13509](http://arxiv.org/abs/2411.13509)|null|
 |**2024-11-20**|**The weight hierarchy of decreasing norm-trace codes**|Eduardo Camps-Moreno, Hiram H. López, Gretchen L. Matthews, Rodrigo San-José|[2411.13375](http://arxiv.org/abs/2411.13375)|null|
 |**2024-11-20**|**Measurement-free code-switching for low overhead quantum computation using permutation invariant codes**|Yingkai Ouyang, Yumang Jing, Gavin K. Brennen|[2411.13142](http://arxiv.org/abs/2411.13142)|null|

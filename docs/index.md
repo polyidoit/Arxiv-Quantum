@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 
 ## Bell nonlocality
 
@@ -544,7 +544,7 @@ layout: default
 |**2024-11-21**|**Steering in Neutrino Oscillations with Non-Standard Interaction**|Lekhashri Konwar, Bhavna Yadav|[2411.14234](http://arxiv.org/abs/2411.14234)|null|
 |**2024-11-13**|**One-Sided Device-Independent Random Number Generation Through Fiber Channels**|Jinfang Zhang, Yi Li, Mengyu Zhao, Dongmei Han, Jun Liu, Meihong Wang, Qihuang Gong, Yu Xiang, Qiongyi He, Xiaolong Su|[2411.08441](http://arxiv.org/abs/2411.08441)|null|
 |**2024-11-11**|**Quantum steering and entanglement for coupled systems: exact results**|Radouan Hab arrih, Ayoub Ghaba, Ahmed Jellal|[2411.07010](http://arxiv.org/abs/2411.07010)|null|
-|**2024-11-12**|**Measurement incompatibility under loss**|Mohammad Mehboudi, Fatemeh Rezaeinia, Saleh Rahimi-Keshari|[2411.05920](http://arxiv.org/abs/2411.05920)|null|
+|**2024-11-12**|**Measurement incompatibility under loss**|Mohammad Mehboudi, Fatemeh Rezaeinia, Saleh Rahimi-Keshari|[2411.05920](http://arxiv.org/abs/2411.05920)|**[link](https://github.com/Mehboudi/Incompatibility_under_pure_loss)**|
 |**2024-10-28**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in magnon frequency comb**|Qianjun Zheng, H. Y. Yuan, Yunshan Cao, Peng Yan|[2410.21122](http://arxiv.org/abs/2410.21122)|null|
 |**2024-10-27**|**Certifying classes of $d$ -outcome measurements with quantum steering**|Alexandre C. Orthey Jr, Remigiusz Augusiak|[2410.20477](http://arxiv.org/abs/2410.20477)|null|
 |**2024-10-23**|**Enhanced Gaussian interferometric power, entanglement and Gaussian quantum steering in magnonics system with squeezed light**|Noura Chabar, M bark Amghar, Mohamed Amazioug|[2410.18288](http://arxiv.org/abs/2410.18288)|null|

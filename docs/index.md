@@ -1211,6 +1211,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Constructing Multipartite Planar Maximally Entangled States from Phase States and Quantum Secret Sharing Protocol**|Lahoucine Bouhouch, Yassine Dakir, Abdallah Slaoui, Rachid Ahl Laamara|[2411.15077](http://arxiv.org/abs/2411.15077)|null|
+|**2024-11-22**|**Color code with a logical control- $S$ gate using transversal $T$ rotations**|Benjamin J. Brown|[2411.15035](http://arxiv.org/abs/2411.15035)|null|
+|**2024-11-22**|**Uncorrectable-error-injection based reliable and secure quantum communication**|IlKwon Sohn, Boseon Kim, Kwangil Bae, Wooyeong Song, Chankyun Lee, Kabgyun Jeong, Wonhyuk Lee|[2411.14710](http://arxiv.org/abs/2411.14710)|null|
+|**2024-11-22**|**Achieving computational gains with quantum error correction primitives: Generation of long-range entanglement enhanced by error detection**|Haoran Liao, Gavin S. Hartnett, Ashish Kakkar, Adrian Tan, Michael Hush, Pranav S. Mundada, Michael J. Biercuk, Yuval Baum|[2411.14638](http://arxiv.org/abs/2411.14638)|null|
+|**2024-11-21**|**The effect of color-coding on students' perception of learning in introductory mechanics**|Brianna S. Dillon Thomas, Scott Carr, Siming Guo|[2411.14605](http://arxiv.org/abs/2411.14605)|null|
 |**2024-11-21**|**Unified and Generalized Approach to Entanglement-Assisted Quantum Error Correction**|Priya J. Nadkarni, Serge Adonsou, Guillaume Dauphinais, David W. Kribs, Michael Vasmer|[2411.14389](http://arxiv.org/abs/2411.14389)|null|
 |**2024-11-20**|**Degenerate quantum erasure decoding**|Kao-Yueh Kuo, Yingkai Ouyang|[2411.13509](http://arxiv.org/abs/2411.13509)|null|
 |**2024-11-20**|**The weight hierarchy of decreasing norm-trace codes**|Eduardo Camps-Moreno, Hiram H. López, Gretchen L. Matthews, Rodrigo San-José|[2411.13375](http://arxiv.org/abs/2411.13375)|null|

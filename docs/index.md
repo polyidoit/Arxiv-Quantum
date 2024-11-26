@@ -425,6 +425,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Regularizing 3D conformal field theories via anyons on the fuzzy sphere**|Cristian Voinea, Ruihua Fan, Nicolas Regnault, Zlatko Papić|[2411.15299](http://arxiv.org/abs/2411.15299)|null|
 |**2024-11-20**|**Non-Bloch self-energy of dissipative interacting fermions**|He-Ran Wang, Zijian Wang, Zhong Wang|[2411.13661](http://arxiv.org/abs/2411.13661)|null|
 |**2024-11-18**|**Energy shifts and broadening of excitonic resonances in electrostatically-doped semiconductors**|Hanan Dery, Cedric Robert, Scott A. Crooker, Xavier Marie, Dinh Van Tuan|[2411.11790](http://arxiv.org/abs/2411.11790)|null|
 |**2024-11-15**|**Distribution Function for $n \ge g$ Quantum Particles**|Shimul Akhanjee|[2411.09877](http://arxiv.org/abs/2411.09877)|null|
@@ -651,7 +652,7 @@ layout: default
 |**2024-11-04**|**Optimal recoil-free state preparation in an optical atom tweezer**|Lia Kley, Nicolas Heimann, Aslam Parvej, Lukas Broers, Ludwig Mathey|[2411.02262](http://arxiv.org/abs/2411.02262)|null|
 |**2024-11-04**|**Frequency-based Design Method for Model-Free Controllers**|Marcos Moreno-Gonzalez, Antonio Artuñedo, Jorge Villagra|[2411.01908](http://arxiv.org/abs/2411.01908)|null|
 |**2024-11-03**|**Genuine non-Gaussian entanglement: quantum correlations beyond Hong-Ou-Mandel**|Xiaobin Zhao, Pengcheng Liao, Quntao Zhuang|[2411.01609](http://arxiv.org/abs/2411.01609)|null|
-|**2024-11-01**|**Assessing non-Gaussian quantum state conversion with the stellar rank**|Oliver Hahn, Giulia Ferrini, Alessandro Ferraro, Ulysse Chabaud|[2410.23721](http://arxiv.org/abs/2410.23721)|**[link](https://github.com/oliverhahnk/stellar-fidelities-no-go-regions)**|
+|**2024-11-25**|**Assessing non-Gaussian quantum state conversion with the stellar rank**|Oliver Hahn, Giulia Ferrini, Alessandro Ferraro, Ulysse Chabaud|[2410.23721](http://arxiv.org/abs/2410.23721)|**[link](https://github.com/oliverhahnk/stellar-fidelities-no-go-regions)**|
 |**2024-10-08**|**Automated Quality Control System for Canned Tuna Production using Artificial Vision**|Sendey Vera, Luis Chuquimarca, Wilson Galdea, Bremnen Véliz, Carlos Saldaña|[2410.17275](http://arxiv.org/abs/2410.17275)|null|
 |**2024-10-22**|**Strong symmetries in collision models and physical dilations of covariant quantum maps**|Marco Cattaneo|[2410.16907](http://arxiv.org/abs/2410.16907)|null|
 |**2024-10-21**|**Dead-zone-free single-beam atomic magnetometer based on free-induction-decay of Rb atoms**|Shrey Mehta, G. K. Samanta, Raghwinder Singh Grewal|[2410.15663](http://arxiv.org/abs/2410.15663)|null|
@@ -825,6 +826,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Out-of-Time Ordered Correlator for a Chaotic Many-Body Quantum System**|Hans A. Weidenmüller|[2411.16274](http://arxiv.org/abs/2411.16274)|null|
 |**2024-11-20**|**Conditional t-independent spectral gap for random quantum circuits and implications for t-design depths**|James Allen, Daniel Belkin, Bryan K. Clark|[2411.13739](http://arxiv.org/abs/2411.13739)|null|
 |**2024-11-20**|**Information scrambling and entanglement dynamics in Floquet Time Crystals**|Himanshu Sahu, Fernando Iemini|[2411.13469](http://arxiv.org/abs/2411.13469)|null|
 |**2024-11-19**|**D-commuting SYK model: building quantum chaos from integrable blocks**|Ping Gao, Han Lin, Cheng Peng|[2411.12806](http://arxiv.org/abs/2411.12806)|null|
@@ -1211,6 +1213,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Extension of Clifford Data Regression Methods for Quantum Error Mitigation**|Jordi Pérez-Guijarro, Alba Pagès-Zamora, Javier R. Fonollosa|[2411.16653](http://arxiv.org/abs/2411.16653)|null|
+|**2024-11-25**|**Soft information decoding with superconducting qubits**|Maurice D. Hanisch, Bence Hetényi, James R. Wootton|[2411.16228](http://arxiv.org/abs/2411.16228)|null|
+|**2024-11-24**|**PINNs4Drops: Convolutional feature-enhanced physics-informed neural networks for reconstructing two-phase flows**|Maximilian Dreisbach, Elham Kiyani, Jochen Kriegseis, George Karniadakis, Alexander Stroh|[2411.15949](http://arxiv.org/abs/2411.15949)|null|
+|**2024-11-24**|**Classifying Logical Gates in Quantum Codes via Cohomology Operations and Symmetry**|Po-Shen Hsin, Ryohei Kobayashi, Guanyu Zhu|[2411.15848](http://arxiv.org/abs/2411.15848)|null|
+|**2024-11-24**|**Deterministic multi-phonon entanglement between two mechanical resonators on separate substrates**|Ming-Han Chou, Hong Qiao, Haoxiong Yan, Gustav Andersson, Christopher R. Conner, Joel Grebel, Yash J. Joshi, Jacob M. Miller, Rhys G. Povey, Xuntao Wu, Andrew N. Cleland|[2411.15726](http://arxiv.org/abs/2411.15726)|null|
 |**2024-11-22**|**Constructing Multipartite Planar Maximally Entangled States from Phase States and Quantum Secret Sharing Protocol**|Lahoucine Bouhouch, Yassine Dakir, Abdallah Slaoui, Rachid Ahl Laamara|[2411.15077](http://arxiv.org/abs/2411.15077)|null|
 |**2024-11-22**|**Color code with a logical control- $S$ gate using transversal $T$ rotations**|Benjamin J. Brown|[2411.15035](http://arxiv.org/abs/2411.15035)|null|
 |**2024-11-22**|**Uncorrectable-error-injection based reliable and secure quantum communication**|IlKwon Sohn, Boseon Kim, Kwangil Bae, Wooyeong Song, Chankyun Lee, Kabgyun Jeong, Wonhyuk Lee|[2411.14710](http://arxiv.org/abs/2411.14710)|null|

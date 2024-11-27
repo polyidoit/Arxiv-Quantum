@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Dynamic violation of Bell's inequalities in the angular momentum representation**|J. A. López-Saldívar, O. Castaños, S. Cordero, R. López-Peña, E. Nahmad-Achar|[2411.16875](http://arxiv.org/abs/2411.16875)|null|
+|**2024-11-25**|**Sequential Attack Impairs Security in Device-independent Quantum Key Distribution**|Pritam Roy, Souradeep Sasmal, Subhankar Bera, Shashank Gupta, Arup Roy, A. S. Majumdar|[2411.16822](http://arxiv.org/abs/2411.16822)|null|
 |**2024-11-21**|**The transfer of Bell nonlocality between two and three-qubit dissipative systems with counter-rotating-wave terms**|Zi-Yu Xiong, Yong-Jun Xiao, Ye-Qi Zhang, Qi-Liang He|[2411.13905](http://arxiv.org/abs/2411.13905)|null|
 |**2024-11-19**|**Quantum state tomography with muons**|Leyun Gao, Alim Ruzi, Qite Li, Chen Zhou, Liangwen Chen, Xueheng Zhang, Zhiyu Sun, Qiang Li|[2411.12518](http://arxiv.org/abs/2411.12518)|null|
 |**2024-11-18**|**Relativistic Quantum Information from Unequal-Time QFT Correlation Functions**|Charis Anastopoulos, Konstantina Savvidou|[2411.11631](http://arxiv.org/abs/2411.11631)|null|
@@ -1234,6 +1236,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture**|Yosuke Ueno, Taku Saito, Teruo Tanimoto, Yasunari Suzuki, Yutaka Tabuchi, Shuhei Tamate, Hiroshi Nakamura|[2411.17519](http://arxiv.org/abs/2411.17519)|null|
 |**2024-11-25**|**Extension of Clifford Data Regression Methods for Quantum Error Mitigation**|Jordi Pérez-Guijarro, Alba Pagès-Zamora, Javier R. Fonollosa|[2411.16653](http://arxiv.org/abs/2411.16653)|null|
 |**2024-11-25**|**Soft information decoding with superconducting qubits**|Maurice D. Hanisch, Bence Hetényi, James R. Wootton|[2411.16228](http://arxiv.org/abs/2411.16228)|null|
 |**2024-11-24**|**PINNs4Drops: Convolutional feature-enhanced physics-informed neural networks for reconstructing two-phase flows**|Maximilian Dreisbach, Elham Kiyani, Jochen Kriegseis, George Karniadakis, Alexander Stroh|[2411.15949](http://arxiv.org/abs/2411.15949)|null|

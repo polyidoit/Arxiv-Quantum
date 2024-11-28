@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Kochen-Specker for many qubits and the classical limit**|Alejandro Hnilo|[2411.17921](http://arxiv.org/abs/2411.17921)|null|
 |**2024-11-25**|**Dynamic violation of Bell's inequalities in the angular momentum representation**|J. A. López-Saldívar, O. Castaños, S. Cordero, R. López-Peña, E. Nahmad-Achar|[2411.16875](http://arxiv.org/abs/2411.16875)|null|
 |**2024-11-25**|**Sequential Attack Impairs Security in Device-independent Quantum Key Distribution**|Pritam Roy, Souradeep Sasmal, Subhankar Bera, Shashank Gupta, Arup Roy, A. S. Majumdar|[2411.16822](http://arxiv.org/abs/2411.16822)|null|
 |**2024-11-21**|**The transfer of Bell nonlocality between two and three-qubit dissipative systems with counter-rotating-wave terms**|Zi-Yu Xiong, Yong-Jun Xiao, Ye-Qi Zhang, Qi-Liang He|[2411.13905](http://arxiv.org/abs/2411.13905)|null|
@@ -440,6 +441,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Graph structure of quantum mechanics**|Songyi Liu, Yongjun Wang, Baoshan Wang, Jian Yan, Heng Zhou|[2411.18146](http://arxiv.org/abs/2411.18146)|null|
 |**2024-11-22**|**Regularizing 3D conformal field theories via anyons on the fuzzy sphere**|Cristian Voinea, Ruihua Fan, Nicolas Regnault, Zlatko Papić|[2411.15299](http://arxiv.org/abs/2411.15299)|null|
 |**2024-11-20**|**Non-Bloch self-energy of dissipative interacting fermions**|He-Ran Wang, Zijian Wang, Zhong Wang|[2411.13661](http://arxiv.org/abs/2411.13661)|null|
 |**2024-11-18**|**Energy shifts and broadening of excitonic resonances in electrostatically-doped semiconductors**|Hanan Dery, Cedric Robert, Scott A. Crooker, Xavier Marie, Dinh Van Tuan|[2411.11790](http://arxiv.org/abs/2411.11790)|null|
@@ -847,6 +849,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Statistical features of quantum chaos using the Krylov operator complexity**|Zhuoran Li, Wei Fan|[2411.18436](http://arxiv.org/abs/2411.18436)|null|
+|**2024-11-26**|**Quantum simulation of the Sachdev-Ye-Kitaev model using time-dependent disorder in optical cavities**|Rahel Baumgartner, Pietro Pelliconi, Soumik Bandyopadhyay, Francesca Orsi, Nick Sauerwein, Philipp Hauke, Jean-Philippe Brantut, Julian Sonner|[2411.17802](http://arxiv.org/abs/2411.17802)|null|
 |**2024-11-25**|**Out-of-Time Ordered Correlator for a Chaotic Many-Body Quantum System**|Hans A. Weidenmüller|[2411.16274](http://arxiv.org/abs/2411.16274)|null|
 |**2024-11-20**|**Conditional t-independent spectral gap for random quantum circuits and implications for t-design depths**|James Allen, Daniel Belkin, Bryan K. Clark|[2411.13739](http://arxiv.org/abs/2411.13739)|null|
 |**2024-11-20**|**Information scrambling and entanglement dynamics in Floquet Time Crystals**|Himanshu Sahu, Fernando Iemini|[2411.13469](http://arxiv.org/abs/2411.13469)|null|
@@ -1236,6 +1240,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Towards quantum error correction with two-body gates for quantum registers based on nitrogen-vacancy centers in diamond**|Daniel Dulog, Martin B. Plenio|[2411.18450](http://arxiv.org/abs/2411.18450)|null|
+|**2024-11-27**|**CIM-Based Parallel Fully FFNN Surface Code High-Level Decoder for Quantum Error Correction**|Hao Wang, Erjia Xiao, Songhuan He, Zhongyi Ni, Lingfeng Zhang, Xiaokun Zhan, Yifei Cui, Jinguo Liu, Cheng Wang, Zhongrui Wang, Renjing Xu|[2411.18090](http://arxiv.org/abs/2411.18090)|null|
 |**2024-11-26**|**High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture**|Yosuke Ueno, Taku Saito, Teruo Tanimoto, Yasunari Suzuki, Yutaka Tabuchi, Shuhei Tamate, Hiroshi Nakamura|[2411.17519](http://arxiv.org/abs/2411.17519)|null|
 |**2024-11-25**|**Extension of Clifford Data Regression Methods for Quantum Error Mitigation**|Jordi Pérez-Guijarro, Alba Pagès-Zamora, Javier R. Fonollosa|[2411.16653](http://arxiv.org/abs/2411.16653)|null|
 |**2024-11-25**|**Soft information decoding with superconducting qubits**|Maurice D. Hanisch, Bence Hetényi, James R. Wootton|[2411.16228](http://arxiv.org/abs/2411.16228)|null|

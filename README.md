@@ -1240,12 +1240,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-28**|**Quantum feedback control with a transformer neural network architecture**|Pranav Vaidhyanathan, Florian Marquardt, Mark T. Mitchison, Natalia Ares|[2411.19253](http://arxiv.org/abs/2411.19253)|null|
+|**2024-11-28**|**Enhanced Lieb-Robinson bounds for commuting long-range interactions**|Marius Lemm, Tom Wessel|[2411.19241](http://arxiv.org/abs/2411.19241)|null|
 |**2024-11-27**|**Towards quantum error correction with two-body gates for quantum registers based on nitrogen-vacancy centers in diamond**|Daniel Dulog, Martin B. Plenio|[2411.18450](http://arxiv.org/abs/2411.18450)|null|
 |**2024-11-27**|**CIM-Based Parallel Fully FFNN Surface Code High-Level Decoder for Quantum Error Correction**|Hao Wang, Erjia Xiao, Songhuan He, Zhongyi Ni, Lingfeng Zhang, Xiaokun Zhan, Yifei Cui, Jinguo Liu, Cheng Wang, Zhongrui Wang, Renjing Xu|[2411.18090](http://arxiv.org/abs/2411.18090)|null|
 |**2024-11-26**|**High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture**|Yosuke Ueno, Taku Saito, Teruo Tanimoto, Yasunari Suzuki, Yutaka Tabuchi, Shuhei Tamate, Hiroshi Nakamura|[2411.17519](http://arxiv.org/abs/2411.17519)|null|
 |**2024-11-25**|**Extension of Clifford Data Regression Methods for Quantum Error Mitigation**|Jordi Pérez-Guijarro, Alba Pagès-Zamora, Javier R. Fonollosa|[2411.16653](http://arxiv.org/abs/2411.16653)|null|
 |**2024-11-25**|**Soft information decoding with superconducting qubits**|Maurice D. Hanisch, Bence Hetényi, James R. Wootton|[2411.16228](http://arxiv.org/abs/2411.16228)|**[link](https://github.com/quantumjim/soft_information_decoding)**|
-|**2024-11-24**|**PINNs4Drops: Convolutional feature-enhanced physics-informed neural networks for reconstructing two-phase flows**|Maximilian Dreisbach, Elham Kiyani, Jochen Kriegseis, George Karniadakis, Alexander Stroh|[2411.15949](http://arxiv.org/abs/2411.15949)|null|
+|**2024-11-28**|**PINNs4Drops: Convolutional feature-enhanced physics-informed neural networks for reconstructing two-phase flows**|Maximilian Dreisbach, Elham Kiyani, Jochen Kriegseis, George Karniadakis, Alexander Stroh|[2411.15949](http://arxiv.org/abs/2411.15949)|null|
 |**2024-11-24**|**Classifying Logical Gates in Quantum Codes via Cohomology Operations and Symmetry**|Po-Shen Hsin, Ryohei Kobayashi, Guanyu Zhu|[2411.15848](http://arxiv.org/abs/2411.15848)|null|
 |**2024-11-24**|**Deterministic multi-phonon entanglement between two mechanical resonators on separate substrates**|Ming-Han Chou, Hong Qiao, Haoxiong Yan, Gustav Andersson, Christopher R. Conner, Joel Grebel, Yash J. Joshi, Jacob M. Miller, Rhys G. Povey, Xuntao Wu, Andrew N. Cleland|[2411.15726](http://arxiv.org/abs/2411.15726)|null|
 |**2024-11-22**|**Constructing Multipartite Planar Maximally Entangled States from Phase States and Quantum Secret Sharing Protocol**|Lahoucine Bouhouch, Yassine Dakir, Abdallah Slaoui, Rachid Ahl Laamara|[2411.15077](http://arxiv.org/abs/2411.15077)|null|

@@ -428,7 +428,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-27**|**Graph structure of quantum mechanics**|Songyi Liu, Yongjun Wang, Baoshan Wang, Jian Yan, Heng Zhou|[2411.18146](http://arxiv.org/abs/2411.18146)|null|
+|**2024-12-02**|**Graph structure of quantum mechanics**|Songyi Liu, Yongjun Wang, Baoshan Wang, Jian Yan, Heng Zhou|[2411.18146](http://arxiv.org/abs/2411.18146)|null|
 |**2024-11-22**|**Regularizing 3D conformal field theories via anyons on the fuzzy sphere**|Cristian Voinea, Ruihua Fan, Nicolas Regnault, Zlatko Papić|[2411.15299](http://arxiv.org/abs/2411.15299)|null|
 |**2024-11-20**|**Non-Bloch self-energy of dissipative interacting fermions**|He-Ran Wang, Zijian Wang, Zhong Wang|[2411.13661](http://arxiv.org/abs/2411.13661)|null|
 |**2024-11-18**|**Energy shifts and broadening of excitonic resonances in electrostatically-doped semiconductors**|Hanan Dery, Cedric Robert, Scott A. Crooker, Xavier Marie, Dinh Van Tuan|[2411.11790](http://arxiv.org/abs/2411.11790)|null|

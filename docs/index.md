@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-01**|**Detecting entanglement and nonlocality with minimum observable length**|Zhuo Chen, Fei Shi, Qi Zhao|[2412.00795](http://arxiv.org/abs/2412.00795)|null|
+|**2024-11-30**|**Resolving Schrödinger's analysis of the Einstein-Podolsky-Rosen paradox: an incompleteness criterion and weak elements of reality**|C. McGuigan, R. Y. Teh, P. D. Drummond, M. D Reid|[2412.00406](http://arxiv.org/abs/2412.00406)|null|
 |**2024-11-26**|**Kochen-Specker for many qubits and the classical limit**|Alejandro Hnilo|[2411.17921](http://arxiv.org/abs/2411.17921)|null|
 |**2024-11-25**|**Dynamic violation of Bell's inequalities in the angular momentum representation**|J. A. López-Saldívar, O. Castaños, S. Cordero, R. López-Peña, E. Nahmad-Achar|[2411.16875](http://arxiv.org/abs/2411.16875)|null|
 |**2024-11-25**|**Sequential Attack Impairs Security in Device-independent Quantum Key Distribution**|Pritam Roy, Souradeep Sasmal, Subhankar Bera, Shashank Gupta, Arup Roy, A. S. Majumdar|[2411.16822](http://arxiv.org/abs/2411.16822)|null|
@@ -337,6 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**Hamiltonian characterisation of multi-time processes with classical memory**|Kaumudibikash Goswami, Abhinash Kumar Roy, Varun Srivastava, Barr Perez, Christina Giarmatzi, Alexei Gilchrist, Fabio Costa|[2412.01998](http://arxiv.org/abs/2412.01998)|null|
 |**2024-11-09**|**Quantum causal inference via scattering circuits in NMR**|Hongfeng Liu, Xiangjing Liu, Qian Chen, Yixian Qiu, Vlatko Vedral, Xinfang Nie, Oscar Dahlsten, Dawei Lu|[2411.06052](http://arxiv.org/abs/2411.06052)|null|
 |**2024-11-09**|**Experimental demonstration of quantum causal inference via noninvasive measurements**|Hongfeng Liu, Xiangjing Liu, Qian Chen, Yixian Qiu, Vlatko Vedral, Xinfang Nie, Oscar Dahlsten, Dawei Lu|[2411.06051](http://arxiv.org/abs/2411.06051)|null|
 |**2024-11-08**|**Quantum processes as thermodynamic resources: the role of non-Markovianity**|Guilherme Zambon, Gerardo Adesso|[2411.05559](http://arxiv.org/abs/2411.05559)|null|
@@ -428,6 +431,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**Solving one-body ensemble N-representability problems with spin**|Julia Liebert, Federico Castillo, Jean-Philippe Labbé, Tomasz Maciazek, Christian Schilling|[2412.01805](http://arxiv.org/abs/2412.01805)|null|
 |**2024-12-02**|**Graph structure of quantum mechanics**|Songyi Liu, Yongjun Wang, Baoshan Wang, Jian Yan, Heng Zhou|[2411.18146](http://arxiv.org/abs/2411.18146)|null|
 |**2024-11-22**|**Regularizing 3D conformal field theories via anyons on the fuzzy sphere**|Cristian Voinea, Ruihua Fan, Nicolas Regnault, Zlatko Papić|[2411.15299](http://arxiv.org/abs/2411.15299)|null|
 |**2024-11-20**|**Non-Bloch self-energy of dissipative interacting fermions**|He-Ran Wang, Zijian Wang, Zhong Wang|[2411.13661](http://arxiv.org/abs/2411.13661)|null|
@@ -546,6 +550,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**Quantum steering for different types of Bell-like states in gravitational background**|Si-Han Li, Si-Han Shang, Shu-Min Wu|[2412.01043](http://arxiv.org/abs/2412.01043)|null|
 |**2024-11-21**|**Steering in Neutrino Oscillations with Non-Standard Interaction**|Lekhashri Konwar, Bhavna Yadav|[2411.14234](http://arxiv.org/abs/2411.14234)|null|
 |**2024-11-13**|**One-Sided Device-Independent Random Number Generation Through Fiber Channels**|Jinfang Zhang, Yi Li, Mengyu Zhao, Dongmei Han, Jun Liu, Meihong Wang, Qihuang Gong, Yu Xiang, Qiongyi He, Xiaolong Su|[2411.08441](http://arxiv.org/abs/2411.08441)|null|
 |**2024-11-11**|**Quantum steering and entanglement for coupled systems: exact results**|Radouan Hab arrih, Ayoub Ghaba, Ahmed Jellal|[2411.07010](http://arxiv.org/abs/2411.07010)|null|
@@ -830,6 +835,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**Generalized Loschmidt echo and information scrambling in open systems**|Yi-Neng Zhou, Chang Liu|[2412.01851](http://arxiv.org/abs/2412.01851)|null|
 |**2024-11-27**|**Statistical features of quantum chaos using the Krylov operator complexity**|Zhuoran Li, Wei Fan|[2411.18436](http://arxiv.org/abs/2411.18436)|null|
 |**2024-11-26**|**Quantum simulation of the Sachdev-Ye-Kitaev model using time-dependent disorder in optical cavities**|Rahel Baumgartner, Pietro Pelliconi, Soumik Bandyopadhyay, Francesca Orsi, Nick Sauerwein, Philipp Hauke, Jean-Philippe Brantut, Julian Sonner|[2411.17802](http://arxiv.org/abs/2411.17802)|null|
 |**2024-11-25**|**Out-of-Time Ordered Correlator for a Chaotic Many-Body Quantum System**|Hans A. Weidenmüller|[2411.16274](http://arxiv.org/abs/2411.16274)|null|
@@ -1219,6 +1225,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**The fabulous world of GKP codes**|Jonathan Conrad|[2412.02442](http://arxiv.org/abs/2412.02442)|null|
+|**2024-12-02**|**CaliScalpel: In-Situ and Fine-Grained Qubit Calibration Integrated with Surface Code Quantum Error Correction**|Xiang Fang, Keyi Yin, Yuchen Zhu, Jixuan Ruan, Dean Tullsen, Zhiding Liang, Andrew Sornborger, Ang Li, Travis Humble, Yufei Ding, Yunong Shi|[2412.02036](http://arxiv.org/abs/2412.02036)|null|
+|**2024-12-03**|**Magic State Injection on IBM Quantum Processors Above the Distillation Threshold**|Younghun Kim, Martin Sevior, Muhammad Usman|[2412.01446](http://arxiv.org/abs/2412.01446)|null|
+|**2024-12-03**|**Feasibility of Logical Bell State Generation in Memory Assisted Quantum Networks**|Vladlen Galetsky, Nilesh Vyas, Alberto Comin, Janis Nötzel|[2412.01434](http://arxiv.org/abs/2412.01434)|null|
+|**2024-12-02**|**Transversal Logical Clifford gates on rotated surface codes with reconfigurable neutral atom arrays**|Zi-Han Chen, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan|[2412.01391](http://arxiv.org/abs/2412.01391)|null|
+|**2024-12-01**|**Quantum Information Processing, Sensing and Communications: Their Myths, Realities and Futures**|Lajos Hanzo, Zunaira Babar, Zhenyu Cai, Daryus Chandra, Ivan B. Djordjevic, Balint Koczor, Soon Xin Ng, Mohsen Razavi, Osvaldo Simeone|[2412.00987](http://arxiv.org/abs/2412.00987)|null|
+|**2024-11-30**|**Algebraic approach to spacetime bulk reconstruction**|Jason Crann, Monica Jinwoo Kang|[2412.00298](http://arxiv.org/abs/2412.00298)|null|
+|**2024-11-29**|**Controller-decoder system requirements derived by implementing Shor's algorithm with surface code**|Yaniv Kurman, Lior Ella, Nir Halay, Oded Wertheim, Yonatan Cohen|[2412.00289](http://arxiv.org/abs/2412.00289)|null|
 |**2024-11-28**|**Quantum feedback control with a transformer neural network architecture**|Pranav Vaidhyanathan, Florian Marquardt, Mark T. Mitchison, Natalia Ares|[2411.19253](http://arxiv.org/abs/2411.19253)|null|
 |**2024-11-28**|**Enhanced Lieb-Robinson bounds for commuting long-range interactions**|Marius Lemm, Tom Wessel|[2411.19241](http://arxiv.org/abs/2411.19241)|null|
 |**2024-11-27**|**Towards quantum error correction with two-body gates for quantum registers based on nitrogen-vacancy centers in diamond**|Daniel Dulog, Martin B. Plenio|[2411.18450](http://arxiv.org/abs/2411.18450)|null|

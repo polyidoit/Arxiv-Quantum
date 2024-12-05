@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Reply to "Comment on 'Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection'"**|Patrick Daley, Kevin J. Resch, Robert W. Spekkens|[2412.02829](http://arxiv.org/abs/2412.02829)|null|
 |**2024-12-01**|**Detecting entanglement and nonlocality with minimum observable length**|Zhuo Chen, Fei Shi, Qi Zhao|[2412.00795](http://arxiv.org/abs/2412.00795)|null|
 |**2024-11-30**|**Resolving Schrödinger's analysis of the Einstein-Podolsky-Rosen paradox: an incompleteness criterion and weak elements of reality**|C. McGuigan, R. Y. Teh, P. D. Drummond, M. D Reid|[2412.00406](http://arxiv.org/abs/2412.00406)|null|
 |**2024-11-26**|**Kochen-Specker for many qubits and the classical limit**|Alejandro Hnilo|[2411.17921](http://arxiv.org/abs/2411.17921)|null|
@@ -431,6 +432,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives**|Ji Wu, Huai Yu, Shu Han, Xi-Meng Cai, Ming-Feng Wang, Wen Yang, Gui-Song Xia|[2412.02998](http://arxiv.org/abs/2412.02998)|null|
 |**2024-12-02**|**Solving one-body ensemble N-representability problems with spin**|Julia Liebert, Federico Castillo, Jean-Philippe Labbé, Tomasz Maciazek, Christian Schilling|[2412.01805](http://arxiv.org/abs/2412.01805)|null|
 |**2024-12-02**|**Graph structure of quantum mechanics**|Songyi Liu, Yongjun Wang, Baoshan Wang, Jian Yan, Heng Zhou|[2411.18146](http://arxiv.org/abs/2411.18146)|null|
 |**2024-11-22**|**Regularizing 3D conformal field theories via anyons on the fuzzy sphere**|Cristian Voinea, Ruihua Fan, Nicolas Regnault, Zlatko Papić|[2411.15299](http://arxiv.org/abs/2411.15299)|null|
@@ -1225,6 +1227,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Fan-Beam CT Reconstruction for Unaligned Sparse-View X-ray Baggage Dataset**|Shin Kim|[2412.03036](http://arxiv.org/abs/2412.03036)|null|
+|**2024-12-03**|**SymBreak: Mitigating Quantum Degeneracy Issues in QLDPC Code Decoders by Breaking Symmetry**|Keyi Yin, Xiang Fang, Jixuan Ruan, Hezi Zhang, Dean Tullsen, Andrew Sornborger, Chenxu Liu, Ang Li, Travis Humble, Yufei Ding|[2412.02885](http://arxiv.org/abs/2412.02885)|null|
 |**2024-12-03**|**The fabulous world of GKP codes**|Jonathan Conrad|[2412.02442](http://arxiv.org/abs/2412.02442)|null|
 |**2024-12-02**|**CaliScalpel: In-Situ and Fine-Grained Qubit Calibration Integrated with Surface Code Quantum Error Correction**|Xiang Fang, Keyi Yin, Yuchen Zhu, Jixuan Ruan, Dean Tullsen, Zhiding Liang, Andrew Sornborger, Ang Li, Travis Humble, Yufei Ding, Yunong Shi|[2412.02036](http://arxiv.org/abs/2412.02036)|null|
 |**2024-12-03**|**Magic State Injection on IBM Quantum Processors Above the Distillation Threshold**|Younghun Kim, Martin Sevior, Muhammad Usman|[2412.01446](http://arxiv.org/abs/2412.01446)|null|

@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**On the role of the unitary transformations in Bell inequalities**|D. O. R. Azevedo, F. M. Guedes, M. S. Guimaraes, I. Roditi, S. P. Sorella, A. F. Vieira|[2412.03840](http://arxiv.org/abs/2412.03840)|null|
+|**2024-11-28**|**Quantum Correlations in One Parameter Mixed Quantum States**|Kapil K. Sharma, Rishikant Rajdeepak, Fatih Ozaydin|[2412.03591](http://arxiv.org/abs/2412.03591)|null|
 |**2024-12-03**|**Reply to "Comment on 'Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection'"**|Patrick Daley, Kevin J. Resch, Robert W. Spekkens|[2412.02829](http://arxiv.org/abs/2412.02829)|null|
 |**2024-12-01**|**Detecting entanglement and nonlocality with minimum observable length**|Zhuo Chen, Fei Shi, Qi Zhao|[2412.00795](http://arxiv.org/abs/2412.00795)|null|
 |**2024-11-30**|**Resolving Schrödinger's analysis of the Einstein-Podolsky-Rosen paradox: an incompleteness criterion and weak elements of reality**|C. McGuigan, R. Y. Teh, P. D. Drummond, M. D Reid|[2412.00406](http://arxiv.org/abs/2412.00406)|null|
@@ -451,7 +453,7 @@
 |**2024-11-22**|**Regularizing 3D conformal field theories via anyons on the fuzzy sphere**|Cristian Voinea, Ruihua Fan, Nicolas Regnault, Zlatko Papić|[2411.15299](http://arxiv.org/abs/2411.15299)|null|
 |**2024-11-20**|**Non-Bloch self-energy of dissipative interacting fermions**|He-Ran Wang, Zijian Wang, Zhong Wang|[2411.13661](http://arxiv.org/abs/2411.13661)|null|
 |**2024-11-18**|**Energy shifts and broadening of excitonic resonances in electrostatically-doped semiconductors**|Hanan Dery, Cedric Robert, Scott A. Crooker, Xavier Marie, Dinh Van Tuan|[2411.11790](http://arxiv.org/abs/2411.11790)|null|
-|**2024-11-15**|**Distribution Function for $n \ge g$ Quantum Particles**|Shimul Akhanjee|[2411.09877](http://arxiv.org/abs/2411.09877)|null|
+|**2024-12-05**|**Distribution Function for $n \ge g$ Quantum Particles**|Shimul Akhanjee|[2411.09877](http://arxiv.org/abs/2411.09877)|null|
 |**2024-11-14**|**Exclusivity principle, Ramsey theory, and $n$ -cycle PR boxes**|Raman Choudhary, Rui Soares Barbosa|[2411.09773](http://arxiv.org/abs/2411.09773)|null|
 |**2024-11-13**|**Unexpected consequences of Post-Quantum theories in the graph-theoretical approach to correlations**|José Nogueira, Carlos Vieira, Marcelo Terra Cunha|[2411.09036](http://arxiv.org/abs/2411.09036)|null|
 |**2024-11-01**|**From supefluid 3He to altermagnets**|T. Jungwirth, R. M. Fernandes, E. Fradkin, A. H. MacDonald, J. Sinova, L. Smejkal|[2411.00717](http://arxiv.org/abs/2411.00717)|null|
@@ -1248,6 +1250,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Emergent unitary designs for encoded qubits from coherent errors and syndrome measurements**|Zihan Cheng, Eric Huang, Vedika Khemani, Michael J. Gullans, Matteo Ippoliti|[2412.04414](http://arxiv.org/abs/2412.04414)|null|
+|**2024-12-05**|**Pruning qLDPC codes: Towards bivariate bicycle codes with open boundary conditions**|Jens Niklas Eberhardt, Francisco Revson F. Pereira, Vincent Steffan|[2412.04181](http://arxiv.org/abs/2412.04181)|null|
+|**2024-12-05**|**Clifford-Deformed Compass Codes**|Julie A. Campos, Kenneth R. Brown|[2412.03808](http://arxiv.org/abs/2412.03808)|null|
 |**2024-12-04**|**Fan-Beam CT Reconstruction for Unaligned Sparse-View X-ray Baggage Dataset**|Shin Kim|[2412.03036](http://arxiv.org/abs/2412.03036)|null|
 |**2024-12-03**|**SymBreak: Mitigating Quantum Degeneracy Issues in QLDPC Code Decoders by Breaking Symmetry**|Keyi Yin, Xiang Fang, Jixuan Ruan, Hezi Zhang, Dean Tullsen, Andrew Sornborger, Chenxu Liu, Ang Li, Travis Humble, Yufei Ding|[2412.02885](http://arxiv.org/abs/2412.02885)|null|
 |**2024-12-03**|**The fabulous world of GKP codes**|Jonathan Conrad|[2412.02442](http://arxiv.org/abs/2412.02442)|null|

@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Nonlocality-Assisted Enhancement of Error-Free Communication in Noisy Classical Channels**|Kunika Agarwal, Sahil Gopalkrishna Naik, Ananya Chakraborty, Samrat Sen, Pratik Ghosal, Biswajit Paul, Manik Banik, Ram Krishna Patra|[2412.04779](http://arxiv.org/abs/2412.04779)|null|
+|**2024-12-06**|**States Violating Both Locality and Noncontextuality Inequalities in Quantum Theory**|Yuichiro Kitajima|[2412.04713](http://arxiv.org/abs/2412.04713)|null|
 |**2024-12-05**|**On the role of the unitary transformations in Bell inequalities**|D. O. R. Azevedo, F. M. Guedes, M. S. Guimaraes, I. Roditi, S. P. Sorella, A. F. Vieira|[2412.03840](http://arxiv.org/abs/2412.03840)|null|
 |**2024-11-28**|**Quantum Correlations in One Parameter Mixed Quantum States**|Kapil K. Sharma, Rishikant Rajdeepak, Fatih Ozaydin|[2412.03591](http://arxiv.org/abs/2412.03591)|null|
 |**2024-12-03**|**Reply to "Comment on 'Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection'"**|Patrick Daley, Kevin J. Resch, Robert W. Spekkens|[2412.02829](http://arxiv.org/abs/2412.02829)|null|
@@ -434,6 +436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**States Violating Both Locality and Noncontextuality Inequalities in Quantum Theory**|Yuichiro Kitajima|[2412.04713](http://arxiv.org/abs/2412.04713)|null|
 |**2024-12-04**|**QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives**|Ji Wu, Huai Yu, Shu Han, Xi-Meng Cai, Ming-Feng Wang, Wen Yang, Gui-Song Xia|[2412.02998](http://arxiv.org/abs/2412.02998)|null|
 |**2024-12-02**|**Solving one-body ensemble N-representability problems with spin**|Julia Liebert, Federico Castillo, Jean-Philippe Labbé, Tomasz Maciazek, Christian Schilling|[2412.01805](http://arxiv.org/abs/2412.01805)|null|
 |**2024-12-02**|**Graph structure of quantum mechanics**|Songyi Liu, Yongjun Wang, Baoshan Wang, Jian Yan, Heng Zhou|[2411.18146](http://arxiv.org/abs/2411.18146)|null|
@@ -839,6 +842,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Krylov Complexity in Mixed Phase Space**|Kyoung-Bum Huh, Hyun-Sik Jeong, Leopoldo A. Pando Zayas, Juan F. Pedraza|[2412.04963](http://arxiv.org/abs/2412.04963)|null|
+|**2024-12-05**|**The SYK charging advantage as a random walk on graphs**|Francisco Divi, Jeff Murugan, Dario Rosa|[2412.04560](http://arxiv.org/abs/2412.04560)|null|
 |**2024-11-29**|**Generalized Loschmidt echo and information scrambling in open systems**|Yi-Neng Zhou, Chang Liu|[2412.01851](http://arxiv.org/abs/2412.01851)|null|
 |**2024-11-27**|**Statistical features of quantum chaos using the Krylov operator complexity**|Zhuoran Li, Wei Fan|[2411.18436](http://arxiv.org/abs/2411.18436)|null|
 |**2024-11-26**|**Quantum simulation of the Sachdev-Ye-Kitaev model using time-dependent disorder in optical cavities**|Rahel Baumgartner, Pietro Pelliconi, Soumik Bandyopadhyay, Francesca Orsi, Nick Sauerwein, Philipp Hauke, Jean-Philippe Brantut, Julian Sonner|[2411.17802](http://arxiv.org/abs/2411.17802)|null|
@@ -1229,6 +1234,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Exact Model Reduction for Continuous-Time Open Quantum Dynamics**|Tommaso Grigoletto, Yukuan Tao, Francesco Ticozzi, Lorenza Viola|[2412.05102](http://arxiv.org/abs/2412.05102)|null|
+|**2024-12-06**|**Galois self-orthogonal MDS codes with large dimensions**|Ruhao Wan, Shixin Zhu|[2412.05011](http://arxiv.org/abs/2412.05011)|null|
 |**2024-12-05**|**Emergent unitary designs for encoded qubits from coherent errors and syndrome measurements**|Zihan Cheng, Eric Huang, Vedika Khemani, Michael J. Gullans, Matteo Ippoliti|[2412.04414](http://arxiv.org/abs/2412.04414)|null|
 |**2024-12-05**|**Pruning qLDPC codes: Towards bivariate bicycle codes with open boundary conditions**|Jens Niklas Eberhardt, Francisco Revson F. Pereira, Vincent Steffan|[2412.04181](http://arxiv.org/abs/2412.04181)|null|
 |**2024-12-05**|**Clifford-Deformed Compass Codes**|Julie A. Campos, Kenneth R. Brown|[2412.03808](http://arxiv.org/abs/2412.03808)|null|

@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Tight upper bound of the maximal quantum violation of Gisin's elegant Bell inequality and its application in randomness certification**|Dan-Dan Hu, Meng-Yan Li, Fen-Zhuo Guo, Yu-Kun Wang, Hai-Feng Dong, Fei Gao|[2412.06345](http://arxiv.org/abs/2412.06345)|null|
 |**2024-12-06**|**Nonlocality-Assisted Enhancement of Error-Free Communication in Noisy Classical Channels**|Kunika Agarwal, Sahil Gopalkrishna Naik, Ananya Chakraborty, Samrat Sen, Pratik Ghosal, Biswajit Paul, Manik Banik, Ram Krishna Patra|[2412.04779](http://arxiv.org/abs/2412.04779)|null|
 |**2024-12-06**|**States Violating Both Locality and Noncontextuality Inequalities in Quantum Theory**|Yuichiro Kitajima|[2412.04713](http://arxiv.org/abs/2412.04713)|null|
 |**2024-12-05**|**On the role of the unitary transformations in Bell inequalities**|D. O. R. Azevedo, F. M. Guedes, M. S. Guimaraes, I. Roditi, S. P. Sorella, A. F. Vieira|[2412.03840](http://arxiv.org/abs/2412.03840)|null|
@@ -679,6 +680,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters**|Yuan Wang, Ouxiang Li, Tingting Mu, Yanbin Hao, Kuien Liu, Xiang Wang, Xiangnan He|[2412.06143](http://arxiv.org/abs/2412.06143)|null|
 |**2024-11-21**|**Low-Field Regime of Magnon Transport in Yttrium Iron Garnet**|Hossein Taghinejad, Kohtaro Yamakawa, Xiaoxi Huang, Yuanqi Lyu, Luke P. Cairns, Ramamoorthy Ramesh, James G. Analytis|[2411.14428](http://arxiv.org/abs/2411.14428)|null|
 |**2024-11-20**|**Automating Sonologists USG Commands with AI and Voice Interface**|Emad Mohamed, Shruti Tiwari, Sheena Christabel Pravin|[2411.13006](http://arxiv.org/abs/2411.13006)|null|
 |**2024-11-06**|**Generalized quantum asymptotic equipartition**|Kun Fang, Hamza Fawzi, Omar Fawzi|[2411.04035](http://arxiv.org/abs/2411.04035)|null|
@@ -869,7 +871,7 @@
 |**2024-11-25**|**Out-of-Time Ordered Correlator for a Chaotic Many-Body Quantum System**|Hans A. Weidenmüller|[2411.16274](http://arxiv.org/abs/2411.16274)|null|
 |**2024-11-20**|**Conditional t-independent spectral gap for random quantum circuits and implications for t-design depths**|James Allen, Daniel Belkin, Bryan K. Clark|[2411.13739](http://arxiv.org/abs/2411.13739)|null|
 |**2024-11-20**|**Information scrambling and entanglement dynamics in Floquet Time Crystals**|Himanshu Sahu, Fernando Iemini|[2411.13469](http://arxiv.org/abs/2411.13469)|null|
-|**2024-11-19**|**D-commuting SYK model: building quantum chaos from integrable blocks**|Ping Gao, Han Lin, Cheng Peng|[2411.12806](http://arxiv.org/abs/2411.12806)|null|
+|**2024-12-09**|**D-commuting SYK model: building quantum chaos from integrable blocks**|Ping Gao, Han Lin, Cheng Peng|[2411.12806](http://arxiv.org/abs/2411.12806)|null|
 |**2024-11-19**|**A Universal Protocol for Quantum-Enhanced Sensing via Information Scrambling**|Bryce Kobrin, Thomas Schuster, Maxwell Block, Weijie Wu, Bradley Mitchell, Emily Davis, Norman Y. Yao|[2411.12794](http://arxiv.org/abs/2411.12794)|null|
 |**2024-11-19**|**Quantum ergodicity and scrambling in quantum annealers**|Manuel H. Muñoz-Arias, Pablo M. Poggi|[2411.12625](http://arxiv.org/abs/2411.12625)|null|
 |**2024-11-19**|**Classical and quantum chaos of closed strings on a charged confining holographic background**|Bhaskar Shukla, Owais Riyaz, Subhash Mahapatra|[2411.12536](http://arxiv.org/abs/2411.12536)|null|
@@ -1255,6 +1257,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Families of $d=2$ 2D subsystem stabilizer codes for universal Hamiltonian quantum computation with two-body interactions**|Phattharaporn Singkanipa, Zihan Xia, Daniel A. Lidar|[2412.06744](http://arxiv.org/abs/2412.06744)|null|
+|**2024-12-09**|**Performance and achievable rates of the Gottesman-Kitaev-Preskill code for pure-loss and amplification channels**|Guo Zheng, Wenhao He, Gideon Lee, Kyungjoo Noh, Liang Jiang|[2412.06715](http://arxiv.org/abs/2412.06715)|null|
+|**2024-12-09**|**Optimizing Qubit Mapping with Quasi-Orthogonal Space-Time Block Codes and Quaternion Orthogonal Designs**|Valentine Nyirahafashimana, Nurisya Mohd Shah, Umair Abdul Halim, Mohamed Othman, Sharifah Kartini Said Husain|[2412.06145](http://arxiv.org/abs/2412.06145)|null|
+|**2024-12-06**|**Compiling the surface code to crossbar spin qubit architectures**|Dávid Pataki, András Pályi|[2412.05425](http://arxiv.org/abs/2412.05425)|null|
 |**2024-12-06**|**Exact Model Reduction for Continuous-Time Open Quantum Dynamics**|Tommaso Grigoletto, Yukuan Tao, Francesco Ticozzi, Lorenza Viola|[2412.05102](http://arxiv.org/abs/2412.05102)|null|
 |**2024-12-06**|**Galois self-orthogonal MDS codes with large dimensions**|Ruhao Wan, Shixin Zhu|[2412.05011](http://arxiv.org/abs/2412.05011)|null|
 |**2024-12-05**|**Emergent unitary designs for encoded qubits from coherent errors and syndrome measurements**|Zihan Cheng, Eric Huang, Vedika Khemani, Michael J. Gullans, Matteo Ippoliti|[2412.04414](http://arxiv.org/abs/2412.04414)|null|

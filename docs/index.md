@@ -663,6 +663,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Robust Catalysis and Resource Broadcasting: The Possible and the Impossible**|Jeongrak Son, Ray Ganardi, Shintaro Minagawa, Francesco Buscemi, Seok Hyung Lie, Nelly H. Y. Ng|[2412.06900](http://arxiv.org/abs/2412.06900)|null|
 |**2024-12-09**|**Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters**|Yuan Wang, Ouxiang Li, Tingting Mu, Yanbin Hao, Kuien Liu, Xiang Wang, Xiangnan He|[2412.06143](http://arxiv.org/abs/2412.06143)|null|
 |**2024-11-21**|**Low-Field Regime of Magnon Transport in Yttrium Iron Garnet**|Hossein Taghinejad, Kohtaro Yamakawa, Xiaoxi Huang, Yuanqi Lyu, Luke P. Cairns, Ramamoorthy Ramesh, James G. Analytis|[2411.14428](http://arxiv.org/abs/2411.14428)|null|
 |**2024-11-20**|**Automating Sonologists USG Commands with AI and Voice Interface**|Emad Mohamed, Shruti Tiwari, Sheena Christabel Pravin|[2411.13006](http://arxiv.org/abs/2411.13006)|null|
@@ -1236,6 +1237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Controlling and engineering a quantum state in a multi-qubit system employing the quantum Zeno effect**|Dhruva Naik, Garima Rajpoot, Sudhir Ranjan Jain|[2412.07535](http://arxiv.org/abs/2412.07535)|null|
 |**2024-12-09**|**Families of $d=2$ 2D subsystem stabilizer codes for universal Hamiltonian quantum computation with two-body interactions**|Phattharaporn Singkanipa, Zihan Xia, Daniel A. Lidar|[2412.06744](http://arxiv.org/abs/2412.06744)|null|
 |**2024-12-09**|**Performance and achievable rates of the Gottesman-Kitaev-Preskill code for pure-loss and amplification channels**|Guo Zheng, Wenhao He, Gideon Lee, Kyungjoo Noh, Liang Jiang|[2412.06715](http://arxiv.org/abs/2412.06715)|null|
 |**2024-12-09**|**Optimizing Qubit Mapping with Quasi-Orthogonal Space-Time Block Codes and Quaternion Orthogonal Designs**|Valentine Nyirahafashimana, Nurisya Mohd Shah, Umair Abdul Halim, Mohamed Othman, Sharifah Kartini Said Husain|[2412.06145](http://arxiv.org/abs/2412.06145)|null|

@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Bounding Large-Scale Bell Inequalities**|Luke Mortimer|[2412.08532](http://arxiv.org/abs/2412.08532)|null|
 |**2024-12-09**|**Tight upper bound of the maximal quantum violation of Gisin's elegant Bell inequality and its application in randomness certification**|Dan-Dan Hu, Meng-Yan Li, Fen-Zhuo Guo, Yu-Kun Wang, Hai-Feng Dong, Fei Gao|[2412.06345](http://arxiv.org/abs/2412.06345)|null|
 |**2024-12-06**|**Nonlocality-Assisted Enhancement of Error-Free Communication in Noisy Classical Channels**|Kunika Agarwal, Sahil Gopalkrishna Naik, Ananya Chakraborty, Samrat Sen, Pratik Ghosal, Biswajit Paul, Manik Banik, Ram Krishna Patra|[2412.04779](http://arxiv.org/abs/2412.04779)|null|
 |**2024-12-06**|**States Violating Both Locality and Noncontextuality Inequalities in Quantum Theory**|Yuichiro Kitajima|[2412.04713](http://arxiv.org/abs/2412.04713)|null|
@@ -864,6 +865,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Complex dynamics in circular and deformed bilayer graphene inspired billiards with anisotropy and strain**|Lukas Seemann, Jana Lukin, Max Häßler, Sibylle Gemming, Martina Hentschel|[2412.07934](http://arxiv.org/abs/2412.07934)|null|
 |**2024-12-06**|**Krylov Complexity in Mixed Phase Space**|Kyoung-Bum Huh, Hyun-Sik Jeong, Leopoldo A. Pando Zayas, Juan F. Pedraza|[2412.04963](http://arxiv.org/abs/2412.04963)|null|
 |**2024-12-05**|**The SYK charging advantage as a random walk on graphs**|Francisco Divi, Jeff Murugan, Dario Rosa|[2412.04560](http://arxiv.org/abs/2412.04560)|null|
 |**2024-11-29**|**Generalized Loschmidt echo and information scrambling in open systems**|Yi-Neng Zhou, Chang Liu|[2412.01851](http://arxiv.org/abs/2412.01851)|null|
@@ -1258,6 +1260,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Asymptotically good CSS-T codes exist**|Elena Berardini, Reza Dastbasteh, Josu Etxezarreta Martinez, Shreyas Jain, Olatz Sanz Larrarte|[2412.08586](http://arxiv.org/abs/2412.08586)|null|
+|**2024-12-11**|**Galois hulls of constacyclic codes over affine algebra rings**|Indibar Debnath, Habibul Islam, Edgar Martínez-Moro, Om Prakash|[2412.08512](http://arxiv.org/abs/2412.08512)|null|
+|**2024-12-10**|**AC/DC: Automated Compilation for Dynamic Circuits**|Siyuan Niu, Efekan Kokcu, Anupam Mitra, Aaron Szasz, Akel Hashim, Justin Kalloor, Wibe Albert de Jong, Costin Iancu, Ed Younis|[2412.07969](http://arxiv.org/abs/2412.07969)|null|
+|**2024-12-10**|**Quantum Error Correction resilient against Atom Loss**|Hugo Perrin, Sven Jandura, Guido Pupillo|[2412.07841](http://arxiv.org/abs/2412.07841)|null|
 |**2024-12-10**|**Controlling and engineering a quantum state in a multi-qubit system employing the quantum Zeno effect**|Dhruva Naik, Garima Rajpoot, Sudhir Ranjan Jain|[2412.07535](http://arxiv.org/abs/2412.07535)|null|
 |**2024-12-09**|**Families of $d=2$ 2D subsystem stabilizer codes for universal Hamiltonian quantum computation with two-body interactions**|Phattharaporn Singkanipa, Zihan Xia, Daniel A. Lidar|[2412.06744](http://arxiv.org/abs/2412.06744)|null|
 |**2024-12-09**|**Performance and achievable rates of the Gottesman-Kitaev-Preskill code for pure-loss and amplification channels**|Guo Zheng, Wenhao He, Gideon Lee, Kyungjoo Noh, Liang Jiang|[2412.06715](http://arxiv.org/abs/2412.06715)|null|

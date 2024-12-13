@@ -846,6 +846,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Proposal of realizing the Sachdev-Ye-Kitaev model from a Kitaev Spin Chain**|Han-yuan Zuo, Zheng-xin Liu|[2412.09509](http://arxiv.org/abs/2412.09509)|null|
+|**2024-12-11**|**Random Circuits in the Black Hole Interior**|Javier M. Magan, Martin Sasieta, Brian Swingle|[2412.08693](http://arxiv.org/abs/2412.08693)|null|
 |**2024-12-10**|**Complex dynamics in circular and deformed bilayer graphene inspired billiards with anisotropy and strain**|Lukas Seemann, Jana Lukin, Max Häßler, Sibylle Gemming, Martina Hentschel|[2412.07934](http://arxiv.org/abs/2412.07934)|null|
 |**2024-12-06**|**Krylov Complexity in Mixed Phase Space**|Kyoung-Bum Huh, Hyun-Sik Jeong, Leopoldo A. Pando Zayas, Juan F. Pedraza|[2412.04963](http://arxiv.org/abs/2412.04963)|null|
 |**2024-12-05**|**The SYK charging advantage as a random walk on graphs**|Francisco Divi, Jeff Murugan, Dario Rosa|[2412.04560](http://arxiv.org/abs/2412.04560)|null|
@@ -1239,6 +1241,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**A Mathematical Structure for Amplitude-Mixing Error-Transparent Gates for Binomial Codes**|Owen C. Wetherbee, Saswata Roy, Baptiste Royer, Valla Fatemi|[2412.08870](http://arxiv.org/abs/2412.08870)|null|
 |**2024-12-11**|**Asymptotically good CSS-T codes exist**|Elena Berardini, Reza Dastbasteh, Josu Etxezarreta Martinez, Shreyas Jain, Olatz Sanz Larrarte|[2412.08586](http://arxiv.org/abs/2412.08586)|null|
 |**2024-12-11**|**Galois hulls of constacyclic codes over affine algebra rings**|Indibar Debnath, Habibul Islam, Edgar Martínez-Moro, Om Prakash|[2412.08512](http://arxiv.org/abs/2412.08512)|null|
 |**2024-12-10**|**AC/DC: Automated Compilation for Dynamic Circuits**|Siyuan Niu, Efekan Kokcu, Anupam Mitra, Aaron Szasz, Akel Hashim, Justin Kalloor, Wibe Albert de Jong, Costin Iancu, Ed Younis|[2412.07969](http://arxiv.org/abs/2412.07969)|null|

@@ -346,6 +346,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**On the Significance of Intermediate Latents: Distinguishing Quantum Causal Scenarios with Indistinguishable Classical Analogs**|Daniel Centeno, Elie Wolfe|[2412.10238](http://arxiv.org/abs/2412.10238)|null|
 |**2024-12-02**|**Hamiltonian characterisation of multi-time processes with classical memory**|Kaumudibikash Goswami, Abhinash Kumar Roy, Varun Srivastava, Barr Perez, Christina Giarmatzi, Alexei Gilchrist, Fabio Costa|[2412.01998](http://arxiv.org/abs/2412.01998)|null|
 |**2024-11-09**|**Quantum causal inference via scattering circuits in NMR**|Hongfeng Liu, Xiangjing Liu, Qian Chen, Yixian Qiu, Vlatko Vedral, Xinfang Nie, Oscar Dahlsten, Dawei Lu|[2411.06052](http://arxiv.org/abs/2411.06052)|null|
 |**2024-11-09**|**Experimental demonstration of quantum causal inference via noninvasive measurements**|Hongfeng Liu, Xiangjing Liu, Qian Chen, Yixian Qiu, Vlatko Vedral, Xinfang Nie, Oscar Dahlsten, Dawei Lu|[2411.06051](http://arxiv.org/abs/2411.06051)|null|
@@ -846,6 +847,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Anticoncentration and magic spreading under ergodic quantum dynamics**|Emanuele Tirrito, Xhek Turkeshi, Piotr Sierant|[2412.10229](http://arxiv.org/abs/2412.10229)|null|
 |**2024-12-12**|**Proposal of realizing the Sachdev-Ye-Kitaev model from a Kitaev Spin Chain**|Han-yuan Zuo, Zheng-xin Liu|[2412.09509](http://arxiv.org/abs/2412.09509)|null|
 |**2024-12-11**|**Random Circuits in the Black Hole Interior**|Javier M. Magan, Martin Sasieta, Brian Swingle|[2412.08693](http://arxiv.org/abs/2412.08693)|null|
 |**2024-12-10**|**Complex dynamics in circular and deformed bilayer graphene inspired billiards with anisotropy and strain**|Lukas Seemann, Jana Lukin, Max Häßler, Sibylle Gemming, Martina Hentschel|[2412.07934](http://arxiv.org/abs/2412.07934)|null|
@@ -1241,6 +1243,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Codes in algebras of direct products of groups and associated quantum codes**|Miguel Sales, Xaro Soler-Escrivà, Víctor Sotomayor|[2412.09695](http://arxiv.org/abs/2412.09695)|null|
 |**2024-12-12**|**A Mathematical Structure for Amplitude-Mixing Error-Transparent Gates for Binomial Codes**|Owen C. Wetherbee, Saswata Roy, Baptiste Royer, Valla Fatemi|[2412.08870](http://arxiv.org/abs/2412.08870)|null|
 |**2024-12-11**|**Asymptotically good CSS-T codes exist**|Elena Berardini, Reza Dastbasteh, Josu Etxezarreta Martinez, Shreyas Jain, Olatz Sanz Larrarte|[2412.08586](http://arxiv.org/abs/2412.08586)|null|
 |**2024-12-11**|**Galois hulls of constacyclic codes over affine algebra rings**|Indibar Debnath, Habibul Islam, Edgar Martínez-Moro, Om Prakash|[2412.08512](http://arxiv.org/abs/2412.08512)|null|

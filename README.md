@@ -17,8 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Purcell-Enhanced Generation of Photonic Bell States via the Inelastic Scattering of Single Atoms**|Jian Wang, Xiao-Long Zhou, Ze-Min Shen, Dong-Yu Huang, Si-Jian He, Qi-Yang Huang, Yi-Jia Liu, Chuan-Feng Li, Guang-Can Guo|[2412.11562](http://arxiv.org/abs/2412.11562)|null|
+|**2024-12-14**|**The geometry of simplicial distributions on suspension scenarios**|Aziz Kharoof|[2412.10963](http://arxiv.org/abs/2412.10963)|null|
+|**2024-12-13**|**Nonlocality of Quantum States can be Transitive**|Kai-Siang Chen, Gelo Noel M. Tabia, Chung-Yun Hsieh, Yu-Chun Yin, Yeong-Cherng Liang|[2412.10505](http://arxiv.org/abs/2412.10505)|null|
 |**2024-12-11**|**Bounding Large-Scale Bell Inequalities**|Luke Mortimer|[2412.08532](http://arxiv.org/abs/2412.08532)|null|
-|**2024-12-09**|**Tight upper bound of the maximal quantum violation of Gisin's elegant Bell inequality and its application in randomness certification**|Dan-Dan Hu, Meng-Yan Li, Fen-Zhuo Guo, Yu-Kun Wang, Hai-Feng Dong, Fei Gao|[2412.06345](http://arxiv.org/abs/2412.06345)|null|
+|**2024-12-16**|**Tight upper bound of the maximal quantum violation of Gisin's elegant Bell inequality and its application in randomness certification**|Dan-Dan Hu, Meng-Yan Li, Fen-Zhuo Guo, Yu-Kun Wang, Hai-Feng Dong, Fei Gao|[2412.06345](http://arxiv.org/abs/2412.06345)|null|
 |**2024-12-06**|**Nonlocality-Assisted Enhancement of Error-Free Communication in Noisy Classical Channels**|Kunika Agarwal, Sahil Gopalkrishna Naik, Ananya Chakraborty, Samrat Sen, Pratik Ghosal, Biswajit Paul, Manik Banik, Ram Krishna Patra|[2412.04779](http://arxiv.org/abs/2412.04779)|null|
 |**2024-12-06**|**States Violating Both Locality and Noncontextuality Inequalities in Quantum Theory**|Yuichiro Kitajima|[2412.04713](http://arxiv.org/abs/2412.04713)|null|
 |**2024-12-05**|**On the role of the unitary transformations in Bell inequalities**|D. O. R. Azevedo, F. M. Guedes, M. S. Guimaraes, I. Roditi, S. P. Sorella, A. F. Vieira|[2412.03840](http://arxiv.org/abs/2412.03840)|null|
@@ -357,6 +360,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Quantum observables over time for information recovery**|Gabriele Bressanini, Farhan Hanif, Hyukjoon Kwon, M. S. Kim|[2412.11659](http://arxiv.org/abs/2412.11659)|null|
 |**2024-12-13**|**On the Significance of Intermediate Latents: Distinguishing Quantum Causal Scenarios with Indistinguishable Classical Analogs**|Daniel Centeno, Elie Wolfe|[2412.10238](http://arxiv.org/abs/2412.10238)|null|
 |**2024-12-02**|**Hamiltonian characterisation of multi-time processes with classical memory**|Kaumudibikash Goswami, Abhinash Kumar Roy, Varun Srivastava, Barr Perez, Christina Giarmatzi, Alexei Gilchrist, Fabio Costa|[2412.01998](http://arxiv.org/abs/2412.01998)|null|
 |**2024-11-09**|**Quantum causal inference via scattering circuits in NMR**|Hongfeng Liu, Xiangjing Liu, Qian Chen, Yixian Qiu, Vlatko Vedral, Xinfang Nie, Oscar Dahlsten, Dawei Lu|[2411.06052](http://arxiv.org/abs/2411.06052)|null|
@@ -452,6 +456,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**Separation of measurement uncertainty into quantum and classical parts based on Kirkwood-Dirac quasiprobability and generalized entropy**|Agung Budiyono|[2412.10619](http://arxiv.org/abs/2412.10619)|null|
 |**2024-12-06**|**States Violating Both Locality and Noncontextuality Inequalities in Quantum Theory**|Yuichiro Kitajima|[2412.04713](http://arxiv.org/abs/2412.04713)|null|
 |**2024-12-04**|**QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives**|Ji Wu, Huai Yu, Shu Han, Xi-Meng Cai, Ming-Feng Wang, Wen Yang, Gui-Song Xia|[2412.02998](http://arxiv.org/abs/2412.02998)|null|
 |**2024-12-02**|**Solving one-body ensemble N-representability problems with spin**|Julia Liebert, Federico Castillo, Jean-Philippe Labbé, Tomasz Maciazek, Christian Schilling|[2412.01805](http://arxiv.org/abs/2412.01805)|null|
@@ -575,6 +580,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**Nonlocality of Quantum States can be Transitive**|Kai-Siang Chen, Gelo Noel M. Tabia, Chung-Yun Hsieh, Yu-Chun Yin, Yeong-Cherng Liang|[2412.10505](http://arxiv.org/abs/2412.10505)|null|
 |**2024-12-02**|**Quantum steering for different types of Bell-like states in gravitational background**|Si-Han Li, Si-Han Shang, Shu-Min Wu|[2412.01043](http://arxiv.org/abs/2412.01043)|null|
 |**2024-11-21**|**Steering in Neutrino Oscillations with Non-Standard Interaction**|Lekhashri Konwar, Bhavna Yadav|[2411.14234](http://arxiv.org/abs/2411.14234)|null|
 |**2024-11-13**|**One-Sided Device-Independent Random Number Generation Through Fiber Channels**|Jinfang Zhang, Yi Li, Mengyu Zhao, Dongmei Han, Jun Liu, Meihong Wang, Qihuang Gong, Yu Xiang, Qiongyi He, Xiaolong Su|[2411.08441](http://arxiv.org/abs/2411.08441)|null|
@@ -1264,6 +1270,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Snakes and Ladders: Adapting the surface code to defects**|Catherine Leroux, Sophia F. Lin, Przemyslaw Bienias, Krishanu R. Sankar, Asmae Benhemou, Aleksander Kubica, Joseph K. Iverson|[2412.11504](http://arxiv.org/abs/2412.11504)|null|
+|**2024-12-15**|**Non-Markovian Noise Suppression Simplified through Channel Representation**|Zhenhuan Liu, Yunlong Xiao, Zhenyu Cai|[2412.11220](http://arxiv.org/abs/2412.11220)|null|
 |**2024-12-12**|**Codes in algebras of direct products of groups and associated quantum codes**|Miguel Sales, Xaro Soler-Escrivà, Víctor Sotomayor|[2412.09695](http://arxiv.org/abs/2412.09695)|null|
 |**2024-12-12**|**A Mathematical Structure for Amplitude-Mixing Error-Transparent Gates for Binomial Codes**|Owen C. Wetherbee, Saswata Roy, Baptiste Royer, Valla Fatemi|[2412.08870](http://arxiv.org/abs/2412.08870)|null|
 |**2024-12-11**|**Asymptotically good CSS-T codes exist**|Elena Berardini, Reza Dastbasteh, Josu Etxezarreta Martinez, Shreyas Jain, Olatz Sanz Larrarte|[2412.08586](http://arxiv.org/abs/2412.08586)|null|

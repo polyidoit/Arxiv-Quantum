@@ -688,6 +688,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**All non-Gaussian states are advantageous for channel discrimination: Robustness of non-convex continuous variable quantum resources**|Leah Turner, Madalin Guta, Gerardo Adesso|[2412.13011](http://arxiv.org/abs/2412.13011)|null|
 |**2024-12-09**|**Robust Catalysis and Resource Broadcasting: The Possible and the Impossible**|Jeongrak Son, Ray Ganardi, Shintaro Minagawa, Francesco Buscemi, Seok Hyung Lie, Nelly H. Y. Ng|[2412.06900](http://arxiv.org/abs/2412.06900)|null|
 |**2024-12-09**|**Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters**|Yuan Wang, Ouxiang Li, Tingting Mu, Yanbin Hao, Kuien Liu, Xiang Wang, Xiangnan He|[2412.06143](http://arxiv.org/abs/2412.06143)|null|
 |**2024-11-21**|**Low-Field Regime of Magnon Transport in Yttrium Iron Garnet**|Hossein Taghinejad, Kohtaro Yamakawa, Xiaoxi Huang, Yuanqi Lyu, Luke P. Cairns, Ramamoorthy Ramesh, James G. Analytis|[2411.14428](http://arxiv.org/abs/2411.14428)|null|
@@ -872,6 +873,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Brickwall One-Loop Determinant: Spectral Statistics & Krylov Complexity**|Hyun-Sik Jeong, Arnab Kundu, Juan F. Pedraza|[2412.12301](http://arxiv.org/abs/2412.12301)|null|
 |**2024-12-13**|**Anticoncentration and magic spreading under ergodic quantum dynamics**|Emanuele Tirrito, Xhek Turkeshi, Piotr Sierant|[2412.10229](http://arxiv.org/abs/2412.10229)|null|
 |**2024-12-12**|**Proposal of realizing the Sachdev-Ye-Kitaev model from a Kitaev Spin Chain**|Han-yuan Zuo, Zheng-xin Liu|[2412.09509](http://arxiv.org/abs/2412.09509)|null|
 |**2024-12-11**|**Random Circuits in the Black Hole Interior**|Javier M. Magan, Martin Sasieta, Brian Swingle|[2412.08693](http://arxiv.org/abs/2412.08693)|null|
@@ -1270,7 +1272,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-16**|**Snakes and Ladders: Adapting the surface code to defects**|Catherine Leroux, Sophia F. Lin, Przemyslaw Bienias, Krishanu R. Sankar, Asmae Benhemou, Aleksander Kubica, Joseph K. Iverson|[2412.11504](http://arxiv.org/abs/2412.11504)|null|
+|**2024-12-17**|**Near-Term Spin-Qubit Architecture Design via Multipartite Maximally-Entangled States**|Nikiforos Paraskevopoulos, Matthew Steinberg, Brennan Undseth, Xiao Xue, Aritra Sarkar, Lieven M. K. Vandersypen, Sebastian Feld|[2412.12874](http://arxiv.org/abs/2412.12874)|null|
+|**2024-12-17**|**Fault-tolerant Quantum Computation without Distillation on a 2D Device**|Thomas R. Scruby, Zhenyu Cai|[2412.12529](http://arxiv.org/abs/2412.12529)|null|
+|**2024-12-16**|**Coherent information as a mixed-state topological order parameter of fermions**|Ze-Min Huang, Luis Colmenarez, Markus Müller, Sebastian Diehl|[2412.12279](http://arxiv.org/abs/2412.12279)|null|
+|**2024-12-16**|**Snakes and Ladders: Adapting the surface code to defects**|Catherine Leroux, Sophia F. Lin, Przemyslaw Bienias, Krishanu R. Sankar, Asmae Benhemou, Aleksander Kubica, Joseph K. Iverson|[2412.11504](http://arxiv.org/abs/2412.11504)|**[link](https://github.com/amazon-science/snakes_and_ladders_adapting_the_surface_code_to_defects)**|
 |**2024-12-15**|**Non-Markovian Noise Suppression Simplified through Channel Representation**|Zhenhuan Liu, Yunlong Xiao, Zhenyu Cai|[2412.11220](http://arxiv.org/abs/2412.11220)|null|
 |**2024-12-12**|**Codes in algebras of direct products of groups and associated quantum codes**|Miguel Sales, Xaro Soler-Escrivà, Víctor Sotomayor|[2412.09695](http://arxiv.org/abs/2412.09695)|null|
 |**2024-12-12**|**A Mathematical Structure for Amplitude-Mixing Error-Transparent Gates for Binomial Codes**|Owen C. Wetherbee, Saswata Roy, Baptiste Royer, Valla Fatemi|[2412.08870](http://arxiv.org/abs/2412.08870)|null|

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-15**|**The quantum electromagnetic field in the Weyl-Wigner representation**|Emilio Santos|[2412.13218](http://arxiv.org/abs/2412.13218)|null|
 |**2024-12-16**|**Purcell-Enhanced Generation of Photonic Bell States via the Inelastic Scattering of Single Atoms**|Jian Wang, Xiao-Long Zhou, Ze-Min Shen, Dong-Yu Huang, Si-Jian He, Qi-Yang Huang, Yi-Jia Liu, Chuan-Feng Li, Guang-Can Guo|[2412.11562](http://arxiv.org/abs/2412.11562)|null|
 |**2024-12-14**|**The geometry of simplicial distributions on suspension scenarios**|Aziz Kharoof|[2412.10963](http://arxiv.org/abs/2412.10963)|null|
 |**2024-12-13**|**Nonlocality of Quantum States can be Transitive**|Kai-Siang Chen, Gelo Noel M. Tabia, Chung-Yun Hsieh, Yu-Chun Yin, Yeong-Cherng Liang|[2412.10505](http://arxiv.org/abs/2412.10505)|null|
@@ -1251,6 +1252,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**The random coupled-plaquette gauge model and the surface code under circuit-level noise**|Manuel Rispler, Davide Vodola, Markus Müller, Seyong Kim|[2412.14004](http://arxiv.org/abs/2412.14004)|null|
+|**2024-12-18**|**99.9%-fidelity in measuring a superconducting qubit**|Can Wang, Feng-Ming Liu, He Chen, Yi-Fei Du, Chong Ying, Jian-Wen Wang, Yong-Heng Huo, Cheng-Zhi Peng, Xiaobo Zhu, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan|[2412.13849](http://arxiv.org/abs/2412.13849)|null|
+|**2024-12-18**|**Tensor-network decoders for process tensor descriptions of non-Markovian noise**|Fumiyoshi Kobayashi, Hidetaka Manabe, Gregory A. L. White, Terry Farrelly, Kavan Modi, Thomas M. Stace|[2412.13739](http://arxiv.org/abs/2412.13739)|null|
+|**2024-12-18**|**Turning qubit noise into a blessing: Automatic state preparation and long-time dynamics for impurity models on quantum computers**|Corentin Bertrand, Pauline Besserve, Michel Ferrero, Thomas Ayral|[2412.13711](http://arxiv.org/abs/2412.13711)|null|
+|**2024-12-18**|**Two-qubit gate protocols with microwave-dressed Rydberg ions in a linear Paul trap**|Joseph W. P. Wilkinson, Katrin Bolsmann, Thiago L. M. Guedes, Markus Müller, Igor Lesanovsky|[2412.13699](http://arxiv.org/abs/2412.13699)|null|
+|**2024-12-18**|**Quantum Codes from Group Ring Codes**|Kanat Abdukhalikov, Tushar Bag, Daniel Panario|[2412.13616](http://arxiv.org/abs/2412.13616)|null|
+|**2024-12-18**|**Some New Non-binary Quantum Codes from One-generator Quasi-cyclic Codes**|Tushar Bag, Hai Q Dinh, Daniel Panario|[2412.13613](http://arxiv.org/abs/2412.13613)|null|
+|**2024-12-17**|**Topological Quantum Spin Glass Order and its realization in qLDPC codes**|Benedikt Placke, Tibor Rakovszky, Nikolas P. Breuckmann, Vedika Khemani|[2412.13248](http://arxiv.org/abs/2412.13248)|null|
 |**2024-12-17**|**Near-Term Spin-Qubit Architecture Design via Multipartite Maximally-Entangled States**|Nikiforos Paraskevopoulos, Matthew Steinberg, Brennan Undseth, Xiao Xue, Aritra Sarkar, Lieven M. K. Vandersypen, Sebastian Feld|[2412.12874](http://arxiv.org/abs/2412.12874)|null|
 |**2024-12-17**|**Fault-tolerant Quantum Computation without Distillation on a 2D Device**|Thomas R. Scruby, Zhenyu Cai|[2412.12529](http://arxiv.org/abs/2412.12529)|null|
 |**2024-12-16**|**Coherent information as a mixed-state topological order parameter of fermions**|Ze-Min Huang, Luis Colmenarez, Markus Müller, Sebastian Diehl|[2412.12279](http://arxiv.org/abs/2412.12279)|null|

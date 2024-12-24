@@ -458,6 +458,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Graph Size-imbalanced Learning with Energy-guided Structural Smoothing**|Jiawen Qin, Pengfeng Huang, Qingyun Sun, Cheng Ji, Xingcheng Fu, Jianxin Li|[2412.17591](http://arxiv.org/abs/2412.17591)|null|
 |**2024-12-13**|**Separation of measurement uncertainty into quantum and classical parts based on Kirkwood-Dirac quasiprobability and generalized entropy**|Agung Budiyono|[2412.10619](http://arxiv.org/abs/2412.10619)|null|
 |**2024-12-06**|**States Violating Both Locality and Noncontextuality Inequalities in Quantum Theory**|Yuichiro Kitajima|[2412.04713](http://arxiv.org/abs/2412.04713)|null|
 |**2024-12-04**|**QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives**|Ji Wu, Huai Yu, Shu Han, Xi-Meng Cai, Ming-Feng Wang, Wen Yang, Gui-Song Xia|[2412.02998](http://arxiv.org/abs/2412.02998)|null|
@@ -690,6 +691,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-21**|**Absorption and Dispersion: In Search of a Versatile Spectroscopic Technique**|Iskander Gazizov, Davide Pinto, Harald Moser, Savda Sam, Pedro Martin-Mateos, Liam O'Faolain, Bernhard Lendl|[2412.16528](http://arxiv.org/abs/2412.16528)|null|
 |**2024-12-17**|**All non-Gaussian states are advantageous for channel discrimination: Robustness of non-convex continuous variable quantum resources**|Leah Turner, Madalin Guta, Gerardo Adesso|[2412.13011](http://arxiv.org/abs/2412.13011)|null|
 |**2024-12-09**|**Robust Catalysis and Resource Broadcasting: The Possible and the Impossible**|Jeongrak Son, Ray Ganardi, Shintaro Minagawa, Francesco Buscemi, Seok Hyung Lie, Nelly H. Y. Ng|[2412.06900](http://arxiv.org/abs/2412.06900)|null|
 |**2024-12-09**|**Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters**|Yuan Wang, Ouxiang Li, Tingting Mu, Yanbin Hao, Kuien Liu, Xiang Wang, Xiangnan He|[2412.06143](http://arxiv.org/abs/2412.06143)|null|
@@ -875,13 +877,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-21**|**Higher-Order Krylov State Complexity in Random Matrix Quenches**|Hugo A. Camargo, Yichao Fu, Viktor Jahnke, Keun-Young Kim, Kuntal Pal|[2412.16472](http://arxiv.org/abs/2412.16472)|null|
 |**2024-12-19**|**Quantum chaos on the separatrix of the periodically perturbed Harper model**|Alice C. Quillen, Abobakar Sediq Miakhel|[2412.14926](http://arxiv.org/abs/2412.14926)|**[link](https://github.com/aquillen/Qperio)**|
 |**2024-12-19**|**Quantum chaos, localization and phase transitions in random graphs**|Ioannis Kleftogiannis, Ilias Amanatidis|[2412.14722](http://arxiv.org/abs/2412.14722)|null|
 |**2024-12-18**|**Many-body spectral transitions through the lens of variable-range SYK2 model**|Andrea Legramandi, Soumik Bandyopadhyay, Philipp Hauke|[2412.14280](http://arxiv.org/abs/2412.14280)|null|
 |**2024-12-16**|**Brickwall One-Loop Determinant: Spectral Statistics & Krylov Complexity**|Hyun-Sik Jeong, Arnab Kundu, Juan F. Pedraza|[2412.12301](http://arxiv.org/abs/2412.12301)|null|
 |**2024-12-13**|**Anticoncentration and magic spreading under ergodic quantum dynamics**|Emanuele Tirrito, Xhek Turkeshi, Piotr Sierant|[2412.10229](http://arxiv.org/abs/2412.10229)|null|
 |**2024-12-12**|**Proposal of realizing the Sachdev-Ye-Kitaev model from a Kitaev Spin Chain**|Han-yuan Zuo, Zheng-xin Liu|[2412.09509](http://arxiv.org/abs/2412.09509)|null|
-|**2024-12-11**|**Random Circuits in the Black Hole Interior**|Javier M. Magan, Martin Sasieta, Brian Swingle|[2412.08693](http://arxiv.org/abs/2412.08693)|null|
+|**2024-12-23**|**Random Circuits in the Black Hole Interior**|Javier M. Magan, Martin Sasieta, Brian Swingle|[2412.08693](http://arxiv.org/abs/2412.08693)|null|
 |**2024-12-10**|**Complex dynamics in circular and deformed bilayer graphene inspired billiards with anisotropy and strain**|Lukas Seemann, Jana Lukin, Max Häßler, Sibylle Gemming, Martina Hentschel|[2412.07934](http://arxiv.org/abs/2412.07934)|null|
 |**2024-12-06**|**Krylov Complexity in Mixed Phase Space**|Kyoung-Bum Huh, Hyun-Sik Jeong, Leopoldo A. Pando Zayas, Juan F. Pedraza|[2412.04963](http://arxiv.org/abs/2412.04963)|null|
 |**2024-12-05**|**The SYK charging advantage as a random walk on graphs**|Francisco Divi, Jeff Murugan, Dario Rosa|[2412.04560](http://arxiv.org/abs/2412.04560)|null|
@@ -1277,6 +1280,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-21**|**Fundamental thresholds for computational and erasure errors via the coherent information**|Luis Colmenarez, Seyong Kim, Markus Müller|[2412.16727](http://arxiv.org/abs/2412.16727)|null|
+|**2024-12-21**|**Quantum $(r,δ)$ -locally recoverable codes**|Carlos Galindo, Fernando Hernando, Helena Martín-Cruz, Ryutaroh Matsumoto|[2412.16590](http://arxiv.org/abs/2412.16590)|null|
+|**2024-12-21**|**High-Rate Amplitude-Damping Shor Codes with Immunity to Collective Coherent Errors**|En-Jui Chang, Ching-Yi Lai|[2412.16450](http://arxiv.org/abs/2412.16450)|null|
+|**2024-12-19**|**Color-Name Aware Optimization to Enhance the Perception of Transparent Overlapped Charts**|Kecheng Lu, Lihang Zhu, Yunhai Wang, Qiong Zeng, Weitao Song, Khairi Reda|[2412.16242](http://arxiv.org/abs/2412.16242)|null|
 |**2024-12-20**|**Bounds on concatenated entanglement-assisted quantum error-correcting codes**|Nihar Ranjan Dash, Sanjoy Dutta, R. Srikanth, Subhashish Banerjee|[2412.16082](http://arxiv.org/abs/2412.16082)|null|
 |**2024-12-20**|**Error-corrected fermionic quantum processors with neutral atoms**|Robert Ott, Daniel González-Cuadra, Torsten V. Zache, Peter Zoller, Adam M. Kaufman, Hannes Pichler|[2412.16081](http://arxiv.org/abs/2412.16081)|null|
 |**2024-12-20**|**Implementation of Magic State Injection within Heavy-Hexagon Architecture**|Hansol Kim, Wonjae Choi, Younghun Kim, Younghun Kwon|[2412.15751](http://arxiv.org/abs/2412.15751)|null|

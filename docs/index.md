@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Superactivation and Incompressibility of Genuine Multipartite Entanglement**|Lisa T. Weinbrenner, Klára Baksová, Sophia Denker, Simon Morelli, Xiao-Dong Yu, Nicolai Friis, Otfried Gühne|[2412.18331](http://arxiv.org/abs/2412.18331)|null|
+|**2024-12-23**|**Device-Independent Randomness Amplification**|Anatoly Kulikov, Simon Storz, Josua D. Schär, Martin Sandfuchs, Ramona Wolf, Florence Berterottière, Christoph Hellings, Renato Renner, Andreas Wallraff|[2412.17931](http://arxiv.org/abs/2412.17931)|null|
 |**2024-12-15**|**The quantum electromagnetic field in the Weyl-Wigner representation**|Emilio Santos|[2412.13218](http://arxiv.org/abs/2412.13218)|null|
 |**2024-12-16**|**Purcell-Enhanced Generation of Photonic Bell States via the Inelastic Scattering of Single Atoms**|Jian Wang, Xiao-Long Zhou, Ze-Min Shen, Dong-Yu Huang, Si-Jian He, Qi-Yang Huang, Yi-Jia Liu, Chuan-Feng Li, Guang-Can Guo|[2412.11562](http://arxiv.org/abs/2412.11562)|null|
 |**2024-12-14**|**The geometry of simplicial distributions on suspension scenarios**|Aziz Kharoof|[2412.10963](http://arxiv.org/abs/2412.10963)|null|
@@ -568,6 +570,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Superactivation and Incompressibility of Genuine Multipartite Entanglement**|Lisa T. Weinbrenner, Klára Baksová, Sophia Denker, Simon Morelli, Xiao-Dong Yu, Nicolai Friis, Otfried Gühne|[2412.18331](http://arxiv.org/abs/2412.18331)|null|
 |**2024-12-13**|**Nonlocality of Quantum States can be Transitive**|Kai-Siang Chen, Gelo Noel M. Tabia, Chung-Yun Hsieh, Yu-Chun Yin, Yeong-Cherng Liang|[2412.10505](http://arxiv.org/abs/2412.10505)|null|
 |**2024-12-02**|**Quantum steering for different types of Bell-like states in gravitational background**|Si-Han Li, Si-Han Shang, Shu-Min Wu|[2412.01043](http://arxiv.org/abs/2412.01043)|null|
 |**2024-11-21**|**Steering in Neutrino Oscillations with Non-Standard Interaction**|Lekhashri Konwar, Bhavna Yadav|[2411.14234](http://arxiv.org/abs/2411.14234)|null|
@@ -674,6 +677,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Interference-free Operating System: A 6 Years' Experience in Mitigating Cross-Core Interference in Linux**|Zhaomeng Deng, Ziqi Zhang, Ding Li, Yao Guo, Yunfeng Ye, Yuxin Ren, Ning Jia, Xinwei Hu|[2412.18104](http://arxiv.org/abs/2412.18104)|null|
 |**2024-12-21**|**Absorption and Dispersion: In Search of a Versatile Spectroscopic Technique**|Iskander Gazizov, Davide Pinto, Harald Moser, Savda Sam, Pedro Martin-Mateos, Liam O'Faolain, Bernhard Lendl|[2412.16528](http://arxiv.org/abs/2412.16528)|null|
 |**2024-12-17**|**All non-Gaussian states are advantageous for channel discrimination: Robustness of non-convex continuous variable quantum resources**|Leah Turner, Madalin Guta, Gerardo Adesso|[2412.13011](http://arxiv.org/abs/2412.13011)|null|
 |**2024-12-09**|**Robust Catalysis and Resource Broadcasting: The Possible and the Impossible**|Jeongrak Son, Ray Ganardi, Shintaro Minagawa, Francesco Buscemi, Seok Hyung Lie, Nelly H. Y. Ng|[2412.06900](http://arxiv.org/abs/2412.06900)|null|
@@ -859,7 +863,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-21**|**Higher-Order Krylov State Complexity in Random Matrix Quenches**|Hugo A. Camargo, Yichao Fu, Viktor Jahnke, Keun-Young Kim, Kuntal Pal|[2412.16472](http://arxiv.org/abs/2412.16472)|null|
-|**2024-12-19**|**Quantum chaos on the separatrix of the periodically perturbed Harper model**|Alice C. Quillen, Abobakar Sediq Miakhel|[2412.14926](http://arxiv.org/abs/2412.14926)|**[link](https://github.com/aquillen/Qperio)**|
+|**2024-12-24**|**Quantum chaos on the separatrix of the periodically perturbed Harper model**|Alice C. Quillen, Abobakar Sediq Miakhel|[2412.14926](http://arxiv.org/abs/2412.14926)|**[link](https://github.com/aquillen/Qperio)**|
 |**2024-12-19**|**Quantum chaos, localization and phase transitions in random graphs**|Ioannis Kleftogiannis, Ilias Amanatidis|[2412.14722](http://arxiv.org/abs/2412.14722)|null|
 |**2024-12-18**|**Many-body spectral transitions through the lens of variable-range SYK2 model**|Andrea Legramandi, Soumik Bandyopadhyay, Philipp Hauke|[2412.14280](http://arxiv.org/abs/2412.14280)|null|
 |**2024-12-16**|**Brickwall One-Loop Determinant: Spectral Statistics & Krylov Complexity**|Hyun-Sik Jeong, Arnab Kundu, Juan F. Pedraza|[2412.12301](http://arxiv.org/abs/2412.12301)|null|
@@ -1259,6 +1263,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Randomized Benchmarking with Synthetic Quantum Circuits**|Yale Fan, Riley Murray, Thaddeus D. Ladd, Kevin Young, Robin Blume-Kohout|[2412.18578](http://arxiv.org/abs/2412.18578)|null|
+|**2024-12-24**|**Extendible quantum measurements and limitations on classical communication**|Vishal Singh, Theshani Nuradha, Mark M. Wilde|[2412.18556](http://arxiv.org/abs/2412.18556)|null|
 |**2024-12-21**|**Fundamental thresholds for computational and erasure errors via the coherent information**|Luis Colmenarez, Seyong Kim, Markus Müller|[2412.16727](http://arxiv.org/abs/2412.16727)|null|
 |**2024-12-21**|**Quantum $(r,δ)$ -locally recoverable codes**|Carlos Galindo, Fernando Hernando, Helena Martín-Cruz, Ryutaroh Matsumoto|[2412.16590](http://arxiv.org/abs/2412.16590)|null|
 |**2024-12-21**|**High-Rate Amplitude-Damping Shor Codes with Immunity to Collective Coherent Errors**|En-Jui Chang, Ching-Yi Lai|[2412.16450](http://arxiv.org/abs/2412.16450)|null|

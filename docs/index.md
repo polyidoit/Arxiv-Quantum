@@ -570,6 +570,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-26**|**An experimental proposal certification for any three-qubit generalized Greenberger-Horne-Zeilinger states based on the fine-grained steering inequality**|Zhi-Hao Bian, Jia-Qi Sun, Yi Shen|[2412.19028](http://arxiv.org/abs/2412.19028)|null|
 |**2024-12-24**|**Superactivation and Incompressibility of Genuine Multipartite Entanglement**|Lisa T. Weinbrenner, Klára Baksová, Sophia Denker, Simon Morelli, Xiao-Dong Yu, Nicolai Friis, Otfried Gühne|[2412.18331](http://arxiv.org/abs/2412.18331)|null|
 |**2024-12-13**|**Nonlocality of Quantum States can be Transitive**|Kai-Siang Chen, Gelo Noel M. Tabia, Chung-Yun Hsieh, Yu-Chun Yin, Yeong-Cherng Liang|[2412.10505](http://arxiv.org/abs/2412.10505)|null|
 |**2024-12-02**|**Quantum steering for different types of Bell-like states in gravitational background**|Si-Han Li, Si-Han Shang, Shu-Min Wu|[2412.01043](http://arxiv.org/abs/2412.01043)|null|
@@ -677,6 +678,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-26**|**Relative Quantum Resource Theory and Operational Applications in Subchannel Discrimination**|Sunho Kim, Chunhe Xiong, Junde Wu|[2412.19013](http://arxiv.org/abs/2412.19013)|null|
+|**2024-12-25**|**Wireless Communication with Flexible Reflector: Joint Placement and Rotation Optimization for Coverage Enhancement**|Haiquan Lu, Zhi Yu, Yong Zeng, Shaodan Ma, Shi Jin, Rui Zhang|[2412.18817](http://arxiv.org/abs/2412.18817)|null|
 |**2024-12-24**|**Interference-free Operating System: A 6 Years' Experience in Mitigating Cross-Core Interference in Linux**|Zhaomeng Deng, Ziqi Zhang, Ding Li, Yao Guo, Yunfeng Ye, Yuxin Ren, Ning Jia, Xinwei Hu|[2412.18104](http://arxiv.org/abs/2412.18104)|null|
 |**2024-12-21**|**Absorption and Dispersion: In Search of a Versatile Spectroscopic Technique**|Iskander Gazizov, Davide Pinto, Harald Moser, Savda Sam, Pedro Martin-Mateos, Liam O'Faolain, Bernhard Lendl|[2412.16528](http://arxiv.org/abs/2412.16528)|null|
 |**2024-12-17**|**All non-Gaussian states are advantageous for channel discrimination: Robustness of non-convex continuous variable quantum resources**|Leah Turner, Madalin Guta, Gerardo Adesso|[2412.13011](http://arxiv.org/abs/2412.13011)|null|
@@ -1263,6 +1266,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Celestial Quantum Error Correction II: From Qudits to Celestial CFT**|Alfredo Guevara, Yangrui Hu|[2412.19653](http://arxiv.org/abs/2412.19653)|null|
+|**2024-12-27**|**Traversing Quantum Control Robustness Landscapes: A New Paradigm for Quantum Gate Engineering**|Huiqi Xue, Xiu-Hao Deng|[2412.19473](http://arxiv.org/abs/2412.19473)|null|
 |**2024-12-24**|**Randomized Benchmarking with Synthetic Quantum Circuits**|Yale Fan, Riley Murray, Thaddeus D. Ladd, Kevin Young, Robin Blume-Kohout|[2412.18578](http://arxiv.org/abs/2412.18578)|null|
 |**2024-12-24**|**Extendible quantum measurements and limitations on classical communication**|Vishal Singh, Theshani Nuradha, Mark M. Wilde|[2412.18556](http://arxiv.org/abs/2412.18556)|null|
 |**2024-12-21**|**Fundamental thresholds for computational and erasure errors via the coherent information**|Luis Colmenarez, Seyong Kim, Markus Müller|[2412.16727](http://arxiv.org/abs/2412.16727)|null|
@@ -1271,7 +1276,7 @@ layout: default
 |**2024-12-19**|**Color-Name Aware Optimization to Enhance the Perception of Transparent Overlapped Charts**|Kecheng Lu, Lihang Zhu, Yunhai Wang, Qiong Zeng, Weitao Song, Khairi Reda|[2412.16242](http://arxiv.org/abs/2412.16242)|null|
 |**2024-12-20**|**Bounds on concatenated entanglement-assisted quantum error-correcting codes**|Nihar Ranjan Dash, Sanjoy Dutta, R. Srikanth, Subhashish Banerjee|[2412.16082](http://arxiv.org/abs/2412.16082)|null|
 |**2024-12-20**|**Error-corrected fermionic quantum processors with neutral atoms**|Robert Ott, Daniel González-Cuadra, Torsten V. Zache, Peter Zoller, Adam M. Kaufman, Hannes Pichler|[2412.16081](http://arxiv.org/abs/2412.16081)|null|
-|**2024-12-20**|**Implementation of Magic State Injection within Heavy-Hexagon Architecture**|Hansol Kim, Wonjae Choi, Younghun Kim, Younghun Kwon|[2412.15751](http://arxiv.org/abs/2412.15751)|null|
+|**2024-12-26**|**Implementation of Magic State Injection within Heavy-Hexagon Architecture**|Hansol Kim, Wonjae Choi, Younghun Kwon|[2412.15751](http://arxiv.org/abs/2412.15751)|null|
 |**2024-12-20**|**New Design of three-qubit system with three transmons and a single fixed-frequency resonator coupler**|Jeongsoo Kang, Chanpyo Kim, Younghun Kim, Younghun Kwon|[2412.15629](http://arxiv.org/abs/2412.15629)|**[link](https://github.com/JeongsooKang/pulse_parameters)**|
 |**2024-12-19**|**Optimizing FTQC Programs through QEC Transpiler and Architecture Codesign**|Meng Wang, Chenxu Liu, Samuel Stein, Yufei Ding, Poulami Das, Prashant J. Nair, Ang Li|[2412.15434](http://arxiv.org/abs/2412.15434)|null|
 |**2024-12-19**|**A correspondence between quantum error correcting codes and quantum reference frames**|Sylvain Carrozza, Aidan Chatwin-Davies, Philipp A. Hoehn, Fabio M. Mele|[2412.15317](http://arxiv.org/abs/2412.15317)|null|

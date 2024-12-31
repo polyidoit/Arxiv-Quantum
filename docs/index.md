@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Measuring Quantum Discord at the LHC**|Tao Han, Matthew Low, Navin McGinnis, Shufang Su|[2412.21158](http://arxiv.org/abs/2412.21158)|null|
 |**2024-12-24**|**Superactivation and Incompressibility of Genuine Multipartite Entanglement**|Lisa T. Weinbrenner, Klára Baksová, Sophia Denker, Simon Morelli, Xiao-Dong Yu, Nicolai Friis, Otfried Gühne|[2412.18331](http://arxiv.org/abs/2412.18331)|null|
 |**2024-12-23**|**Device-Independent Randomness Amplification**|Anatoly Kulikov, Simon Storz, Josua D. Schär, Martin Sandfuchs, Ramona Wolf, Florence Berterottière, Christoph Hellings, Renato Renner, Andreas Wallraff|[2412.17931](http://arxiv.org/abs/2412.17931)|null|
 |**2024-12-15**|**The quantum electromagnetic field in the Weyl-Wigner representation**|Emilio Santos|[2412.13218](http://arxiv.org/abs/2412.13218)|null|
@@ -678,6 +679,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Field-free, Quasi-continuous Operation of Optical Nanofiber Interface with Two-dimensional Ferromagnetic Trap**|Ruijuan Liu, Jinggu Wu, Yuan Jiang, Yanting Zhao, Saijun Wu|[2412.20734](http://arxiv.org/abs/2412.20734)|null|
+|**2024-12-29**|**A Novel Supervisory Control Algorithm to Avoid Deadlock in a Manufacturing System Based on Petri Net in Presence of Resource Failure**|Ahmad Bagheri, Mohammadhossein Aghaazizi, Ali Doustmohammadi|[2412.20403](http://arxiv.org/abs/2412.20403)|null|
 |**2024-12-26**|**Relative Quantum Resource Theory and Operational Applications in Subchannel Discrimination**|Sunho Kim, Chunhe Xiong, Junde Wu|[2412.19013](http://arxiv.org/abs/2412.19013)|null|
 |**2024-12-25**|**Wireless Communication with Flexible Reflector: Joint Placement and Rotation Optimization for Coverage Enhancement**|Haiquan Lu, Zhi Yu, Yong Zeng, Shaodan Ma, Shi Jin, Rui Zhang|[2412.18817](http://arxiv.org/abs/2412.18817)|null|
 |**2024-12-24**|**Interference-free Operating System: A 6 Years' Experience in Mitigating Cross-Core Interference in Linux**|Zhaomeng Deng, Ziqi Zhang, Ding Li, Yao Guo, Yunfeng Ye, Yuxin Ren, Ning Jia, Xinwei Hu|[2412.18104](http://arxiv.org/abs/2412.18104)|null|
@@ -865,6 +868,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-28**|**Average mutual information for random fermionic Gaussian quantum states**|Lucas Hackl, Mario Kieburg, Joel Maldonado|[2412.20244](http://arxiv.org/abs/2412.20244)|null|
+|**2024-12-28**|**Anatomy of information scrambling and decoherence in the integrable Sachdev-Ye-Kitaev model**|Antonio M. García-García, Chang Liu, Lucas Sá, Jacobus J. M. Verbaarschot, Jie-ping Zheng|[2412.20182](http://arxiv.org/abs/2412.20182)|null|
 |**2024-12-21**|**Higher-Order Krylov State Complexity in Random Matrix Quenches**|Hugo A. Camargo, Yichao Fu, Viktor Jahnke, Keun-Young Kim, Kuntal Pal|[2412.16472](http://arxiv.org/abs/2412.16472)|null|
 |**2024-12-24**|**Quantum chaos on the separatrix of the periodically perturbed Harper model**|Alice C. Quillen, Abobakar Sediq Miakhel|[2412.14926](http://arxiv.org/abs/2412.14926)|**[link](https://github.com/aquillen/Qperio)**|
 |**2024-12-19**|**Quantum chaos, localization and phase transitions in random graphs**|Ioannis Kleftogiannis, Ilias Amanatidis|[2412.14722](http://arxiv.org/abs/2412.14722)|null|
@@ -1266,6 +1271,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Quantum Error Correction near the Coding Theoretical Bound**|Daiki Komoto, Kenta Kasai|[2412.21171](http://arxiv.org/abs/2412.21171)|null|
+|**2024-12-30**|**Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction**|Ching-Feng Kung, Kao-Yueh Kuo, Ching-Yi Lai|[2412.21118](http://arxiv.org/abs/2412.21118)|null|
+|**2024-12-30**|**Exponentially reduced circuit depths in Lindbladian simulation**|Wenjun Yu, Xiaogang Li, Qi Zhao, Xiao Yuan|[2412.21062](http://arxiv.org/abs/2412.21062)|null|
+|**2024-12-30**|**The surface code under generic $X$ -error channels: Statistical mechanics, error thresholds, and errorfield double phenomenology**|Jan Behrends, Benjamin Béri|[2412.21055](http://arxiv.org/abs/2412.21055)|null|
+|**2024-12-30**|**Observation of metastability in open quantum dynamics of a solid-state system**|Jun-Xiang Zhang, Yuan-De Jin, Chu-Dan Qiu, Wen-Long Ma, Gang-Qin Liu|[2412.21026](http://arxiv.org/abs/2412.21026)|null|
+|**2024-12-30**|**Halma: a routing-based technique for defect mitigation in quantum error correction**|Runshi Zhou, Fang Zhang, Linghang Kong, Jianxin Chen|[2412.21000](http://arxiv.org/abs/2412.21000)|null|
+|**2024-12-29**|**Artificial Intelligence for Quantum Error Correction: A Comprehensive Review**|Zihao Wang, Hao Tang|[2412.20380](http://arxiv.org/abs/2412.20380)|null|
+|**2024-12-28**|**An Addressable and Tunable Module for Donor-based Scalable Silicon Quantum Computing**|Shihang Zhang, Yu He, Peihao Huang|[2412.20055](http://arxiv.org/abs/2412.20055)|null|
 |**2024-12-27**|**Celestial Quantum Error Correction II: From Qudits to Celestial CFT**|Alfredo Guevara, Yangrui Hu|[2412.19653](http://arxiv.org/abs/2412.19653)|null|
 |**2024-12-27**|**Traversing Quantum Control Robustness Landscapes: A New Paradigm for Quantum Gate Engineering**|Huiqi Xue, Xiu-Hao Deng|[2412.19473](http://arxiv.org/abs/2412.19473)|null|
 |**2024-12-24**|**Randomized Benchmarking with Synthetic Quantum Circuits**|Yale Fan, Riley Murray, Thaddeus D. Ladd, Kevin Young, Robin Blume-Kohout|[2412.18578](http://arxiv.org/abs/2412.18578)|null|

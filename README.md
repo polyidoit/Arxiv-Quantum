@@ -696,7 +696,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-30**|**Field-free, Quasi-continuous Operation of Optical Nanofiber Interface with Two-dimensional Ferromagnetic Trap**|Ruijuan Liu, Jinggu Wu, Yuan Jiang, Yanting Zhao, Saijun Wu|[2412.20734](http://arxiv.org/abs/2412.20734)|null|
+|**2024-12-31**|**Field-free, Quasi-continuous Operation of Optical Nanofiber Interface with Two-dimensional Ferromagnetic Trap**|Ruijuan Liu, Jinggu Wu, Yuan Jiang, Yanting Zhao, Saijun Wu|[2412.20734](http://arxiv.org/abs/2412.20734)|null|
 |**2024-12-29**|**A Novel Supervisory Control Algorithm to Avoid Deadlock in a Manufacturing System Based on Petri Net in Presence of Resource Failure**|Ahmad Bagheri, Mohammadhossein Aghaazizi, Ali Doustmohammadi|[2412.20403](http://arxiv.org/abs/2412.20403)|null|
 |**2024-12-26**|**Relative Quantum Resource Theory and Operational Applications in Subchannel Discrimination**|Sunho Kim, Chunhe Xiong, Junde Wu|[2412.19013](http://arxiv.org/abs/2412.19013)|null|
 |**2024-12-25**|**Wireless Communication with Flexible Reflector: Joint Placement and Rotation Optimization for Coverage Enhancement**|Haiquan Lu, Zhi Yu, Yong Zeng, Shaodan Ma, Shi Jin, Rui Zhang|[2412.18817](http://arxiv.org/abs/2412.18817)|null|

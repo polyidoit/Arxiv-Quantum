@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-31**|**Supersinglets can be self-tested with perfect quantum strategies**|Debashis Saha, Adán Cabello|[2501.00409](http://arxiv.org/abs/2501.00409)|null|
 |**2024-12-30**|**Measuring Quantum Discord at the LHC**|Tao Han, Matthew Low, Navin McGinnis, Shufang Su|[2412.21158](http://arxiv.org/abs/2412.21158)|null|
 |**2024-12-24**|**Superactivation and Incompressibility of Genuine Multipartite Entanglement**|Lisa T. Weinbrenner, Klára Baksová, Sophia Denker, Simon Morelli, Xiao-Dong Yu, Nicolai Friis, Otfried Gühne|[2412.18331](http://arxiv.org/abs/2412.18331)|null|
 |**2024-12-23**|**Device-Independent Randomness Amplification**|Anatoly Kulikov, Simon Storz, Josua D. Schär, Martin Sandfuchs, Ramona Wolf, Florence Berterottière, Christoph Hellings, Renato Renner, Andreas Wallraff|[2412.17931](http://arxiv.org/abs/2412.17931)|null|
@@ -1271,6 +1272,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-31**|**Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays**|Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, Teruo Tanimoto|[2501.00331](http://arxiv.org/abs/2501.00331)|null|
 |**2024-12-30**|**Quantum Error Correction near the Coding Theoretical Bound**|Daiki Komoto, Kenta Kasai|[2412.21171](http://arxiv.org/abs/2412.21171)|null|
 |**2024-12-30**|**Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction**|Ching-Feng Kung, Kao-Yueh Kuo, Ching-Yi Lai|[2412.21118](http://arxiv.org/abs/2412.21118)|null|
 |**2024-12-30**|**Exponentially reduced circuit depths in Lindbladian simulation**|Wenjun Yu, Xiaogang Li, Qi Zhao, Xiao Yuan|[2412.21062](http://arxiv.org/abs/2412.21062)|null|

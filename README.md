@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Simulating Bell inequalities with Qibo**|Isabella Masina, Giuseppe Lo Presti, Matteo Robbiati, Michele Grossi|[2501.01434](http://arxiv.org/abs/2501.01434)|null|
 |**2024-12-31**|**Supersinglets can be self-tested with perfect quantum strategies**|Debashis Saha, Adán Cabello|[2501.00409](http://arxiv.org/abs/2501.00409)|null|
 |**2024-12-30**|**Measuring Quantum Discord at the LHC**|Tao Han, Matthew Low, Navin McGinnis, Shufang Su|[2412.21158](http://arxiv.org/abs/2412.21158)|null|
 |**2024-12-24**|**Superactivation and Incompressibility of Genuine Multipartite Entanglement**|Lisa T. Weinbrenner, Klára Baksová, Sophia Denker, Simon Morelli, Xiao-Dong Yu, Nicolai Friis, Otfried Gühne|[2412.18331](http://arxiv.org/abs/2412.18331)|null|
@@ -888,6 +889,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Scrambling in charged hairy black holes and the Kasner interior**|Hadyan Luthfan Prihadi, Donny Dwiputra, Fitria Khairunnisa, Freddy Permana Zen|[2501.01680](http://arxiv.org/abs/2501.01680)|null|
 |**2024-12-28**|**Average mutual information for random fermionic Gaussian quantum states**|Lucas Hackl, Mario Kieburg, Joel Maldonado|[2412.20244](http://arxiv.org/abs/2412.20244)|null|
 |**2024-12-28**|**Anatomy of information scrambling and decoherence in the integrable Sachdev-Ye-Kitaev model**|Antonio M. García-García, Chang Liu, Lucas Sá, Jacobus J. M. Verbaarschot, Jie-ping Zheng|[2412.20182](http://arxiv.org/abs/2412.20182)|null|
 |**2024-12-21**|**Higher-Order Krylov State Complexity in Random Matrix Quenches**|Hugo A. Camargo, Yichao Fu, Viktor Jahnke, Keun-Young Kim, Kuntal Pal|[2412.16472](http://arxiv.org/abs/2412.16472)|null|
@@ -1293,6 +1295,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform**|Alvin Gonzales|[2501.01953](http://arxiv.org/abs/2501.01953)|null|
+|**2025-01-03**|**$(Θ, Δ_Θ, \mathbf{a})$-cyclic codes over $\mathbb{F}_q^l$ and their applications in the construction of quantum codes**|Akanksha, Anuj Kumar Bhagat, Ritumoni Sarma|[2501.01708](http://arxiv.org/abs/2501.01708)|null|
+|**2025-01-02**|**Quantum Error Correction with Goppa Codes from Maximal Curves: Design, Simulation, and Performance**|Vahid Nourozi|[2501.01549](http://arxiv.org/abs/2501.01549)|null|
 |**2024-12-31**|**Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays**|Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, Teruo Tanimoto|[2501.00331](http://arxiv.org/abs/2501.00331)|null|
 |**2024-12-30**|**Quantum Error Correction near the Coding Theoretical Bound**|Daiki Komoto, Kenta Kasai|[2412.21171](http://arxiv.org/abs/2412.21171)|null|
 |**2024-12-30**|**Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction**|Ching-Feng Kung, Kao-Yueh Kuo, Ching-Yi Lai|[2412.21118](http://arxiv.org/abs/2412.21118)|null|

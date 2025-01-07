@@ -870,6 +870,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Ensemble-averaged mean-field many-body level density: an indicator of integrable versus chaotic single-particle dynamics**|Georg Maier, Carolyn Echter, Juan Diego Urbina, Caio Lewenkopf, Klaus Richter|[2501.02918](http://arxiv.org/abs/2501.02918)|null|
 |**2025-01-03**|**Scrambling in charged hairy black holes and the Kasner interior**|Hadyan Luthfan Prihadi, Donny Dwiputra, Fitria Khairunnisa, Freddy Permana Zen|[2501.01680](http://arxiv.org/abs/2501.01680)|null|
 |**2024-12-28**|**Average mutual information for random fermionic Gaussian quantum states**|Lucas Hackl, Mario Kieburg, Joel Maldonado|[2412.20244](http://arxiv.org/abs/2412.20244)|null|
 |**2024-12-28**|**Anatomy of information scrambling and decoherence in the integrable Sachdev-Ye-Kitaev model**|Antonio M. García-García, Chang Liu, Lucas Sá, Jacobus J. M. Verbaarschot, Jie-ping Zheng|[2412.20182](http://arxiv.org/abs/2412.20182)|null|
@@ -1274,8 +1275,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-03**|**Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform**|Alvin Gonzales|[2501.01953](http://arxiv.org/abs/2501.01953)|null|
-|**2025-01-03**|**$(Θ, Δ_Θ, \mathbf{a})$-cyclic codes over $\mathbb{F}_q^l$ and their applications in the construction of quantum codes**|Akanksha, Anuj Kumar Bhagat, Ritumoni Sarma|[2501.01708](http://arxiv.org/abs/2501.01708)|null|
+|**2025-01-06**|**Robust Mølmer-Sørensen Gate Against Symmetric and Asymmetric Errors**|Wenhao Zhang, Gaoxiang Tang, Kecheng Liu, Xiao Yuan, Yangchao Shen, Yukai Wu, Xiao-Ming Zhang|[2501.02847](http://arxiv.org/abs/2501.02847)|null|
+|**2025-01-05**|**Linear Optics to Scalable Photonic Quantum Computing**|Dennis Delali Kwesi Wayo, Leonardo Goliatt, Darvish Ganji|[2501.02513](http://arxiv.org/abs/2501.02513)|null|
+|**2025-01-04**|**Enhanced Atom-by-Atom Assembly of Defect-Free Two-Dimensional Mixed-Species Atomic Arrays**|Ming-Rui Wei, Kun-Peng Wang, Jia-Yi Hou, Yi Chen, Peng Xu, Jun Zhuang, Rui-Jun Guo, Min Liu, Jin Wang, Xiao-Dong He, Ming-Sheng Zhan|[2501.02248](http://arxiv.org/abs/2501.02248)|null|
+|**2025-01-06**|**Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform**|Alvin Gonzales|[2501.01953](http://arxiv.org/abs/2501.01953)|null|
+|**2025-01-06**|**$(Θ, Δ_Θ, \mathbf{a})$-cyclic codes over $\mathbb{F}_q^l$ and their applications in the construction of quantum codes**|Akanksha, Anuj Kumar Bhagat, Ritumoni Sarma|[2501.01708](http://arxiv.org/abs/2501.01708)|null|
 |**2025-01-02**|**Quantum Error Correction with Goppa Codes from Maximal Curves: Design, Simulation, and Performance**|Vahid Nourozi|[2501.01549](http://arxiv.org/abs/2501.01549)|null|
 |**2024-12-31**|**Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays**|Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, Teruo Tanimoto|[2501.00331](http://arxiv.org/abs/2501.00331)|null|
 |**2024-12-30**|**Quantum Error Correction near the Coding Theoretical Bound**|Daiki Komoto, Kenta Kasai|[2412.21171](http://arxiv.org/abs/2412.21171)|null|

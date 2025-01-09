@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Phase space analysis of Bell inequalities for mixed Gaussian states**|Gurpahul Singh, Kelly Wurtz, Eduardo Martín-Martínez|[2501.04078](http://arxiv.org/abs/2501.04078)|null|
 |**2025-01-06**|**Bell Inequality Violation of Light Quarks in Back-to-Back Dihadron Pair Production at Lepton Colliders**|Kun Cheng, Bin Yan|[2501.03321](http://arxiv.org/abs/2501.03321)|null|
 |**2025-01-06**|**The trace distance between density matrices, a nifty tool in new-physics searches**|Marco Fabbrichesi, Matthew Low, Luca Marzola|[2501.03311](http://arxiv.org/abs/2501.03311)|null|
 |**2024-12-18**|**Simulating Bell inequalities with Qibo**|Isabella Masina, Giuseppe Lo Presti, Matteo Robbiati, Michele Grossi|[2501.01434](http://arxiv.org/abs/2501.01434)|null|
@@ -452,6 +453,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Quantum entanglement as an extremal Kirkwood-Dirac nonreality**|Agung Budiyono|[2501.04137](http://arxiv.org/abs/2501.04137)|null|
 |**2024-12-23**|**Graph Size-imbalanced Learning with Energy-guided Structural Smoothing**|Jiawen Qin, Pengfeng Huang, Qingyun Sun, Cheng Ji, Xingcheng Fu, Jianxin Li|[2412.17591](http://arxiv.org/abs/2412.17591)|null|
 |**2024-12-13**|**Separation of measurement uncertainty into quantum and classical parts based on Kirkwood-Dirac quasiprobability and generalized entropy**|Agung Budiyono|[2412.10619](http://arxiv.org/abs/2412.10619)|null|
 |**2024-12-06**|**States Violating Both Locality and Noncontextuality Inequalities in Quantum Theory**|Yuichiro Kitajima|[2412.04713](http://arxiv.org/abs/2412.04713)|null|
@@ -872,6 +874,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Understanding the approach to thermalization in a non-Abelian gauge theory**|Sayak Guin, Harshit Pandey, Sayantan Sharma|[2501.04397](http://arxiv.org/abs/2501.04397)|null|
 |**2025-01-06**|**Ensemble-averaged mean-field many-body level density: an indicator of integrable versus chaotic single-particle dynamics**|Georg Maier, Carolyn Echter, Juan Diego Urbina, Caio Lewenkopf, Klaus Richter|[2501.02918](http://arxiv.org/abs/2501.02918)|null|
 |**2025-01-03**|**Scrambling in charged hairy black holes and the Kasner interior**|Hadyan Luthfan Prihadi, Donny Dwiputra, Fitria Khairunnisa, Freddy Permana Zen|[2501.01680](http://arxiv.org/abs/2501.01680)|null|
 |**2024-12-28**|**Average mutual information for random fermionic Gaussian quantum states**|Lucas Hackl, Mario Kieburg, Joel Maldonado|[2412.20244](http://arxiv.org/abs/2412.20244)|null|
@@ -1277,12 +1280,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Realizing Lattice Surgery on Two Distance-Three Repetition Codes with Superconducting Qubits**|Ilya Besedin, Michael Kerschbaum, Jonathan Knoll, Ian Hesner, Lukas Bödeker, Luis Colmenarez, Luca Hofele, Nathan Lacroix, Christoph Hellings, François Swiadek, Alexander Flasby, Mohsen Bahrami Panah, Dante Colao Zanuz, Markus Müller, Andreas Wallraff|[2501.04612](http://arxiv.org/abs/2501.04612)|null|
+|**2025-01-08**|**Experimental demonstration of entanglement pumping with bosonic logical qubits**|Jie Zhou, Chuanlong Ma, Yifang Xu, Weizhou Cai, Hongwei Huang, Lida Sun, Guangming Xue, Ziyue Hua, Haifeng Yu, Weiting Wang, Chang-Ling Zou, Luyan Sun|[2501.04460](http://arxiv.org/abs/2501.04460)|null|
+|**2025-01-07**|**Dephasing-tolerant quantum sensing for transverse magnetic fields with spin qudits**|Matteo Mezzadri, Luca Lepori, Alessandro Chiesa, Stefano Carretta|[2501.04100](http://arxiv.org/abs/2501.04100)|null|
 |**2025-01-07**|**Channel Coding based on Skew Polynomials and Multivariate Polynomials**|Hedongliang Liu|[2501.03961](http://arxiv.org/abs/2501.03961)|null|
 |**2025-01-07**|**Exact Decoding of Repetition Code under Circuit Level Noise**|Hanyan Cao, Shoukuan Zhao, Dongyang Feng, Zisong Shen, Haisheng Yan, Tang Su, Weijie Sun, Huikai Xu, Feng Pan, Haifeng Yu, Pan Zhang|[2501.03582](http://arxiv.org/abs/2501.03582)|null|
 |**2025-01-06**|**Robust Mølmer-Sørensen Gate Against Symmetric and Asymmetric Errors**|Wenhao Zhang, Gaoxiang Tang, Kecheng Liu, Xiao Yuan, Yangchao Shen, Yukai Wu, Xiao-Ming Zhang|[2501.02847](http://arxiv.org/abs/2501.02847)|null|
 |**2025-01-05**|**Linear Optics to Scalable Photonic Quantum Computing**|Dennis Delali Kwesi Wayo, Leonardo Goliatt, Darvish Ganji|[2501.02513](http://arxiv.org/abs/2501.02513)|null|
 |**2025-01-04**|**Enhanced Atom-by-Atom Assembly of Defect-Free Two-Dimensional Mixed-Species Atomic Arrays**|Ming-Rui Wei, Kun-Peng Wang, Jia-Yi Hou, Yi Chen, Peng Xu, Jun Zhuang, Rui-Jun Guo, Min Liu, Jin Wang, Xiao-Dong He, Ming-Sheng Zhan|[2501.02248](http://arxiv.org/abs/2501.02248)|null|
-|**2025-01-06**|**Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform**|Alvin Gonzales|[2501.01953](http://arxiv.org/abs/2501.01953)|null|
+|**2025-01-07**|**Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform**|Alvin Gonzales|[2501.01953](http://arxiv.org/abs/2501.01953)|null|
 |**2025-01-06**|**$(Θ, Δ_Θ, \mathbf{a})$-cyclic codes over $\mathbb{F}_q^l$ and their applications in the construction of quantum codes**|Akanksha, Anuj Kumar Bhagat, Ritumoni Sarma|[2501.01708](http://arxiv.org/abs/2501.01708)|null|
 |**2025-01-02**|**Quantum Error Correction with Goppa Codes from Maximal Curves: Design, Simulation, and Performance**|Vahid Nourozi|[2501.01549](http://arxiv.org/abs/2501.01549)|null|
 |**2024-12-31**|**Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays**|Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, Teruo Tanimoto|[2501.00331](http://arxiv.org/abs/2501.00331)|null|

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Entanglement and Bell Nonlocality in $τ^+ τ^-$ at the BEPC**|Tao Han, Matthew Low, Youle Su|[2501.04801](http://arxiv.org/abs/2501.04801)|null|
 |**2025-01-07**|**Phase space analysis of Bell inequalities for mixed Gaussian states**|Gurpahul Singh, Kelly Wurtz, Eduardo Martín-Martínez|[2501.04078](http://arxiv.org/abs/2501.04078)|null|
 |**2025-01-06**|**Bell Inequality Violation of Light Quarks in Back-to-Back Dihadron Pair Production at Lepton Colliders**|Kun Cheng, Bin Yan|[2501.03321](http://arxiv.org/abs/2501.03321)|null|
 |**2025-01-06**|**The trace distance between density matrices, a nifty tool in new-physics searches**|Marco Fabbrichesi, Matthew Low, Luca Marzola|[2501.03311](http://arxiv.org/abs/2501.03311)|null|
@@ -1280,6 +1281,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Efficient Qubit Calibration by Binary-Search Hamiltonian Tracking**|Fabrizio Berritta, Jacob Benestad, Lukas Pahl, Melvin Mathews, Jan A. Krzywda, Réouven Assouly, Youngkyu Sung, David K. Kim, Bethany M. Niedzielski, Kyle Serniak, Mollie E. Schwartz, Jonilyn L. Yoder, Anasua Chatterjee, Jeffrey A. Grover, Jeroen Danon, William D. Oliver, Ferdinand Kuemmeth|[2501.05386](http://arxiv.org/abs/2501.05386)|null|
+|**2025-01-09**|**A learning agent-based approach to the characterization of open quantum systems**|Lorenzo Fioroni, Ivan Rojkov, Florentin Reiter|[2501.05350](http://arxiv.org/abs/2501.05350)|null|
+|**2025-01-09**|**Enhanced Min-Sum Decoding of Quantum Codes Using Previous Iteration Dynamics**|Dimitris Chytas, Nithin Raveendran, Bane Vasic|[2501.05021](http://arxiv.org/abs/2501.05021)|null|
+|**2025-01-09**|**Entanglement-Assisted Concatenated Quantum Codes: Parameters and Asymptotic Performance**|Jihao Fan, Wei Cheng, Gaojun Luo, Zhou Li, Meng Cao|[2501.04921](http://arxiv.org/abs/2501.04921)|null|
+|**2025-01-08**|**Beyond Integral-Domain Stabilizer Codes**|Lane G. Gunderman|[2501.04888](http://arxiv.org/abs/2501.04888)|null|
 |**2025-01-08**|**Realizing Lattice Surgery on Two Distance-Three Repetition Codes with Superconducting Qubits**|Ilya Besedin, Michael Kerschbaum, Jonathan Knoll, Ian Hesner, Lukas Bödeker, Luis Colmenarez, Luca Hofele, Nathan Lacroix, Christoph Hellings, François Swiadek, Alexander Flasby, Mohsen Bahrami Panah, Dante Colao Zanuz, Markus Müller, Andreas Wallraff|[2501.04612](http://arxiv.org/abs/2501.04612)|null|
 |**2025-01-08**|**Experimental demonstration of entanglement pumping with bosonic logical qubits**|Jie Zhou, Chuanlong Ma, Yifang Xu, Weizhou Cai, Hongwei Huang, Lida Sun, Guangming Xue, Ziyue Hua, Haifeng Yu, Weiting Wang, Chang-Ling Zou, Luyan Sun|[2501.04460](http://arxiv.org/abs/2501.04460)|null|
 |**2025-01-07**|**Dephasing-tolerant quantum sensing for transverse magnetic fields with spin qudits**|Matteo Mezzadri, Luca Lepori, Alessandro Chiesa, Stefano Carretta|[2501.04100](http://arxiv.org/abs/2501.04100)|null|

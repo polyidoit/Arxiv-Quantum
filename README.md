@@ -894,6 +894,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Theory of Irreversibility in Quantum Many-Body Systems**|Takato Yoshimura, Lucas Sá|[2501.06183](http://arxiv.org/abs/2501.06183)|null|
 |**2025-01-08**|**Understanding the approach to thermalization in a non-Abelian gauge theory**|Sayak Guin, Harshit Pandey, Sayantan Sharma|[2501.04397](http://arxiv.org/abs/2501.04397)|null|
 |**2025-01-06**|**Ensemble-averaged mean-field many-body level density: an indicator of integrable versus chaotic single-particle dynamics**|Georg Maier, Carolyn Echter, Juan Diego Urbina, Caio Lewenkopf, Klaus Richter|[2501.02918](http://arxiv.org/abs/2501.02918)|null|
 |**2025-01-03**|**Scrambling in charged hairy black holes and the Kasner interior**|Hadyan Luthfan Prihadi, Donny Dwiputra, Fitria Khairunnisa, Freddy Permana Zen|[2501.01680](http://arxiv.org/abs/2501.01680)|null|
@@ -1302,6 +1303,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**|Athena Caesura, Christian L. Cortes, William Poll, Sukin Sim, Mark Steudtner, Gian-Luca R. Anselmetti, Matthias Degroote, Nikolaj Moll, Raffaele Santagati, Michael Streif, Christofer S. Tautermann|[2501.06165](http://arxiv.org/abs/2501.06165)|null|
+|**2025-01-10**|**Plane-selective coherent manipulations of nuclear spin qubits in a three-dimensional optical tweezer array**|Toshi Kusano, Yuma Nakamura, Rei Yokoyama, Naoya Ozawa, Kosuke Shibata, Tetsushi Takano, Yosuke Takasu, Yoshiro Takahashi|[2501.05935](http://arxiv.org/abs/2501.05935)|null|
+|**2025-01-10**|**Myths around quantum computation before full fault tolerance: What no-go theorems rule out and what they don't**|Zoltán Zimborás, Bálint Koczor, Zoë Holmes, Elsi-Mari Borrelli, András Gilyén, Hsin-Yuan Huang, Zhenyu Cai, Antonio Acín, Leandro Aolita, Leonardo Banchi, Fernando G. S. L. Brandão, Daniel Cavalcanti, Toby Cubitt, Sergey N. Filippov, Guillermo García-Pérez, John Goold, Orsolya Kálmán, Elica Kyoseva, Matteo A. C. Rossi, Boris Sokolov, Ivano Tavernelli, Sabrina Maniscalco|[2501.05694](http://arxiv.org/abs/2501.05694)|null|
+|**2025-01-09**|**Deterministic Fault-Tolerant State Preparation for Near-Term Quantum Error Correction: Automatic Synthesis Using Boolean Satisfiability**|Ludwig Schmid, Tom Peham, Lucas Berent, Markus Müller, Robert Wille|[2501.05527](http://arxiv.org/abs/2501.05527)|null|
 |**2025-01-09**|**Efficient Qubit Calibration by Binary-Search Hamiltonian Tracking**|Fabrizio Berritta, Jacob Benestad, Lukas Pahl, Melvin Mathews, Jan A. Krzywda, Réouven Assouly, Youngkyu Sung, David K. Kim, Bethany M. Niedzielski, Kyle Serniak, Mollie E. Schwartz, Jonilyn L. Yoder, Anasua Chatterjee, Jeffrey A. Grover, Jeroen Danon, William D. Oliver, Ferdinand Kuemmeth|[2501.05386](http://arxiv.org/abs/2501.05386)|null|
 |**2025-01-09**|**A learning agent-based approach to the characterization of open quantum systems**|Lorenzo Fioroni, Ivan Rojkov, Florentin Reiter|[2501.05350](http://arxiv.org/abs/2501.05350)|null|
 |**2025-01-09**|**Enhanced Min-Sum Decoding of Quantum Codes Using Previous Iteration Dynamics**|Dimitris Chytas, Nithin Raveendran, Bane Vasic|[2501.05021](http://arxiv.org/abs/2501.05021)|null|

@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Classical Attack on Bell Inequalities**|Aishi Guha, Noah A. Davis, Brian R. La Cour|[2501.06331](http://arxiv.org/abs/2501.06331)|null|
 |**2025-01-08**|**Entanglement and Bell Nonlocality in $τ^+ τ^-$ at the BEPC**|Tao Han, Matthew Low, Youle Su|[2501.04801](http://arxiv.org/abs/2501.04801)|null|
 |**2025-01-07**|**Phase space analysis of Bell inequalities for mixed Gaussian states**|Gurpahul Singh, Kelly Wurtz, Eduardo Martín-Martínez|[2501.04078](http://arxiv.org/abs/2501.04078)|null|
 |**2025-01-06**|**Bell Inequality Violation of Light Quarks in Back-to-Back Dihadron Pair Production at Lepton Colliders**|Kun Cheng, Bin Yan|[2501.03321](http://arxiv.org/abs/2501.03321)|null|
@@ -467,6 +468,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-11**|**Fermion as a non-local particle-hole excitation**|Alok Kushwaha, Rishi Paresh Joshi, Girish Sampath Setlur|[2501.06489](http://arxiv.org/abs/2501.06489)|null|
 |**2025-01-07**|**Quantum entanglement as an extremal Kirkwood-Dirac nonreality**|Agung Budiyono|[2501.04137](http://arxiv.org/abs/2501.04137)|null|
 |**2024-12-23**|**Graph Size-imbalanced Learning with Energy-guided Structural Smoothing**|Jiawen Qin, Pengfeng Huang, Qingyun Sun, Cheng Ji, Xingcheng Fu, Jianxin Li|[2412.17591](http://arxiv.org/abs/2412.17591)|null|
 |**2024-12-13**|**Separation of measurement uncertainty into quantum and classical parts based on Kirkwood-Dirac quasiprobability and generalized entropy**|Agung Budiyono|[2412.10619](http://arxiv.org/abs/2412.10619)|null|
@@ -703,6 +705,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu, Feng Zhu, Zihang Zhang, Chang Jian, Jiarui Lv, Yuantai Zhang, Xiaohong Zhang|[2501.07259](http://arxiv.org/abs/2501.07259)|null|
 |**2024-12-31**|**Field-free, Quasi-continuous Operation of Optical Nanofiber Interface with Two-dimensional Ferromagnetic Trap**|Ruijuan Liu, Jinggu Wu, Yuan Jiang, Yanting Zhao, Saijun Wu|[2412.20734](http://arxiv.org/abs/2412.20734)|null|
 |**2024-12-29**|**A Novel Supervisory Control Algorithm to Avoid Deadlock in a Manufacturing System Based on Petri Net in Presence of Resource Failure**|Ahmad Bagheri, Mohammadhossein Aghaazizi, Ali Doustmohammadi|[2412.20403](http://arxiv.org/abs/2412.20403)|null|
 |**2024-12-26**|**Relative Quantum Resource Theory and Operational Applications in Subchannel Discrimination**|Sunho Kim, Chunhe Xiong, Junde Wu|[2412.19013](http://arxiv.org/abs/2412.19013)|null|
@@ -894,6 +897,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Efficient Quantum Circuit Compilation for Near-Term Quantum Advantage**|Yuchen Guo, Shuo Yang|[2501.07387](http://arxiv.org/abs/2501.07387)|null|
+|**2025-01-11**|**PT-Symmetric $SU(2)$ -like Random Matrix Ensembles: Invariant Distributions and Spectral Fluctuations**|Stalin Abraham, A. Bhagwat, Sudhir Ranjan Jain|[2501.06596](http://arxiv.org/abs/2501.06596)|null|
+|**2025-01-11**|**X-ray microcomputed tomography of 3D chaotic microcavities**|Ke Tian, Mohammed Zia Jalaludeen, Yeon Ui Lee, Shilong Li, Sile Nic Chormaic|[2501.06393](http://arxiv.org/abs/2501.06393)|null|
 |**2025-01-10**|**Theory of Irreversibility in Quantum Many-Body Systems**|Takato Yoshimura, Lucas Sá|[2501.06183](http://arxiv.org/abs/2501.06183)|null|
 |**2025-01-08**|**Understanding the approach to thermalization in a non-Abelian gauge theory**|Sayak Guin, Harshit Pandey, Sayantan Sharma|[2501.04397](http://arxiv.org/abs/2501.04397)|null|
 |**2025-01-06**|**Ensemble-averaged mean-field many-body level density: an indicator of integrable versus chaotic single-particle dynamics**|Georg Maier, Carolyn Echter, Juan Diego Urbina, Caio Lewenkopf, Klaus Richter|[2501.02918](http://arxiv.org/abs/2501.02918)|null|
@@ -1303,7 +1309,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-10**|**Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**|Athena Caesura, Christian L. Cortes, William Poll, Sukin Sim, Mark Steudtner, Gian-Luca R. Anselmetti, Matthias Degroote, Nikolaj Moll, Raffaele Santagati, Michael Streif, Christofer S. Tautermann|[2501.06165](http://arxiv.org/abs/2501.06165)|null|
+|**2025-01-13**|**Bosonic Amplitude-Damping Codes Beyond Binomial Schemes**|En-Jui Chang|[2501.07093](http://arxiv.org/abs/2501.07093)|null|
+|**2025-01-13**|**Necessary and sufficient condition for constructing a single qudit insertion/deletion code and its decoding algorithm**|Taro Shibayama|[2501.07027](http://arxiv.org/abs/2501.07027)|null|
+|**2025-01-11**|**A graph-based approach to entanglement entropy of quantum error correcting codes**|Wuxu Zhao, Menglong Fang, Daiqin Su|[2501.06407](http://arxiv.org/abs/2501.06407)|null|
+|**2025-01-13**|**Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**|Athena Caesura, Cristian L. Cortes, William Pol, Sukin Sim, Mark Steudtner, Gian-Luca R. Anselmetti, Matthias Degroote, Nikolaj Moll, Raffaele Santagati, Michael Streif, Christofer S. Tautermann|[2501.06165](http://arxiv.org/abs/2501.06165)|null|
 |**2025-01-10**|**Plane-selective coherent manipulations of nuclear spin qubits in a three-dimensional optical tweezer array**|Toshi Kusano, Yuma Nakamura, Rei Yokoyama, Naoya Ozawa, Kosuke Shibata, Tetsushi Takano, Yosuke Takasu, Yoshiro Takahashi|[2501.05935](http://arxiv.org/abs/2501.05935)|null|
 |**2025-01-10**|**Myths around quantum computation before full fault tolerance: What no-go theorems rule out and what they don't**|Zoltán Zimborás, Bálint Koczor, Zoë Holmes, Elsi-Mari Borrelli, András Gilyén, Hsin-Yuan Huang, Zhenyu Cai, Antonio Acín, Leandro Aolita, Leonardo Banchi, Fernando G. S. L. Brandão, Daniel Cavalcanti, Toby Cubitt, Sergey N. Filippov, Guillermo García-Pérez, John Goold, Orsolya Kálmán, Elica Kyoseva, Matteo A. C. Rossi, Boris Sokolov, Ivano Tavernelli, Sabrina Maniscalco|[2501.05694](http://arxiv.org/abs/2501.05694)|null|
 |**2025-01-09**|**Deterministic Fault-Tolerant State Preparation for Near-Term Quantum Error Correction: Automatic Synthesis Using Boolean Satisfiability**|Ludwig Schmid, Tom Peham, Lucas Berent, Markus Müller, Robert Wille|[2501.05527](http://arxiv.org/abs/2501.05527)|null|

@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Is genuine nonlocality in the triangle network exclusive to pure states?**|Anantha Krishnan Sunilkumar, Anil Shaji, Debashis Saha|[2501.08079](http://arxiv.org/abs/2501.08079)|null|
 |**2025-01-10**|**Classical Attack on Bell Inequalities**|Aishi Guha, Noah A. Davis, Brian R. La Cour|[2501.06331](http://arxiv.org/abs/2501.06331)|null|
 |**2025-01-08**|**Entanglement and Bell Nonlocality in $τ^+ τ^-$ at the BEPC**|Tao Han, Matthew Low, Youle Su|[2501.04801](http://arxiv.org/abs/2501.04801)|null|
 |**2025-01-07**|**Phase space analysis of Bell inequalities for mixed Gaussian states**|Gurpahul Singh, Kelly Wurtz, Eduardo Martín-Martínez|[2501.04078](http://arxiv.org/abs/2501.04078)|null|
@@ -1288,6 +1289,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**The Clifford hierarchy for one qubit or qudit**|Nadish de Silva, Oscar Lautsch|[2501.07939](http://arxiv.org/abs/2501.07939)|null|
+|**2025-01-14**|**Quantum Direct Steganography Scheme Based on Modified Generator Projection Directions of Steane Code over a Single-Type Pauli Channel**|Chaolong Hao, Quangong Ma, Dan Qu, Dawei Shi|[2501.07578](http://arxiv.org/abs/2501.07578)|null|
 |**2025-01-13**|**Bosonic Amplitude-Damping Codes Beyond Binomial Schemes**|En-Jui Chang|[2501.07093](http://arxiv.org/abs/2501.07093)|null|
 |**2025-01-13**|**Necessary and sufficient condition for constructing a single qudit insertion/deletion code and its decoding algorithm**|Taro Shibayama|[2501.07027](http://arxiv.org/abs/2501.07027)|null|
 |**2025-01-11**|**A graph-based approach to entanglement entropy of quantum error correcting codes**|Wuxu Zhao, Menglong Fang, Daiqin Su|[2501.06407](http://arxiv.org/abs/2501.06407)|null|

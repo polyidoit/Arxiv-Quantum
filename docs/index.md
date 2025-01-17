@@ -456,6 +456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Quantum Contextual Hypergraphs, Operators, Inequalities, and Applications in Higher Dimensions**|Mladen Pavicic|[2501.09637](http://arxiv.org/abs/2501.09637)|null|
 |**2025-01-11**|**Fermion as a non-local particle-hole excitation**|Alok Kushwaha, Rishi Paresh Joshi, Girish Sampath Setlur|[2501.06489](http://arxiv.org/abs/2501.06489)|null|
 |**2025-01-07**|**Quantum entanglement as an extremal Kirkwood-Dirac nonreality**|Agung Budiyono|[2501.04137](http://arxiv.org/abs/2501.04137)|null|
 |**2024-12-23**|**Graph Size-imbalanced Learning with Energy-guided Structural Smoothing**|Jiawen Qin, Pengfeng Huang, Qingyun Sun, Cheng Ji, Xingcheng Fu, Jianxin Li|[2412.17591](http://arxiv.org/abs/2412.17591)|null|
@@ -689,7 +690,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-13**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu, Feng Zhu, Zihang Zhang, Chang Jian, Jiarui Lv, Yuantai Zhang, Xiaohong Zhang|[2501.07259](http://arxiv.org/abs/2501.07259)|null|
+|**2025-01-16**|**General detectability measure**|Masahito Hayashi|[2501.09303](http://arxiv.org/abs/2501.09303)|null|
+|**2025-01-16**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu, Feng Zhu, Zihang Zhang, Chang Jian, Jiarui Lv, Yuantai Zhang, Xiaohong Zhang|[2501.07259](http://arxiv.org/abs/2501.07259)|null|
 |**2024-12-31**|**Field-free, Quasi-continuous Operation of Optical Nanofiber Interface with Two-dimensional Ferromagnetic Trap**|Ruijuan Liu, Jinggu Wu, Yuan Jiang, Yanting Zhao, Saijun Wu|[2412.20734](http://arxiv.org/abs/2412.20734)|null|
 |**2024-12-29**|**A Novel Supervisory Control Algorithm to Avoid Deadlock in a Manufacturing System Based on Petri Net in Presence of Resource Failure**|Ahmad Bagheri, Mohammadhossein Aghaazizi, Ali Doustmohammadi|[2412.20403](http://arxiv.org/abs/2412.20403)|null|
 |**2024-12-26**|**Relative Quantum Resource Theory and Operational Applications in Subchannel Discrimination**|Sunho Kim, Chunhe Xiong, Junde Wu|[2412.19013](http://arxiv.org/abs/2412.19013)|null|
@@ -879,6 +881,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Elucidating the Physical and Mathematical Properties of the Prouhet-Thue-Morse Sequence in Quantum Computing**|Denis Janković, Rémi Pasquier, Jean-Gabriel Hartmann, Paul-Antoine Hervieux|[2501.09610](http://arxiv.org/abs/2501.09610)|null|
 |**2025-01-13**|**Efficient Quantum Circuit Compilation for Near-Term Quantum Advantage**|Yuchen Guo, Shuo Yang|[2501.07387](http://arxiv.org/abs/2501.07387)|null|
 |**2025-01-11**|**PT-Symmetric $SU(2)$ -like Random Matrix Ensembles: Invariant Distributions and Spectral Fluctuations**|Stalin Abraham, A. Bhagwat, Sudhir Ranjan Jain|[2501.06596](http://arxiv.org/abs/2501.06596)|null|
 |**2025-01-11**|**X-ray microcomputed tomography of 3D chaotic microcavities**|Ke Tian, Mohammed Zia Jalaludeen, Yeon Ui Lee, Shilong Li, Sile Nic Chormaic|[2501.06393](http://arxiv.org/abs/2501.06393)|null|
@@ -1289,6 +1292,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Elucidating the Physical and Mathematical Properties of the Prouhet-Thue-Morse Sequence in Quantum Computing**|Denis Janković, Rémi Pasquier, Jean-Gabriel Hartmann, Paul-Antoine Hervieux|[2501.09610](http://arxiv.org/abs/2501.09610)|null|
+|**2025-01-16**|**Performance Analysis for Crosstalk Errors between Parallel Entangling Gates in Trapped Ion Quantum Error Correction**|Fangxuan Liu, Gaoxiang Tang, Luming Duan, Yukai Wu|[2501.09554](http://arxiv.org/abs/2501.09554)|null|
+|**2025-01-15**|**High-frequency readout free from transmon multi-excitation resonances**|Pavel D. Kurilovich, Thomas Connolly, Charlotte G. L. Bøttcher, Daniel K. Weiss, Sumeru Hazra, Vidul R. Joshi, Andy Z. Ding, Heekun Nho, Spencer Diamond, Vladislav D. Kurilovich, Wei Dai, Valla Fatemi, Luigi Frunzio, Leonid I. Glazman, Michel H. Devoret|[2501.09161](http://arxiv.org/abs/2501.09161)|null|
+|**2025-01-15**|**Demonstrating quantum error mitigation on logical qubits**|Aosai Zhang, Haipeng Xie, Yu Gao, Jia-Nan Yang, Zehang Bao, Zitian Zhu, Jiachen Chen, Ning Wang, Chuanyu Zhang, Jiarun Zhong, Shibo Xu, Ke Wang, Yaozu Wu, Feitong Jin, Xuhao Zhu, Yiren Zou, Ziqi Tan, Zhengyi Cui, Fanhao Shen, Tingting Li, Yihang Han, Yiyang He, Gongyu Liu, Jiayuan Shen, Han Wang, Yanzhe Wang, Hang Dong, Jinfeng Deng, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Pengfei Zhang, Ying Li, H. Wang|[2501.09079](http://arxiv.org/abs/2501.09079)|null|
+|**2025-01-15**|**Optimizing compilation of error correction codes for 2xN quantum dot arrays and its NP-hardness**|Anthony Micciche, Anasua Chatterjee, Andrew McGregor, Stefan Krastanov|[2501.09061](http://arxiv.org/abs/2501.09061)|null|
 |**2025-01-14**|**The Clifford hierarchy for one qubit or qudit**|Nadish de Silva, Oscar Lautsch|[2501.07939](http://arxiv.org/abs/2501.07939)|null|
 |**2025-01-14**|**Quantum Direct Steganography Scheme Based on Modified Generator Projection Directions of Steane Code over a Single-Type Pauli Channel**|Chaolong Hao, Quangong Ma, Dan Qu, Dawei Shi|[2501.07578](http://arxiv.org/abs/2501.07578)|null|
 |**2025-01-13**|**Bosonic Amplitude-Damping Codes Beyond Binomial Schemes**|En-Jui Chang|[2501.07093](http://arxiv.org/abs/2501.07093)|null|

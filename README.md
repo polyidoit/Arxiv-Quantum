@@ -604,7 +604,7 @@
 |**2024-11-21**|**Steering in Neutrino Oscillations with Non-Standard Interaction**|Lekhashri Konwar, Bhavna Yadav|[2411.14234](http://arxiv.org/abs/2411.14234)|null|
 |**2024-11-13**|**One-Sided Device-Independent Random Number Generation Through Fiber Channels**|Jinfang Zhang, Yi Li, Mengyu Zhao, Dongmei Han, Jun Liu, Meihong Wang, Qihuang Gong, Yu Xiang, Qiongyi He, Xiaolong Su|[2411.08441](http://arxiv.org/abs/2411.08441)|null|
 |**2024-11-11**|**Quantum steering and entanglement for coupled systems: exact results**|Radouan Hab arrih, Ayoub Ghaba, Ahmed Jellal|[2411.07010](http://arxiv.org/abs/2411.07010)|null|
-|**2024-11-12**|**Measurement incompatibility under loss**|Mohammad Mehboudi, Fatemeh Rezaeinia, Saleh Rahimi-Keshari|[2411.05920](http://arxiv.org/abs/2411.05920)|**[link](https://github.com/Mehboudi/Incompatibility_under_pure_loss)**|
+|**2025-01-17**|**Measurement incompatibility under loss**|Mohammad Mehboudi, Fatemeh Rezaeinia, Saleh Rahimi-Keshari|[2411.05920](http://arxiv.org/abs/2411.05920)|**[link](https://github.com/Mehboudi/Incompatibility_under_pure_loss)**|
 |**2024-10-28**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in magnon frequency comb**|Qianjun Zheng, H. Y. Yuan, Yunshan Cao, Peng Yan|[2410.21122](http://arxiv.org/abs/2410.21122)|null|
 |**2024-10-27**|**Certifying classes of $d$ -outcome measurements with quantum steering**|Alexandre C. Orthey Jr, Remigiusz Augusiak|[2410.20477](http://arxiv.org/abs/2410.20477)|null|
 |**2024-10-23**|**Enhanced Gaussian interferometric power, entanglement and Gaussian quantum steering in magnonics system with squeezed light**|Noura Chabar, M bark Amghar, Mohamed Amazioug|[2410.18288](http://arxiv.org/abs/2410.18288)|null|
@@ -900,6 +900,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Exploring Unique Characteristics in Stark Many-Body Localization**|Chung Po Ching, Xiao Li|[2501.10211](http://arxiv.org/abs/2501.10211)|null|
 |**2025-01-16**|**Elucidating the Physical and Mathematical Properties of the Prouhet-Thue-Morse Sequence in Quantum Computing**|Denis Janković, Rémi Pasquier, Jean-Gabriel Hartmann, Paul-Antoine Hervieux|[2501.09610](http://arxiv.org/abs/2501.09610)|null|
 |**2025-01-13**|**Efficient Quantum Circuit Compilation for Near-Term Quantum Advantage**|Yuchen Guo, Shuo Yang|[2501.07387](http://arxiv.org/abs/2501.07387)|null|
 |**2025-01-11**|**PT-Symmetric $SU(2)$ -like Random Matrix Ensembles: Invariant Distributions and Spectral Fluctuations**|Stalin Abraham, A. Bhagwat, Sudhir Ranjan Jain|[2501.06596](http://arxiv.org/abs/2501.06596)|null|
@@ -1313,8 +1314,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Quantum locally recoverable code with intersecting recovery sets**|Kaifeng Bu, Weichen Gu, Xiang Li|[2501.10354](http://arxiv.org/abs/2501.10354)|null|
 |**2025-01-16**|**Elucidating the Physical and Mathematical Properties of the Prouhet-Thue-Morse Sequence in Quantum Computing**|Denis Janković, Rémi Pasquier, Jean-Gabriel Hartmann, Paul-Antoine Hervieux|[2501.09610](http://arxiv.org/abs/2501.09610)|null|
-|**2025-01-16**|**Performance Analysis for Crosstalk Errors between Parallel Entangling Gates in Trapped Ion Quantum Error Correction**|Fangxuan Liu, Gaoxiang Tang, Luming Duan, Yukai Wu|[2501.09554](http://arxiv.org/abs/2501.09554)|null|
+|**2025-01-17**|**Performance Analysis for Crosstalk Errors between Parallel Entangling Gates in Trapped Ion Quantum Error Correction**|Fangxuan Liu, Gaoxiang Tang, Luming Duan, Yukai Wu|[2501.09554](http://arxiv.org/abs/2501.09554)|null|
 |**2025-01-15**|**High-frequency readout free from transmon multi-excitation resonances**|Pavel D. Kurilovich, Thomas Connolly, Charlotte G. L. Bøttcher, Daniel K. Weiss, Sumeru Hazra, Vidul R. Joshi, Andy Z. Ding, Heekun Nho, Spencer Diamond, Vladislav D. Kurilovich, Wei Dai, Valla Fatemi, Luigi Frunzio, Leonid I. Glazman, Michel H. Devoret|[2501.09161](http://arxiv.org/abs/2501.09161)|null|
 |**2025-01-15**|**Demonstrating quantum error mitigation on logical qubits**|Aosai Zhang, Haipeng Xie, Yu Gao, Jia-Nan Yang, Zehang Bao, Zitian Zhu, Jiachen Chen, Ning Wang, Chuanyu Zhang, Jiarun Zhong, Shibo Xu, Ke Wang, Yaozu Wu, Feitong Jin, Xuhao Zhu, Yiren Zou, Ziqi Tan, Zhengyi Cui, Fanhao Shen, Tingting Li, Yihang Han, Yiyang He, Gongyu Liu, Jiayuan Shen, Han Wang, Yanzhe Wang, Hang Dong, Jinfeng Deng, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Pengfei Zhang, Ying Li, H. Wang|[2501.09079](http://arxiv.org/abs/2501.09079)|null|
 |**2025-01-15**|**Optimizing compilation of error correction codes for 2xN quantum dot arrays and its NP-hardness**|Anthony Micciche, Anasua Chatterjee, Andrew McGregor, Stefan Krastanov|[2501.09061](http://arxiv.org/abs/2501.09061)|null|

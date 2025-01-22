@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Cluster property and Bell's inequalities**|F. Benatti, R. Floreanini, H. Narnhofer|[2501.12018](http://arxiv.org/abs/2501.12018)|null|
 |**2025-01-14**|**Is genuine nonlocality in the triangle network exclusive to pure states?**|Anantha Krishnan Sunilkumar, Anil Shaji, Debashis Saha|[2501.08079](http://arxiv.org/abs/2501.08079)|**[link](https://github.com/ananthrishna/gnn-lhv-k-triangle)**|
 |**2025-01-10**|**Classical Attack on Bell Inequalities**|Aishi Guha, Noah A. Davis, Brian R. La Cour|[2501.06331](http://arxiv.org/abs/2501.06331)|null|
 |**2025-01-08**|**Entanglement and Bell Nonlocality in $τ^+ τ^-$ at the BEPC**|Tao Han, Matthew Low, Youle Su|[2501.04801](http://arxiv.org/abs/2501.04801)|null|
@@ -471,7 +472,7 @@
 |---|---|---|---|---|
 |**2025-01-16**|**Quantum Contextual Hypergraphs, Operators, Inequalities, and Applications in Higher Dimensions**|Mladen Pavicic|[2501.09637](http://arxiv.org/abs/2501.09637)|null|
 |**2025-01-11**|**Fermion as a non-local particle-hole excitation**|Alok Kushwaha, Rishi Paresh Joshi, Girish Sampath Setlur|[2501.06489](http://arxiv.org/abs/2501.06489)|null|
-|**2025-01-07**|**Quantum entanglement as an extremal Kirkwood-Dirac nonreality**|Agung Budiyono|[2501.04137](http://arxiv.org/abs/2501.04137)|null|
+|**2025-01-19**|**Quantum entanglement as an extremal Kirkwood-Dirac nonreality**|Agung Budiyono|[2501.04137](http://arxiv.org/abs/2501.04137)|null|
 |**2024-12-23**|**Graph Size-imbalanced Learning with Energy-guided Structural Smoothing**|Jiawen Qin, Pengfeng Huang, Qingyun Sun, Cheng Ji, Xingcheng Fu, Jianxin Li|[2412.17591](http://arxiv.org/abs/2412.17591)|null|
 |**2024-12-13**|**Separation of measurement uncertainty into quantum and classical parts based on Kirkwood-Dirac quasiprobability and generalized entropy**|Agung Budiyono|[2412.10619](http://arxiv.org/abs/2412.10619)|null|
 |**2024-12-06**|**States Violating Both Locality and Noncontextuality Inequalities in Quantum Theory**|Yuichiro Kitajima|[2412.04713](http://arxiv.org/abs/2412.04713)|null|
@@ -597,6 +598,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-18**|**Quantifying Quantum Steering with Limited Resources: A Semi-supervised Machine Learning Approach**|Yansa Lu, Zhihua Chen, Zhihao Ma, Shao-Ming Fei|[2501.10747](http://arxiv.org/abs/2501.10747)|null|
 |**2024-12-26**|**An experimental proposal certification for any three-qubit generalized Greenberger-Horne-Zeilinger states based on the fine-grained steering inequality**|Zhi-Hao Bian, Jia-Qi Sun, Yi Shen|[2412.19028](http://arxiv.org/abs/2412.19028)|null|
 |**2024-12-24**|**Superactivation and Incompressibility of Genuine Multipartite Entanglement**|Lisa T. Weinbrenner, Klára Baksová, Sophia Denker, Simon Morelli, Xiao-Dong Yu, Nicolai Friis, Otfried Gühne|[2412.18331](http://arxiv.org/abs/2412.18331)|null|
 |**2024-12-13**|**Nonlocality of Quantum States can be Transitive**|Kai-Siang Chen, Gelo Noel M. Tabia, Chung-Yun Hsieh, Yu-Chun Yin, Yeong-Cherng Liang|[2412.10505](http://arxiv.org/abs/2412.10505)|null|
@@ -707,7 +709,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-16**|**General detectability measure**|Masahito Hayashi|[2501.09303](http://arxiv.org/abs/2501.09303)|null|
+|**2025-01-21**|**Low-Cost 3D printed, Biocompatible Ionic Polymer Membranes for Soft Actuators**|Nils Trümpler, Ryo Kanno, Niu David, Anja Huch, Pham Huy Nguyen, Maksims Jurinovs, Gustav Nyström, Sergejs Gaidukovs, Mirko Kovac|[2501.12025](http://arxiv.org/abs/2501.12025)|null|
+|**2025-01-19**|**General detectability measure**|Masahito Hayashi|[2501.09303](http://arxiv.org/abs/2501.09303)|null|
 |**2025-01-16**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu, Feng Zhu, Zihang Zhang, Chang Jian, Jiarui Lv, Yuantai Zhang, Xiaohong Zhang|[2501.07259](http://arxiv.org/abs/2501.07259)|null|
 |**2024-12-31**|**Field-free, Quasi-continuous Operation of Optical Nanofiber Interface with Two-dimensional Ferromagnetic Trap**|Ruijuan Liu, Jinggu Wu, Yuan Jiang, Yanting Zhao, Saijun Wu|[2412.20734](http://arxiv.org/abs/2412.20734)|null|
 |**2024-12-29**|**A Novel Supervisory Control Algorithm to Avoid Deadlock in a Manufacturing System Based on Petri Net in Presence of Resource Failure**|Ahmad Bagheri, Mohammadhossein Aghaazizi, Ali Doustmohammadi|[2412.20403](http://arxiv.org/abs/2412.20403)|null|
@@ -900,7 +903,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-17**|**Exploring Unique Characteristics in Stark Many-Body Localization**|Chung Po Ching, Xiao Li|[2501.10211](http://arxiv.org/abs/2501.10211)|null|
+|**2025-01-20**|**Improving thermal state preparation of Sachdev-Ye-Kitaev model with reinforcement learning on quantum hardware**|Akash Kundu|[2501.11454](http://arxiv.org/abs/2501.11454)|null|
+|**2025-01-20**|**Exploring Unique Characteristics in Stark Many-Body Localization**|Chung Po Ching|[2501.10211](http://arxiv.org/abs/2501.10211)|null|
 |**2025-01-16**|**Elucidating the Physical and Mathematical Properties of the Prouhet-Thue-Morse Sequence in Quantum Computing**|Denis Janković, Rémi Pasquier, Jean-Gabriel Hartmann, Paul-Antoine Hervieux|[2501.09610](http://arxiv.org/abs/2501.09610)|null|
 |**2025-01-13**|**Efficient Quantum Circuit Compilation for Near-Term Quantum Advantage**|Yuchen Guo, Shuo Yang|[2501.07387](http://arxiv.org/abs/2501.07387)|null|
 |**2025-01-11**|**PT-Symmetric $SU(2)$ -like Random Matrix Ensembles: Invariant Distributions and Spectral Fluctuations**|Stalin Abraham, A. Bhagwat, Sudhir Ranjan Jain|[2501.06596](http://arxiv.org/abs/2501.06596)|null|
@@ -1314,6 +1318,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Fault-tolerance of [[6, 1, 3]] non-CSS code family generated using measurements on graph states**|Harsh Gupta, Pranav Maheshwari, Ankur Raina|[2501.12072](http://arxiv.org/abs/2501.12072)|null|
 |**2025-01-17**|**Quantum locally recoverable code with intersecting recovery sets**|Kaifeng Bu, Weichen Gu, Xiang Li|[2501.10354](http://arxiv.org/abs/2501.10354)|null|
 |**2025-01-16**|**Elucidating the Physical and Mathematical Properties of the Prouhet-Thue-Morse Sequence in Quantum Computing**|Denis Janković, Rémi Pasquier, Jean-Gabriel Hartmann, Paul-Antoine Hervieux|[2501.09610](http://arxiv.org/abs/2501.09610)|null|
 |**2025-01-17**|**Performance Analysis for Crosstalk Errors between Parallel Entangling Gates in Trapped Ion Quantum Error Correction**|Fangxuan Liu, Gaoxiang Tang, Luming Duan, Yukai Wu|[2501.09554](http://arxiv.org/abs/2501.09554)|null|

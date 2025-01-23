@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Temporal nonlocality from indefinite causal orders**|Laurie Letertre|[2501.12870](http://arxiv.org/abs/2501.12870)|null|
 |**2025-01-21**|**Cluster property and Bell's inequalities**|F. Benatti, R. Floreanini, H. Narnhofer|[2501.12018](http://arxiv.org/abs/2501.12018)|null|
 |**2025-01-14**|**Is genuine nonlocality in the triangle network exclusive to pure states?**|Anantha Krishnan Sunilkumar, Anil Shaji, Debashis Saha|[2501.08079](http://arxiv.org/abs/2501.08079)|**[link](https://github.com/ananthrishna/gnn-lhv-k-triangle)**|
 |**2025-01-10**|**Classical Attack on Bell Inequalities**|Aishi Guha, Noah A. Davis, Brian R. La Cour|[2501.06331](http://arxiv.org/abs/2501.06331)|null|
@@ -884,6 +885,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Entanglement asymmetry dynamics in random quantum circuits**|Filiberto Ares, Sara Murciano, Pasquale Calabrese, Lorenzo Piroli|[2501.12459](http://arxiv.org/abs/2501.12459)|null|
 |**2025-01-20**|**Improving thermal state preparation of Sachdev-Ye-Kitaev model with reinforcement learning on quantum hardware**|Akash Kundu|[2501.11454](http://arxiv.org/abs/2501.11454)|null|
 |**2025-01-20**|**Exploring Unique Characteristics in Stark Many-Body Localization**|Chung Po Ching|[2501.10211](http://arxiv.org/abs/2501.10211)|null|
 |**2025-01-16**|**Elucidating the Physical and Mathematical Properties of the Prouhet-Thue-Morse Sequence in Quantum Computing**|Denis Janković, Rémi Pasquier, Jean-Gabriel Hartmann, Paul-Antoine Hervieux|[2501.09610](http://arxiv.org/abs/2501.09610)|null|

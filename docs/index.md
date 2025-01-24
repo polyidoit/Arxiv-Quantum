@@ -885,6 +885,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Topological $X$ -states in a quantum impurity model**|Moallison F. Cavalcante, Marcus V. S. Bonança, Eduardo Miranda, Sebastian Deffner|[2501.13914](http://arxiv.org/abs/2501.13914)|null|
+|**2025-01-23**|**How to seed ergodic dynamics of interacting bosons under conditions of many-body quantum chaos**|Lukas Pausch, Edoardo G. Carnio, Andreas Buchleitner, Alberto Rodríguez|[2501.13556](http://arxiv.org/abs/2501.13556)|null|
+|**2025-01-23**|**Symmetry Breaking Dynamics in Quantum Many-Body Systems**|Hui Yu, Zi-Xiang Li, Shi-Xin Zhang|[2501.13459](http://arxiv.org/abs/2501.13459)|null|
+|**2025-01-22**|**Quantum chaos at finite temperature in local spin Hamiltonians**|Christopher M. Langlett, Cheryne Jonay, Vedika Khemani, Joaquin F. Rodriguez-Nieva|[2501.13164](http://arxiv.org/abs/2501.13164)|null|
+|**2025-01-22**|**Random Quantum Circuits with Time-Reversal Symmetry**|Kabir Khanna, Abhishek Kumar, Romain Vasseur, Andreas W. W. Ludwig|[2501.13161](http://arxiv.org/abs/2501.13161)|null|
 |**2025-01-21**|**Entanglement asymmetry dynamics in random quantum circuits**|Filiberto Ares, Sara Murciano, Pasquale Calabrese, Lorenzo Piroli|[2501.12459](http://arxiv.org/abs/2501.12459)|null|
 |**2025-01-20**|**Improving thermal state preparation of Sachdev-Ye-Kitaev model with reinforcement learning on quantum hardware**|Akash Kundu|[2501.11454](http://arxiv.org/abs/2501.11454)|null|
 |**2025-01-20**|**Exploring Unique Characteristics in Stark Many-Body Localization**|Chung Po Ching|[2501.10211](http://arxiv.org/abs/2501.10211)|null|
@@ -1299,6 +1304,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Efficient Mitigation of Error Floors in Quantum Error Correction using Non-Binary Low-Density Parity-Check Codes**|Kenta Kasai|[2501.13923](http://arxiv.org/abs/2501.13923)|null|
+|**2025-01-23**|**Quantum Error Correction and $Z(2)$ Lattice Gauge Theories**|Seyong Kim|[2501.13611](http://arxiv.org/abs/2501.13611)|null|
+|**2025-01-23**|**Explicit Construction of Classical and Quantum Quasi-Cyclic Low-Density Parity-Check Codes with Column Weight 2 and Girth 12**|Daiki Komoto, Kenta Kasai|[2501.13444](http://arxiv.org/abs/2501.13444)|null|
+|**2025-01-23**|**Effects of valley splitting on resonant-tunneling readout of spin qubits**|Tetsufumi Tanamoto, Keiji Ono|[2501.13289](http://arxiv.org/abs/2501.13289)|null|
 |**2025-01-21**|**Fault-tolerance of [[6, 1, 3]] non-CSS code family generated using measurements on graph states**|Harsh Gupta, Pranav Maheshwari, Ankur Raina|[2501.12072](http://arxiv.org/abs/2501.12072)|null|
 |**2025-01-17**|**Quantum locally recoverable code with intersecting recovery sets**|Kaifeng Bu, Weichen Gu, Xiang Li|[2501.10354](http://arxiv.org/abs/2501.10354)|null|
 |**2025-01-16**|**Elucidating the Physical and Mathematical Properties of the Prouhet-Thue-Morse Sequence in Quantum Computing**|Denis Janković, Rémi Pasquier, Jean-Gabriel Hartmann, Paul-Antoine Hervieux|[2501.09610](http://arxiv.org/abs/2501.09610)|null|

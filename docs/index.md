@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Correlation strengths in hybrid networks**|Li-Yi Hsu|[2501.14448](http://arxiv.org/abs/2501.14448)|null|
+|**2025-01-23**|**Bell nonlocality in quantum networks with unreliable sources: Loophole-free postelection via self-testing**|Sadra Boreiri, Nicolas Brunner, Pavel Sekatski|[2501.14027](http://arxiv.org/abs/2501.14027)|null|
 |**2025-01-22**|**Temporal nonlocality from indefinite causal orders**|Laurie Letertre|[2501.12870](http://arxiv.org/abs/2501.12870)|null|
 |**2025-01-21**|**Cluster property and Bell's inequalities**|F. Benatti, R. Floreanini, H. Narnhofer|[2501.12018](http://arxiv.org/abs/2501.12018)|null|
 |**2025-01-14**|**Is genuine nonlocality in the triangle network exclusive to pure states?**|Anantha Krishnan Sunilkumar, Anil Shaji, Debashis Saha|[2501.08079](http://arxiv.org/abs/2501.08079)|**[link](https://github.com/ananthrishna/gnn-lhv-k-triangle)**|
@@ -693,6 +695,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Electromagnetic System Conceptual Design for a Negative Triangularity Tokamak**|Sophia Guizzo, Mikhail A. Drabinskiy, Christopher Hansen, Alexander G. Kachkin, Eduard N. Khairutdinov, Andrew O. Nelson, Maxim R. Nurgaliev, Matthew Pharr, Georgy F. Subbotin, Carlos Paz-Soldan|[2501.14682](http://arxiv.org/abs/2501.14682)|null|
 |**2025-01-21**|**Low-Cost 3D printed, Biocompatible Ionic Polymer Membranes for Soft Actuators**|Nils Trümpler, Ryo Kanno, Niu David, Anja Huch, Pham Huy Nguyen, Maksims Jurinovs, Gustav Nyström, Sergejs Gaidukovs, Mirko Kovac|[2501.12025](http://arxiv.org/abs/2501.12025)|null|
 |**2025-01-19**|**General detectability measure**|Masahito Hayashi|[2501.09303](http://arxiv.org/abs/2501.09303)|null|
 |**2025-01-16**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu, Feng Zhu, Zihang Zhang, Chang Jian, Jiarui Lv, Yuantai Zhang, Xiaohong Zhang|[2501.07259](http://arxiv.org/abs/2501.07259)|null|
@@ -885,6 +888,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Out-of-time-order correlator computation based on discrete truncated Wigner approximation**|Tatsuhiko Shirai, Takashi Mori|[2501.14221](http://arxiv.org/abs/2501.14221)|null|
 |**2025-01-23**|**Topological $X$ -states in a quantum impurity model**|Moallison F. Cavalcante, Marcus V. S. Bonança, Eduardo Miranda, Sebastian Deffner|[2501.13914](http://arxiv.org/abs/2501.13914)|null|
 |**2025-01-23**|**How to seed ergodic dynamics of interacting bosons under conditions of many-body quantum chaos**|Lukas Pausch, Edoardo G. Carnio, Andreas Buchleitner, Alberto Rodríguez|[2501.13556](http://arxiv.org/abs/2501.13556)|null|
 |**2025-01-23**|**Symmetry Breaking Dynamics in Quantum Many-Body Systems**|Hui Yu, Zi-Xiang Li, Shi-Xin Zhang|[2501.13459](http://arxiv.org/abs/2501.13459)|null|
@@ -1304,6 +1308,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Towards a Cryogenic CMOS-Memristor Neural Decoder for Quantum Error Correction**|Pierre-Antoine Mouny, Maher Benhouria, Victor Yon, Patrick Dufour, Linxiang Huang, Yann Beilliard, Sophie Rochette, Dominique Drouin, Pooya Ronagh|[2501.14525](http://arxiv.org/abs/2501.14525)|null|
+|**2025-01-24**|**Verifying Fault-Tolerance of Quantum Error Correction Codes**|Kean Chen, Yuhao Liu, Wang Fang, Jennifer Paykin, Xinchuan Ryan Wu, Albert Schmitz, Steve Zdancewic, Gushu Li|[2501.14380](http://arxiv.org/abs/2501.14380)|null|
+|**2025-01-24**|**Error-mitigated Geometric Quantum Control over an Oscillator**|Ming-Jie Liang, Tao Chen, Zheng-Yuan Xue|[2501.14344](http://arxiv.org/abs/2501.14344)|null|
+|**2025-01-24**|**Analysis of heralded higher-fidelity two-qubit entangling gates with self-correction**|Yuan Sun|[2501.14220](http://arxiv.org/abs/2501.14220)|null|
+|**2025-01-23**|**Distributed quantum error correction based on hyperbolic Floquet codes**|Evan Sutcliffe, Bhargavi Jonnadula, Claire Le Gall, Alexandra E. Moylett, Coral M. Westoby|[2501.14029](http://arxiv.org/abs/2501.14029)|null|
 |**2025-01-23**|**Efficient Mitigation of Error Floors in Quantum Error Correction using Non-Binary Low-Density Parity-Check Codes**|Kenta Kasai|[2501.13923](http://arxiv.org/abs/2501.13923)|null|
 |**2025-01-23**|**Quantum Error Correction and $Z(2)$ Lattice Gauge Theories**|Seyong Kim|[2501.13611](http://arxiv.org/abs/2501.13611)|null|
 |**2025-01-23**|**Explicit Construction of Classical and Quantum Quasi-Cyclic Low-Density Parity-Check Codes with Column Weight 2 and Girth 12**|Daiki Komoto, Kenta Kasai|[2501.13444](http://arxiv.org/abs/2501.13444)|null|

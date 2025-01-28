@@ -365,6 +365,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Optimizer-Dependent Generalization Bound for Quantum Neural Networks**|Chenghong Zhu, Hongshun Yao, Yingjian Liu, Xin Wang|[2501.16228](http://arxiv.org/abs/2501.16228)|null|
 |**2024-12-20**|**Entanglement harvesting in quantum superposed spacetime**|Anwesha Chakraborty, Lucas Hackl, Magdalena Zych|[2412.15870](http://arxiv.org/abs/2412.15870)|null|
 |**2024-12-16**|**Quantum observables over time for information recovery**|Gabriele Bressanini, Farhan Hanif, Hyukjoon Kwon, M. S. Kim|[2412.11659](http://arxiv.org/abs/2412.11659)|null|
 |**2024-12-13**|**On the Significance of Intermediate Latents: Distinguishing Quantum Causal Scenarios with Indistinguishable Classical Analogs**|Daniel Centeno, Elie Wolfe|[2412.10238](http://arxiv.org/abs/2412.10238)|null|
@@ -460,6 +461,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-25**|**Chromatic Quantum Contextuality**|Karl Svozil|[2501.15261](http://arxiv.org/abs/2501.15261)|null|
 |**2025-01-16**|**Quantum Contextual Hypergraphs, Operators, Inequalities, and Applications in Higher Dimensions**|Mladen Pavicic|[2501.09637](http://arxiv.org/abs/2501.09637)|null|
 |**2025-01-11**|**Fermion as a non-local particle-hole excitation**|Alok Kushwaha, Rishi Paresh Joshi, Girish Sampath Setlur|[2501.06489](http://arxiv.org/abs/2501.06489)|null|
 |**2025-01-19**|**Quantum entanglement as an extremal Kirkwood-Dirac nonreality**|Agung Budiyono|[2501.04137](http://arxiv.org/abs/2501.04137)|null|
@@ -586,6 +588,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-26**|**Flexible manipulation of bipartite and multipartite EPR steerings**|Yunyun Liang, Jing Zhang, Rongguo Yang, Tiancai Zhang, Jiangrui Gao|[2501.15567](http://arxiv.org/abs/2501.15567)|null|
 |**2025-01-18**|**Quantifying Quantum Steering with Limited Resources: A Semi-supervised Machine Learning Approach**|Yansa Lu, Zhihua Chen, Zhihao Ma, Shao-Ming Fei|[2501.10747](http://arxiv.org/abs/2501.10747)|null|
 |**2024-12-26**|**An experimental proposal certification for any three-qubit generalized Greenberger-Horne-Zeilinger states based on the fine-grained steering inequality**|Zhi-Hao Bian, Jia-Qi Sun, Yi Shen|[2412.19028](http://arxiv.org/abs/2412.19028)|null|
 |**2024-12-24**|**Superactivation and Incompressibility of Genuine Multipartite Entanglement**|Lisa T. Weinbrenner, Klára Baksová, Sophia Denker, Simon Morelli, Xiao-Dong Yu, Nicolai Friis, Otfried Gühne|[2412.18331](http://arxiv.org/abs/2412.18331)|null|
@@ -695,6 +698,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-26**|**Nuisance-free Automatic Ground Collision Avoidance System Design: Merging Exponential-CBF and Adaptive Sliding Manifolds**|Ege C. Altunkaya, Ibrahim Ozkol|[2501.15611](http://arxiv.org/abs/2501.15611)|null|
 |**2025-01-24**|**Electromagnetic System Conceptual Design for a Negative Triangularity Tokamak**|Sophia Guizzo, Mikhail A. Drabinskiy, Christopher Hansen, Alexander G. Kachkin, Eduard N. Khairutdinov, Andrew O. Nelson, Maxim R. Nurgaliev, Matthew Pharr, Georgy F. Subbotin, Carlos Paz-Soldan|[2501.14682](http://arxiv.org/abs/2501.14682)|null|
 |**2025-01-21**|**Low-Cost 3D printed, Biocompatible Ionic Polymer Membranes for Soft Actuators**|Nils Trümpler, Ryo Kanno, Niu David, Anja Huch, Pham Huy Nguyen, Maksims Jurinovs, Gustav Nyström, Sergejs Gaidukovs, Mirko Kovac|[2501.12025](http://arxiv.org/abs/2501.12025)|null|
 |**2025-01-19**|**General detectability measure**|Masahito Hayashi|[2501.09303](http://arxiv.org/abs/2501.09303)|null|
@@ -888,8 +892,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**How to Design a Classically Difficult Random Quantum Circuit for Quantum Computational Advantage Experiments**|He-Liang Huang, Youwei Zhao, Chu Guo|[2501.16035](http://arxiv.org/abs/2501.16035)|null|
+|**2025-01-24**|**Counterdiabatic-influenced Floquet-engineering: State preparation, annealing and learning the adiabatic gauge potential**|Callum W Duncan|[2501.14881](http://arxiv.org/abs/2501.14881)|null|
 |**2025-01-24**|**Out-of-time-order correlator computation based on discrete truncated Wigner approximation**|Tatsuhiko Shirai, Takashi Mori|[2501.14221](http://arxiv.org/abs/2501.14221)|null|
-|**2025-01-23**|**Topological $X$ -states in a quantum impurity model**|Moallison F. Cavalcante, Marcus V. S. Bonança, Eduardo Miranda, Sebastian Deffner|[2501.13914](http://arxiv.org/abs/2501.13914)|null|
+|**2025-01-26**|**Topological $X$ -states in a quantum impurity model**|Moallison F. Cavalcante, Marcus V. S. Bonança, Eduardo Miranda, Sebastian Deffner|[2501.13914](http://arxiv.org/abs/2501.13914)|null|
 |**2025-01-23**|**How to seed ergodic dynamics of interacting bosons under conditions of many-body quantum chaos**|Lukas Pausch, Edoardo G. Carnio, Andreas Buchleitner, Alberto Rodríguez|[2501.13556](http://arxiv.org/abs/2501.13556)|null|
 |**2025-01-23**|**Symmetry Breaking Dynamics in Quantum Many-Body Systems**|Hui Yu, Zi-Xiang Li, Shi-Xin Zhang|[2501.13459](http://arxiv.org/abs/2501.13459)|null|
 |**2025-01-22**|**Quantum chaos at finite temperature in local spin Hamiltonians**|Christopher M. Langlett, Cheryne Jonay, Vedika Khemani, Joaquin F. Rodriguez-Nieva|[2501.13164](http://arxiv.org/abs/2501.13164)|null|
@@ -1308,6 +1314,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Entanglement-Assisted Coding for Arbitrary Linear Computations Over a Quantum MAC**|Lei Hu, Mohamed Nomeir, Alptug Aytekin, Yu Shi, Sennur Ulukus, Saikat Guha|[2501.16296](http://arxiv.org/abs/2501.16296)|null|
+|**2025-01-26**|**Pauli web of the $|Y\rangle$ state surface code injection**|Kwok Ho Wan, Zhenghao Zhong|[2501.15566](http://arxiv.org/abs/2501.15566)|null|
+|**2025-01-26**|**Geometry of symplectic group and optimal EAQECC codes**|Ruihu Li, Yuezhen Ren, Chaofeng Guan, Yang Liu|[2501.15465](http://arxiv.org/abs/2501.15465)|null|
+|**2025-01-25**|**Ion-Trap Chip Architecture Optimized for Implementation of Quantum Error-Correcting Code**|Jeonghoon Lee, Hyeongjun Jeon, Taehyun Kim|[2501.15200](http://arxiv.org/abs/2501.15200)|null|
 |**2025-01-24**|**Towards a Cryogenic CMOS-Memristor Neural Decoder for Quantum Error Correction**|Pierre-Antoine Mouny, Maher Benhouria, Victor Yon, Patrick Dufour, Linxiang Huang, Yann Beilliard, Sophie Rochette, Dominique Drouin, Pooya Ronagh|[2501.14525](http://arxiv.org/abs/2501.14525)|null|
 |**2025-01-24**|**Verifying Fault-Tolerance of Quantum Error Correction Codes**|Kean Chen, Yuhao Liu, Wang Fang, Jennifer Paykin, Xinchuan Ryan Wu, Albert Schmitz, Steve Zdancewic, Gushu Li|[2501.14380](http://arxiv.org/abs/2501.14380)|null|
 |**2025-01-24**|**Error-mitigated Geometric Quantum Control over an Oscillator**|Ming-Jie Liang, Tao Chen, Zheng-Yuan Xue|[2501.14344](http://arxiv.org/abs/2501.14344)|null|

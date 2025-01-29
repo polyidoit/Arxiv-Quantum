@@ -461,6 +461,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Random attraction in TASEP with time-varying hopping rates**|Lars Grüne, Kilian Pioch, Thomas Kriecherbauer, Michael Margaliot|[2501.16777](http://arxiv.org/abs/2501.16777)|null|
 |**2025-01-25**|**Chromatic Quantum Contextuality**|Karl Svozil|[2501.15261](http://arxiv.org/abs/2501.15261)|null|
 |**2025-01-16**|**Quantum Contextual Hypergraphs, Operators, Inequalities, and Applications in Higher Dimensions**|Mladen Pavicic|[2501.09637](http://arxiv.org/abs/2501.09637)|null|
 |**2025-01-11**|**Fermion as a non-local particle-hole excitation**|Alok Kushwaha, Rishi Paresh Joshi, Girish Sampath Setlur|[2501.06489](http://arxiv.org/abs/2501.06489)|null|
@@ -699,7 +700,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-26**|**Nuisance-free Automatic Ground Collision Avoidance System Design: Merging Exponential-CBF and Adaptive Sliding Manifolds**|Ege C. Altunkaya, Ibrahim Ozkol|[2501.15611](http://arxiv.org/abs/2501.15611)|null|
-|**2025-01-24**|**Electromagnetic System Conceptual Design for a Negative Triangularity Tokamak**|Sophia Guizzo, Mikhail A. Drabinskiy, Christopher Hansen, Alexander G. Kachkin, Eduard N. Khairutdinov, Andrew O. Nelson, Maxim R. Nurgaliev, Matthew Pharr, Georgy F. Subbotin, Carlos Paz-Soldan|[2501.14682](http://arxiv.org/abs/2501.14682)|null|
+|**2025-01-28**|**Electromagnetic System Conceptual Design for a Negative Triangularity Tokamak**|Sophia Guizzo, Mikhail A. Drabinskiy, Christopher Hansen, Aleksandr G. Kachkin, Eduard N. Khairutdinov, Andrew O. Nelson, Maxim R. Nurgaliev, Matthew Pharr, Georgy F. Subbotin, Carlos Paz-Soldan|[2501.14682](http://arxiv.org/abs/2501.14682)|null|
 |**2025-01-21**|**Low-Cost 3D printed, Biocompatible Ionic Polymer Membranes for Soft Actuators**|Nils Trümpler, Ryo Kanno, Niu David, Anja Huch, Pham Huy Nguyen, Maksims Jurinovs, Gustav Nyström, Sergejs Gaidukovs, Mirko Kovac|[2501.12025](http://arxiv.org/abs/2501.12025)|null|
 |**2025-01-19**|**General detectability measure**|Masahito Hayashi|[2501.09303](http://arxiv.org/abs/2501.09303)|null|
 |**2025-01-16**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu, Feng Zhu, Zihang Zhang, Chang Jian, Jiarui Lv, Yuantai Zhang, Xiaohong Zhang|[2501.07259](http://arxiv.org/abs/2501.07259)|null|
@@ -892,6 +893,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Probing quantum many-body dynamics using subsystem Loschmidt echos**|Simon Karch, Souvik Bandyopadhyay, Zheng-Hang Sun, Alexander Impertro, SeungJung Huh, Irene Prieto Rodríguez, Julian F. Wienand, Wolfgang Ketterle, Markus Heyl, Anatoli Polkovnikov, Immanuel Bloch, Monika Aidelsburger|[2501.16995](http://arxiv.org/abs/2501.16995)|null|
 |**2025-01-27**|**How to Design a Classically Difficult Random Quantum Circuit for Quantum Computational Advantage Experiments**|He-Liang Huang, Youwei Zhao, Chu Guo|[2501.16035](http://arxiv.org/abs/2501.16035)|null|
 |**2025-01-24**|**Counterdiabatic-influenced Floquet-engineering: State preparation, annealing and learning the adiabatic gauge potential**|Callum W Duncan|[2501.14881](http://arxiv.org/abs/2501.14881)|null|
 |**2025-01-24**|**Out-of-time-order correlator computation based on discrete truncated Wigner approximation**|Tatsuhiko Shirai, Takashi Mori|[2501.14221](http://arxiv.org/abs/2501.14221)|null|
@@ -1314,6 +1316,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**New Quantum MDS Codes with Flexible Parameters from Hermitian Self-Orthogonal GRS Codes**|Oisin Campion, Fernando Hernando, Gary McGuire|[2501.17010](http://arxiv.org/abs/2501.17010)|null|
+|**2025-01-28**|**Programming tools for Analogue Quantum Computing in the High-Performance Computing Context -- A Review**|Mateusz Meller, Vendel Szeremi, Oliver Thomson Brown|[2501.16943](http://arxiv.org/abs/2501.16943)|null|
+|**2025-01-28**|**Quantum XYZ cyclic codes for biased noise**|Zhipeng Liang, Fusheng Yang, Zhengzhong Yi, Xuan Wang|[2501.16827](http://arxiv.org/abs/2501.16827)|null|
+|**2025-01-28**|**High-fidelity QND readout and measurement back-action in a Tantalum-based high-coherence fluxonium qubit**|Gaurav Bothara, Srijita Das, Kishor V Salunkhe, Madhavi Chand, Jay Deshmukh, Meghan P Patankar, R Vijay|[2501.16691](http://arxiv.org/abs/2501.16691)|null|
 |**2025-01-27**|**Entanglement-Assisted Coding for Arbitrary Linear Computations Over a Quantum MAC**|Lei Hu, Mohamed Nomeir, Alptug Aytekin, Yu Shi, Sennur Ulukus, Saikat Guha|[2501.16296](http://arxiv.org/abs/2501.16296)|null|
 |**2025-01-26**|**Pauli web of the $|Y\rangle$ state surface code injection**|Kwok Ho Wan, Zhenghao Zhong|[2501.15566](http://arxiv.org/abs/2501.15566)|null|
 |**2025-01-26**|**Geometry of symplectic group and optimal EAQECC codes**|Ruihu Li, Yuezhen Ren, Chaofeng Guan, Yang Liu|[2501.15465](http://arxiv.org/abs/2501.15465)|null|

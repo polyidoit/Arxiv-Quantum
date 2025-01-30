@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**What are the bearers of hidden states? On an important ambiguity in the formulation of Bell's theorem**|Joanna Luc|[2501.17521](http://arxiv.org/abs/2501.17521)|null|
+|**2025-01-29**|**Detecting quantum steering in networks**|Ming-Xiao Li, Yuqi Li, Ya Xi, Chang-Yue Zhang, Ying-Zheng Wang, Rui-Bin Xu, Shao-Ming Fei, Zhu-Jun Zheng|[2501.17469](http://arxiv.org/abs/2501.17469)|null|
 |**2025-01-24**|**Correlation strengths in hybrid networks**|Li-Yi Hsu|[2501.14448](http://arxiv.org/abs/2501.14448)|null|
 |**2025-01-23**|**Bell nonlocality in quantum networks with unreliable sources: Loophole-free postelection via self-testing**|Sadra Boreiri, Nicolas Brunner, Pavel Sekatski|[2501.14027](http://arxiv.org/abs/2501.14027)|null|
 |**2025-01-22**|**Temporal nonlocality from indefinite causal orders**|Laurie Letertre|[2501.12870](http://arxiv.org/abs/2501.12870)|null|
@@ -589,6 +591,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Detecting quantum steering in networks**|Ming-Xiao Li, Yuqi Li, Ya Xi, Chang-Yue Zhang, Ying-Zheng Wang, Rui-Bin Xu, Shao-Ming Fei, Zhu-Jun Zheng|[2501.17469](http://arxiv.org/abs/2501.17469)|null|
 |**2025-01-26**|**Flexible manipulation of bipartite and multipartite EPR steerings**|Yunyun Liang, Jing Zhang, Rongguo Yang, Tiancai Zhang, Jiangrui Gao|[2501.15567](http://arxiv.org/abs/2501.15567)|null|
 |**2025-01-18**|**Quantifying Quantum Steering with Limited Resources: A Semi-supervised Machine Learning Approach**|Yansa Lu, Zhihua Chen, Zhihao Ma, Shao-Ming Fei|[2501.10747](http://arxiv.org/abs/2501.10747)|null|
 |**2024-12-26**|**An experimental proposal certification for any three-qubit generalized Greenberger-Horne-Zeilinger states based on the fine-grained steering inequality**|Zhi-Hao Bian, Jia-Qi Sun, Yi Shen|[2412.19028](http://arxiv.org/abs/2412.19028)|null|
@@ -893,6 +896,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Measurement induced phase transition in a quantum Ising model by periodic measurements**|Paranjoy Chaki, Protyush Nandi, Ujjwal Sen, Subinay Dasgupta|[2501.17606](http://arxiv.org/abs/2501.17606)|null|
 |**2025-01-28**|**Probing quantum many-body dynamics using subsystem Loschmidt echos**|Simon Karch, Souvik Bandyopadhyay, Zheng-Hang Sun, Alexander Impertro, SeungJung Huh, Irene Prieto Rodríguez, Julian F. Wienand, Wolfgang Ketterle, Markus Heyl, Anatoli Polkovnikov, Immanuel Bloch, Monika Aidelsburger|[2501.16995](http://arxiv.org/abs/2501.16995)|null|
 |**2025-01-27**|**How to Design a Classically Difficult Random Quantum Circuit for Quantum Computational Advantage Experiments**|He-Liang Huang, Youwei Zhao, Chu Guo|[2501.16035](http://arxiv.org/abs/2501.16035)|null|
 |**2025-01-24**|**Counterdiabatic-influenced Floquet-engineering: State preparation, annealing and learning the adiabatic gauge potential**|Callum W Duncan|[2501.14881](http://arxiv.org/abs/2501.14881)|null|
@@ -1316,12 +1320,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Readout-induced leakage of the fluxonium qubit**|Aayam Bista, Matthew Thibodeau, Ke Nie, Kaicheung Chow, Bryan K. Clark, Angela Kou|[2501.17807](http://arxiv.org/abs/2501.17807)|null|
+|**2025-01-29**|**Small Binary Stabilizer Subsystem Codes**|Andrew Cross, Drew Vandeth|[2501.17447](http://arxiv.org/abs/2501.17447)|null|
+|**2025-01-28**|**Efficient compilation of quantum circuits using multi-qubit gates**|Jonathan Nemirovsky, Maya Chuchem, Yotam Shapira|[2501.17246](http://arxiv.org/abs/2501.17246)|null|
 |**2025-01-28**|**New Quantum MDS Codes with Flexible Parameters from Hermitian Self-Orthogonal GRS Codes**|Oisin Campion, Fernando Hernando, Gary McGuire|[2501.17010](http://arxiv.org/abs/2501.17010)|null|
 |**2025-01-28**|**Programming tools for Analogue Quantum Computing in the High-Performance Computing Context -- A Review**|Mateusz Meller, Vendel Szeremi, Oliver Thomson Brown|[2501.16943](http://arxiv.org/abs/2501.16943)|null|
 |**2025-01-28**|**Quantum XYZ cyclic codes for biased noise**|Zhipeng Liang, Fusheng Yang, Zhengzhong Yi, Xuan Wang|[2501.16827](http://arxiv.org/abs/2501.16827)|null|
 |**2025-01-28**|**High-fidelity QND readout and measurement back-action in a Tantalum-based high-coherence fluxonium qubit**|Gaurav Bothara, Srijita Das, Kishor V Salunkhe, Madhavi Chand, Jay Deshmukh, Meghan P Patankar, R Vijay|[2501.16691](http://arxiv.org/abs/2501.16691)|null|
 |**2025-01-27**|**Entanglement-Assisted Coding for Arbitrary Linear Computations Over a Quantum MAC**|Lei Hu, Mohamed Nomeir, Alptug Aytekin, Yu Shi, Sennur Ulukus, Saikat Guha|[2501.16296](http://arxiv.org/abs/2501.16296)|null|
-|**2025-01-26**|**Pauli web of the $|Y\rangle$ state surface code injection**|Kwok Ho Wan, Zhenghao Zhong|[2501.15566](http://arxiv.org/abs/2501.15566)|null|
+|**2025-01-29**|**Pauli web of the $|Y\rangle$ state surface code injection**|Kwok Ho Wan, Zhenghao Zhong|[2501.15566](http://arxiv.org/abs/2501.15566)|null|
 |**2025-01-26**|**Geometry of symplectic group and optimal EAQECC codes**|Ruihu Li, Yuezhen Ren, Chaofeng Guan, Yang Liu|[2501.15465](http://arxiv.org/abs/2501.15465)|null|
 |**2025-01-25**|**Ion-Trap Chip Architecture Optimized for Implementation of Quantum Error-Correcting Code**|Jeonghoon Lee, Hyeongjun Jeon, Taehyun Kim|[2501.15200](http://arxiv.org/abs/2501.15200)|null|
 |**2025-01-24**|**Towards a Cryogenic CMOS-Memristor Neural Decoder for Quantum Error Correction**|Pierre-Antoine Mouny, Maher Benhouria, Victor Yon, Patrick Dufour, Linxiang Huang, Yann Beilliard, Sophie Rochette, Dominique Drouin, Pooya Ronagh|[2501.14525](http://arxiv.org/abs/2501.14525)|null|

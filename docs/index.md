@@ -1320,6 +1320,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Enhancing Quantum Expectation Values via Exponential Error Suppression and CVaR Optimization**|Touheed Anwar Atif, Reuben Blake Tate, Stephan Eidenbenz|[2501.18513](http://arxiv.org/abs/2501.18513)|null|
+|**2025-01-29**|**Quantum Computing from Graphs**|Andrey Boris Khesin|[2501.17959](http://arxiv.org/abs/2501.17959)|null|
 |**2025-01-29**|**Readout-induced leakage of the fluxonium qubit**|Aayam Bista, Matthew Thibodeau, Ke Nie, Kaicheung Chow, Bryan K. Clark, Angela Kou|[2501.17807](http://arxiv.org/abs/2501.17807)|null|
 |**2025-01-29**|**Small Binary Stabilizer Subsystem Codes**|Andrew Cross, Drew Vandeth|[2501.17447](http://arxiv.org/abs/2501.17447)|null|
 |**2025-01-28**|**Efficient compilation of quantum circuits using multi-qubit gates**|Jonathan Nemirovsky, Maya Chuchem, Yotam Shapira|[2501.17246](http://arxiv.org/abs/2501.17246)|null|

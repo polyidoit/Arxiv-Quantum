@@ -896,6 +896,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Bridging Entanglement and Magic Resources through Operator Space**|Neil Dowling, Kavan Modi, Gregory A. L. White|[2501.18679](http://arxiv.org/abs/2501.18679)|null|
 |**2025-01-29**|**Measurement induced phase transition in a quantum Ising model by periodic measurements**|Paranjoy Chaki, Protyush Nandi, Ujjwal Sen, Subinay Dasgupta|[2501.17606](http://arxiv.org/abs/2501.17606)|null|
 |**2025-01-28**|**Probing quantum many-body dynamics using subsystem Loschmidt echos**|Simon Karch, Souvik Bandyopadhyay, Zheng-Hang Sun, Alexander Impertro, SeungJung Huh, Irene Prieto Rodríguez, Julian F. Wienand, Wolfgang Ketterle, Markus Heyl, Anatoli Polkovnikov, Immanuel Bloch, Monika Aidelsburger|[2501.16995](http://arxiv.org/abs/2501.16995)|null|
 |**2025-01-27**|**How to Design a Classically Difficult Random Quantum Circuit for Quantum Computational Advantage Experiments**|He-Liang Huang, Youwei Zhao, Chu Guo|[2501.16035](http://arxiv.org/abs/2501.16035)|null|
@@ -1320,6 +1321,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier**|Guanyu Zhu|[2501.19375](http://arxiv.org/abs/2501.19375)|null|
+|**2025-01-31**|**Calibrated hypergraph states: II calibrated hypergraph state construction and applications**|Roberto Zucchini|[2501.18968](http://arxiv.org/abs/2501.18968)|null|
+|**2025-01-31**|**Calibrated hypergraph states: I calibrated hypergraph and multi qudit state monads**|Roberto Zucchini|[2501.18967](http://arxiv.org/abs/2501.18967)|null|
+|**2025-01-30**|**Hierarchical generation and design of quantum codes for resource-efficient loss-tolerant quantum communications**|Franceso Cesa, Tommaso Feri, Angelo Bassi|[2501.18693](http://arxiv.org/abs/2501.18693)|null|
+|**2025-01-30**|**Real-time adaptation of quantum noise channel estimates**|Lucas Daguerre, Mohan Sarovar|[2501.18685](http://arxiv.org/abs/2501.18685)|null|
 |**2025-01-30**|**Enhancing Quantum Expectation Values via Exponential Error Suppression and CVaR Optimization**|Touheed Anwar Atif, Reuben Blake Tate, Stephan Eidenbenz|[2501.18513](http://arxiv.org/abs/2501.18513)|null|
 |**2025-01-29**|**Quantum Computing from Graphs**|Andrey Boris Khesin|[2501.17959](http://arxiv.org/abs/2501.17959)|null|
 |**2025-01-29**|**Readout-induced leakage of the fluxonium qubit**|Aayam Bista, Matthew Thibodeau, Ke Nie, Kaicheung Chow, Bryan K. Clark, Angela Kou|[2501.17807](http://arxiv.org/abs/2501.17807)|null|

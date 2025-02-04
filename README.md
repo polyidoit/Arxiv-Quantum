@@ -477,7 +477,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-28**|**Random attraction in TASEP with time-varying hopping rates**|Lars Grüne, Kilian Pioch, Thomas Kriecherbauer, Michael Margaliot|[2501.16777](http://arxiv.org/abs/2501.16777)|null|
-|**2025-01-25**|**Chromatic Quantum Contextuality**|Karl Svozil|[2501.15261](http://arxiv.org/abs/2501.15261)|null|
+|**2025-02-02**|**Chromatic Quantum Contextuality**|Karl Svozil|[2501.15261](http://arxiv.org/abs/2501.15261)|null|
 |**2025-01-16**|**Quantum Contextual Hypergraphs, Operators, Inequalities, and Applications in Higher Dimensions**|Mladen Pavicic|[2501.09637](http://arxiv.org/abs/2501.09637)|null|
 |**2025-01-11**|**Fermion as a non-local particle-hole excitation**|Alok Kushwaha, Rishi Paresh Joshi, Girish Sampath Setlur|[2501.06489](http://arxiv.org/abs/2501.06489)|null|
 |**2025-01-19**|**Quantum entanglement as an extremal Kirkwood-Dirac nonreality**|Agung Budiyono|[2501.04137](http://arxiv.org/abs/2501.04137)|null|

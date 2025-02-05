@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu, Andrew Tanggara, Kishor Bharti|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
+|**2025-02-02**|**Long-distance Bell nonlocality and teleportation with hybrid entangled states**|Subhankar Bera, Soumyakanti Bose, Hyunseok Jeong, Archan S Majumdar|[2502.00707](http://arxiv.org/abs/2502.00707)|null|
 |**2025-01-29**|**What are the bearers of hidden states? On an important ambiguity in the formulation of Bell's theorem**|Joanna Luc|[2501.17521](http://arxiv.org/abs/2501.17521)|null|
 |**2025-01-29**|**Detecting quantum steering in networks**|Ming-Xiao Li, Yuqi Li, Ya Xi, Chang-Yue Zhang, Ying-Zheng Wang, Rui-Bin Xu, Shao-Ming Fei, Zhu-Jun Zheng|[2501.17469](http://arxiv.org/abs/2501.17469)|null|
 |**2025-01-24**|**Correlation strengths in hybrid networks**|Li-Yi Hsu|[2501.14448](http://arxiv.org/abs/2501.14448)|null|
@@ -719,6 +721,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Thermodynamic limits of the Mpemba effect: A unified resource theory analysis**|Doruk Can Alyürük, Mahir H. Yeşiller, Vlatko Vedral, Onur Pusuluk|[2502.00123](http://arxiv.org/abs/2502.00123)|null|
 |**2025-01-26**|**Nuisance-free Automatic Ground Collision Avoidance System Design: Merging Exponential-CBF and Adaptive Sliding Manifolds**|Ege C. Altunkaya, Ibrahim Ozkol|[2501.15611](http://arxiv.org/abs/2501.15611)|null|
 |**2025-01-28**|**Electromagnetic System Conceptual Design for a Negative Triangularity Tokamak**|Sophia Guizzo, Mikhail A. Drabinskiy, Christopher Hansen, Aleksandr G. Kachkin, Eduard N. Khairutdinov, Andrew O. Nelson, Maxim R. Nurgaliev, Matthew Pharr, Georgy F. Subbotin, Carlos Paz-Soldan|[2501.14682](http://arxiv.org/abs/2501.14682)|null|
 |**2025-01-21**|**Low-Cost 3D printed, Biocompatible Ionic Polymer Membranes for Soft Actuators**|Nils Trümpler, Ryo Kanno, Niu David, Anja Huch, Pham Huy Nguyen, Maksims Jurinovs, Gustav Nyström, Sergejs Gaidukovs, Mirko Kovac|[2501.12025](http://arxiv.org/abs/2501.12025)|null|
@@ -915,6 +918,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-03**|**Non-Stabilizerness of Sachdev-Ye-Kitaev Model**|Surajit Bera, Marco Schirò|[2502.01582](http://arxiv.org/abs/2502.01582)|null|
+|**2025-02-03**|**Enhancing Quantum Metrology by Quantum Resonance Dynamics**|Zhixing Zou, Jiangbin Gong, Weitao Chen|[2502.01462](http://arxiv.org/abs/2502.01462)|null|
 |**2025-01-30**|**Bridging Entanglement and Magic Resources through Operator Space**|Neil Dowling, Kavan Modi, Gregory A. L. White|[2501.18679](http://arxiv.org/abs/2501.18679)|null|
 |**2025-01-29**|**Measurement induced phase transition in a quantum Ising model by periodic measurements**|Paranjoy Chaki, Protyush Nandi, Ujjwal Sen, Subinay Dasgupta|[2501.17606](http://arxiv.org/abs/2501.17606)|null|
 |**2025-01-28**|**Probing quantum many-body dynamics using subsystem Loschmidt echos**|Simon Karch, Souvik Bandyopadhyay, Zheng-Hang Sun, Alexander Impertro, SeungJung Huh, Irene Prieto Rodríguez, Julian F. Wienand, Wolfgang Ketterle, Markus Heyl, Anatoli Polkovnikov, Immanuel Bloch, Monika Aidelsburger|[2501.16995](http://arxiv.org/abs/2501.16995)|null|
@@ -1342,6 +1347,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu, Andrew Tanggara, Kishor Bharti|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
+|**2025-02-04**|**On Iso-Dual MDS Codes From Elliptic Curves**|Yunlong Zhu, Chang-An Zhao|[2502.02033](http://arxiv.org/abs/2502.02033)|null|
+|**2025-02-03**|**Quantum Codes with Addressable and Transversal Non-Clifford Gates**|Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang|[2502.01864](http://arxiv.org/abs/2502.01864)|null|
+|**2025-02-03**|**Magic State Cultivation on the Surface Code**|Yotam Vaknin, Shoham Jacoby, Arne Grimsmo, Alex Retzker|[2502.01743](http://arxiv.org/abs/2502.01743)|null|
+|**2025-02-03**|**Developing universal logical state-purification strategy for quantum error correcting codes**|Chandrima B. Pushpan, Tanoy Kanti Konar, Aditi Sen De, Amit Kumar Pal|[2502.01393](http://arxiv.org/abs/2502.01393)|null|
+|**2025-02-03**|**Generating logical magic states with the aid of non-Abelian topological order**|Sheng-Jie Huang, Yanzhu Chen|[2502.00998](http://arxiv.org/abs/2502.00998)|null|
+|**2025-02-02**|**Pauli webs spun by transversal $|Y\rangle$ state initialisation**|Kwok Ho Wan, Zhenghao Zhong|[2502.00957](http://arxiv.org/abs/2502.00957)|null|
+|**2025-02-02**|**Expedited Noise Spectroscopy of Transmon Qubits**|Bhavesh Gupta, Vismay Joshi, Udit Kandpal, Prabha Mandayam, Nicolas Gheeraert, Siddharth Dhomkar|[2502.00679](http://arxiv.org/abs/2502.00679)|null|
+|**2025-02-01**|**On Multiquantum Bits, Segre Embeddings and Coxeter Chambers**|Noémie C. Combe|[2502.00461](http://arxiv.org/abs/2502.00461)|null|
+|**2025-01-31**|**Toward Human-Quantum Computer Interaction: Interface Techniques for Usable Quantum Computing**|Hyeok Kim, Mingyoung J. Jeng, Kaitlin N. Smith|[2502.00202](http://arxiv.org/abs/2502.00202)|null|
 |**2025-01-31**|**A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier**|Guanyu Zhu|[2501.19375](http://arxiv.org/abs/2501.19375)|null|
 |**2025-01-31**|**Calibrated hypergraph states: II calibrated hypergraph state construction and applications**|Roberto Zucchini|[2501.18968](http://arxiv.org/abs/2501.18968)|null|
 |**2025-01-31**|**Calibrated hypergraph states: I calibrated hypergraph and multi qudit state monads**|Roberto Zucchini|[2501.18967](http://arxiv.org/abs/2501.18967)|null|

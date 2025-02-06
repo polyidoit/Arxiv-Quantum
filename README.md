@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Bell Inequalities and Quantum Correlations in $H \rightarrow ZZ \rightarrow 2e\,2μ$**|Mira Varma, Oliver K. Baker|[2502.03219](http://arxiv.org/abs/2502.03219)|null|
+|**2025-02-05**|**Certified Random Number Generation using Quantum Computers**|Pingal Pratyush Nath, Aninda Sinha, Urbasi Sinha|[2502.02973](http://arxiv.org/abs/2502.02973)|null|
 |**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu, Andrew Tanggara, Kishor Bharti|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
 |**2025-02-02**|**Long-distance Bell nonlocality and teleportation with hybrid entangled states**|Subhankar Bera, Soumyakanti Bose, Hyunseok Jeong, Archan S Majumdar|[2502.00707](http://arxiv.org/abs/2502.00707)|null|
 |**2025-01-29**|**What are the bearers of hidden states? On an important ambiguity in the formulation of Bell's theorem**|Joanna Luc|[2501.17521](http://arxiv.org/abs/2501.17521)|null|
@@ -1347,6 +1349,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Constructions and decoding procedures for quantum CSS codes**|Yannick Saouter, Massinissa Zenia, Gilles Burel|[2502.03242](http://arxiv.org/abs/2502.03242)|null|
+|**2025-02-05**|**High-fidelity initialization a logical qubit with multiple injections**|Zhi-Cheng He, Zheng-Yuan Xue|[2502.02897](http://arxiv.org/abs/2502.02897)|null|
 |**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu, Andrew Tanggara, Kishor Bharti|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
 |**2025-02-04**|**On Iso-Dual MDS Codes From Elliptic Curves**|Yunlong Zhu, Chang-An Zhao|[2502.02033](http://arxiv.org/abs/2502.02033)|null|
 |**2025-02-03**|**Quantum Codes with Addressable and Transversal Non-Clifford Gates**|Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang|[2502.01864](http://arxiv.org/abs/2502.01864)|null|

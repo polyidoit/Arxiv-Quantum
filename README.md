@@ -382,8 +382,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-06**|**Cyclic functional causal models beyond unique solvability with a graph separation theorem**|Carla Ferradini, Victor Gitton, V. Vilasini|[2502.04171](http://arxiv.org/abs/2502.04171)|null|
-|**2025-02-06**|**Cyclic quantum causal modelling with a graph separation theorem**|Carla Ferradini, Victor Gitton, V. Vilasini|[2502.04168](http://arxiv.org/abs/2502.04168)|null|
+|**2025-02-07**|**Cyclic functional causal models beyond unique solvability with a graph separation theorem**|Carla Ferradini, Victor Gitton, V. Vilasini|[2502.04171](http://arxiv.org/abs/2502.04171)|null|
+|**2025-02-07**|**Cyclic quantum causal modelling with a graph separation theorem**|Carla Ferradini, Victor Gitton, V. Vilasini|[2502.04168](http://arxiv.org/abs/2502.04168)|null|
 |**2025-01-27**|**Optimizer-Dependent Generalization Bound for Quantum Neural Networks**|Chenghong Zhu, Hongshun Yao, Yingjian Liu, Xin Wang|[2501.16228](http://arxiv.org/abs/2501.16228)|null|
 |**2024-12-20**|**Entanglement harvesting in quantum superposed spacetime**|Anwesha Chakraborty, Lucas Hackl, Magdalena Zych|[2412.15870](http://arxiv.org/abs/2412.15870)|null|
 |**2024-12-16**|**Quantum observables over time for information recovery**|Gabriele Bressanini, Farhan Hanif, Hyukjoon Kwon, M. S. Kim|[2412.11659](http://arxiv.org/abs/2412.11659)|null|
@@ -922,6 +922,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Energy dynamics in a class of local random matrix Hamiltonians**|Klée Pollock, Jonathan D. Kroth, Nathan Pagliaroli, Thomas Iadecola, Jonathan Riddell|[2502.05045](http://arxiv.org/abs/2502.05045)|null|
+|**2025-02-06**|**Symmetry Properties of Quantum Dynamical Entropy**|Eric D. Schultz, Keiichiro Furuya, Laimei Nie|[2502.04442](http://arxiv.org/abs/2502.04442)|null|
 |**2025-02-06**|**Quantum Circuit Design using a Progressive Widening Monte Carlo Tree Search**|Vincenzo Lipardi, Domenica Dibenedetto, Georgios Stamoulis, Mark H. M. Winands|[2502.03962](http://arxiv.org/abs/2502.03962)|**[link](https://github.com/VincenzoLipardi/MCTS-QAS)**|
 |**2025-02-06**|**Improving and benchmarking NISQ qubit routers**|Vicente Pina-Canelles, Adrian Auer, Inés de Vega|[2502.03908](http://arxiv.org/abs/2502.03908)|null|
 |**2025-02-03**|**Non-Stabilizerness of Sachdev-Ye-Kitaev Model**|Surajit Bera, Marco Schirò|[2502.01582](http://arxiv.org/abs/2502.01582)|null|
@@ -1353,6 +1355,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**A Variant of the Bravyi-Terhal Bound for Arbitrary Boundary Conditions**|François Arnault, Philippe Gaborit, Wouter Rozendaal, Nicolas Saussay, Gilles Zémor|[2502.04995](http://arxiv.org/abs/2502.04995)|null|
+|**2025-02-06**|**Identifying Flaky Tests in Quantum Code: A Machine Learning Approach**|Khushdeep Kaur, Dongchan Kim, Ainaz Jamshidi, Lei Zhang|[2502.04471](http://arxiv.org/abs/2502.04471)|null|
 |**2025-02-06**|**Non-Variational Quantum Random Access Optimization with Alternating Operator Ansatz**|Zichang He, Rudy Raymond, Ruslan Shaydulin, Marco Pistoia|[2502.04277](http://arxiv.org/abs/2502.04277)|null|
 |**2025-02-05**|**Constructions and decoding procedures for quantum CSS codes**|Yannick Saouter, Massinissa Zenia, Gilles Burel|[2502.03242](http://arxiv.org/abs/2502.03242)|null|
 |**2025-02-05**|**High-fidelity initialization a logical qubit with multiple injections**|Zhi-Cheng He, Zheng-Yuan Xue|[2502.02897](http://arxiv.org/abs/2502.02897)|null|

@@ -612,6 +612,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-09**|**Perfect Transfer of Entanglement and One-Way Quantum Steering via Parametric Frequency Converter in a Two-mode Cavity Magnomechanical System**|Amjad Sohail, Allah Nawaz, Hazrat Ali, Rizwan Ahmed, Marcos Cesar de Oliveira|[2502.06040](http://arxiv.org/abs/2502.06040)|null|
 |**2025-01-29**|**Detecting quantum steering in networks**|Ming-Xiao Li, Yuqi Li, Ya Xi, Chang-Yue Zhang, Ying-Zheng Wang, Rui-Bin Xu, Shao-Ming Fei, Zhu-Jun Zheng|[2501.17469](http://arxiv.org/abs/2501.17469)|null|
 |**2025-01-26**|**Flexible manipulation of bipartite and multipartite EPR steerings**|Yunyun Liang, Jing Zhang, Rongguo Yang, Tiancai Zhang, Jiangrui Gao|[2501.15567](http://arxiv.org/abs/2501.15567)|null|
 |**2025-01-18**|**Quantifying Quantum Steering with Limited Resources: A Semi-supervised Machine Learning Approach**|Yansa Lu, Zhihua Chen, Zhihao Ma, Shao-Ming Fei|[2501.10747](http://arxiv.org/abs/2501.10747)|null|
@@ -922,7 +923,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-07**|**Energy dynamics in a class of local random matrix Hamiltonians**|Klée Pollock, Jonathan D. Kroth, Nathan Pagliaroli, Thomas Iadecola, Jonathan Riddell|[2502.05045](http://arxiv.org/abs/2502.05045)|null|
+|**2025-02-10**|**Energy dynamics in a class of local random matrix Hamiltonians**|Klée Pollock, Jonathan D. Kroth, Nathan Pagliaroli, Thomas Iadecola, Jonathon Riddell|[2502.05045](http://arxiv.org/abs/2502.05045)|null|
 |**2025-02-06**|**Symmetry Properties of Quantum Dynamical Entropy**|Eric D. Schultz, Keiichiro Furuya, Laimei Nie|[2502.04442](http://arxiv.org/abs/2502.04442)|null|
 |**2025-02-06**|**Quantum Circuit Design using a Progressive Widening Monte Carlo Tree Search**|Vincenzo Lipardi, Domenica Dibenedetto, Georgios Stamoulis, Mark H. M. Winands|[2502.03962](http://arxiv.org/abs/2502.03962)|**[link](https://github.com/VincenzoLipardi/MCTS-QAS)**|
 |**2025-02-06**|**Improving and benchmarking NISQ qubit routers**|Vicente Pina-Canelles, Adrian Auer, Inés de Vega|[2502.03908](http://arxiv.org/abs/2502.03908)|null|
@@ -1355,7 +1356,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-07**|**A Variant of the Bravyi-Terhal Bound for Arbitrary Boundary Conditions**|François Arnault, Philippe Gaborit, Wouter Rozendaal, Nicolas Saussay, Gilles Zémor|[2502.04995](http://arxiv.org/abs/2502.04995)|null|
+|**2025-02-10**|**A Variant of the Bravyi-Terhal Bound for Arbitrary Boundary Conditions**|François Arnault, Philippe Gaborit, Wouter Rozendaal, Nicolas Saussay, Gilles Zémor|[2502.04995](http://arxiv.org/abs/2502.04995)|null|
 |**2025-02-06**|**Identifying Flaky Tests in Quantum Code: A Machine Learning Approach**|Khushdeep Kaur, Dongchan Kim, Ainaz Jamshidi, Lei Zhang|[2502.04471](http://arxiv.org/abs/2502.04471)|null|
 |**2025-02-06**|**Non-Variational Quantum Random Access Optimization with Alternating Operator Ansatz**|Zichang He, Rudy Raymond, Ruslan Shaydulin, Marco Pistoia|[2502.04277](http://arxiv.org/abs/2502.04277)|null|
 |**2025-02-05**|**Constructions and decoding procedures for quantum CSS codes**|Yannick Saouter, Massinissa Zenia, Gilles Burel|[2502.03242](http://arxiv.org/abs/2502.03242)|null|

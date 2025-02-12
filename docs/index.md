@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Testing spooky action between free-traveling electron-positron pairs**|Leyun Gao, Alim Ruzi, Qite Li, Chen Zhou, Qiang Li|[2502.07597](http://arxiv.org/abs/2502.07597)|null|
+|**2025-02-07**|**Stochastic interpretation of quantum mechanics assuming that vacuum fields are real**|Emilio Santos|[2502.06859](http://arxiv.org/abs/2502.06859)|null|
+|**2025-01-25**|**EPR Paradox, Bell Inequalities and Peculiarities of Quantum Correlations**|Apoorva D. Patel|[2502.06791](http://arxiv.org/abs/2502.06791)|null|
 |**2025-02-05**|**Bell Inequalities and Quantum Correlations in $H \rightarrow ZZ \rightarrow 2e\,2μ$**|Mira Varma, Oliver K. Baker|[2502.03219](http://arxiv.org/abs/2502.03219)|null|
 |**2025-02-05**|**Certified Random Number Generation using Quantum Computers**|Pingal Pratyush Nath, Aninda Sinha, Urbasi Sinha|[2502.02973](http://arxiv.org/abs/2502.02973)|null|
 |**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu, Andrew Tanggara, Kishor Bharti|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
@@ -597,6 +600,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Detecting entanglement in any measurement using quantum networks**|Shubhayan Sarkar|[2502.06986](http://arxiv.org/abs/2502.06986)|null|
 |**2025-02-09**|**Perfect Transfer of Entanglement and One-Way Quantum Steering via Parametric Frequency Converter in a Two-mode Cavity Magnomechanical System**|Amjad Sohail, Allah Nawaz, Hazrat Ali, Rizwan Ahmed, Marcos Cesar de Oliveira|[2502.06040](http://arxiv.org/abs/2502.06040)|null|
 |**2025-01-29**|**Detecting quantum steering in networks**|Ming-Xiao Li, Yuqi Li, Ya Xi, Chang-Yue Zhang, Ying-Zheng Wang, Rui-Bin Xu, Shao-Ming Fei, Zhu-Jun Zheng|[2501.17469](http://arxiv.org/abs/2501.17469)|null|
 |**2025-01-26**|**Flexible manipulation of bipartite and multipartite EPR steerings**|Yunyun Liang, Jing Zhang, Rongguo Yang, Tiancai Zhang, Jiangrui Gao|[2501.15567](http://arxiv.org/abs/2501.15567)|null|
@@ -709,6 +713,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Interplay of resources for universal continuous-variable quantum computing**|Varun Upreti, Ulysse Chabaud|[2502.07670](http://arxiv.org/abs/2502.07670)|null|
+|**2025-02-05**|**Fine-Tuning Strategies for Continual Online EEG Motor Imagery Decoding: Insights from a Large-Scale Longitudinal Study**|Martin Wimpff, Bruno Aristimunha, Sylvain Chevallier, Bin Yang|[2502.06828](http://arxiv.org/abs/2502.06828)|null|
 |**2025-01-31**|**Thermodynamic limits of the Mpemba effect: A unified resource theory analysis**|Doruk Can Alyürük, Mahir H. Yeşiller, Vlatko Vedral, Onur Pusuluk|[2502.00123](http://arxiv.org/abs/2502.00123)|null|
 |**2025-01-26**|**Nuisance-free Automatic Ground Collision Avoidance System Design: Merging Exponential-CBF and Adaptive Sliding Manifolds**|Ege C. Altunkaya, Ibrahim Ozkol|[2501.15611](http://arxiv.org/abs/2501.15611)|null|
 |**2025-01-28**|**Electromagnetic System Conceptual Design for a Negative Triangularity Tokamak**|Sophia Guizzo, Mikhail A. Drabinskiy, Christopher Hansen, Aleksandr G. Kachkin, Eduard N. Khairutdinov, Andrew O. Nelson, Maxim R. Nurgaliev, Matthew Pharr, Georgy F. Subbotin, Carlos Paz-Soldan|[2501.14682](http://arxiv.org/abs/2501.14682)|null|
@@ -1335,6 +1341,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Computing Efficiently in QLDPC Codes**|Alexander J. Malcolm, Andrew N. Glaudell, Patricio Fuentes, Daryus Chandra, Alexis Schotte, Colby DeLisle, Rafael Haenel, Amir Ebrahimi, Joschka Roffe, Armanda O. Quintavalle, Stefanie J. Beale, Nicholas R. Lee-Hone, Stephanie Simmons|[2502.07150](http://arxiv.org/abs/2502.07150)|null|
 |**2025-02-10**|**A Variant of the Bravyi-Terhal Bound for Arbitrary Boundary Conditions**|François Arnault, Philippe Gaborit, Wouter Rozendaal, Nicolas Saussay, Gilles Zémor|[2502.04995](http://arxiv.org/abs/2502.04995)|null|
 |**2025-02-06**|**Identifying Flaky Tests in Quantum Code: A Machine Learning Approach**|Khushdeep Kaur, Dongchan Kim, Ainaz Jamshidi, Lei Zhang|[2502.04471](http://arxiv.org/abs/2502.04471)|null|
 |**2025-02-06**|**Non-Variational Quantum Random Access Optimization with Alternating Operator Ansatz**|Zichang He, Rudy Raymond, Ruslan Shaydulin, Marco Pistoia|[2502.04277](http://arxiv.org/abs/2502.04277)|null|

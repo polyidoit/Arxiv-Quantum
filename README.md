@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**The Observational Partial Order of Causal Structures with Latent Variables**|Marina Maciel Ansanelli, Elie Wolfe, Robert W. Spekkens|[2502.07891](http://arxiv.org/abs/2502.07891)|null|
 |**2025-02-11**|**Testing spooky action between free-traveling electron-positron pairs**|Leyun Gao, Alim Ruzi, Qite Li, Chen Zhou, Qiang Li|[2502.07597](http://arxiv.org/abs/2502.07597)|null|
 |**2025-02-07**|**Stochastic interpretation of quantum mechanics assuming that vacuum fields are real**|Emilio Santos|[2502.06859](http://arxiv.org/abs/2502.06859)|null|
 |**2025-01-25**|**EPR Paradox, Bell Inequalities and Peculiarities of Quantum Correlations**|Apoorva D. Patel|[2502.06791](http://arxiv.org/abs/2502.06791)|null|
@@ -1362,6 +1363,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Enhancing dissipative cat qubit protection by squeezing**|Rémi Rousseau, Diego Ruiz, Emanuele Albertinale, Pol d'Avezac, Danielius Banys, Ugo Blandin, Nicolas Bourdaud, Giulio Campanaro, Gil Cardoso, Nathanael Cottet, Charlotte Cullip, Samuel Deléglise, Louise Devanz, Adam Devulder, Antoine Essig, Pierre Février, Adrien Gicquel, Élie Gouzien, Antoine Gras, Jérémie Guillaud, Efe Gümüş, Mattis Hallén, Anissa Jacob, Paul Magnard, Antoine Marquet, Salim Miklass, Théau Peronnin, Stéphane Polis, Felix Rautschke, Ulysse Réglade, Julien Roul, Jeremy Stevens, Jeanne Solard, Alexandre Thomas, Jean-Loup Ville, Pierre Wan-Fat, Raphaël Lescanne, Zaki Leghtas, Joachim Cohen, Sébastien Jezouin, Anil Murani|[2502.07892](http://arxiv.org/abs/2502.07892)|null|
 |**2025-02-11**|**Computing Efficiently in QLDPC Codes**|Alexander J. Malcolm, Andrew N. Glaudell, Patricio Fuentes, Daryus Chandra, Alexis Schotte, Colby DeLisle, Rafael Haenel, Amir Ebrahimi, Joschka Roffe, Armanda O. Quintavalle, Stefanie J. Beale, Nicholas R. Lee-Hone, Stephanie Simmons|[2502.07150](http://arxiv.org/abs/2502.07150)|null|
 |**2025-02-10**|**A Variant of the Bravyi-Terhal Bound for Arbitrary Boundary Conditions**|François Arnault, Philippe Gaborit, Wouter Rozendaal, Nicolas Saussay, Gilles Zémor|[2502.04995](http://arxiv.org/abs/2502.04995)|null|
 |**2025-02-06**|**Identifying Flaky Tests in Quantum Code: A Machine Learning Approach**|Khushdeep Kaur, Dongchan Kim, Ainaz Jamshidi, Lei Zhang|[2502.04471](http://arxiv.org/abs/2502.04471)|null|

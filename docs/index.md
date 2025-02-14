@@ -714,6 +714,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**One-shot manipulation of coherence in dynamic quantum resource theory**|Yu Luo|[2502.09345](http://arxiv.org/abs/2502.09345)|null|
 |**2025-02-11**|**Interplay of resources for universal continuous-variable quantum computing**|Varun Upreti, Ulysse Chabaud|[2502.07670](http://arxiv.org/abs/2502.07670)|null|
 |**2025-02-05**|**Fine-Tuning Strategies for Continual Online EEG Motor Imagery Decoding: Insights from a Large-Scale Longitudinal Study**|Martin Wimpff, Bruno Aristimunha, Sylvain Chevallier, Bin Yang|[2502.06828](http://arxiv.org/abs/2502.06828)|null|
 |**2025-01-31**|**Thermodynamic limits of the Mpemba effect: A unified resource theory analysis**|Doruk Can Alyürük, Mahir H. Yeşiller, Vlatko Vedral, Onur Pusuluk|[2502.00123](http://arxiv.org/abs/2502.00123)|null|
@@ -911,6 +912,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Generalized Cross-Entropy Benchmarking for Random Circuits with Ergodicity**|Bin Cheng, Fei Meng, Zhi-Jiong Zhang, Man-Hong Yung|[2502.09015](http://arxiv.org/abs/2502.09015)|null|
 |**2025-02-10**|**Energy dynamics in a class of local random matrix Hamiltonians**|Klée Pollock, Jonathan D. Kroth, Nathan Pagliaroli, Thomas Iadecola, Jonathon Riddell|[2502.05045](http://arxiv.org/abs/2502.05045)|null|
 |**2025-02-06**|**Symmetry Properties of Quantum Dynamical Entropy**|Eric D. Schultz, Keiichiro Furuya, Laimei Nie|[2502.04442](http://arxiv.org/abs/2502.04442)|null|
 |**2025-02-06**|**Quantum Circuit Design using a Progressive Widening Monte Carlo Tree Search**|Vincenzo Lipardi, Domenica Dibenedetto, Georgios Stamoulis, Mark H. M. Winands|[2502.03962](http://arxiv.org/abs/2502.03962)|**[link](https://github.com/VincenzoLipardi/MCTS-QAS)**|
@@ -1342,6 +1344,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Continuous Variable Quantum MacWilliams Identities**|Ansgar G. Burchards|[2502.09514](http://arxiv.org/abs/2502.09514)|null|
+|**2025-02-13**|**Code Style Sheets: CSS for Code**|Sam Cohen, Ravi Chugh|[2502.09386](http://arxiv.org/abs/2502.09386)|null|
+|**2025-02-13**|**Approximate Dynamical Quantum Error-Correcting Codes**|Nirupam Basak, Andrew Tanggara, Ankith Mohan, Goutam Paul, Kishor Bharti|[2502.09177](http://arxiv.org/abs/2502.09177)|null|
+|**2025-02-13**|**Scalable Optical Quantum State Synthesizer with Dual-Mode Cavity Memory**|Fumiya Hanamura, Kan Takase, Kazuki Hirota, Rajveer Nehra, Florian Lang, Shigehito Miki, Hirotaka Terai, Masahiro Yabuno, Takahiro Kashiwazaki, Asuka Inoue, Takeshi Umeki, Warit Asavanant, Mamoru Endo, Jun-ichi Yoshikawa, Akira Furusawa|[2502.09033](http://arxiv.org/abs/2502.09033)|null|
+|**2025-02-13**|**Quantum code division multiple access based continuous-variable quantum key distribution**|Shahnoor Ali, Neel Kanth Kundu|[2502.09019](http://arxiv.org/abs/2502.09019)|null|
 |**2025-02-11**|**Enhancing dissipative cat qubit protection by squeezing**|Rémi Rousseau, Diego Ruiz, Emanuele Albertinale, Pol d'Avezac, Danielius Banys, Ugo Blandin, Nicolas Bourdaud, Giulio Campanaro, Gil Cardoso, Nathanael Cottet, Charlotte Cullip, Samuel Deléglise, Louise Devanz, Adam Devulder, Antoine Essig, Pierre Février, Adrien Gicquel, Élie Gouzien, Antoine Gras, Jérémie Guillaud, Efe Gümüş, Mattis Hallén, Anissa Jacob, Paul Magnard, Antoine Marquet, Salim Miklass, Théau Peronnin, Stéphane Polis, Felix Rautschke, Ulysse Réglade, Julien Roul, Jeremy Stevens, Jeanne Solard, Alexandre Thomas, Jean-Loup Ville, Pierre Wan-Fat, Raphaël Lescanne, Zaki Leghtas, Joachim Cohen, Sébastien Jezouin, Anil Murani|[2502.07892](http://arxiv.org/abs/2502.07892)|null|
 |**2025-02-11**|**Computing Efficiently in QLDPC Codes**|Alexander J. Malcolm, Andrew N. Glaudell, Patricio Fuentes, Daryus Chandra, Alexis Schotte, Colby DeLisle, Rafael Haenel, Amir Ebrahimi, Joschka Roffe, Armanda O. Quintavalle, Stefanie J. Beale, Nicholas R. Lee-Hone, Stephanie Simmons|[2502.07150](http://arxiv.org/abs/2502.07150)|null|
 |**2025-02-10**|**A Variant of the Bravyi-Terhal Bound for Arbitrary Boundary Conditions**|François Arnault, Philippe Gaborit, Wouter Rozendaal, Nicolas Saussay, Gilles Zémor|[2502.04995](http://arxiv.org/abs/2502.04995)|null|

@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-11**|**The Observational Partial Order of Causal Structures with Latent Variables**|Marina Maciel Ansanelli, Elie Wolfe, Robert W. Spekkens|[2502.07891](http://arxiv.org/abs/2502.07891)|null|
+|**2025-02-11**|**The Observational Partial Order of Causal Structures with Latent Variables**|Marina Maciel Ansanelli, Elie Wolfe, Robert W. Spekkens|[2502.07891](http://arxiv.org/abs/2502.07891)|**[link](https://github.com/eliewolfe/mDAG-analysis)**|
 |**2025-02-11**|**Testing spooky action between free-traveling electron-positron pairs**|Leyun Gao, Alim Ruzi, Qite Li, Chen Zhou, Qiang Li|[2502.07597](http://arxiv.org/abs/2502.07597)|null|
 |**2025-02-07**|**Stochastic interpretation of quantum mechanics assuming that vacuum fields are real**|Emilio Santos|[2502.06859](http://arxiv.org/abs/2502.06859)|null|
 |**2025-01-25**|**EPR Paradox, Bell Inequalities and Peculiarities of Quantum Correlations**|Apoorva D. Patel|[2502.06791](http://arxiv.org/abs/2502.06791)|null|
@@ -733,7 +733,7 @@
 |---|---|---|---|---|
 |**2025-02-13**|**One-shot manipulation of coherence in dynamic quantum resource theory**|Yu Luo|[2502.09345](http://arxiv.org/abs/2502.09345)|null|
 |**2025-02-11**|**Interplay of resources for universal continuous-variable quantum computing**|Varun Upreti, Ulysse Chabaud|[2502.07670](http://arxiv.org/abs/2502.07670)|null|
-|**2025-02-05**|**Fine-Tuning Strategies for Continual Online EEG Motor Imagery Decoding: Insights from a Large-Scale Longitudinal Study**|Martin Wimpff, Bruno Aristimunha, Sylvain Chevallier, Bin Yang|[2502.06828](http://arxiv.org/abs/2502.06828)|null|
+|**2025-02-05**|**Fine-Tuning Strategies for Continual Online EEG Motor Imagery Decoding: Insights from a Large-Scale Longitudinal Study**|Martin Wimpff, Bruno Aristimunha, Sylvain Chevallier, Bin Yang|[2502.06828](http://arxiv.org/abs/2502.06828)|**[link](https://github.com/martinwimpff/eeg-continual)**|
 |**2025-01-31**|**Thermodynamic limits of the Mpemba effect: A unified resource theory analysis**|Doruk Can Alyürük, Mahir H. Yeşiller, Vlatko Vedral, Onur Pusuluk|[2502.00123](http://arxiv.org/abs/2502.00123)|null|
 |**2025-01-26**|**Nuisance-free Automatic Ground Collision Avoidance System Design: Merging Exponential-CBF and Adaptive Sliding Manifolds**|Ege C. Altunkaya, Ibrahim Ozkol|[2501.15611](http://arxiv.org/abs/2501.15611)|null|
 |**2025-01-28**|**Electromagnetic System Conceptual Design for a Negative Triangularity Tokamak**|Sophia Guizzo, Mikhail A. Drabinskiy, Christopher Hansen, Aleksandr G. Kachkin, Eduard N. Khairutdinov, Andrew O. Nelson, Maxim R. Nurgaliev, Matthew Pharr, Georgy F. Subbotin, Carlos Paz-Soldan|[2501.14682](http://arxiv.org/abs/2501.14682)|null|
@@ -1365,8 +1365,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Diamond Circuits for Surface Codes**|Dripto M. Debroy|[2502.10355](http://arxiv.org/abs/2502.10355)|null|
 |**2025-02-13**|**Continuous Variable Quantum MacWilliams Identities**|Ansgar G. Burchards|[2502.09514](http://arxiv.org/abs/2502.09514)|null|
-|**2025-02-13**|**Code Style Sheets: CSS for Code**|Sam Cohen, Ravi Chugh|[2502.09386](http://arxiv.org/abs/2502.09386)|null|
+|**2025-02-14**|**Code Style Sheets: CSS for Code**|Sam Cohen, Ravi Chugh|[2502.09386](http://arxiv.org/abs/2502.09386)|null|
 |**2025-02-13**|**Approximate Dynamical Quantum Error-Correcting Codes**|Nirupam Basak, Andrew Tanggara, Ankith Mohan, Goutam Paul, Kishor Bharti|[2502.09177](http://arxiv.org/abs/2502.09177)|null|
 |**2025-02-13**|**Scalable Optical Quantum State Synthesizer with Dual-Mode Cavity Memory**|Fumiya Hanamura, Kan Takase, Kazuki Hirota, Rajveer Nehra, Florian Lang, Shigehito Miki, Hirotaka Terai, Masahiro Yabuno, Takahiro Kashiwazaki, Asuka Inoue, Takeshi Umeki, Warit Asavanant, Mamoru Endo, Jun-ichi Yoshikawa, Akira Furusawa|[2502.09033](http://arxiv.org/abs/2502.09033)|null|
 |**2025-02-13**|**Quantum code division multiple access based continuous-variable quantum key distribution**|Shahnoor Ali, Neel Kanth Kundu|[2502.09019](http://arxiv.org/abs/2502.09019)|null|

@@ -17,15 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Violation of Bell inequalities from Cosmic Microwave Background data**|Roberto Dale, Jesús M. Gandía, Juan Antonio Morales-Lladosa, Ramon Lapiedra|[2502.13846](http://arxiv.org/abs/2502.13846)|null|
 |**2025-02-18**|**Fundamental constraints on quantum fluctuations: Conservation laws, reality, and no-signaling**|Thales Augusto Barbosa Pinto Silva, David Gelbwaser-Klimovsky|[2502.12905](http://arxiv.org/abs/2502.12905)|null|
-|**2025-02-18**|**Bell correlations between momentum-entangled pairs of $^4\text{He}^*$ atoms**|Y. S. Athreya, S. Kannan, X. T. Yan, R. J. Lewis-Swan, K. V. Kheruntsyan, A. G. Truscott, S. S. Hodgman|[2502.12392](http://arxiv.org/abs/2502.12392)|null|
+|**2025-02-19**|**Bell correlations between momentum-entangled pairs of $^4\text{He}^*$ atoms**|Y. S. Athreya, S. Kannan, X. T. Yan, R. J. Lewis-Swan, K. V. Kheruntsyan, A. G. Truscott, S. S. Hodgman|[2502.12392](http://arxiv.org/abs/2502.12392)|null|
 |**2025-02-17**|**Certification of quantum correlations and DIQKD at arbitrary distances through routed Bell tests**|Pavel Sekatski, Jef Pauwels, Edwin Peter Lobo, Stefano Pironio, Nicolas Brunner|[2502.12241](http://arxiv.org/abs/2502.12241)|null|
 |**2025-02-16**|**Comment on Consequences of the single-pair measurement of the Bell parameter**|Marian Kupczynski|[2502.11261](http://arxiv.org/abs/2502.11261)|null|
 |**2025-02-11**|**The Observational Partial Order of Causal Structures with Latent Variables**|Marina Maciel Ansanelli, Elie Wolfe, Robert W. Spekkens|[2502.07891](http://arxiv.org/abs/2502.07891)|**[link](https://github.com/eliewolfe/mDAG-analysis)**|
 |**2025-02-11**|**Testing spooky action between free-traveling electron-positron pairs**|Leyun Gao, Alim Ruzi, Qite Li, Chen Zhou, Qiang Li|[2502.07597](http://arxiv.org/abs/2502.07597)|null|
 |**2025-02-07**|**Stochastic interpretation of quantum mechanics assuming that vacuum fields are real**|Emilio Santos|[2502.06859](http://arxiv.org/abs/2502.06859)|null|
 |**2025-01-25**|**EPR Paradox, Bell Inequalities and Peculiarities of Quantum Correlations**|Apoorva D. Patel|[2502.06791](http://arxiv.org/abs/2502.06791)|null|
-|**2025-02-05**|**Bell Inequalities and Quantum Correlations in $H \rightarrow ZZ \rightarrow 2e\,2μ$**|Mira Varma, Oliver K. Baker|[2502.03219](http://arxiv.org/abs/2502.03219)|null|
+|**2025-02-19**|**Bell Inequalities and Quantum Correlations in $H \rightarrow ZZ \rightarrow 2e\,2μ$**|Mira Varma, Oliver K. Baker|[2502.03219](http://arxiv.org/abs/2502.03219)|null|
 |**2025-02-05**|**Certified Random Number Generation using Quantum Computers**|Pingal Pratyush Nath, Aninda Sinha, Urbasi Sinha|[2502.02973](http://arxiv.org/abs/2502.02973)|null|
 |**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu, Andrew Tanggara, Kishor Bharti|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
 |**2025-02-02**|**Long-distance Bell nonlocality and teleportation with hybrid entangled states**|Subhankar Bera, Soumyakanti Bose, Hyunseok Jeong, Archan S Majumdar|[2502.00707](http://arxiv.org/abs/2502.00707)|null|
@@ -490,6 +491,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Emergence of ecological structure and species rarity from fluctuating metabolic strategies**|Davide Zanchetta, Deepak Gupta, Sofia Moschin, Samir Suweis, Amos Maritan, Sandro Azaele|[2502.13720](http://arxiv.org/abs/2502.13720)|null|
 |**2025-01-28**|**Random attraction in TASEP with time-varying hopping rates**|Lars Grüne, Kilian Pioch, Thomas Kriecherbauer, Michael Margaliot|[2501.16777](http://arxiv.org/abs/2501.16777)|null|
 |**2025-02-02**|**Chromatic Quantum Contextuality**|Karl Svozil|[2501.15261](http://arxiv.org/abs/2501.15261)|null|
 |**2025-01-16**|**Quantum Contextual Hypergraphs, Operators, Inequalities, and Applications in Higher Dimensions**|Mladen Pavicic|[2501.09637](http://arxiv.org/abs/2501.09637)|null|
@@ -936,6 +938,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Diagnosing chaos with projected ensembles of process tensors**|Peter O'Donovan, Neil Dowling, Kavan Modi, Mark T. Mitchison|[2502.13930](http://arxiv.org/abs/2502.13930)|null|
 |**2025-02-17**|**Non-perturbative Overlaps in JT Gravity: From Spectral Form Factor to Generating Functions of Complexity**|Masamichi Miyaji, Shan-Ming Ruan, Shono Shibuya, Kazuyoshi Yano|[2502.12266](http://arxiv.org/abs/2502.12266)|null|
 |**2025-02-13**|**Generalized Cross-Entropy Benchmarking for Random Circuits with Ergodicity**|Bin Cheng, Fei Meng, Zhi-Jiong Zhang, Man-Hong Yung|[2502.09015](http://arxiv.org/abs/2502.09015)|null|
 |**2025-02-10**|**Energy dynamics in a class of local random matrix Hamiltonians**|Klée Pollock, Jonathan D. Kroth, Nathan Pagliaroli, Thomas Iadecola, Jonathon Riddell|[2502.05045](http://arxiv.org/abs/2502.05045)|null|
@@ -944,7 +947,7 @@
 |**2025-02-06**|**Improving and benchmarking NISQ qubit routers**|Vicente Pina-Canelles, Adrian Auer, Inés de Vega|[2502.03908](http://arxiv.org/abs/2502.03908)|null|
 |**2025-02-03**|**Non-Stabilizerness of Sachdev-Ye-Kitaev Model**|Surajit Bera, Marco Schirò|[2502.01582](http://arxiv.org/abs/2502.01582)|null|
 |**2025-02-03**|**Enhancing Quantum Metrology by Quantum Resonance Dynamics**|Zhixing Zou, Jiangbin Gong, Weitao Chen|[2502.01462](http://arxiv.org/abs/2502.01462)|null|
-|**2025-01-30**|**Bridging Entanglement and Magic Resources through Operator Space**|Neil Dowling, Kavan Modi, Gregory A. L. White|[2501.18679](http://arxiv.org/abs/2501.18679)|null|
+|**2025-02-19**|**Bridging Entanglement and Magic Resources through Operator Space**|Neil Dowling, Kavan Modi, Gregory A. L. White|[2501.18679](http://arxiv.org/abs/2501.18679)|null|
 |**2025-01-29**|**Measurement induced phase transition in a quantum Ising model by periodic measurements**|Paranjoy Chaki, Protyush Nandi, Ujjwal Sen, Subinay Dasgupta|[2501.17606](http://arxiv.org/abs/2501.17606)|null|
 |**2025-01-28**|**Probing quantum many-body dynamics using subsystem Loschmidt echos**|Simon Karch, Souvik Bandyopadhyay, Zheng-Hang Sun, Alexander Impertro, SeungJung Huh, Irene Prieto Rodríguez, Julian F. Wienand, Wolfgang Ketterle, Markus Heyl, Anatoli Polkovnikov, Immanuel Bloch, Monika Aidelsburger|[2501.16995](http://arxiv.org/abs/2501.16995)|null|
 |**2025-01-27**|**How to Design a Classically Difficult Random Quantum Circuit for Quantum Computational Advantage Experiments**|He-Liang Huang, Youwei Zhao, Chu Guo|[2501.16035](http://arxiv.org/abs/2501.16035)|null|
@@ -1371,6 +1374,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**On the Addressability Problem on CSS Codes**|Jérôme Guyot, Samuel Jaques|[2502.13889](http://arxiv.org/abs/2502.13889)|null|
 |**2025-02-17**|**Roadmap to fault tolerant quantum computation using topological qubit arrays**|David Aasen, Morteza Aghaee, Zulfi Alam, Mariusz Andrzejczuk, Andrey Antipov, Mikhail Astafev, Lukas Avilovas, Amin Barzegar, Bela Bauer, Jonathan Becker, Juan M. Bello-Rivas, Umesh Bhaskar, Alex Bocharov, Srini Boddapati, David Bohn, Jouri Bommer, Parsa Bonderson, Jan Borovsky, Leo Bourdet, Samuel Boutin, Tom Brown, Gary Campbell, Lucas Casparis, Srivatsa Chakravarthi, Rui Chao, Benjamin J. Chapman, Sohail Chatoor, Anna Wulff Christensen, Patrick Codd, William Cole, Paul Cooper, Fabiano Corsetti, Ajuan Cui, Wim van Dam, Tareq El Dandachi, Sahar Daraeizadeh, Adrian Dumitrascu, Andreas Ekefjärd, Saeed Fallahi, Luca Galletti, Geoff Gardner, Raghu Gatta, Haris Gavranovic, Michael Goulding, Deshan Govender, Flavio Griggio, Ruben Grigoryan, Sebastian Grijalva, Sergei Gronin, Jan Gukelberger, Jeongwan Haah, Marzie Hamdast, Esben Bork Hansen, Matthew Hastings, Sebastian Heedt, Samantha Ho, Justin Hogaboam, Laurens Holgaard, Kevin Van Hoogdalem, Jinnapat Indrapiromkul, Henrik Ingerslev, Lovro Ivancevic, Sarah Jablonski, Thomas Jensen, Jaspreet Jhoja, Jeffrey Jones, Kostya Kalashnikov, Ray Kallaher, Rachpon Kalra, Farhad Karimi, Torsten Karzig, Seth Kimes, Vadym Kliuchnikov, Maren Elisabeth Kloster, Christina Knapp, Derek Knee, Jonne Koski, Pasi Kostamo, Jamie Kuesel, Brad Lackey, Tom Laeven, Jeffrey Lai, Gijs de Lange, Thorvald Larsen, Jason Lee, Kyunghoon Lee, Grant Leum, Kongyi Li, Tyler Lindemann, Marijn Lucas, Roman Lutchyn, Morten Hannibal Madsen, Nash Madulid, Michael Manfra, Signe Brynold Markussen, Esteban Martinez, Marco Mattila, Jake Mattinson, Robert McNeil, Antonio Rodolph Mei, Ryan V. Mishmash, Gopakumar Mohandas, Christian Mollgaard, Michiel de Moor, Trevor Morgan, George Moussa, Anirudh Narla, Chetan Nayak, Jens Hedegaard Nielsen, William Hvidtfelt Padkær Nielsen, Frédéric Nolet, Mike Nystrom, Eoin O'Farrell, Keita Otani, Adam Paetznick, Camille Papon, Andres Paz, Karl Petersson, Luca Petit, Dima Pikulin, Diego Olivier Fernandez Pons, Sam Quinn, Mohana Rajpalke, Alejandro Alcaraz Ramirez, Katrine Rasmussen, David Razmadze, Ben Reichardt, Yuan Ren, Ken Reneris, Roy Riccomini, Ivan Sadovskyy, Lauri Sainiemi, Juan Carlos Estrada Saldaña, Irene Sanlorenzo, Simon Schaal, Emma Schmidgall, Cristina Sfiligoj, Marcus P. da Silva, Sarat Sinha, Mathias Soeken, Patrick Sohr, Tomas Stankevic, Lieuwe Stek, Patrick Strøm-Hansen, Eric Stuppard, Aarthi Sundaram, Henri Suominen, Judith Suter, Satoshi Suzuki, Krysta Svore, Sam Teicher, Nivetha Thiyagarajah, Raj Tholapi, Mason Thomas, Dennis Tom, Emily Toomey, Josh Tracy, Matthias Troyer, Michelle Turley, Matthew D. Turner, Shivendra Upadhyay, Ivan Urban, Alexander Vaschillo, Dmitrii Viazmitinov, Dominik Vogel, Zhenghan Wang, John Watson, Alex Webster, Joseph Weston, Timothy Williamson, Georg W. Winkler, David J. van Woerkom, Brian Paquelet Wütz, Chung Kai Yang, Richard Yu, Emrah Yucelen, Jesús Herranz Zamorano, Roland Zeisel, Guoji Zheng, Justin Zilke, Andrew Zimmerman|[2502.12252](http://arxiv.org/abs/2502.12252)|null|
 |**2025-02-17**|**Increasing the distance of topological codes with time vortex defects**|Gilad Kishony, Erez Berg|[2502.12236](http://arxiv.org/abs/2502.12236)|null|
 |**2025-02-17**|**Self-orthogonal codes from plateaued functions and their applications in quantum codes and LCD codes**|Yadi Wei, Jiaxin Wang, Fang-Wei Fu|[2502.11599](http://arxiv.org/abs/2502.11599)|null|

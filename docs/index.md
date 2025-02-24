@@ -13,11 +13,11 @@ layout: default
 |**2025-02-19**|**Bell correlations between momentum-entangled pairs of $^4\text{He}^*$ atoms**|Y. S. Athreya, S. Kannan, X. T. Yan, R. J. Lewis-Swan, K. V. Kheruntsyan, A. G. Truscott, S. S. Hodgman|[2502.12392](http://arxiv.org/abs/2502.12392)|null|
 |**2025-02-17**|**Certification of quantum correlations and DIQKD at arbitrary distances through routed Bell tests**|Pavel Sekatski, Jef Pauwels, Edwin Peter Lobo, Stefano Pironio, Nicolas Brunner|[2502.12241](http://arxiv.org/abs/2502.12241)|null|
 |**2025-02-16**|**Comment on Consequences of the single-pair measurement of the Bell parameter**|Marian Kupczynski|[2502.11261](http://arxiv.org/abs/2502.11261)|null|
-|**2025-02-11**|**The Observational Partial Order of Causal Structures with Latent Variables**|Marina Maciel Ansanelli, Elie Wolfe, Robert W. Spekkens|[2502.07891](http://arxiv.org/abs/2502.07891)|**[link](https://github.com/eliewolfe/mDAG-analysis)**|
+|**2025-02-21**|**The Observational Partial Order of Causal Structures with Latent Variables**|Marina Maciel Ansanelli, Elie Wolfe, Robert W. Spekkens|[2502.07891](http://arxiv.org/abs/2502.07891)|**[link](https://github.com/eliewolfe/mDAG-analysis)**|
 |**2025-02-11**|**Testing spooky action between free-traveling electron-positron pairs**|Leyun Gao, Alim Ruzi, Qite Li, Chen Zhou, Qiang Li|[2502.07597](http://arxiv.org/abs/2502.07597)|null|
 |**2025-02-07**|**Stochastic interpretation of quantum mechanics assuming that vacuum fields are real**|Emilio Santos|[2502.06859](http://arxiv.org/abs/2502.06859)|null|
 |**2025-01-25**|**EPR Paradox, Bell Inequalities and Peculiarities of Quantum Correlations**|Apoorva D. Patel|[2502.06791](http://arxiv.org/abs/2502.06791)|null|
-|**2025-02-19**|**Bell Inequalities and Quantum Correlations in $H \rightarrow ZZ \rightarrow 2e\,2μ$**|Mira Varma, Oliver K. Baker|[2502.03219](http://arxiv.org/abs/2502.03219)|null|
+|**2025-02-21**|**Bell Inequalities and Quantum Correlations in $H \rightarrow ZZ \rightarrow 2e\,2μ$**|Mira Varma, Oliver K. Baker|[2502.03219](http://arxiv.org/abs/2502.03219)|null|
 |**2025-02-05**|**Certified Random Number Generation using Quantum Computers**|Pingal Pratyush Nath, Aninda Sinha, Urbasi Sinha|[2502.02973](http://arxiv.org/abs/2502.02973)|null|
 |**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu, Andrew Tanggara, Kishor Bharti|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
 |**2025-02-02**|**Long-distance Bell nonlocality and teleportation with hybrid entangled states**|Subhankar Bera, Soumyakanti Bose, Hyunseok Jeong, Archan S Majumdar|[2502.00707](http://arxiv.org/abs/2502.00707)|null|
@@ -721,6 +721,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Efficient approximation of regularized relative entropies and applications**|Kun Fang, Hamza Fawzi, Omar Fawzi|[2502.15659](http://arxiv.org/abs/2502.15659)|null|
+|**2025-02-21**|**Towards a Reward-Free Reinforcement Learning Framework for Vehicle Control**|Jielong Yang, Daoyuan Huang|[2502.15262](http://arxiv.org/abs/2502.15262)|null|
 |**2025-02-20**|**Tracking and Assigning Jobs to a Markov Machine**|Subhankar Banerjee, Sennur Ulukus|[2502.14783](http://arxiv.org/abs/2502.14783)|null|
 |**2025-02-13**|**One-shot manipulation of coherence in dynamic quantum resource theory**|Yu Luo|[2502.09345](http://arxiv.org/abs/2502.09345)|null|
 |**2025-02-11**|**Interplay of resources for universal continuous-variable quantum computing**|Varun Upreti, Ulysse Chabaud|[2502.07670](http://arxiv.org/abs/2502.07670)|null|

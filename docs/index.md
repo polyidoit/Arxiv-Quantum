@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Incompleteness of Bell's theorem**|J. F. Geurdes|[2502.15808](http://arxiv.org/abs/2502.15808)|null|
 |**2025-02-19**|**Violation of Bell inequalities from Cosmic Microwave Background data**|Roberto Dale, Jesús M. Gandía, Juan Antonio Morales-Lladosa, Ramon Lapiedra|[2502.13846](http://arxiv.org/abs/2502.13846)|null|
 |**2025-02-18**|**Fundamental constraints on quantum fluctuations: Conservation laws, reality, and no-signaling**|Thales Augusto Barbosa Pinto Silva, David Gelbwaser-Klimovsky|[2502.12905](http://arxiv.org/abs/2502.12905)|null|
 |**2025-02-19**|**Bell correlations between momentum-entangled pairs of $^4\text{He}^*$ atoms**|Y. S. Athreya, S. Kannan, X. T. Yan, R. J. Lewis-Swan, K. V. Kheruntsyan, A. G. Truscott, S. S. Hodgman|[2502.12392](http://arxiv.org/abs/2502.12392)|null|
@@ -478,6 +479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Pauli Blocking effects in Nilsson states of weakly bound exotic nuclei**|P. Punta, J. A. Lay, A. M. Moro, G. Colò|[2502.16990](http://arxiv.org/abs/2502.16990)|null|
 |**2025-02-19**|**Emergence of ecological structure and species rarity from fluctuating metabolic strategies**|Davide Zanchetta, Deepak Gupta, Sofia Moschin, Samir Suweis, Amos Maritan, Sandro Azaele|[2502.13720](http://arxiv.org/abs/2502.13720)|null|
 |**2025-01-28**|**Random attraction in TASEP with time-varying hopping rates**|Lars Grüne, Kilian Pioch, Thomas Kriecherbauer, Michael Margaliot|[2501.16777](http://arxiv.org/abs/2501.16777)|null|
 |**2025-02-02**|**Chromatic Quantum Contextuality**|Karl Svozil|[2501.15261](http://arxiv.org/abs/2501.15261)|null|
@@ -607,6 +609,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Measuring network quantum steerability utilizing artificial neural networks**|Mengyan Li, Yanning Jia, Fenzhuo Guo, Haifeng Dong, Sujuan Qin, Fei Gao|[2502.17084](http://arxiv.org/abs/2502.17084)|null|
 |**2025-02-17**|**Certification of quantum correlations and DIQKD at arbitrary distances through routed Bell tests**|Pavel Sekatski, Jef Pauwels, Edwin Peter Lobo, Stefano Pironio, Nicolas Brunner|[2502.12241](http://arxiv.org/abs/2502.12241)|null|
 |**2025-02-10**|**Detecting entanglement in any measurement using quantum networks**|Shubhayan Sarkar|[2502.06986](http://arxiv.org/abs/2502.06986)|null|
 |**2025-02-09**|**Perfect Transfer of Entanglement and One-Way Quantum Steering via Parametric Frequency Converter in a Two-mode Cavity Magnomechanical System**|Amjad Sohail, Allah Nawaz, Hazrat Ali, Rizwan Ahmed, Marcos Cesar de Oliveira|[2502.06040](http://arxiv.org/abs/2502.06040)|null|
@@ -721,6 +724,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Continuous Patch Stitching for Block-wise Image Compression**|Zifu Zhang, Shengxi Li, Henan Liu, Mai Xu, Ce Zhu|[2502.16795](http://arxiv.org/abs/2502.16795)|null|
+|**2025-02-23**|**Flow and Noise Control of a Cylinder with Annular Plates**|Faezeh Eydi|[2502.16676](http://arxiv.org/abs/2502.16676)|null|
+|**2025-02-22**|**Polygraphic resolutions for operated algebras**|Zuan Liu, Philippe Malbos|[2502.16304](http://arxiv.org/abs/2502.16304)|null|
 |**2025-02-21**|**Efficient approximation of regularized relative entropies and applications**|Kun Fang, Hamza Fawzi, Omar Fawzi|[2502.15659](http://arxiv.org/abs/2502.15659)|null|
 |**2025-02-21**|**Towards a Reward-Free Reinforcement Learning Framework for Vehicle Control**|Jielong Yang, Daoyuan Huang|[2502.15262](http://arxiv.org/abs/2502.15262)|null|
 |**2025-02-20**|**Tracking and Assigning Jobs to a Markov Machine**|Subhankar Banerjee, Sennur Ulukus|[2502.14783](http://arxiv.org/abs/2502.14783)|null|
@@ -922,6 +928,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Scalable quantum circuit simulation of a chaotic Ising chain**|Sabyasachi Chakraborty, Rohit Sarma Sarkar, Sonjoy Majumder|[2502.17286](http://arxiv.org/abs/2502.17286)|null|
+|**2025-02-23**|**A graph-theoretic approach to chaos and complexity in quantum systems**|Maxwell West, Neil Dowling, Angus Southwell, Martin Sevior, Muhammad Usman, Kavan Modi, Thomas Quella|[2502.16404](http://arxiv.org/abs/2502.16404)|null|
+|**2025-02-21**|**Absence of censoring inequalities in random quantum circuits**|Daniel Belkin, James Allen, Bryan K. Clark|[2502.15995](http://arxiv.org/abs/2502.15995)|null|
 |**2025-02-19**|**Diagnosing chaos with projected ensembles of process tensors**|Peter O'Donovan, Neil Dowling, Kavan Modi, Mark T. Mitchison|[2502.13930](http://arxiv.org/abs/2502.13930)|null|
 |**2025-02-17**|**Non-perturbative Overlaps in JT Gravity: From Spectral Form Factor to Generating Functions of Complexity**|Masamichi Miyaji, Shan-Ming Ruan, Shono Shibuya, Kazuyoshi Yano|[2502.12266](http://arxiv.org/abs/2502.12266)|null|
 |**2025-02-13**|**Generalized Cross-Entropy Benchmarking for Random Circuits with Ergodicity**|Bin Cheng, Fei Meng, Zhi-Jiong Zhang, Man-Hong Yung|[2502.09015](http://arxiv.org/abs/2502.09015)|null|
@@ -1356,9 +1365,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Beyond NISQ: The Megaquop Machine**|John Preskill|[2502.17368](http://arxiv.org/abs/2502.17368)|null|
+|**2025-02-24**|**Existence and Characterisation of Coprime Bivariate Bicycle Codes**|Jasper Johannes Postema, Servaas J. J. M. F. Kokkelmans|[2502.17052](http://arxiv.org/abs/2502.17052)|null|
+|**2025-02-24**|**Simple magic state calculations using `Improved Simulation of Stabilizer Circuits'**|Kwok Ho Wan|[2502.16939](http://arxiv.org/abs/2502.16939)|null|
+|**2025-02-23**|**Decision-tree decoders for general quantum LDPC codes**|Kai R. Ott, Bence Hetényi, Michael E. Beverland|[2502.16408](http://arxiv.org/abs/2502.16408)|null|
 |**2025-02-20**|**Adaptive Syndrome Extraction**|Noah Berthusen, Shi Jie Samuel Tan, Eric Huang, Daniel Gottesman|[2502.14835](http://arxiv.org/abs/2502.14835)|null|
 |**2025-02-20**|**Micro Blossom: Accelerated Minimum-Weight Perfect Matching Decoding for Quantum Error Correction**|Yue Wu, Namitha Liyanage, Lin Zhong|[2502.14787](http://arxiv.org/abs/2502.14787)|null|
-|**2025-02-20**|**Packaged Quantum States for Quantum Simulation of Lattice Gauge Theories**|Rongchao Ma|[2502.14654](http://arxiv.org/abs/2502.14654)|null|
+|**2025-02-22**|**Packaged Quantum States for Quantum Simulation of Lattice Gauge Theories**|Rongchao Ma|[2502.14654](http://arxiv.org/abs/2502.14654)|null|
 |**2025-02-20**|**Passive leakage removal unit based on a disordered transmon array**|Gonzalo Martín-Vázquez, Taneli Tolppanen, Matti Silveri|[2502.14391](http://arxiv.org/abs/2502.14391)|null|
 |**2025-02-20**|**Discovering highly efficient low-weight quantum error-correcting codes with reinforcement learning**|Austin Yubo He, Zi-Wen Liu|[2502.14372](http://arxiv.org/abs/2502.14372)|null|
 |**2025-02-20**|**A Quantum Analog of Delsarte's Linear Programming Bounds**|Rui Okada|[2502.14165](http://arxiv.org/abs/2502.14165)|null|

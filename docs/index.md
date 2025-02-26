@@ -18,7 +18,7 @@ layout: default
 |**2025-02-11**|**Testing spooky action between free-traveling electron-positron pairs**|Leyun Gao, Alim Ruzi, Qite Li, Chen Zhou, Qiang Li|[2502.07597](http://arxiv.org/abs/2502.07597)|null|
 |**2025-02-07**|**Stochastic interpretation of quantum mechanics assuming that vacuum fields are real**|Emilio Santos|[2502.06859](http://arxiv.org/abs/2502.06859)|null|
 |**2025-01-25**|**EPR Paradox, Bell Inequalities and Peculiarities of Quantum Correlations**|Apoorva D. Patel|[2502.06791](http://arxiv.org/abs/2502.06791)|null|
-|**2025-02-21**|**Bell Inequalities and Quantum Correlations in $H \rightarrow ZZ \rightarrow 2e\,2μ$**|Mira Varma, Oliver K. Baker|[2502.03219](http://arxiv.org/abs/2502.03219)|null|
+|**2025-02-25**|**Bell Inequalities and Quantum Correlations in $H \rightarrow ZZ \rightarrow 2e\,2μ$**|Mira Varma, Oliver K. Baker|[2502.03219](http://arxiv.org/abs/2502.03219)|null|
 |**2025-02-05**|**Certified Random Number Generation using Quantum Computers**|Pingal Pratyush Nath, Aninda Sinha, Urbasi Sinha|[2502.02973](http://arxiv.org/abs/2502.02973)|null|
 |**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu, Andrew Tanggara, Kishor Bharti|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
 |**2025-02-02**|**Long-distance Bell nonlocality and teleportation with hybrid entangled states**|Subhankar Bera, Soumyakanti Bose, Hyunseok Jeong, Archan S Majumdar|[2502.00707](http://arxiv.org/abs/2502.00707)|null|
@@ -928,6 +928,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Onset of Quantum Chaos and Ergoditicy in Spin Systems with Highly Degenerate Hilbert Spaces**|Mahmoud Abdelshafy, Rubem Mondaini, Marcos Rigol|[2502.17594](http://arxiv.org/abs/2502.17594)|null|
 |**2025-02-24**|**Scalable quantum circuit simulation of a chaotic Ising chain**|Sabyasachi Chakraborty, Rohit Sarma Sarkar, Sonjoy Majumder|[2502.17286](http://arxiv.org/abs/2502.17286)|null|
 |**2025-02-23**|**A graph-theoretic approach to chaos and complexity in quantum systems**|Maxwell West, Neil Dowling, Angus Southwell, Martin Sevior, Muhammad Usman, Kavan Modi, Thomas Quella|[2502.16404](http://arxiv.org/abs/2502.16404)|null|
 |**2025-02-21**|**Absence of censoring inequalities in random quantum circuits**|Daniel Belkin, James Allen, Bryan K. Clark|[2502.15995](http://arxiv.org/abs/2502.15995)|null|
@@ -1365,8 +1366,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Experimentally Informed Decoding of Stabilizer Codes Based on Syndrome Correlations**|Ants Remm, Nathan Lacroix, Lukas Bödeker, Elie Genois, Christoph Hellings, François Swiadek, Graham J. Norris, Christopher Eichler, Alexandre Blais, Markus Müller, Sebastian Krinner, Andreas Wallraff|[2502.17722](http://arxiv.org/abs/2502.17722)|null|
+|**2025-02-24**|**Detecting emergent 1-form symmetries with quantum error correction**|Yu-Jie Liu, Wen-Tao Xu, Frank Pollmann, Michael Knap|[2502.17572](http://arxiv.org/abs/2502.17572)|null|
 |**2025-02-24**|**Beyond NISQ: The Megaquop Machine**|John Preskill|[2502.17368](http://arxiv.org/abs/2502.17368)|null|
-|**2025-02-24**|**Existence and Characterisation of Coprime Bivariate Bicycle Codes**|Jasper Johannes Postema, Servaas J. J. M. F. Kokkelmans|[2502.17052](http://arxiv.org/abs/2502.17052)|null|
+|**2025-02-25**|**Existence and Characterisation of Coprime Bivariate Bicycle Codes**|Jasper Johannes Postema, Servaas J. J. M. F. Kokkelmans|[2502.17052](http://arxiv.org/abs/2502.17052)|null|
 |**2025-02-24**|**Simple magic state calculations using `Improved Simulation of Stabilizer Circuits'**|Kwok Ho Wan|[2502.16939](http://arxiv.org/abs/2502.16939)|null|
 |**2025-02-23**|**Decision-tree decoders for general quantum LDPC codes**|Kai R. Ott, Bence Hetényi, Michael E. Beverland|[2502.16408](http://arxiv.org/abs/2502.16408)|null|
 |**2025-02-20**|**Adaptive Syndrome Extraction**|Noah Berthusen, Shi Jie Samuel Tan, Eric Huang, Daniel Gottesman|[2502.14835](http://arxiv.org/abs/2502.14835)|null|

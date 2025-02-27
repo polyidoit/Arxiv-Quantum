@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**From Staging to Insight: An Educational Path to Understanding Bell's Inequalities**|Valentina De Renzi, Matteo G. A. Paris, Maria Bondani|[2502.18543](http://arxiv.org/abs/2502.18543)|null|
 |**2025-02-19**|**Incompleteness of Bell's theorem**|J. F. Geurdes|[2502.15808](http://arxiv.org/abs/2502.15808)|null|
 |**2025-02-19**|**Violation of Bell inequalities from Cosmic Microwave Background data**|Roberto Dale, Jesús M. Gandía, Juan Antonio Morales-Lladosa, Ramon Lapiedra|[2502.13846](http://arxiv.org/abs/2502.13846)|null|
 |**2025-02-18**|**Fundamental constraints on quantum fluctuations: Conservation laws, reality, and no-signaling**|Thales Augusto Barbosa Pinto Silva, David Gelbwaser-Klimovsky|[2502.12905](http://arxiv.org/abs/2502.12905)|null|
@@ -928,6 +929,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**The chiral SYK model in three-dimensional holography**|Alexander Altland, Dmitry Bagrets, Nele Callebaut, Konstantin Weisenberger|[2502.19370](http://arxiv.org/abs/2502.19370)|null|
 |**2025-02-24**|**Onset of Quantum Chaos and Ergoditicy in Spin Systems with Highly Degenerate Hilbert Spaces**|Mahmoud Abdelshafy, Rubem Mondaini, Marcos Rigol|[2502.17594](http://arxiv.org/abs/2502.17594)|null|
 |**2025-02-24**|**Scalable quantum circuit simulation of a chaotic Ising chain**|Sabyasachi Chakraborty, Rohit Sarma Sarkar, Sonjoy Majumder|[2502.17286](http://arxiv.org/abs/2502.17286)|null|
 |**2025-02-23**|**A graph-theoretic approach to chaos and complexity in quantum systems**|Maxwell West, Neil Dowling, Angus Southwell, Martin Sevior, Muhammad Usman, Kavan Modi, Thomas Quella|[2502.16404](http://arxiv.org/abs/2502.16404)|null|
@@ -1366,6 +1368,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Single-shot and two-shot decoding with generalized bicycle codes**|Hsiang-Ku Lin, Xingrui Liu, Pak Kau Lim, Leonid P. Pryadko|[2502.19406](http://arxiv.org/abs/2502.19406)|null|
+|**2025-02-26**|**The Octo-Rail Lattice: a four-dimensional cluster state design**|Emil E. B. Østergaard, Niklas Budinger, Mikkel V. Larsen, Peter van Loock, Jonas S. Neergaard-Nielsen, Ulrik L. Andersen|[2502.19393](http://arxiv.org/abs/2502.19393)|null|
+|**2025-02-26**|**Cylindrical and Möbius Quantum Codes for Asymmetric Pauli Errors**|Lorenzo Valentini, Diego Forlivesi, Marco Chiani|[2502.19089](http://arxiv.org/abs/2502.19089)|null|
+|**2025-02-26**|**Impact of deep learning model uncertainty on manual corrections to auto-segmentation in prostate cancer radiotherapy**|Viktor Rogowski, Angelica Svalkvist, Matteo Maspero, Tomas Janssen, Federica Carmen Maruccio, Jenny Gorgisyan, Jonas Scherman, Ida Häggström, Victor Wåhlstrand, Adalsteinn Gunnlaugsson, Martin P Nilsson, Mathieu Moreau, Nándor Vass, Niclas Pettersson, Christian Jamtheim Gustafsson|[2502.18973](http://arxiv.org/abs/2502.18973)|null|
+|**2025-02-26**|**Scalable Low-overhead Superconducting Non-local Coupler with Exponentially Enhanced Connectivity**|Haonan Xiong, Jiahui Wang, Juan Song, Jize Yang, Zenghui Bao, Yan Li, Zhen-Yu Mi, Hongyi Zhang, Hai-Feng Yu, Yipu Song, Luming Duan|[2502.18902](http://arxiv.org/abs/2502.18902)|null|
 |**2025-02-24**|**Experimentally Informed Decoding of Stabilizer Codes Based on Syndrome Correlations**|Ants Remm, Nathan Lacroix, Lukas Bödeker, Elie Genois, Christoph Hellings, François Swiadek, Graham J. Norris, Christopher Eichler, Alexandre Blais, Markus Müller, Sebastian Krinner, Andreas Wallraff|[2502.17722](http://arxiv.org/abs/2502.17722)|null|
 |**2025-02-24**|**Detecting emergent 1-form symmetries with quantum error correction**|Yu-Jie Liu, Wen-Tao Xu, Frank Pollmann, Michael Knap|[2502.17572](http://arxiv.org/abs/2502.17572)|null|
 |**2025-02-24**|**Beyond NISQ: The Megaquop Machine**|John Preskill|[2502.17368](http://arxiv.org/abs/2502.17368)|null|

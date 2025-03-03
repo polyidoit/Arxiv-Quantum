@@ -393,6 +393,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Quantum information elements in Quantum Gravity states and processes**|Daniele Oriti|[2502.21234](http://arxiv.org/abs/2502.21234)|null|
 |**2025-02-07**|**Cyclic functional causal models beyond unique solvability with a graph separation theorem**|Carla Ferradini, Victor Gitton, V. Vilasini|[2502.04171](http://arxiv.org/abs/2502.04171)|null|
 |**2025-02-07**|**Cyclic quantum causal modelling with a graph separation theorem**|Carla Ferradini, Victor Gitton, V. Vilasini|[2502.04168](http://arxiv.org/abs/2502.04168)|null|
 |**2025-01-27**|**Optimizer-Dependent Generalization Bound for Quantum Neural Networks**|Chenghong Zhu, Hongshun Yao, Yingjian Liu, Xin Wang|[2501.16228](http://arxiv.org/abs/2501.16228)|null|
@@ -1389,6 +1390,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Improving error suppression with noise-aware decoding**|Evan T. Hockings, Andrew C. Doherty, Robin Harper|[2502.21044](http://arxiv.org/abs/2502.21044)|null|
+|**2025-02-28**|**Digital-Controlled Method of Conveyor-Belt Spin Shuttling in Silicon for Large-Scale Quantum Computation**|Ryo Nagai, Takashi Takemoto, Yusuke Wachi, Hiroyuki Mizuno|[2502.20955](http://arxiv.org/abs/2502.20955)|null|
+|**2025-02-27**|**Leveraging Atom Loss Errors in Fault Tolerant Quantum Algorithms**|Gefen Baranes, Madelyn Cain, J. Pablo Bonilla Ataides, Dolev Bluvstein, Josiah Sinclair, Vladan Vuletic, Hengyun Zhou, Mikhail D. Lukin|[2502.20558](http://arxiv.org/abs/2502.20558)|null|
 |**2025-02-27**|**Moderate-length lifted quantum Tanner codes**|Virgile Guemard, Gilles Zémor|[2502.20297](http://arxiv.org/abs/2502.20297)|null|
 |**2025-02-27**|**On the interpretability of neural network decoders**|Lukas Bödeker, Luc J. B. Kusters, Markus Müller|[2502.20269](http://arxiv.org/abs/2502.20269)|null|
 |**2025-02-27**|**Quantum LDPC codes for erasure-biased atomic quantum processors**|Laura Pecorari, Guido Pupillo|[2502.20189](http://arxiv.org/abs/2502.20189)|null|

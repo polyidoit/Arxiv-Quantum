@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-25**|**From Staging to Insight: An Educational Path to Understanding Bell's Inequalities**|Valentina De Renzi, Matteo G. A. Paris, Maria Bondani|[2502.18543](http://arxiv.org/abs/2502.18543)|null|
+|**2025-03-02**|**From Staging to Insight: An Educational Path to Understanding Bell's Inequalities**|Valentina De Renzi, Matteo G. A. Paris, Maria Bondani|[2502.18543](http://arxiv.org/abs/2502.18543)|null|
 |**2025-02-19**|**Incompleteness of Bell's theorem**|J. F. Geurdes|[2502.15808](http://arxiv.org/abs/2502.15808)|null|
 |**2025-02-19**|**Violation of Bell inequalities from Cosmic Microwave Background data**|Roberto Dale, Jesús M. Gandía, Juan Antonio Morales-Lladosa, Ramon Lapiedra|[2502.13846](http://arxiv.org/abs/2502.13846)|null|
 |**2025-02-18**|**Fundamental constraints on quantum fluctuations: Conservation laws, reality, and no-signaling**|Thales Augusto Barbosa Pinto Silva, David Gelbwaser-Klimovsky|[2502.12905](http://arxiv.org/abs/2502.12905)|null|

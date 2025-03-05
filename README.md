@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-02**|**Simulating quantum instruments with projective measurements and quantum post-processing**|Shishir Khandelwal, Armin Tavakoli|[2503.00956](http://arxiv.org/abs/2503.00956)|null|
 |**2025-03-02**|**From Staging to Insight: An Educational Path to Understanding Bell's Inequalities**|Valentina De Renzi, Matteo G. A. Paris, Maria Bondani|[2502.18543](http://arxiv.org/abs/2502.18543)|null|
 |**2025-02-19**|**Incompleteness of Bell's theorem**|J. F. Geurdes|[2502.15808](http://arxiv.org/abs/2502.15808)|null|
 |**2025-02-19**|**Violation of Bell inequalities from Cosmic Microwave Background data**|Roberto Dale, Jesús M. Gandía, Juan Antonio Morales-Lladosa, Ramon Lapiedra|[2502.13846](http://arxiv.org/abs/2502.13846)|null|
@@ -494,6 +495,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-03**|**Derivation of Hierarchically Correlated Orbital Functional Theory: The Role of Hypercomplex Orbitals**|Ting Zhang, Neil Qiang Su|[2503.01207](http://arxiv.org/abs/2503.01207)|null|
+|**2025-03-02**|**Multispecies inhomogeneous $t$ -PushTASEP from antisymmetric fusion**|Arvind Ayyer, Atsuo Kuniba|[2503.00829](http://arxiv.org/abs/2503.00829)|null|
+|**2025-03-02**|**Possible Explanation of $F_2^n/F_2^p$ at Large $x$ Using Quantum Statistical Mechanics**|C. Bourrely, F. Buccella, W. C. Chang, D. Di Bari, P. H. Frampton, J. C. Peng|[2503.00693](http://arxiv.org/abs/2503.00693)|null|
 |**2025-02-24**|**Pauli Blocking effects in Nilsson states of weakly bound exotic nuclei**|P. Punta, J. A. Lay, A. M. Moro, G. Colò|[2502.16990](http://arxiv.org/abs/2502.16990)|null|
 |**2025-02-19**|**Emergence of ecological structure and species rarity from fluctuating metabolic strategies**|Davide Zanchetta, Deepak Gupta, Sofia Moschin, Samir Suweis, Amos Maritan, Sandro Azaele|[2502.13720](http://arxiv.org/abs/2502.13720)|null|
 |**2025-01-28**|**Random attraction in TASEP with time-varying hopping rates**|Lars Grüne, Kilian Pioch, Thomas Kriecherbauer, Michael Margaliot|[2501.16777](http://arxiv.org/abs/2501.16777)|null|
@@ -949,6 +953,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-03**|**Noise effects on the diagnostics of quantum chaos**|Tingfei Li|[2503.01279](http://arxiv.org/abs/2503.01279)|null|
+|**2025-03-02**|**Revealing quantum operator scrambling via measuring Holevo information on digital quantum simulators**|Bin Sun, Geng-Bin Cao, Xi-Dan Hu, Dan-Bo Zhang|[2503.00918](http://arxiv.org/abs/2503.00918)|null|
+|**2025-03-01**|**Characterizing the mixed eigenstates in kicked top model through the out-of-time-order correlator**|Qian Wang, Marko Robnik|[2503.00394](http://arxiv.org/abs/2503.00394)|null|
+|**2025-02-28**|**Universality in the Anticoncentration of Chaotic Quantum Circuits**|Arman Sauliere, Beatrice Magni, Guglielmo Lami, Xhek Turkeshi, Jacopo De Nardis|[2503.00119](http://arxiv.org/abs/2503.00119)|null|
 |**2025-02-26**|**The chiral SYK model in three-dimensional holography**|Alexander Altland, Dmitry Bagrets, Nele Callebaut, Konstantin Weisenberger|[2502.19370](http://arxiv.org/abs/2502.19370)|null|
 |**2025-02-24**|**Onset of Quantum Chaos and Ergoditicy in Spin Systems with Highly Degenerate Hilbert Spaces**|Mahmoud Abdelshafy, Rubem Mondaini, Marcos Rigol|[2502.17594](http://arxiv.org/abs/2502.17594)|null|
 |**2025-02-24**|**Scalable quantum circuit simulation of a chaotic Ising chain**|Sabyasachi Chakraborty, Rohit Sarma Sarkar, Sonjoy Majumder|[2502.17286](http://arxiv.org/abs/2502.17286)|null|
@@ -1390,6 +1398,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset**|Haider Asif, Abdul Basit, Nouhaila Innan, Muhammad Kashif, Alberto Marchisio, Muhammad Shafique|[2503.02497](http://arxiv.org/abs/2503.02497)|null|
+|**2025-03-03**|**Automorphism Ensemble Decoding of Quantum LDPC Codes**|Stergios Koutsioumpas, Hasan Sayginel, Mark Webster, Dan E Browne|[2503.01738](http://arxiv.org/abs/2503.01738)|null|
+|**2025-03-03**|**Unconditionally stable time discretization of Lindblad master equations in infinite dimension using quantum channels**|Rémi Robin, Pierre Rouchon, Lev-Arcady Sellem|[2503.01712](http://arxiv.org/abs/2503.01712)|null|
+|**2025-03-02**|**Scalable Memory Recycling for Large Quantum Programs**|Israel Reichental, Ravid Alon, Lior Preminger, Matan Vax, Amir Naveh|[2503.00822](http://arxiv.org/abs/2503.00822)|null|
 |**2025-02-28**|**Improving error suppression with noise-aware decoding**|Evan T. Hockings, Andrew C. Doherty, Robin Harper|[2502.21044](http://arxiv.org/abs/2502.21044)|null|
 |**2025-02-28**|**Digital-Controlled Method of Conveyor-Belt Spin Shuttling in Silicon for Large-Scale Quantum Computation**|Ryo Nagai, Takashi Takemoto, Yusuke Wachi, Hiroyuki Mizuno|[2502.20955](http://arxiv.org/abs/2502.20955)|null|
 |**2025-02-27**|**Leveraging Atom Loss Errors in Fault Tolerant Quantum Algorithms**|Gefen Baranes, Madelyn Cain, J. Pablo Bonilla Ataides, Dolev Bluvstein, Josiah Sinclair, Vladan Vuletic, Hengyun Zhou, Mikhail D. Lukin|[2502.20558](http://arxiv.org/abs/2502.20558)|null|

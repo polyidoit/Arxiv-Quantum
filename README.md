@@ -753,7 +753,7 @@
 |**2025-02-21**|**Efficient approximation of regularized relative entropies and applications**|Kun Fang, Hamza Fawzi, Omar Fawzi|[2502.15659](http://arxiv.org/abs/2502.15659)|null|
 |**2025-02-21**|**Towards a Reward-Free Reinforcement Learning Framework for Vehicle Control**|Jielong Yang, Daoyuan Huang|[2502.15262](http://arxiv.org/abs/2502.15262)|null|
 |**2025-02-20**|**Tracking and Assigning Jobs to a Markov Machine**|Subhankar Banerjee, Sennur Ulukus|[2502.14783](http://arxiv.org/abs/2502.14783)|null|
-|**2025-02-13**|**One-shot manipulation of coherence in dynamic quantum resource theory**|Yu Luo|[2502.09345](http://arxiv.org/abs/2502.09345)|null|
+|**2025-03-05**|**One-shot manipulation of coherence in dynamic quantum resource theory**|Yu Luo|[2502.09345](http://arxiv.org/abs/2502.09345)|null|
 |**2025-02-11**|**Interplay of resources for universal continuous-variable quantum computing**|Varun Upreti, Ulysse Chabaud|[2502.07670](http://arxiv.org/abs/2502.07670)|null|
 |**2025-02-05**|**Fine-Tuning Strategies for Continual Online EEG Motor Imagery Decoding: Insights from a Large-Scale Longitudinal Study**|Martin Wimpff, Bruno Aristimunha, Sylvain Chevallier, Bin Yang|[2502.06828](http://arxiv.org/abs/2502.06828)|**[link](https://github.com/martinwimpff/eeg-continual)**|
 |**2025-02-17**|**Thermodynamic limits of the Mpemba effect: A unified resource theory analysis**|Doruk Can Alyürük, Mahir H. Yeşiller, Vlatko Vedral, Onur Pusuluk|[2502.00123](http://arxiv.org/abs/2502.00123)|null|
@@ -953,6 +953,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Spectral truncation of out-of-time-ordered correlators in dissipative system**|Pablo D. Bergamasco, Gabriel G. Carlo, Alejandro M. F. Rivas|[2503.03680](http://arxiv.org/abs/2503.03680)|null|
+|**2025-03-05**|**Dependence of Krylov complexity on the initial operator and state**|Sreeram PG, J. Bharathi Kannan, Ranjan Modak, S. Aravinda|[2503.03400](http://arxiv.org/abs/2503.03400)|null|
 |**2025-03-03**|**Noise effects on the diagnostics of quantum chaos**|Tingfei Li|[2503.01279](http://arxiv.org/abs/2503.01279)|null|
 |**2025-03-02**|**Revealing quantum operator scrambling via measuring Holevo information on digital quantum simulators**|Bin Sun, Geng-Bin Cao, Xi-Dan Hu, Dan-Bo Zhang|[2503.00918](http://arxiv.org/abs/2503.00918)|null|
 |**2025-03-01**|**Characterizing the mixed eigenstates in kicked top model through the out-of-time-order correlator**|Qian Wang, Marko Robnik|[2503.00394](http://arxiv.org/abs/2503.00394)|null|
@@ -1398,6 +1400,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA**|Xiaorang Guo, Tigran Bunarjyan, Dai Liu, Benjamin Lienhard, Martin Schulz|[2503.03544](http://arxiv.org/abs/2503.03544)|null|
+|**2025-03-04**|**Quantum resource estimates for computing binary elliptic curve discrete logarithms**|Michael Garn, Angus Kan|[2503.02984](http://arxiv.org/abs/2503.02984)|null|
+|**2025-03-04**|**Extensions from within**|Shadi Ali Ahmad, Marc S. Klinger|[2503.02944](http://arxiv.org/abs/2503.02944)|null|
 |**2025-03-04**|**PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset**|Haider Asif, Abdul Basit, Nouhaila Innan, Muhammad Kashif, Alberto Marchisio, Muhammad Shafique|[2503.02497](http://arxiv.org/abs/2503.02497)|null|
 |**2025-03-03**|**Automorphism Ensemble Decoding of Quantum LDPC Codes**|Stergios Koutsioumpas, Hasan Sayginel, Mark Webster, Dan E Browne|[2503.01738](http://arxiv.org/abs/2503.01738)|null|
 |**2025-03-03**|**Unconditionally stable time discretization of Lindblad master equations in infinite dimension using quantum channels**|Rémi Robin, Pierre Rouchon, Lev-Arcady Sellem|[2503.01712](http://arxiv.org/abs/2503.01712)|null|

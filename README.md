@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Quantumness and entropic uncertainty for a pair of static Unruh-DeWitt detectors**|Yu-Kun Zhang, Tariq Aziz, Li-Juan Li, Xue-Ke Song, Liu Ye, Dong Wang|[2503.04230](http://arxiv.org/abs/2503.04230)|null|
+|**2025-03-05**|**Tight and self-testing multipartite quantum Bell inequalities from the renormalization group**|Paolo Abiuso, Julian Fischer, Miguel Navascués|[2503.03878](http://arxiv.org/abs/2503.03878)|null|
 |**2025-03-02**|**Simulating quantum instruments with projective measurements and quantum post-processing**|Shishir Khandelwal, Armin Tavakoli|[2503.00956](http://arxiv.org/abs/2503.00956)|null|
 |**2025-03-02**|**From Staging to Insight: An Educational Path to Understanding Bell's Inequalities**|Valentina De Renzi, Matteo G. A. Paris, Maria Bondani|[2502.18543](http://arxiv.org/abs/2502.18543)|null|
 |**2025-02-19**|**Incompleteness of Bell's theorem**|J. F. Geurdes|[2502.15808](http://arxiv.org/abs/2502.15808)|null|
@@ -1400,6 +1402,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes**|Keyang Chen, Yuanting Liu, Yiming Zhang, Zijian Liang, Yu-An Chen, Ke Liu, Hao Song|[2503.04699](http://arxiv.org/abs/2503.04699)|null|
+|**2025-03-06**|**Characterization and Mitigation of Crosstalk in Quantum Error Correction**|Zeyuan Zhou, Andrew Ji, Yongshan Ding|[2503.04642](http://arxiv.org/abs/2503.04642)|null|
+|**2025-03-06**|**Calibrating Magnetic Flux Control in Superconducting Circuits by Compensating Distortions on Time Scales from Nanoseconds up to Tens of Microseconds**|Christoph Hellings, Nathan Lacroix, Ants Remm, Richard Boell, Johannes Herrmann, Stefania Lazăr, Sebastian Krinner, François Swiadek, Christian Kraglund Andersen, Christopher Eichler, Andreas Wallraff|[2503.04610](http://arxiv.org/abs/2503.04610)|null|
+|**2025-03-05**|**Universal logical operations with a dynamical qubit in Floquet code**|Xuandong Sun, Longcheng Li, Zhiyi Wu, Zechen Guo, Peisheng Huang, Wenhui Huang, Qixian Li, Yongqi Liang, Yiting Liu, Daxiong Sun, Zilin Wang, Changrong Xie, Yuzhe Xiong, Xiaohan Yang, Jiajian Zhang, Jiawei Zhang, Libo Zhang, Zihao Zhang, Weijie Guo, Ji Jiang, Song Liu, Xiayu Linpeng, Jingjing Niu, Jiawei Qiu, Wenhui Ren, Ziyu Tao, Yuefeng Yuan, Yuxuan Zhou, Ji Chu, Youpeng Zhong, Xiaoming Sun, Dapeng Yu|[2503.03867](http://arxiv.org/abs/2503.03867)|null|
+|**2025-03-05**|**Generalized toric codes on twisted tori for quantum error correction**|Zijian Liang, Ke Liu, Hao Song, Yu-An Chen|[2503.03827](http://arxiv.org/abs/2503.03827)|null|
 |**2025-03-05**|**KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA**|Xiaorang Guo, Tigran Bunarjyan, Dai Liu, Benjamin Lienhard, Martin Schulz|[2503.03544](http://arxiv.org/abs/2503.03544)|null|
 |**2025-03-04**|**Quantum resource estimates for computing binary elliptic curve discrete logarithms**|Michael Garn, Angus Kan|[2503.02984](http://arxiv.org/abs/2503.02984)|null|
 |**2025-03-04**|**Extensions from within**|Shadi Ali Ahmad, Marc S. Klinger|[2503.02944](http://arxiv.org/abs/2503.02944)|null|

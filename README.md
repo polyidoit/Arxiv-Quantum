@@ -749,6 +749,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**UniArray: Unified Spectral-Spatial Modeling for Array-Geometry-Agnostic Speech Separation**|Weiguang Chen, Junjie Zhang, Jielong Yang, Eng Siong Chng, Xionghu Zhong|[2503.05110](http://arxiv.org/abs/2503.05110)|null|
 |**2025-02-24**|**Continuous Patch Stitching for Block-wise Image Compression**|Zifu Zhang, Shengxi Li, Henan Liu, Mai Xu, Ce Zhu|[2502.16795](http://arxiv.org/abs/2502.16795)|null|
 |**2025-02-23**|**Flow and Noise Control of a Cylinder with Annular Plates**|Faezeh Eydi|[2502.16676](http://arxiv.org/abs/2502.16676)|null|
 |**2025-02-22**|**Polygraphic resolutions for operated algebras**|Zuan Liu, Philippe Malbos|[2502.16304](http://arxiv.org/abs/2502.16304)|null|
@@ -955,6 +956,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell, Katja Klobas, Bruno Bertini|[2503.05698](http://arxiv.org/abs/2503.05698)|null|
 |**2025-03-05**|**Spectral truncation of out-of-time-ordered correlators in dissipative system**|Pablo D. Bergamasco, Gabriel G. Carlo, Alejandro M. F. Rivas|[2503.03680](http://arxiv.org/abs/2503.03680)|null|
 |**2025-03-05**|**Dependence of Krylov complexity on the initial operator and state**|Sreeram PG, J. Bharathi Kannan, Ranjan Modak, S. Aravinda|[2503.03400](http://arxiv.org/abs/2503.03400)|null|
 |**2025-03-03**|**Noise effects on the diagnostics of quantum chaos**|Tingfei Li|[2503.01279](http://arxiv.org/abs/2503.01279)|null|
@@ -1402,6 +1404,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Quantum Dual Extended Hamming Code Immune to Collective Coherent Errors**|En-Jui Chang|[2503.05249](http://arxiv.org/abs/2503.05249)|null|
+|**2025-03-06**|**Parallel Logical Measurements via Quantum Code Surgery**|Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder|[2503.05003](http://arxiv.org/abs/2503.05003)|null|
+|**2025-03-06**|**Optimized noise-resilient surface code teleportation interfaces**|Mohamed A. Shalby, Renyu Wang, Denis Sedov, Leonid P. Pryadko|[2503.04968](http://arxiv.org/abs/2503.04968)|null|
 |**2025-03-06**|**Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes**|Keyang Chen, Yuanting Liu, Yiming Zhang, Zijian Liang, Yu-An Chen, Ke Liu, Hao Song|[2503.04699](http://arxiv.org/abs/2503.04699)|null|
 |**2025-03-06**|**Characterization and Mitigation of Crosstalk in Quantum Error Correction**|Zeyuan Zhou, Andrew Ji, Yongshan Ding|[2503.04642](http://arxiv.org/abs/2503.04642)|null|
 |**2025-03-06**|**Calibrating Magnetic Flux Control in Superconducting Circuits by Compensating Distortions on Time Scales from Nanoseconds up to Tens of Microseconds**|Christoph Hellings, Nathan Lacroix, Ants Remm, Richard Boell, Johannes Herrmann, Stefania Lazăr, Sebastian Krinner, François Swiadek, Christian Kraglund Andersen, Christopher Eichler, Andreas Wallraff|[2503.04610](http://arxiv.org/abs/2503.04610)|null|

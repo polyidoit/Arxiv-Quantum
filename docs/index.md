@@ -617,6 +617,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Optomechanical non-Gaussian quantum steering and remote preparation of large-size motional Schördinger cat states**|Miaomiao Wei, Huatang Tan|[2503.07224](http://arxiv.org/abs/2503.07224)|null|
 |**2025-02-24**|**Measuring network quantum steerability utilizing artificial neural networks**|Mengyan Li, Yanning Jia, Fenzhuo Guo, Haifeng Dong, Sujuan Qin, Fei Gao|[2502.17084](http://arxiv.org/abs/2502.17084)|null|
 |**2025-02-17**|**Certification of quantum correlations and DIQKD at arbitrary distances through routed Bell tests**|Pavel Sekatski, Jef Pauwels, Edwin Peter Lobo, Stefano Pironio, Nicolas Brunner|[2502.12241](http://arxiv.org/abs/2502.12241)|null|
 |**2025-02-10**|**Detecting entanglement in any measurement using quantum networks**|Shubhayan Sarkar|[2502.06986](http://arxiv.org/abs/2502.06986)|null|
@@ -937,6 +938,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-09**|**Lindblad many-body scars**|Antonio M. Garcí a-Garcí a, Zhongling Lu, Lucas Sá, Jacobus J. M. Verbaarschot|[2503.06665](http://arxiv.org/abs/2503.06665)|null|
 |**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell, Katja Klobas, Bruno Bertini|[2503.05698](http://arxiv.org/abs/2503.05698)|null|
 |**2025-03-05**|**Spectral truncation of out-of-time-ordered correlators in dissipative system**|Pablo D. Bergamasco, Gabriel G. Carlo, Alejandro M. F. Rivas|[2503.03680](http://arxiv.org/abs/2503.03680)|null|
 |**2025-03-05**|**Dependence of Krylov complexity on the initial operator and state**|Sreeram PG, J. Bharathi Kannan, Ranjan Modak, S. Aravinda|[2503.03400](http://arxiv.org/abs/2503.03400)|null|
@@ -1383,6 +1385,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**On the Minimum Distances of Finite-Length Lifted Product Quantum LDPC Codes**|Nithin Raveendran, David Declercq, Bane Vasić|[2503.07567](http://arxiv.org/abs/2503.07567)|null|
+|**2025-03-10**|**Quasiparticle poisoning of superconducting qubits with active gamma irradiation**|C. P. Larson, E. Yelton, K. Dodge, K. Okubo, J. Batarekh, V. Iaia, N. A. Kurinsky, B. L. T. Plourde|[2503.07354](http://arxiv.org/abs/2503.07354)|null|
+|**2025-03-08**|**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**|Avimita Chatterjee, Archisman Ghosh, Swaroop Ghosh|[2503.06045](http://arxiv.org/abs/2503.06045)|null|
 |**2025-03-07**|**Quantum Dual Extended Hamming Code Immune to Collective Coherent Errors**|En-Jui Chang|[2503.05249](http://arxiv.org/abs/2503.05249)|null|
 |**2025-03-06**|**Parallel Logical Measurements via Quantum Code Surgery**|Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder|[2503.05003](http://arxiv.org/abs/2503.05003)|null|
 |**2025-03-06**|**Optimized noise-resilient surface code teleportation interfaces**|Mohamed A. Shalby, Renyu Wang, Denis Sedov, Leonid P. Pryadko|[2503.04968](http://arxiv.org/abs/2503.04968)|null|

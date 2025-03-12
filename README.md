@@ -957,6 +957,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Fundamental solutions of heat equation on unitary groups establish an improved relation between $ε$-nets and approximate unitary $t$ -designs**|Oskar Słowik, Oliver Reardon-Smith, Adam Sawicki|[2503.08577](http://arxiv.org/abs/2503.08577)|null|
+|**2025-03-11**|**Out-of-Time-Order-Correlators in Holographic EPR pairs**|Shoichi Kawamoto, Da-Shin Lee, Chen-Pin Yeh|[2503.08114](http://arxiv.org/abs/2503.08114)|null|
 |**2025-03-11**|**Lindblad many-body scars**|Antonio M. García-García, Zhongling Lu, Lucas Sá, Jacobus J. M. Verbaarschot|[2503.06665](http://arxiv.org/abs/2503.06665)|null|
 |**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell, Katja Klobas, Bruno Bertini|[2503.05698](http://arxiv.org/abs/2503.05698)|null|
 |**2025-03-05**|**Spectral truncation of out-of-time-ordered correlators in dissipative system**|Pablo D. Bergamasco, Gabriel G. Carlo, Alejandro M. F. Rivas|[2503.03680](http://arxiv.org/abs/2503.03680)|null|
@@ -1406,6 +1408,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Tensor networks for quantum computing**|Aleksandr Berezutskii, Atithi Acharya, Roman Ellerbrock, Johnnie Gray, Reza Haghshenas, Zichang He, Abid Khan, Viacheslav Kuzmin, Minzhao Liu, Dmitry Lyakh, Danylo Lykov, Salvatore Mandrà, Christopher Mansell, Alexey Melnikov, Artem Melnikov, Vladimir Mironov, Dmitry Morozov, Florian Neukart, Alberto Nocera, Michael A. Perlin, Michael Perelshtein, Ruslan Shaydulin, Benjamin Villalonga, Markus Pflitsch, Marco Pistoia, Valerii Vinokur, Yuri Alexeev|[2503.08626](http://arxiv.org/abs/2503.08626)|null|
+|**2025-03-11**|**Quantum squeezing amplification with a weak Kerr nonlinear oscillator**|Yanyan Cai, Xiaowei Deng, Libo Zhang, Zhongchu Ni, Jiasheng Mai, Peihao Huang, Pan Zheng, Ling Hu, Song Liu, Yuan Xu, Dapeng Yu|[2503.08197](http://arxiv.org/abs/2503.08197)|null|
+|**2025-03-10**|**Quantum Error Corrected Non-Markovian Metrology**|Zachary Mann, Ningping Cao, Raymond Laflamme, Sisi Zhou|[2503.07745](http://arxiv.org/abs/2503.07745)|null|
 |**2025-03-10**|**On the Minimum Distances of Finite-Length Lifted Product Quantum LDPC Codes**|Nithin Raveendran, David Declercq, Bane Vasić|[2503.07567](http://arxiv.org/abs/2503.07567)|null|
 |**2025-03-10**|**Quasiparticle poisoning of superconducting qubits with active gamma irradiation**|C. P. Larson, E. Yelton, K. Dodge, K. Okubo, J. Batarekh, V. Iaia, N. A. Kurinsky, B. L. T. Plourde|[2503.07354](http://arxiv.org/abs/2503.07354)|null|
 |**2025-03-08**|**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**|Avimita Chatterjee, Archisman Ghosh, Swaroop Ghosh|[2503.06045](http://arxiv.org/abs/2503.06045)|null|

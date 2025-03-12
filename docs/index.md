@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 
 ## Bell nonlocality
 
@@ -938,7 +938,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-09**|**Lindblad many-body scars**|Antonio M. Garcí a-Garcí a, Zhongling Lu, Lucas Sá, Jacobus J. M. Verbaarschot|[2503.06665](http://arxiv.org/abs/2503.06665)|null|
+|**2025-03-11**|**Lindblad many-body scars**|Antonio M. García-García, Zhongling Lu, Lucas Sá, Jacobus J. M. Verbaarschot|[2503.06665](http://arxiv.org/abs/2503.06665)|null|
 |**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell, Katja Klobas, Bruno Bertini|[2503.05698](http://arxiv.org/abs/2503.05698)|null|
 |**2025-03-05**|**Spectral truncation of out-of-time-ordered correlators in dissipative system**|Pablo D. Bergamasco, Gabriel G. Carlo, Alejandro M. F. Rivas|[2503.03680](http://arxiv.org/abs/2503.03680)|null|
 |**2025-03-05**|**Dependence of Krylov complexity on the initial operator and state**|Sreeram PG, J. Bharathi Kannan, Ranjan Modak, S. Aravinda|[2503.03400](http://arxiv.org/abs/2503.03400)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 
 ## Bell nonlocality
 
@@ -1392,7 +1392,7 @@ layout: default
 |**2025-03-10**|**Quantum Error Corrected Non-Markovian Metrology**|Zachary Mann, Ningping Cao, Raymond Laflamme, Sisi Zhou|[2503.07745](http://arxiv.org/abs/2503.07745)|null|
 |**2025-03-10**|**On the Minimum Distances of Finite-Length Lifted Product Quantum LDPC Codes**|Nithin Raveendran, David Declercq, Bane Vasić|[2503.07567](http://arxiv.org/abs/2503.07567)|null|
 |**2025-03-10**|**Quasiparticle poisoning of superconducting qubits with active gamma irradiation**|C. P. Larson, E. Yelton, K. Dodge, K. Okubo, J. Batarekh, V. Iaia, N. A. Kurinsky, B. L. T. Plourde|[2503.07354](http://arxiv.org/abs/2503.07354)|null|
-|**2025-03-08**|**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**|Avimita Chatterjee, Archisman Ghosh, Swaroop Ghosh|[2503.06045](http://arxiv.org/abs/2503.06045)|null|
+|**2025-03-11**|**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**|Avimita Chatterjee, Archisman Ghosh, Swaroop Ghosh|[2503.06045](http://arxiv.org/abs/2503.06045)|null|
 |**2025-03-07**|**Quantum Dual Extended Hamming Code Immune to Collective Coherent Errors**|En-Jui Chang|[2503.05249](http://arxiv.org/abs/2503.05249)|null|
 |**2025-03-06**|**Parallel Logical Measurements via Quantum Code Surgery**|Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder|[2503.05003](http://arxiv.org/abs/2503.05003)|null|
 |**2025-03-06**|**Optimized noise-resilient surface code teleportation interfaces**|Mohamed A. Shalby, Renyu Wang, Denis Sedov, Leonid P. Pryadko|[2503.04968](http://arxiv.org/abs/2503.04968)|null|

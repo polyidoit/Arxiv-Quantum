@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Spacetime events from the inside out**|G. J. Milburn|[2503.08715](http://arxiv.org/abs/2503.08715)|null|
 |**2025-03-06**|**Quantumness and entropic uncertainty for a pair of static Unruh-DeWitt detectors**|Yu-Kun Zhang, Tariq Aziz, Li-Juan Li, Xue-Ke Song, Liu Ye, Dong Wang|[2503.04230](http://arxiv.org/abs/2503.04230)|null|
 |**2025-03-05**|**Tight and self-testing multipartite quantum Bell inequalities from the renormalization group**|Paolo Abiuso, Julian Fischer, Miguel Navascués|[2503.03878](http://arxiv.org/abs/2503.03878)|null|
 |**2025-03-02**|**Simulating quantum instruments with projective measurements and quantum post-processing**|Shishir Khandelwal, Armin Tavakoli|[2503.00956](http://arxiv.org/abs/2503.00956)|null|
@@ -1408,6 +1409,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**A Note on Clifford Stabilizer Codes for Ising Anyons**|Sanchayan Dutta|[2503.08736](http://arxiv.org/abs/2503.08736)|null|
 |**2025-03-11**|**Tensor networks for quantum computing**|Aleksandr Berezutskii, Atithi Acharya, Roman Ellerbrock, Johnnie Gray, Reza Haghshenas, Zichang He, Abid Khan, Viacheslav Kuzmin, Minzhao Liu, Dmitry Lyakh, Danylo Lykov, Salvatore Mandrà, Christopher Mansell, Alexey Melnikov, Artem Melnikov, Vladimir Mironov, Dmitry Morozov, Florian Neukart, Alberto Nocera, Michael A. Perlin, Michael Perelshtein, Ruslan Shaydulin, Benjamin Villalonga, Markus Pflitsch, Marco Pistoia, Valerii Vinokur, Yuri Alexeev|[2503.08626](http://arxiv.org/abs/2503.08626)|null|
 |**2025-03-11**|**Quantum squeezing amplification with a weak Kerr nonlinear oscillator**|Yanyan Cai, Xiaowei Deng, Libo Zhang, Zhongchu Ni, Jiasheng Mai, Peihao Huang, Pan Zheng, Ling Hu, Song Liu, Yuan Xu, Dapeng Yu|[2503.08197](http://arxiv.org/abs/2503.08197)|null|
 |**2025-03-10**|**Quantum Error Corrected Non-Markovian Metrology**|Zachary Mann, Ningping Cao, Raymond Laflamme, Sisi Zhou|[2503.07745](http://arxiv.org/abs/2503.07745)|null|

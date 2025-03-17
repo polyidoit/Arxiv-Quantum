@@ -500,6 +500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Thermodynamics of self-gravitating fermions as a robust theory for dark matter halos: Stability analysis applied to the Milky Way**|A. Krut, C. R. Argüelles, P. -H. Chavanis|[2503.10870](http://arxiv.org/abs/2503.10870)|null|
 |**2025-03-03**|**Derivation of Hierarchically Correlated Orbital Functional Theory: The Role of Hypercomplex Orbitals**|Ting Zhang, Neil Qiang Su|[2503.01207](http://arxiv.org/abs/2503.01207)|null|
 |**2025-03-02**|**Multispecies inhomogeneous $t$ -PushTASEP from antisymmetric fusion**|Arvind Ayyer, Atsuo Kuniba|[2503.00829](http://arxiv.org/abs/2503.00829)|null|
 |**2025-03-02**|**Possible Explanation of $F_2^n/F_2^p$ at Large $x$ Using Quantum Statistical Mechanics**|C. Bourrely, F. Buccella, W. C. Chang, D. Di Bari, P. H. Frampton, J. C. Peng|[2503.00693](http://arxiv.org/abs/2503.00693)|null|
@@ -635,6 +636,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Remote preparation of motional Schrödinger cat states via dissipatively-driven non-Gaussian mechanical entanglement**|Zunbo Yu, Miaomiao Wei, Huatang Tan|[2503.11410](http://arxiv.org/abs/2503.11410)|null|
 |**2025-03-10**|**Optomechanical non-Gaussian quantum steering and remote preparation of large-size motional Schördinger cat states**|Miaomiao Wei, Huatang Tan|[2503.07224](http://arxiv.org/abs/2503.07224)|null|
 |**2025-02-24**|**Measuring network quantum steerability utilizing artificial neural networks**|Mengyan Li, Yanning Jia, Fenzhuo Guo, Haifeng Dong, Sujuan Qin, Fei Gao|[2502.17084](http://arxiv.org/abs/2502.17084)|null|
 |**2025-02-17**|**Certification of quantum correlations and DIQKD at arbitrary distances through routed Bell tests**|Pavel Sekatski, Jef Pauwels, Edwin Peter Lobo, Stefano Pironio, Nicolas Brunner|[2502.12241](http://arxiv.org/abs/2502.12241)|null|
@@ -753,6 +755,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Chirality, magic, and quantum correlations in multipartite quantum states**|Shreya Vardhan, Bowen Shi, Isaac H. Kim, Yijian Zou|[2503.10764](http://arxiv.org/abs/2503.10764)|null|
 |**2025-03-07**|**UniArray: Unified Spectral-Spatial Modeling for Array-Geometry-Agnostic Speech Separation**|Weiguang Chen, Junjie Zhang, Jielong Yang, Eng Siong Chng, Xionghu Zhong|[2503.05110](http://arxiv.org/abs/2503.05110)|null|
 |**2025-02-24**|**Continuous Patch Stitching for Block-wise Image Compression**|Zifu Zhang, Shengxi Li, Henan Liu, Mai Xu, Ce Zhu|[2502.16795](http://arxiv.org/abs/2502.16795)|null|
 |**2025-02-23**|**Flow and Noise Control of a Cylinder with Annular Plates**|Faezeh Eydi|[2502.16676](http://arxiv.org/abs/2502.16676)|null|
@@ -960,6 +963,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Testing eigenstate thermalization hypothesis on small scale quantum processors**|Maanav Srihari, Anil Shaji|[2503.11616](http://arxiv.org/abs/2503.11616)|null|
+|**2025-03-14**|**Singular Value Decomposition and Its Blind Spot for Quantum Chaos in Non-Hermitian Sachdev-Ye-Kitaev Models**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Xuhao Jiang, Keun-Young Kim, Juan F. Pedraza|[2503.11274](http://arxiv.org/abs/2503.11274)|null|
+|**2025-03-13**|**Quantum complexity in gravity, quantum field theory, and quantum information science**|Stefano Baiguera, Vijay Balasubramanian, Pawel Caputa, Shira Chapman, Jonas Haferkamp, Michal P. Heller, Nicole Yunger Halpern|[2503.10753](http://arxiv.org/abs/2503.10753)|null|
 |**2025-03-11**|**Fundamental solutions of heat equation on unitary groups establish an improved relation between $ε$-nets and approximate unitary $t$ -designs**|Oskar Słowik, Oliver Reardon-Smith, Adam Sawicki|[2503.08577](http://arxiv.org/abs/2503.08577)|null|
 |**2025-03-11**|**Out-of-Time-Order-Correlators in Holographic EPR pairs**|Shoichi Kawamoto, Da-Shin Lee, Chen-Pin Yeh|[2503.08114](http://arxiv.org/abs/2503.08114)|null|
 |**2025-03-11**|**Lindblad many-body scars**|Antonio M. García-García, Zhongling Lu, Lucas Sá, Jacobus J. M. Verbaarschot|[2503.06665](http://arxiv.org/abs/2503.06665)|null|
@@ -1411,6 +1417,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**The waves-in-space Purcell effect for superconducting qubits**|Param Patel, Mingkang Xia, Chao Zhou, Pinlei Lu, Xi Cao, Israa Yusuf, Jacob Repicky, Michael Hatridge|[2503.11644](http://arxiv.org/abs/2503.11644)|null|
+|**2025-03-14**|**Scaling the Automated Discovery of Quantum Circuits via Reinforcement Learning with Gadgets**|Jan Olle, Oleg M. Yevtushenko, Florian Marquardt|[2503.11638](http://arxiv.org/abs/2503.11638)|null|
+|**2025-03-14**|**Chiral cat code: Enhanced error correction induced by higher-order nonlinearities**|Adrià Labay-Mora, Alberto Mercurio, Vincenzo Savona, Gian Luca Giorgi, Fabrizio Minganti|[2503.11624](http://arxiv.org/abs/2503.11624)|null|
+|**2025-03-14**|**Fault-tolerant logical state construction based on cavity-QED network**|Rui Asaoka, Yasunari Suzuki, Yuuki Tokunaga|[2503.11500](http://arxiv.org/abs/2503.11500)|null|
+|**2025-03-14**|**Tesseract: A Search-Based Decoder for Quantum Error Correction**|Laleh Aghababaie Beni, Oscar Higgott, Noah Shutty|[2503.10988](http://arxiv.org/abs/2503.10988)|null|
+|**2025-03-13**|**Bias-preserving and error-detectable entangling operations in a superconducting dual-rail system**|Nitish Mehta, James D. Teoh, Taewan Noh, Ankur Agrawal, Richard Chamberlain, Tzu-Chiao Chien, Jacob C. Curtis, Bassel Heiba Elfeky, S. M. Farzaneh, Benjamin Gudlewski, Trevor Keen, Nishaad Khedkar, Cihan Kurter, Richard Li, Gangqiang Liu, Pinlei Lu, Heather McCarrick, Anirudh Narla, Sitakanta Satapathy, Tali Shemma, Ruby A. Shi, Daniel K. Weiss, Jose Aumentado, Chan U Lei, Joseph O. Yuan, Shantanu O. Mundhada, S. Harvey Moseley, Jr., Kevin S. Chou, Robert J. Schoelkopf|[2503.10935](http://arxiv.org/abs/2503.10935)|null|
 |**2025-03-13**|**Performance of the spin qubit shuttling architecture for a surface code implementation**|Berat Yenilen, Arnau Sala, Hendrik Bluhm, Markus Müller, Manuel Rispler|[2503.10601](http://arxiv.org/abs/2503.10601)|null|
 |**2025-03-13**|**Extractors: QLDPC Architectures for Efficient Pauli-Based Computation**|Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder|[2503.10390](http://arxiv.org/abs/2503.10390)|null|
 |**2025-03-11**|**A Note on Clifford Stabilizer Codes for Ising Anyons**|Sanchayan Dutta|[2503.08736](http://arxiv.org/abs/2503.08736)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 
 ## Bell nonlocality
 
@@ -394,7 +394,7 @@ layout: default
 |**2025-01-27**|**Optimizer-Dependent Generalization Bound for Quantum Neural Networks**|Chenghong Zhu, Hongshun Yao, Yingjian Liu, Xin Wang|[2501.16228](http://arxiv.org/abs/2501.16228)|null|
 |**2024-12-20**|**Entanglement harvesting in quantum superposed spacetime**|Anwesha Chakraborty, Lucas Hackl, Magdalena Zych|[2412.15870](http://arxiv.org/abs/2412.15870)|null|
 |**2024-12-16**|**Quantum observables over time for information recovery**|Gabriele Bressanini, Farhan Hanif, Hyukjoon Kwon, M. S. Kim|[2412.11659](http://arxiv.org/abs/2412.11659)|null|
-|**2024-12-13**|**On the Significance of Intermediate Latents: Distinguishing Quantum Causal Scenarios with Indistinguishable Classical Analogs**|Daniel Centeno, Elie Wolfe|[2412.10238](http://arxiv.org/abs/2412.10238)|null|
+|**2025-03-13**|**On the Significance of Intermediate Latents: Distinguishing Quantum Causal Scenarios with Indistinguishable Classical Analogs**|Daniel Centeno, Elie Wolfe|[2412.10238](http://arxiv.org/abs/2412.10238)|null|
 |**2024-12-02**|**Hamiltonian characterisation of multi-time processes with classical memory**|Kaumudibikash Goswami, Abhinash Kumar Roy, Varun Srivastava, Barr Perez, Christina Giarmatzi, Alexei Gilchrist, Fabio Costa|[2412.01998](http://arxiv.org/abs/2412.01998)|null|
 |**2024-11-09**|**Quantum causal inference via scattering circuits in NMR**|Hongfeng Liu, Xiangjing Liu, Qian Chen, Yixian Qiu, Vlatko Vedral, Xinfang Nie, Oscar Dahlsten, Dawei Lu|[2411.06052](http://arxiv.org/abs/2411.06052)|null|
 |**2024-11-09**|**Experimental demonstration of quantum causal inference via noninvasive measurements**|Hongfeng Liu, Xiangjing Liu, Qian Chen, Yixian Qiu, Vlatko Vedral, Xinfang Nie, Oscar Dahlsten, Dawei Lu|[2411.06051](http://arxiv.org/abs/2411.06051)|null|
@@ -947,7 +947,7 @@ layout: default
 |**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell, Katja Klobas, Bruno Bertini|[2503.05698](http://arxiv.org/abs/2503.05698)|null|
 |**2025-03-05**|**Spectral truncation of out-of-time-ordered correlators in dissipative system**|Pablo D. Bergamasco, Gabriel G. Carlo, Alejandro M. F. Rivas|[2503.03680](http://arxiv.org/abs/2503.03680)|null|
 |**2025-03-05**|**Dependence of Krylov complexity on the initial operator and state**|Sreeram PG, J. Bharathi Kannan, Ranjan Modak, S. Aravinda|[2503.03400](http://arxiv.org/abs/2503.03400)|null|
-|**2025-03-03**|**Noise effects on the diagnostics of quantum chaos**|Tingfei Li|[2503.01279](http://arxiv.org/abs/2503.01279)|null|
+|**2025-03-14**|**Noise effects on the diagnostics of quantum chaos**|Tingfei Li|[2503.01279](http://arxiv.org/abs/2503.01279)|null|
 |**2025-03-02**|**Revealing quantum operator scrambling via measuring Holevo information on digital quantum simulators**|Bin Sun, Geng-Bin Cao, Xi-Dan Hu, Dan-Bo Zhang|[2503.00918](http://arxiv.org/abs/2503.00918)|null|
 |**2025-03-01**|**Characterizing the mixed eigenstates in kicked top model through the out-of-time-order correlator**|Qian Wang, Marko Robnik|[2503.00394](http://arxiv.org/abs/2503.00394)|null|
 |**2025-02-28**|**Universality in the Anticoncentration of Chaotic Quantum Circuits**|Arman Sauliere, Beatrice Magni, Guglielmo Lami, Xhek Turkeshi, Jacopo De Nardis|[2503.00119](http://arxiv.org/abs/2503.00119)|null|
@@ -1399,7 +1399,7 @@ layout: default
 |**2025-03-10**|**On the Minimum Distances of Finite-Length Lifted Product Quantum LDPC Codes**|Nithin Raveendran, David Declercq, Bane Vasić|[2503.07567](http://arxiv.org/abs/2503.07567)|null|
 |**2025-03-10**|**Quasiparticle poisoning of superconducting qubits with active gamma irradiation**|C. P. Larson, E. Yelton, K. Dodge, K. Okubo, J. Batarekh, V. Iaia, N. A. Kurinsky, B. L. T. Plourde|[2503.07354](http://arxiv.org/abs/2503.07354)|null|
 |**2025-03-11**|**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**|Avimita Chatterjee, Archisman Ghosh, Swaroop Ghosh|[2503.06045](http://arxiv.org/abs/2503.06045)|null|
-|**2025-03-07**|**Quantum Dual Extended Hamming Code Immune to Collective Coherent Errors**|En-Jui Chang|[2503.05249](http://arxiv.org/abs/2503.05249)|null|
+|**2025-03-14**|**Quantum Dual Extended Hamming Code Immune to Collective Coherent Errors**|En-Jui Chang|[2503.05249](http://arxiv.org/abs/2503.05249)|null|
 |**2025-03-06**|**Parallel Logical Measurements via Quantum Code Surgery**|Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder|[2503.05003](http://arxiv.org/abs/2503.05003)|null|
 |**2025-03-06**|**Optimized noise-resilient surface code teleportation interfaces**|Mohamed A. Shalby, Renyu Wang, Denis Sedov, Leonid P. Pryadko|[2503.04968](http://arxiv.org/abs/2503.04968)|null|
 |**2025-03-06**|**Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes**|Keyang Chen, Yuanting Liu, Yiming Zhang, Zijian Liang, Yu-An Chen, Ke Liu, Hao Song|[2503.04699](http://arxiv.org/abs/2503.04699)|null|

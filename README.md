@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Quantum bounds and device-independent security with rank-one qubit measurements**|Lorenzo Coccia, Matteo Padovan, Andrea Pompermaier, Mattia Sabatini, Marco Avesani, Davide Giacomo Marangon, Paolo Villoresi, Giuseppe Vallone|[2503.13282](http://arxiv.org/abs/2503.13282)|null|
 |**2025-03-12**|**Gap between quantum theory based on real and complex numbers is arbitrarily large**|Shubhayan Sarkar, David Trillo, Marc Olivier Renou, Remigiusz Augusiak|[2503.09724](http://arxiv.org/abs/2503.09724)|null|
 |**2025-03-10**|**Spacetime events from the inside out**|G. J. Milburn|[2503.08715](http://arxiv.org/abs/2503.08715)|null|
 |**2025-03-06**|**Quantumness and entropic uncertainty for a pair of static Unruh-DeWitt detectors**|Yu-Kun Zhang, Tariq Aziz, Li-Juan Li, Xue-Ke Song, Liu Ye, Dong Wang|[2503.04230](http://arxiv.org/abs/2503.04230)|null|
@@ -755,6 +756,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-16**|**BREEN: Bridge Data-Efficient Encoder-Free Multimodal Learning with Learnable Queries**|Tianle Li, Yongming Rao, Winston Hu, Yu Cheng|[2503.12446](http://arxiv.org/abs/2503.12446)|null|
 |**2025-03-13**|**Chirality, magic, and quantum correlations in multipartite quantum states**|Shreya Vardhan, Bowen Shi, Isaac H. Kim, Yijian Zou|[2503.10764](http://arxiv.org/abs/2503.10764)|null|
 |**2025-03-07**|**UniArray: Unified Spectral-Spatial Modeling for Array-Geometry-Agnostic Speech Separation**|Weiguang Chen, Junjie Zhang, Jielong Yang, Eng Siong Chng, Xionghu Zhong|[2503.05110](http://arxiv.org/abs/2503.05110)|null|
 |**2025-02-24**|**Continuous Patch Stitching for Block-wise Image Compression**|Zifu Zhang, Shengxi Li, Henan Liu, Mai Xu, Ce Zhu|[2502.16795](http://arxiv.org/abs/2502.16795)|null|
@@ -963,6 +965,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Assessment of spectral phases of non-Hermitian quantum systems through complex and singular values**|Mahaveer Prasad, S. Harshini Tekur, Bijay Kumar Agarwalla, Manas Kulkarni|[2503.13387](http://arxiv.org/abs/2503.13387)|null|
 |**2025-03-14**|**Testing eigenstate thermalization hypothesis on small scale quantum processors**|Maanav Srihari, Anil Shaji|[2503.11616](http://arxiv.org/abs/2503.11616)|null|
 |**2025-03-14**|**Singular Value Decomposition and Its Blind Spot for Quantum Chaos in Non-Hermitian Sachdev-Ye-Kitaev Models**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Xuhao Jiang, Keun-Young Kim, Juan F. Pedraza|[2503.11274](http://arxiv.org/abs/2503.11274)|null|
 |**2025-03-13**|**Quantum complexity in gravity, quantum field theory, and quantum information science**|Stefano Baiguera, Vijay Balasubramanian, Pawel Caputa, Shira Chapman, Jonas Haferkamp, Michal P. Heller, Nicole Yunger Halpern|[2503.10753](http://arxiv.org/abs/2503.10753)|null|
@@ -1417,6 +1420,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Symmetric channel verification for purifying noisy quantum channels**|Kento Tsubouchi, Yosuke Mitsuhashi, Ryuji Takagi, Nobuyuki Yoshioka|[2503.13114](http://arxiv.org/abs/2503.13114)|null|
+|**2025-03-17**|**Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing**|Simone Faro, Francesco Pio Marino, Gabriele Messina|[2503.13084](http://arxiv.org/abs/2503.13084)|null|
+|**2025-03-17**|**New quantum codes from homothetic-BCH codes**|Carlos Galindo, Fernando Hernando, Helena Martín-Cruz|[2503.13069](http://arxiv.org/abs/2503.13069)|null|
+|**2025-03-17**|**Quantum error detection in qubit-resonator star architecture**|Florian Vigneau, Sourav Majumder, Aniket Rath, Pedro Parrado-Rodríguez, Francisco Revson Fernandes Pereira, Stefan Pogorzalek, Tyler Jones, Nicola Wurz, Michael Renger, Jeroen Verjauw, Ping Yang, Hsiang-Sheng Ku, William Kindel, Frank Deppe, Johannes Heinsoo|[2503.12869](http://arxiv.org/abs/2503.12869)|null|
+|**2025-03-16**|**Virtual purification complements quantum error correction in quantum metrology**|Hyukgun Kwon, Changhun Oh, Youngrong Lim, Hyunseok Jeong, Seung-Woo Lee, Liang Jiang|[2503.12614](http://arxiv.org/abs/2503.12614)|null|
+|**2025-03-15**|**Generalized Knill-Laflamme Theorem for Families of Isoclinic Subspaces**|David W. Kribs, Rajesh Pereira, Mukesh Taank|[2503.12202](http://arxiv.org/abs/2503.12202)|null|
+|**2025-03-15**|**Designing quantum error correction codes for practical spin qudit**|Sumin Lim, Arzhang Ardavan|[2503.12142](http://arxiv.org/abs/2503.12142)|null|
+|**2025-03-14**|**Noise-strength-adapted approximate quantum codes inspired by machine learning**|Shuwei Liu, Shiyu Zhou, Zi-Wen Liu, Jinmin Yi|[2503.11783](http://arxiv.org/abs/2503.11783)|null|
 |**2025-03-14**|**The waves-in-space Purcell effect for superconducting qubits**|Param Patel, Mingkang Xia, Chao Zhou, Pinlei Lu, Xi Cao, Israa Yusuf, Jacob Repicky, Michael Hatridge|[2503.11644](http://arxiv.org/abs/2503.11644)|null|
 |**2025-03-14**|**Scaling the Automated Discovery of Quantum Circuits via Reinforcement Learning with Gadgets**|Jan Olle, Oleg M. Yevtushenko, Florian Marquardt|[2503.11638](http://arxiv.org/abs/2503.11638)|null|
 |**2025-03-14**|**Chiral cat code: Enhanced error correction induced by higher-order nonlinearities**|Adrià Labay-Mora, Alberto Mercurio, Vincenzo Savona, Gian Luca Giorgi, Fabrizio Minganti|[2503.11624](http://arxiv.org/abs/2503.11624)|null|

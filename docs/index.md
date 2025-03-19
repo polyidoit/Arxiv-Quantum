@@ -1399,6 +1399,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Scalable and fault-tolerant preparation of encoded k-uniform states**|Shayan Majidy, Dominik Hangleiter, Michael J. Gullans|[2503.14506](http://arxiv.org/abs/2503.14506)|null|
+|**2025-03-18**|**Demonstration of High-Fidelity Entangled Logical Qubits using Transmons**|Arian Vezvaee, Vinay Tripathi, Mario Morford-Oberst, Friederike Butt, Victor Kasatkin, Daniel A. Lidar|[2503.14472](http://arxiv.org/abs/2503.14472)|null|
+|**2025-03-18**|**A Cascaded Random Access Quantum Memory**|Ziqian Li, Eesh Gupta, Fang Zhao, Riju Banerjee, Yao Lu, Tanay Roy, Andrew Oriani, Andrei Vrajitoarea, Srivatsan Chakram, David I. Schuster|[2503.13953](http://arxiv.org/abs/2503.13953)|null|
+|**2025-03-18**|**Error correction of a logical qubit encoded in a single atomic ion**|Kyle DeBry, Nadine Meister, Agustin Valdes Martinez, Colin D. Bruzewicz, Xiaoyang Shi, David Reens, Robert McConnell, Isaac L. Chuang, John Chiaverini|[2503.13908](http://arxiv.org/abs/2503.13908)|null|
+|**2025-03-17**|**Fault-tolerant Preparation of Distant Logical Bell Pair -- with application in the magic square game**|Andy Zeyi Liu, Debbie Leung|[2503.13673](http://arxiv.org/abs/2503.13673)|null|
 |**2025-03-17**|**Symmetric channel verification for purifying noisy quantum channels**|Kento Tsubouchi, Yosuke Mitsuhashi, Ryuji Takagi, Nobuyuki Yoshioka|[2503.13114](http://arxiv.org/abs/2503.13114)|null|
 |**2025-03-17**|**Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing**|Simone Faro, Francesco Pio Marino, Gabriele Messina|[2503.13084](http://arxiv.org/abs/2503.13084)|null|
 |**2025-03-17**|**New quantum codes from homothetic-BCH codes**|Carlos Galindo, Fernando Hernando, Helena Martín-Cruz|[2503.13069](http://arxiv.org/abs/2503.13069)|null|

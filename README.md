@@ -501,6 +501,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Quantum contextuality of spin-1 massive particles**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2503.14587](http://arxiv.org/abs/2503.14587)|null|
 |**2025-03-13**|**Thermodynamics of self-gravitating fermions as a robust theory for dark matter halos: Stability analysis applied to the Milky Way**|A. Krut, C. R. Argüelles, P. -H. Chavanis|[2503.10870](http://arxiv.org/abs/2503.10870)|null|
 |**2025-03-03**|**Derivation of Hierarchically Correlated Orbital Functional Theory: The Role of Hypercomplex Orbitals**|Ting Zhang, Neil Qiang Su|[2503.01207](http://arxiv.org/abs/2503.01207)|null|
 |**2025-03-02**|**Multispecies inhomogeneous $t$ -PushTASEP from antisymmetric fusion**|Arvind Ayyer, Atsuo Kuniba|[2503.00829](http://arxiv.org/abs/2503.00829)|null|
@@ -1420,6 +1421,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Emergent coding phases and hardware-tailored quantum codes**|Gaurav Gyawali, Henry Shackleton, Zhu-Xi Luo, Michael Lawler|[2503.15483](http://arxiv.org/abs/2503.15483)|null|
+|**2025-03-19**|**Two-qubit logic and teleportation with mobile spin qubits in silicon**|Yuta Matsumoto, Maxim De Smet, Larysa Tryputen, Sander L. de Snoo, Sergey V. Amitonov, Amir Sammak, Maximilian Rimbach-Russ, Giordano Scappucci, Lieven M. K. Vandersypen|[2503.15434](http://arxiv.org/abs/2503.15434)|null|
+|**2025-03-19**|**Fault-Tolerant Optical Quantum Computation using 3D Hybrid Cluster States**|Peilin Du|[2503.14988](http://arxiv.org/abs/2503.14988)|null|
+|**2025-03-19**|**Logical entanglement distribution between distant 2D array qubits**|Yuya Maeda, Yasunari Suzuki, Toshiki Kobayashi, Takashi Yamamoto, Yuuki Tokunaga, Keisuke Fujii|[2503.14894](http://arxiv.org/abs/2503.14894)|null|
+|**2025-03-19**|**Design of Quantum Stream Cipher: Part-I -Lifting the Shannon Impossibility Theorem-**|Osamu Hirota|[2503.14872](http://arxiv.org/abs/2503.14872)|null|
+|**2025-03-18**|**Heuristic and Optimal Synthesis of CNOT and Clifford Circuits**|Mark Webster, Stergios Koutsioumpas, Dan E Browne|[2503.14660](http://arxiv.org/abs/2503.14660)|null|
 |**2025-03-18**|**Scalable and fault-tolerant preparation of encoded k-uniform states**|Shayan Majidy, Dominik Hangleiter, Michael J. Gullans|[2503.14506](http://arxiv.org/abs/2503.14506)|null|
 |**2025-03-18**|**Demonstration of High-Fidelity Entangled Logical Qubits using Transmons**|Arian Vezvaee, Vinay Tripathi, Mario Morford-Oberst, Friederike Butt, Victor Kasatkin, Daniel A. Lidar|[2503.14472](http://arxiv.org/abs/2503.14472)|null|
 |**2025-03-18**|**A Cascaded Random Access Quantum Memory**|Ziqian Li, Eesh Gupta, Fang Zhao, Riju Banerjee, Yao Lu, Tanay Roy, Andrew Oriani, Andrei Vrajitoarea, Srivatsan Chakram, David I. Schuster|[2503.13953](http://arxiv.org/abs/2503.13953)|null|

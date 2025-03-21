@@ -1421,6 +1421,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Constant-Depth Quantum Circuits for Arbitrary Quantum State Preparation via Measurement and Feedback**|Wei Zi, Junhong Nie, Xiaoming Sun|[2503.16208](http://arxiv.org/abs/2503.16208)|null|
+|**2025-03-20**|**Reducing T Gates with Unitary Synthesis**|Tianyi Hao, Amanda Xu, Swamit Tannu|[2503.15843](http://arxiv.org/abs/2503.15843)|null|
+|**2025-03-19**|**Universal fault tolerant quantum computation in 2D without getting tied in knots**|Margarita Davydova, Andreas Bauer, Julio C. Magdalena de la Fuente, Mark Webster, Dominic J. Williamson, Benjamin J. Brown|[2503.15751](http://arxiv.org/abs/2503.15751)|null|
+|**2025-03-19**|**Extending the HNLS Condition to Robust Quantum Metrology**|Oskar Novak, Narayanan Rengaswamy|[2503.15743](http://arxiv.org/abs/2503.15743)|null|
 |**2025-03-19**|**Emergent coding phases and hardware-tailored quantum codes**|Gaurav Gyawali, Henry Shackleton, Zhu-Xi Luo, Michael Lawler|[2503.15483](http://arxiv.org/abs/2503.15483)|null|
 |**2025-03-19**|**Two-qubit logic and teleportation with mobile spin qubits in silicon**|Yuta Matsumoto, Maxim De Smet, Larysa Tryputen, Sander L. de Snoo, Sergey V. Amitonov, Amir Sammak, Maximilian Rimbach-Russ, Giordano Scappucci, Lieven M. K. Vandersypen|[2503.15434](http://arxiv.org/abs/2503.15434)|null|
 |**2025-03-19**|**Fault-Tolerant Optical Quantum Computation using 3D Hybrid Cluster States**|Peilin Du|[2503.14988](http://arxiv.org/abs/2503.14988)|null|

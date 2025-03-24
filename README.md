@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Local models and Bell inequalities for the minimal triangle network**|José Mário da Silva, Alejandro Pozas-Kerstjens, Fernando Parisio|[2503.16654](http://arxiv.org/abs/2503.16654)|null|
 |**2025-03-17**|**Quantum bounds and device-independent security with rank-one qubit measurements**|Lorenzo Coccia, Matteo Padovan, Andrea Pompermaier, Mattia Sabatini, Marco Avesani, Davide Giacomo Marangon, Paolo Villoresi, Giuseppe Vallone|[2503.13282](http://arxiv.org/abs/2503.13282)|null|
 |**2025-03-12**|**Gap between quantum theory based on real and complex numbers is arbitrarily large**|Shubhayan Sarkar, David Trillo, Marc Olivier Renou, Remigiusz Augusiak|[2503.09724](http://arxiv.org/abs/2503.09724)|null|
 |**2025-03-10**|**Spacetime events from the inside out**|G. J. Milburn|[2503.08715](http://arxiv.org/abs/2503.08715)|null|
@@ -1421,6 +1422,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**On the Importance of Error Mitigation for Quantum Computation**|Dorit Aharonov, Ori Alberton, Itai Arad, Yosi Atia, Eyal Bairey, Zvika Brakerski, Itsik Cohen, Omri Golan, Ilya Gurwich, Oded Kenneth, Eyal Leviatan, Netanel H. Lindner, Ron Aharon Melcer, Adiel Meyer, Gili Schul, Maor Shutman|[2503.17243](http://arxiv.org/abs/2503.17243)|null|
 |**2025-03-20**|**Constant-Depth Quantum Circuits for Arbitrary Quantum State Preparation via Measurement and Feedback**|Wei Zi, Junhong Nie, Xiaoming Sun|[2503.16208](http://arxiv.org/abs/2503.16208)|null|
 |**2025-03-20**|**Reducing T Gates with Unitary Synthesis**|Tianyi Hao, Amanda Xu, Swamit Tannu|[2503.15843](http://arxiv.org/abs/2503.15843)|null|
 |**2025-03-19**|**Universal fault tolerant quantum computation in 2D without getting tied in knots**|Margarita Davydova, Andreas Bauer, Julio C. Magdalena de la Fuente, Mark Webster, Dominic J. Williamson, Benjamin J. Brown|[2503.15751](http://arxiv.org/abs/2503.15751)|null|

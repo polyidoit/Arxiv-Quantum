@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Witnessing Magic with Bell inequalities**|Rafael A. Macedo, Patrick Andriolo, Santiago Zamora, Davide Poderini, Rafael Chaves|[2503.18734](http://arxiv.org/abs/2503.18734)|null|
+|**2025-03-24**|**About testing Bell locality at colliders**|M. Fabbrichesi, R. Floreanini, L. Marzola|[2503.18535](http://arxiv.org/abs/2503.18535)|null|
 |**2025-03-20**|**Local models and Bell inequalities for the minimal triangle network**|José Mário da Silva, Alejandro Pozas-Kerstjens, Fernando Parisio|[2503.16654](http://arxiv.org/abs/2503.16654)|null|
 |**2025-03-17**|**Quantum bounds and device-independent security with rank-one qubit measurements**|Lorenzo Coccia, Matteo Padovan, Andrea Pompermaier, Mattia Sabatini, Marco Avesani, Davide Giacomo Marangon, Paolo Villoresi, Giuseppe Vallone|[2503.13282](http://arxiv.org/abs/2503.13282)|null|
 |**2025-03-12**|**Gap between quantum theory based on real and complex numbers is arbitrarily large**|Shubhayan Sarkar, David Trillo, Marc Olivier Renou, Remigiusz Augusiak|[2503.09724](http://arxiv.org/abs/2503.09724)|null|
@@ -624,6 +626,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**A Multi Affine Geometric Framework for Quantum Nonlocality. Unifying Berry Phases, Entanglement, and Coherence**|Shoshauna Gauvin|[2503.17995](http://arxiv.org/abs/2503.17995)|null|
 |**2025-03-14**|**Remote preparation of motional Schrödinger cat states via dissipatively-driven non-Gaussian mechanical entanglement**|Zunbo Yu, Miaomiao Wei, Huatang Tan|[2503.11410](http://arxiv.org/abs/2503.11410)|null|
 |**2025-03-10**|**Optomechanical non-Gaussian quantum steering and remote preparation of large-size motional Schördinger cat states**|Miaomiao Wei, Huatang Tan|[2503.07224](http://arxiv.org/abs/2503.07224)|null|
 |**2025-02-24**|**Measuring network quantum steerability utilizing artificial neural networks**|Mengyan Li, Yanning Jia, Fenzhuo Guo, Haifeng Dong, Sujuan Qin, Fei Gao|[2502.17084](http://arxiv.org/abs/2502.17084)|null|
@@ -948,6 +951,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**First Computation of Entanglement Dynamics in the SYK Model on Quantum Computers**|Talal Ahmed Chowdhury, Kwangmin Yu, Raza Sabbir Sufian|[2503.18580](http://arxiv.org/abs/2503.18580)|null|
 |**2025-03-17**|**Assessment of spectral phases of non-Hermitian quantum systems through complex and singular values**|Mahaveer Prasad, S. Harshini Tekur, Bijay Kumar Agarwalla, Manas Kulkarni|[2503.13387](http://arxiv.org/abs/2503.13387)|null|
 |**2025-03-14**|**Testing eigenstate thermalization hypothesis on small scale quantum processors**|Maanav Srihari, Anil Shaji|[2503.11616](http://arxiv.org/abs/2503.11616)|null|
 |**2025-03-23**|**Singular Value Decomposition and Its Blind Spot for Quantum Chaos in Non-Hermitian Sachdev-Ye-Kitaev Models**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Xuhao Jiang, Keun-Young Kim, Juan F. Pedraza|[2503.11274](http://arxiv.org/abs/2503.11274)|null|
@@ -1401,6 +1405,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Efficient Magic State Cultivation on $\mathbb{RP}^2$**|Zi-Han Chen, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan|[2503.18657](http://arxiv.org/abs/2503.18657)|null|
+|**2025-03-22**|**Approximate Quantum Error Correction with 1D Log-Depth Circuits**|Guoding Liu, Zhenyu Du, Zi-Wen Liu, Xiongfeng Ma|[2503.17759](http://arxiv.org/abs/2503.17759)|null|
+|**2025-03-22**|**Stabilizer codes of less than two dimensions have constant distance**|Nouédyn Baspin|[2503.17655](http://arxiv.org/abs/2503.17655)|null|
 |**2025-03-21**|**On the Importance of Error Mitigation for Quantum Computation**|Dorit Aharonov, Ori Alberton, Itai Arad, Yosi Atia, Eyal Bairey, Zvika Brakerski, Itsik Cohen, Omri Golan, Ilya Gurwich, Oded Kenneth, Eyal Leviatan, Netanel H. Lindner, Ron Aharon Melcer, Adiel Meyer, Gili Schul, Maor Shutman|[2503.17243](http://arxiv.org/abs/2503.17243)|null|
 |**2025-03-20**|**Constant-Depth Quantum Circuits for Arbitrary Quantum State Preparation via Measurement and Feedback**|Wei Zi, Junhong Nie, Xiaoming Sun|[2503.16208](http://arxiv.org/abs/2503.16208)|null|
 |**2025-03-20**|**Reducing T Gates with Unitary Synthesis**|Tianyi Hao, Amanda Xu, Swamit Tannu|[2503.15843](http://arxiv.org/abs/2503.15843)|null|

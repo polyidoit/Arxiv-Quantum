@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 
 ## Bell nonlocality
 
@@ -492,7 +492,7 @@ layout: default
 |**2025-03-18**|**Quantum contextuality of spin-1 massive particles**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2503.14587](http://arxiv.org/abs/2503.14587)|null|
 |**2025-03-13**|**Thermodynamics of self-gravitating fermions as a robust theory for dark matter halos: Stability analysis applied to the Milky Way**|A. Krut, C. R. Argüelles, P. -H. Chavanis|[2503.10870](http://arxiv.org/abs/2503.10870)|null|
 |**2025-03-03**|**Derivation of Hierarchically Correlated Orbital Functional Theory: The Role of Hypercomplex Orbitals**|Ting Zhang, Neil Qiang Su|[2503.01207](http://arxiv.org/abs/2503.01207)|null|
-|**2025-03-02**|**Multispecies inhomogeneous $t$ -PushTASEP from antisymmetric fusion**|Arvind Ayyer, Atsuo Kuniba|[2503.00829](http://arxiv.org/abs/2503.00829)|null|
+|**2025-03-22**|**Multispecies inhomogeneous $t$ -PushTASEP from antisymmetric fusion**|Arvind Ayyer, Atsuo Kuniba|[2503.00829](http://arxiv.org/abs/2503.00829)|null|
 |**2025-03-02**|**Possible Explanation of $F_2^n/F_2^p$ at Large $x$ Using Quantum Statistical Mechanics**|C. Bourrely, F. Buccella, W. C. Chang, D. Di Bari, P. H. Frampton, J. C. Peng|[2503.00693](http://arxiv.org/abs/2503.00693)|null|
 |**2025-02-24**|**Pauli Blocking effects in Nilsson states of weakly bound exotic nuclei**|P. Punta, J. A. Lay, A. M. Moro, G. Colò|[2502.16990](http://arxiv.org/abs/2502.16990)|null|
 |**2025-02-19**|**Emergence of ecological structure and species rarity from fluctuating metabolic strategies**|Davide Zanchetta, Deepak Gupta, Sofia Moschin, Samir Suweis, Amos Maritan, Sandro Azaele|[2502.13720](http://arxiv.org/abs/2502.13720)|null|
@@ -950,7 +950,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-17**|**Assessment of spectral phases of non-Hermitian quantum systems through complex and singular values**|Mahaveer Prasad, S. Harshini Tekur, Bijay Kumar Agarwalla, Manas Kulkarni|[2503.13387](http://arxiv.org/abs/2503.13387)|null|
 |**2025-03-14**|**Testing eigenstate thermalization hypothesis on small scale quantum processors**|Maanav Srihari, Anil Shaji|[2503.11616](http://arxiv.org/abs/2503.11616)|null|
-|**2025-03-14**|**Singular Value Decomposition and Its Blind Spot for Quantum Chaos in Non-Hermitian Sachdev-Ye-Kitaev Models**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Xuhao Jiang, Keun-Young Kim, Juan F. Pedraza|[2503.11274](http://arxiv.org/abs/2503.11274)|null|
+|**2025-03-23**|**Singular Value Decomposition and Its Blind Spot for Quantum Chaos in Non-Hermitian Sachdev-Ye-Kitaev Models**|Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Xuhao Jiang, Keun-Young Kim, Juan F. Pedraza|[2503.11274](http://arxiv.org/abs/2503.11274)|null|
 |**2025-03-13**|**Quantum complexity in gravity, quantum field theory, and quantum information science**|Stefano Baiguera, Vijay Balasubramanian, Pawel Caputa, Shira Chapman, Jonas Haferkamp, Michal P. Heller, Nicole Yunger Halpern|[2503.10753](http://arxiv.org/abs/2503.10753)|null|
 |**2025-03-11**|**Fundamental solutions of heat equation on unitary groups establish an improved relation between $ε$-nets and approximate unitary $t$ -designs**|Oskar Słowik, Oliver Reardon-Smith, Adam Sawicki|[2503.08577](http://arxiv.org/abs/2503.08577)|null|
 |**2025-03-11**|**Out-of-Time-Order-Correlators in Holographic EPR pairs**|Shoichi Kawamoto, Da-Shin Lee, Chen-Pin Yeh|[2503.08114](http://arxiv.org/abs/2503.08114)|null|

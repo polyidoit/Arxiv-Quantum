@@ -1426,6 +1426,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Clifford gates with logical transversality for self-dual CSS codes**|Theerapat Tansuwannont, Yugo Takada, Keisuke Fujii|[2503.19790](http://arxiv.org/abs/2503.19790)|null|
+|**2025-03-25**|**Magic teleportation with generalized lattice surgery**|Yifei Wang, Yingfei Gu|[2503.19758](http://arxiv.org/abs/2503.19758)|null|
+|**2025-03-24**|**Fast and Error-Correctable Quantum RAM**|Francesco Cesa, Hannes Bernien, Hannes Pichler|[2503.19172](http://arxiv.org/abs/2503.19172)|null|
 |**2025-03-24**|**Efficient Magic State Cultivation on $\mathbb{RP}^2$**|Zi-Han Chen, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan|[2503.18657](http://arxiv.org/abs/2503.18657)|null|
 |**2025-03-22**|**Approximate Quantum Error Correction with 1D Log-Depth Circuits**|Guoding Liu, Zhenyu Du, Zi-Wen Liu, Xiongfeng Ma|[2503.17759](http://arxiv.org/abs/2503.17759)|null|
 |**2025-03-22**|**Stabilizer codes of less than two dimensions have constant distance**|Nouédyn Baspin|[2503.17655](http://arxiv.org/abs/2503.17655)|null|

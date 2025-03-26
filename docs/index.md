@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 
 ## Bell nonlocality
 
@@ -629,7 +629,7 @@ layout: default
 |**2025-03-05**|**A Multi Affine Geometric Framework for Quantum Nonlocality. Unifying Berry Phases, Entanglement, and Coherence**|Shoshauna Gauvin|[2503.17995](http://arxiv.org/abs/2503.17995)|null|
 |**2025-03-14**|**Remote preparation of motional Schrödinger cat states via dissipatively-driven non-Gaussian mechanical entanglement**|Zunbo Yu, Miaomiao Wei, Huatang Tan|[2503.11410](http://arxiv.org/abs/2503.11410)|null|
 |**2025-03-10**|**Optomechanical non-Gaussian quantum steering and remote preparation of large-size motional Schördinger cat states**|Miaomiao Wei, Huatang Tan|[2503.07224](http://arxiv.org/abs/2503.07224)|null|
-|**2025-02-24**|**Measuring network quantum steerability utilizing artificial neural networks**|Mengyan Li, Yanning Jia, Fenzhuo Guo, Haifeng Dong, Sujuan Qin, Fei Gao|[2502.17084](http://arxiv.org/abs/2502.17084)|null|
+|**2025-03-25**|**Measuring network quantum steerability utilizing artificial neural networks**|Mengyan Li, Yanning Jia, Fenzhuo Guo, Haifeng Dong, Sujuan Qin, Fei Gao|[2502.17084](http://arxiv.org/abs/2502.17084)|null|
 |**2025-02-17**|**Certification of quantum correlations and DIQKD at arbitrary distances through routed Bell tests**|Pavel Sekatski, Jef Pauwels, Edwin Peter Lobo, Stefano Pironio, Nicolas Brunner|[2502.12241](http://arxiv.org/abs/2502.12241)|null|
 |**2025-02-10**|**Detecting entanglement in any measurement using quantum networks**|Shubhayan Sarkar|[2502.06986](http://arxiv.org/abs/2502.06986)|null|
 |**2025-02-09**|**Perfect Transfer of Entanglement and One-Way Quantum Steering via Parametric Frequency Converter in a Two-mode Cavity Magnomechanical System**|Amjad Sohail, Allah Nawaz, Hazrat Ali, Rizwan Ahmed, Marcos Cesar de Oliveira|[2502.06040](http://arxiv.org/abs/2502.06040)|null|

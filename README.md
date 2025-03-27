@@ -504,6 +504,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Nuclear spin symmetry-breaking and spin polarization in rotational energy level clusters**|Andrey Yachmenev, Guang Yang|[2503.20695](http://arxiv.org/abs/2503.20695)|null|
+|**2025-03-24**|**Equation of State for Tachyon Neutrinos in Cosmology**|Charles Schwartz|[2503.19934](http://arxiv.org/abs/2503.19934)|null|
 |**2025-03-18**|**Quantum contextuality of spin-1 massive particles**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2503.14587](http://arxiv.org/abs/2503.14587)|null|
 |**2025-03-13**|**Thermodynamics of self-gravitating fermions as a robust theory for dark matter halos: Stability analysis applied to the Milky Way**|A. Krut, C. R. Argüelles, P. -H. Chavanis|[2503.10870](http://arxiv.org/abs/2503.10870)|null|
 |**2025-03-03**|**Derivation of Hierarchically Correlated Orbital Functional Theory: The Role of Hypercomplex Orbitals**|Ting Zhang, Neil Qiang Su|[2503.01207](http://arxiv.org/abs/2503.01207)|null|
@@ -970,6 +972,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Quantum Signatures of Chaos from Free Probability**|Hugo A. Camargo, Yichao Fu, Viktor Jahnke, Kuntal Pal, Keun-Young Kim|[2503.20338](http://arxiv.org/abs/2503.20338)|null|
+|**2025-03-26**|**Symmetry resolved out-of-time-order correlators of Heisenberg spin chains using projected matrix product operators**|Martina Gisti, David J. Luitz, Maxime Debertolis|[2503.20327](http://arxiv.org/abs/2503.20327)|null|
 |**2025-03-24**|**First Computation of Entanglement Dynamics in the SYK Model on Quantum Computers**|Talal Ahmed Chowdhury, Kwangmin Yu, Raza Sabbir Sufian|[2503.18580](http://arxiv.org/abs/2503.18580)|null|
 |**2025-03-17**|**Assessment of spectral phases of non-Hermitian quantum systems through complex and singular values**|Mahaveer Prasad, S. Harshini Tekur, Bijay Kumar Agarwalla, Manas Kulkarni|[2503.13387](http://arxiv.org/abs/2503.13387)|null|
 |**2025-03-14**|**Testing eigenstate thermalization hypothesis on small scale quantum processors**|Maanav Srihari, Anil Shaji|[2503.11616](http://arxiv.org/abs/2503.11616)|null|
@@ -1426,6 +1430,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**New local stabilizer codes from local classical codes**|Lane G. Gunderman|[2503.20717](http://arxiv.org/abs/2503.20717)|null|
 |**2025-03-25**|**Clifford gates with logical transversality for self-dual CSS codes**|Theerapat Tansuwannont, Yugo Takada, Keisuke Fujii|[2503.19790](http://arxiv.org/abs/2503.19790)|null|
 |**2025-03-25**|**Magic teleportation with generalized lattice surgery**|Yifei Wang, Yingfei Gu|[2503.19758](http://arxiv.org/abs/2503.19758)|null|
 |**2025-03-24**|**Fast and Error-Correctable Quantum RAM**|Francesco Cesa, Hannes Bernien, Hannes Pichler|[2503.19172](http://arxiv.org/abs/2503.19172)|null|

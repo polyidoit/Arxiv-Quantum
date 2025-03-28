@@ -17,9 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**How Likely Are You to Observe Non-locality with Imperfect Detection Efficiency and Random Measurement Settings?**|Paweł Cieśliński, Tamás Vértesi, Mateusz Kowalczyk, Wiesław Laskowski|[2503.21519](http://arxiv.org/abs/2503.21519)|null|
+|**2025-03-27**|**Bipartite entanglement is sufficient for standard device-independent conference key agreement**|Lewis Wooltorton, Peter Brown, Roger Colbeck|[2503.21290](http://arxiv.org/abs/2503.21290)|null|
 |**2025-03-24**|**Witnessing Magic with Bell inequalities**|Rafael A. Macedo, Patrick Andriolo, Santiago Zamora, Davide Poderini, Rafael Chaves|[2503.18734](http://arxiv.org/abs/2503.18734)|null|
 |**2025-03-24**|**About testing Bell locality at colliders**|M. Fabbrichesi, R. Floreanini, L. Marzola|[2503.18535](http://arxiv.org/abs/2503.18535)|null|
-|**2025-03-20**|**Local models and Bell inequalities for the minimal triangle network**|José Mário da Silva, Alejandro Pozas-Kerstjens, Fernando Parisio|[2503.16654](http://arxiv.org/abs/2503.16654)|null|
+|**2025-03-20**|**Local models and Bell inequalities for the minimal triangle network**|José Mário da Silva, Alejandro Pozas-Kerstjens, Fernando Parisio|[2503.16654](http://arxiv.org/abs/2503.16654)|**[link](https://github.com/mariofilho281/symmetric_triangle)**|
 |**2025-03-17**|**Quantum bounds and device-independent security with rank-one qubit measurements**|Lorenzo Coccia, Matteo Padovan, Andrea Pompermaier, Mattia Sabatini, Marco Avesani, Davide Giacomo Marangon, Paolo Villoresi, Giuseppe Vallone|[2503.13282](http://arxiv.org/abs/2503.13282)|null|
 |**2025-03-12**|**Gap between quantum theory based on real and complex numbers is arbitrarily large**|Shubhayan Sarkar, David Trillo, Marc Olivier Renou, Remigiusz Augusiak|[2503.09724](http://arxiv.org/abs/2503.09724)|null|
 |**2025-03-10**|**Spacetime events from the inside out**|G. J. Milburn|[2503.08715](http://arxiv.org/abs/2503.08715)|null|
@@ -763,6 +765,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Pattern Formation as a Resilience Mechanism in Cancer Immunotherapy**|Molly Brennan, Andrew L. Krause, Edgardo Villar-Sepúlveda, Christopher B. Prior|[2503.20909](http://arxiv.org/abs/2503.20909)|null|
 |**2025-03-16**|**BREEN: Bridge Data-Efficient Encoder-Free Multimodal Learning with Learnable Queries**|Tianle Li, Yongming Rao, Winston Hu, Yu Cheng|[2503.12446](http://arxiv.org/abs/2503.12446)|null|
 |**2025-03-13**|**Chirality, magic, and quantum correlations in multipartite quantum states**|Shreya Vardhan, Bowen Shi, Isaac H. Kim, Yijian Zou|[2503.10764](http://arxiv.org/abs/2503.10764)|null|
 |**2025-03-07**|**UniArray: Unified Spectral-Spatial Modeling for Array-Geometry-Agnostic Speech Separation**|Weiguang Chen, Junjie Zhang, Jielong Yang, Eng Siong Chng, Xionghu Zhong|[2503.05110](http://arxiv.org/abs/2503.05110)|null|
@@ -972,6 +975,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Interferometric OTOC for Non-Markovian Open Quantum Systems**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2503.21345](http://arxiv.org/abs/2503.21345)|null|
+|**2025-03-26**|**Solvable Quantum Circuits in Tree+1 Dimensions**|Oliver Breach, Benedikt Placke, Pieter W. Claeys, S. A. Parameswaran|[2503.20927](http://arxiv.org/abs/2503.20927)|null|
 |**2025-03-26**|**Quantum Signatures of Chaos from Free Probability**|Hugo A. Camargo, Yichao Fu, Viktor Jahnke, Kuntal Pal, Keun-Young Kim|[2503.20338](http://arxiv.org/abs/2503.20338)|null|
 |**2025-03-26**|**Symmetry resolved out-of-time-order correlators of Heisenberg spin chains using projected matrix product operators**|Martina Gisti, David J. Luitz, Maxime Debertolis|[2503.20327](http://arxiv.org/abs/2503.20327)|null|
 |**2025-03-24**|**First Computation of Entanglement Dynamics in the SYK Model on Quantum Computers**|Talal Ahmed Chowdhury, Kwangmin Yu, Raza Sabbir Sufian|[2503.18580](http://arxiv.org/abs/2503.18580)|null|
@@ -1430,6 +1435,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Bosonic quantum error correction with microwave cavities for quantum repeaters**|S. Siddardha Chelluri, Sanchar Sharma, Frank Schmidt, Silvia Viola Kusminskiy, Peter van Loock|[2503.21569](http://arxiv.org/abs/2503.21569)|null|
+|**2025-03-27**|**Generative Decoding for Quantum Error-correcting Codes**|Hanyan Cao, Feng Pan, Dongyang Feng, Yijia Wang, Pan Zhang|[2503.21374](http://arxiv.org/abs/2503.21374)|null|
+|**2025-03-26**|**Variational Quantum Algorithms in the era of Early Fault Tolerance**|Siddharth Dangwal, Suhas Vittal, Lennart Maximillian Seifert, Frederic T. Chong, Gokul Subramanian Ravi|[2503.20963](http://arxiv.org/abs/2503.20963)|null|
 |**2025-03-26**|**New local stabilizer codes from local classical codes**|Lane G. Gunderman|[2503.20717](http://arxiv.org/abs/2503.20717)|null|
 |**2025-03-25**|**Clifford gates with logical transversality for self-dual CSS codes**|Theerapat Tansuwannont, Yugo Takada, Keisuke Fujii|[2503.19790](http://arxiv.org/abs/2503.19790)|null|
 |**2025-03-25**|**Magic teleportation with generalized lattice surgery**|Yifei Wang, Yingfei Gu|[2503.19758](http://arxiv.org/abs/2503.19758)|null|

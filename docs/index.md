@@ -493,6 +493,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Towards a Quantum Information Theory of Hadronization: Dihadron Fragmentation and Neutral Polarization in Heavy Baryons**|Rebecca von Kuk, Kyle Lee, Johannes K. L. Michel, Zhiquan Sun|[2503.22607](http://arxiv.org/abs/2503.22607)|null|
 |**2025-03-26**|**Nuclear spin symmetry-breaking and spin polarization in rotational energy level clusters**|Andrey Yachmenev, Guang Yang|[2503.20695](http://arxiv.org/abs/2503.20695)|null|
 |**2025-03-24**|**Equation of State for Tachyon Neutrinos in Cosmology**|Charles Schwartz|[2503.19934](http://arxiv.org/abs/2503.19934)|null|
 |**2025-03-18**|**Quantum contextuality of spin-1 massive particles**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2503.14587](http://arxiv.org/abs/2503.14587)|null|
@@ -1414,6 +1415,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Fault tolerance against amplitude-damping noise using Bacon-Shor codes**|Long D. H. My, Akshaya Jayashankar, Prabha Mandayam, Hui Khoon Ng|[2503.22108](http://arxiv.org/abs/2503.22108)|null|
+|**2025-03-28**|**Order-of-magnitude extension of qubit lifetimes with a decoherence-free subspace quantum error correction code**|Shival Dasu, Ben Criger, Cameron Foltz, Justin A. Gerber, Christopher N. Gilbreth, Kevin Gilmore, Craig A. Holliman, Nathan K. Lysne, Alistair. R. Milne, Daichi Okuno, Grahame Vittorini, David Hayes|[2503.22107](http://arxiv.org/abs/2503.22107)|null|
+|**2025-03-28**|**Quantum error correction for long chains of trapped ions**|Min Ye, Nicolas Delfosse|[2503.22071](http://arxiv.org/abs/2503.22071)|null|
 |**2025-03-27**|**Bosonic quantum error correction with microwave cavities for quantum repeaters**|S. Siddardha Chelluri, Sanchar Sharma, Frank Schmidt, Silvia Viola Kusminskiy, Peter van Loock|[2503.21569](http://arxiv.org/abs/2503.21569)|null|
 |**2025-03-27**|**Generative Decoding for Quantum Error-correcting Codes**|Hanyan Cao, Feng Pan, Dongyang Feng, Yijia Wang, Pan Zhang|[2503.21374](http://arxiv.org/abs/2503.21374)|null|
 |**2025-03-26**|**Variational Quantum Algorithms in the era of Early Fault Tolerance**|Siddharth Dangwal, Suhas Vittal, Lennart Maximillian Seifert, Frederic T. Chong, Gokul Subramanian Ravi|[2503.20963](http://arxiv.org/abs/2503.20963)|null|

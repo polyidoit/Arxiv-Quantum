@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 
 ## Bell nonlocality
 
@@ -1422,7 +1422,7 @@ layout: default
 |**2025-03-27**|**Generative Decoding for Quantum Error-correcting Codes**|Hanyan Cao, Feng Pan, Dongyang Feng, Yijia Wang, Pan Zhang|[2503.21374](http://arxiv.org/abs/2503.21374)|null|
 |**2025-03-26**|**Variational Quantum Algorithms in the era of Early Fault Tolerance**|Siddharth Dangwal, Suhas Vittal, Lennart Maximillian Seifert, Frederic T. Chong, Gokul Subramanian Ravi|[2503.20963](http://arxiv.org/abs/2503.20963)|null|
 |**2025-03-26**|**New local stabilizer codes from local classical codes**|Lane G. Gunderman|[2503.20717](http://arxiv.org/abs/2503.20717)|null|
-|**2025-03-25**|**Clifford gates with logical transversality for self-dual CSS codes**|Theerapat Tansuwannont, Yugo Takada, Keisuke Fujii|[2503.19790](http://arxiv.org/abs/2503.19790)|null|
+|**2025-03-25**|**Clifford gates with logical transversality for self-dual CSS codes**|Theerapat Tansuwannont, Yugo Takada, Keisuke Fujii|[2503.19790](http://arxiv.org/abs/2503.19790)|**[link](https://github.com/yugotakada/mlvtrans)**|
 |**2025-03-25**|**Magic teleportation with generalized lattice surgery**|Yifei Wang, Yingfei Gu|[2503.19758](http://arxiv.org/abs/2503.19758)|null|
 |**2025-03-24**|**Fast and Error-Correctable Quantum RAM**|Francesco Cesa, Hannes Bernien, Hannes Pichler|[2503.19172](http://arxiv.org/abs/2503.19172)|null|
 |**2025-03-24**|**Efficient Magic State Cultivation on $\mathbb{RP}^2$**|Zi-Han Chen, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan|[2503.18657](http://arxiv.org/abs/2503.18657)|null|

@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Closing the detection loophole in the triangle network with high-dimensional photonic states**|Tamás Kriváchy, Martin Kerschbaumer|[2503.24213](http://arxiv.org/abs/2503.24213)|null|
+|**2025-03-30**|**Genuine four-partite Bell nonlocality in the curved spacetime**|Guang-Wei Mi, Xiaofen Huang, Shao-Ming Fei, Tinggui Zhang|[2503.23302](http://arxiv.org/abs/2503.23302)|null|
+|**2025-03-29**|**On the Quantum Chromatic Gap**|Lorenzo Ciardo|[2503.23207](http://arxiv.org/abs/2503.23207)|null|
 |**2025-03-27**|**How Likely Are You to Observe Non-locality with Imperfect Detection Efficiency and Random Measurement Settings?**|Paweł Cieśliński, Tamás Vértesi, Mateusz Kowalczyk, Wiesław Laskowski|[2503.21519](http://arxiv.org/abs/2503.21519)|null|
 |**2025-03-27**|**Bipartite entanglement is sufficient for standard device-independent conference key agreement**|Lewis Wooltorton, Peter Brown, Roger Colbeck|[2503.21290](http://arxiv.org/abs/2503.21290)|null|
 |**2025-03-24**|**Witnessing Magic with Bell inequalities**|Rafael A. Macedo, Patrick Andriolo, Santiago Zamora, Davide Poderini, Rafael Chaves|[2503.18734](http://arxiv.org/abs/2503.18734)|null|
@@ -404,6 +407,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Quantum causality in kappa Minkoswki**|Valentine Maris|[2503.24192](http://arxiv.org/abs/2503.24192)|null|
 |**2025-03-12**|**Higher-Order Quantum Operations**|Philip Taranto, Simon Milz, Mio Murao, Marco Túlio Quintino, Kavan Modi|[2503.09693](http://arxiv.org/abs/2503.09693)|null|
 |**2025-02-28**|**Quantum information elements in Quantum Gravity states and processes**|Daniele Oriti|[2502.21234](http://arxiv.org/abs/2502.21234)|null|
 |**2025-02-07**|**Cyclic functional causal models beyond unique solvability with a graph separation theorem**|Carla Ferradini, Victor Gitton, V. Vilasini|[2502.04171](http://arxiv.org/abs/2502.04171)|null|
@@ -976,6 +980,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-30**|**Many body quantum chaos and time reversal symmetry**|Weijun Wu, Saumya Shivam, Amos Chan|[2503.23475](http://arxiv.org/abs/2503.23475)|null|
+|**2025-03-30**|**Probing the localization effects in Krylov basis**|J. Bharathi Kannan, Sreeram PG, Sanku Paul, S. Harshini Tekur, M. S. Santhanam|[2503.23334](http://arxiv.org/abs/2503.23334)|null|
 |**2025-03-27**|**Interferometric OTOC for Non-Markovian Open Quantum Systems**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2503.21345](http://arxiv.org/abs/2503.21345)|null|
 |**2025-03-26**|**Solvable Quantum Circuits in Tree+1 Dimensions**|Oliver Breach, Benedikt Placke, Pieter W. Claeys, S. A. Parameswaran|[2503.20927](http://arxiv.org/abs/2503.20927)|null|
 |**2025-03-26**|**Quantum Signatures of Chaos from Free Probability**|Hugo A. Camargo, Yichao Fu, Viktor Jahnke, Kuntal Pal, Keun-Young Kim|[2503.20338](http://arxiv.org/abs/2503.20338)|null|
@@ -1436,6 +1442,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-30**|**Quantum Computation with Quantum Batteries**|Yaniv Kurman, Kieran Hymas, Arkady Fedorov, William J. Munro, James Quach|[2503.23610](http://arxiv.org/abs/2503.23610)|null|
 |**2025-03-28**|**Fault tolerance against amplitude-damping noise using Bacon-Shor codes**|Long D. H. My, Akshaya Jayashankar, Prabha Mandayam, Hui Khoon Ng|[2503.22108](http://arxiv.org/abs/2503.22108)|null|
 |**2025-03-28**|**Order-of-magnitude extension of qubit lifetimes with a decoherence-free subspace quantum error correction code**|Shival Dasu, Ben Criger, Cameron Foltz, Justin A. Gerber, Christopher N. Gilbreth, Kevin Gilmore, Craig A. Holliman, Nathan K. Lysne, Alistair. R. Milne, Daichi Okuno, Grahame Vittorini, David Hayes|[2503.22107](http://arxiv.org/abs/2503.22107)|null|
 |**2025-03-28**|**Quantum error correction for long chains of trapped ions**|Min Ye, Nicolas Delfosse|[2503.22071](http://arxiv.org/abs/2503.22071)|null|

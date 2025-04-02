@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-31**|**Closing the detection loophole in the triangle network with high-dimensional photonic states**|Tamás Kriváchy, Martin Kerschbaumer|[2503.24213](http://arxiv.org/abs/2503.24213)|null|
+|**2025-03-31**|**Closing the detection loophole in the triangle network with high-dimensional photonic states**|Tamás Kriváchy, Martin Kerschbaumer|[2503.24213](http://arxiv.org/abs/2503.24213)|**[link](https://github.com/tkrivachy/detectionloopholelp)**|
 |**2025-03-30**|**Genuine four-partite Bell nonlocality in the curved spacetime**|Guang-Wei Mi, Xiaofen Huang, Shao-Ming Fei, Tinggui Zhang|[2503.23302](http://arxiv.org/abs/2503.23302)|null|
 |**2025-03-29**|**On the Quantum Chromatic Gap**|Lorenzo Ciardo|[2503.23207](http://arxiv.org/abs/2503.23207)|null|
 |**2025-03-27**|**How Likely Are You to Observe Non-locality with Imperfect Detection Efficiency and Random Measurement Settings?**|Paweł Cieśliński, Tamás Vértesi, Mateusz Kowalczyk, Wiesław Laskowski|[2503.21519](http://arxiv.org/abs/2503.21519)|null|

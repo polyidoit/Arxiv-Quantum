@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Entanglement and Bell Nonlocality in $τ^+ τ^-$ at the LHC using Machine Learning for Neutrino Reconstruction**|Yulei Zhang, Bai-Hong Zhou, Qi-Bin Liu, Shu Li, Shih-Chieh Hsu, Tao Han, Matthew Low, Tong Arthur Wu|[2504.01496](http://arxiv.org/abs/2504.01496)|null|
+|**2025-04-01**|**Review of "Just Plain Wrong: The Dalliance of Quantum Theory with the Defiance of Bell's Inequality"**|W. M. Stuckey, Timothy McDevitt, Michael Silberstein|[2504.01056](http://arxiv.org/abs/2504.01056)|null|
+|**2025-03-31**|**Quantum Information meets High-Energy Physics: Input to the update of the European Strategy for Particle Physics**|Yoav Afik, Federica Fabbri, Matthew Low, Luca Marzola, Juan Antonio Aguilar-Saavedra, Mohammad Mahdi Altakach, Nedaa Alexandra Asbah, Yang Bai, Alan J. Barr, Alexander Bernal, Thomas E. Browder, Paweł Caban, Kun Cheng, Frédéric Déliot, Regina Demina, Antonio Di Domenico, Michał Eckstein, Marco Fabbrichesi, Emidio Gabrielli, Dorival Gonçalves, Michele Grossi, Tao Han, Timothy J. Hobbs, Paweł Horodecki, James Howarth, Eleanor Jones, Andreas W. Jung, Andrea Helen Knue, Steffen Korn, Theodota Lagouri, Priyanka Lamba, Gabriel T. Landi, Ian Low, Fabio Maltoni, Josh McFayden, Navin McGinnis, Roberto A. Morales, Juan Ramón Muñoz de Nova, Giulia Negro, Davide Pagani, Giovanni Pelliccioli, Michele Pinamonti, Laura Pintucci, Baptiste Ravina, Kazuki Sakurai, Maximiliano Sioli, Shufang Su, Sokratis Trifinopoulos, Sven E. Vahsen, Sofia Vallecorsa, Alessandro Vicini, Marcel Vos, Eleni Vryonidou, Chris D. White, Martin J. White, Andrew J. Wildridge, Tong Arthur Wu, Yulei Zhang|[2504.00086](http://arxiv.org/abs/2504.00086)|null|
 |**2025-03-31**|**Closing the detection loophole in the triangle network with high-dimensional photonic states**|Tamás Kriváchy, Martin Kerschbaumer|[2503.24213](http://arxiv.org/abs/2503.24213)|**[link](https://github.com/tkrivachy/detectionloopholelp)**|
 |**2025-03-30**|**Genuine four-partite Bell nonlocality in the curved spacetime**|Guang-Wei Mi, Xiaofen Huang, Shao-Ming Fei, Tinggui Zhang|[2503.23302](http://arxiv.org/abs/2503.23302)|null|
 |**2025-03-29**|**On the Quantum Chromatic Gap**|Lorenzo Ciardo|[2503.23207](http://arxiv.org/abs/2503.23207)|null|
@@ -770,6 +773,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Tinnitus, lucid dreaming and awakening. An online survey and theoretical implications**|Robin Guillard, Nicolas Dauman, Aurélien Cadix, Charlotte Glabasnia Linck, Marco Congedo, Dirk de Ridder, Alain Londero|[2504.01453](http://arxiv.org/abs/2504.01453)|null|
 |**2025-03-26**|**Pattern Formation as a Resilience Mechanism in Cancer Immunotherapy**|Molly Brennan, Andrew L. Krause, Edgardo Villar-Sepúlveda, Christopher B. Prior|[2503.20909](http://arxiv.org/abs/2503.20909)|null|
 |**2025-03-16**|**BREEN: Bridge Data-Efficient Encoder-Free Multimodal Learning with Learnable Queries**|Tianle Li, Yongming Rao, Winston Hu, Yu Cheng|[2503.12446](http://arxiv.org/abs/2503.12446)|null|
 |**2025-03-13**|**Chirality, magic, and quantum correlations in multipartite quantum states**|Shreya Vardhan, Bowen Shi, Isaac H. Kim, Yijian Zou|[2503.10764](http://arxiv.org/abs/2503.10764)|null|
@@ -980,6 +984,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Relieving the post-selection problem by quantum singular value transformation**|Hong-Yi Wang|[2504.00108](http://arxiv.org/abs/2504.00108)|null|
 |**2025-03-30**|**Many body quantum chaos and time reversal symmetry**|Weijun Wu, Saumya Shivam, Amos Chan|[2503.23475](http://arxiv.org/abs/2503.23475)|null|
 |**2025-03-30**|**Probing the localization effects in Krylov basis**|J. Bharathi Kannan, Sreeram PG, Sanku Paul, S. Harshini Tekur, M. S. Santhanam|[2503.23334](http://arxiv.org/abs/2503.23334)|null|
 |**2025-03-27**|**Interferometric OTOC for Non-Markovian Open Quantum Systems**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2503.21345](http://arxiv.org/abs/2503.21345)|null|
@@ -1442,6 +1447,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Threshold for Fault-tolerant Quantum Advantage with the Quantum Approximate Optimization Algorithm**|Sivaprasad Omanakuttan, Zichang He, Zhiwei Zhang, Tianyi Hao, Arman Babakhani, Sami Boulebnane, Shouvanik Chakrabarti, Dylan Herman, Joseph Sullivan, Michael A. Perlin, Ruslan Shaydulin, Marco Pistoia|[2504.01897](http://arxiv.org/abs/2504.01897)|null|
+|**2025-04-02**|**Preparation of conditionally-squeezed states in qubit-oscillator systems**|Marius K. Hope, Jonas Lidal, Francesco Massel|[2504.01664](http://arxiv.org/abs/2504.01664)|null|
+|**2025-04-02**|**Bubble Clustering Decoder for Quantum Topological Codes**|Diego Forlivesi, Lorenzo Valentini, Marco Chiani|[2504.01654](http://arxiv.org/abs/2504.01654)|null|
+|**2025-04-02**|**Why many-partite entanglement is essential for holography**|Norihiro Iizuka, Simon Lin, Mitsuhiro Nishida|[2504.01625](http://arxiv.org/abs/2504.01625)|null|
+|**2025-04-02**|**General channel capacities from quantum channel-state duality**|Y. -D. Liu, D. -S. Wang|[2504.01411](http://arxiv.org/abs/2504.01411)|null|
+|**2025-04-02**|**Bayesian critical points in classical lattice models**|Adam Nahum, Jesper Lykke Jacobsen|[2504.01264](http://arxiv.org/abs/2504.01264)|null|
+|**2025-04-01**|**Diversity Methods for Improving Convergence and Accuracy of Quantum Error Correction Decoders Through Hardware Emulation**|Francisco Garcia-Herrero, Javier Valls, Llanos Vergara-Picazo, Vicente Torres|[2504.01164](http://arxiv.org/abs/2504.01164)|null|
+|**2025-04-01**|**Fault-tolerant correction-ready encoding of the [[7,1,3]] Steane code on a 2D grid**|Andrea Rodriguez-Blanco, Ho Nam Nguyen, K. Birgitta Whaley|[2504.01083](http://arxiv.org/abs/2504.01083)|null|
+|**2025-03-31**|**Relieving the post-selection problem by quantum singular value transformation**|Hong-Yi Wang|[2504.00108](http://arxiv.org/abs/2504.00108)|null|
+|**2025-03-31**|**On Infinite Tensor Networks, Complementary Recovery and Type II Factors**|Wissam Chemissany, Elliott Gesteau, Alexander Jahn, Daniel Murphy, Leo Shaposhnik|[2504.00096](http://arxiv.org/abs/2504.00096)|null|
 |**2025-03-30**|**Quantum Computation with Quantum Batteries**|Yaniv Kurman, Kieran Hymas, Arkady Fedorov, William J. Munro, James Quach|[2503.23610](http://arxiv.org/abs/2503.23610)|null|
 |**2025-03-28**|**Fault tolerance against amplitude-damping noise using Bacon-Shor codes**|Long D. H. My, Akshaya Jayashankar, Prabha Mandayam, Hui Khoon Ng|[2503.22108](http://arxiv.org/abs/2503.22108)|null|
 |**2025-03-28**|**Order-of-magnitude extension of qubit lifetimes with a decoherence-free subspace quantum error correction code**|Shival Dasu, Ben Criger, Cameron Foltz, Justin A. Gerber, Christopher N. Gilbreth, Kevin Gilmore, Craig A. Holliman, Nathan K. Lysne, Alistair. R. Milne, Daichi Okuno, Grahame Vittorini, David Hayes|[2503.22107](http://arxiv.org/abs/2503.22107)|null|

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Catalytic Activation of Bell Nonlocality**|Jessica Bavaresco, Nicolas Brunner, Antoine Girardin, Patryk Lipka-Bartosik, Pavel Sekatski|[2504.02042](http://arxiv.org/abs/2504.02042)|null|
 |**2025-04-02**|**Entanglement and Bell Nonlocality in $τ^+ τ^-$ at the LHC using Machine Learning for Neutrino Reconstruction**|Yulei Zhang, Bai-Hong Zhou, Qi-Bin Liu, Shu Li, Shih-Chieh Hsu, Tao Han, Matthew Low, Tong Arthur Wu|[2504.01496](http://arxiv.org/abs/2504.01496)|null|
 |**2025-04-01**|**Review of "Just Plain Wrong: The Dalliance of Quantum Theory with the Defiance of Bell's Inequality"**|W. M. Stuckey, Timothy McDevitt, Michael Silberstein|[2504.01056](http://arxiv.org/abs/2504.01056)|null|
 |**2025-03-31**|**Quantum Information meets High-Energy Physics: Input to the update of the European Strategy for Particle Physics**|Yoav Afik, Federica Fabbri, Matthew Low, Luca Marzola, Juan Antonio Aguilar-Saavedra, Mohammad Mahdi Altakach, Nedaa Alexandra Asbah, Yang Bai, Alan J. Barr, Alexander Bernal, Thomas E. Browder, Paweł Caban, Kun Cheng, Frédéric Déliot, Regina Demina, Antonio Di Domenico, Michał Eckstein, Marco Fabbrichesi, Emidio Gabrielli, Dorival Gonçalves, Michele Grossi, Tao Han, Timothy J. Hobbs, Paweł Horodecki, James Howarth, Eleanor Jones, Andreas W. Jung, Andrea Helen Knue, Steffen Korn, Theodota Lagouri, Priyanka Lamba, Gabriel T. Landi, Ian Low, Fabio Maltoni, Josh McFayden, Navin McGinnis, Roberto A. Morales, Juan Ramón Muñoz de Nova, Giulia Negro, Davide Pagani, Giovanni Pelliccioli, Michele Pinamonti, Laura Pintucci, Baptiste Ravina, Kazuki Sakurai, Maximiliano Sioli, Shufang Su, Sokratis Trifinopoulos, Sven E. Vahsen, Sofia Vallecorsa, Alessandro Vicini, Marcel Vos, Eleni Vryonidou, Chris D. White, Martin J. White, Andrew J. Wildridge, Tong Arthur Wu, Yulei Zhang|[2504.00086](http://arxiv.org/abs/2504.00086)|null|
@@ -965,6 +966,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Logarithmic entanglement lightcone from eigenstate correlations in the many-body localised phase**|Ratul Thakur, Bikram Pain, Sthitadhi Roy|[2504.02815](http://arxiv.org/abs/2504.02815)|null|
 |**2025-03-31**|**Relieving the post-selection problem by quantum singular value transformation**|Hong-Yi Wang|[2504.00108](http://arxiv.org/abs/2504.00108)|null|
 |**2025-03-30**|**Many body quantum chaos and time reversal symmetry**|Weijun Wu, Saumya Shivam, Amos Chan|[2503.23475](http://arxiv.org/abs/2503.23475)|null|
 |**2025-03-30**|**Probing the localization effects in Krylov basis**|J. Bharathi Kannan, Sreeram PG, Sanku Paul, S. Harshini Tekur, M. S. Santhanam|[2503.23334](http://arxiv.org/abs/2503.23334)|null|
@@ -1426,6 +1428,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**QUITS: A modular Qldpc code circUIT Simulator**|Mingyu Kang, Yingjia Lin, Hanwen Yao, Mert Gökduman, Arianna Meinking, Kenneth R. Brown|[2504.02673](http://arxiv.org/abs/2504.02673)|null|
+|**2025-04-03**|**A Scalable Synthesis Algorithm for Reversible Functions**|Moein Sarvaghad-Moghaddam, Morteza Saheb Zamani, Mehdi Sedighi|[2504.02632](http://arxiv.org/abs/2504.02632)|null|
 |**2025-04-02**|**Threshold for Fault-tolerant Quantum Advantage with the Quantum Approximate Optimization Algorithm**|Sivaprasad Omanakuttan, Zichang He, Zhiwei Zhang, Tianyi Hao, Arman Babakhani, Sami Boulebnane, Shouvanik Chakrabarti, Dylan Herman, Joseph Sullivan, Michael A. Perlin, Ruslan Shaydulin, Marco Pistoia|[2504.01897](http://arxiv.org/abs/2504.01897)|null|
 |**2025-04-02**|**Preparation of conditionally-squeezed states in qubit-oscillator systems**|Marius K. Hope, Jonas Lidal, Francesco Massel|[2504.01664](http://arxiv.org/abs/2504.01664)|null|
 |**2025-04-02**|**Bubble Clustering Decoder for Quantum Topological Codes**|Diego Forlivesi, Lorenzo Valentini, Marco Chiani|[2504.01654](http://arxiv.org/abs/2504.01654)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 
 ## Bell nonlocality
 
@@ -972,7 +972,7 @@ layout: default
 |**2025-03-30**|**Probing the localization effects in Krylov basis**|J. Bharathi Kannan, Sreeram PG, Sanku Paul, S. Harshini Tekur, M. S. Santhanam|[2503.23334](http://arxiv.org/abs/2503.23334)|null|
 |**2025-03-27**|**Interferometric OTOC for Non-Markovian Open Quantum Systems**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2503.21345](http://arxiv.org/abs/2503.21345)|null|
 |**2025-03-26**|**Solvable Quantum Circuits in Tree+1 Dimensions**|Oliver Breach, Benedikt Placke, Pieter W. Claeys, S. A. Parameswaran|[2503.20927](http://arxiv.org/abs/2503.20927)|null|
-|**2025-03-26**|**Quantum Signatures of Chaos from Free Probability**|Hugo A. Camargo, Yichao Fu, Viktor Jahnke, Kuntal Pal, Keun-Young Kim|[2503.20338](http://arxiv.org/abs/2503.20338)|null|
+|**2025-04-04**|**Quantum Signatures of Chaos from Free Probability**|Hugo A. Camargo, Yichao Fu, Viktor Jahnke, Kuntal Pal, Keun-Young Kim|[2503.20338](http://arxiv.org/abs/2503.20338)|null|
 |**2025-03-26**|**Symmetry resolved out-of-time-order correlators of Heisenberg spin chains using projected matrix product operators**|Martina Gisti, David J. Luitz, Maxime Debertolis|[2503.20327](http://arxiv.org/abs/2503.20327)|null|
 |**2025-03-24**|**First Computation of Entanglement Dynamics in the SYK Model on Quantum Computers**|Talal Ahmed Chowdhury, Kwangmin Yu, Raza Sabbir Sufian|[2503.18580](http://arxiv.org/abs/2503.18580)|null|
 |**2025-03-17**|**Assessment of spectral phases of non-Hermitian quantum systems through complex and singular values**|Mahaveer Prasad, S. Harshini Tekur, Bijay Kumar Agarwalla, Manas Kulkarni|[2503.13387](http://arxiv.org/abs/2503.13387)|null|

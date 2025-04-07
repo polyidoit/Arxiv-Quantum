@@ -501,6 +501,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Octaquarks in a simple chromomagnetic model**|Aaron Park|[2504.03213](http://arxiv.org/abs/2504.03213)|null|
+|**2025-04-04**|**Signature of matter-field coupling in quantum-mechanical statistics**|Ana María Cetto, Luis de la Peña|[2504.03142](http://arxiv.org/abs/2504.03142)|null|
 |**2025-03-28**|**Towards a Quantum Information Theory of Hadronization: Dihadron Fragmentation and Neutral Polarization in Heavy Baryons**|Rebecca von Kuk, Kyle Lee, Johannes K. L. Michel, Zhiquan Sun|[2503.22607](http://arxiv.org/abs/2503.22607)|null|
 |**2025-03-26**|**Nuclear spin symmetry-breaking and spin polarization in rotational energy level clusters**|Andrey Yachmenev, Guang Yang|[2503.20695](http://arxiv.org/abs/2503.20695)|null|
 |**2025-03-24**|**Equation of State for Tachyon Neutrinos in Cosmology**|Charles Schwartz|[2503.19934](http://arxiv.org/abs/2503.19934)|null|
@@ -1428,6 +1430,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel, Lode Pollet, Fabian Grusdt|[2504.03512](http://arxiv.org/abs/2504.03512)|null|
+|**2025-04-04**|**Reducing quantum error correction overhead using soft information**|Joonas Majaniemi, Elisha S. Matekole|[2504.03504](http://arxiv.org/abs/2504.03504)|null|
+|**2025-04-04**|**SpinHex: A low-crosstalk, spin-qubit architecture based on multi-electron couplers**|Rubén M. Otxoa, Josu Etxezarreta Martinez, Paul Schnabl, Normann Mertig, Charles Smith, Frederico Martins|[2504.03149](http://arxiv.org/abs/2504.03149)|null|
+|**2025-04-03**|**Magic State Injection with Erasure Qubits**|Shoham Jacoby, Yotam Vaknin, Alex Retzker, Arne L. Grimsmo|[2504.02935](http://arxiv.org/abs/2504.02935)|null|
 |**2025-04-03**|**QUITS: A modular Qldpc code circUIT Simulator**|Mingyu Kang, Yingjia Lin, Hanwen Yao, Mert Gökduman, Arianna Meinking, Kenneth R. Brown|[2504.02673](http://arxiv.org/abs/2504.02673)|null|
 |**2025-04-03**|**A Scalable Synthesis Algorithm for Reversible Functions**|Moein Sarvaghad-Moghaddam, Morteza Saheb Zamani, Mehdi Sedighi|[2504.02632](http://arxiv.org/abs/2504.02632)|null|
 |**2025-04-02**|**Threshold for Fault-tolerant Quantum Advantage with the Quantum Approximate Optimization Algorithm**|Sivaprasad Omanakuttan, Zichang He, Zhiwei Zhang, Tianyi Hao, Arman Babakhani, Sami Boulebnane, Shouvanik Chakrabarti, Dylan Herman, Joseph Sullivan, Michael A. Perlin, Ruslan Shaydulin, Marco Pistoia|[2504.01897](http://arxiv.org/abs/2504.01897)|null|

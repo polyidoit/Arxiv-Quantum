@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Time evolution of randomness in Bell's experiment indicates 'Realism' is false**|Mónica Agüero, Alejandro Hnilo, Marcelo Kovalsky, Myriam Nonaka|[2504.03921](http://arxiv.org/abs/2504.03921)|null|
 |**2025-04-02**|**Catalytic Activation of Bell Nonlocality**|Jessica Bavaresco, Nicolas Brunner, Antoine Girardin, Patryk Lipka-Bartosik, Pavel Sekatski|[2504.02042](http://arxiv.org/abs/2504.02042)|null|
 |**2025-04-02**|**Entanglement and Bell Nonlocality in $τ^+ τ^-$ at the LHC using Machine Learning for Neutrino Reconstruction**|Yulei Zhang, Bai-Hong Zhou, Qi-Bin Liu, Shu Li, Shih-Chieh Hsu, Tao Han, Matthew Low, Tong Arthur Wu|[2504.01496](http://arxiv.org/abs/2504.01496)|null|
 |**2025-04-01**|**Review of "Just Plain Wrong: The Dalliance of Quantum Theory with the Defiance of Bell's Inequality"**|W. M. Stuckey, Timothy McDevitt, Michael Silberstein|[2504.01056](http://arxiv.org/abs/2504.01056)|null|
@@ -968,6 +969,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Measuring Rényi entropy using a projected Loschmidt echo**|Yi-Neng Zhou, Robin Löwenberg, Julian Sonner|[2504.05237](http://arxiv.org/abs/2504.05237)|null|
+|**2025-04-07**|**Scalable simulation of random quantum circuits using projected entangled-pair states**|Sung-Bin B. Lee, Hee Ryang Choi, Daniel Donghyon Ohm, Seung-Sup B. Lee|[2504.04769](http://arxiv.org/abs/2504.04769)|null|
 |**2025-04-03**|**Logarithmic entanglement lightcone from eigenstate correlations in the many-body localised phase**|Ratul Thakur, Bikram Pain, Sthitadhi Roy|[2504.02815](http://arxiv.org/abs/2504.02815)|null|
 |**2025-03-31**|**Relieving the post-selection problem by quantum singular value transformation**|Hong-Yi Wang|[2504.00108](http://arxiv.org/abs/2504.00108)|null|
 |**2025-03-30**|**Many body quantum chaos and time reversal symmetry**|Weijun Wu, Saumya Shivam, Amos Chan|[2503.23475](http://arxiv.org/abs/2503.23475)|null|

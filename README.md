@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Neutrino Oscillations as a Probe of Macrorealism**|Kathrine Mørch Groth, Johann Ioannou-Nikolaides, D. Jason Koskinen, Markus Ahlers|[2504.05375](http://arxiv.org/abs/2504.05375)|null|
 |**2025-04-04**|**Time evolution of randomness in Bell's experiment indicates 'Realism' is false**|Mónica Agüero, Alejandro Hnilo, Marcelo Kovalsky, Myriam Nonaka|[2504.03921](http://arxiv.org/abs/2504.03921)|null|
 |**2025-04-02**|**Catalytic Activation of Bell Nonlocality**|Jessica Bavaresco, Nicolas Brunner, Antoine Girardin, Patryk Lipka-Bartosik, Pavel Sekatski|[2504.02042](http://arxiv.org/abs/2504.02042)|null|
 |**2025-04-02**|**Entanglement and Bell Nonlocality in $τ^+ τ^-$ at the LHC using Machine Learning for Neutrino Reconstruction**|Yulei Zhang, Bai-Hong Zhou, Qi-Bin Liu, Shu Li, Shih-Chieh Hsu, Tao Han, Matthew Low, Tong Arthur Wu|[2504.01496](http://arxiv.org/abs/2504.01496)|null|
@@ -515,6 +516,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Entanglement in two-quasiparticle-triaxial-rotor systems: Chirality, wobbling, and the Pauli effect**|Q. B. Chen, S. Frauendorf|[2504.05608](http://arxiv.org/abs/2504.05608)|null|
 |**2025-04-04**|**Octaquarks in a simple chromomagnetic model**|Aaron Park|[2504.03213](http://arxiv.org/abs/2504.03213)|null|
 |**2025-04-04**|**Signature of matter-field coupling in quantum-mechanical statistics**|Ana María Cetto, Luis de la Peña|[2504.03142](http://arxiv.org/abs/2504.03142)|null|
 |**2025-03-28**|**Towards a Quantum Information Theory of Hadronization: Dihadron Fragmentation and Neutral Polarization in Heavy Baryons**|Rebecca von Kuk, Kyle Lee, Johannes K. L. Michel, Zhiquan Sun|[2503.22607](http://arxiv.org/abs/2503.22607)|null|
@@ -988,6 +990,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Timescales for thermalization, quantum chaos, and self-averaging**|Isaías Vallejo-Fabila, Lea F. Santos|[2504.06100](http://arxiv.org/abs/2504.06100)|null|
 |**2025-04-07**|**Measuring Rényi entropy using a projected Loschmidt echo**|Yi-Neng Zhou, Robin Löwenberg, Julian Sonner|[2504.05237](http://arxiv.org/abs/2504.05237)|null|
 |**2025-04-07**|**Scalable simulation of random quantum circuits using projected entangled-pair states**|Sung-Bin B. Lee, Hee Ryang Choi, Daniel Donghyon Ohm, Seung-Sup B. Lee|[2504.04769](http://arxiv.org/abs/2504.04769)|null|
 |**2025-04-03**|**Logarithmic entanglement lightcone from eigenstate correlations in the many-body localised phase**|Ratul Thakur, Bikram Pain, Sthitadhi Roy|[2504.02815](http://arxiv.org/abs/2504.02815)|null|
@@ -1454,6 +1457,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Assessing Teleportation of Logical Qubits in a Distributed Quantum Architecture under Error Correction**|John Stack, Ming Wang, Frank Mueller|[2504.05611](http://arxiv.org/abs/2504.05611)|null|
+|**2025-04-07**|**Quantum Circuits for High-Dimensional Absolutely Maximally Entangled States**|Berta Casas, Grzegorz Rajchel-Mieldzioć, Suhail Ahmad Rather, Marcin Płodzień, Wojciech Bruzda, Alba Cervera-Lierta, Karol Życzkowski|[2504.05394](http://arxiv.org/abs/2504.05394)|null|
 |**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel, Lode Pollet, Fabian Grusdt|[2504.03512](http://arxiv.org/abs/2504.03512)|null|
 |**2025-04-04**|**Reducing quantum error correction overhead using soft information**|Joonas Majaniemi, Elisha S. Matekole|[2504.03504](http://arxiv.org/abs/2504.03504)|null|
 |**2025-04-04**|**SpinHex: A low-crosstalk, spin-qubit architecture based on multi-electron couplers**|Rubén M. Otxoa, Josu Etxezarreta Martinez, Paul Schnabl, Normann Mertig, Charles Smith, Frederico Martins|[2504.03149](http://arxiv.org/abs/2504.03149)|null|

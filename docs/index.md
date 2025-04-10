@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Spin Helicity and the Disproof of Bell's Theorem**|Bryan Sanctuary|[2504.06302](http://arxiv.org/abs/2504.06302)|null|
 |**2025-04-07**|**Neutrino Oscillations as a Probe of Macrorealism**|Kathrine Mørch Groth, Johann Ioannou-Nikolaides, D. Jason Koskinen, Markus Ahlers|[2504.05375](http://arxiv.org/abs/2504.05375)|null|
 |**2025-04-04**|**Time evolution of randomness in Bell's experiment indicates 'Realism' is false**|Mónica Agüero, Alejandro Hnilo, Marcelo Kovalsky, Myriam Nonaka|[2504.03921](http://arxiv.org/abs/2504.03921)|null|
 |**2025-04-02**|**Catalytic Activation of Bell Nonlocality**|Jessica Bavaresco, Nicolas Brunner, Antoine Girardin, Patryk Lipka-Bartosik, Pavel Sekatski|[2504.02042](http://arxiv.org/abs/2504.02042)|null|
@@ -762,6 +763,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Isolator-Free Laser Operation Enabled by Chip-Scale Reflections in Zero-Process-Change SOI**|Omid Esmaeeli, Lukas Chrostowski, Sudip Shekhar|[2504.06535](http://arxiv.org/abs/2504.06535)|null|
 |**2025-04-02**|**Tinnitus, lucid dreaming and awakening. An online survey and theoretical implications**|Robin Guillard, Nicolas Dauman, Aurélien Cadix, Charlotte Glabasnia Linck, Marco Congedo, Dirk de Ridder, Alain Londero|[2504.01453](http://arxiv.org/abs/2504.01453)|null|
 |**2025-03-26**|**Pattern Formation as a Resilience Mechanism in Cancer Immunotherapy**|Molly Brennan, Andrew L. Krause, Edgardo Villar-Sepúlveda, Christopher B. Prior|[2503.20909](http://arxiv.org/abs/2503.20909)|null|
 |**2025-03-16**|**BREEN: Bridge Data-Efficient Encoder-Free Multimodal Learning with Learnable Queries**|Tianle Li, Yongming Rao, Winston Hu, Yu Cheng|[2503.12446](http://arxiv.org/abs/2503.12446)|null|
@@ -1436,6 +1438,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Variational Quantum Machine Learning with Quantum Error Detection**|Eromanga Adermann, Hajime Suzuki, Muhammad Usman|[2504.06775](http://arxiv.org/abs/2504.06775)|null|
 |**2025-04-08**|**Assessing Teleportation of Logical Qubits in a Distributed Quantum Architecture under Error Correction**|John Stack, Ming Wang, Frank Mueller|[2504.05611](http://arxiv.org/abs/2504.05611)|null|
 |**2025-04-07**|**Quantum Circuits for High-Dimensional Absolutely Maximally Entangled States**|Berta Casas, Grzegorz Rajchel-Mieldzioć, Suhail Ahmad Rather, Marcin Płodzień, Wojciech Bruzda, Alba Cervera-Lierta, Karol Życzkowski|[2504.05394](http://arxiv.org/abs/2504.05394)|null|
 |**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel, Lode Pollet, Fabian Grusdt|[2504.03512](http://arxiv.org/abs/2504.03512)|null|

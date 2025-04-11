@@ -1459,12 +1459,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Quantum error correction via multi-particle discrete-time quantum walk**|Ryo Asaka, Ryusei Minamikawa|[2504.07941](http://arxiv.org/abs/2504.07941)|null|
+|**2025-04-10**|**A Systematic Approach to Hyperbolic Quantum Error Correction Codes**|Ahmed Adel Mahmoud, Kamal Mohamed Ali, Steven Rayan|[2504.07800](http://arxiv.org/abs/2504.07800)|null|
+|**2025-04-10**|**Efficient Formal Verification of Quantum Error Correcting Programs**|Qifan Huang, Li Zhou, Wang Fang, Mengyu Zhao, Mingsheng Ying|[2504.07732](http://arxiv.org/abs/2504.07732)|null|
+|**2025-04-09**|**Characterising the failure mechanisms of error-corrected quantum logic gates**|Robin Harper, Constance Lainé, Evan Hockings, Campbell McLauchlan, Georgia M. Nixon, Benjamin J. Brown, Stephen D. Bartlett|[2504.07258](http://arxiv.org/abs/2504.07258)|null|
 |**2025-04-09**|**Variational Quantum Machine Learning with Quantum Error Detection**|Eromanga Adermann, Hajime Suzuki, Muhammad Usman|[2504.06775](http://arxiv.org/abs/2504.06775)|null|
 |**2025-04-08**|**Assessing Teleportation of Logical Qubits in a Distributed Quantum Architecture under Error Correction**|John Stack, Ming Wang, Frank Mueller|[2504.05611](http://arxiv.org/abs/2504.05611)|null|
 |**2025-04-07**|**Quantum Circuits for High-Dimensional Absolutely Maximally Entangled States**|Berta Casas, Grzegorz Rajchel-Mieldzioć, Suhail Ahmad Rather, Marcin Płodzień, Wojciech Bruzda, Alba Cervera-Lierta, Karol Życzkowski|[2504.05394](http://arxiv.org/abs/2504.05394)|null|
 |**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel, Lode Pollet, Fabian Grusdt|[2504.03512](http://arxiv.org/abs/2504.03512)|null|
-|**2025-04-04**|**Reducing quantum error correction overhead using soft information**|Joonas Majaniemi, Elisha S. Matekole|[2504.03504](http://arxiv.org/abs/2504.03504)|null|
-|**2025-04-04**|**SpinHex: A low-crosstalk, spin-qubit architecture based on multi-electron couplers**|Rubén M. Otxoa, Josu Etxezarreta Martinez, Paul Schnabl, Normann Mertig, Charles Smith, Frederico Martins|[2504.03149](http://arxiv.org/abs/2504.03149)|null|
+|**2025-04-04**|**Reducing quantum error correction overhead using soft information**|Joonas Majaniemi, Elisha S. Matekole|[2504.03504](http://arxiv.org/abs/2504.03504)|**[link](https://github.com/riverlane/soft_information_models)**|
+|**2025-04-04**|**SpinHex: A low-crosstalk, spin-qubit architecture based on multi-electron couplers**|Rubén M. Otxoa, Josu Etxezarreta Martinez, Paul Schnabl, Normann Mertig, Charles Smith, Frederico Martins|[2504.03149](http://arxiv.org/abs/2504.03149)|**[link](https://github.com/pschnabl/spin-qubit-mec-surface-code)**|
 |**2025-04-03**|**Magic State Injection with Erasure Qubits**|Shoham Jacoby, Yotam Vaknin, Alex Retzker, Arne L. Grimsmo|[2504.02935](http://arxiv.org/abs/2504.02935)|null|
 |**2025-04-03**|**QUITS: A modular Qldpc code circUIT Simulator**|Mingyu Kang, Yingjia Lin, Hanwen Yao, Mert Gökduman, Arianna Meinking, Kenneth R. Brown|[2504.02673](http://arxiv.org/abs/2504.02673)|null|
 |**2025-04-03**|**A Scalable Synthesis Algorithm for Reversible Functions**|Moein Sarvaghad-Moghaddam, Morteza Saheb Zamani, Mehdi Sedighi|[2504.02632](http://arxiv.org/abs/2504.02632)|null|

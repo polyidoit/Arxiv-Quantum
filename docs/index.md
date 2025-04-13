@@ -1439,8 +1439,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-10**|**Quantum error correction via multi-particle discrete-time quantum walk**|Ryo Asaka, Ryusei Minamikawa|[2504.07941](http://arxiv.org/abs/2504.07941)|null|
-|**2025-04-10**|**A Systematic Approach to Hyperbolic Quantum Error Correction Codes**|Ahmed Adel Mahmoud, Kamal Mohamed Ali, Steven Rayan|[2504.07800](http://arxiv.org/abs/2504.07800)|null|
-|**2025-04-10**|**Efficient Formal Verification of Quantum Error Correcting Programs**|Qifan Huang, Li Zhou, Wang Fang, Mengyu Zhao, Mingsheng Ying|[2504.07732](http://arxiv.org/abs/2504.07732)|null|
+|**2025-04-10**|**A Systematic Approach to Hyperbolic Quantum Error Correction Codes**|Ahmed Adel Mahmoud, Kamal Mohamed Ali, Steven Rayan|[2504.07800](http://arxiv.org/abs/2504.07800)|**[link](https://github.com/ahmeedadelmahmoud/hqecc-threshold)**|
+|**2025-04-10**|**Efficient Formal Verification of Quantum Error Correcting Programs**|Qifan Huang, Li Zhou, Wang Fang, Mengyu Zhao, Mingsheng Ying|[2504.07732](http://arxiv.org/abs/2504.07732)|**[link](https://github.com/chesterhuang1999/veri-qec)**|
 |**2025-04-09**|**Characterising the failure mechanisms of error-corrected quantum logic gates**|Robin Harper, Constance Lainé, Evan Hockings, Campbell McLauchlan, Georgia M. Nixon, Benjamin J. Brown, Stephen D. Bartlett|[2504.07258](http://arxiv.org/abs/2504.07258)|null|
 |**2025-04-09**|**Variational Quantum Machine Learning with Quantum Error Detection**|Eromanga Adermann, Hajime Suzuki, Muhammad Usman|[2504.06775](http://arxiv.org/abs/2504.06775)|null|
 |**2025-04-08**|**Assessing Teleportation of Logical Qubits in a Distributed Quantum Architecture under Error Correction**|John Stack, Ming Wang, Frank Mueller|[2504.05611](http://arxiv.org/abs/2504.05611)|null|

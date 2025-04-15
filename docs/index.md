@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Quantum-Secured Device-Independent Global Positioning System**|Chon-Fai Kam, En-Jui Kuo|[2504.08465](http://arxiv.org/abs/2504.08465)|null|
 |**2025-04-07**|**Spin Helicity and the Disproof of Bell's Theorem**|Bryan Sanctuary|[2504.06302](http://arxiv.org/abs/2504.06302)|null|
 |**2025-04-07**|**Neutrino Oscillations as a Probe of Macrorealism**|Kathrine Mørch Groth, Johann Ioannou-Nikolaides, D. Jason Koskinen, Markus Ahlers|[2504.05375](http://arxiv.org/abs/2504.05375)|null|
 |**2025-04-04**|**Time evolution of randomness in Bell's experiment indicates 'Realism' is false**|Mónica Agüero, Alejandro Hnilo, Marcelo Kovalsky, Myriam Nonaka|[2504.03921](http://arxiv.org/abs/2504.03921)|null|
@@ -645,6 +646,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Violation of steering inequality for generalized equiangular measurements**|Adam Rutkowski, Katarzyna Siudzińska|[2504.08497](http://arxiv.org/abs/2504.08497)|null|
 |**2025-03-05**|**A Multi Affine Geometric Framework for Quantum Nonlocality. Unifying Berry Phases, Entanglement, and Coherence**|Shoshauna Gauvin|[2503.17995](http://arxiv.org/abs/2503.17995)|null|
 |**2025-03-14**|**Remote preparation of motional Schrödinger cat states via dissipatively-driven non-Gaussian mechanical entanglement**|Zunbo Yu, Miaomiao Wei, Huatang Tan|[2503.11410](http://arxiv.org/abs/2503.11410)|null|
 |**2025-03-10**|**Optomechanical non-Gaussian quantum steering and remote preparation of large-size motional Schördinger cat states**|Miaomiao Wei, Huatang Tan|[2503.07224](http://arxiv.org/abs/2503.07224)|null|
@@ -763,6 +765,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**All Optical Echo State Network Reservoir Computing**|Ishwar S Kaushik, Peter J Ehlers, Daniel Soh|[2504.08224](http://arxiv.org/abs/2504.08224)|null|
 |**2025-04-09**|**Isolator-Free Laser Operation Enabled by Chip-Scale Reflections in Zero-Process-Change SOI**|Omid Esmaeeli, Lukas Chrostowski, Sudip Shekhar|[2504.06535](http://arxiv.org/abs/2504.06535)|null|
 |**2025-04-02**|**Tinnitus, lucid dreaming and awakening. An online survey and theoretical implications**|Robin Guillard, Nicolas Dauman, Aurélien Cadix, Charlotte Glabasnia Linck, Marco Congedo, Dirk de Ridder, Alain Londero|[2504.01453](http://arxiv.org/abs/2504.01453)|null|
 |**2025-03-26**|**Pattern Formation as a Resilience Mechanism in Cancer Immunotherapy**|Molly Brennan, Andrew L. Krause, Edgardo Villar-Sepúlveda, Christopher B. Prior|[2503.20909](http://arxiv.org/abs/2503.20909)|null|
@@ -973,6 +976,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-12**|**SW-TNC : Reaching the Most Complex Random Quantum Circuit via Tensor Network Contraction**|Yaojian Chen, Zhaoqi Sun, Chengyu Qiu, Zegang Li, Yanfei Liu, Lin Gan, Xiaohui Duan, Guangwen Yang|[2504.09186](http://arxiv.org/abs/2504.09186)|null|
+|**2025-04-10**|**Replica manifolds, pole skipping, and the butterfly effect**|Wan Zhen Chua, Thomas Hartman, Wayne W. Weng|[2504.08139](http://arxiv.org/abs/2504.08139)|null|
 |**2025-04-08**|**Timescales for thermalization, quantum chaos, and self-averaging**|Isaías Vallejo-Fabila, Lea F. Santos|[2504.06100](http://arxiv.org/abs/2504.06100)|null|
 |**2025-04-07**|**Measuring Rényi entropy using a projected Loschmidt echo**|Yi-Neng Zhou, Robin Löwenberg, Julian Sonner|[2504.05237](http://arxiv.org/abs/2504.05237)|null|
 |**2025-04-07**|**Scalable simulation of random quantum circuits using projected entangled-pair states**|Sung-Bin B. Lee, Hee Ryang Choi, Daniel Donghyon Ohm, Seung-Sup B. Lee|[2504.04769](http://arxiv.org/abs/2504.04769)|null|
@@ -1438,6 +1443,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Out of the box approach to Black hole Information paradox**|Kiran Adhikari|[2504.10429](http://arxiv.org/abs/2504.10429)|null|
+|**2025-04-14**|**Universal fault-tolerant logic with heterogeneous holographic codes**|Matthew Steinberg, Junyu Fan, Jens Eisert, Sebastian Feld, Alexander Jahn, Chunjun Cao|[2504.10386](http://arxiv.org/abs/2504.10386)|null|
+|**2025-04-13**|**Survival of the Optimized: An Evolutionary Approach to T-depth Reduction**|Archisman Ghosh, Avimita Chatterjee, Swaroop Ghosh|[2504.09391](http://arxiv.org/abs/2504.09391)|null|
+|**2025-04-12**|**Tile Codes: High-Efficiency Quantum Codes on a Lattice with Boundary**|Vincent Steffan, Shin Ho Choe, Nikolas P. Breuckmann, Francisco Revson Fernandes Pereira, Jens Niklas Eberhardt|[2504.09171](http://arxiv.org/abs/2504.09171)|null|
+|**2025-04-12**|**The trace dual of nonlinear skew cyclic codes**|Daniel Bossaller, Daniel Herden, Indalecio Ruiz-Bolaños|[2504.09098](http://arxiv.org/abs/2504.09098)|null|
+|**2025-04-11**|**Network Requirements for Distributed Quantum Computation**|Hugo Jacinto, Élie Gouzien, Nicolas Sangouard|[2504.08891](http://arxiv.org/abs/2504.08891)|null|
+|**2025-04-11**|**Measurement-induced phase transitions in quantum inference problems and quantum hidden Markov models**|Sun Woo P. Kim, Curt von Keyserlingk, Austen Lamacraft|[2504.08888](http://arxiv.org/abs/2504.08888)|null|
+|**2025-04-11**|**Planar quantum low-density parity-check codes with open boundaries**|Zijian Liang, Jens Niklas Eberhardt, Yu-An Chen|[2504.08887](http://arxiv.org/abs/2504.08887)|null|
 |**2025-04-10**|**Quantum error correction via multi-particle discrete-time quantum walk**|Ryo Asaka, Ryusei Minamikawa|[2504.07941](http://arxiv.org/abs/2504.07941)|null|
 |**2025-04-10**|**A Systematic Approach to Hyperbolic Quantum Error Correction Codes**|Ahmed Adel Mahmoud, Kamal Mohamed Ali, Steven Rayan|[2504.07800](http://arxiv.org/abs/2504.07800)|**[link](https://github.com/ahmeedadelmahmoud/hqecc-threshold)**|
 |**2025-04-10**|**Efficient Formal Verification of Quantum Error Correcting Programs**|Qifan Huang, Li Zhou, Wang Fang, Mengyu Zhao, Mingsheng Ying|[2504.07732](http://arxiv.org/abs/2504.07732)|**[link](https://github.com/chesterhuang1999/veri-qec)**|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 
 ## Bell nonlocality
 
@@ -978,7 +978,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-12**|**SW-TNC : Reaching the Most Complex Random Quantum Circuit via Tensor Network Contraction**|Yaojian Chen, Zhaoqi Sun, Chengyu Qiu, Zegang Li, Yanfei Liu, Lin Gan, Xiaohui Duan, Guangwen Yang|[2504.09186](http://arxiv.org/abs/2504.09186)|null|
 |**2025-04-10**|**Replica manifolds, pole skipping, and the butterfly effect**|Wan Zhen Chua, Thomas Hartman, Wayne W. Weng|[2504.08139](http://arxiv.org/abs/2504.08139)|null|
-|**2025-04-08**|**Timescales for thermalization, quantum chaos, and self-averaging**|Isaías Vallejo-Fabila, Lea F. Santos|[2504.06100](http://arxiv.org/abs/2504.06100)|null|
+|**2025-04-15**|**Timescales for thermalization, quantum chaos, and self-averaging**|Isaías Vallejo-Fabila, Lea F. Santos|[2504.06100](http://arxiv.org/abs/2504.06100)|null|
 |**2025-04-07**|**Measuring Rényi entropy using a projected Loschmidt echo**|Yi-Neng Zhou, Robin Löwenberg, Julian Sonner|[2504.05237](http://arxiv.org/abs/2504.05237)|null|
 |**2025-04-07**|**Scalable simulation of random quantum circuits using projected entangled-pair states**|Sung-Bin B. Lee, Hee Ryang Choi, Daniel Donghyon Ohm, Seung-Sup B. Lee|[2504.04769](http://arxiv.org/abs/2504.04769)|null|
 |**2025-04-03**|**Logarithmic entanglement lightcone from eigenstate correlations in the many-body localised phase**|Ratul Thakur, Bikram Pain, Sthitadhi Roy|[2504.02815](http://arxiv.org/abs/2504.02815)|null|

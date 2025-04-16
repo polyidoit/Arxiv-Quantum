@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Transforming Resonance Fluorescence into Maximally Entangled Photon Pairs Using Minimal Resources**|Xin-Xin Hu, Gabriele Maron, Luke Masters, Arno Rauschenbeutel, Jürgen Volz|[2504.11294](http://arxiv.org/abs/2504.11294)|null|
+|**2025-04-15**|**Probe of Generic Quantum Contextuality and Nonlocality for qubits**|Wei Li, Min-Xuan Zhou, Yun-Hao Shi, Z. D. Wang, Heng Fan, Yan-Kui Bai|[2504.11238](http://arxiv.org/abs/2504.11238)|null|
+|**2025-04-15**|**Bell-Mermin-Klyshko Inequalities and One-way Information Deficit of Dirac Fields in Noninertial Frames**|Biao-Liang Ye, Yao-Kun Wang, Shao-Ming Fei|[2504.10860](http://arxiv.org/abs/2504.10860)|null|
 |**2025-04-11**|**Quantum-Secured Device-Independent Global Positioning System**|Chon-Fai Kam, En-Jui Kuo|[2504.08465](http://arxiv.org/abs/2504.08465)|null|
 |**2025-04-07**|**Spin Helicity and the Disproof of Bell's Theorem**|Bryan Sanctuary|[2504.06302](http://arxiv.org/abs/2504.06302)|null|
 |**2025-04-07**|**Neutrino Oscillations as a Probe of Macrorealism**|Kathrine Mørch Groth, Johann Ioannou-Nikolaides, D. Jason Koskinen, Markus Ahlers|[2504.05375](http://arxiv.org/abs/2504.05375)|null|
@@ -518,6 +521,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Probe of Generic Quantum Contextuality and Nonlocality for qubits**|Wei Li, Min-Xuan Zhou, Yun-Hao Shi, Z. D. Wang, Heng Fan, Yan-Kui Bai|[2504.11238](http://arxiv.org/abs/2504.11238)|null|
 |**2025-04-08**|**Entanglement in two-quasiparticle-triaxial-rotor systems: Chirality, wobbling, and the Pauli effect**|Q. B. Chen, S. Frauendorf|[2504.05608](http://arxiv.org/abs/2504.05608)|null|
 |**2025-04-04**|**Octaquarks in a simple chromomagnetic model**|Aaron Park|[2504.03213](http://arxiv.org/abs/2504.03213)|null|
 |**2025-04-04**|**Signature of matter-field coupling in quantum-mechanical statistics**|Ana María Cetto, Luis de la Peña|[2504.03142](http://arxiv.org/abs/2504.03142)|null|
@@ -995,6 +999,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**A deep dive into the interplay of structured quantum peaked circuits and infinite temperature correlation functions**|Myeongsu Kim, Manas Sajjan, Sabre Kais|[2504.11240](http://arxiv.org/abs/2504.11240)|null|
 |**2025-04-12**|**SW-TNC : Reaching the Most Complex Random Quantum Circuit via Tensor Network Contraction**|Yaojian Chen, Zhaoqi Sun, Chengyu Qiu, Zegang Li, Yanfei Liu, Lin Gan, Xiaohui Duan, Guangwen Yang|[2504.09186](http://arxiv.org/abs/2504.09186)|null|
 |**2025-04-10**|**Replica manifolds, pole skipping, and the butterfly effect**|Wan Zhen Chua, Thomas Hartman, Wayne W. Weng|[2504.08139](http://arxiv.org/abs/2504.08139)|null|
 |**2025-04-15**|**Timescales for thermalization, quantum chaos, and self-averaging**|Isaías Vallejo-Fabila, Lea F. Santos|[2504.06100](http://arxiv.org/abs/2504.06100)|null|
@@ -1464,6 +1469,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Lattice Surgery Compilation Beyond the Surface Code**|Laura S. Herzog, Lucas Berent, Aleksander Kubica, Robert Wille|[2504.10591](http://arxiv.org/abs/2504.10591)|null|
 |**2025-04-14**|**Out of the box approach to Black hole Information paradox**|Kiran Adhikari|[2504.10429](http://arxiv.org/abs/2504.10429)|null|
 |**2025-04-14**|**Universal fault-tolerant logic with heterogeneous holographic codes**|Matthew Steinberg, Junyu Fan, Jens Eisert, Sebastian Feld, Alexander Jahn, Chunjun Cao|[2504.10386](http://arxiv.org/abs/2504.10386)|null|
 |**2025-04-13**|**Survival of the Optimized: An Evolutionary Approach to T-depth Reduction**|Archisman Ghosh, Avimita Chatterjee, Swaroop Ghosh|[2504.09391](http://arxiv.org/abs/2504.09391)|null|

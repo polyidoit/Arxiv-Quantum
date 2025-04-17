@@ -769,6 +769,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Correlations as a resource in molecular switches**|Daniel Siciliano, Rudi B. P. Pietsch, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio|[2504.12202](http://arxiv.org/abs/2504.12202)|null|
 |**2025-04-11**|**All Optical Echo State Network Reservoir Computing**|Ishwar S Kaushik, Peter J Ehlers, Daniel Soh|[2504.08224](http://arxiv.org/abs/2504.08224)|null|
 |**2025-04-09**|**Isolator-Free Laser Operation Enabled by Chip-Scale Reflections in Zero-Process-Change SOI**|Omid Esmaeeli, Lukas Chrostowski, Sudip Shekhar|[2504.06535](http://arxiv.org/abs/2504.06535)|null|
 |**2025-04-02**|**Tinnitus, lucid dreaming and awakening. An online survey and theoretical implications**|Robin Guillard, Nicolas Dauman, Aurélien Cadix, Charlotte Glabasnia Linck, Marco Congedo, Dirk de Ridder, Alain Londero|[2504.01453](http://arxiv.org/abs/2504.01453)|null|
@@ -1448,6 +1449,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Logical multi-qubit entanglement with dual-rail superconducting qubits**|Wenhui Huang, Xuandong Sun, Jiawei Zhang, Zechen Guo, Peisheng Huang, Yongqi Liang, Yiting Liu, Daxiong Sun, Zilin Wang, Yuzhe Xiong, Xiaohan Yang, Jiajian Zhang, Libo Zhang, Ji Chu, Weijie Guo, Ji Jiang, Song Liu, Jingjing Niu, Jiawei Qiu, Ziyu Tao, Yuxuan Zhou, Xiayu Linpeng, Youpeng Zhong, Dapeng Yu|[2504.12099](http://arxiv.org/abs/2504.12099)|null|
+|**2025-04-16**|**Characterizing physical and logical errors in a transversal CNOT via cycle error reconstruction**|Nicholas Fazio, Robert Freund, Debankan Sannamoth, Alex Steiner, Christian D. Marciniak, Manuel Rispler, Robin Harper, Thomas Monz, Joseph Emerson, Stephen D. Bartlett|[2504.11980](http://arxiv.org/abs/2504.11980)|null|
+|**2025-04-16**|**Network-Integrated Decoding System for Real-Time Quantum Error Correction with Lattice Surgery**|Namitha Liyanage, Yue Wu, Emmet Houghton, Lin Zhong|[2504.11805](http://arxiv.org/abs/2504.11805)|null|
+|**2025-04-15**|**Adaptive Error Correction for Entanglement Distillation**|Sijie Cheng, Narayanan Rengaswamy|[2504.11670](http://arxiv.org/abs/2504.11670)|null|
 |**2025-04-14**|**Lattice Surgery Compilation Beyond the Surface Code**|Laura S. Herzog, Lucas Berent, Aleksander Kubica, Robert Wille|[2504.10591](http://arxiv.org/abs/2504.10591)|null|
 |**2025-04-14**|**Out of the box approach to Black hole Information paradox**|Kiran Adhikari|[2504.10429](http://arxiv.org/abs/2504.10429)|null|
 |**2025-04-14**|**Universal fault-tolerant logic with heterogeneous holographic codes**|Matthew Steinberg, Junyu Fan, Jens Eisert, Sebastian Feld, Alexander Jahn, Chunjun Cao|[2504.10386](http://arxiv.org/abs/2504.10386)|null|

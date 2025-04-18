@@ -508,6 +508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Tests of quantum contextuality in particle physics**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2504.12382](http://arxiv.org/abs/2504.12382)|null|
 |**2025-04-15**|**Probe of Generic Quantum Contextuality and Nonlocality for qubits**|Wei Li, Min-Xuan Zhou, Yun-Hao Shi, Z. D. Wang, Heng Fan, Yan-Kui Bai|[2504.11238](http://arxiv.org/abs/2504.11238)|null|
 |**2025-04-08**|**Entanglement in two-quasiparticle-triaxial-rotor systems: Chirality, wobbling, and the Pauli effect**|Q. B. Chen, S. Frauendorf|[2504.05608](http://arxiv.org/abs/2504.05608)|null|
 |**2025-04-04**|**Octaquarks in a simple chromomagnetic model**|Aaron Park|[2504.03213](http://arxiv.org/abs/2504.03213)|null|
@@ -769,6 +770,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Dynamical relationship between CAR algebras and determinantal point processes: point processes at finite temperature and stochastically positive KMS systems**|Ryosuke Sato|[2504.12935](http://arxiv.org/abs/2504.12935)|null|
 |**2025-04-16**|**Correlations as a resource in molecular switches**|Daniel Siciliano, Rudi B. P. Pietsch, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio|[2504.12202](http://arxiv.org/abs/2504.12202)|null|
 |**2025-04-11**|**All Optical Echo State Network Reservoir Computing**|Ishwar S Kaushik, Peter J Ehlers, Daniel Soh|[2504.08224](http://arxiv.org/abs/2504.08224)|null|
 |**2025-04-09**|**Isolator-Free Laser Operation Enabled by Chip-Scale Reflections in Zero-Process-Change SOI**|Omid Esmaeeli, Lukas Chrostowski, Sudip Shekhar|[2504.06535](http://arxiv.org/abs/2504.06535)|null|
@@ -981,6 +983,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Computing $n$ -time correlation functions without ancilla qubits**|Xiaoyang Wang, Long Xiong, Xiaoxia Cai, Xiao Yuan|[2504.12975](http://arxiv.org/abs/2504.12975)|null|
+|**2025-04-16**|**ScarFinder: a detector of optimal scar trajectories in quantum many-body dynamics**|Jie Ren, Andrew Hallam, Lei Ying, Zlatko Papić|[2504.12383](http://arxiv.org/abs/2504.12383)|null|
 |**2025-04-15**|**A deep dive into the interplay of structured quantum peaked circuits and infinite temperature correlation functions**|Myeongsu Kim, Manas Sajjan, Sabre Kais|[2504.11240](http://arxiv.org/abs/2504.11240)|null|
 |**2025-04-12**|**SW-TNC : Reaching the Most Complex Random Quantum Circuit via Tensor Network Contraction**|Yaojian Chen, Zhaoqi Sun, Chengyu Qiu, Zegang Li, Yanfei Liu, Lin Gan, Xiaohui Duan, Guangwen Yang|[2504.09186](http://arxiv.org/abs/2504.09186)|null|
 |**2025-04-10**|**Replica manifolds, pole skipping, and the butterfly effect**|Wan Zhen Chua, Thomas Hartman, Wayne W. Weng|[2504.08139](http://arxiv.org/abs/2504.08139)|null|
@@ -1449,6 +1453,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Restoring Heisenberg scaling in time via autonomous quantum error correction**|Hyukgun Kwon, Uwe R. Fischer, Seung-Woo Lee, Liang Jiang|[2504.13168](http://arxiv.org/abs/2504.13168)|null|
+|**2025-04-17**|**Feedforward suppression of readout-induced faults in quantum error correction**|Liran Shirizly, Dekel Meirom, Malcolm Carroll, Haggai Landa|[2504.13083](http://arxiv.org/abs/2504.13083)|null|
+|**2025-04-17**|**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**|Riza Velioglu, Petra Bevandic, Robin Chan, Barbara Hammer|[2504.13078](http://arxiv.org/abs/2504.13078)|null|
+|**2025-04-17**|**Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes**|John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang|[2504.13043](http://arxiv.org/abs/2504.13043)|null|
+|**2025-04-17**|**Unbiased Quantum Error Mitigation Without Reliance on an Accurate Error Model**|Haipeng Xie, Nobuyuki Yoshioka, Kento Tsubouchi, Ying Li|[2504.12864](http://arxiv.org/abs/2504.12864)|null|
+|**2025-04-17**|**Non-invasive mid-circuit measurement and reset on atomic qubits**|Zuo-Yao Chen, Isabella Goetting, George Toh, Yichao Yu, Mikhail Shalaev, Sagnik Saha, Ashish Kalakuntla, Harriet Bufan Shi, Christopher Monroe, Alexander Kozhanov, Crystal Noel|[2504.12538](http://arxiv.org/abs/2504.12538)|null|
+|**2025-04-16**|**Constant-time hybrid compilation of Shor's algorithm with quantum just-in-time compilation**|David Ittah, Jackson Fraser, Josh Izaac, Olivia Di Matteo|[2504.12449](http://arxiv.org/abs/2504.12449)|null|
 |**2025-04-16**|**Logical multi-qubit entanglement with dual-rail superconducting qubits**|Wenhui Huang, Xuandong Sun, Jiawei Zhang, Zechen Guo, Peisheng Huang, Yongqi Liang, Yiting Liu, Daxiong Sun, Zilin Wang, Yuzhe Xiong, Xiaohan Yang, Jiajian Zhang, Libo Zhang, Ji Chu, Weijie Guo, Ji Jiang, Song Liu, Jingjing Niu, Jiawei Qiu, Ziyu Tao, Yuxuan Zhou, Xiayu Linpeng, Youpeng Zhong, Dapeng Yu|[2504.12099](http://arxiv.org/abs/2504.12099)|null|
 |**2025-04-16**|**Characterizing physical and logical errors in a transversal CNOT via cycle error reconstruction**|Nicholas Fazio, Robert Freund, Debankan Sannamoth, Alex Steiner, Christian D. Marciniak, Manuel Rispler, Robin Harper, Thomas Monz, Joseph Emerson, Stephen D. Bartlett|[2504.11980](http://arxiv.org/abs/2504.11980)|null|
 |**2025-04-16**|**Network-Integrated Decoding System for Real-Time Quantum Error Correction with Lattice Surgery**|Namitha Liyanage, Yue Wu, Emmet Houghton, Lin Zhong|[2504.11805](http://arxiv.org/abs/2504.11805)|null|

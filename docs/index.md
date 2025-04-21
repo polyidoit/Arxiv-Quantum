@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Tight upper bound and monogamy relation for the maximum quantum value of the parity-CHSH inequality and applied to device-independent randomness**|Guannan Zhang, Jiamin Xu, Ming Li, Shuqian Shen, Lei Li, Shao-ming Fei|[2504.13427](http://arxiv.org/abs/2504.13427)|null|
 |**2025-04-15**|**Transforming Resonance Fluorescence into Maximally Entangled Photon Pairs Using Minimal Resources**|Xin-Xin Hu, Gabriele Maron, Luke Masters, Arno Rauschenbeutel, Jürgen Volz|[2504.11294](http://arxiv.org/abs/2504.11294)|null|
 |**2025-04-15**|**Probe of Generic Quantum Contextuality and Nonlocality for qubits**|Wei Li, Min-Xuan Zhou, Yun-Hao Shi, Z. D. Wang, Heng Fan, Yan-Kui Bai|[2504.11238](http://arxiv.org/abs/2504.11238)|null|
 |**2025-04-15**|**Bell-Mermin-Klyshko Inequalities and One-way Information Deficit of Dirac Fields in Noninertial Frames**|Biao-Liang Ye, Yao-Kun Wang, Shao-Ming Fei|[2504.10860](http://arxiv.org/abs/2504.10860)|null|
@@ -508,6 +509,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Quantum Contextuality for Contextual Word Embeddings**|Karl Svozil|[2504.13824](http://arxiv.org/abs/2504.13824)|null|
 |**2025-04-16**|**Tests of quantum contextuality in particle physics**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2504.12382](http://arxiv.org/abs/2504.12382)|null|
 |**2025-04-15**|**Probe of Generic Quantum Contextuality and Nonlocality for qubits**|Wei Li, Min-Xuan Zhou, Yun-Hao Shi, Z. D. Wang, Heng Fan, Yan-Kui Bai|[2504.11238](http://arxiv.org/abs/2504.11238)|null|
 |**2025-04-08**|**Entanglement in two-quasiparticle-triaxial-rotor systems: Chirality, wobbling, and the Pauli effect**|Q. B. Chen, S. Frauendorf|[2504.05608](http://arxiv.org/abs/2504.05608)|null|
@@ -1453,13 +1455,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Quantum repeaters enhanced by vacuum beam guides**|Yu Gan, Mohadeseh Azar, Nitish Kumar Chandra, Xin Jin, Jinglei Cheng, Kaushik P. Seshadreesan, Junyu Liu|[2504.13397](http://arxiv.org/abs/2504.13397)|null|
 |**2025-04-17**|**Restoring Heisenberg scaling in time via autonomous quantum error correction**|Hyukgun Kwon, Uwe R. Fischer, Seung-Woo Lee, Liang Jiang|[2504.13168](http://arxiv.org/abs/2504.13168)|null|
 |**2025-04-17**|**Feedforward suppression of readout-induced faults in quantum error correction**|Liran Shirizly, Dekel Meirom, Malcolm Carroll, Haggai Landa|[2504.13083](http://arxiv.org/abs/2504.13083)|null|
 |**2025-04-17**|**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**|Riza Velioglu, Petra Bevandic, Robin Chan, Barbara Hammer|[2504.13078](http://arxiv.org/abs/2504.13078)|**[link](https://github.com/rizavelioglu/tryoffdiff)**|
 |**2025-04-17**|**Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes**|John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang|[2504.13043](http://arxiv.org/abs/2504.13043)|null|
 |**2025-04-17**|**Unbiased Quantum Error Mitigation Without Reliance on an Accurate Error Model**|Haipeng Xie, Nobuyuki Yoshioka, Kento Tsubouchi, Ying Li|[2504.12864](http://arxiv.org/abs/2504.12864)|null|
 |**2025-04-17**|**Non-invasive mid-circuit measurement and reset on atomic qubits**|Zuo-Yao Chen, Isabella Goetting, George Toh, Yichao Yu, Mikhail Shalaev, Sagnik Saha, Ashish Kalakuntla, Harriet Bufan Shi, Christopher Monroe, Alexander Kozhanov, Crystal Noel|[2504.12538](http://arxiv.org/abs/2504.12538)|null|
-|**2025-04-16**|**Constant-time hybrid compilation of Shor's algorithm with quantum just-in-time compilation**|David Ittah, Jackson Fraser, Josh Izaac, Olivia Di Matteo|[2504.12449](http://arxiv.org/abs/2504.12449)|null|
+|**2025-04-16**|**Constant-time hybrid compilation of Shor's algorithm with quantum just-in-time compilation**|David Ittah, Jackson Fraser, Josh Izaac, Olivia Di Matteo|[2504.12449](http://arxiv.org/abs/2504.12449)|**[link](https://github.com/QSAR-UBC/shortalyst)**|
 |**2025-04-16**|**Logical multi-qubit entanglement with dual-rail superconducting qubits**|Wenhui Huang, Xuandong Sun, Jiawei Zhang, Zechen Guo, Peisheng Huang, Yongqi Liang, Yiting Liu, Daxiong Sun, Zilin Wang, Yuzhe Xiong, Xiaohan Yang, Jiajian Zhang, Libo Zhang, Ji Chu, Weijie Guo, Ji Jiang, Song Liu, Jingjing Niu, Jiawei Qiu, Ziyu Tao, Yuxuan Zhou, Xiayu Linpeng, Youpeng Zhong, Dapeng Yu|[2504.12099](http://arxiv.org/abs/2504.12099)|null|
 |**2025-04-16**|**Characterizing physical and logical errors in a transversal CNOT via cycle error reconstruction**|Nicholas Fazio, Robert Freund, Debankan Sannamoth, Alex Steiner, Christian D. Marciniak, Manuel Rispler, Robin Harper, Thomas Monz, Joseph Emerson, Stephen D. Bartlett|[2504.11980](http://arxiv.org/abs/2504.11980)|null|
 |**2025-04-16**|**Network-Integrated Decoding System for Real-Time Quantum Error Correction with Lattice Surgery**|Namitha Liyanage, Yue Wu, Emmet Houghton, Lin Zhong|[2504.11805](http://arxiv.org/abs/2504.11805)|null|

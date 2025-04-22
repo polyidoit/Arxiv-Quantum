@@ -1004,6 +1004,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-19**|**Average Spread Complexity and the Higher-Order Level Spacing**|Amin Faraji Astaneh, Niloofar Vardian|[2504.14362](http://arxiv.org/abs/2504.14362)|null|
 |**2025-04-17**|**Computing $n$ -time correlation functions without ancilla qubits**|Xiaoyang Wang, Long Xiong, Xiaoxia Cai, Xiao Yuan|[2504.12975](http://arxiv.org/abs/2504.12975)|null|
 |**2025-04-16**|**ScarFinder: a detector of optimal scar trajectories in quantum many-body dynamics**|Jie Ren, Andrew Hallam, Lei Ying, Zlatko Papić|[2504.12383](http://arxiv.org/abs/2504.12383)|null|
 |**2025-04-15**|**A deep dive into the interplay of structured quantum peaked circuits and infinite temperature correlation functions**|Myeongsu Kim, Manas Sajjan, Sabre Kais|[2504.11240](http://arxiv.org/abs/2504.11240)|null|
@@ -1476,6 +1477,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Multi-Target Rydberg Gates via Spatial Blockade Engineering**|Samuel Stein, Chenxu Liu, Shuwen Kan, Eleanor Crane, Yufei Ding, Ying Mao, Alexander Shuckert, Ang Li|[2504.15282](http://arxiv.org/abs/2504.15282)|null|
+|**2025-04-21**|**Efficient simulation of Clifford circuits with small Markovian errors**|Ashe Miller, Corey Ostrove, Jordan Hines, Robin Blume-Kohout, Kevin Young, Timothy Proctor|[2504.15128](http://arxiv.org/abs/2504.15128)|null|
+|**2025-04-21**|**Automated discovery and optimization of autonomous quantum error correction codes for a general open quantum system**|Sahel Ashhab|[2504.15070](http://arxiv.org/abs/2504.15070)|null|
+|**2025-04-21**|**Advancing quantum process tomography through universal compilation**|Huynh Le Dan Linh, Vu Tuan Hai, Le Bin Ho|[2504.14958](http://arxiv.org/abs/2504.14958)|null|
+|**2025-04-20**|**Estimating detector error models from syndrome data**|Robin Blume-Kohout, Kevin Young|[2504.14643](http://arxiv.org/abs/2504.14643)|null|
+|**2025-04-20**|**Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction**|Charlie Campbell, Hao Mark Chen, Wayne Luk, Hongxiang Fan|[2504.14557](http://arxiv.org/abs/2504.14557)|null|
 |**2025-04-18**|**Quantum repeaters enhanced by vacuum beam guides**|Yu Gan, Mohadeseh Azar, Nitish Kumar Chandra, Xin Jin, Jinglei Cheng, Kaushik P. Seshadreesan, Junyu Liu|[2504.13397](http://arxiv.org/abs/2504.13397)|null|
 |**2025-04-17**|**Restoring Heisenberg scaling in time via autonomous quantum error correction**|Hyukgun Kwon, Uwe R. Fischer, Seung-Woo Lee, Liang Jiang|[2504.13168](http://arxiv.org/abs/2504.13168)|null|
 |**2025-04-17**|**Feedforward suppression of readout-induced faults in quantum error correction**|Liran Shirizly, Dekel Meirom, Malcolm Carroll, Haggai Landa|[2504.13083](http://arxiv.org/abs/2504.13083)|null|

@@ -772,6 +772,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**High-sensitivity and high-resolution collaborative determination of birefringence coefficient using weak measurement**|Yanqiang Guo, Jiahui Hou, Min Zhang, Ao Wang, Shuqi Gao, Qingchen Liu, Hongyu Li, Xiaomin Guo, Liantuan Xiao|[2504.15571](http://arxiv.org/abs/2504.15571)|null|
 |**2025-04-17**|**Dynamical relationship between CAR algebras and determinantal point processes: point processes at finite temperature and stochastically positive KMS systems**|Ryosuke Sato|[2504.12935](http://arxiv.org/abs/2504.12935)|null|
 |**2025-04-16**|**Correlations as a resource in molecular switches**|Daniel Siciliano, Rudi B. P. Pietsch, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio|[2504.12202](http://arxiv.org/abs/2504.12202)|null|
 |**2025-04-11**|**All Optical Echo State Network Reservoir Computing**|Ishwar S Kaushik, Peter J Ehlers, Daniel Soh|[2504.08224](http://arxiv.org/abs/2504.08224)|null|
@@ -985,6 +986,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**The Hardness of Learning Quantum Circuits and its Cryptographic Applications**|Bill Fefferman, Soumik Ghosh, Makrand Sinha, Henry Yuen|[2504.15343](http://arxiv.org/abs/2504.15343)|null|
 |**2025-04-19**|**Average Spread Complexity and the Higher-Order Level Spacing**|Amin Faraji Astaneh, Niloofar Vardian|[2504.14362](http://arxiv.org/abs/2504.14362)|null|
 |**2025-04-17**|**Computing $n$ -time correlation functions without ancilla qubits**|Xiaoyang Wang, Long Xiong, Xiaoxia Cai, Xiao Yuan|[2504.12975](http://arxiv.org/abs/2504.12975)|null|
 |**2025-04-16**|**ScarFinder: a detector of optimal scar trajectories in quantum many-body dynamics**|Jie Ren, Andrew Hallam, Lei Ying, Zlatko Papić|[2504.12383](http://arxiv.org/abs/2504.12383)|null|
@@ -1456,6 +1458,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Lattice surgery-based logical state teleportation via noisy links**|Áron Márton, Luis Colmenarez, Lukas Bödeker, Markus Müller|[2504.15747](http://arxiv.org/abs/2504.15747)|null|
+|**2025-04-22**|**Entanglement-enhanced randomized measurement in noisy quantum devices**|Gyungmin Cho, Dohun Kim|[2504.15698](http://arxiv.org/abs/2504.15698)|null|
 |**2025-04-21**|**Multi-Target Rydberg Gates via Spatial Blockade Engineering**|Samuel Stein, Chenxu Liu, Shuwen Kan, Eleanor Crane, Yufei Ding, Ying Mao, Alexander Shuckert, Ang Li|[2504.15282](http://arxiv.org/abs/2504.15282)|null|
 |**2025-04-21**|**Efficient simulation of Clifford circuits with small Markovian errors**|Ashe Miller, Corey Ostrove, Jordan Hines, Robin Blume-Kohout, Kevin Young, Timothy Proctor|[2504.15128](http://arxiv.org/abs/2504.15128)|null|
 |**2025-04-21**|**Automated discovery and optimization of autonomous quantum error correction codes for a general open quantum system**|Sahel Ashhab|[2504.15070](http://arxiv.org/abs/2504.15070)|null|

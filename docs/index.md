@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 
 ## Bell nonlocality
 
@@ -1462,9 +1462,9 @@ layout: default
 |**2025-04-21**|**Advancing quantum process tomography through universal compilation**|Huynh Le Dan Linh, Vu Tuan Hai, Le Bin Ho|[2504.14958](http://arxiv.org/abs/2504.14958)|null|
 |**2025-04-20**|**Estimating detector error models from syndrome data**|Robin Blume-Kohout, Kevin Young|[2504.14643](http://arxiv.org/abs/2504.14643)|null|
 |**2025-04-20**|**Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction**|Charlie Campbell, Hao Mark Chen, Wayne Luk, Hongxiang Fan|[2504.14557](http://arxiv.org/abs/2504.14557)|null|
-|**2025-04-18**|**Quantum repeaters enhanced by vacuum beam guides**|Yu Gan, Mohadeseh Azar, Nitish Kumar Chandra, Xin Jin, Jinglei Cheng, Kaushik P. Seshadreesan, Junyu Liu|[2504.13397](http://arxiv.org/abs/2504.13397)|null|
+|**2025-04-22**|**Quantum repeaters enhanced by vacuum beam guides**|Yu Gan, Mohadeseh Azari, Nitish Kumar Chandra, Xin Jin, Jinglei Cheng, Kaushik P. Seshadreesan, Junyu Liu|[2504.13397](http://arxiv.org/abs/2504.13397)|null|
 |**2025-04-17**|**Restoring Heisenberg scaling in time via autonomous quantum error correction**|Hyukgun Kwon, Uwe R. Fischer, Seung-Woo Lee, Liang Jiang|[2504.13168](http://arxiv.org/abs/2504.13168)|null|
-|**2025-04-17**|**Feedforward suppression of readout-induced faults in quantum error correction**|Liran Shirizly, Dekel Meirom, Malcolm Carroll, Haggai Landa|[2504.13083](http://arxiv.org/abs/2504.13083)|null|
+|**2025-04-22**|**Feedforward suppression of readout-induced faults in quantum error correction**|Liran Shirizly, Dekel Meirom, Malcolm Carroll, Haggai Landa|[2504.13083](http://arxiv.org/abs/2504.13083)|null|
 |**2025-04-17**|**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**|Riza Velioglu, Petra Bevandic, Robin Chan, Barbara Hammer|[2504.13078](http://arxiv.org/abs/2504.13078)|**[link](https://github.com/rizavelioglu/tryoffdiff)**|
 |**2025-04-17**|**Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes**|John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang|[2504.13043](http://arxiv.org/abs/2504.13043)|null|
 |**2025-04-17**|**Unbiased Quantum Error Mitigation Without Reliance on an Accurate Error Model**|Haipeng Xie, Nobuyuki Yoshioka, Kento Tsubouchi, Ying Li|[2504.12864](http://arxiv.org/abs/2504.12864)|null|

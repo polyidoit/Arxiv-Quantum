@@ -1,4 +1,4 @@
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -413,7 +413,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -516,7 +516,7 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -662,7 +662,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -783,7 +783,7 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Resource theory
 
@@ -998,7 +998,7 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -1471,7 +1471,7 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -1483,9 +1483,9 @@
 |**2025-04-21**|**Advancing quantum process tomography through universal compilation**|Huynh Le Dan Linh, Vu Tuan Hai, Le Bin Ho|[2504.14958](http://arxiv.org/abs/2504.14958)|null|
 |**2025-04-20**|**Estimating detector error models from syndrome data**|Robin Blume-Kohout, Kevin Young|[2504.14643](http://arxiv.org/abs/2504.14643)|null|
 |**2025-04-20**|**Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction**|Charlie Campbell, Hao Mark Chen, Wayne Luk, Hongxiang Fan|[2504.14557](http://arxiv.org/abs/2504.14557)|null|
-|**2025-04-18**|**Quantum repeaters enhanced by vacuum beam guides**|Yu Gan, Mohadeseh Azar, Nitish Kumar Chandra, Xin Jin, Jinglei Cheng, Kaushik P. Seshadreesan, Junyu Liu|[2504.13397](http://arxiv.org/abs/2504.13397)|null|
+|**2025-04-22**|**Quantum repeaters enhanced by vacuum beam guides**|Yu Gan, Mohadeseh Azari, Nitish Kumar Chandra, Xin Jin, Jinglei Cheng, Kaushik P. Seshadreesan, Junyu Liu|[2504.13397](http://arxiv.org/abs/2504.13397)|null|
 |**2025-04-17**|**Restoring Heisenberg scaling in time via autonomous quantum error correction**|Hyukgun Kwon, Uwe R. Fischer, Seung-Woo Lee, Liang Jiang|[2504.13168](http://arxiv.org/abs/2504.13168)|null|
-|**2025-04-17**|**Feedforward suppression of readout-induced faults in quantum error correction**|Liran Shirizly, Dekel Meirom, Malcolm Carroll, Haggai Landa|[2504.13083](http://arxiv.org/abs/2504.13083)|null|
+|**2025-04-22**|**Feedforward suppression of readout-induced faults in quantum error correction**|Liran Shirizly, Dekel Meirom, Malcolm Carroll, Haggai Landa|[2504.13083](http://arxiv.org/abs/2504.13083)|null|
 |**2025-04-17**|**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**|Riza Velioglu, Petra Bevandic, Robin Chan, Barbara Hammer|[2504.13078](http://arxiv.org/abs/2504.13078)|**[link](https://github.com/rizavelioglu/tryoffdiff)**|
 |**2025-04-17**|**Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes**|John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang|[2504.13043](http://arxiv.org/abs/2504.13043)|null|
 |**2025-04-17**|**Unbiased Quantum Error Mitigation Without Reliance on an Accurate Error Model**|Haipeng Xie, Nobuyuki Yoshioka, Kento Tsubouchi, Ying Li|[2504.12864](http://arxiv.org/abs/2504.12864)|null|
@@ -2622,5 +2622,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 

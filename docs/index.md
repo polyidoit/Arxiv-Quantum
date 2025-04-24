@@ -509,6 +509,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Determining Strong Contextuality on rank-one Projectors**|Jiawei Nie, Yongjun Wang, Songyi Liu|[2504.16541](http://arxiv.org/abs/2504.16541)|null|
 |**2025-04-18**|**Quantum Contextuality for Contextual Word Embeddings**|Karl Svozil|[2504.13824](http://arxiv.org/abs/2504.13824)|null|
 |**2025-04-16**|**Tests of quantum contextuality in particle physics**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2504.12382](http://arxiv.org/abs/2504.12382)|null|
 |**2025-04-15**|**Probe of Generic Quantum Contextuality and Nonlocality for qubits**|Wei Li, Min-Xuan Zhou, Yun-Hao Shi, Z. D. Wang, Heng Fan, Yan-Kui Bai|[2504.11238](http://arxiv.org/abs/2504.11238)|null|
@@ -772,6 +773,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Regularizing Differentiable Architecture Search with Smooth Activation**|Yanlin Zhou, Mostafa El-Khamy, Kee-Bong Song|[2504.16306](http://arxiv.org/abs/2504.16306)|null|
 |**2025-04-22**|**High-sensitivity and high-resolution collaborative determination of birefringence coefficient using weak measurement**|Yanqiang Guo, Jiahui Hou, Min Zhang, Ao Wang, Shuqi Gao, Qingchen Liu, Hongyu Li, Xiaomin Guo, Liantuan Xiao|[2504.15571](http://arxiv.org/abs/2504.15571)|null|
 |**2025-04-17**|**Dynamical relationship between CAR algebras and determinantal point processes: point processes at finite temperature and stochastically positive KMS systems**|Ryosuke Sato|[2504.12935](http://arxiv.org/abs/2504.12935)|null|
 |**2025-04-16**|**Correlations as a resource in molecular switches**|Daniel Siciliano, Rudi B. P. Pietsch, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio|[2504.12202](http://arxiv.org/abs/2504.12202)|null|
@@ -1458,6 +1460,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Beating the break-even point with autonomous quantum error correction**|Yi Li, Qingyuan Mei, Qing-Xuan Jie, Weizhou Cai, Yue Li, Zhiyuan Liu, Zi-Jie Chen, Zihan Xie, Xu Cheng, Xingyu Zhao, Zhenghao Luo, Mengxiang Zhang, Xu-Bo Zou, Chang-Ling Zou, Yiheng Lin, Jiangfeng Du|[2504.16746](http://arxiv.org/abs/2504.16746)|null|
+|**2025-04-23**|**Resource Reduction in Multiparty Quantum Secret Sharing of both Classical and Quantum Information under Noisy Scenario**|Nirupam Basak, Goutam Paul|[2504.16709](http://arxiv.org/abs/2504.16709)|null|
+|**2025-04-23**|**More on genuine multi-entropy and holography**|Norihiro Iizuka, Simon Lin, Mitsuhiro Nishida|[2504.16589](http://arxiv.org/abs/2504.16589)|null|
+|**2025-04-22**|**Flexion: Adaptive In-Situ Encoding for On-Demand QEC in Ion Trap Systems**|Keyi Yin, Xiang Fang, Zhuo Chen, Ang Li, David Hayes, Eneet Kaur, Reza Nejabati, Hartmut Haeffner, Wes Campbell, Eric Hudson, Jens Palsberg, Travis Humble, Yufei Ding|[2504.16303](http://arxiv.org/abs/2504.16303)|null|
+|**2025-04-22**|**Augmenting Simulated Noisy Quantum Data Collection by Orders of Magnitude Using Pre-Trajectory Sampling with Batched Execution**|Taylor L. Patti, Thien Nguyen, Justin G. Lietz, Alexander J. McCaskey, Brucek Khailany|[2504.16297](http://arxiv.org/abs/2504.16297)|null|
+|**2025-04-22**|**Kronecker states: a powerful source of multipartite maximally entangled states in quantum information**|Walther Gonzalez|[2504.16256](http://arxiv.org/abs/2504.16256)|null|
 |**2025-04-22**|**Lattice surgery-based logical state teleportation via noisy links**|Áron Márton, Luis Colmenarez, Lukas Bödeker, Markus Müller|[2504.15747](http://arxiv.org/abs/2504.15747)|null|
 |**2025-04-22**|**Entanglement-enhanced randomized measurement in noisy quantum devices**|Gyungmin Cho, Dohun Kim|[2504.15698](http://arxiv.org/abs/2504.15698)|null|
 |**2025-04-21**|**Multi-Target Rydberg Gates via Spatial Blockade Engineering**|Samuel Stein, Chenxu Liu, Shuwen Kan, Eleanor Crane, Yufei Ding, Ying Mao, Alexander Shuckert, Ang Li|[2504.15282](http://arxiv.org/abs/2504.15282)|null|

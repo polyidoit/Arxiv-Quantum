@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 
 ## Bell nonlocality
 
@@ -1462,7 +1462,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-23**|**Beating the break-even point with autonomous quantum error correction**|Yi Li, Qingyuan Mei, Qing-Xuan Jie, Weizhou Cai, Yue Li, Zhiyuan Liu, Zi-Jie Chen, Zihan Xie, Xu Cheng, Xingyu Zhao, Zhenghao Luo, Mengxiang Zhang, Xu-Bo Zou, Chang-Ling Zou, Yiheng Lin, Jiangfeng Du|[2504.16746](http://arxiv.org/abs/2504.16746)|null|
 |**2025-04-23**|**Resource Reduction in Multiparty Quantum Secret Sharing of both Classical and Quantum Information under Noisy Scenario**|Nirupam Basak, Goutam Paul|[2504.16709](http://arxiv.org/abs/2504.16709)|null|
-|**2025-04-23**|**More on genuine multi-entropy and holography**|Norihiro Iizuka, Simon Lin, Mitsuhiro Nishida|[2504.16589](http://arxiv.org/abs/2504.16589)|null|
+|**2025-04-24**|**More on genuine multi-entropy and holography**|Norihiro Iizuka, Simon Lin, Mitsuhiro Nishida|[2504.16589](http://arxiv.org/abs/2504.16589)|null|
 |**2025-04-22**|**Flexion: Adaptive In-Situ Encoding for On-Demand QEC in Ion Trap Systems**|Keyi Yin, Xiang Fang, Zhuo Chen, Ang Li, David Hayes, Eneet Kaur, Reza Nejabati, Hartmut Haeffner, Wes Campbell, Eric Hudson, Jens Palsberg, Travis Humble, Yufei Ding|[2504.16303](http://arxiv.org/abs/2504.16303)|null|
 |**2025-04-22**|**Augmenting Simulated Noisy Quantum Data Collection by Orders of Magnitude Using Pre-Trajectory Sampling with Batched Execution**|Taylor L. Patti, Thien Nguyen, Justin G. Lietz, Alexander J. McCaskey, Brucek Khailany|[2504.16297](http://arxiv.org/abs/2504.16297)|null|
 |**2025-04-22**|**Kronecker states: a powerful source of multipartite maximally entangled states in quantum information**|Walther Gonzalez|[2504.16256](http://arxiv.org/abs/2504.16256)|null|

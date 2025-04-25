@@ -1007,6 +1007,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Near-Term Pseudorandom and Pseudoresource Quantum States**|Andrew Tanggara, Mile Gu, Kishor Bharti|[2504.17650](http://arxiv.org/abs/2504.17650)|null|
 |**2025-04-21**|**The Hardness of Learning Quantum Circuits and its Cryptographic Applications**|Bill Fefferman, Soumik Ghosh, Makrand Sinha, Henry Yuen|[2504.15343](http://arxiv.org/abs/2504.15343)|null|
 |**2025-04-19**|**Average Spread Complexity and the Higher-Order Level Spacing**|Amin Faraji Astaneh, Niloofar Vardian|[2504.14362](http://arxiv.org/abs/2504.14362)|null|
 |**2025-04-17**|**Computing $n$ -time correlation functions without ancilla qubits**|Xiaoyang Wang, Long Xiong, Xiaoxia Cai, Xiao Yuan|[2504.12975](http://arxiv.org/abs/2504.12975)|null|
@@ -1481,6 +1482,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction**|Kenta Kasai|[2504.17790](http://arxiv.org/abs/2504.17790)|null|
+|**2025-04-24**|**Knapsack on Graphs with Relaxed Neighborhood Constraints**|Palash Dey, Ashlesha Hota, Sudeshna Kolay|[2504.17297](http://arxiv.org/abs/2504.17297)|null|
+|**2025-04-23**|**OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing**|Hezi Zhang, Jixuan Ruan, Dean Tullsen, Yufei Ding, Ang Li, Travis S. Humble|[2504.17116](http://arxiv.org/abs/2504.17116)|null|
+|**2025-04-23**|**Surface-code Superconducting Quantum Processors: From Calibration To Logical Performance**|Hany Ali|[2504.17082](http://arxiv.org/abs/2504.17082)|null|
 |**2025-04-23**|**Beating the break-even point with autonomous quantum error correction**|Yi Li, Qingyuan Mei, Qing-Xuan Jie, Weizhou Cai, Yue Li, Zhiyuan Liu, Zi-Jie Chen, Zihan Xie, Xu Cheng, Xingyu Zhao, Zhenghao Luo, Mengxiang Zhang, Xu-Bo Zou, Chang-Ling Zou, Yiheng Lin, Jiangfeng Du|[2504.16746](http://arxiv.org/abs/2504.16746)|null|
 |**2025-04-23**|**Resource Reduction in Multiparty Quantum Secret Sharing of both Classical and Quantum Information under Noisy Scenario**|Nirupam Basak, Goutam Paul|[2504.16709](http://arxiv.org/abs/2504.16709)|null|
 |**2025-04-24**|**More on genuine multi-entropy and holography**|Norihiro Iizuka, Simon Lin, Mitsuhiro Nishida|[2504.16589](http://arxiv.org/abs/2504.16589)|null|

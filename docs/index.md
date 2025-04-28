@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 
 ## Bell nonlocality
 
@@ -990,7 +990,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-24**|**Near-Term Pseudorandom and Pseudoresource Quantum States**|Andrew Tanggara, Mile Gu, Kishor Bharti|[2504.17650](http://arxiv.org/abs/2504.17650)|null|
 |**2025-04-21**|**The Hardness of Learning Quantum Circuits and its Cryptographic Applications**|Bill Fefferman, Soumik Ghosh, Makrand Sinha, Henry Yuen|[2504.15343](http://arxiv.org/abs/2504.15343)|null|
-|**2025-04-19**|**Average Spread Complexity and the Higher-Order Level Spacing**|Amin Faraji Astaneh, Niloofar Vardian|[2504.14362](http://arxiv.org/abs/2504.14362)|null|
+|**2025-04-25**|**Average Spread Complexity and the Higher-Order Level Spacing**|Amin Faraji Astaneh, Niloofar Vardian|[2504.14362](http://arxiv.org/abs/2504.14362)|null|
 |**2025-04-17**|**Computing $n$ -time correlation functions without ancilla qubits**|Xiaoyang Wang, Long Xiong, Xiaoxia Cai, Xiao Yuan|[2504.12975](http://arxiv.org/abs/2504.12975)|null|
 |**2025-04-16**|**ScarFinder: a detector of optimal scar trajectories in quantum many-body dynamics**|Jie Ren, Andrew Hallam, Lei Ying, Zlatko Papić|[2504.12383](http://arxiv.org/abs/2504.12383)|null|
 |**2025-04-15**|**A deep dive into the interplay of structured quantum peaked circuits and infinite temperature correlation functions**|Myeongsu Kim, Manas Sajjan, Sabre Kais|[2504.11240](http://arxiv.org/abs/2504.11240)|null|

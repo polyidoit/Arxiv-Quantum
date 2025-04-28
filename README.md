@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Revealing hidden nonlocality and preparation contextuality for an arbitrary input Bell inequality**|Asmita Kumari, Saikat Patra|[2504.18045](http://arxiv.org/abs/2504.18045)|null|
 |**2025-04-18**|**Tight upper bound and monogamy relation for the maximum quantum value of the parity-CHSH inequality and applied to device-independent randomness**|Guannan Zhang, Jiamin Xu, Ming Li, Shuqian Shen, Lei Li, Shao-ming Fei|[2504.13427](http://arxiv.org/abs/2504.13427)|null|
 |**2025-04-15**|**Transforming Resonance Fluorescence into Maximally Entangled Photon Pairs Using Minimal Resources**|Xin-Xin Hu, Gabriele Maron, Luke Masters, Arno Rauschenbeutel, Jürgen Volz|[2504.11294](http://arxiv.org/abs/2504.11294)|null|
 |**2025-04-15**|**Probe of Generic Quantum Contextuality and Nonlocality for qubits**|Wei Li, Min-Xuan Zhou, Yun-Hao Shi, Z. D. Wang, Heng Fan, Yan-Kui Bai|[2504.11238](http://arxiv.org/abs/2504.11238)|null|
@@ -1007,6 +1008,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Efficient witnessing and testing of magic in mixed quantum states**|Tobias Haug, Poetri Sonya Tarabunga|[2504.18098](http://arxiv.org/abs/2504.18098)|null|
 |**2025-04-24**|**Near-Term Pseudorandom and Pseudoresource Quantum States**|Andrew Tanggara, Mile Gu, Kishor Bharti|[2504.17650](http://arxiv.org/abs/2504.17650)|null|
 |**2025-04-21**|**The Hardness of Learning Quantum Circuits and its Cryptographic Applications**|Bill Fefferman, Soumik Ghosh, Makrand Sinha, Henry Yuen|[2504.15343](http://arxiv.org/abs/2504.15343)|null|
 |**2025-04-25**|**Average Spread Complexity and the Higher-Order Level Spacing**|Amin Faraji Astaneh, Niloofar Vardian|[2504.14362](http://arxiv.org/abs/2504.14362)|null|
@@ -1482,6 +1484,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Optical Schrödinger cat states generation using cubic phase resource state and beamsplitter**|A. V. Baeva, A. S. Losev, I. V. Sokolov|[2504.18372](http://arxiv.org/abs/2504.18372)|null|
+|**2025-04-25**|**On the Generalization of Kitaev Codes as Generalized Bicycle Codes**|François Arnault, Philippe Gaborit, Nicolas Saussay|[2504.18360](http://arxiv.org/abs/2504.18360)|null|
+|**2025-04-24**|**Quantum Fisher-Yates shuffle: Unifying methods for generating uniform superpositions of permutations**|Lennart Binkowski, Marvin Schwiering|[2504.17965](http://arxiv.org/abs/2504.17965)|null|
 |**2025-04-24**|**Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction**|Kenta Kasai|[2504.17790](http://arxiv.org/abs/2504.17790)|null|
 |**2025-04-24**|**Knapsack on Graphs with Relaxed Neighborhood Constraints**|Palash Dey, Ashlesha Hota, Sudeshna Kolay|[2504.17297](http://arxiv.org/abs/2504.17297)|null|
 |**2025-04-23**|**OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing**|Hezi Zhang, Jixuan Ruan, Dean Tullsen, Yufei Ding, Ang Li, Travis S. Humble|[2504.17116](http://arxiv.org/abs/2504.17116)|null|

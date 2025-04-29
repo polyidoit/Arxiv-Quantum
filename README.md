@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Factorization of multimeters: a unified view on nonclassical quantum phenomena**|Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala|[2504.19865](http://arxiv.org/abs/2504.19865)|null|
+|**2025-04-28**|**Self-testing of Nonmaximal Genuine Entangled States using Tripartite Hardy Relations**|Ranendu Adhikary, Souradeep Sasmal, Arup Roy|[2504.19491](http://arxiv.org/abs/2504.19491)|null|
+|**2025-04-22**|**EPR Correlations Using Quaternion Spin**|Bryan Sanctuary|[2504.18573](http://arxiv.org/abs/2504.18573)|null|
 |**2025-04-25**|**Revealing hidden nonlocality and preparation contextuality for an arbitrary input Bell inequality**|Asmita Kumari, Saikat Patra|[2504.18045](http://arxiv.org/abs/2504.18045)|null|
 |**2025-04-18**|**Tight upper bound and monogamy relation for the maximum quantum value of the parity-CHSH inequality and applied to device-independent randomness**|Guannan Zhang, Jiamin Xu, Ming Li, Shuqian Shen, Lei Li, Shao-ming Fei|[2504.13427](http://arxiv.org/abs/2504.13427)|null|
 |**2025-04-15**|**Transforming Resonance Fluorescence into Maximally Entangled Photon Pairs Using Minimal Resources**|Xin-Xin Hu, Gabriele Maron, Luke Masters, Arno Rauschenbeutel, Jürgen Volz|[2504.11294](http://arxiv.org/abs/2504.11294)|null|
@@ -791,6 +794,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-13**|**Quantum information theoretic approach to the hard problem of consciousness**|Danko D. Georgiev|[2504.18550](http://arxiv.org/abs/2504.18550)|null|
 |**2025-04-22**|**Regularizing Differentiable Architecture Search with Smooth Activation**|Yanlin Zhou, Mostafa El-Khamy, Kee-Bong Song|[2504.16306](http://arxiv.org/abs/2504.16306)|null|
 |**2025-04-22**|**High-sensitivity and high-resolution collaborative determination of birefringence coefficient using weak measurement**|Yanqiang Guo, Jiahui Hou, Min Zhang, Ao Wang, Shuqi Gao, Qingchen Liu, Hongyu Li, Xiaomin Guo, Liantuan Xiao|[2504.15571](http://arxiv.org/abs/2504.15571)|null|
 |**2025-04-17**|**Dynamical relationship between CAR algebras and determinantal point processes: point processes at finite temperature and stochastically positive KMS systems**|Ryosuke Sato|[2504.12935](http://arxiv.org/abs/2504.12935)|null|
@@ -1484,10 +1488,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures**|Shraddha Singh, Baptiste Royer, Steven M. Girvin|[2504.19992](http://arxiv.org/abs/2504.19992)|null|
+|**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham|[2504.19966](http://arxiv.org/abs/2504.19966)|null|
+|**2025-04-28**|**Quantum Error Correction in Quaternionic Hilbert Spaces**|Valentine Nyirahafashimana, Nurisya Mohd Shah, Umair Abdul Halim, Mohamed Othman, Sharifah Kartini Said Husain|[2504.19833](http://arxiv.org/abs/2504.19833)|null|
+|**2025-04-28**|**Fooling the Decoder: An Adversarial Attack on Quantum Error Correction**|Jerome Lenssen, Alexandru Paler|[2504.19651](http://arxiv.org/abs/2504.19651)|null|
+|**2025-04-28**|**Improved T counts and active volume estimates for high-level arithmetic subroutines**|Sam Heavey|[2504.19626](http://arxiv.org/abs/2504.19626)|null|
 |**2025-04-25**|**Optical Schrödinger cat states generation using cubic phase resource state and beamsplitter**|A. V. Baeva, A. S. Losev, I. V. Sokolov|[2504.18372](http://arxiv.org/abs/2504.18372)|null|
 |**2025-04-25**|**On the Generalization of Kitaev Codes as Generalized Bicycle Codes**|François Arnault, Philippe Gaborit, Nicolas Saussay|[2504.18360](http://arxiv.org/abs/2504.18360)|null|
 |**2025-04-24**|**Quantum Fisher-Yates shuffle: Unifying methods for generating uniform superpositions of permutations**|Lennart Binkowski, Marvin Schwiering|[2504.17965](http://arxiv.org/abs/2504.17965)|null|
-|**2025-04-24**|**Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction**|Kenta Kasai|[2504.17790](http://arxiv.org/abs/2504.17790)|null|
+|**2025-04-28**|**Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction**|Kenta Kasai|[2504.17790](http://arxiv.org/abs/2504.17790)|null|
 |**2025-04-24**|**Knapsack on Graphs with Relaxed Neighborhood Constraints**|Palash Dey, Ashlesha Hota, Sudeshna Kolay|[2504.17297](http://arxiv.org/abs/2504.17297)|null|
 |**2025-04-23**|**OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing**|Hezi Zhang, Jixuan Ruan, Dean Tullsen, Yufei Ding, Ang Li, Travis S. Humble|[2504.17116](http://arxiv.org/abs/2504.17116)|null|
 |**2025-04-23**|**Surface-code Superconducting Quantum Processors: From Calibration To Logical Performance**|Hany Ali|[2504.17082](http://arxiv.org/abs/2504.17082)|null|

@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Optimal Local Simulations of a Quantum Singlet**|David Llamas, Dmitry Chistikov, Adrian Kent, Mike Paterson, Olga Goulko|[2504.20953](http://arxiv.org/abs/2504.20953)|null|
 |**2025-04-28**|**Factorization of multimeters: a unified view on nonclassical quantum phenomena**|Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala|[2504.19865](http://arxiv.org/abs/2504.19865)|null|
 |**2025-04-28**|**Self-testing of Nonmaximal Genuine Entangled States using Tripartite Hardy Relations**|Ranendu Adhikary, Souradeep Sasmal, Arup Roy|[2504.19491](http://arxiv.org/abs/2504.19491)|null|
 |**2025-04-22**|**EPR Correlations Using Quaternion Spin**|Bryan Sanctuary|[2504.18573](http://arxiv.org/abs/2504.18573)|null|
@@ -673,6 +674,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Gaussian tripartite steering in Schwarzschild black hole**|Shu-Min Wu, Hao-Yu Wu, Yu-Xuan Wang, Jieci Wang|[2504.20325](http://arxiv.org/abs/2504.20325)|null|
 |**2025-04-11**|**Violation of steering inequality for generalized equiangular measurements**|Adam Rutkowski, Katarzyna Siudzińska|[2504.08497](http://arxiv.org/abs/2504.08497)|null|
 |**2025-03-05**|**A Multi Affine Geometric Framework for Quantum Nonlocality. Unifying Berry Phases, Entanglement, and Coherence**|Shoshauna Gauvin|[2503.17995](http://arxiv.org/abs/2503.17995)|null|
 |**2025-03-14**|**Remote preparation of motional Schrödinger cat states via dissipatively-driven non-Gaussian mechanical entanglement**|Zunbo Yu, Miaomiao Wei, Huatang Tan|[2503.11410](http://arxiv.org/abs/2503.11410)|null|
@@ -1012,6 +1014,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Surmise for random matrices' level spacing distributions beyond nearest-neighbors**|Ruth Shir, Pablo Martinez-Azcona, Aurélia Chenu|[2504.20134](http://arxiv.org/abs/2504.20134)|null|
 |**2025-04-25**|**Efficient witnessing and testing of magic in mixed quantum states**|Tobias Haug, Poetri Sonya Tarabunga|[2504.18098](http://arxiv.org/abs/2504.18098)|null|
 |**2025-04-24**|**Near-Term Pseudorandom and Pseudoresource Quantum States**|Andrew Tanggara, Mile Gu, Kishor Bharti|[2504.17650](http://arxiv.org/abs/2504.17650)|null|
 |**2025-04-21**|**The Hardness of Learning Quantum Circuits and its Cryptographic Applications**|Bill Fefferman, Soumik Ghosh, Makrand Sinha, Henry Yuen|[2504.15343](http://arxiv.org/abs/2504.15343)|null|
@@ -1488,6 +1491,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Transversal Gates in Nonadditive Quantum Codes**|Chao Zhang, Zipeng Wu, Shilin Huang, Bei Zeng|[2504.20847](http://arxiv.org/abs/2504.20847)|null|
+|**2025-04-29**|**Language Model for Large-Text Transmission in Noisy Quantum Communications**|Yuqi Li, Zhouhang Shi, Haitao Ma, Li Shen, Jinge Bao, Yunlong Xiao|[2504.20842](http://arxiv.org/abs/2504.20842)|null|
+|**2025-04-28**|**Estimating decoding graphs and hypergraphs of memory QEC experiments**|Evangelia Takou, Kenneth R. Brown|[2504.20212](http://arxiv.org/abs/2504.20212)|null|
 |**2025-04-28**|**Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures**|Shraddha Singh, Baptiste Royer, Steven M. Girvin|[2504.19992](http://arxiv.org/abs/2504.19992)|null|
 |**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham|[2504.19966](http://arxiv.org/abs/2504.19966)|null|
 |**2025-04-28**|**Quantum Error Correction in Quaternionic Hilbert Spaces**|Valentine Nyirahafashimana, Nurisya Mohd Shah, Umair Abdul Halim, Mohamed Othman, Sharifah Kartini Said Husain|[2504.19833](http://arxiv.org/abs/2504.19833)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 
 ## Bell nonlocality
 
@@ -1473,7 +1473,7 @@ layout: default
 |**2025-04-29**|**Transversal Gates in Nonadditive Quantum Codes**|Chao Zhang, Zipeng Wu, Shilin Huang, Bei Zeng|[2504.20847](http://arxiv.org/abs/2504.20847)|null|
 |**2025-04-29**|**Language Model for Large-Text Transmission in Noisy Quantum Communications**|Yuqi Li, Zhouhang Shi, Haitao Ma, Li Shen, Jinge Bao, Yunlong Xiao|[2504.20842](http://arxiv.org/abs/2504.20842)|null|
 |**2025-04-28**|**Estimating decoding graphs and hypergraphs of memory QEC experiments**|Evangelia Takou, Kenneth R. Brown|[2504.20212](http://arxiv.org/abs/2504.20212)|null|
-|**2025-04-28**|**Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures**|Shraddha Singh, Baptiste Royer, Steven M. Girvin|[2504.19992](http://arxiv.org/abs/2504.19992)|null|
+|**2025-04-30**|**Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures**|Shraddha Singh, Baptiste Royer, Steven M. Girvin|[2504.19992](http://arxiv.org/abs/2504.19992)|null|
 |**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham|[2504.19966](http://arxiv.org/abs/2504.19966)|null|
 |**2025-04-28**|**Quantum Error Correction in Quaternionic Hilbert Spaces**|Valentine Nyirahafashimana, Nurisya Mohd Shah, Umair Abdul Halim, Mohamed Othman, Sharifah Kartini Said Husain|[2504.19833](http://arxiv.org/abs/2504.19833)|null|
 |**2025-04-28**|**Fooling the Decoder: An Adversarial Attack on Quantum Error Correction**|Jerome Lenssen, Alexandru Paler|[2504.19651](http://arxiv.org/abs/2504.19651)|null|

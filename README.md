@@ -527,6 +527,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**On the difficulty of capturing the distribution function of neutrinos in neutron star merger simulations**|Francois Foucart|[2504.21822](http://arxiv.org/abs/2504.21822)|null|
 |**2025-04-23**|**Determining Strong Contextuality on rank-one Projectors**|Jiawei Nie, Yongjun Wang, Songyi Liu|[2504.16541](http://arxiv.org/abs/2504.16541)|null|
 |**2025-04-18**|**Quantum Contextuality for Contextual Word Embeddings**|Karl Svozil|[2504.13824](http://arxiv.org/abs/2504.13824)|null|
 |**2025-04-16**|**Tests of quantum contextuality in particle physics**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2504.12382](http://arxiv.org/abs/2504.12382)|null|
@@ -1014,6 +1015,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Semiclassical Approach to Quantum Fisher Information**|Mahdi RouhbakhshNabati, Daniel Braun, Henning Schomerus|[2504.21306](http://arxiv.org/abs/2504.21306)|null|
 |**2025-04-28**|**Surmise for random matrices' level spacing distributions beyond nearest-neighbors**|Ruth Shir, Pablo Martinez-Azcona, Aurélia Chenu|[2504.20134](http://arxiv.org/abs/2504.20134)|null|
 |**2025-04-25**|**Efficient witnessing and testing of magic in mixed quantum states**|Tobias Haug, Poetri Sonya Tarabunga|[2504.18098](http://arxiv.org/abs/2504.18098)|null|
 |**2025-04-24**|**Near-Term Pseudorandom and Pseudoresource Quantum States**|Andrew Tanggara, Mile Gu, Kishor Bharti|[2504.17650](http://arxiv.org/abs/2504.17650)|null|
@@ -1491,6 +1493,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing**|Shuwen Kan, Zefan Du, Chenxu Liu, Meng Wang, Yufei Ding, Ang Li, Ying Mao, Samuel Stein|[2504.21854](http://arxiv.org/abs/2504.21854)|null|
+|**2025-04-30**|**Heterogeneously error-corrected QRAMs**|Ansh Singal, Kaitlin N. Smith|[2504.21687](http://arxiv.org/abs/2504.21687)|null|
 |**2025-04-29**|**Transversal Gates in Nonadditive Quantum Codes**|Chao Zhang, Zipeng Wu, Shilin Huang, Bei Zeng|[2504.20847](http://arxiv.org/abs/2504.20847)|null|
 |**2025-04-29**|**Language Model for Large-Text Transmission in Noisy Quantum Communications**|Yuqi Li, Zhouhang Shi, Haitao Ma, Li Shen, Jinge Bao, Yunlong Xiao|[2504.20842](http://arxiv.org/abs/2504.20842)|null|
 |**2025-04-28**|**Estimating decoding graphs and hypergraphs of memory QEC experiments**|Evangelia Takou, Kenneth R. Brown|[2504.20212](http://arxiv.org/abs/2504.20212)|null|

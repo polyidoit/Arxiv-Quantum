@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 
 ## Bell nonlocality
 
@@ -1472,7 +1472,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-30**|**SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing**|Shuwen Kan, Zefan Du, Chenxu Liu, Meng Wang, Yufei Ding, Ang Li, Ying Mao, Samuel Stein|[2504.21854](http://arxiv.org/abs/2504.21854)|null|
+|**2025-05-01**|**SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing**|Shuwen Kan, Zefan Du, Chenxu Liu, Meng Wang, Yufei Ding, Ang Li, Ying Mao, Samuel Stein|[2504.21854](http://arxiv.org/abs/2504.21854)|null|
 |**2025-04-30**|**Heterogeneously error-corrected QRAMs**|Ansh Singal, Kaitlin N. Smith|[2504.21687](http://arxiv.org/abs/2504.21687)|null|
 |**2025-04-29**|**Transversal Gates in Nonadditive Quantum Codes**|Chao Zhang, Zipeng Wu, Shilin Huang, Bei Zeng|[2504.20847](http://arxiv.org/abs/2504.20847)|null|
 |**2025-04-29**|**Language Model for Large-Text Transmission in Noisy Quantum Communications**|Yuqi Li, Zhouhang Shi, Haitao Ma, Li Shen, Jinge Bao, Yunlong Xiao|[2504.20842](http://arxiv.org/abs/2504.20842)|null|

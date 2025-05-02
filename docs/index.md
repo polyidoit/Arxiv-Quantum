@@ -996,6 +996,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Control of Photon Dynamics in Non-Euclidean Polygonal Microcavities by Joint Geometric Curvatures**|Yechun Ding, Yongsheng Wang, Peng Li, Yaxin Guo, Yanpeng Zhang, Feng Yun, Feng Li|[2505.00371](http://arxiv.org/abs/2505.00371)|null|
+|**2025-04-30**|**An unbiased measure over the matrix product state manifold**|Sebastian Leontica, Andrew G. Green|[2505.00073](http://arxiv.org/abs/2505.00073)|null|
+|**2025-04-30**|**Scrambling Dynamics with Imperfections in a Solvable Model**|Nadie Yiluo LiTenn, Tianci Zhou, Brian Swingle|[2505.00070](http://arxiv.org/abs/2505.00070)|null|
 |**2025-04-30**|**Semiclassical Approach to Quantum Fisher Information**|Mahdi RouhbakhshNabati, Daniel Braun, Henning Schomerus|[2504.21306](http://arxiv.org/abs/2504.21306)|null|
 |**2025-04-28**|**Surmise for random matrices' level spacing distributions beyond nearest-neighbors**|Ruth Shir, Pablo Martinez-Azcona, Aurélia Chenu|[2504.20134](http://arxiv.org/abs/2504.20134)|null|
 |**2025-04-25**|**Efficient witnessing and testing of magic in mixed quantum states**|Tobias Haug, Poetri Sonya Tarabunga|[2504.18098](http://arxiv.org/abs/2504.18098)|null|
@@ -1472,6 +1475,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**A new approximate Eastin-Knill theorem**|Rhea Alexander|[2505.00427](http://arxiv.org/abs/2505.00427)|null|
+|**2025-04-30**|**Coherently mitigating boson samplers with stochastic errors**|Deepesh Singh, Ryan J. Marshman, Nathan Walk, Jens Eisert, Timothy C. Ralph, Austin P. Lund|[2505.00102](http://arxiv.org/abs/2505.00102)|null|
+|**2025-04-30**|**Erasure Minesweeper: exploring hybrid-erasure surface code architectures for efficient quantum error correction**|Jason D. Chadwick, Mariesa H. Teo, Joshua Viszlai, Willers Yang, Frederic T. Chong|[2505.00066](http://arxiv.org/abs/2505.00066)|null|
 |**2025-05-01**|**SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing**|Shuwen Kan, Zefan Du, Chenxu Liu, Meng Wang, Yufei Ding, Ang Li, Ying Mao, Samuel Stein|[2504.21854](http://arxiv.org/abs/2504.21854)|null|
 |**2025-04-30**|**Heterogeneously error-corrected QRAMs**|Ansh Singal, Kaitlin N. Smith|[2504.21687](http://arxiv.org/abs/2504.21687)|null|
 |**2025-04-29**|**Transversal Gates in Nonadditive Quantum Codes**|Chao Zhang, Zipeng Wu, Shilin Huang, Bei Zeng|[2504.20847](http://arxiv.org/abs/2504.20847)|null|

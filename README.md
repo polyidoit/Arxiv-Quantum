@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Violation of Svetlichny's inequality in a system of spins $j$**|Yang Xiang, Yuan Tao|[2505.01014](http://arxiv.org/abs/2505.01014)|null|
 |**2025-04-29**|**Optimal Local Simulations of a Quantum Singlet**|David Llamas, Dmitry Chistikov, Adrian Kent, Mike Paterson, Olga Goulko|[2504.20953](http://arxiv.org/abs/2504.20953)|null|
 |**2025-04-28**|**Factorization of multimeters: a unified view on nonclassical quantum phenomena**|Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala|[2504.19865](http://arxiv.org/abs/2504.19865)|null|
 |**2025-04-28**|**Self-testing of Nonmaximal Genuine Entangled States using Tripartite Hardy Relations**|Ranendu Adhikary, Souradeep Sasmal, Arup Roy|[2504.19491](http://arxiv.org/abs/2504.19491)|null|
@@ -424,6 +425,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng, Chen-Yeh Wei, Huan-Yu Ku, Shin-Liang Chen, Yueh-Nan Chen, Chih-Sung Chuu|[2505.01379](http://arxiv.org/abs/2505.01379)|null|
 |**2025-03-31**|**Quantum causality in kappa Minkoswki**|Valentine Maris|[2503.24192](http://arxiv.org/abs/2503.24192)|null|
 |**2025-03-12**|**Higher-Order Quantum Operations**|Philip Taranto, Simon Milz, Mio Murao, Marco Túlio Quintino, Kavan Modi|[2503.09693](http://arxiv.org/abs/2503.09693)|null|
 |**2025-02-28**|**Quantum information elements in Quantum Gravity states and processes**|Daniele Oriti|[2502.21234](http://arxiv.org/abs/2502.21234)|null|
@@ -675,6 +677,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng, Chen-Yeh Wei, Huan-Yu Ku, Shin-Liang Chen, Yueh-Nan Chen, Chih-Sung Chuu|[2505.01379](http://arxiv.org/abs/2505.01379)|null|
 |**2025-04-29**|**Gaussian tripartite steering in Schwarzschild black hole**|Shu-Min Wu, Hao-Yu Wu, Yu-Xuan Wang, Jieci Wang|[2504.20325](http://arxiv.org/abs/2504.20325)|null|
 |**2025-04-11**|**Violation of steering inequality for generalized equiangular measurements**|Adam Rutkowski, Katarzyna Siudzińska|[2504.08497](http://arxiv.org/abs/2504.08497)|null|
 |**2025-03-05**|**A Multi Affine Geometric Framework for Quantum Nonlocality. Unifying Berry Phases, Entanglement, and Coherence**|Shoshauna Gauvin|[2503.17995](http://arxiv.org/abs/2503.17995)|null|
@@ -1496,6 +1499,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Engineering CSS surgery: a fault-tolerant CNOT for any CSS codes**|Clément Poirson, Joschka Roffe, Robert I. Booth|[2505.01370](http://arxiv.org/abs/2505.01370)|null|
 |**2025-05-01**|**A new approximate Eastin-Knill theorem**|Rhea Alexander|[2505.00427](http://arxiv.org/abs/2505.00427)|null|
 |**2025-04-30**|**Coherently mitigating boson samplers with stochastic errors**|Deepesh Singh, Ryan J. Marshman, Nathan Walk, Jens Eisert, Timothy C. Ralph, Austin P. Lund|[2505.00102](http://arxiv.org/abs/2505.00102)|null|
 |**2025-04-30**|**Erasure Minesweeper: exploring hybrid-erasure surface code architectures for efficient quantum error correction**|Jason D. Chadwick, Mariesa H. Teo, Joshua Viszlai, Willers Yang, Frederic T. Chong|[2505.00066](http://arxiv.org/abs/2505.00066)|null|

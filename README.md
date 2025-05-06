@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**Bell's Inequalities and Entanglement in Corpora of Italian Language**|Diederik Aerts, Suzette Geriente, Roberto Leporini, Sandro Sozzo|[2505.02038](http://arxiv.org/abs/2505.02038)|null|
 |**2025-05-02**|**Violation of Svetlichny's inequality in a system of spins $j$**|Yang Xiang, Yuan Tao|[2505.01014](http://arxiv.org/abs/2505.01014)|null|
 |**2025-04-29**|**Optimal Local Simulations of a Quantum Singlet**|David Llamas, Dmitry Chistikov, Adrian Kent, Mike Paterson, Olga Goulko|[2504.20953](http://arxiv.org/abs/2504.20953)|null|
 |**2025-04-28**|**Factorization of multimeters: a unified view on nonclassical quantum phenomena**|Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala|[2504.19865](http://arxiv.org/abs/2504.19865)|null|
@@ -800,6 +801,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Prediction of ELM-free Operation in Spherical Tokamaks With High Plasma Squareness**|J. F. Parisi, J. W. Berkery, K. Imada, A. O. Nelson, S. M. Kaye, P. B. Snyder, M. Lampert, A. Kleiner|[2505.02727](http://arxiv.org/abs/2505.02727)|null|
 |**2025-04-13**|**Quantum information theoretic approach to the hard problem of consciousness**|Danko D. Georgiev|[2504.18550](http://arxiv.org/abs/2504.18550)|null|
 |**2025-04-22**|**Regularizing Differentiable Architecture Search with Smooth Activation**|Yanlin Zhou, Mostafa El-Khamy, Kee-Bong Song|[2504.16306](http://arxiv.org/abs/2504.16306)|null|
 |**2025-04-22**|**High-sensitivity and high-resolution collaborative determination of birefringence coefficient using weak measurement**|Yanqiang Guo, Jiahui Hou, Min Zhang, Ao Wang, Shuqi Gao, Qingchen Liu, Hongyu Li, Xiaomin Guo, Liantuan Xiao|[2504.15571](http://arxiv.org/abs/2504.15571)|null|
@@ -1499,7 +1501,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-02**|**Engineering CSS surgery: a fault-tolerant CNOT for any CSS codes**|Clément Poirson, Joschka Roffe, Robert I. Booth|[2505.01370](http://arxiv.org/abs/2505.01370)|null|
+|**2025-05-04**|**Packaged Quantum States for Gauge-Invariant Quantum Computation and Communication**|Rongchao Ma|[2505.02205](http://arxiv.org/abs/2505.02205)|null|
+|**2025-05-05**|**Engineering CSS surgery: compiling any CNOT in any code**|Clément Poirson, Joschka Roffe, Robert I. Booth|[2505.01370](http://arxiv.org/abs/2505.01370)|null|
 |**2025-05-01**|**A new approximate Eastin-Knill theorem**|Rhea Alexander|[2505.00427](http://arxiv.org/abs/2505.00427)|null|
 |**2025-04-30**|**Coherently mitigating boson samplers with stochastic errors**|Deepesh Singh, Ryan J. Marshman, Nathan Walk, Jens Eisert, Timothy C. Ralph, Austin P. Lund|[2505.00102](http://arxiv.org/abs/2505.00102)|null|
 |**2025-04-30**|**Erasure Minesweeper: exploring hybrid-erasure surface code architectures for efficient quantum error correction**|Jason D. Chadwick, Mariesa H. Teo, Joshua Viszlai, Willers Yang, Frederic T. Chong|[2505.00066](http://arxiv.org/abs/2505.00066)|null|

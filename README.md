@@ -1501,6 +1501,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Sequential decoding of the XYZ $^2$ hexagonal stabilizer code**|Basudha Srivastava, Yinzi Xiao, Anton Frisk Kockum, Ben Criger, Mats Granath|[2505.03691](http://arxiv.org/abs/2505.03691)|null|
+|**2025-05-06**|**Qimax: Efficient quantum simulation via GPU-accelerated extended stabilizer formalism**|Vu Tuan Hai, Bui Cao Doanh, Le Vu Trung Duong, Pham Hoai Luan, Yasuhiko Nakashima|[2505.03307](http://arxiv.org/abs/2505.03307)|**[link](https://github.com/NAIST-Archlab/qimax-soft)**|
+|**2025-05-05**|**Fermion-to-qubit encodings with arbitrary code distance**|Manuel G. Algaba, Miha Papič, Inés de Vega, Alessio Calzona, Fedor Šimkovic IV|[2505.02916](http://arxiv.org/abs/2505.02916)|null|
+|**2025-05-05**|**Probing mixed-state phases on a quantum computer via Renyi correlators and variational decoding**|Yuxuan Zhang, Timothy H. Hsieh, Yong Baek Kim, Yijian Zou|[2505.02900](http://arxiv.org/abs/2505.02900)|null|
 |**2025-05-04**|**Packaged Quantum States for Gauge-Invariant Quantum Computation and Communication**|Rongchao Ma|[2505.02205](http://arxiv.org/abs/2505.02205)|null|
 |**2025-05-05**|**Engineering CSS surgery: compiling any CNOT in any code**|Clément Poirson, Joschka Roffe, Robert I. Booth|[2505.01370](http://arxiv.org/abs/2505.01370)|null|
 |**2025-05-01**|**A new approximate Eastin-Knill theorem**|Rhea Alexander|[2505.00427](http://arxiv.org/abs/2505.00427)|null|

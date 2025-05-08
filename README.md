@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Post-selection free time-bin entanglement on a thin-film lithium niobate photonic chip**|Marcello Bacchi, Andrea Bernardi, Marco Clementi, Sara Congia, Francesco Garrisi, Andrea Martellosio, Marco Passoni, Alexander Wrobel, Federico Andrea Sabattoli, Matteo Galli, Daniele Bajoni|[2505.04598](http://arxiv.org/abs/2505.04598)|null|
 |**2025-05-04**|**Bell's Inequalities and Entanglement in Corpora of Italian Language**|Diederik Aerts, Suzette Geriente, Roberto Leporini, Sandro Sozzo|[2505.02038](http://arxiv.org/abs/2505.02038)|null|
 |**2025-05-02**|**Violation of Svetlichny's inequality in a system of spins $j$**|Yang Xiang, Yuan Tao|[2505.01014](http://arxiv.org/abs/2505.01014)|null|
 |**2025-04-29**|**Optimal Local Simulations of a Quantum Singlet**|David Llamas, Dmitry Chistikov, Adrian Kent, Mike Paterson, Olga Goulko|[2504.20953](http://arxiv.org/abs/2504.20953)|null|
@@ -801,6 +802,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Instantons and Rarefaction Pulses as Pathways to Global Phase Coherence in Gain-Based Optical Networks**|Richard Zhipeng Wang, Natalia G. Berloff|[2505.04031](http://arxiv.org/abs/2505.04031)|null|
 |**2025-05-05**|**Prediction of ELM-free Operation in Spherical Tokamaks With High Plasma Squareness**|J. F. Parisi, J. W. Berkery, K. Imada, A. O. Nelson, S. M. Kaye, P. B. Snyder, M. Lampert, A. Kleiner|[2505.02727](http://arxiv.org/abs/2505.02727)|null|
 |**2025-04-13**|**Quantum information theoretic approach to the hard problem of consciousness**|Danko D. Georgiev|[2504.18550](http://arxiv.org/abs/2504.18550)|null|
 |**2025-04-22**|**Regularizing Differentiable Architecture Search with Smooth Activation**|Yanlin Zhou, Mostafa El-Khamy, Kee-Bong Song|[2504.16306](http://arxiv.org/abs/2504.16306)|null|

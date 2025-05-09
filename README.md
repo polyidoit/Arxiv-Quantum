@@ -17,7 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Device-independent Shannon entropy certification**|Robert Okuła, Piotr Mironowicz|[2505.05395](http://arxiv.org/abs/2505.05395)|null|
 |**2025-05-07**|**Post-selection free time-bin entanglement on a thin-film lithium niobate photonic chip**|Marcello Bacchi, Andrea Bernardi, Marco Clementi, Sara Congia, Francesco Garrisi, Andrea Martellosio, Marco Passoni, Alexander Wrobel, Federico Andrea Sabattoli, Matteo Galli, Daniele Bajoni|[2505.04598](http://arxiv.org/abs/2505.04598)|null|
+|**2025-05-06**|**Quantum CNOT Gate with Actively Synchronized Photon Pairs**|Haim Nakav, Tanim Firdoshi, Omri Davidson, Bankim Chandra Das, Ofer Firstenberg|[2505.03960](http://arxiv.org/abs/2505.03960)|null|
 |**2025-05-04**|**Bell's Inequalities and Entanglement in Corpora of Italian Language**|Diederik Aerts, Suzette Geriente, Roberto Leporini, Sandro Sozzo|[2505.02038](http://arxiv.org/abs/2505.02038)|null|
 |**2025-05-02**|**Violation of Svetlichny's inequality in a system of spins $j$**|Yang Xiang, Yuan Tao|[2505.01014](http://arxiv.org/abs/2505.01014)|null|
 |**2025-04-29**|**Optimal Local Simulations of a Quantum Singlet**|David Llamas, Dmitry Chistikov, Adrian Kent, Mike Paterson, Olga Goulko|[2504.20953](http://arxiv.org/abs/2504.20953)|null|
@@ -1022,6 +1024,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Integrability and Chaos via fractal analysis of Spectral Form Factors: Gaussian approximations and exact results**|Lorenzo Campos Venuti, Jovan Odavić, Alioscia Hamma|[2505.05199](http://arxiv.org/abs/2505.05199)|null|
+|**2025-05-08**|**In memoriam: aspects of Santosh Kumar's work on exact results in RMT**|Peter J. Forrester|[2505.04943](http://arxiv.org/abs/2505.04943)|null|
 |**2025-05-01**|**Control of Photon Dynamics in Non-Euclidean Polygonal Microcavities by Joint Geometric Curvatures**|Yechun Ding, Yongsheng Wang, Peng Li, Yaxin Guo, Yanpeng Zhang, Feng Yun, Feng Li|[2505.00371](http://arxiv.org/abs/2505.00371)|null|
 |**2025-04-30**|**An unbiased measure over the matrix product state manifold**|Sebastian Leontica, Andrew G. Green|[2505.00073](http://arxiv.org/abs/2505.00073)|null|
 |**2025-04-30**|**Scrambling Dynamics with Imperfections in a Solvable Model**|Nadie Yiluo LiTenn, Tianci Zhou, Brian Swingle|[2505.00070](http://arxiv.org/abs/2505.00070)|null|
@@ -1503,6 +1507,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Planar fault-tolerant circuits for non-Clifford gates on the 2D color code**|Andreas Bauer, Julio C. Magdalena de la Fuente|[2505.05175](http://arxiv.org/abs/2505.05175)|null|
+|**2025-05-07**|**Quantum-enabled optical large-baseline interferometry: applications, protocols and feasibility**|Zixin Huang, Oleg Titov, Mikolaj K. Schmidt, Benjamin Pope, Gavin K. Brennen, Daniel Oi, Pieter Kok|[2505.04765](http://arxiv.org/abs/2505.04765)|null|
+|**2025-05-07**|**Quantum information processing in modular cavity QED architectures**|Z. M. McIntyre|[2505.04747](http://arxiv.org/abs/2505.04747)|null|
 |**2025-05-06**|**Sequential decoding of the XYZ $^2$ hexagonal stabilizer code**|Basudha Srivastava, Yinzi Xiao, Anton Frisk Kockum, Ben Criger, Mats Granath|[2505.03691](http://arxiv.org/abs/2505.03691)|null|
 |**2025-05-06**|**Qimax: Efficient quantum simulation via GPU-accelerated extended stabilizer formalism**|Vu Tuan Hai, Bui Cao Doanh, Le Vu Trung Duong, Pham Hoai Luan, Yasuhiko Nakashima|[2505.03307](http://arxiv.org/abs/2505.03307)|**[link](https://github.com/NAIST-Archlab/qimax-soft)**|
 |**2025-05-05**|**Fermion-to-qubit encodings with arbitrary code distance**|Manuel G. Algaba, Miha Papič, Inés de Vega, Alessio Calzona, Fedor Šimkovic IV|[2505.02916](http://arxiv.org/abs/2505.02916)|null|

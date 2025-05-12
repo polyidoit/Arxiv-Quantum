@@ -1005,6 +1005,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Bridging Classical and Quantum Information Scrambling with the Operator Entanglement Spectrum**|Ben T. McDonough, Claudio Chamon, Justin H. Wilson, Thomas Iadecola|[2505.05575](http://arxiv.org/abs/2505.05575)|null|
+|**2025-05-08**|**Proposal for many-body quantum chaos detection with single-site measurements**|Isaías Vallejo-Fabila, Adway Kumar Das, Sayan Choudhury, Lea F. Santos|[2505.05572](http://arxiv.org/abs/2505.05572)|null|
 |**2025-05-08**|**Integrability and Chaos via fractal analysis of Spectral Form Factors: Gaussian approximations and exact results**|Lorenzo Campos Venuti, Jovan Odavić, Alioscia Hamma|[2505.05199](http://arxiv.org/abs/2505.05199)|null|
 |**2025-05-08**|**In memoriam: aspects of Santosh Kumar's work on exact results in RMT**|Peter J. Forrester|[2505.04943](http://arxiv.org/abs/2505.04943)|null|
 |**2025-05-01**|**Control of Photon Dynamics in Non-Euclidean Polygonal Microcavities by Joint Geometric Curvatures**|Yechun Ding, Yongsheng Wang, Peng Li, Yaxin Guo, Yanpeng Zhang, Feng Yun, Feng Li|[2505.00371](http://arxiv.org/abs/2505.00371)|null|
@@ -1486,6 +1488,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Optimization of Quantum Error Correcting Code under Temporal Variation of Qubit Quality**|Subrata Das, Swaroop Ghosh|[2505.06165](http://arxiv.org/abs/2505.06165)|null|
+|**2025-05-09**|**Advancing Finite-Length Quantum Error Correction Using Generalized Bicycle Codes**|Olai Å. Mostad, Hsuan-Yin Lin, Eirik Rosnes, De-Shih Lee, Ching-Yi Lai|[2505.06157](http://arxiv.org/abs/2505.06157)|null|
+|**2025-05-09**|**Algebraic Topology Principles behind Topological Quantum Error Correction**|Xiang Zou, Hoi-Kwong Lo|[2505.06082](http://arxiv.org/abs/2505.06082)|null|
 |**2025-05-08**|**Planar fault-tolerant circuits for non-Clifford gates on the 2D color code**|Andreas Bauer, Julio C. Magdalena de la Fuente|[2505.05175](http://arxiv.org/abs/2505.05175)|null|
 |**2025-05-07**|**Quantum-enabled optical large-baseline interferometry: applications, protocols and feasibility**|Zixin Huang, Oleg Titov, Mikolaj K. Schmidt, Benjamin Pope, Gavin K. Brennen, Daniel Oi, Pieter Kok|[2505.04765](http://arxiv.org/abs/2505.04765)|null|
 |**2025-05-07**|**Quantum information processing in modular cavity QED architectures**|Z. M. McIntyre|[2505.04747](http://arxiv.org/abs/2505.04747)|null|

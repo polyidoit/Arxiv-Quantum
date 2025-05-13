@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-11**|**Physical Probability and Locality in No-Collapse Quantum Theory**|Simon Saunders|[2505.06983](http://arxiv.org/abs/2505.06983)|null|
+|**2025-05-09**|**Quantum strategies, error bounds, optimality, and duality gaps for multiplayer XOR, $\mathrm{XOR}^{*}$, compiled XOR, $\mathrm{XOR}^{*}$, and strong parallel repetiton of XOR, $\mathrm{XOR}^{*}$ , and FFL games**|Pete Rigas|[2505.06322](http://arxiv.org/abs/2505.06322)|null|
 |**2025-05-08**|**Device-independent Shannon entropy certification**|Robert Okuła, Piotr Mironowicz|[2505.05395](http://arxiv.org/abs/2505.05395)|null|
 |**2025-05-07**|**Post-selection free time-bin entanglement on a thin-film lithium niobate photonic chip**|Marcello Bacchi, Andrea Bernardi, Marco Clementi, Sara Congia, Francesco Garrisi, Andrea Martellosio, Marco Passoni, Alexander Wrobel, Federico Andrea Sabattoli, Matteo Galli, Daniele Bajoni|[2505.04598](http://arxiv.org/abs/2505.04598)|null|
 |**2025-05-06**|**Quantum CNOT Gate with Actively Synchronized Photon Pairs**|Haim Nakav, Tanim Firdoshi, Omri Davidson, Bankim Chandra Das, Ofer Firstenberg|[2505.03960](http://arxiv.org/abs/2505.03960)|null|
@@ -418,6 +420,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang, Akshay Gaikwad, Ilya Moskalenko, Anuj Aggarwal, Tahereh Abad, Marko Kuzmanovic, Yu-Han Chang, Ognjen Stanisavljevic, Emil Hogedal, Christopher Warren, Irshad Ahmad, Janka Biznárová, Amr Osman, Mamta Dahiya, Marcus Rommel, Anita Fadavi Rousari, Andreas Nylander, Liangyu Chen, Jonas Bylander, Gheorghe Sorin Paraoanu, Anton Frisk Kockum, Giovanna Tancredi|[2505.07725](http://arxiv.org/abs/2505.07725)|null|
 |**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng, Chen-Yeh Wei, Huan-Yu Ku, Shin-Liang Chen, Yueh-Nan Chen, Chih-Sung Chuu|[2505.01379](http://arxiv.org/abs/2505.01379)|null|
 |**2025-03-31**|**Quantum causality in kappa Minkoswki**|Valentine Maris|[2503.24192](http://arxiv.org/abs/2503.24192)|null|
 |**2025-03-12**|**Higher-Order Quantum Operations**|Philip Taranto, Simon Milz, Mio Murao, Marco Túlio Quintino, Kavan Modi|[2503.09693](http://arxiv.org/abs/2503.09693)|null|
@@ -1005,7 +1008,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-08**|**Bridging Classical and Quantum Information Scrambling with the Operator Entanglement Spectrum**|Ben T. McDonough, Claudio Chamon, Justin H. Wilson, Thomas Iadecola|[2505.05575](http://arxiv.org/abs/2505.05575)|null|
+|**2025-05-12**|**Out-of-time-order correlation in the quantum Ising Floquet spin system and magnonic crystals**|Rohit Kumar Shukla|[2505.07550](http://arxiv.org/abs/2505.07550)|null|
+|**2025-05-09**|**Operator Spreading, Duality, and the Noisy Long-Range FKPP Equation**|Tianci Zhou, Éric Brunet, Xiaolin Qi|[2505.06353](http://arxiv.org/abs/2505.06353)|null|
+|**2025-05-12**|**Bridging Classical and Quantum Information Scrambling with the Operator Entanglement Spectrum**|Ben T. McDonough, Claudio Chamon, Justin H. Wilson, Thomas Iadecola|[2505.05575](http://arxiv.org/abs/2505.05575)|null|
 |**2025-05-08**|**Proposal for many-body quantum chaos detection with single-site measurements**|Isaías Vallejo-Fabila, Adway Kumar Das, Sayan Choudhury, Lea F. Santos|[2505.05572](http://arxiv.org/abs/2505.05572)|null|
 |**2025-05-08**|**Integrability and Chaos via fractal analysis of Spectral Form Factors: Gaussian approximations and exact results**|Lorenzo Campos Venuti, Jovan Odavić, Alioscia Hamma|[2505.05199](http://arxiv.org/abs/2505.05199)|null|
 |**2025-05-08**|**In memoriam: aspects of Santosh Kumar's work on exact results in RMT**|Peter J. Forrester|[2505.04943](http://arxiv.org/abs/2505.04943)|null|
@@ -1488,6 +1493,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Efficiently Computable Limits on EPR Pair Generation in Quantum Broadcast Channels**|Patrick Hayden, Debbie Leung, Hjalmar Rall, Farzin Salek|[2505.07218](http://arxiv.org/abs/2505.07218)|null|
+|**2025-05-12**|**Suppressing Measurement Noise in Logical Qubits Through Measurement Scheduling**|Xiao-Yue Xu, Chen Ding, Wan-Su Bao|[2505.07173](http://arxiv.org/abs/2505.07173)|null|
+|**2025-05-10**|**Structure Theorem for Quantum Replacer Codes**|Eric Chitambar, Sarah Hagen, David W. Kribs, Mike I. Nelson, Andrew Nemec|[2505.06659](http://arxiv.org/abs/2505.06659)|null|
+|**2025-05-09**|**Fault Tolerant Decoding of QLDPC-GKP Codes with Circuit Level Soft Information**|Shantom K. Borah, Asit K. Pradhan, Nithin Raveendran, Michele Pacenti, Bane Vasic|[2505.06385](http://arxiv.org/abs/2505.06385)|null|
 |**2025-05-09**|**Optimization of Quantum Error Correcting Code under Temporal Variation of Qubit Quality**|Subrata Das, Swaroop Ghosh|[2505.06165](http://arxiv.org/abs/2505.06165)|null|
 |**2025-05-09**|**Advancing Finite-Length Quantum Error Correction Using Generalized Bicycle Codes**|Olai Å. Mostad, Hsuan-Yin Lin, Eirik Rosnes, De-Shih Lee, Ching-Yi Lai|[2505.06157](http://arxiv.org/abs/2505.06157)|null|
 |**2025-05-09**|**Algebraic Topology Principles behind Topological Quantum Error Correction**|Xiang Zou, Hoi-Kwong Lo|[2505.06082](http://arxiv.org/abs/2505.06082)|null|

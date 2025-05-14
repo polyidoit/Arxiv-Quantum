@@ -669,6 +669,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in ultrastrongly light-matter coupled system**|Yu-qiang Liu, Shan Sun, Yi-jia Yang, Zheng Liu, Xingdong Zhao, Zunlue Zhu, Wuming Liu, Chang-shui Yu|[2505.08188](http://arxiv.org/abs/2505.08188)|null|
 |**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng, Chen-Yeh Wei, Huan-Yu Ku, Shin-Liang Chen, Yueh-Nan Chen, Chih-Sung Chuu|[2505.01379](http://arxiv.org/abs/2505.01379)|null|
 |**2025-04-29**|**Gaussian tripartite steering in Schwarzschild black hole**|Shu-Min Wu, Hao-Yu Wu, Yu-Xuan Wang, Jieci Wang|[2504.20325](http://arxiv.org/abs/2504.20325)|null|
 |**2025-04-11**|**Violation of steering inequality for generalized equiangular measurements**|Adam Rutkowski, Katarzyna Siudzińska|[2504.08497](http://arxiv.org/abs/2504.08497)|null|
@@ -1008,6 +1009,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Hidden quantum-classical correspondence in chaotic billiards revealed by mutual information**|Kyu-Won Park, Soojoon Lee, Kabgyun Jeong|[2505.08205](http://arxiv.org/abs/2505.08205)|null|
 |**2025-05-12**|**Out-of-time-order correlation in the quantum Ising Floquet spin system and magnonic crystals**|Rohit Kumar Shukla|[2505.07550](http://arxiv.org/abs/2505.07550)|null|
 |**2025-05-09**|**Operator Spreading, Duality, and the Noisy Long-Range FKPP Equation**|Tianci Zhou, Éric Brunet, Xiaolin Qi|[2505.06353](http://arxiv.org/abs/2505.06353)|null|
 |**2025-05-12**|**Bridging Classical and Quantum Information Scrambling with the Operator Entanglement Spectrum**|Ben T. McDonough, Claudio Chamon, Justin H. Wilson, Thomas Iadecola|[2505.05575](http://arxiv.org/abs/2505.05575)|null|
@@ -1493,6 +1495,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Runtime Quantum Advantage with Digital Quantum Optimization**|Pranav Chandarana, Alejandro Gomez Cadavid, Sebastián V. Romero, Anton Simen, Enrique Solano, Narendra N. Hegade|[2505.08663](http://arxiv.org/abs/2505.08663)|null|
+|**2025-05-13**|**High-contrast interaction between remote superconducting qubits mediated by multimode cable coupling**|Jiajian Zhang, Ji Chu, Jingjing Niu, Youpeng Zhong, Dapeng Yu|[2505.08606](http://arxiv.org/abs/2505.08606)|null|
+|**2025-05-12**|**Recovery dynamics of a gap-engineered transmon after a quasiparticle burst**|Heekun Nho, Thomas Connolly, Pavel D. Kurilovich, Spencer Diamond, Charlotte G. L. Bøttcher, Leonid I. Glazman, Michel H. Devoret|[2505.08104](http://arxiv.org/abs/2505.08104)|null|
 |**2025-05-12**|**Efficiently Computable Limits on EPR Pair Generation in Quantum Broadcast Channels**|Patrick Hayden, Debbie Leung, Hjalmar Rall, Farzin Salek|[2505.07218](http://arxiv.org/abs/2505.07218)|null|
 |**2025-05-12**|**Suppressing Measurement Noise in Logical Qubits Through Measurement Scheduling**|Xiao-Yue Xu, Chen Ding, Wan-Su Bao|[2505.07173](http://arxiv.org/abs/2505.07173)|null|
 |**2025-05-10**|**Structure Theorem for Quantum Replacer Codes**|Eric Chitambar, Sarah Hagen, David W. Kribs, Mike I. Nelson, Andrew Nemec|[2505.06659](http://arxiv.org/abs/2505.06659)|null|

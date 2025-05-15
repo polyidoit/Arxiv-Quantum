@@ -523,6 +523,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Geometric lower bounds for the steady-state occupancy of processing networks with limited connectivity**|Diego Goldsztajn, Andres Ferragut|[2505.08974](http://arxiv.org/abs/2505.08974)|null|
 |**2025-04-30**|**On the difficulty of capturing the distribution function of neutrinos in neutron star merger simulations**|Francois Foucart|[2504.21822](http://arxiv.org/abs/2504.21822)|null|
 |**2025-04-23**|**Determining Strong Contextuality on rank-one Projectors**|Jiawei Nie, Yongjun Wang, Songyi Liu|[2504.16541](http://arxiv.org/abs/2504.16541)|null|
 |**2025-04-18**|**Quantum Contextuality for Contextual Word Embeddings**|Karl Svozil|[2504.13824](http://arxiv.org/abs/2504.13824)|null|
@@ -1495,6 +1496,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Quantum Error-Corrected Computation of Molecular Energies**|Kentaro Yamamoto, Yuta Kikuchi, David Amaro, Ben Criger, Silas Dilkes, Ciarán Ryan-Anderson, Andrew Tranter, Joan M. Dreiling, Dan Gresh, Cameron Foltz, Michael Mills, Steven A. Moses, Peter E. Siegfried, Maxwell D. Urmey, Justin J. Burau, Aaron Hankin, Dominic Lucchetti, John P. Gaebler, Natalie C. Brown, Brian Neyenhuis, David Muñoz Ramo|[2505.09133](http://arxiv.org/abs/2505.09133)|null|
 |**2025-05-13**|**Runtime Quantum Advantage with Digital Quantum Optimization**|Pranav Chandarana, Alejandro Gomez Cadavid, Sebastián V. Romero, Anton Simen, Enrique Solano, Narendra N. Hegade|[2505.08663](http://arxiv.org/abs/2505.08663)|null|
 |**2025-05-13**|**High-contrast interaction between remote superconducting qubits mediated by multimode cable coupling**|Jiajian Zhang, Ji Chu, Jingjing Niu, Youpeng Zhong, Dapeng Yu|[2505.08606](http://arxiv.org/abs/2505.08606)|null|
 |**2025-05-12**|**Recovery dynamics of a gap-engineered transmon after a quasiparticle burst**|Heekun Nho, Thomas Connolly, Pavel D. Kurilovich, Spencer Diamond, Charlotte G. L. Bøttcher, Leonid I. Glazman, Michel H. Devoret|[2505.08104](http://arxiv.org/abs/2505.08104)|null|

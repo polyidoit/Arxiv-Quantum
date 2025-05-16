@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 
 ## Bell nonlocality
 
@@ -420,7 +420,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang, Akshay Gaikwad, Ilya Moskalenko, Anuj Aggarwal, Tahereh Abad, Marko Kuzmanovic, Yu-Han Chang, Ognjen Stanisavljevic, Emil Hogedal, Christopher Warren, Irshad Ahmad, Janka Biznárová, Amr Osman, Mamta Dahiya, Marcus Rommel, Anita Fadavi Rousari, Andreas Nylander, Liangyu Chen, Jonas Bylander, Gheorghe Sorin Paraoanu, Anton Frisk Kockum, Giovanna Tancredi|[2505.07725](http://arxiv.org/abs/2505.07725)|null|
+|**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang, Akshay Gaikwad, Ilya Moskalenko, Anuj Aggarwal, Tahereh Abad, Marko Kuzmanovic, Yu-Han Chang, Ognjen Stanisavljevic, Emil Hogedal, Christopher Warren, Irshad Ahmad, Janka Biznárová, Amr Osman, Mamta Dahiya, Marcus Rommel, Anita Fadavi Rousari, Andreas Nylander, Liangyu Chen, Jonas Bylander, Gheorghe Sorin Paraoanu, Anton Frisk Kockum, Giovanna Tancredi|[2505.07725](http://arxiv.org/abs/2505.07725)|**[link](https://github.com/huangtangy/em-qpt)**|
 |**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng, Chen-Yeh Wei, Huan-Yu Ku, Shin-Liang Chen, Yueh-Nan Chen, Chih-Sung Chuu|[2505.01379](http://arxiv.org/abs/2505.01379)|null|
 |**2025-03-31**|**Quantum causality in kappa Minkoswki**|Valentine Maris|[2503.24192](http://arxiv.org/abs/2503.24192)|null|
 |**2025-03-12**|**Higher-Order Quantum Operations**|Philip Taranto, Simon Milz, Mio Murao, Marco Túlio Quintino, Kavan Modi|[2503.09693](http://arxiv.org/abs/2503.09693)|null|

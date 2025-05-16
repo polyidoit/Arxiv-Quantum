@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Observation of Genuine High-dimensional Multi-partite Non-locality in Entangled Photon States**|Xiao-Min Hu, Cen-Xiao Huang, Nicola d'Alessandro, Gabriele Cobucci, Chao Zhang, Yu Guo, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Xiaoqin Gao, Marcus Huber, Armin Tavakoli, Bi-Heng Liu|[2505.10035](http://arxiv.org/abs/2505.10035)|null|
+|**2025-05-14**|**Discovery of entanglement generation by elastic collision to realise the original Einstein-Podolsky-Rosen thought experiment**|Roman Schnabel|[2505.09721](http://arxiv.org/abs/2505.09721)|null|
 |**2025-05-11**|**Physical Probability and Locality in No-Collapse Quantum Theory**|Simon Saunders|[2505.06983](http://arxiv.org/abs/2505.06983)|null|
 |**2025-05-09**|**Quantum strategies, error bounds, optimality, and duality gaps for multiplayer XOR, $\mathrm{XOR}^{*}$, compiled XOR, $\mathrm{XOR}^{*}$, and strong parallel repetiton of XOR, $\mathrm{XOR}^{*}$ , and FFL games**|Pete Rigas|[2505.06322](http://arxiv.org/abs/2505.06322)|null|
 |**2025-05-08**|**Device-independent Shannon entropy certification**|Robert Okuła, Piotr Mironowicz|[2505.05395](http://arxiv.org/abs/2505.05395)|null|
@@ -809,6 +811,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking**|Wen-Long Jin|[2505.09988](http://arxiv.org/abs/2505.09988)|null|
 |**2025-05-07**|**Instantons and Rarefaction Pulses as Pathways to Global Phase Coherence in Gain-Based Optical Networks**|Richard Zhipeng Wang, Natalia G. Berloff|[2505.04031](http://arxiv.org/abs/2505.04031)|null|
 |**2025-05-05**|**Prediction of ELM-free Operation in Spherical Tokamaks With High Plasma Squareness**|J. F. Parisi, J. W. Berkery, K. Imada, A. O. Nelson, S. M. Kaye, P. B. Snyder, M. Lampert, A. Kleiner|[2505.02727](http://arxiv.org/abs/2505.02727)|null|
 |**2025-04-13**|**Quantum information theoretic approach to the hard problem of consciousness**|Danko D. Georgiev|[2504.18550](http://arxiv.org/abs/2504.18550)|null|
@@ -1029,6 +1032,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Reciprocal Floquet Thermalization in one dimensional Rydberg atom array**|Yunhui He, Yuechun Jiao, Jianming Zhao, Weibin Li|[2505.10365](http://arxiv.org/abs/2505.10365)|null|
+|**2025-05-15**|**Koopman analysis of CAT maps onto classical and quantum 2-tori**|David Viennot|[2505.10293](http://arxiv.org/abs/2505.10293)|null|
+|**2025-05-15**|**The non-Clifford cost of random unitaries**|Lorenzo Leone, Salvatore F. E. Oliviero, Alioscia Hamma, Jens Eisert, Lennart Bittel|[2505.10110](http://arxiv.org/abs/2505.10110)|null|
+|**2025-05-15**|**Two-local modifications of SYK model with quantum chaos**|Masanori Hanada, Sam van Leuven, Onur Oktay, Masaki Tezuka|[2505.09900](http://arxiv.org/abs/2505.09900)|null|
 |**2025-05-13**|**Hidden quantum-classical correspondence in chaotic billiards revealed by mutual information**|Kyu-Won Park, Soojoon Lee, Kabgyun Jeong|[2505.08205](http://arxiv.org/abs/2505.08205)|null|
 |**2025-05-12**|**Out-of-time-order correlation in the quantum Ising Floquet spin system and magnonic crystals**|Rohit Kumar Shukla|[2505.07550](http://arxiv.org/abs/2505.07550)|null|
 |**2025-05-09**|**Operator Spreading, Duality, and the Noisy Long-Range FKPP Equation**|Tianci Zhou, Éric Brunet, Xiaolin Qi|[2505.06353](http://arxiv.org/abs/2505.06353)|null|
@@ -1517,6 +1524,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Unlocking early fault-tolerant quantum computing with mitigated magic dilution**|Surabhi Luthra, Alexandra E. Moylett, Dan E. Browne, Earl T. Campbell|[2505.10513](http://arxiv.org/abs/2505.10513)|null|
+|**2025-05-15**|**Geometrically Enhanced Topological Quantum Codes**|David Aasen, Jeongwan Haah, Matthew B. Hastings, Zhenghan Wang|[2505.10403](http://arxiv.org/abs/2505.10403)|null|
+|**2025-05-15**|**Solar-CSK: Decoding Color Coded Visible Light Communications using Solar Cells**|Yanxiang Wang, Yihe Yan, Jiawei Hu, Cheng Jiang, Brano Kusy, Ashraf Uddin, Mahbub Hassan, Wen Hu|[2505.10226](http://arxiv.org/abs/2505.10226)|null|
+|**2025-05-15**|**High-performance local automaton decoders for defect matching in 1D**|Louis Paletta, Anthony Leverrier, Mazyar Mirrahimi, Christophe Vuillot|[2505.10162](http://arxiv.org/abs/2505.10162)|null|
+|**2025-05-15**|**The Schur product of evaluation codes and its application to CSS-T quantum codes and private information retrieval**|Şeyma Bodur, Fernando Hernando, Edgar Martínez-Moro, Diego Ruano|[2505.10068](http://arxiv.org/abs/2505.10068)|null|
+|**2025-05-14**|**Efficient benchmarking of logical magic state**|Su-un Lee, Ming Yuan, Senrui Chen, Kento Tsubouchi, Liang Jiang|[2505.09687](http://arxiv.org/abs/2505.09687)|null|
+|**2025-05-14**|**Demonstration of low-overhead quantum error correction codes**|Ke Wang, Zhide Lu, Chuanyu Zhang, Gongyu Liu, Jiachen Chen, Yanzhe Wang, Yaozu Wu, Shibo Xu, Xuhao Zhu, Feitong Jin, Yu Gao, Ziqi Tan, Zhengyi Cui, Ning Wang, Yiren Zou, Aosai Zhang, Tingting Li, Fanhao Shen, Jiarun Zhong, Zehang Bao, Zitian Zhu, Yihang Han, Yiyang He, Jiayuan Shen, Han Wang, Jia-Nan Yang, Zixuan Song, Jinfeng Deng, Hang Dong, Zheng-Zhi Sun, Weikang Li, Qi Ye, Si Jiang, Yixuan Ma, Pei-Xin Shen, Pengfei Zhang, Hekang Li, Qiujiang Guo, Zhen Wang, Chao Song, H. Wang, Dong-Ling Deng|[2505.09684](http://arxiv.org/abs/2505.09684)|null|
 |**2025-05-14**|**Quantum Error-Corrected Computation of Molecular Energies**|Kentaro Yamamoto, Yuta Kikuchi, David Amaro, Ben Criger, Silas Dilkes, Ciarán Ryan-Anderson, Andrew Tranter, Joan M. Dreiling, Dan Gresh, Cameron Foltz, Michael Mills, Steven A. Moses, Peter E. Siegfried, Maxwell D. Urmey, Justin J. Burau, Aaron Hankin, Dominic Lucchetti, John P. Gaebler, Natalie C. Brown, Brian Neyenhuis, David Muñoz Ramo|[2505.09133](http://arxiv.org/abs/2505.09133)|null|
 |**2025-05-13**|**Runtime Quantum Advantage with Digital Quantum Optimization**|Pranav Chandarana, Alejandro Gomez Cadavid, Sebastián V. Romero, Anton Simen, Enrique Solano, Narendra N. Hegade|[2505.08663](http://arxiv.org/abs/2505.08663)|null|
 |**2025-05-13**|**High-contrast interaction between remote superconducting qubits mediated by multimode cable coupling**|Jiajian Zhang, Ji Chu, Jingjing Niu, Youpeng Zhong, Dapeng Yu|[2505.08606](http://arxiv.org/abs/2505.08606)|null|

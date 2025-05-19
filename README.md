@@ -811,6 +811,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Distance-based measures and Epsilon-measures for measurement-based quantum resources**|Arindam Mitra, Sumit Mukherjee, Changhyoup Lee|[2505.11331](http://arxiv.org/abs/2505.11331)|null|
 |**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking**|Wen-Long Jin|[2505.09988](http://arxiv.org/abs/2505.09988)|null|
 |**2025-05-07**|**Instantons and Rarefaction Pulses as Pathways to Global Phase Coherence in Gain-Based Optical Networks**|Richard Zhipeng Wang, Natalia G. Berloff|[2505.04031](http://arxiv.org/abs/2505.04031)|null|
 |**2025-05-05**|**Prediction of ELM-free Operation in Spherical Tokamaks With High Plasma Squareness**|J. F. Parisi, J. W. Berkery, K. Imada, A. O. Nelson, S. M. Kaye, P. B. Snyder, M. Lampert, A. Kleiner|[2505.02727](http://arxiv.org/abs/2505.02727)|null|
@@ -1032,6 +1033,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Exactly solvable many-body dynamics from space-time duality**|Bruno Bertini, Pieter W. Claeys, Tomaž Prosen|[2505.11489](http://arxiv.org/abs/2505.11489)|null|
+|**2025-05-16**|**Large-Scale Quantum Device Benchmarking via LXEB with Particle-Number-Conserving Random Quantum Circuits**|Takumi Kaneda, Keisuke Fujii, Hiroshi Ueda|[2505.10820](http://arxiv.org/abs/2505.10820)|null|
 |**2025-05-15**|**Reciprocal Floquet Thermalization in one dimensional Rydberg atom array**|Yunhui He, Yuechun Jiao, Jianming Zhao, Weibin Li|[2505.10365](http://arxiv.org/abs/2505.10365)|null|
 |**2025-05-15**|**Koopman analysis of CAT maps onto classical and quantum 2-tori**|David Viennot|[2505.10293](http://arxiv.org/abs/2505.10293)|null|
 |**2025-05-15**|**The non-Clifford cost of random unitaries**|Lorenzo Leone, Salvatore F. E. Oliviero, Alioscia Hamma, Jens Eisert, Lennart Bittel|[2505.10110](http://arxiv.org/abs/2505.10110)|null|
@@ -1524,6 +1527,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Quantum computing with atomic qubit arrays: confronting the cost of connectivity**|M. Saffman|[2505.11218](http://arxiv.org/abs/2505.11218)|null|
+|**2025-05-15**|**Distributed Realization of Color Codes for Quantum Error Correction**|Nitish Kumar Chandra, David Tipper, Reza Nejabati, Eneet Kaur, Kaushik P. Seshadreesan|[2505.10693](http://arxiv.org/abs/2505.10693)|null|
 |**2025-05-15**|**Unlocking early fault-tolerant quantum computing with mitigated magic dilution**|Surabhi Luthra, Alexandra E. Moylett, Dan E. Browne, Earl T. Campbell|[2505.10513](http://arxiv.org/abs/2505.10513)|null|
 |**2025-05-15**|**Geometrically Enhanced Topological Quantum Codes**|David Aasen, Jeongwan Haah, Matthew B. Hastings, Zhenghan Wang|[2505.10403](http://arxiv.org/abs/2505.10403)|null|
 |**2025-05-15**|**Solar-CSK: Decoding Color Coded Visible Light Communications using Solar Cells**|Yanxiang Wang, Yihe Yan, Jiawei Hu, Cheng Jiang, Brano Kusy, Ashraf Uddin, Mahbub Hassan, Wen Hu|[2505.10226](http://arxiv.org/abs/2505.10226)|null|

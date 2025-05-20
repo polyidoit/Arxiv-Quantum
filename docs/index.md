@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-17**|**Nonlocal Advantage of Quantum Coherence in Top Quarks**|Saurabh Rai, Jitendra Kumar|[2505.12004](http://arxiv.org/abs/2505.12004)|null|
 |**2025-05-15**|**Observation of Genuine High-dimensional Multi-partite Non-locality in Entangled Photon States**|Xiao-Min Hu, Cen-Xiao Huang, Nicola d'Alessandro, Gabriele Cobucci, Chao Zhang, Yu Guo, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Xiaoqin Gao, Marcus Huber, Armin Tavakoli, Bi-Heng Liu|[2505.10035](http://arxiv.org/abs/2505.10035)|null|
 |**2025-05-14**|**Discovery of entanglement generation by elastic collision to realise the original Einstein-Podolsky-Rosen thought experiment**|Roman Schnabel|[2505.09721](http://arxiv.org/abs/2505.09721)|null|
 |**2025-05-11**|**Physical Probability and Locality in No-Collapse Quantum Theory**|Simon Saunders|[2505.06983](http://arxiv.org/abs/2505.06983)|null|
@@ -672,6 +673,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-17**|**Nonlocal Advantage of Quantum Coherence in Top Quarks**|Saurabh Rai, Jitendra Kumar|[2505.12004](http://arxiv.org/abs/2505.12004)|null|
 |**2025-05-13**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in ultrastrongly light-matter coupled system**|Yu-qiang Liu, Shan Sun, Yi-jia Yang, Zheng Liu, Xingdong Zhao, Zunlue Zhu, Wuming Liu, Chang-shui Yu|[2505.08188](http://arxiv.org/abs/2505.08188)|null|
 |**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng, Chen-Yeh Wei, Huan-Yu Ku, Shin-Liang Chen, Yueh-Nan Chen, Chih-Sung Chuu|[2505.01379](http://arxiv.org/abs/2505.01379)|null|
 |**2025-04-29**|**Gaussian tripartite steering in Schwarzschild black hole**|Shu-Min Wu, Hao-Yu Wu, Yu-Xuan Wang, Jieci Wang|[2504.20325](http://arxiv.org/abs/2504.20325)|null|
@@ -794,6 +796,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Partite-wise Entanglement**|Yu Guo, Ning Yang|[2505.13226](http://arxiv.org/abs/2505.13226)|null|
 |**2025-05-16**|**Distance-based measures and Epsilon-measures for measurement-based quantum resources**|Arindam Mitra, Sumit Mukherjee, Changhyoup Lee|[2505.11331](http://arxiv.org/abs/2505.11331)|null|
 |**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking**|Wen-Long Jin|[2505.09988](http://arxiv.org/abs/2505.09988)|null|
 |**2025-05-07**|**Instantons and Rarefaction Pulses as Pathways to Global Phase Coherence in Gain-Based Optical Networks**|Richard Zhipeng Wang, Natalia G. Berloff|[2505.04031](http://arxiv.org/abs/2505.04031)|null|

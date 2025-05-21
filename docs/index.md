@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Device-Independent Quantum Key Distribution: Protocols, Quantum Games, and Security**|Syed M. Arslan, Saif Al-Kuwari, M. T. Rahim, Hashir Kuniyal|[2505.14243](http://arxiv.org/abs/2505.14243)|null|
 |**2025-05-17**|**Nonlocal Advantage of Quantum Coherence in Top Quarks**|Saurabh Rai, Jitendra Kumar|[2505.12004](http://arxiv.org/abs/2505.12004)|null|
 |**2025-05-15**|**Observation of Genuine High-dimensional Multi-partite Non-locality in Entangled Photon States**|Xiao-Min Hu, Cen-Xiao Huang, Nicola d'Alessandro, Gabriele Cobucci, Chao Zhang, Yu Guo, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Xiaoqin Gao, Marcus Huber, Armin Tavakoli, Bi-Heng Liu|[2505.10035](http://arxiv.org/abs/2505.10035)|null|
 |**2025-05-14**|**Discovery of entanglement generation by elastic collision to realise the original Einstein-Podolsky-Rosen thought experiment**|Roman Schnabel|[2505.09721](http://arxiv.org/abs/2505.09721)|null|
@@ -526,6 +527,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Quantum Contextuality Requires Counterfactual Gain**|Yuki Sagawa, Jonte R. Hance, Holger F. Hofmann, Takafumi Ono|[2505.14119](http://arxiv.org/abs/2505.14119)|null|
 |**2025-05-13**|**Geometric lower bounds for the steady-state occupancy of processing networks with limited connectivity**|Diego Goldsztajn, Andres Ferragut|[2505.08974](http://arxiv.org/abs/2505.08974)|null|
 |**2025-04-30**|**On the difficulty of capturing the distribution function of neutrinos in neutron star merger simulations**|Francois Foucart|[2504.21822](http://arxiv.org/abs/2504.21822)|null|
 |**2025-04-23**|**Determining Strong Contextuality on rank-one Projectors**|Jiawei Nie, Yongjun Wang, Songyi Liu|[2504.16541](http://arxiv.org/abs/2504.16541)|null|
@@ -1017,6 +1019,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Butterfly effect and $\textrm{T}\overline{\textrm{T}}$ -deformation**|Debarshi Basu, Ashish Chandra, Qiang Wen|[2505.14331](http://arxiv.org/abs/2505.14331)|null|
 |**2025-05-16**|**Exactly solvable many-body dynamics from space-time duality**|Bruno Bertini, Pieter W. Claeys, Tomaž Prosen|[2505.11489](http://arxiv.org/abs/2505.11489)|null|
 |**2025-05-16**|**Large-Scale Quantum Device Benchmarking via LXEB with Particle-Number-Conserving Random Quantum Circuits**|Takumi Kaneda, Keisuke Fujii, Hiroshi Ueda|[2505.10820](http://arxiv.org/abs/2505.10820)|null|
 |**2025-05-15**|**Reciprocal Floquet Thermalization in one dimensional Rydberg atom array**|Yunhui He, Yuechun Jiao, Jianming Zhao, Weibin Li|[2505.10365](http://arxiv.org/abs/2505.10365)|null|
@@ -1509,6 +1512,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**An engineering guide to superconducting quantum circuit shielding**|Elizaveta I. Malevannaya, Viktor I. Polozov, Anton I. Ivanov, Aleksei R. Matanin, Nikita S. Smirnov, Vladimir V. Echeistov, Dmitry O. Moskalev, Dmitry A. Mikhalin, Denis E. Shirokov, Yuri V. Panfilov, Ilya A. Ryzhikov, Aleksander V. Andriyash, Ilya A. Rodionov|[2505.14274](http://arxiv.org/abs/2505.14274)|null|
+|**2025-05-20**|**Correlated noise can be beneficial to quantum transducers**|Yu-Bo Hou, Xiaoan Ai, Ruizhe You, Changchun Zhong|[2505.13790](http://arxiv.org/abs/2505.13790)|null|
+|**2025-05-19**|**Balanced Product Codes, Demystified**|Heather Leitch, Alastair Kay|[2505.13679](http://arxiv.org/abs/2505.13679)|null|
+|**2025-05-19**|**Decoding across transversal Clifford gates in the surface code**|Marc Serra-Peralta, Mackenzie H. Shaw, Barbara M. Terhal|[2505.13599](http://arxiv.org/abs/2505.13599)|null|
+|**2025-05-19**|**Fast correlated decoding of transversal logical algorithms**|Madelyn Cain, Dolev Bluvstein, Chen Zhao, Shouzhen Gu, Nishad Maskara, Marcin Kalinowski, Alexandra A. Geim, Aleksander Kubica, Mikhail D. Lukin, Hengyun Zhou|[2505.13587](http://arxiv.org/abs/2505.13587)|null|
 |**2025-05-16**|**Quantum computing with atomic qubit arrays: confronting the cost of connectivity**|M. Saffman|[2505.11218](http://arxiv.org/abs/2505.11218)|null|
 |**2025-05-15**|**Distributed Realization of Color Codes for Quantum Error Correction**|Nitish Kumar Chandra, David Tipper, Reza Nejabati, Eneet Kaur, Kaushik P. Seshadreesan|[2505.10693](http://arxiv.org/abs/2505.10693)|null|
 |**2025-05-15**|**Unlocking early fault-tolerant quantum computing with mitigated magic dilution**|Surabhi Luthra, Alexandra E. Moylett, Dan E. Browne, Earl T. Campbell|[2505.10513](http://arxiv.org/abs/2505.10513)|null|

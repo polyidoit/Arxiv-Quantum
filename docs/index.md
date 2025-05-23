@@ -1515,6 +1515,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Active Quantum Reservoir Engineering: Using a Qubit to Manipulate its Environment**|Marcelo Janovitch, Matteo Brunelli, Patrick P. Potts|[2505.16898](http://arxiv.org/abs/2505.16898)|null|
+|**2025-05-21**|**Mitigating cosmic ray-like correlated events with a modular quantum processor**|Xuntao Wu, Yash J. Joshi, Haoxiong Yan, Gustav Andersson, Alexander Anferov, Christopher R. Conner, Bayan Karimi, Amber M. King, Shiheng Li, Howard L. Malc, Jacob M. Miller, Harsh Mishra, Hong Qiao, Minseok Ryu, Siyuan Xing, Jian Shi, Andrew N. Cleland|[2505.15919](http://arxiv.org/abs/2505.15919)|null|
+|**2025-05-21**|**How to factor 2048 bit RSA integers with less than a million noisy qubits**|Craig Gidney|[2505.15917](http://arxiv.org/abs/2505.15917)|null|
+|**2025-05-21**|**Quantum steganography using catalytic and entanglement-assisted quantum codes**|Sanjoy Dutta, Nihar Ranjan Dash, Subhashish Banerjee, R. Srikanth|[2505.15869](http://arxiv.org/abs/2505.15869)|null|
 |**2025-05-21**|**A partition function framework for estimating logical error curves in stabilizer codes**|Leon Wichette, Hans Hohenfeld, Elie Mounzer, Linnea Grans-Samuelsson|[2505.15758](http://arxiv.org/abs/2505.15758)|null|
 |**2025-05-21**|**Measurement-free quantum error correction optimized for biased noise**|Katharina Brechtelsbauer, Friederike Butt, David F. Locher, Santiago Higuera Quintero, Sebastian Weber, Markus Müller, Hans Peter Büchler|[2505.15669](http://arxiv.org/abs/2505.15669)|null|
 |**2025-05-20**|**Performance analysis of GKP error correction**|Frederik K. Marqversen, Janus H. Wesenberg, Nikolaj T. Zinner, Ulrik L. Andersen|[2505.14775](http://arxiv.org/abs/2505.14775)|null|

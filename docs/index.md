@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 
 ## Bell nonlocality
 
@@ -1524,7 +1524,7 @@ layout: default
 |**2025-05-21**|**Quantum steganography using catalytic and entanglement-assisted quantum codes**|Sanjoy Dutta, Nihar Ranjan Dash, Subhashish Banerjee, R. Srikanth|[2505.15869](http://arxiv.org/abs/2505.15869)|null|
 |**2025-05-21**|**A partition function framework for estimating logical error curves in stabilizer codes**|Leon Wichette, Hans Hohenfeld, Elie Mounzer, Linnea Grans-Samuelsson|[2505.15758](http://arxiv.org/abs/2505.15758)|null|
 |**2025-05-21**|**Measurement-free quantum error correction optimized for biased noise**|Katharina Brechtelsbauer, Friederike Butt, David F. Locher, Santiago Higuera Quintero, Sebastian Weber, Markus Müller, Hans Peter Büchler|[2505.15669](http://arxiv.org/abs/2505.15669)|null|
-|**2025-05-20**|**Performance analysis of GKP error correction**|Frederik K. Marqversen, Janus H. Wesenberg, Nikolaj T. Zinner, Ulrik L. Andersen|[2505.14775](http://arxiv.org/abs/2505.14775)|null|
+|**2025-05-20**|**Performance analysis of GKP error correction**|Frederik K. Marqversen, Janus H. Wesenberg, Nikolaj T. Zinner, Ulrik L. Andersen|[2505.14775](http://arxiv.org/abs/2505.14775)|**[link](https://github.com/frederik-kofoed-marqversen/quantum_computations)**|
 |**2025-05-20**|**An engineering guide to superconducting quantum circuit shielding**|Elizaveta I. Malevannaya, Viktor I. Polozov, Anton I. Ivanov, Aleksei R. Matanin, Nikita S. Smirnov, Vladimir V. Echeistov, Dmitry O. Moskalev, Dmitry A. Mikhalin, Denis E. Shirokov, Yuri V. Panfilov, Ilya A. Ryzhikov, Aleksander V. Andriyash, Ilya A. Rodionov|[2505.14274](http://arxiv.org/abs/2505.14274)|null|
 |**2025-05-20**|**Correlated noise can be beneficial to quantum transducers**|Yu-Bo Hou, Xiaoan Ai, Ruizhe You, Changchun Zhong|[2505.13790](http://arxiv.org/abs/2505.13790)|null|
 |**2025-05-19**|**Balanced Product Codes, Demystified**|Heather Leitch, Alastair Kay|[2505.13679](http://arxiv.org/abs/2505.13679)|null|

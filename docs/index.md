@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 
 ## Bell nonlocality
 
@@ -1024,7 +1024,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-23**|**Chaos and thermalization in open quantum systems**|Filippo Ferrari, Vincenzo Savona, Fabrizio Minganti|[2505.18260](http://arxiv.org/abs/2505.18260)|null|
-|**2025-05-21**|**Comparative study of the butterfly velocity in holographic QCD models at finite temperature and chemical potential**|Nikesh Lilani, Nikesh Lilani, Subhash Mahapatra|[2505.15357](http://arxiv.org/abs/2505.15357)|null|
+|**2025-05-27**|**Comparative study of the butterfly velocity in holographic QCD models at finite temperature and chemical potential**|Nikesh Lilani, Dilpreet Sandhu, Subhash Mahapatra|[2505.15357](http://arxiv.org/abs/2505.15357)|null|
 |**2025-05-20**|**Impact of Clifford operations on non-stabilizing power and quantum chaos**|Naga Dileep Varikuti, Soumik Bandyopadhyay, Philipp Hauke|[2505.14793](http://arxiv.org/abs/2505.14793)|null|
 |**2025-05-20**|**Butterfly effect and $\textrm{T}\overline{\textrm{T}}$ -deformation**|Debarshi Basu, Ashish Chandra, Qiang Wen|[2505.14331](http://arxiv.org/abs/2505.14331)|null|
 |**2025-05-16**|**Exactly solvable many-body dynamics from space-time duality**|Bruno Bertini, Pieter W. Claeys, Tomaž Prosen|[2505.11489](http://arxiv.org/abs/2505.11489)|null|

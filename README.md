@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Generating Asymmetric Einstein-Podolsky-Rosen Steering between Two movable Mirrors Exploiting Correlated-Emission Laser**|Jamal El Qars, Ismail Essaoudi, Abdelmajid Ainane|[2505.20449](http://arxiv.org/abs/2505.20449)|null|
 |**2025-05-26**|**Robust self-testing and certified randomness based on chained Bell inequality**|Rajdeep Paul, Sneha Munshi, Alok Kumar Pan|[2505.19917](http://arxiv.org/abs/2505.19917)|null|
 |**2025-05-24**|**Time-like Extra Dimensions: Quantum Nonlocality, Spin, and Tsirelson Bound**|Mohammad Furquan, Tejinder P. Singh, P Samuel Wesley|[2505.18797](http://arxiv.org/abs/2505.18797)|null|
 |**2025-05-23**|**Measurement-Incompatibility Constraints for Maximal Randomness**|Tianqi Zheng, Yi Li, Yu Xiang, Qiongyi He|[2505.17585](http://arxiv.org/abs/2505.17585)|null|
@@ -544,6 +545,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Empirical Demonstration of Quantum Contextuality on NISQ Computers**|Colm Kelleher, Frédéric Holweck|[2505.21243](http://arxiv.org/abs/2505.21243)|null|
 |**2025-05-20**|**Quantum Contextuality Requires Counterfactual Gain**|Yuki Sagawa, Jonte R. Hance, Holger F. Hofmann, Takafumi Ono|[2505.14119](http://arxiv.org/abs/2505.14119)|null|
 |**2025-05-13**|**Geometric lower bounds for the steady-state occupancy of processing networks with limited connectivity**|Diego Goldsztajn, Andres Ferragut|[2505.08974](http://arxiv.org/abs/2505.08974)|null|
 |**2025-04-30**|**On the difficulty of capturing the distribution function of neutrinos in neutron star merger simulations**|Francois Foucart|[2504.21822](http://arxiv.org/abs/2504.21822)|null|
@@ -694,6 +696,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Generating Asymmetric Einstein-Podolsky-Rosen Steering between Two movable Mirrors Exploiting Correlated-Emission Laser**|Jamal El Qars, Ismail Essaoudi, Abdelmajid Ainane|[2505.20449](http://arxiv.org/abs/2505.20449)|null|
 |**2025-05-17**|**Nonlocal Advantage of Quantum Coherence in Top Quarks**|Saurabh Rai, Jitendra Kumar|[2505.12004](http://arxiv.org/abs/2505.12004)|null|
 |**2025-05-13**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in ultrastrongly light-matter coupled system**|Yu-qiang Liu, Shan Sun, Yi-jia Yang, Zheng Liu, Xingdong Zhao, Zunlue Zhu, Wuming Liu, Chang-shui Yu|[2505.08188](http://arxiv.org/abs/2505.08188)|null|
 |**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng, Chen-Yeh Wei, Huan-Yu Ku, Shin-Liang Chen, Yueh-Nan Chen, Chih-Sung Chuu|[2505.01379](http://arxiv.org/abs/2505.01379)|null|
@@ -1540,6 +1543,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Quantum Resilience: Canadian Innovations in Quantum Error Correction and Quantum Error Mitigation**|Gaurav Saxena, Jack S. Baker, Pablo Díez Valle, William E. Salazar, Kevin Ferreira, Thi Ha Kyaw|[2505.20534](http://arxiv.org/abs/2505.20534)|null|
+|**2025-05-26**|**A distillation-teleportation protocol for fault-tolerant QRAM**|Alexander M. Dalzell, András Gilyén, Connor T. Hann, Sam McArdle, Grant Salton, Quynh T. Nguyen, Aleksander Kubica, Fernando G. S. L. Brandão|[2505.20265](http://arxiv.org/abs/2505.20265)|null|
+|**2025-05-26**|**Hardware-tailored logical Clifford circuits for stabilizer codes**|Eric J. Kuehnke, Kyano Levi, Joschka Roffe, Jens Eisert, Daniel Miller|[2505.20261](http://arxiv.org/abs/2505.20261)|null|
 |**2025-05-24**|**Hierarchical Quantum Error Correction with Hypergraph Product Code and Rotated Surface Code**|Junichi Haruna, Keisuke Fujii|[2505.18592](http://arxiv.org/abs/2505.18592)|null|
 |**2025-05-23**|**Continuous quantum correction on Markovian and Non-Markovian models**|Juan Garcia Nila, Todd A. Brun|[2505.18400](http://arxiv.org/abs/2505.18400)|null|
 |**2025-05-23**|**Non-Clifford gates between stabilizer codes via non-Abelian topological order**|Rohith Sajith, Zijian Song, Brenden Roberts, Varun Menon, Yabo Li|[2505.18265](http://arxiv.org/abs/2505.18265)|null|

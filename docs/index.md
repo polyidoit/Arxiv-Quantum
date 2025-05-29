@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 
 ## Bell nonlocality
 
@@ -805,7 +805,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-20**|**Partite-wise Entanglement**|Yu Guo, Ning Yang|[2505.13226](http://arxiv.org/abs/2505.13226)|null|
+|**2025-05-28**|**Partite-wise Entanglement**|Yu Guo, Ning Yang|[2505.13226](http://arxiv.org/abs/2505.13226)|null|
 |**2025-05-16**|**Distance-based measures and Epsilon-measures for measurement-based quantum resources**|Arindam Mitra, Sumit Mukherjee, Changhyoup Lee|[2505.11331](http://arxiv.org/abs/2505.11331)|null|
 |**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking**|Wen-Long Jin|[2505.09988](http://arxiv.org/abs/2505.09988)|null|
 |**2025-05-07**|**Instantons and Rarefaction Pulses as Pathways to Global Phase Coherence in Gain-Based Optical Networks**|Richard Zhipeng Wang, Natalia G. Berloff|[2505.04031](http://arxiv.org/abs/2505.04031)|null|

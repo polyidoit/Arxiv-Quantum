@@ -1543,6 +1543,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Low Crosstalk in a Scalable Superconducting Quantum Lattice**|Mohammed Alghadeer, Shuxiang Cao, Simone D Fasciati, Michele Piscitelli, Paul C. Gow, James C. Gates, Mustafa Bakr, Peter J. Leek|[2505.22276](http://arxiv.org/abs/2505.22276)|null|
+|**2025-05-28**|**Interpolation of Quantum Polar Codes and Quantum Reed-Muller Codes**|Keita Hidaka, Dina Abdelhadi, Ruediger Urbanke|[2505.22142](http://arxiv.org/abs/2505.22142)|null|
 |**2025-05-26**|**Quantum Resilience: Canadian Innovations in Quantum Error Correction and Quantum Error Mitigation**|Gaurav Saxena, Jack S. Baker, Pablo Díez Valle, William E. Salazar, Kevin Ferreira, Thi Ha Kyaw|[2505.20534](http://arxiv.org/abs/2505.20534)|null|
 |**2025-05-26**|**A distillation-teleportation protocol for fault-tolerant QRAM**|Alexander M. Dalzell, András Gilyén, Connor T. Hann, Sam McArdle, Grant Salton, Quynh T. Nguyen, Aleksander Kubica, Fernando G. S. L. Brandão|[2505.20265](http://arxiv.org/abs/2505.20265)|null|
 |**2025-05-26**|**Hardware-tailored logical Clifford circuits for stabilizer codes**|Eric J. Kuehnke, Kyano Levi, Joschka Roffe, Jens Eisert, Daniel Miller|[2505.20261](http://arxiv.org/abs/2505.20261)|null|

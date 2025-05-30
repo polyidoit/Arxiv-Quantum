@@ -1026,6 +1026,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Chaos in the holographic matrix models for meson and baryon**|Si-wen Li, Xun Chen|[2505.23199](http://arxiv.org/abs/2505.23199)|null|
 |**2025-05-23**|**Chaos and thermalization in open quantum systems**|Filippo Ferrari, Vincenzo Savona, Fabrizio Minganti|[2505.18260](http://arxiv.org/abs/2505.18260)|null|
 |**2025-05-27**|**Comparative study of the butterfly velocity in holographic QCD models at finite temperature and chemical potential**|Nikesh Lilani, Dilpreet Sandhu, Subhash Mahapatra|[2505.15357](http://arxiv.org/abs/2505.15357)|null|
 |**2025-05-20**|**Impact of Clifford operations on non-stabilizing power and quantum chaos**|Naga Dileep Varikuti, Soumik Bandyopadhyay, Philipp Hauke|[2505.14793](http://arxiv.org/abs/2505.14793)|null|
@@ -1522,6 +1523,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Fluxonium as a control qubit for bosonic quantum information**|Ke Nie, J. Nofear Bradford, Supriya Mandal, Aayam Bista, Wolfgang Pfaff, Angela Kou|[2505.23641](http://arxiv.org/abs/2505.23641)|null|
+|**2025-05-29**|**Scalable decoding protocols for fast transversal logic in the surface code**|Mark L. Turner, Earl T. Campbell, Ophelia Crawford, Neil I. Gillespie, Joan Camps|[2505.23567](http://arxiv.org/abs/2505.23567)|null|
+|**2025-05-28**|**Sample importance for data-driven decoding**|Evan Peters|[2505.22741](http://arxiv.org/abs/2505.22741)|null|
+|**2025-05-28**|**Flow to Nishimori universality in weakly monitored quantum circuits with qubit loss**|Malte Pütz, Romain Vasseur, Andreas W. W. Ludwig, Simon Trebst, Guo-Yi Zhu|[2505.22720](http://arxiv.org/abs/2505.22720)|null|
 |**2025-05-28**|**Low Crosstalk in a Scalable Superconducting Quantum Lattice**|Mohammed Alghadeer, Shuxiang Cao, Simone D Fasciati, Michele Piscitelli, Paul C. Gow, James C. Gates, Mustafa Bakr, Peter J. Leek|[2505.22276](http://arxiv.org/abs/2505.22276)|null|
 |**2025-05-28**|**Interpolation of Quantum Polar Codes and Quantum Reed-Muller Codes**|Keita Hidaka, Dina Abdelhadi, Ruediger Urbanke|[2505.22142](http://arxiv.org/abs/2505.22142)|null|
 |**2025-05-26**|**Quantum Resilience: Canadian Innovations in Quantum Error Correction and Quantum Error Mitigation**|Gaurav Saxena, Jack S. Baker, Pablo Díez Valle, William E. Salazar, Kevin Ferreira, Thi Ha Kyaw|[2505.20534](http://arxiv.org/abs/2505.20534)|null|

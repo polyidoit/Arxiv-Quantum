@@ -532,6 +532,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Moments of the shifted prime divisor function**|Mikhail R. Gabdullin|[2505.24050](http://arxiv.org/abs/2505.24050)|null|
+|**2025-05-29**|**Simplicial methods in the resource theory of contextuality**|Aziz Kharoof, Cihan Okay|[2505.24010](http://arxiv.org/abs/2505.24010)|null|
+|**2025-05-29**|**Gravitational Bounce from the Quantum Exclusion Principle**|Enrique Gaztanaga, K. Sravan Kumar, Swaraj Pradhan, Michael Gabler|[2505.23877](http://arxiv.org/abs/2505.23877)|null|
 |**2025-05-27**|**Empirical Demonstration of Quantum Contextuality on NISQ Computers**|Colm Kelleher, Frédéric Holweck|[2505.21243](http://arxiv.org/abs/2505.21243)|**[link](https://github.com/quantcert/quantcert.github.io)**|
 |**2025-05-20**|**Quantum Contextuality Requires Counterfactual Gain**|Yuki Sagawa, Jonte R. Hance, Holger F. Hofmann, Takafumi Ono|[2505.14119](http://arxiv.org/abs/2505.14119)|null|
 |**2025-05-13**|**Geometric lower bounds for the steady-state occupancy of processing networks with limited connectivity**|Diego Goldsztajn, Andres Ferragut|[2505.08974](http://arxiv.org/abs/2505.08974)|null|
@@ -805,6 +808,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Bias-field-free operation of nitrogen-vacancy ensembles in diamond for accurate vector magnetometry**|Lilian Childress, Vincent Halde, Kayla Johnson, Andrew Lowther, David Roy-Guay, Romain Ruhlmann, Adrian Solyom|[2505.24574](http://arxiv.org/abs/2505.24574)|null|
+|**2025-05-30**|**Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments**|Sanghyeon Nam, Dongmin Kim, Seung-Hwan Choi, Chang-Hyun Kim, Hyoeun Kwon, Hiroaki Kawamoto, Suwoong Lee|[2505.24209](http://arxiv.org/abs/2505.24209)|null|
 |**2025-05-28**|**Partite-wise Entanglement**|Yu Guo, Ning Yang|[2505.13226](http://arxiv.org/abs/2505.13226)|null|
 |**2025-05-16**|**Distance-based measures and Epsilon-measures for measurement-based quantum resources**|Arindam Mitra, Sumit Mukherjee, Changhyoup Lee|[2505.11331](http://arxiv.org/abs/2505.11331)|null|
 |**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking**|Wen-Long Jin|[2505.09988](http://arxiv.org/abs/2505.09988)|null|

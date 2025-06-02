@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 
 ## Bell nonlocality
 
@@ -532,7 +532,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-27**|**Empirical Demonstration of Quantum Contextuality on NISQ Computers**|Colm Kelleher, Frédéric Holweck|[2505.21243](http://arxiv.org/abs/2505.21243)|null|
+|**2025-05-27**|**Empirical Demonstration of Quantum Contextuality on NISQ Computers**|Colm Kelleher, Frédéric Holweck|[2505.21243](http://arxiv.org/abs/2505.21243)|**[link](https://github.com/quantcert/quantcert.github.io)**|
 |**2025-05-20**|**Quantum Contextuality Requires Counterfactual Gain**|Yuki Sagawa, Jonte R. Hance, Holger F. Hofmann, Takafumi Ono|[2505.14119](http://arxiv.org/abs/2505.14119)|null|
 |**2025-05-13**|**Geometric lower bounds for the steady-state occupancy of processing networks with limited connectivity**|Diego Goldsztajn, Andres Ferragut|[2505.08974](http://arxiv.org/abs/2505.08974)|null|
 |**2025-04-30**|**On the difficulty of capturing the distribution function of neutrinos in neutron star merger simulations**|Francois Foucart|[2504.21822](http://arxiv.org/abs/2504.21822)|null|
@@ -1531,7 +1531,7 @@ layout: default
 |**2025-05-28**|**Interpolation of Quantum Polar Codes and Quantum Reed-Muller Codes**|Keita Hidaka, Dina Abdelhadi, Ruediger Urbanke|[2505.22142](http://arxiv.org/abs/2505.22142)|null|
 |**2025-05-26**|**Quantum Resilience: Canadian Innovations in Quantum Error Correction and Quantum Error Mitigation**|Gaurav Saxena, Jack S. Baker, Pablo Díez Valle, William E. Salazar, Kevin Ferreira, Thi Ha Kyaw|[2505.20534](http://arxiv.org/abs/2505.20534)|null|
 |**2025-05-26**|**A distillation-teleportation protocol for fault-tolerant QRAM**|Alexander M. Dalzell, András Gilyén, Connor T. Hann, Sam McArdle, Grant Salton, Quynh T. Nguyen, Aleksander Kubica, Fernando G. S. L. Brandão|[2505.20265](http://arxiv.org/abs/2505.20265)|null|
-|**2025-05-26**|**Hardware-tailored logical Clifford circuits for stabilizer codes**|Eric J. Kuehnke, Kyano Levi, Joschka Roffe, Jens Eisert, Daniel Miller|[2505.20261](http://arxiv.org/abs/2505.20261)|null|
+|**2025-05-26**|**Hardware-tailored logical Clifford circuits for stabilizer codes**|Eric J. Kuehnke, Kyano Levi, Joschka Roffe, Jens Eisert, Daniel Miller|[2505.20261](http://arxiv.org/abs/2505.20261)|**[link](https://github.com/erkue/htlogicalgates)**|
 |**2025-05-24**|**Hierarchical Quantum Error Correction with Hypergraph Product Code and Rotated Surface Code**|Junichi Haruna, Keisuke Fujii|[2505.18592](http://arxiv.org/abs/2505.18592)|null|
 |**2025-05-23**|**Continuous quantum correction on Markovian and Non-Markovian models**|Juan Garcia Nila, Todd A. Brun|[2505.18400](http://arxiv.org/abs/2505.18400)|null|
 |**2025-05-23**|**Non-Clifford gates between stabilizer codes via non-Abelian topological order**|Rohith Sajith, Zijian Song, Brenden Roberts, Varun Menon, Yabo Li|[2505.18265](http://arxiv.org/abs/2505.18265)|null|

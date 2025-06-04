@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-31**|**On Quantum Entanglement and Nonlocality**|Mafiz Uddin|[2506.00366](http://arxiv.org/abs/2506.00366)|null|
 |**2025-05-26**|**Generating Asymmetric Einstein-Podolsky-Rosen Steering between Two movable Mirrors Exploiting Correlated-Emission Laser**|Jamal El Qars, Ismail Essaoudi, Abdelmajid Ainane|[2505.20449](http://arxiv.org/abs/2505.20449)|null|
 |**2025-05-26**|**Robust self-testing and certified randomness based on chained Bell inequality**|Rajdeep Paul, Sneha Munshi, Alok Kumar Pan|[2505.19917](http://arxiv.org/abs/2505.19917)|null|
 |**2025-05-24**|**Time-like Extra Dimensions: Quantum Nonlocality, Spin, and Tsirelson Bound**|Mohammad Furquan, Tejinder P. Singh, P Samuel Wesley|[2505.18797](http://arxiv.org/abs/2505.18797)|null|
@@ -545,6 +546,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-31**|**An Introduction to Algebraic Combinatorics**|Darij Grinberg|[2506.00738](http://arxiv.org/abs/2506.00738)|null|
 |**2025-05-29**|**Moments of the shifted prime divisor function**|Mikhail R. Gabdullin|[2505.24050](http://arxiv.org/abs/2505.24050)|null|
 |**2025-05-29**|**Simplicial methods in the resource theory of contextuality**|Aziz Kharoof, Cihan Okay|[2505.24010](http://arxiv.org/abs/2505.24010)|null|
 |**2025-05-29**|**Gravitational Bounce from the Quantum Exclusion Principle**|Enrique Gaztanaga, K. Sravan Kumar, Swaraj Pradhan, Michael Gabler|[2505.23877](http://arxiv.org/abs/2505.23877)|null|
@@ -699,6 +701,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Measurement incompatibility and quantum steering via linear programming**|Lucas E. A. Porto, Sébastien Designolle, Sebastian Pokutta, Marco Túlio Quintino|[2506.03045](http://arxiv.org/abs/2506.03045)|null|
 |**2025-05-26**|**Generating Asymmetric Einstein-Podolsky-Rosen Steering between Two movable Mirrors Exploiting Correlated-Emission Laser**|Jamal El Qars, Ismail Essaoudi, Abdelmajid Ainane|[2505.20449](http://arxiv.org/abs/2505.20449)|null|
 |**2025-05-17**|**Nonlocal Advantage of Quantum Coherence in Top Quarks**|Saurabh Rai, Jitendra Kumar|[2505.12004](http://arxiv.org/abs/2505.12004)|null|
 |**2025-05-13**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in ultrastrongly light-matter coupled system**|Yu-qiang Liu, Shan Sun, Yi-jia Yang, Zheng Liu, Xingdong Zhao, Zunlue Zhu, Wuming Liu, Chang-shui Yu|[2505.08188](http://arxiv.org/abs/2505.08188)|null|
@@ -1050,6 +1053,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**Quantum Complexity and Chaos in Many-Qudit Doped Clifford Circuits**|Beatrice Magni, Xhek Turkeshi|[2506.02127](http://arxiv.org/abs/2506.02127)|null|
+|**2025-06-02**|**Towards a microscopic description of de Sitter dynamics**|Vladimir Narovlansky|[2506.02109](http://arxiv.org/abs/2506.02109)|null|
 |**2025-05-29**|**Chaos in the holographic matrix models for meson and baryon**|Si-wen Li, Xun Chen|[2505.23199](http://arxiv.org/abs/2505.23199)|null|
 |**2025-05-23**|**Chaos and thermalization in open quantum systems**|Filippo Ferrari, Vincenzo Savona, Fabrizio Minganti|[2505.18260](http://arxiv.org/abs/2505.18260)|null|
 |**2025-05-27**|**Comparative study of the butterfly velocity in holographic QCD models at finite temperature and chemical potential**|Nikesh Lilani, Dilpreet Sandhu, Subhash Mahapatra|[2505.15357](http://arxiv.org/abs/2505.15357)|null|
@@ -1057,7 +1062,7 @@
 |**2025-05-20**|**Butterfly effect and $\textrm{T}\overline{\textrm{T}}$ -deformation**|Debarshi Basu, Ashish Chandra, Qiang Wen|[2505.14331](http://arxiv.org/abs/2505.14331)|null|
 |**2025-05-16**|**Exactly solvable many-body dynamics from space-time duality**|Bruno Bertini, Pieter W. Claeys, Tomaž Prosen|[2505.11489](http://arxiv.org/abs/2505.11489)|null|
 |**2025-05-16**|**Large-Scale Quantum Device Benchmarking via LXEB with Particle-Number-Conserving Random Quantum Circuits**|Takumi Kaneda, Keisuke Fujii, Hiroshi Ueda|[2505.10820](http://arxiv.org/abs/2505.10820)|null|
-|**2025-05-15**|**Reciprocal Floquet Thermalization in one dimensional Rydberg atom array**|Yunhui He, Yuechun Jiao, Jianming Zhao, Weibin Li|[2505.10365](http://arxiv.org/abs/2505.10365)|null|
+|**2025-06-03**|**Reciprocal Floquet Thermalization in one dimensional Rydberg atom array**|Yunhui He, Yuechun Jiao, Jianming Zhao, Weibin Li|[2505.10365](http://arxiv.org/abs/2505.10365)|null|
 |**2025-05-15**|**Koopman analysis of CAT maps onto classical and quantum 2-tori**|David Viennot|[2505.10293](http://arxiv.org/abs/2505.10293)|null|
 |**2025-05-26**|**The non-Clifford cost of random unitaries**|Lorenzo Leone, Salvatore F. E. Oliviero, Alioscia Hamma, Jens Eisert, Lennart Bittel|[2505.10110](http://arxiv.org/abs/2505.10110)|null|
 |**2025-05-15**|**Two-local modifications of SYK model with quantum chaos**|Masanori Hanada, Sam van Leuven, Onur Oktay, Masaki Tezuka|[2505.09900](http://arxiv.org/abs/2505.09900)|null|
@@ -1549,6 +1554,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Tour de gross: A modular quantum computer based on bivariate bicycle codes**|Theodore J. Yoder, Eddie Schoute, Patrick Rall, Emily Pritchett, Jay M. Gambetta, Andrew W. Cross, Malcolm Carroll, Michael E. Beverland|[2506.03094](http://arxiv.org/abs/2506.03094)|null|
+|**2025-06-03**|**Stacking the Odds: Full-Stack Quantum System Design Space Exploration**|Hila Safi, Medina Bandic, Christoph Niedermeier, Carmen G. Almudever, Sebastian Feld, Wolfgang Mauerer|[2506.02782](http://arxiv.org/abs/2506.02782)|null|
+|**2025-06-03**|**Self-attention U-Net decoder for toric codes**|Wei-Wei Zhang, Zhuo Xia, Wei Zhao, Wei Pan, Haobin Shi|[2506.02734](http://arxiv.org/abs/2506.02734)|**[link](https://github.com/xiazhuo/SUNetQD)**|
+|**2025-06-02**|**Improved belief propagation is sufficient for real-time decoding of quantum memory**|Tristan Müller, Thomas Alexander, Michael E. Beverland, Markus Bühler, Blake R. Johnson, Thilo Maurer, Drew Vandeth|[2506.01779](http://arxiv.org/abs/2506.01779)|null|
+|**2025-06-01**|**A Generic Construction on Self-orthogonal Algebraic Geometric Codes and Its Applications**|Puyin Wang, Jinquan Luo|[2506.00994](http://arxiv.org/abs/2506.00994)|null|
+|**2025-05-31**|**Coherent error induced phase transition**|Hanchen Liu, Xiao Chen|[2506.00650](http://arxiv.org/abs/2506.00650)|null|
+|**2025-05-30**|**Bosonic quantum error correction using squeezed Fock states**|E. N. Bashmakova, S. B. Korolev, T. Yu. Golubeva|[2506.00300](http://arxiv.org/abs/2506.00300)|null|
+|**2025-05-30**|**Romanesco codes: Bias-tailored qLDPC codes from fractal codes**|Catherine Leroux, Joseph K. Iverson|[2506.00130](http://arxiv.org/abs/2506.00130)|null|
 |**2025-05-29**|**Fluxonium as a control qubit for bosonic quantum information**|Ke Nie, J. Nofear Bradford, Supriya Mandal, Aayam Bista, Wolfgang Pfaff, Angela Kou|[2505.23641](http://arxiv.org/abs/2505.23641)|null|
 |**2025-05-29**|**Scalable decoding protocols for fast transversal logic in the surface code**|Mark L. Turner, Earl T. Campbell, Ophelia Crawford, Neil I. Gillespie, Joan Camps|[2505.23567](http://arxiv.org/abs/2505.23567)|null|
 |**2025-05-28**|**Sample importance for data-driven decoding**|Evan Peters|[2505.22741](http://arxiv.org/abs/2505.22741)|null|

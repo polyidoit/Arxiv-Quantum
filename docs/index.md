@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Exploring entanglement, Wigner negativity and Bell nonlocality for anisotropic two-qutrit states**|Huan Liu, Zu-wu Chen, Xue-feng Zhan, Hong-chun Yuan, Xue-xiang Xu|[2506.03879](http://arxiv.org/abs/2506.03879)|null|
 |**2025-05-31**|**On Quantum Entanglement and Nonlocality**|Mafiz Uddin|[2506.00366](http://arxiv.org/abs/2506.00366)|null|
 |**2025-05-26**|**Generating Asymmetric Einstein-Podolsky-Rosen Steering between Two movable Mirrors Exploiting Correlated-Emission Laser**|Jamal El Qars, Ismail Essaoudi, Abdelmajid Ainane|[2505.20449](http://arxiv.org/abs/2505.20449)|null|
 |**2025-05-26**|**Robust self-testing and certified randomness based on chained Bell inequality**|Rajdeep Paul, Sneha Munshi, Alok Kumar Pan|[2505.19917](http://arxiv.org/abs/2505.19917)|null|
@@ -1533,6 +1534,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**A Unitary Encoder for Surface Codes**|Pei-Kai Tsai, Shruti Puri|[2506.04084](http://arxiv.org/abs/2506.04084)|null|
+|**2025-06-04**|**The equivalent condition for GRL codes to be MDS, AMDS or self-dual**|Zhonghao Liang, Qunying Liao|[2506.03874](http://arxiv.org/abs/2506.03874)|null|
+|**2025-06-04**|**An 11-qubit atom processor in silicon**|Hermann Edlbauer, Junliang Wang, A. M. Saffat-Ee Huq, Ian Thorvaldson, Michael T. Jones, Saiful Haque Misha, William J. Pappas, Christian M. Moehle, Yu-Ling Hsueh, Henric Bornemann, Samuel K. Gorman, Yousun Chung, Joris G. Keizer, Ludwik Kranz, Michelle Y. Simmons|[2506.03567](http://arxiv.org/abs/2506.03567)|null|
+|**2025-06-03**|**Reinforcement Learning Enhanced Greedy Decoding for Quantum Stabilizer Codes over $\mathbb{F}_q$**|Vahid Nourozi|[2506.03397](http://arxiv.org/abs/2506.03397)|null|
 |**2025-06-03**|**Tour de gross: A modular quantum computer based on bivariate bicycle codes**|Theodore J. Yoder, Eddie Schoute, Patrick Rall, Emily Pritchett, Jay M. Gambetta, Andrew W. Cross, Malcolm Carroll, Michael E. Beverland|[2506.03094](http://arxiv.org/abs/2506.03094)|null|
 |**2025-06-03**|**Stacking the Odds: Full-Stack Quantum System Design Space Exploration**|Hila Safi, Medina Bandic, Christoph Niedermeier, Carmen G. Almudever, Sebastian Feld, Wolfgang Mauerer|[2506.02782](http://arxiv.org/abs/2506.02782)|null|
 |**2025-06-03**|**Self-attention U-Net decoder for toric codes**|Wei-Wei Zhang, Zhuo Xia, Wei Zhao, Wei Pan, Haobin Shi|[2506.02734](http://arxiv.org/abs/2506.02734)|**[link](https://github.com/xiazhuo/SUNetQD)**|

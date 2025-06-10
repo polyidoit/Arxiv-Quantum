@@ -550,6 +550,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-07**|**Memory cost of quantum contextuality with Pauli observables**|Stefan Trandafir, Colm Kelleher, Adán Cabello|[2506.06869](http://arxiv.org/abs/2506.06869)|null|
 |**2025-05-31**|**An Introduction to Algebraic Combinatorics**|Darij Grinberg|[2506.00738](http://arxiv.org/abs/2506.00738)|null|
 |**2025-05-29**|**Moments of the shifted prime divisor function**|Mikhail R. Gabdullin|[2505.24050](http://arxiv.org/abs/2505.24050)|null|
 |**2025-05-29**|**Simplicial methods in the resource theory of contextuality**|Aziz Kharoof, Cihan Okay|[2505.24010](http://arxiv.org/abs/2505.24010)|null|
@@ -705,6 +706,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-08**|**Quantum correlations in molecular cavity optomechanics**|E. Kongkui Berinyuy, D. R. Kenigoule Massembele, P. Djorwe, R. Altuijri, M. R. Eid, A. -H. Abdel-Aty, S. G. Nana Engo|[2506.07277](http://arxiv.org/abs/2506.07277)|null|
 |**2025-06-06**|**Effect of Weak Measurement Reversal on Quantum Correlations in a Correlated Amplitude Damping Channel, with a Neural Network Perspective**|Venkat Abhignan, Bidyut Bikash Boruah, R. Srikanth, Ashutosh Singh|[2506.05642](http://arxiv.org/abs/2506.05642)|null|
 |**2025-06-03**|**Measurement incompatibility and quantum steering via linear programming**|Lucas E. A. Porto, Sébastien Designolle, Sebastian Pokutta, Marco Túlio Quintino|[2506.03045](http://arxiv.org/abs/2506.03045)|null|
 |**2025-05-26**|**Generating Asymmetric Einstein-Podolsky-Rosen Steering between Two movable Mirrors Exploiting Correlated-Emission Laser**|Jamal El Qars, Ismail Essaoudi, Abdelmajid Ainane|[2505.20449](http://arxiv.org/abs/2505.20449)|null|
@@ -1058,6 +1060,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Dynamical thermalization, Rayleigh-Jeans condensate, vortexes and wave collapse in quantum chaos fibers and fluid of light**|Leonardo Ermann, Alexei D. Chepelianskii, Dima L. Shepelyansky|[2506.06534](http://arxiv.org/abs/2506.06534)|null|
 |**2025-06-05**|**Transient and steady-state chaos in dissipative quantum systems**|Debabrata Mondal, Lea F. Santos, S. Sinha|[2506.05475](http://arxiv.org/abs/2506.05475)|null|
 |**2025-06-04**|**Experimental Detection of Dissipative Quantum Chaos**|Kristian Wold, Zitian Zhu, Feitong Jin, Xuhao Zhu, Zehang Bao, Jiarun Zhong, Fanhao Shen, Pengfei Zhang, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Sergey Denisov, Lucas Sá, H. Wang, Pedro Ribeiro|[2506.04325](http://arxiv.org/abs/2506.04325)|null|
 |**2025-06-02**|**Quantum Complexity and Chaos in Many-Qudit Doped Clifford Circuits**|Beatrice Magni, Xhek Turkeshi|[2506.02127](http://arxiv.org/abs/2506.02127)|null|
@@ -1561,6 +1564,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Angular $k$ -uniformity and the Hyperinvariance of Holographic Codes**|Wanli Cheng|[2506.06577](http://arxiv.org/abs/2506.06577)|null|
 |**2025-06-05**|**Orbit classification and analysis of qutrit graph states under local complementation and local scaling**|Konstantinos-Rafail Revis, Hrachya Zakaryan, Zahra Raissi|[2506.05478](http://arxiv.org/abs/2506.05478)|null|
 |**2025-06-05**|**Full characterization of measurement-induced transitions of a superconducting qubit**|Thomas Connolly, Pavel D. Kurilovich, Vladislav D. Kurilovich, Charlotte G. L. Bøttcher, Sumeru Hazra, Wei Dai, Andy Z. Ding, Vidul R. Joshi, Heekun Nho, Spencer Diamond, Daniel K. Weiss, Valla Fatemi, Luigi Frunzio, Leonid I. Glazman, Michel H. Devoret|[2506.05306](http://arxiv.org/abs/2506.05306)|null|
 |**2025-06-05**|**A Resource Allocating Compiler for Lattice Surgery**|Alan Robertson, Haowen Gao, Yuval R. Sanders|[2506.04620](http://arxiv.org/abs/2506.04620)|null|

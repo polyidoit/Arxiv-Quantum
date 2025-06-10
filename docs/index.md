@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Quantum pions**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2506.05464](http://arxiv.org/abs/2506.05464)|null|
 |**2025-06-05**|**A Tractable Protocol for Detection-Loophole-Free Bell Tests over Long Distances**|Yazeed K. Alwehaibi, Ewan Mer, Gerard J. Machado, Shang Yu, Ian A. Walmsley, Raj B. Patel|[2506.05048](http://arxiv.org/abs/2506.05048)|null|
 |**2025-06-04**|**Exploring entanglement, Wigner negativity and Bell nonlocality for anisotropic two-qutrit states**|Huan Liu, Zu-wu Chen, Xue-feng Zhan, Hong-chun Yuan, Xue-xiang Xu|[2506.03879](http://arxiv.org/abs/2506.03879)|null|
 |**2025-05-31**|**On Quantum Entanglement and Nonlocality**|Mafiz Uddin|[2506.00366](http://arxiv.org/abs/2506.00366)|null|
@@ -432,6 +433,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Accelerating multijet-merged event generation with neural network matrix element surrogates**|Tim Herrmann, Timo Janßen, Mathis Schenker, Steffen Schumann, Frank Siegert|[2506.06203](http://arxiv.org/abs/2506.06203)|null|
 |**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang, Akshay Gaikwad, Ilya Moskalenko, Anuj Aggarwal, Tahereh Abad, Marko Kuzmanovic, Yu-Han Chang, Ognjen Stanisavljevic, Emil Hogedal, Christopher Warren, Irshad Ahmad, Janka Biznárová, Amr Osman, Mamta Dahiya, Marcus Rommel, Anita Fadavi Rousari, Andreas Nylander, Liangyu Chen, Jonas Bylander, Gheorghe Sorin Paraoanu, Anton Frisk Kockum, Giovanna Tancredi|[2505.07725](http://arxiv.org/abs/2505.07725)|**[link](https://github.com/huangtangy/em-qpt)**|
 |**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng, Chen-Yeh Wei, Huan-Yu Ku, Shin-Liang Chen, Yueh-Nan Chen, Chih-Sung Chuu|[2505.01379](http://arxiv.org/abs/2505.01379)|null|
 |**2025-03-31**|**Quantum causality in kappa Minkoswki**|Valentine Maris|[2503.24192](http://arxiv.org/abs/2503.24192)|null|
@@ -688,6 +690,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Effect of Weak Measurement Reversal on Quantum Correlations in a Correlated Amplitude Damping Channel, with a Neural Network Perspective**|Venkat Abhignan, Bidyut Bikash Boruah, R. Srikanth, Ashutosh Singh|[2506.05642](http://arxiv.org/abs/2506.05642)|null|
 |**2025-06-03**|**Measurement incompatibility and quantum steering via linear programming**|Lucas E. A. Porto, Sébastien Designolle, Sebastian Pokutta, Marco Túlio Quintino|[2506.03045](http://arxiv.org/abs/2506.03045)|null|
 |**2025-05-26**|**Generating Asymmetric Einstein-Podolsky-Rosen Steering between Two movable Mirrors Exploiting Correlated-Emission Laser**|Jamal El Qars, Ismail Essaoudi, Abdelmajid Ainane|[2505.20449](http://arxiv.org/abs/2505.20449)|null|
 |**2025-05-17**|**Nonlocal Advantage of Quantum Coherence in Top Quarks**|Saurabh Rai, Jitendra Kumar|[2505.12004](http://arxiv.org/abs/2505.12004)|null|
@@ -1036,6 +1039,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Transient and steady-state chaos in dissipative quantum systems**|Debabrata Mondal, Lea F. Santos, S. Sinha|[2506.05475](http://arxiv.org/abs/2506.05475)|null|
 |**2025-06-04**|**Experimental Detection of Dissipative Quantum Chaos**|Kristian Wold, Zitian Zhu, Feitong Jin, Xuhao Zhu, Zehang Bao, Jiarun Zhong, Fanhao Shen, Pengfei Zhang, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Sergey Denisov, Lucas Sá, H. Wang, Pedro Ribeiro|[2506.04325](http://arxiv.org/abs/2506.04325)|null|
 |**2025-06-02**|**Quantum Complexity and Chaos in Many-Qudit Doped Clifford Circuits**|Beatrice Magni, Xhek Turkeshi|[2506.02127](http://arxiv.org/abs/2506.02127)|null|
 |**2025-06-02**|**Towards a microscopic description of de Sitter dynamics**|Vladimir Narovlansky|[2506.02109](http://arxiv.org/abs/2506.02109)|null|
@@ -1536,6 +1540,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Orbit classification and analysis of qutrit graph states under local complementation and local scaling**|Konstantinos-Rafail Revis, Hrachya Zakaryan, Zahra Raissi|[2506.05478](http://arxiv.org/abs/2506.05478)|null|
 |**2025-06-05**|**Full characterization of measurement-induced transitions of a superconducting qubit**|Thomas Connolly, Pavel D. Kurilovich, Vladislav D. Kurilovich, Charlotte G. L. Bøttcher, Sumeru Hazra, Wei Dai, Andy Z. Ding, Vidul R. Joshi, Heekun Nho, Spencer Diamond, Daniel K. Weiss, Valla Fatemi, Luigi Frunzio, Leonid I. Glazman, Michel H. Devoret|[2506.05306](http://arxiv.org/abs/2506.05306)|null|
 |**2025-06-05**|**A Resource Allocating Compiler for Lattice Surgery**|Alan Robertson, Haowen Gao, Yuval R. Sanders|[2506.04620](http://arxiv.org/abs/2506.04620)|null|
 |**2025-06-05**|**Quantum error-correcting codes via inner products and error bases**|Jorge R. Bolaños-Servín, Yuriko Pitones, Josué I. Rios-Cangas|[2506.04530](http://arxiv.org/abs/2506.04530)|null|

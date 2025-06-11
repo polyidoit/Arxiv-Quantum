@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Superactivation of Bell nonlocality in pure anyonic states**|Cheng-Qian Xu, Wenhao Ye, Li You|[2506.08919](http://arxiv.org/abs/2506.08919)|null|
+|**2025-06-09**|**Network nonlocality with continuous variables: probing nonbilocality through pseudospin measurements**|Sudip Chakrabarty, Amit Kundu, A. S. Majumdar|[2506.08128](http://arxiv.org/abs/2506.08128)|null|
 |**2025-06-05**|**Quantum pions**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2506.05464](http://arxiv.org/abs/2506.05464)|null|
 |**2025-06-05**|**A Tractable Protocol for Detection-Loophole-Free Bell Tests over Long Distances**|Yazeed K. Alwehaibi, Ewan Mer, Gerard J. Machado, Shang Yu, Ian A. Walmsley, Raj B. Patel|[2506.05048](http://arxiv.org/abs/2506.05048)|null|
 |**2025-06-04**|**Exploring entanglement, Wigner negativity and Bell nonlocality for anisotropic two-qutrit states**|Huan Liu, Zu-wu Chen, Xue-feng Zhan, Hong-chun Yuan, Xue-xiang Xu|[2506.03879](http://arxiv.org/abs/2506.03879)|null|
@@ -550,6 +552,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**A non-local exchange potential for electronic structure calculations**|G. Schiwietz, P. L. Grande|[2506.08286](http://arxiv.org/abs/2506.08286)|null|
 |**2025-06-07**|**Memory cost of quantum contextuality with Pauli observables**|Stefan Trandafir, Colm Kelleher, Adán Cabello|[2506.06869](http://arxiv.org/abs/2506.06869)|null|
 |**2025-05-31**|**An Introduction to Algebraic Combinatorics**|Darij Grinberg|[2506.00738](http://arxiv.org/abs/2506.00738)|null|
 |**2025-05-29**|**Moments of the shifted prime divisor function**|Mikhail R. Gabdullin|[2505.24050](http://arxiv.org/abs/2505.24050)|null|
@@ -1060,6 +1063,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Eigenstate Thermalization Hypothesis and Random Matrix Theory Universality in Few-Body Systems**|Jiaozi Wang, Hua Yan, Robin Steinigeweg, Jochen Gemmer|[2506.09011](http://arxiv.org/abs/2506.09011)|null|
+|**2025-06-10**|**Closing objectivity loophole in Bell tests on a public quantum computer**|Adam Bednorz, Josep Batle, Tomasz Białecki, Jarosław K. Korbicz|[2506.08940](http://arxiv.org/abs/2506.08940)|null|
 |**2025-06-06**|**Dynamical thermalization, Rayleigh-Jeans condensate, vortexes and wave collapse in quantum chaos fibers and fluid of light**|Leonardo Ermann, Alexei D. Chepelianskii, Dima L. Shepelyansky|[2506.06534](http://arxiv.org/abs/2506.06534)|null|
 |**2025-06-05**|**Transient and steady-state chaos in dissipative quantum systems**|Debabrata Mondal, Lea F. Santos, S. Sinha|[2506.05475](http://arxiv.org/abs/2506.05475)|null|
 |**2025-06-04**|**Experimental Detection of Dissipative Quantum Chaos**|Kristian Wold, Zitian Zhu, Feitong Jin, Xuhao Zhu, Zehang Bao, Jiarun Zhong, Fanhao Shen, Pengfei Zhang, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Sergey Denisov, Lucas Sá, H. Wang, Pedro Ribeiro|[2506.04325](http://arxiv.org/abs/2506.04325)|null|
@@ -1564,6 +1569,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Fault-Tolerant Stabilizer Measurements in Surface Codes with Three-Qubit Gates**|Josias Old, Stephan Tasler, Michael J. Hartmann, Markus Müller|[2506.09029](http://arxiv.org/abs/2506.09029)|null|
+|**2025-06-10**|**Optimizing Superconducting Three-Qubit Gates for Surface-Code Error Correction**|Stephan Tasler, Josias Old, Lukas Heunisch, Verena Feulner, Timo Eckstein, Markus Müller, Michael J. Hartmann|[2506.09028](http://arxiv.org/abs/2506.09028)|null|
+|**2025-06-10**|**Correcting a noisy quantum computer using a quantum computer**|Pan Zhang|[2506.08331](http://arxiv.org/abs/2506.08331)|null|
+|**2025-06-09**|**Quantum Resource Comparison for Two Leading Surface Code Lattice Surgery Approaches**|Tyler LeBlond, Ryan S. Bennink|[2506.08182](http://arxiv.org/abs/2506.08182)|null|
 |**2025-06-06**|**Angular $k$ -uniformity and the Hyperinvariance of Holographic Codes**|Wanli Cheng|[2506.06577](http://arxiv.org/abs/2506.06577)|null|
 |**2025-06-05**|**Orbit classification and analysis of qutrit graph states under local complementation and local scaling**|Konstantinos-Rafail Revis, Hrachya Zakaryan, Zahra Raissi|[2506.05478](http://arxiv.org/abs/2506.05478)|null|
 |**2025-06-05**|**Full characterization of measurement-induced transitions of a superconducting qubit**|Thomas Connolly, Pavel D. Kurilovich, Vladislav D. Kurilovich, Charlotte G. L. Bøttcher, Sumeru Hazra, Wei Dai, Andy Z. Ding, Vidul R. Joshi, Heekun Nho, Spencer Diamond, Daniel K. Weiss, Valla Fatemi, Luigi Frunzio, Leonid I. Glazman, Michel H. Devoret|[2506.05306](http://arxiv.org/abs/2506.05306)|null|

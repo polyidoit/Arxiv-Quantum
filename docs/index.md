@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-10**|**Superactivation of Bell nonlocality in pure anyonic states**|Cheng-Qian Xu, Wenhao Ye, Li You|[2506.08919](http://arxiv.org/abs/2506.08919)|null|
-|**2025-06-09**|**Network nonlocality with continuous variables: probing nonbilocality through pseudospin measurements**|Sudip Chakrabarty, Amit Kundu, A. S. Majumdar|[2506.08128](http://arxiv.org/abs/2506.08128)|null|
+|**2025-06-11**|**Network nonlocality with continuous variables: probing nonbilocality through pseudospin measurements**|Sudip Chakrabarty, Amit Kundu, A. S. Majumdar|[2506.08128](http://arxiv.org/abs/2506.08128)|null|
 |**2025-06-05**|**Quantum pions**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2506.05464](http://arxiv.org/abs/2506.05464)|null|
 |**2025-06-05**|**A Tractable Protocol for Detection-Loophole-Free Bell Tests over Long Distances**|Yazeed K. Alwehaibi, Ewan Mer, Gerard J. Machado, Shang Yu, Ian A. Walmsley, Raj B. Patel|[2506.05048](http://arxiv.org/abs/2506.05048)|null|
 |**2025-06-04**|**Exploring entanglement, Wigner negativity and Bell nonlocality for anisotropic two-qutrit states**|Huan Liu, Zu-wu Chen, Xue-feng Zhan, Hong-chun Yuan, Xue-xiang Xu|[2506.03879](http://arxiv.org/abs/2506.03879)|null|
@@ -823,7 +823,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**Bias-field-free operation of nitrogen-vacancy ensembles in diamond for accurate vector magnetometry**|Lilian Childress, Vincent Halde, Kayla Johnson, Andrew Lowther, David Roy-Guay, Romain Ruhlmann, Adrian Solyom|[2505.24574](http://arxiv.org/abs/2505.24574)|null|
 |**2025-05-30**|**Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments**|Sanghyeon Nam, Dongmin Kim, Seung-Hwan Choi, Chang-Hyun Kim, Hyoeun Kwon, Hiroaki Kawamoto, Suwoong Lee|[2505.24209](http://arxiv.org/abs/2505.24209)|null|
-|**2025-05-28**|**Partite-wise Entanglement**|Yu Guo, Ning Yang|[2505.13226](http://arxiv.org/abs/2505.13226)|null|
+|**2025-06-11**|**Partitewise Entanglement**|Yu Guo, Ning Yang|[2505.13226](http://arxiv.org/abs/2505.13226)|null|
 |**2025-06-04**|**Distance-based measures and Epsilon-measures for measurement-based quantum resources**|Arindam Mitra, Sumit Mukherjee, Changhyoup Lee|[2505.11331](http://arxiv.org/abs/2505.11331)|null|
 |**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking**|Wen-Long Jin|[2505.09988](http://arxiv.org/abs/2505.09988)|null|
 |**2025-05-07**|**Instantons and Rarefaction Pulses as Pathways to Global Phase Coherence in Gain-Based Optical Networks**|Richard Zhipeng Wang, Natalia G. Berloff|[2505.04031](http://arxiv.org/abs/2505.04031)|null|
@@ -1046,7 +1046,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-10**|**Eigenstate Thermalization Hypothesis and Random Matrix Theory Universality in Few-Body Systems**|Jiaozi Wang, Hua Yan, Robin Steinigeweg, Jochen Gemmer|[2506.09011](http://arxiv.org/abs/2506.09011)|null|
 |**2025-06-10**|**Closing objectivity loophole in Bell tests on a public quantum computer**|Adam Bednorz, Josep Batle, Tomasz Białecki, Jarosław K. Korbicz|[2506.08940](http://arxiv.org/abs/2506.08940)|null|
-|**2025-06-06**|**Dynamical thermalization, Rayleigh-Jeans condensate, vortexes and wave collapse in quantum chaos fibers and fluid of light**|Leonardo Ermann, Alexei D. Chepelianskii, Dima L. Shepelyansky|[2506.06534](http://arxiv.org/abs/2506.06534)|null|
+|**2025-06-10**|**Dynamical thermalization, Rayleigh-Jeans condensate, vortexes and wave collapse in quantum chaos fibers and fluid of light**|Leonardo Ermann, Alexei D. Chepelianskii, Dima L. Shepelyansky|[2506.06534](http://arxiv.org/abs/2506.06534)|null|
 |**2025-06-05**|**Transient and steady-state chaos in dissipative quantum systems**|Debabrata Mondal, Lea F. Santos, S. Sinha|[2506.05475](http://arxiv.org/abs/2506.05475)|null|
 |**2025-06-04**|**Experimental Detection of Dissipative Quantum Chaos**|Kristian Wold, Zitian Zhu, Feitong Jin, Xuhao Zhu, Zehang Bao, Jiarun Zhong, Fanhao Shen, Pengfei Zhang, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Sergey Denisov, Lucas Sá, H. Wang, Pedro Ribeiro|[2506.04325](http://arxiv.org/abs/2506.04325)|null|
 |**2025-06-02**|**Quantum Complexity and Chaos in Many-Qudit Doped Clifford Circuits**|Beatrice Magni, Xhek Turkeshi|[2506.02127](http://arxiv.org/abs/2506.02127)|null|

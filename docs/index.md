@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Device Independent Quantum Key Activation**|Bora Ulu, Nicolas Brunner, Mirjam Weilenmann|[2506.09772](http://arxiv.org/abs/2506.09772)|null|
 |**2025-06-10**|**Superactivation of Bell nonlocality in pure anyonic states**|Cheng-Qian Xu, Wenhao Ye, Li You|[2506.08919](http://arxiv.org/abs/2506.08919)|null|
 |**2025-06-11**|**Network nonlocality with continuous variables: probing nonbilocality through pseudospin measurements**|Sudip Chakrabarty, Amit Kundu, A. S. Majumdar|[2506.08128](http://arxiv.org/abs/2506.08128)|null|
 |**2025-06-05**|**Quantum pions**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2506.05464](http://arxiv.org/abs/2506.05464)|null|
@@ -539,6 +540,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**The Quantum Paldus Transform: Efficient Circuits with Applications**|Jędrzej Burkat, Nathan Fitzpatrick|[2506.09151](http://arxiv.org/abs/2506.09151)|null|
 |**2025-06-09**|**A non-local exchange potential for electronic structure calculations**|G. Schiwietz, P. L. Grande|[2506.08286](http://arxiv.org/abs/2506.08286)|null|
 |**2025-06-07**|**Memory cost of quantum contextuality with Pauli observables**|Stefan Trandafir, Colm Kelleher, Adán Cabello|[2506.06869](http://arxiv.org/abs/2506.06869)|null|
 |**2025-05-31**|**An Introduction to Algebraic Combinatorics**|Darij Grinberg|[2506.00738](http://arxiv.org/abs/2506.00738)|null|
@@ -1044,6 +1046,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Low-Level and NUMA-Aware Optimization for High-Performance Quantum Simulation**|Ali Rezaei, Luc Jaulmes, Maria Bahna, Oliver Thomson Brown, Antonio Barbalace|[2506.09198](http://arxiv.org/abs/2506.09198)|null|
 |**2025-06-10**|**Eigenstate Thermalization Hypothesis and Random Matrix Theory Universality in Few-Body Systems**|Jiaozi Wang, Hua Yan, Robin Steinigeweg, Jochen Gemmer|[2506.09011](http://arxiv.org/abs/2506.09011)|null|
 |**2025-06-10**|**Closing objectivity loophole in Bell tests on a public quantum computer**|Adam Bednorz, Josep Batle, Tomasz Białecki, Jarosław K. Korbicz|[2506.08940](http://arxiv.org/abs/2506.08940)|null|
 |**2025-06-10**|**Dynamical thermalization, Rayleigh-Jeans condensate, vortexes and wave collapse in quantum chaos fibers and fluid of light**|Leonardo Ermann, Alexei D. Chepelianskii, Dima L. Shepelyansky|[2506.06534](http://arxiv.org/abs/2506.06534)|null|

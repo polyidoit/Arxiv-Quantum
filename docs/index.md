@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-11**|**Device Independent Quantum Key Activation**|Bora Ulu, Nicolas Brunner, Mirjam Weilenmann|[2506.09772](http://arxiv.org/abs/2506.09772)|null|
+|**2025-06-11**|**Device Independent Quantum Key Activation**|Bora Ulu, Nicolas Brunner, Mirjam Weilenmann|[2506.09772](http://arxiv.org/abs/2506.09772)|**[link](https://github.com/Bora-Ulu/DIQKA)**|
 |**2025-06-10**|**Superactivation of Bell nonlocality in pure anyonic states**|Cheng-Qian Xu, Wenhao Ye, Li You|[2506.08919](http://arxiv.org/abs/2506.08919)|null|
 |**2025-06-11**|**Network nonlocality with continuous variables: probing nonbilocality through pseudospin measurements**|Sudip Chakrabarty, Amit Kundu, A. S. Majumdar|[2506.08128](http://arxiv.org/abs/2506.08128)|null|
 |**2025-06-05**|**Quantum pions**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2506.05464](http://arxiv.org/abs/2506.05464)|null|
@@ -1052,7 +1052,7 @@ layout: default
 |**2025-06-10**|**Dynamical thermalization, Rayleigh-Jeans condensate, vortexes and wave collapse in quantum chaos fibers and fluid of light**|Leonardo Ermann, Alexei D. Chepelianskii, Dima L. Shepelyansky|[2506.06534](http://arxiv.org/abs/2506.06534)|null|
 |**2025-06-05**|**Transient and steady-state chaos in dissipative quantum systems**|Debabrata Mondal, Lea F. Santos, S. Sinha|[2506.05475](http://arxiv.org/abs/2506.05475)|null|
 |**2025-06-04**|**Experimental Detection of Dissipative Quantum Chaos**|Kristian Wold, Zitian Zhu, Feitong Jin, Xuhao Zhu, Zehang Bao, Jiarun Zhong, Fanhao Shen, Pengfei Zhang, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Sergey Denisov, Lucas Sá, H. Wang, Pedro Ribeiro|[2506.04325](http://arxiv.org/abs/2506.04325)|null|
-|**2025-06-02**|**Quantum Complexity and Chaos in Many-Qudit Doped Clifford Circuits**|Beatrice Magni, Xhek Turkeshi|[2506.02127](http://arxiv.org/abs/2506.02127)|null|
+|**2025-06-12**|**Quantum Complexity and Chaos in Many-Qudit Doped Clifford Circuits**|Beatrice Magni, Xhek Turkeshi|[2506.02127](http://arxiv.org/abs/2506.02127)|null|
 |**2025-06-02**|**Towards a microscopic description of de Sitter dynamics**|Vladimir Narovlansky|[2506.02109](http://arxiv.org/abs/2506.02109)|null|
 |**2025-06-04**|**Chaos in the holographic matrix models for meson and baryon**|Si-wen Li, Xun Chen|[2505.23199](http://arxiv.org/abs/2505.23199)|null|
 |**2025-05-23**|**Chaos and thermalization in open quantum systems**|Filippo Ferrari, Vincenzo Savona, Fabrizio Minganti|[2505.18260](http://arxiv.org/abs/2505.18260)|null|

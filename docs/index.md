@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-15**|**Studying Maximal Entanglement and Bell Nonlocality at an Electron-Ion Collider**|Wei Qi, Zijing Guo, Bo-Wen Xiao|[2506.12889](http://arxiv.org/abs/2506.12889)|null|
 |**2025-06-11**|**A quantum semantic framework for natural language processing**|Christopher J. Agostino, Quan Le Thien, Molly Apsel, Denizhan Pak, Elina Lesyk, Ashabari Majumdar|[2506.10077](http://arxiv.org/abs/2506.10077)|null|
 |**2025-06-09**|**The quantum theory of the electromagnetic field in the Weyl-Wigner representation as a local realistic model**|Emilio Santos|[2506.10023](http://arxiv.org/abs/2506.10023)|null|
 |**2025-06-11**|**Device Independent Quantum Key Activation**|Bora Ulu, Nicolas Brunner, Mirjam Weilenmann|[2506.09772](http://arxiv.org/abs/2506.09772)|**[link](https://github.com/Bora-Ulu/DIQKA)**|
@@ -831,6 +832,7 @@ layout: default
 |**2025-06-13**|**Quantum Resource Complementarity in Finite-Dimensional Systems**|Justin K. Edmondson|[2506.11741](http://arxiv.org/abs/2506.11741)|null|
 |**2025-05-30**|**Bias-field-free operation of nitrogen-vacancy ensembles in diamond for accurate vector magnetometry**|Lilian Childress, Vincent Halde, Kayla Johnson, Andrew Lowther, David Roy-Guay, Romain Ruhlmann, Adrian Solyom|[2505.24574](http://arxiv.org/abs/2505.24574)|null|
 |**2025-05-30**|**Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments**|Sanghyeon Nam, Dongmin Kim, Seung-Hwan Choi, Chang-Hyun Kim, Hyoeun Kwon, Hiroaki Kawamoto, Suwoong Lee|[2505.24209](http://arxiv.org/abs/2505.24209)|null|
+|**2025-06-15**|**Thermodynamical aspects of fermions in external electromagnetic fields**|Romeo Brunetti, Klaus Fredenhagen, Nicola Pinamonti|[2505.22413](http://arxiv.org/abs/2505.22413)|null|
 |**2025-06-11**|**Partitewise Entanglement**|Yu Guo, Ning Yang|[2505.13226](http://arxiv.org/abs/2505.13226)|null|
 |**2025-06-04**|**Distance-based measures and Epsilon-measures for measurement-based quantum resources**|Arindam Mitra, Sumit Mukherjee, Changhyoup Lee|[2505.11331](http://arxiv.org/abs/2505.11331)|null|
 |**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking**|Wen-Long Jin|[2505.09988](http://arxiv.org/abs/2505.09988)|null|
@@ -1562,6 +1564,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Leveraging erasure errors in logical qubits with metastable $^{171}$ Yb atoms**|Bichen Zhang, Genyue Liu, Guillaume Bornet, Sebastian P. Horvath, Pai Peng, Shuo Ma, Shilin Huang, Shruti Puri, Jeff D. Thompson|[2506.13724](http://arxiv.org/abs/2506.13724)|null|
+|**2025-06-16**|**Blocklet concatenation: Low-overhead fault-tolerant protocols for fusion-based quantum computation**|Daniel Litinski|[2506.13619](http://arxiv.org/abs/2506.13619)|null|
 |**2025-06-13**|**Learning Encodings by Maximizing State Distinguishability: Variational Quantum Error Correction**|Nico Meyer, Christopher Mutschler, Andreas Maier, Daniel D. Scherer|[2506.11552](http://arxiv.org/abs/2506.11552)|**[link](https://github.com/nicomeyer96/varqec)**|
 |**2025-06-12**|**Drift-resilient mid-circuit measurement error mitigation for dynamic circuits**|Jader P. Santos, Raam Uzdin|[2506.11270](http://arxiv.org/abs/2506.11270)|null|
 |**2025-06-12**|**Ultrahigh threshold nonstabilizer nonlinear quantum error correcting code**|Maga Grafe, Kaixuan Zhou, Zaman Tekin, Zhiyuan Lin, Sen Li, Fengquan Zhang, Valentin Ivannikov, Tim Byrnes|[2506.10445](http://arxiv.org/abs/2506.10445)|null|

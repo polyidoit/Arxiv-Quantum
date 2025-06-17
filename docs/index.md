@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 
 ## Bell nonlocality
 
@@ -11,7 +11,7 @@ layout: default
 |**2025-06-11**|**A quantum semantic framework for natural language processing**|Christopher J. Agostino, Quan Le Thien, Molly Apsel, Denizhan Pak, Elina Lesyk, Ashabari Majumdar|[2506.10077](http://arxiv.org/abs/2506.10077)|null|
 |**2025-06-09**|**The quantum theory of the electromagnetic field in the Weyl-Wigner representation as a local realistic model**|Emilio Santos|[2506.10023](http://arxiv.org/abs/2506.10023)|null|
 |**2025-06-11**|**Device Independent Quantum Key Activation**|Bora Ulu, Nicolas Brunner, Mirjam Weilenmann|[2506.09772](http://arxiv.org/abs/2506.09772)|**[link](https://github.com/Bora-Ulu/DIQKA)**|
-|**2025-06-10**|**Superactivation of Bell nonlocality in pure anyonic states**|Cheng-Qian Xu, Wenhao Ye, Li You|[2506.08919](http://arxiv.org/abs/2506.08919)|null|
+|**2025-06-15**|**Superactivation of Bell nonlocality in pure anyonic states**|Cheng-Qian Xu, Wenhao Ye, Li You|[2506.08919](http://arxiv.org/abs/2506.08919)|null|
 |**2025-06-11**|**Network nonlocality with continuous variables: probing nonbilocality through pseudospin measurements**|Sudip Chakrabarty, Amit Kundu, A. S. Majumdar|[2506.08128](http://arxiv.org/abs/2506.08128)|null|
 |**2025-06-05**|**Quantum pions**|M. Fabbrichesi, R. Floreanini, E. Gabrielli, L. Marzola|[2506.05464](http://arxiv.org/abs/2506.05464)|null|
 |**2025-06-05**|**A Tractable Protocol for Detection-Loophole-Free Bell Tests over Long Distances**|Yazeed K. Alwehaibi, Ewan Mer, Gerard J. Machado, Shang Yu, Ian A. Walmsley, Raj B. Patel|[2506.05048](http://arxiv.org/abs/2506.05048)|null|

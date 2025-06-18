@@ -543,6 +543,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
 |**2025-06-13**|**Quantum Resource Complementarity in Finite-Dimensional Systems**|Justin K. Edmondson|[2506.11741](http://arxiv.org/abs/2506.11741)|null|
 |**2025-06-10**|**The Quantum Paldus Transform: Efficient Circuits with Applications**|Jędrzej Burkat, Nathan Fitzpatrick|[2506.09151](http://arxiv.org/abs/2506.09151)|null|
 |**2025-06-09**|**A non-local exchange potential for electronic structure calculations**|G. Schiwietz, P. L. Grande|[2506.08286](http://arxiv.org/abs/2506.08286)|null|
@@ -1564,6 +1565,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Union-Intersection Union-Find for Decoding Depolarizing Errors in Topological Codes**|Tzu-Hao Lin, Ching-Yi Lai|[2506.14745](http://arxiv.org/abs/2506.14745)|null|
+|**2025-06-17**|**Breaking even with magic: demonstration of a high-fidelity logical non-Clifford gate**|Shival Dasu, Simon Burton, Karl Mayer, David Amaro, Justin A. Gerber, Kevin Gilmore, Dan Gresh, Davide DelVento, Andrew C. Potter, David Hayes|[2506.14688](http://arxiv.org/abs/2506.14688)|null|
+|**2025-06-17**|**Automatic Qiskit Code Refactoring Using Large Language Models**|José Manuel Suárez, Luis Mariano Bibbó, Joaquin Bogado, Alejandro Fernandez|[2506.14535](http://arxiv.org/abs/2506.14535)|null|
+|**2025-06-17**|**Experimental demonstration of high-fidelity logical magic states from code switching**|Lucas Daguerre, Robin Blume-Kohout, Natalie C. Brown, David Hayes, Isaac H. Kim|[2506.14169](http://arxiv.org/abs/2506.14169)|null|
 |**2025-06-16**|**Leveraging erasure errors in logical qubits with metastable $^{171}$ Yb atoms**|Bichen Zhang, Genyue Liu, Guillaume Bornet, Sebastian P. Horvath, Pai Peng, Shuo Ma, Shilin Huang, Shruti Puri, Jeff D. Thompson|[2506.13724](http://arxiv.org/abs/2506.13724)|null|
 |**2025-06-16**|**Blocklet concatenation: Low-overhead fault-tolerant protocols for fusion-based quantum computation**|Daniel Litinski|[2506.13619](http://arxiv.org/abs/2506.13619)|null|
 |**2025-06-13**|**Learning Encodings by Maximizing State Distinguishability: Variational Quantum Error Correction**|Nico Meyer, Christopher Mutschler, Andreas Maier, Daniel D. Scherer|[2506.11552](http://arxiv.org/abs/2506.11552)|**[link](https://github.com/nicomeyer96/varqec)**|

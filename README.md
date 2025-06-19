@@ -1,4 +1,4 @@
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Temporal Entanglement and Witnesses of Non-Classicality**|Giuseppe Di Pietra, Gaurav Bhole, James Eaton, Andrew J. Baldwin, Jonathan A. Jones, Vlatko Vedral, Chiara Marletto|[2506.15474](http://arxiv.org/abs/2506.15474)|null|
 |**2025-06-15**|**Studying Maximal Entanglement and Bell Nonlocality at an Electron-Ion Collider**|Wei Qi, Zijing Guo, Bo-Wen Xiao|[2506.12889](http://arxiv.org/abs/2506.12889)|null|
 |**2025-06-11**|**A quantum semantic framework for natural language processing**|Christopher J. Agostino, Quan Le Thien, Molly Apsel, Denizhan Pak, Elina Lesyk, Ashabari Majumdar|[2506.10077](http://arxiv.org/abs/2506.10077)|null|
 |**2025-06-09**|**The quantum theory of the electromagnetic field in the Weyl-Wigner representation as a local realistic model**|Emilio Santos|[2506.10023](http://arxiv.org/abs/2506.10023)|null|
@@ -444,7 +445,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -550,12 +551,13 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**The logical structure of contextuality and nonclassicality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Chang He, Jinchng Wang|[2506.15071](http://arxiv.org/abs/2506.15071)|null|
 |**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
 |**2025-06-13**|**Quantum Resource Complementarity in Finite-Dimensional Systems**|Justin K. Edmondson|[2506.11741](http://arxiv.org/abs/2506.11741)|null|
 |**2025-06-10**|**The Quantum Paldus Transform: Efficient Circuits with Applications**|Jędrzej Burkat, Nathan Fitzpatrick|[2506.09151](http://arxiv.org/abs/2506.09151)|null|
@@ -710,7 +712,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -841,7 +843,7 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Resource theory
 
@@ -1068,12 +1070,14 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**SYK model based $β$ regime dependent two-qubit dynamical wormhole-inspired teleportation protocol simulation**|Sudhanva Joshi, Sunil Kumar Mishra|[2506.15373](http://arxiv.org/abs/2506.15373)|null|
+|**2025-06-17**|**Quantum and Semi-Classical Signatures of Dissipative Chaos in the Steady State**|Griffith Rufo, Sabrina Rufo, Pedro Ribeiro, Stefano Chesi|[2506.14961](http://arxiv.org/abs/2506.14961)|null|
 |**2025-06-13**|**Universal Relation between Spectral and Wavefunction Properties at Criticality**|Simon Jiricek, Miroslav Hopjan, Vladimir Kravtsov, Boris Altshuler, Lev Vidmar|[2506.11675](http://arxiv.org/abs/2506.11675)|null|
 |**2025-06-12**|**Controlling quantum chaos via Parrondo strategies on NISQ hardware**|Aditi Rath, Dinesh Kumar Panda, Colin Benjamin|[2506.11225](http://arxiv.org/abs/2506.11225)|null|
 |**2025-06-12**|**Free Probability in a Minimal Quantum Circuit Model**|Felix Fritzsch, Pieter W. Claeys|[2506.11197](http://arxiv.org/abs/2506.11197)|null|
@@ -1580,12 +1584,16 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Quantum error-correction code
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Quantum Error Correction Exploiting Degeneracy to Approach the Hashing Bound**|Kenta Kasai|[2506.15636](http://arxiv.org/abs/2506.15636)|null|
+|**2025-06-18**|**Symmetry in Multi-Qubit Correlated Noise Errors Enhances Surface Code Thresholds**|SiYing Wang, Yue Yan, ZhiXin Xia, Xiang-Bin Wang|[2506.15490](http://arxiv.org/abs/2506.15490)|null|
+|**2025-06-18**|**Error-detected coherence metrology of a dual-rail encoded fixed-frequency multimode superconducting qubit**|James Wills, Mohammad Tasnimul Haque, Brian Vlastakis|[2506.15420](http://arxiv.org/abs/2506.15420)|null|
+|**2025-06-18**|**A Topologically Fault-Tolerant Quantum Computer with Four Dimensional Geometric Codes**|David Aasen, Matthew B. Hastings, Vadym Kliuchnikov, Juan M. Bello-Rivas, Adam Paetznick, Rui Chao, Ben W. Reichardt, Matt Zanner, Marcus P. da Silva, Zhenghan Wang, Krysta M. Svore|[2506.15130](http://arxiv.org/abs/2506.15130)|null|
 |**2025-06-17**|**Union-Intersection Union-Find for Decoding Depolarizing Errors in Topological Codes**|Tzu-Hao Lin, Ching-Yi Lai|[2506.14745](http://arxiv.org/abs/2506.14745)|null|
 |**2025-06-17**|**Breaking even with magic: demonstration of a high-fidelity logical non-Clifford gate**|Shival Dasu, Simon Burton, Karl Mayer, David Amaro, Justin A. Gerber, Kevin Gilmore, Dan Gresh, Davide DelVento, Andrew C. Potter, David Hayes|[2506.14688](http://arxiv.org/abs/2506.14688)|null|
 |**2025-06-17**|**Automatic Qiskit Code Refactoring Using Large Language Models**|José Manuel Suárez, Luis Mariano Bibbó, Joaquin Bogado, Alejandro Fernandez|[2506.14535](http://arxiv.org/abs/2506.14535)|null|
@@ -2847,5 +2855,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 

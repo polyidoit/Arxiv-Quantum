@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Probing dynamical axion quasiparticles with two-photon correlations**|Daniel Boyanovsky|[2506.17013](http://arxiv.org/abs/2506.17013)|null|
+|**2025-06-19**|**Searching Quantum Entanglement in $p\ p\to Z\ Z$ process**|Alim Ruzi, Youpeng Wu, Ran Ding, Qiang Li|[2506.16077](http://arxiv.org/abs/2506.16077)|null|
 |**2025-06-18**|**Temporal Entanglement and Witnesses of Non-Classicality**|Giuseppe Di Pietra, Gaurav Bhole, James Eaton, Andrew J. Baldwin, Jonathan A. Jones, Vlatko Vedral, Chiara Marletto|[2506.15474](http://arxiv.org/abs/2506.15474)|null|
 |**2025-06-15**|**Studying Maximal Entanglement and Bell Nonlocality at an Electron-Ion Collider**|Wei Qi, Zijing Guo, Bo-Wen Xiao|[2506.12889](http://arxiv.org/abs/2506.12889)|null|
 |**2025-06-11**|**A quantum semantic framework for natural language processing**|Christopher J. Agostino, Quan Le Thien, Molly Apsel, Denizhan Pak, Elina Lesyk, Ashabari Majumdar|[2506.10077](http://arxiv.org/abs/2506.10077)|null|
@@ -557,7 +559,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-18**|**The logical structure of contextuality and nonclassicality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Chang He, Jinchng Wang|[2506.15071](http://arxiv.org/abs/2506.15071)|null|
+|**2025-06-20**|**Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces**|Ronno Das, Brian Lehmann, Sho Tanimoto, Philip Tosteson|[2506.17071](http://arxiv.org/abs/2506.17071)|null|
+|**2025-06-20**|**The logical structure of contextuality and nonclassicality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Chang He, Jincheng Wang|[2506.15071](http://arxiv.org/abs/2506.15071)|null|
 |**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
 |**2025-06-13**|**Quantum Resource Complementarity in Finite-Dimensional Systems**|Justin K. Edmondson|[2506.11741](http://arxiv.org/abs/2506.11741)|null|
 |**2025-06-10**|**The Quantum Paldus Transform: Efficient Circuits with Applications**|Jędrzej Burkat, Nathan Fitzpatrick|[2506.09151](http://arxiv.org/abs/2506.09151)|null|
@@ -849,6 +852,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**High-accuracy inference using HfO $_x$S$_y$/HfS$_2$ Memristors**|Aferdita Xhameni, Antonio Lombardo|[2506.17174](http://arxiv.org/abs/2506.17174)|null|
 |**2025-06-13**|**Quantum Resource Complementarity in Finite-Dimensional Systems**|Justin K. Edmondson|[2506.11741](http://arxiv.org/abs/2506.11741)|null|
 |**2025-05-30**|**Bias-field-free operation of nitrogen-vacancy ensembles in diamond for accurate vector magnetometry**|Lilian Childress, Vincent Halde, Kayla Johnson, Andrew Lowther, David Roy-Guay, Romain Ruhlmann, Adrian Solyom|[2505.24574](http://arxiv.org/abs/2505.24574)|null|
 |**2025-05-30**|**Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments**|Sanghyeon Nam, Dongmin Kim, Seung-Hwan Choi, Chang-Hyun Kim, Hyoeun Kwon, Hiroaki Kawamoto, Suwoong Lee|[2505.24209](http://arxiv.org/abs/2505.24209)|null|
@@ -1076,6 +1080,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**An Elementary Characterization of Bargmann Invariants**|Sagar Silva Pratapsi, João Gouveia, Leonardo Novo, Ernesto F. Galvão|[2506.17132](http://arxiv.org/abs/2506.17132)|null|
+|**2025-06-19**|**Operator-space fragmentation and integrability in Pauli-Lindblad models**|Dawid Paszko, Christopher J. Turner, Dominic C. Rose, Arijeet Pal|[2506.16518](http://arxiv.org/abs/2506.16518)|null|
+|**2025-06-18**|**Generalized Spectral Statistics in the Kicked Ising model**|Divij Gupta, Brian Swingle|[2506.15816](http://arxiv.org/abs/2506.15816)|null|
+|**2025-06-18**|**Ultracold collisions of a neutral atom with a trapped ion in 1D**|Seth T. Rittenhouse, Lorenzo Oghittu, Arghavan Safavi-Naini, Rene Gerritsma, Nirav P. Mehta|[2506.15804](http://arxiv.org/abs/2506.15804)|null|
 |**2025-06-18**|**SYK model based $β$ regime dependent two-qubit dynamical wormhole-inspired teleportation protocol simulation**|Sudhanva Joshi, Sunil Kumar Mishra|[2506.15373](http://arxiv.org/abs/2506.15373)|null|
 |**2025-06-17**|**Quantum and Semi-Classical Signatures of Dissipative Chaos in the Steady State**|Griffith Rufo, Sabrina Rufo, Pedro Ribeiro, Stefano Chesi|[2506.14961](http://arxiv.org/abs/2506.14961)|null|
 |**2025-06-13**|**Universal Relation between Spectral and Wavefunction Properties at Criticality**|Simon Jiricek, Miroslav Hopjan, Vladimir Kravtsov, Boris Altshuler, Lev Vidmar|[2506.11675](http://arxiv.org/abs/2506.11675)|null|
@@ -1590,6 +1598,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Comparison of spin-qubit architectures for quantum error-correcting codes**|Mauricio Gutiérrez, Juan S. Rojas-Arias, David Obando, Chien-Yuan Chang|[2506.17190](http://arxiv.org/abs/2506.17190)|null|
+|**2025-06-20**|**Generalized Code Distance through Rotated Logical States in Quantum Error Correction**|Valentine Nyirahafashimana, Nurisya Mohd Shah, Umair Abdul Halim, Mohamed Othman|[2506.17062](http://arxiv.org/abs/2506.17062)|null|
+|**2025-06-20**|**Abelian multi-cycle codes for single-shot error correction**|Hsiang-Ku Lin, Pak Kau Lim, Alexey A. Kovalev, Leonid P. Pryadko|[2506.16910](http://arxiv.org/abs/2506.16910)|null|
+|**2025-06-20**|**Radiation-Induced Fault Detection in Superconducting Quantum Devices**|Marzio Vallero, Gioele Casagranda, Flavio Vella, Paolo Rech|[2506.16834](http://arxiv.org/abs/2506.16834)|null|
+|**2025-06-19**|**Quantum Computer Fingerprinting using Error Syndromes**|Vincent Mutolo, Devon Campbell, Quinn Manning, Henri Witold Dubourg, Ruibin Lyu, Simha Sethumadhavan, Daniel Rubenstein, Salvatore Stolfo|[2506.16614](http://arxiv.org/abs/2506.16614)|null|
+|**2025-06-19**|**Operator-space fragmentation and integrability in Pauli-Lindblad models**|Dawid Paszko, Christopher J. Turner, Dominic C. Rose, Arijeet Pal|[2506.16518](http://arxiv.org/abs/2506.16518)|null|
+|**2025-06-19**|**Fully convolutional 3D neural network decoders for surface codes with syndrome circuit noise**|Spiro Gicev, Lloyd C. L. Hollenberg, Muhammad Usman|[2506.16113](http://arxiv.org/abs/2506.16113)|null|
 |**2025-06-18**|**Quantum Error Correction Exploiting Degeneracy to Approach the Hashing Bound**|Kenta Kasai|[2506.15636](http://arxiv.org/abs/2506.15636)|null|
 |**2025-06-18**|**Symmetry in Multi-Qubit Correlated Noise Errors Enhances Surface Code Thresholds**|SiYing Wang, Yue Yan, ZhiXin Xia, Xiang-Bin Wang|[2506.15490](http://arxiv.org/abs/2506.15490)|null|
 |**2025-06-18**|**Error-detected coherence metrology of a dual-rail encoded fixed-frequency multimode superconducting qubit**|James Wills, Mohammad Tasnimul Haque, Brian Vlastakis|[2506.15420](http://arxiv.org/abs/2506.15420)|null|

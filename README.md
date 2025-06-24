@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Unique Games and Games Based on Groups**|Rupert H. Levene, Vern I. Paulsen|[2506.18644](http://arxiv.org/abs/2506.18644)|null|
+|**2025-06-20**|**Berry Phase in Pathangled Systems**|H. O. Cildiroglu|[2506.17429](http://arxiv.org/abs/2506.17429)|null|
 |**2025-06-20**|**Probing dynamical axion quasiparticles with two-photon correlations**|Daniel Boyanovsky|[2506.17013](http://arxiv.org/abs/2506.17013)|null|
 |**2025-06-19**|**Searching Quantum Entanglement in $p\ p\to Z\ Z$ process**|Alim Ruzi, Youpeng Wu, Ran Ding, Qiang Li|[2506.16077](http://arxiv.org/abs/2506.16077)|null|
 |**2025-06-18**|**Temporal Entanglement and Witnesses of Non-Classicality**|Giuseppe Di Pietra, Gaurav Bhole, James Eaton, Andrew J. Baldwin, Jonathan A. Jones, Vlatko Vedral, Chiara Marletto|[2506.15474](http://arxiv.org/abs/2506.15474)|null|
@@ -453,7 +455,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-06**|**Accelerating multijet-merged event generation with neural network matrix element surrogates**|Tim Herrmann, Timo Janßen, Mathis Schenker, Steffen Schumann, Frank Siegert|[2506.06203](http://arxiv.org/abs/2506.06203)|null|
+|**2025-06-23**|**Unilateral determination of causal order in a cyclic process**|Ilyass Mejdoub, Augustin Vanrietvelde|[2506.18540](http://arxiv.org/abs/2506.18540)|null|
+|**2025-06-23**|**Multi-user Downlink with Reconfigurable Intelligent Metasurface Antennas (RIMSA) Array**|Xuejian Wei, Hui-Ming Wang|[2506.18418](http://arxiv.org/abs/2506.18418)|null|
+|**2025-06-23**|**Accelerating multijet-merged event generation with neural network matrix element surrogates**|Tim Herrmann, Timo Janßen, Mathis Schenker, Steffen Schumann, Frank Siegert|[2506.06203](http://arxiv.org/abs/2506.06203)|null|
 |**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang, Akshay Gaikwad, Ilya Moskalenko, Anuj Aggarwal, Tahereh Abad, Marko Kuzmanovic, Yu-Han Chang, Ognjen Stanisavljevic, Emil Hogedal, Christopher Warren, Irshad Ahmad, Janka Biznárová, Amr Osman, Mamta Dahiya, Marcus Rommel, Anita Fadavi Rousari, Andreas Nylander, Liangyu Chen, Jonas Bylander, Gheorghe Sorin Paraoanu, Anton Frisk Kockum, Giovanna Tancredi|[2505.07725](http://arxiv.org/abs/2505.07725)|**[link](https://github.com/huangtangy/em-qpt)**|
 |**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng, Chen-Yeh Wei, Huan-Yu Ku, Shin-Liang Chen, Yueh-Nan Chen, Chih-Sung Chuu|[2505.01379](http://arxiv.org/abs/2505.01379)|null|
 |**2025-03-31**|**Quantum causality in kappa Minkoswki**|Valentine Maris|[2503.24192](http://arxiv.org/abs/2503.24192)|null|
@@ -559,6 +563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor, Sanjaye Ramgoolam|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
 |**2025-06-20**|**Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces**|Ronno Das, Brian Lehmann, Sho Tanimoto, Philip Tosteson|[2506.17071](http://arxiv.org/abs/2506.17071)|null|
 |**2025-06-20**|**The logical structure of contextuality and nonclassicality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Chang He, Jincheng Wang|[2506.15071](http://arxiv.org/abs/2506.15071)|null|
 |**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
@@ -721,6 +726,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Can boundary configuration be tuned to optimize directional quantum steering harvesting?**|Xiao-Li Huang, Xiao-Ying Jiang, Yu-Xuan Wang, Si-Yu Liu, Zejun Wang, Shu-Min Wu|[2506.18734](http://arxiv.org/abs/2506.18734)|null|
 |**2025-06-12**|**Certification of quantum networks using the generalised Choi isomorphism**|Sophie Egelhaaf, Roope Uola|[2506.10725](http://arxiv.org/abs/2506.10725)|null|
 |**2025-06-12**|**Saturable nonlinearity induced quantum correlations in optomechanics**|D. R. Kenigoule Massembele, E. Kongkui Berinyuy, P. Djorwe, A. -H. Abdel-Aty, M. R. Eid, R. Altuijri, S. G. Nana Engo|[2506.10709](http://arxiv.org/abs/2506.10709)|null|
 |**2025-06-08**|**Quantum correlations in molecular cavity optomechanics**|E. Kongkui Berinyuy, D. R. Kenigoule Massembele, P. Djorwe, R. Altuijri, M. R. Eid, A. -H. Abdel-Aty, S. G. Nana Engo|[2506.07277](http://arxiv.org/abs/2506.07277)|null|
@@ -852,6 +858,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**ADNF-Clustering: An Adaptive and Dynamic Neuro-Fuzzy Clustering for Leukemia Prediction**|Marco Aruta, Ciro Listone, Giuseppe Murano, Aniello Murano|[2506.18396](http://arxiv.org/abs/2506.18396)|null|
 |**2025-06-20**|**High-accuracy inference using HfO $_x$S$_y$/HfS$_2$ Memristors**|Aferdita Xhameni, Antonio Lombardo|[2506.17174](http://arxiv.org/abs/2506.17174)|null|
 |**2025-06-13**|**Quantum Resource Complementarity in Finite-Dimensional Systems**|Justin K. Edmondson|[2506.11741](http://arxiv.org/abs/2506.11741)|null|
 |**2025-05-30**|**Bias-field-free operation of nitrogen-vacancy ensembles in diamond for accurate vector magnetometry**|Lilian Childress, Vincent Halde, Kayla Johnson, Andrew Lowther, David Roy-Guay, Romain Ruhlmann, Adrian Solyom|[2505.24574](http://arxiv.org/abs/2505.24574)|null|
@@ -1080,6 +1087,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-21**|**Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing**|Kaito Kobayashi, Yukitoshi Motome|[2506.17547](http://arxiv.org/abs/2506.17547)|null|
 |**2025-06-20**|**An Elementary Characterization of Bargmann Invariants**|Sagar Silva Pratapsi, João Gouveia, Leonardo Novo, Ernesto F. Galvão|[2506.17132](http://arxiv.org/abs/2506.17132)|null|
 |**2025-06-19**|**Operator-space fragmentation and integrability in Pauli-Lindblad models**|Dawid Paszko, Christopher J. Turner, Dominic C. Rose, Arijeet Pal|[2506.16518](http://arxiv.org/abs/2506.16518)|null|
 |**2025-06-18**|**Generalized Spectral Statistics in the Kicked Ising model**|Divij Gupta, Brian Swingle|[2506.15816](http://arxiv.org/abs/2506.15816)|null|
@@ -1088,7 +1096,7 @@
 |**2025-06-17**|**Quantum and Semi-Classical Signatures of Dissipative Chaos in the Steady State**|Griffith Rufo, Sabrina Rufo, Pedro Ribeiro, Stefano Chesi|[2506.14961](http://arxiv.org/abs/2506.14961)|null|
 |**2025-06-13**|**Universal Relation between Spectral and Wavefunction Properties at Criticality**|Simon Jiricek, Miroslav Hopjan, Vladimir Kravtsov, Boris Altshuler, Lev Vidmar|[2506.11675](http://arxiv.org/abs/2506.11675)|null|
 |**2025-06-12**|**Controlling quantum chaos via Parrondo strategies on NISQ hardware**|Aditi Rath, Dinesh Kumar Panda, Colin Benjamin|[2506.11225](http://arxiv.org/abs/2506.11225)|null|
-|**2025-06-12**|**Free Probability in a Minimal Quantum Circuit Model**|Felix Fritzsch, Pieter W. Claeys|[2506.11197](http://arxiv.org/abs/2506.11197)|null|
+|**2025-06-23**|**Free Probability in a Minimal Quantum Circuit Model**|Felix Fritzsch, Pieter W. Claeys|[2506.11197](http://arxiv.org/abs/2506.11197)|null|
 |**2025-06-11**|**Constructive interference at the edge of quantum ergodic dynamics**|Dmitry A. Abanin, Rajeev Acharya, Laleh Aghababaie-Beni, Georg Aigeldinger, Ashok Ajoy, Ross Alcaraz, Igor Aleiner, Trond I. Andersen, Markus Ansmann, Frank Arute, Kunal Arya, Abraham Asfaw, Nikita Astrakhantsev, Juan Atalaya, Ryan Babbush, Dave Bacon, Brian Ballard, Joseph C. Bardin, Christian Bengs, Andreas Bengtsson, Alexander Bilmes, Sergio Boixo, Gina Bortoli, Alexandre Bourassa, Jenna Bovaird, Dylan Bowers, Leon Brill, Michael Broughton, David A. Browne, Brett Buchea, Bob B. Buckley, David A. Buell, Tim Burger, Brian Burkett, Nicholas Bushnell, Anthony Cabrera, Juan Campero, Hung-Shen Chang, Yu Chen, Zijun Chen, Ben Chiaro, Liang-Ying Chih, Desmond Chik, Charina Chou, Jahan Claes, Agnetta Y. Cleland, Josh Cogan, Saul Cohen, Roberto Collins, Paul Conner, William Courtney, Alexander L. Crook, Ben Curtin, Sayan Das, Laura De Lorenzo, Dripto M. Debroy, Sean Demura, Michel Devoret, Agustin Di Paolo, Paul Donohoe, Ilya Drozdov, Andrew Dunsworth, Clint Earle, Alec Eickbusch, Aviv Moshe Elbag, Mahmoud Elzouka, Catherine Erickson, Lara Faoro, Edward Farhi, Vinicius S. Ferreira, Leslie Flores Burgos, Ebrahim Forati, Austin G. Fowler, Brooks Foxen, Suhas Ganjam, Gonzalo Garcia, Robert Gasca, Elie Genois, William Giang, Craig Gidney, Dar Gilboa, Raja Gosula, Alejandro Grajales Dau, Dietrich Graumann, Alex Greene, Jonathan A. Gross, Hanfeng Gu, Steve Habegger, John Hall, Ikko Hamamura, Michael C. Hamilton, Monica Hansen, Matthew P. Harrigan, Sean D. Harrington, Stephen Heslin, Paula Heu, Oscar Higgott, Gordon Hill, Jeremy Hilton, Sabrina Hong, Hsin-Yuan Huang, Ashley Huff, William J. Huggins, Lev B. Ioffe, Sergei V. Isakov, Justin Iveland, Evan Jeffrey, Zhang Jiang, Xiaoxuan Jin, Cody Jones, Stephen Jordan, Chaitali Joshi, Pavol Juhas, Andreas Kabel, Dvir Kafri, Hui Kang, Amir H. Karamlou, Kostyantyn Kechedzhi, Julian Kelly, Trupti Khaire, Tanuj Khattar, Mostafa Khezri, Seon Kim, Robbie King, Paul V. Klimov, Andrey R. Klots, Bryce Kobrin, Alexander N. Korotkov, Fedor Kostritsa, Robin Kothari, John Mark Kreikebaum, Vladislav D. Kurilovich, Elica Kyoseva, David Landhuis, Tiano Lange-Dei, Brandon W. Langley, Pavel Laptev, Kim-Ming Lau, Loick Le Guevel, Justin Ledford, Joonho Lee, Kenny Lee, Yuri D. Lensky, Shannon Leon, Brian J. Lester, Wing Yan Li, Alexander T. Lill, Wayne Liu, William P. Livingston, Aditya Locharla, Erik Lucero, Daniel Lundahl, Aaron Lunt, Sid Madhuk, Fionn D. Malone, Ashley Maloney, Salvatore Mandra, James M. Manyika, Leigh S. Martin, Orion Martin, Steven Martin, Yossi Matias, Cameron Maxfield, Jarrod R. McClean, Matt McEwen, Seneca Meeks, Anthony Megrant, Xiao Mi, Kevin C. Miao, Amanda Mieszala, Reza Molavi, Sebastian Molina, Shirin Montazeri, Alexis Morvan, Ramis Movassagh, Wojciech Mruczkiewicz, Ofer Naaman, Matthew Neeley, Charles Neill, Ani Nersisyan, Hartmut Neven, Michael Newman, Jiun How Ng, Anthony Nguyen, Murray Nguyen, Chia-Hung Ni, Murphy Yuezhen Niu, Logan Oas, Thomas E. O'Brien, William D. Oliver, Alex Opremcak, Kristoffer Ottosson, Andre Petukhov, Alex Pizzuto, John Platt, Rebecca Potter, Orion Pritchard, Leonid P. Pryadko, Chris Quintana, Ganesh Ramachandran, Chandrasekhar Ramanathan, Matthew J. Reagor, John Redding, David M. Rhodes, Gabrielle Roberts, Eliott Rosenberg, Emma Rosenfeld, Pedram Roushan, Nicholas C. Rubin, Negar Saei, Daniel Sank, Kannan Sankaragomathi, Kevin J. Satzinger, Alexander Schmidhuber, Henry F. Schurkus, Christopher Schuster, Thomas Schuster, Michael J. Shearn, Aaron Shorter, Noah Shutty, Vladimir Shvarts, Volodymyr Sivak, Jindra Skruzny, Spencer Small, Vadim Smelyanskiy, W. Clarke Smith, Rolando D. Somma, Sofia Springer, George Sterling, Doug Strain, Jordan Suchard, Philippe Suchsland, Aaron Szasz, Alex Sztein, Douglas Thor, Eifu Tomita, Alfredo Torres, M. Mert Torunbalci, Abeer Vaishnav, Justin Vargas, Sergey Vdovichev, Guifre Vidal, Benjamin Villalonga, Catherine Vollgraff Heidweiller, Steven Waltman, Shannon X. Wang, Brayden Ware, Kate Weber, Travis Weidel, Tom Westerhout, Theodore White, Kristi Wong, Bryan W. K. Woo, Cheng Xing, Z. Jamie Yao, Ping Yeh, Bicheng Ying, Juhwan Yoo, Noureldin Yosri, Grayson Young, Adam Zalcman, Chongwei Zhang, Yaxing Zhang, Ningfeng Zhu, Nicholas Zobrist|[2506.10191](http://arxiv.org/abs/2506.10191)|null|
 |**2025-06-11**|**Universality of stochastic control of quantum chaos with measurement and feedback**|Andrew A. Allocca, Devesh K. Verma, Sriram Ganeshan, Justin H. Wilson|[2506.10067](http://arxiv.org/abs/2506.10067)|null|
 |**2025-06-10**|**Low-Level and NUMA-Aware Optimization for High-Performance Quantum Simulation**|Ali Rezaei, Luc Jaulmes, Maria Bahna, Oliver Thomson Brown, Antonio Barbalace|[2506.09198](http://arxiv.org/abs/2506.09198)|null|
@@ -1598,6 +1606,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Correlated Error Bursts in a Gap-Engineered Superconducting Qubit Array**|Vladislav D. Kurilovich, Gabrielle Roberts, Leigh S. Martin, Matt McEwen, Alec Eickbusch, Lara Faoro, Lev B. Ioffe, Juan Atalaya, Alexander Bilmes, John Mark Kreikebaum, Andreas Bengtsson, Paul Klimov, Matthew Neeley, Wojciech Mruczkiewicz, Kevin Miao, Igor L. Aleiner, Julian Kelly, Yu Chen, Kevin Satzinger, Alex Opremcak|[2506.18228](http://arxiv.org/abs/2506.18228)|null|
+|**2025-06-22**|**Planar Fault-Tolerant Quantum Computation with Low Overhead**|Yingli Yang, Guo Zhang, Ying Li|[2506.18061](http://arxiv.org/abs/2506.18061)|null|
 |**2025-06-20**|**Comparison of spin-qubit architectures for quantum error-correcting codes**|Mauricio Gutiérrez, Juan S. Rojas-Arias, David Obando, Chien-Yuan Chang|[2506.17190](http://arxiv.org/abs/2506.17190)|null|
 |**2025-06-20**|**Generalized Code Distance through Rotated Logical States in Quantum Error Correction**|Valentine Nyirahafashimana, Nurisya Mohd Shah, Umair Abdul Halim, Mohamed Othman|[2506.17062](http://arxiv.org/abs/2506.17062)|null|
 |**2025-06-20**|**Abelian multi-cycle codes for single-shot error correction**|Hsiang-Ku Lin, Pak Kau Lim, Alexey A. Kovalev, Leonid P. Pryadko|[2506.16910](http://arxiv.org/abs/2506.16910)|null|

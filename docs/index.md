@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 
 ## Bell nonlocality
 
@@ -11,7 +11,7 @@ layout: default
 |**2025-06-20**|**Probing dynamical axion quasiparticles with two-photon correlations**|Daniel Boyanovsky|[2506.17013](http://arxiv.org/abs/2506.17013)|null|
 |**2025-06-19**|**Searching Quantum Entanglement in $p\ p\to Z\ Z$ process**|Alim Ruzi, Youpeng Wu, Ran Ding, Qiang Li|[2506.16077](http://arxiv.org/abs/2506.16077)|null|
 |**2025-06-18**|**Temporal Entanglement and Witnesses of Non-Classicality**|Giuseppe Di Pietra, Gaurav Bhole, James Eaton, Andrew J. Baldwin, Jonathan A. Jones, Vlatko Vedral, Chiara Marletto|[2506.15474](http://arxiv.org/abs/2506.15474)|null|
-|**2025-06-15**|**Studying Maximal Entanglement and Bell Nonlocality at an Electron-Ion Collider**|Wei Qi, Zijing Guo, Bo-Wen Xiao|[2506.12889](http://arxiv.org/abs/2506.12889)|null|
+|**2025-06-22**|**Studying Maximal Entanglement and Bell Nonlocality at an Electron-Ion Collider**|Wei Qi, Zijing Guo, Bo-Wen Xiao|[2506.12889](http://arxiv.org/abs/2506.12889)|null|
 |**2025-06-11**|**A quantum semantic framework for natural language processing**|Christopher J. Agostino, Quan Le Thien, Molly Apsel, Denizhan Pak, Elina Lesyk, Ashabari Majumdar|[2506.10077](http://arxiv.org/abs/2506.10077)|null|
 |**2025-06-09**|**The quantum theory of the electromagnetic field in the Weyl-Wigner representation as a local realistic model**|Emilio Santos|[2506.10023](http://arxiv.org/abs/2506.10023)|null|
 |**2025-06-11**|**Device Independent Quantum Key Activation**|Bora Ulu, Nicolas Brunner, Mirjam Weilenmann|[2506.09772](http://arxiv.org/abs/2506.09772)|**[link](https://github.com/Bora-Ulu/DIQKA)**|

@@ -858,6 +858,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Quantum Resource Theories of Anyonic Entanglement**|Wenhao Ye, Li You, Cheng-Qian Xu|[2506.19735](http://arxiv.org/abs/2506.19735)|null|
+|**2025-06-24**|**Characterizing quantum resourcefulness via group-Fourier decompositions**|Pablo Bermejo, Paolo Braccia, Antonio Anna Mele, Nahuel L. Diaz, Andrew E. Deneris, Martin Larocca, M. Cerezo|[2506.19696](http://arxiv.org/abs/2506.19696)|null|
 |**2025-06-23**|**ADNF-Clustering: An Adaptive and Dynamic Neuro-Fuzzy Clustering for Leukemia Prediction**|Marco Aruta, Ciro Listone, Giuseppe Murano, Aniello Murano|[2506.18396](http://arxiv.org/abs/2506.18396)|null|
 |**2025-06-20**|**High-accuracy inference using HfO $_x$S$_y$/HfS$_2$ Memristors**|Aferdita Xhameni, Antonio Lombardo|[2506.17174](http://arxiv.org/abs/2506.17174)|null|
 |**2025-06-13**|**Quantum Resource Complementarity in Finite-Dimensional Systems**|Justin K. Edmondson|[2506.11741](http://arxiv.org/abs/2506.11741)|null|
@@ -1087,6 +1089,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Geometry of Chord Intertwiner, Multiple Shocks and Switchback in Double-Scaled SYK**|Sergio E. Aguilar-Gutierrez, Jiuci Xu|[2506.19013](http://arxiv.org/abs/2506.19013)|null|
 |**2025-06-21**|**Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing**|Kaito Kobayashi, Yukitoshi Motome|[2506.17547](http://arxiv.org/abs/2506.17547)|null|
 |**2025-06-20**|**An Elementary Characterization of Bargmann Invariants**|Sagar Silva Pratapsi, João Gouveia, Leonardo Novo, Ernesto F. Galvão|[2506.17132](http://arxiv.org/abs/2506.17132)|null|
 |**2025-06-19**|**Operator-space fragmentation and integrability in Pauli-Lindblad models**|Dawid Paszko, Christopher J. Turner, Dominic C. Rose, Arijeet Pal|[2506.16518](http://arxiv.org/abs/2506.16518)|null|
@@ -1606,6 +1609,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Error recovery protocols within metastable Decoherence-Free Subspaces**|Thomas Botzung, Eliana Fiorelli|[2506.19631](http://arxiv.org/abs/2506.19631)|null|
+|**2025-06-24**|**Two classes of NMDS codes from Roth-Lempel codes**|Zhonghao Liang, Qunying Liao|[2506.19346](http://arxiv.org/abs/2506.19346)|null|
+|**2025-06-23**|**Transversal Surface-Code Game Powered by Neutral Atoms**|Shinichi Sunami, Akihisa Goban, Hayata Yamasaki|[2506.18979](http://arxiv.org/abs/2506.18979)|null|
 |**2025-06-23**|**Correlated Error Bursts in a Gap-Engineered Superconducting Qubit Array**|Vladislav D. Kurilovich, Gabrielle Roberts, Leigh S. Martin, Matt McEwen, Alec Eickbusch, Lara Faoro, Lev B. Ioffe, Juan Atalaya, Alexander Bilmes, John Mark Kreikebaum, Andreas Bengtsson, Paul Klimov, Matthew Neeley, Wojciech Mruczkiewicz, Kevin Miao, Igor L. Aleiner, Julian Kelly, Yu Chen, Kevin Satzinger, Alex Opremcak|[2506.18228](http://arxiv.org/abs/2506.18228)|null|
 |**2025-06-22**|**Planar Fault-Tolerant Quantum Computation with Low Overhead**|Yingli Yang, Guo Zhang, Ying Li|[2506.18061](http://arxiv.org/abs/2506.18061)|null|
 |**2025-06-20**|**Comparison of spin-qubit architectures for quantum error-correcting codes**|Mauricio Gutiérrez, Juan S. Rojas-Arias, David Obando, Chien-Yuan Chang|[2506.17190](http://arxiv.org/abs/2506.17190)|null|

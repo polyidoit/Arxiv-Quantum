@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Experimental violation of a Bell-like inequality for causal order**|Yu Guo, Hao Tang, Xiao-Min Hu, Yun-Feng Huang, Chuan-Feng Liu, Guang-Can Guo, Giulio Chiribella, Bi-Heng Liu|[2506.20516](http://arxiv.org/abs/2506.20516)|null|
 |**2025-06-23**|**Unique Games and Games Based on Groups**|Rupert H. Levene, Vern I. Paulsen|[2506.18644](http://arxiv.org/abs/2506.18644)|null|
 |**2025-06-20**|**Berry Phase in Pathangled Systems**|H. O. Cildiroglu|[2506.17429](http://arxiv.org/abs/2506.17429)|null|
 |**2025-06-20**|**Probing dynamical axion quasiparticles with two-photon correlations**|Daniel Boyanovsky|[2506.17013](http://arxiv.org/abs/2506.17013)|null|
@@ -1070,6 +1071,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**The Phases of Chaos**|Tarek Anous, Diego M. Hofman|[2506.20542](http://arxiv.org/abs/2506.20542)|null|
+|**2025-06-24**|**Error-resilient Reversal of Quantum Chaotic Dynamics Enabled by Scramblons**|Yu-Chen Li, Tian-Gang Zhou, Shengyu Zhang, Ze Wu, Liqiang Zhao, Haochuan Yin, Xiaoxue An, Hui Zhai, Pengfei Zhang, Xinhua Peng|[2506.19915](http://arxiv.org/abs/2506.19915)|null|
 |**2025-06-23**|**Geometry of Chord Intertwiner, Multiple Shocks and Switchback in Double-Scaled SYK**|Sergio E. Aguilar-Gutierrez, Jiuci Xu|[2506.19013](http://arxiv.org/abs/2506.19013)|null|
 |**2025-06-21**|**Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing**|Kaito Kobayashi, Yukitoshi Motome|[2506.17547](http://arxiv.org/abs/2506.17547)|null|
 |**2025-06-20**|**An Elementary Characterization of Bargmann Invariants**|Sagar Silva Pratapsi, João Gouveia, Leonardo Novo, Ernesto F. Galvão|[2506.17132](http://arxiv.org/abs/2506.17132)|null|
@@ -1588,6 +1591,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Architectural mechanisms of a universal fault-tolerant quantum computer**|Dolev Bluvstein, Alexandra A. Geim, Sophie H. Li, Simon J. Evered, J. Pablo Bonilla Ataides, Gefen Baranes, Andi Gu, Tom Manovitz, Muqing Xu, Marcin Kalinowski, Shayan Majidy, Christian Kokail, Nishad Maskara, Elias C. Trapp, Luke M. Stewart, Simon Hollerith, Hengyun Zhou, Michael J. Gullans, Susanne F. Yelin, Markus Greiner, Vladan Vuletic, Madelyn Cain, Mikhail D. Lukin|[2506.20661](http://arxiv.org/abs/2506.20661)|null|
+|**2025-06-25**|**Continuous operation of a coherent 3,000-qubit system**|Neng-Chun Chiu, Elias C. Trapp, Jinen Guo, Mohamed H. Abobeih, Luke M. Stewart, Simon Hollerith, Pavel Stroganov, Marcin Kalinowski, Alexandra A. Geim, Simon J. Evered, Sophie H. Li, Lisa M. Peters, Dolev Bluvstein, Tout T. Wang, Markus Greiner, Vladan Vuletić, Mikhail D. Lukin|[2506.20660](http://arxiv.org/abs/2506.20660)|null|
+|**2025-06-25**|**Realization of a Quantum Error Detection Code with a Dynamically Reassigned Ancillary Qubit**|Alena S. Kazmina, Artyom M. Polyanskiy, Elena Yu. Egorova, Nikolay N. Abramov, Daria A. Kalacheva, Viktor B. Lubsanov, Aleksey N. Bolgar, Ilya A. Simakov|[2506.20529](http://arxiv.org/abs/2506.20529)|null|
+|**2025-06-25**|**Critical Anatomy-Preserving & Terrain-Augmenting Navigation (CAPTAiN): Application to Laminectomy Surgical Education**|Jonathan Wang, Hisashi Ishida, David Usevitch, Kesavan Venkatesh, Yi Wang, Mehran Armand, Rachel Bronheim, Amit Jain, Adnan Munawar|[2506.20496](http://arxiv.org/abs/2506.20496)|null|
+|**2025-06-24**|**QHackBench: Benchmarking Large Language Models for Quantum Code Generation Using PennyLane Hackathon Challenges**|Abdul Basit, Minghao Shao, Haider Asif, Nouhaila Innan, Muhammad Kashif, Alberto Marchisio, Muhammad Shafique|[2506.20008](http://arxiv.org/abs/2506.20008)|null|
 |**2025-06-24**|**Error recovery protocols within metastable Decoherence-Free Subspaces**|Thomas Botzung, Eliana Fiorelli|[2506.19631](http://arxiv.org/abs/2506.19631)|null|
 |**2025-06-24**|**Two classes of NMDS codes from Roth-Lempel codes**|Zhonghao Liang, Qunying Liao|[2506.19346](http://arxiv.org/abs/2506.19346)|null|
 |**2025-06-23**|**Transversal Surface-Code Game Powered by Neutral Atoms**|Shinichi Sunami, Akihisa Goban, Hayata Yamasaki|[2506.18979](http://arxiv.org/abs/2506.18979)|null|

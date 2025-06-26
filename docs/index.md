@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 
 ## Bell nonlocality
 
@@ -849,7 +849,7 @@ layout: default
 |**2025-05-30**|**Bias-field-free operation of nitrogen-vacancy ensembles in diamond for accurate vector magnetometry**|Lilian Childress, Vincent Halde, Kayla Johnson, Andrew Lowther, David Roy-Guay, Romain Ruhlmann, Adrian Solyom|[2505.24574](http://arxiv.org/abs/2505.24574)|null|
 |**2025-05-30**|**Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments**|Sanghyeon Nam, Dongmin Kim, Seung-Hwan Choi, Chang-Hyun Kim, Hyoeun Kwon, Hiroaki Kawamoto, Suwoong Lee|[2505.24209](http://arxiv.org/abs/2505.24209)|null|
 |**2025-06-15**|**Thermodynamical aspects of fermions in external electromagnetic fields**|Romeo Brunetti, Klaus Fredenhagen, Nicola Pinamonti|[2505.22413](http://arxiv.org/abs/2505.22413)|null|
-|**2025-06-11**|**Partitewise Entanglement**|Yu Guo, Ning Yang|[2505.13226](http://arxiv.org/abs/2505.13226)|null|
+|**2025-06-25**|**Partitewise Entanglement**|Yu Guo, Ning Yang|[2505.13226](http://arxiv.org/abs/2505.13226)|null|
 |**2025-06-04**|**Distance-based measures and Epsilon-measures for measurement-based quantum resources**|Arindam Mitra, Sumit Mukherjee, Changhyoup Lee|[2505.11331](http://arxiv.org/abs/2505.11331)|null|
 |**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking**|Wen-Long Jin|[2505.09988](http://arxiv.org/abs/2505.09988)|null|
 |**2025-05-07**|**Instantons and Rarefaction Pulses as Pathways to Global Phase Coherence in Gain-Based Optical Networks**|Richard Zhipeng Wang, Natalia G. Berloff|[2505.04031](http://arxiv.org/abs/2505.04031)|null|

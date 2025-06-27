@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**One-way network nonlocality of continuous variable entangled networks**|Jun-Li Jiang, Xin-Zhu Liu, Xue Yang, Xiuyong Ding, Da Zhang, Ming-Xing Luo|[2506.21060](http://arxiv.org/abs/2506.21060)|null|
+|**2025-06-26**|**Experimental Characterization of Quantumness Using the Uncertainty Principle, Coherence, and Nonlocality**|Yan-Han Yang, Xin-Zhu Liu, Xing-Zhou Zheng, Jun-Li Jiang, Xue Yang, Shao-Ming Fei, Zhihao Ma, Zizhu Wang, Ming-Xing Luo|[2506.21051](http://arxiv.org/abs/2506.21051)|null|
+|**2025-06-25**|**Observing High-dimensional Nonlocality using Multi-Outcome Spectral Measurements**|Kiki Dekkers, Laura Serino, Nicola DAlessandro, Abhinandan Bhattacharjee, Benjamin Brecht, Armin Tavakoli, Christine Silberhorn, Jonathan Leach|[2506.20796](http://arxiv.org/abs/2506.20796)|null|
 |**2025-06-25**|**Experimental violation of a Bell-like inequality for causal order**|Yu Guo, Hao Tang, Xiao-Min Hu, Yun-Feng Huang, Chuan-Feng Liu, Guang-Can Guo, Giulio Chiribella, Bi-Heng Liu|[2506.20516](http://arxiv.org/abs/2506.20516)|null|
 |**2025-06-23**|**Unique Games and Games Based on Groups**|Rupert H. Levene, Vern I. Paulsen|[2506.18644](http://arxiv.org/abs/2506.18644)|null|
 |**2025-06-20**|**Berry Phase in Pathangled Systems**|H. O. Cildiroglu|[2506.17429](http://arxiv.org/abs/2506.17429)|null|
@@ -859,6 +862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Deterministic and Stochastic Study of the X-ray Emission from the TeV Blazar Mrk~421**|Radim Pánis, Gopal Bhatta, Tek P. Adhikari, Maksym Mohorian, Suvas Chandra Chaudhary, Adithiya Dinesh, Rajesh K. Bachchan, Niraj Dhital, Zdeněk Stuchlík|[2506.21346](http://arxiv.org/abs/2506.21346)|null|
 |**2025-06-24**|**Quantum Resource Theories of Anyonic Entanglement**|Wenhao Ye, Li You, Cheng-Qian Xu|[2506.19735](http://arxiv.org/abs/2506.19735)|null|
 |**2025-06-24**|**Characterizing quantum resourcefulness via group-Fourier decompositions**|Pablo Bermejo, Paolo Braccia, Antonio Anna Mele, Nahuel L. Diaz, Andrew E. Deneris, Martin Larocca, M. Cerezo|[2506.19696](http://arxiv.org/abs/2506.19696)|null|
 |**2025-06-23**|**ADNF-Clustering: An Adaptive and Dynamic Neuro-Fuzzy Clustering for Leukemia Prediction**|Marco Aruta, Ciro Listone, Giuseppe Murano, Aniello Murano|[2506.18396](http://arxiv.org/abs/2506.18396)|null|

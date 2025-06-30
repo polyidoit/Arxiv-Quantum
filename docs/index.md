@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 
 ## Bell nonlocality
 
@@ -845,7 +845,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-26**|**Deterministic and Stochastic Study of the X-ray Emission from the TeV Blazar Mrk~421**|Radim Pánis, Gopal Bhatta, Tek P. Adhikari, Maksym Mohorian, Suvas Chandra Chaudhary, Adithiya Dinesh, Rajesh K. Bachchan, Niraj Dhital, Zdeněk Stuchlík|[2506.21346](http://arxiv.org/abs/2506.21346)|null|
+|**2025-06-27**|**Deterministic and Stochastic Study of the X-ray Emission from the TeV Blazar Mrk~421**|Radim Pánis, Gopal Bhatta, Tek P. Adhikari, Maksym Mohorian, Suvas Chandra Chaudhary, Adithiya Dinesh, Rajesh K. Bachchan, Niraj Dhital, Zdeněk Stuchlík|[2506.21346](http://arxiv.org/abs/2506.21346)|null|
 |**2025-06-24**|**Quantum Resource Theories of Anyonic Entanglement**|Wenhao Ye, Li You, Cheng-Qian Xu|[2506.19735](http://arxiv.org/abs/2506.19735)|null|
 |**2025-06-24**|**Characterizing quantum resourcefulness via group-Fourier decompositions**|Pablo Bermejo, Paolo Braccia, Antonio Anna Mele, Nahuel L. Diaz, Andrew E. Deneris, Martin Larocca, M. Cerezo|[2506.19696](http://arxiv.org/abs/2506.19696)|null|
 |**2025-06-23**|**ADNF-Clustering: An Adaptive and Dynamic Neuro-Fuzzy Clustering for Leukemia Prediction**|Marco Aruta, Ciro Listone, Giuseppe Murano, Aniello Murano|[2506.18396](http://arxiv.org/abs/2506.18396)|null|

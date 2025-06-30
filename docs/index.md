@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Translating Bell Non-Locality to Prepare-and-Measure Scenarios under Dimensional Constraints**|Matilde Baroni, Eleni Diamanti, Damian Markham, Ivan Šupić|[2506.22282](http://arxiv.org/abs/2506.22282)|null|
 |**2025-06-26**|**One-way network nonlocality of continuous variable entangled networks**|Jun-Li Jiang, Xin-Zhu Liu, Xue Yang, Xiuyong Ding, Da Zhang, Ming-Xing Luo|[2506.21060](http://arxiv.org/abs/2506.21060)|null|
 |**2025-06-26**|**Experimental Characterization of Quantumness Using the Uncertainty Principle, Coherence, and Nonlocality**|Yan-Han Yang, Xin-Zhu Liu, Xing-Zhou Zheng, Jun-Li Jiang, Xue Yang, Shao-Ming Fei, Zhihao Ma, Zizhu Wang, Ming-Xing Luo|[2506.21051](http://arxiv.org/abs/2506.21051)|null|
 |**2025-06-25**|**Observing High-dimensional Nonlocality using Multi-Outcome Spectral Measurements**|Kiki Dekkers, Laura Serino, Nicola DAlessandro, Abhinandan Bhattacharjee, Benjamin Brecht, Armin Tavakoli, Christine Silberhorn, Jonathan Leach|[2506.20796](http://arxiv.org/abs/2506.20796)|null|
@@ -1595,6 +1596,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Dipoles and Anyonic Directional Confinement via Twisted Toric Codes**|Jose Garre Rubio|[2506.22025](http://arxiv.org/abs/2506.22025)|null|
+|**2025-06-26**|**Optimizing continuous-time quantum error correction for arbitrary noise**|Anirudh Lanka, Shashank Hegde, Todd A. Brun|[2506.21707](http://arxiv.org/abs/2506.21707)|null|
 |**2025-06-25**|**Architectural mechanisms of a universal fault-tolerant quantum computer**|Dolev Bluvstein, Alexandra A. Geim, Sophie H. Li, Simon J. Evered, J. Pablo Bonilla Ataides, Gefen Baranes, Andi Gu, Tom Manovitz, Muqing Xu, Marcin Kalinowski, Shayan Majidy, Christian Kokail, Nishad Maskara, Elias C. Trapp, Luke M. Stewart, Simon Hollerith, Hengyun Zhou, Michael J. Gullans, Susanne F. Yelin, Markus Greiner, Vladan Vuletic, Madelyn Cain, Mikhail D. Lukin|[2506.20661](http://arxiv.org/abs/2506.20661)|null|
 |**2025-06-25**|**Continuous operation of a coherent 3,000-qubit system**|Neng-Chun Chiu, Elias C. Trapp, Jinen Guo, Mohamed H. Abobeih, Luke M. Stewart, Simon Hollerith, Pavel Stroganov, Marcin Kalinowski, Alexandra A. Geim, Simon J. Evered, Sophie H. Li, Lisa M. Peters, Dolev Bluvstein, Tout T. Wang, Markus Greiner, Vladan Vuletić, Mikhail D. Lukin|[2506.20660](http://arxiv.org/abs/2506.20660)|null|
 |**2025-06-25**|**Realization of a Quantum Error Detection Code with a Dynamically Reassigned Ancillary Qubit**|Alena S. Kazmina, Artyom M. Polyanskiy, Elena Yu. Egorova, Nikolay N. Abramov, Daria A. Kalacheva, Viktor B. Lubsanov, Aleksey N. Bolgar, Ilya A. Simakov|[2506.20529](http://arxiv.org/abs/2506.20529)|null|

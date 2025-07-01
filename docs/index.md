@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-28**|**On the polemic assessment of what Bell did**|Justo Pastor Lambare|[2506.22915](http://arxiv.org/abs/2506.22915)|null|
 |**2025-06-27**|**Translating Bell Non-Locality to Prepare-and-Measure Scenarios under Dimensional Constraints**|Matilde Baroni, Eleni Diamanti, Damian Markham, Ivan Šupić|[2506.22282](http://arxiv.org/abs/2506.22282)|null|
 |**2025-06-26**|**One-way network nonlocality of continuous variable entangled networks**|Jun-Li Jiang, Xin-Zhu Liu, Xue Yang, Xiuyong Ding, Da Zhang, Ming-Xing Luo|[2506.21060](http://arxiv.org/abs/2506.21060)|null|
 |**2025-06-26**|**Experimental Characterization of Quantumness Using the Uncertainty Principle, Coherence, and Nonlocality**|Yan-Han Yang, Xin-Zhu Liu, Xing-Zhou Zheng, Jun-Li Jiang, Xue Yang, Shao-Ming Fei, Zhihao Ma, Zizhu Wang, Ming-Xing Luo|[2506.21051](http://arxiv.org/abs/2506.21051)|null|
@@ -716,6 +717,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do, Binh X. Nguyen, Quang D. Tran, Erman Tjiputra, Te-Chuan Chiu, Anh Nguyen|[2506.23523](http://arxiv.org/abs/2506.23523)|null|
+|**2025-06-29**|**Detecting and quantifying non-Markovianity via quantum direct cause**|Shrikant Utagi, Prateek Chawla|[2506.23267](http://arxiv.org/abs/2506.23267)|null|
 |**2025-06-23**|**Can boundary configuration be tuned to optimize directional quantum steering harvesting?**|Xiao-Li Huang, Xiao-Ying Jiang, Yu-Xuan Wang, Si-Yu Liu, Zejun Wang, Shu-Min Wu|[2506.18734](http://arxiv.org/abs/2506.18734)|null|
 |**2025-06-12**|**Certification of quantum networks using the generalised Choi isomorphism**|Sophie Egelhaaf, Roope Uola|[2506.10725](http://arxiv.org/abs/2506.10725)|null|
 |**2025-06-12**|**Saturable nonlinearity induced quantum correlations in optomechanics**|D. R. Kenigoule Massembele, E. Kongkui Berinyuy, P. Djorwe, A. -H. Abdel-Aty, M. R. Eid, R. Altuijri, S. G. Nana Engo|[2506.10709](http://arxiv.org/abs/2506.10709)|null|
@@ -1076,6 +1079,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Interferometric and Bipartite OTOC for Non-Markovian Open Quantum Spin-Chains and Lipkin-Meshkov-Glick Model**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2506.23796](http://arxiv.org/abs/2506.23796)|null|
 |**2025-06-25**|**The Phases of Chaos**|Tarek Anous, Diego M. Hofman|[2506.20542](http://arxiv.org/abs/2506.20542)|null|
 |**2025-06-24**|**Error-resilient Reversal of Quantum Chaotic Dynamics Enabled by Scramblons**|Yu-Chen Li, Tian-Gang Zhou, Shengyu Zhang, Ze Wu, Liqiang Zhao, Haochuan Yin, Xiaoxue An, Hui Zhai, Pengfei Zhang, Xinhua Peng|[2506.19915](http://arxiv.org/abs/2506.19915)|null|
 |**2025-06-23**|**Geometry of Chord Intertwiner, Multiple Shocks and Switchback in Double-Scaled SYK**|Sergio E. Aguilar-Gutierrez, Jiuci Xu|[2506.19013](http://arxiv.org/abs/2506.19013)|null|
@@ -1596,6 +1600,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Demonstration of measurement-free universal fault-tolerant quantum computation**|Friederike Butt, Ivan Pogorelov, Robert Freund, Alex Steiner, Marcel Meyer, Thomas Monz, Markus Müller|[2506.22600](http://arxiv.org/abs/2506.22600)|null|
 |**2025-06-27**|**Dipoles and Anyonic Directional Confinement via Twisted Toric Codes**|Jose Garre Rubio|[2506.22025](http://arxiv.org/abs/2506.22025)|null|
 |**2025-06-26**|**Optimizing continuous-time quantum error correction for arbitrary noise**|Anirudh Lanka, Shashank Hegde, Todd A. Brun|[2506.21707](http://arxiv.org/abs/2506.21707)|null|
 |**2025-06-25**|**Architectural mechanisms of a universal fault-tolerant quantum computer**|Dolev Bluvstein, Alexandra A. Geim, Sophie H. Li, Simon J. Evered, J. Pablo Bonilla Ataides, Gefen Baranes, Andi Gu, Tom Manovitz, Muqing Xu, Marcin Kalinowski, Shayan Majidy, Christian Kokail, Nishad Maskara, Elias C. Trapp, Luke M. Stewart, Simon Hollerith, Hengyun Zhou, Michael J. Gullans, Susanne F. Yelin, Markus Greiner, Vladan Vuletic, Madelyn Cain, Mikhail D. Lukin|[2506.20661](http://arxiv.org/abs/2506.20661)|null|

@@ -556,6 +556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan, Pengcheng Shi, Zhenjun Zhao, Kaixin Wang, Kuang Cao, Ji Wu, Jiayuan Li|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
 |**2025-06-23**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor, Sanjaye Ramgoolam|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
 |**2025-06-20**|**Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces**|Ronno Das, Brian Lehmann, Sho Tanimoto, Philip Tosteson|[2506.17071](http://arxiv.org/abs/2506.17071)|null|
 |**2025-06-20**|**The logical structure of contextuality and nonclassicality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Chang He, Jincheng Wang|[2506.15071](http://arxiv.org/abs/2506.15071)|null|
@@ -717,6 +718,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**All entangled states can be certified by a violation of noncontextuality inequalities**|Yujie Zhang, Jonah Spodek, David Schmid, Carter Reid, Liam J. Morrison, Thomas Jennewein, Kevin J. Resch, Robert W. Spekkens|[2507.01122](http://arxiv.org/abs/2507.01122)|null|
 |**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do, Binh X. Nguyen, Quang D. Tran, Erman Tjiputra, Te-Chuan Chiu, Anh Nguyen|[2506.23523](http://arxiv.org/abs/2506.23523)|null|
 |**2025-06-29**|**Detecting and quantifying non-Markovianity via quantum direct cause**|Shrikant Utagi, Prateek Chawla|[2506.23267](http://arxiv.org/abs/2506.23267)|null|
 |**2025-06-23**|**Can boundary configuration be tuned to optimize directional quantum steering harvesting?**|Xiao-Li Huang, Xiao-Ying Jiang, Yu-Xuan Wang, Si-Yu Liu, Zejun Wang, Shu-Min Wu|[2506.18734](http://arxiv.org/abs/2506.18734)|null|
@@ -849,6 +851,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Quadruple Beltrami field structures in electron-positron multi-ion plasma**|Farhat Saleem, M. Iqbal, Usman Shazad|[2507.01283](http://arxiv.org/abs/2507.01283)|null|
+|**2025-06-24**|**A Compartmental Model for Epidemiology with Human Behavior and Stochastic Effects**|Christian Parkinson, Weinan Wang|[2507.01046](http://arxiv.org/abs/2507.01046)|null|
+|**2025-07-01**|**Relaxation of a Two Electron-Temperature Relativistic Hot Electron-Positron-Ion Plasma**|Usman Shazad, M. Iqbal|[2507.00777](http://arxiv.org/abs/2507.00777)|null|
+|**2025-07-01**|**Self-organization of earth's inner magnetospheric multi-ion plasma**|Usman Shazad, M. Iqbal|[2507.00734](http://arxiv.org/abs/2507.00734)|null|
 |**2025-06-27**|**Deterministic and Stochastic Study of the X-ray Emission from the TeV Blazar Mrk~421**|Radim Pánis, Gopal Bhatta, Tek P. Adhikari, Maksym Mohorian, Suvas Chandra Chaudhary, Adithiya Dinesh, Rajesh K. Bachchan, Niraj Dhital, Zdeněk Stuchlík|[2506.21346](http://arxiv.org/abs/2506.21346)|null|
 |**2025-06-24**|**Quantum Resource Theories of Anyonic Entanglement**|Wenhao Ye, Li You, Cheng-Qian Xu|[2506.19735](http://arxiv.org/abs/2506.19735)|null|
 |**2025-06-24**|**Characterizing quantum resourcefulness via group-Fourier decompositions**|Pablo Bermejo, Paolo Braccia, Antonio Anna Mele, Nahuel L. Diaz, Andrew E. Deneris, Martin Larocca, M. Cerezo|[2506.19696](http://arxiv.org/abs/2506.19696)|null|

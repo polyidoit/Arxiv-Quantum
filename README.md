@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Access Control Threatened by Quantum Entanglement**|Zhicheng Zhang, Mingsheng Ying|[2507.02622](http://arxiv.org/abs/2507.02622)|null|
 |**2025-06-28**|**On the polemic assessment of what Bell did**|Justo Pastor Lambare|[2506.22915](http://arxiv.org/abs/2506.22915)|null|
 |**2025-06-27**|**Translating Bell Non-Locality to Prepare-and-Measure Scenarios under Dimensional Constraints**|Matilde Baroni, Eleni Diamanti, Damian Markham, Ivan Šupić|[2506.22282](http://arxiv.org/abs/2506.22282)|null|
 |**2025-06-26**|**One-way network nonlocality of continuous variable entangled networks**|Jun-Li Jiang, Xin-Zhu Liu, Xue Yang, Xiuyong Ding, Da Zhang, Ming-Xing Luo|[2506.21060](http://arxiv.org/abs/2506.21060)|null|
@@ -1104,6 +1105,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Imprints of information scrambling on eigenstates of a quantum chaotic system**|Bikram Pain, Ratul Thakur, Sthitadhi Roy|[2507.02853](http://arxiv.org/abs/2507.02853)|null|
 |**2025-06-30**|**Interferometric and Bipartite OTOC for Non-Markovian Open Quantum Spin-Chains and Lipkin-Meshkov-Glick Model**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2506.23796](http://arxiv.org/abs/2506.23796)|null|
 |**2025-06-25**|**The Phases of Chaos**|Tarek Anous, Diego M. Hofman|[2506.20542](http://arxiv.org/abs/2506.20542)|null|
 |**2025-06-24**|**Error-resilient Reversal of Quantum Chaotic Dynamics Enabled by Scramblons**|Yu-Chen Li, Tian-Gang Zhou, Shengyu Zhang, Ze Wu, Liqiang Zhao, Haochuan Yin, Xiaoxue An, Hui Zhai, Pengfei Zhang, Xinhua Peng|[2506.19915](http://arxiv.org/abs/2506.19915)|null|
@@ -1627,6 +1629,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Bias-tailored single-shot quantum LDPC codes**|Shixin Wu, Todd A. Brun, Daniel A. Lidar|[2507.02239](http://arxiv.org/abs/2507.02239)|null|
+|**2025-07-02**|**Classification of four-qubit pure codes and five-qubit absolutely maximally entangled states**|Ian Tan|[2507.02185](http://arxiv.org/abs/2507.02185)|null|
 |**2025-06-27**|**Demonstration of measurement-free universal fault-tolerant quantum computation**|Friederike Butt, Ivan Pogorelov, Robert Freund, Alex Steiner, Marcel Meyer, Thomas Monz, Markus Müller|[2506.22600](http://arxiv.org/abs/2506.22600)|null|
 |**2025-06-27**|**Dipoles and Anyonic Directional Confinement via Twisted Toric Codes**|Jose Garre Rubio|[2506.22025](http://arxiv.org/abs/2506.22025)|null|
 |**2025-06-26**|**Optimizing continuous-time quantum error correction for arbitrary noise**|Anirudh Lanka, Shashank Hegde, Todd A. Brun|[2506.21707](http://arxiv.org/abs/2506.21707)|null|

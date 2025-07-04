@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 
 ## Bell nonlocality
 
@@ -556,7 +556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-02**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan, Pengcheng Shi, Zhenjun Zhao, Kaixin Wang, Kuang Cao, Ji Wu, Jiayuan Li|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
+|**2025-07-03**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan, Pengcheng Shi, Zhenjun Zhao, Kaixin Wang, Kuang Cao, Ji Wu, Jiayuan Li|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
 |**2025-06-23**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor, Sanjaye Ramgoolam|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
 |**2025-06-20**|**Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces**|Ronno Das, Brian Lehmann, Sho Tanimoto, Philip Tosteson|[2506.17071](http://arxiv.org/abs/2506.17071)|null|
 |**2025-06-20**|**The logical structure of contextuality and nonclassicality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Chang He, Jincheng Wang|[2506.15071](http://arxiv.org/abs/2506.15071)|null|

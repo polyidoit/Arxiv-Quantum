@@ -1086,11 +1086,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Topological gravity for arbitrary Dyson index**|Torsten Weber, Marco Lents, Johannes Dieplinger, Juan Diego Urbina, Klaus Richter|[2507.03172](http://arxiv.org/abs/2507.03172)|null|
 |**2025-07-03**|**Imprints of information scrambling on eigenstates of a quantum chaotic system**|Bikram Pain, Ratul Thakur, Sthitadhi Roy|[2507.02853](http://arxiv.org/abs/2507.02853)|null|
 |**2025-06-30**|**Interferometric and Bipartite OTOC for Non-Markovian Open Quantum Spin-Chains and Lipkin-Meshkov-Glick Model**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2506.23796](http://arxiv.org/abs/2506.23796)|null|
 |**2025-06-25**|**The Phases of Chaos**|Tarek Anous, Diego M. Hofman|[2506.20542](http://arxiv.org/abs/2506.20542)|null|
 |**2025-06-24**|**Error-resilient Reversal of Quantum Chaotic Dynamics Enabled by Scramblons**|Yu-Chen Li, Tian-Gang Zhou, Shengyu Zhang, Ze Wu, Liqiang Zhao, Haochuan Yin, Xiaoxue An, Hui Zhai, Pengfei Zhang, Xinhua Peng|[2506.19915](http://arxiv.org/abs/2506.19915)|null|
-|**2025-06-23**|**Geometry of Chord Intertwiner, Multiple Shocks and Switchback in Double-Scaled SYK**|Sergio E. Aguilar-Gutierrez, Jiuci Xu|[2506.19013](http://arxiv.org/abs/2506.19013)|null|
+|**2025-07-07**|**Geometry of Chord Intertwiner, Multiple Shocks and Switchback in Double-Scaled SYK**|Sergio E. Aguilar-Gutierrez, Jiuci Xu|[2506.19013](http://arxiv.org/abs/2506.19013)|null|
 |**2025-06-21**|**Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing**|Kaito Kobayashi, Yukitoshi Motome|[2506.17547](http://arxiv.org/abs/2506.17547)|null|
 |**2025-07-04**|**An Elementary Characterization of Bargmann Invariants**|Sagar Silva Pratapsi, João Gouveia, Leonardo Novo, Ernesto F. Galvão|[2506.17132](http://arxiv.org/abs/2506.17132)|null|
 |**2025-06-19**|**Operator-space fragmentation and integrability in Pauli-Lindblad models**|Dawid Paszko, Christopher J. Turner, Dominic C. Rose, Arijeet Pal|[2506.16518](http://arxiv.org/abs/2506.16518)|null|
@@ -1608,6 +1609,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Engineering a Multi-Mode Purcell Filter for Superconducting-Qubit Reset and Readout with Intrinsic Purcell Protection**|Xu-Yang Gu, Da'er Feng, Zhen-Yu Peng, Gui-Han Liang, Yang He, Yongxi Xiao, Ming-Chuan Wang, Yu Yan, Bing-Jie Chen, Zheng-Yang Mei, Yi-Zhou Bu, Jia-Chi Zhang, Jia-Cheng Song, Cheng-Lin Deng, Xiaohui Song, Dongning Zheng, Kai Xu, Zhongcheng Xiang, Heng Fan|[2507.04676](http://arxiv.org/abs/2507.04676)|null|
+|**2025-07-05**|**General Approach to Error Detection of Bosonic Codes via Phase Estimation**|Yuan-De Jin, Shi-Yu Zhang, Ulrik L. Andersen, Wen-Long Ma|[2507.03999](http://arxiv.org/abs/2507.03999)|null|
+|**2025-07-04**|**Awesome Quantum Computing Experiments: Benchmarking Experimental Progress Towards Fault-Tolerant Quantum Computation**|François-Marie Le Régent|[2507.03678](http://arxiv.org/abs/2507.03678)|null|
+|**2025-07-03**|**STABSim: A Parallelized Clifford Simulator with Features Beyond Direct Simulation**|Sean Garner, Chenxu Liu, Meng Wang, Samuel Stein, Ang Li|[2507.03092](http://arxiv.org/abs/2507.03092)|null|
 |**2025-07-03**|**Bias-tailored single-shot quantum LDPC codes**|Shixin Wu, Todd A. Brun, Daniel A. Lidar|[2507.02239](http://arxiv.org/abs/2507.02239)|null|
 |**2025-07-02**|**Classification of four-qubit pure codes and five-qubit absolutely maximally entangled states**|Ian Tan|[2507.02185](http://arxiv.org/abs/2507.02185)|null|
 |**2025-06-27**|**Demonstration of measurement-free universal fault-tolerant quantum computation**|Friederike Butt, Ivan Pogorelov, Robert Freund, Alex Steiner, Marcel Meyer, Thomas Monz, Markus Müller|[2506.22600](http://arxiv.org/abs/2506.22600)|null|

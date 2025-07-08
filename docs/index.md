@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 
 ## Bell nonlocality
 
@@ -1092,7 +1092,7 @@ layout: default
 |**2025-06-24**|**Error-resilient Reversal of Quantum Chaotic Dynamics Enabled by Scramblons**|Yu-Chen Li, Tian-Gang Zhou, Shengyu Zhang, Ze Wu, Liqiang Zhao, Haochuan Yin, Xiaoxue An, Hui Zhai, Pengfei Zhang, Xinhua Peng|[2506.19915](http://arxiv.org/abs/2506.19915)|null|
 |**2025-06-23**|**Geometry of Chord Intertwiner, Multiple Shocks and Switchback in Double-Scaled SYK**|Sergio E. Aguilar-Gutierrez, Jiuci Xu|[2506.19013](http://arxiv.org/abs/2506.19013)|null|
 |**2025-06-21**|**Edge of Many-Body Quantum Chaos in Quantum Reservoir Computing**|Kaito Kobayashi, Yukitoshi Motome|[2506.17547](http://arxiv.org/abs/2506.17547)|null|
-|**2025-06-20**|**An Elementary Characterization of Bargmann Invariants**|Sagar Silva Pratapsi, João Gouveia, Leonardo Novo, Ernesto F. Galvão|[2506.17132](http://arxiv.org/abs/2506.17132)|null|
+|**2025-07-04**|**An Elementary Characterization of Bargmann Invariants**|Sagar Silva Pratapsi, João Gouveia, Leonardo Novo, Ernesto F. Galvão|[2506.17132](http://arxiv.org/abs/2506.17132)|null|
 |**2025-06-19**|**Operator-space fragmentation and integrability in Pauli-Lindblad models**|Dawid Paszko, Christopher J. Turner, Dominic C. Rose, Arijeet Pal|[2506.16518](http://arxiv.org/abs/2506.16518)|null|
 |**2025-06-18**|**Generalized Spectral Statistics in the Kicked Ising model**|Divij Gupta, Brian Swingle|[2506.15816](http://arxiv.org/abs/2506.15816)|null|
 |**2025-06-18**|**Ultracold collisions of a neutral atom with a trapped ion in 1D**|Seth T. Rittenhouse, Lorenzo Oghittu, Arghavan Safavi-Naini, Rene Gerritsma, Nirav P. Mehta|[2506.15804](http://arxiv.org/abs/2506.15804)|null|

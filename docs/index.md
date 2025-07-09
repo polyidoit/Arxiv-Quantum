@@ -451,6 +451,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**An order-theoretic circuit syntax and characterisation of the concept lattice**|Tein van der Lugt|[2507.05428](http://arxiv.org/abs/2507.05428)|null|
 |**2025-06-23**|**Unilateral determination of causal order in a cyclic process**|Ilyass Mejdoub, Augustin Vanrietvelde|[2506.18540](http://arxiv.org/abs/2506.18540)|null|
 |**2025-06-23**|**Multi-user Downlink with Reconfigurable Intelligent Metasurface Antennas (RIMSA) Array**|Xuejian Wei, Hui-Ming Wang|[2506.18418](http://arxiv.org/abs/2506.18418)|null|
 |**2025-06-23**|**Accelerating multijet-merged event generation with neural network matrix element surrogates**|Tim Herrmann, Timo Janßen, Mathis Schenker, Steffen Schumann, Frank Siegert|[2506.06203](http://arxiv.org/abs/2506.06203)|null|
@@ -852,6 +853,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**A Study in Thermal: Advantage framework for resource engines**|Jakub Czartowski, Rafał Bistroń|[2507.05699](http://arxiv.org/abs/2507.05699)|null|
+|**2025-07-08**|**Additivity of quantum relative entropies as a single-copy criterion**|Salman Beigi, Roberto Rubboli, Marco Tomamichel|[2507.05696](http://arxiv.org/abs/2507.05696)|null|
 |**2025-07-02**|**Quadruple Beltrami field structures in electron-positron multi-ion plasma**|Farhat Saleem, M. Iqbal, Usman Shazad|[2507.01283](http://arxiv.org/abs/2507.01283)|null|
 |**2025-07-07**|**A Compartmental Model for Epidemiology with Human Behavior and Stochastic Effects**|Christian Parkinson, Weinan Wang|[2507.01046](http://arxiv.org/abs/2507.01046)|null|
 |**2025-07-01**|**Relaxation of a Two Electron-Temperature Relativistic Hot Electron-Positron-Ion Plasma**|Usman Shazad, M. Iqbal|[2507.00777](http://arxiv.org/abs/2507.00777)|null|
@@ -1609,6 +1612,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Surface-Code Hardware Hamiltonian**|Xuexin Xu, Kuljeet Kaur, Chloé Vignes, Mohammad H. Ansari, John M. Martinis|[2507.06201](http://arxiv.org/abs/2507.06201)|null|
+|**2025-07-08**|**Low-depth quantum error correction via three-qubit gates in Rydberg atom arrays**|Laura Pecorari, Sven Jandura, Guido Pupillo|[2507.06096](http://arxiv.org/abs/2507.06096)|null|
+|**2025-07-07**|**Accessible Quantum Gates on Classical Stabilizer Codes**|Victor Barizien, Hugo Jacinto, Nicolas Sangouard|[2507.05408](http://arxiv.org/abs/2507.05408)|null|
+|**2025-07-07**|**Asymptotically Good Quantum Codes with Addressable and Transversal Non-Clifford Gates**|Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang|[2507.05392](http://arxiv.org/abs/2507.05392)|null|
+|**2025-07-07**|**Unified Framework for Quantum Code Embedding**|Andrew C. Yuan|[2507.05361](http://arxiv.org/abs/2507.05361)|null|
 |**2025-07-07**|**Engineering a Multi-Mode Purcell Filter for Superconducting-Qubit Reset and Readout with Intrinsic Purcell Protection**|Xu-Yang Gu, Da'er Feng, Zhen-Yu Peng, Gui-Han Liang, Yang He, Yongxi Xiao, Ming-Chuan Wang, Yu Yan, Bing-Jie Chen, Zheng-Yang Mei, Yi-Zhou Bu, Jia-Chi Zhang, Jia-Cheng Song, Cheng-Lin Deng, Xiaohui Song, Dongning Zheng, Kai Xu, Zhongcheng Xiang, Heng Fan|[2507.04676](http://arxiv.org/abs/2507.04676)|null|
 |**2025-07-05**|**General Approach to Error Detection of Bosonic Codes via Phase Estimation**|Yuan-De Jin, Shi-Yu Zhang, Ulrik L. Andersen, Wen-Long Ma|[2507.03999](http://arxiv.org/abs/2507.03999)|null|
 |**2025-07-04**|**Awesome Quantum Computing Experiments: Benchmarking Experimental Progress Towards Fault-Tolerant Quantum Computation**|François-Marie Le Régent|[2507.03678](http://arxiv.org/abs/2507.03678)|null|

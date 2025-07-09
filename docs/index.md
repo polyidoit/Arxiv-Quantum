@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 
 ## Bell nonlocality
 
@@ -853,7 +853,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-02**|**Quadruple Beltrami field structures in electron-positron multi-ion plasma**|Farhat Saleem, M. Iqbal, Usman Shazad|[2507.01283](http://arxiv.org/abs/2507.01283)|null|
-|**2025-06-24**|**A Compartmental Model for Epidemiology with Human Behavior and Stochastic Effects**|Christian Parkinson, Weinan Wang|[2507.01046](http://arxiv.org/abs/2507.01046)|null|
+|**2025-07-07**|**A Compartmental Model for Epidemiology with Human Behavior and Stochastic Effects**|Christian Parkinson, Weinan Wang|[2507.01046](http://arxiv.org/abs/2507.01046)|null|
 |**2025-07-01**|**Relaxation of a Two Electron-Temperature Relativistic Hot Electron-Positron-Ion Plasma**|Usman Shazad, M. Iqbal|[2507.00777](http://arxiv.org/abs/2507.00777)|null|
 |**2025-07-01**|**Self-organization of earth's inner magnetospheric multi-ion plasma**|Usman Shazad, M. Iqbal|[2507.00734](http://arxiv.org/abs/2507.00734)|null|
 |**2025-06-27**|**Deterministic and Stochastic Study of the X-ray Emission from the TeV Blazar Mrk~421**|Radim Pánis, Gopal Bhatta, Tek P. Adhikari, Maksym Mohorian, Suvas Chandra Chaudhary, Adithiya Dinesh, Rajesh K. Bachchan, Niraj Dhital, Zdeněk Stuchlík|[2506.21346](http://arxiv.org/abs/2506.21346)|null|

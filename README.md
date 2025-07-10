@@ -1633,6 +1633,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**No physics required! A visual-based introduction to GKP qubits for computer scientists**|Richard A. Wolf, Pavithran Iyer|[2507.06943](http://arxiv.org/abs/2507.06943)|null|
+|**2025-07-09**|**Relaying Quantum Information**|Yigal Ilin, Uzi Pereg|[2507.06770](http://arxiv.org/abs/2507.06770)|null|
 |**2025-07-08**|**Surface-Code Hardware Hamiltonian**|Xuexin Xu, Kuljeet Kaur, Chloé Vignes, Mohammad H. Ansari, John M. Martinis|[2507.06201](http://arxiv.org/abs/2507.06201)|null|
 |**2025-07-08**|**Low-depth quantum error correction via three-qubit gates in Rydberg atom arrays**|Laura Pecorari, Sven Jandura, Guido Pupillo|[2507.06096](http://arxiv.org/abs/2507.06096)|null|
 |**2025-07-07**|**Accessible Quantum Gates on Classical Stabilizer Codes**|Victor Barizien, Hugo Jacinto, Nicolas Sangouard|[2507.05408](http://arxiv.org/abs/2507.05408)|null|

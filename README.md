@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Violation of Bell Inequality with Unentangled Photons**|Kai Wang, Zhaohua Hou, Kaiyi Qian, Leizhen Chen, Mario Krenn, Markus Aspelmeyer, Anton Zeilinger, Shining Zhu, Xiao-Song Ma|[2507.07756](http://arxiv.org/abs/2507.07756)|null|
 |**2025-07-03**|**Access Control Threatened by Quantum Entanglement**|Zhicheng Zhang, Mingsheng Ying|[2507.02622](http://arxiv.org/abs/2507.02622)|null|
 |**2025-06-28**|**On the polemic assessment of what Bell did**|Justo Pastor Lambare|[2506.22915](http://arxiv.org/abs/2506.22915)|null|
 |**2025-06-27**|**Translating Bell Non-Locality to Prepare-and-Measure Scenarios under Dimensional Constraints**|Matilde Baroni, Eleni Diamanti, Damian Markham, Ivan Šupić|[2506.22282](http://arxiv.org/abs/2506.22282)|null|
@@ -462,6 +463,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Correlations and quantum circuits with dynamical causal order**|Raphaël Mothe, Alastair A. Abbott, Cyril Branciard|[2507.07992](http://arxiv.org/abs/2507.07992)|null|
 |**2025-07-07**|**An order-theoretic circuit syntax and characterisation of the concept lattice**|Tein van der Lugt|[2507.05428](http://arxiv.org/abs/2507.05428)|null|
 |**2025-06-23**|**Unilateral determination of causal order in a cyclic process**|Ilyass Mejdoub, Augustin Vanrietvelde|[2506.18540](http://arxiv.org/abs/2506.18540)|null|
 |**2025-06-23**|**Multi-user Downlink with Reconfigurable Intelligent Metasurface Antennas (RIMSA) Array**|Xuejian Wei, Hui-Ming Wang|[2506.18418](http://arxiv.org/abs/2506.18418)|null|
@@ -735,6 +737,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Strong squeezing and perfect one-way EPR steering in electro-optomechanical system**|Qing-Min Zeng, A-Peng Liu, Qi Guo|[2507.07697](http://arxiv.org/abs/2507.07697)|null|
 |**2025-07-01**|**All entangled states can be certified by a violation of noncontextuality inequalities**|Yujie Zhang, Jonah Spodek, David Schmid, Carter Reid, Liam J. Morrison, Thomas Jennewein, Kevin J. Resch, Robert W. Spekkens|[2507.01122](http://arxiv.org/abs/2507.01122)|null|
 |**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do, Binh X. Nguyen, Quang D. Tran, Erman Tjiputra, Te-Chuan Chiu, Anh Nguyen|[2506.23523](http://arxiv.org/abs/2506.23523)|null|
 |**2025-06-29**|**Detecting and quantifying non-Markovianity via quantum direct cause**|Shrikant Utagi, Prateek Chawla|[2506.23267](http://arxiv.org/abs/2506.23267)|null|
@@ -1108,6 +1111,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Simulating sparse SYK model with a randomized algorithm on a trapped-ion quantum computer**|Etienne Granet, Yuta Kikuchi, Henrik Dreyer, Enrico Rinaldi|[2507.07530](http://arxiv.org/abs/2507.07530)|null|
+|**2025-07-09**|**Introduction to Sachdev-Ye-Kitaev Model: A Strongly Correlated System Perspective**|Rishabh Jha|[2507.07195](http://arxiv.org/abs/2507.07195)|null|
 |**2025-07-03**|**Topological gravity for arbitrary Dyson index**|Torsten Weber, Marco Lents, Johannes Dieplinger, Juan Diego Urbina, Klaus Richter|[2507.03172](http://arxiv.org/abs/2507.03172)|null|
 |**2025-07-03**|**Imprints of information scrambling on eigenstates of a quantum chaotic system**|Bikram Pain, Ratul Thakur, Sthitadhi Roy|[2507.02853](http://arxiv.org/abs/2507.02853)|null|
 |**2025-06-30**|**Interferometric and Bipartite OTOC for Non-Markovian Open Quantum Spin-Chains and Lipkin-Meshkov-Glick Model**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2506.23796](http://arxiv.org/abs/2506.23796)|null|
@@ -1633,6 +1638,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Introduction to Quantum Error Correction with Stabilizer Codes**|Zachary P. Bradshaw, Jeffrey J. Dale, Ethan N. Evans|[2507.07121](http://arxiv.org/abs/2507.07121)|null|
 |**2025-07-09**|**No physics required! A visual-based introduction to GKP qubits for computer scientists**|Richard A. Wolf, Pavithran Iyer|[2507.06943](http://arxiv.org/abs/2507.06943)|null|
 |**2025-07-09**|**Relaying Quantum Information**|Yigal Ilin, Uzi Pereg|[2507.06770](http://arxiv.org/abs/2507.06770)|null|
 |**2025-07-08**|**Surface-Code Hardware Hamiltonian**|Xuexin Xu, Kuljeet Kaur, Chloé Vignes, Mohammad H. Ansari, John M. Martinis|[2507.06201](http://arxiv.org/abs/2507.06201)|null|

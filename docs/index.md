@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 
 ## Bell nonlocality
 
@@ -13,7 +13,7 @@ layout: default
 |**2025-06-27**|**Translating Bell Non-Locality to Prepare-and-Measure Scenarios under Dimensional Constraints**|Matilde Baroni, Eleni Diamanti, Damian Markham, Ivan Šupić|[2506.22282](http://arxiv.org/abs/2506.22282)|null|
 |**2025-06-26**|**One-way network nonlocality of continuous variable entangled networks**|Jun-Li Jiang, Xin-Zhu Liu, Xue Yang, Xiuyong Ding, Da Zhang, Ming-Xing Luo|[2506.21060](http://arxiv.org/abs/2506.21060)|null|
 |**2025-06-26**|**Experimental Characterization of Quantumness Using the Uncertainty Principle, Coherence, and Nonlocality**|Yan-Han Yang, Xin-Zhu Liu, Xing-Zhou Zheng, Jun-Li Jiang, Xue Yang, Shao-Ming Fei, Zhihao Ma, Zizhu Wang, Ming-Xing Luo|[2506.21051](http://arxiv.org/abs/2506.21051)|null|
-|**2025-06-25**|**Observing High-dimensional Nonlocality using Multi-Outcome Spectral Measurements**|Kiki Dekkers, Laura Serino, Nicola DAlessandro, Abhinandan Bhattacharjee, Benjamin Brecht, Armin Tavakoli, Christine Silberhorn, Jonathan Leach|[2506.20796](http://arxiv.org/abs/2506.20796)|null|
+|**2025-07-10**|**Observing High-dimensional Bell Inequality Violations using Multi-Outcome Spectral Measurements**|Kiki Dekkers, Laura Serino, Nicola DAlessandro, Abhinandan Bhattacharjee, Benjamin Brecht, Armin Tavakoli, Christine Silberhorn, Jonathan Leach|[2506.20796](http://arxiv.org/abs/2506.20796)|null|
 |**2025-06-25**|**Experimental violation of a Bell-like inequality for causal order**|Yu Guo, Hao Tang, Xiao-Min Hu, Yun-Feng Huang, Chuan-Feng Liu, Guang-Can Guo, Giulio Chiribella, Bi-Heng Liu|[2506.20516](http://arxiv.org/abs/2506.20516)|null|
 |**2025-06-23**|**Unique Games and Games Based on Groups**|Rupert H. Levene, Vern I. Paulsen|[2506.18644](http://arxiv.org/abs/2506.18644)|null|
 |**2025-06-20**|**Berry Phase in Pathangled Systems**|H. O. Cildiroglu|[2506.17429](http://arxiv.org/abs/2506.17429)|null|

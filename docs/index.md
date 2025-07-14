@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Bi-Contextuality: A Novel Non-Classical Phenomenon in Bipartite Quantum Systems**|Gabriel Ruffolo, Nigel Benjamin Lee Junsheng, Kim Mu Young, Dzmitry Matsukevich, Rafael Rabelo, Dagomir Kaszlikowski, Paweł Kurzyński|[2507.08461](http://arxiv.org/abs/2507.08461)|null|
+|**2025-07-11**|**Witnessing nonlocality in quantum network of continuous-variable systems by generalized quasiprobability functions**|Taotao Yan, Jinchuan Hou, Xiaofei Qi, Kan He|[2507.08252](http://arxiv.org/abs/2507.08252)|null|
 |**2025-07-10**|**Violation of Bell Inequality with Unentangled Photons**|Kai Wang, Zhaohua Hou, Kaiyi Qian, Leizhen Chen, Mario Krenn, Markus Aspelmeyer, Anton Zeilinger, Shining Zhu, Xiao-Song Ma|[2507.07756](http://arxiv.org/abs/2507.07756)|null|
 |**2025-07-03**|**Access Control Threatened by Quantum Entanglement**|Zhicheng Zhang, Mingsheng Ying|[2507.02622](http://arxiv.org/abs/2507.02622)|null|
 |**2025-06-28**|**On the polemic assessment of what Bell did**|Justo Pastor Lambare|[2506.22915](http://arxiv.org/abs/2506.22915)|null|
@@ -1092,6 +1094,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Enhanced entanglement from quantum ergodicity**|Amit Vikram|[2507.08067](http://arxiv.org/abs/2507.08067)|null|
 |**2025-07-10**|**Simulating sparse SYK model with a randomized algorithm on a trapped-ion quantum computer**|Etienne Granet, Yuta Kikuchi, Henrik Dreyer, Enrico Rinaldi|[2507.07530](http://arxiv.org/abs/2507.07530)|null|
 |**2025-07-09**|**Introduction to Sachdev-Ye-Kitaev Model: A Strongly Correlated System Perspective**|Rishabh Jha|[2507.07195](http://arxiv.org/abs/2507.07195)|null|
 |**2025-07-03**|**Topological gravity for arbitrary Dyson index**|Torsten Weber, Marco Lents, Johannes Dieplinger, Juan Diego Urbina, Klaus Richter|[2507.03172](http://arxiv.org/abs/2507.03172)|null|
@@ -1617,6 +1620,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Simulated non-Markovian Noise Resilience of Silicon-Based Spin Qubits with Surface Code Error Correction**|Oscar Gravier, Thomas Ayral, Benoît Vermersch, Tristan Meunier, Valentin Savin|[2507.08713](http://arxiv.org/abs/2507.08713)|null|
+|**2025-07-11**|**Arbitrary high-fidelity binomial codes from multiphoton spin-boson interactions**|Pradip Laha, Peter van Loock|[2507.08585](http://arxiv.org/abs/2507.08585)|null|
+|**2025-07-11**|**Enhancing Decoding Performance using Efficient Error Learning**|Pavithran Iyer, Aditya Jain, Stephen D. Bartlett, Joseph Emerson|[2507.08536](http://arxiv.org/abs/2507.08536)|null|
+|**2025-07-10**|**A dynamic circuit for the honeycomb Floquet code**|Jahan Claes|[2507.08069](http://arxiv.org/abs/2507.08069)|null|
 |**2025-07-08**|**Introduction to Quantum Error Correction with Stabilizer Codes**|Zachary P. Bradshaw, Jeffrey J. Dale, Ethan N. Evans|[2507.07121](http://arxiv.org/abs/2507.07121)|null|
 |**2025-07-09**|**No physics required! A visual-based introduction to GKP qubits for computer scientists**|Richard A. Wolf, Pavithran Iyer|[2507.06943](http://arxiv.org/abs/2507.06943)|null|
 |**2025-07-09**|**Relaying Quantum Information**|Yigal Ilin, Uzi Pereg|[2507.06770](http://arxiv.org/abs/2507.06770)|null|

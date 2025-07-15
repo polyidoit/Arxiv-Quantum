@@ -25,7 +25,7 @@
 |**2025-06-27**|**Translating Bell Non-Locality to Prepare-and-Measure Scenarios under Dimensional Constraints**|Matilde Baroni, Eleni Diamanti, Damian Markham, Ivan Šupić|[2506.22282](http://arxiv.org/abs/2506.22282)|null|
 |**2025-06-26**|**One-way network nonlocality of continuous variable entangled networks**|Jun-Li Jiang, Xin-Zhu Liu, Xue Yang, Xiuyong Ding, Da Zhang, Ming-Xing Luo|[2506.21060](http://arxiv.org/abs/2506.21060)|null|
 |**2025-06-26**|**Experimental Characterization of Quantumness Using the Uncertainty Principle, Coherence, and Nonlocality**|Yan-Han Yang, Xin-Zhu Liu, Xing-Zhou Zheng, Jun-Li Jiang, Xue Yang, Shao-Ming Fei, Zhihao Ma, Zizhu Wang, Ming-Xing Luo|[2506.21051](http://arxiv.org/abs/2506.21051)|null|
-|**2025-07-10**|**Observing High-dimensional Bell Inequality Violations using Multi-Outcome Spectral Measurements**|Kiki Dekkers, Laura Serino, Nicola DAlessandro, Abhinandan Bhattacharjee, Benjamin Brecht, Armin Tavakoli, Christine Silberhorn, Jonathan Leach|[2506.20796](http://arxiv.org/abs/2506.20796)|null|
+|**2025-07-14**|**Observing High-dimensional Bell Inequality Violations using Multi-Outcome Spectral Measurements**|Kiki Dekkers, Laura Serino, Nicola DAlessandro, Abhinandan Bhattacharjee, Benjamin Brecht, Armin Tavakoli, Christine Silberhorn, Jonathan Leach|[2506.20796](http://arxiv.org/abs/2506.20796)|null|
 |**2025-06-25**|**Experimental violation of a Bell-like inequality for causal order**|Yu Guo, Hao Tang, Xiao-Min Hu, Yun-Feng Huang, Chuan-Feng Liu, Guang-Can Guo, Giulio Chiribella, Bi-Heng Liu|[2506.20516](http://arxiv.org/abs/2506.20516)|null|
 |**2025-06-23**|**Unique Games and Games Based on Groups**|Rupert H. Levene, Vern I. Paulsen|[2506.18644](http://arxiv.org/abs/2506.18644)|null|
 |**2025-06-20**|**Berry Phase in Pathangled Systems**|H. O. Cildiroglu|[2506.17429](http://arxiv.org/abs/2506.17429)|null|
@@ -739,6 +739,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-13**|**Barnett effect boosted nonreciprocal entanglement and EPR-steering in magnomechanics in the presence of coherent feedback loop**|Noura Chabar, Mohamed Amazioug|[2507.09590](http://arxiv.org/abs/2507.09590)|null|
 |**2025-07-10**|**Strong squeezing and perfect one-way EPR steering in electro-optomechanical system**|Qing-Min Zeng, A-Peng Liu, Qi Guo|[2507.07697](http://arxiv.org/abs/2507.07697)|null|
 |**2025-07-01**|**All entangled states can be certified by a violation of noncontextuality inequalities**|Yujie Zhang, Jonah Spodek, David Schmid, Carter Reid, Liam J. Morrison, Thomas Jennewein, Kevin J. Resch, Robert W. Spekkens|[2507.01122](http://arxiv.org/abs/2507.01122)|null|
 |**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do, Binh X. Nguyen, Quang D. Tran, Erman Tjiputra, Te-Chuan Chiu, Anh Nguyen|[2506.23523](http://arxiv.org/abs/2506.23523)|null|
@@ -875,6 +876,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-12**|**Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances**|Yuchen Guo, Matthew O. Jackson, Ruixue Jia|[2507.09419](http://arxiv.org/abs/2507.09419)|null|
+|**2025-07-12**|**Order-preserving condition for coherence measures of projective measurements with One Example**|Hai Wang|[2507.09261](http://arxiv.org/abs/2507.09261)|null|
 |**2025-07-08**|**A Study in Thermal: Advantage framework for resource engines**|Jakub Czartowski, Rafał Bistroń|[2507.05699](http://arxiv.org/abs/2507.05699)|null|
 |**2025-07-08**|**Additivity of quantum relative entropies as a single-copy criterion**|Salman Beigi, Roberto Rubboli, Marco Tomamichel|[2507.05696](http://arxiv.org/abs/2507.05696)|null|
 |**2025-07-02**|**Quadruple Beltrami field structures in electron-positron multi-ion plasma**|Farhat Saleem, M. Iqbal, Usman Shazad|[2507.01283](http://arxiv.org/abs/2507.01283)|null|
@@ -1641,6 +1644,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Fault-Tolerant Quantum Error Correction for Constant-Excitation Stabilizer Codes under Coherent Noise**|Ching-Yi Lai, Pei-Hao Liou, Yingkai Ouyang|[2507.10395](http://arxiv.org/abs/2507.10395)|null|
+|**2025-07-13**|**Small Quantum Low Parity Density Check Codes for Near-Term Experiments**|Christian Kraglund Andersen, Eliška Greplová|[2507.09690](http://arxiv.org/abs/2507.09690)|null|
 |**2025-07-11**|**Simulated non-Markovian Noise Resilience of Silicon-Based Spin Qubits with Surface Code Error Correction**|Oscar Gravier, Thomas Ayral, Benoît Vermersch, Tristan Meunier, Valentin Savin|[2507.08713](http://arxiv.org/abs/2507.08713)|null|
 |**2025-07-11**|**Arbitrary high-fidelity binomial codes from multiphoton spin-boson interactions**|Pradip Laha, Peter van Loock|[2507.08585](http://arxiv.org/abs/2507.08585)|null|
 |**2025-07-11**|**Enhancing Decoding Performance using Efficient Error Learning**|Pavithran Iyer, Aditya Jain, Stephen D. Bartlett, Joseph Emerson|[2507.08536](http://arxiv.org/abs/2507.08536)|null|

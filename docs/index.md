@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 
 ## Bell nonlocality
 
@@ -1099,7 +1099,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-10**|**Enhanced entanglement from quantum ergodicity**|Amit Vikram|[2507.08067](http://arxiv.org/abs/2507.08067)|null|
 |**2025-07-10**|**Simulating sparse SYK model with a randomized algorithm on a trapped-ion quantum computer**|Etienne Granet, Yuta Kikuchi, Henrik Dreyer, Enrico Rinaldi|[2507.07530](http://arxiv.org/abs/2507.07530)|null|
-|**2025-07-09**|**Introduction to Sachdev-Ye-Kitaev Model: A Strongly Correlated System Perspective**|Rishabh Jha|[2507.07195](http://arxiv.org/abs/2507.07195)|null|
+|**2025-07-15**|**Introduction to Sachdev-Ye-Kitaev Model: A Strongly Correlated System Perspective**|Rishabh Jha|[2507.07195](http://arxiv.org/abs/2507.07195)|null|
 |**2025-07-03**|**Topological gravity for arbitrary Dyson index**|Torsten Weber, Marco Lents, Johannes Dieplinger, Juan Diego Urbina, Klaus Richter|[2507.03172](http://arxiv.org/abs/2507.03172)|null|
 |**2025-07-03**|**Imprints of information scrambling on eigenstates of a quantum chaotic system**|Bikram Pain, Ratul Thakur, Sthitadhi Roy|[2507.02853](http://arxiv.org/abs/2507.02853)|null|
 |**2025-06-30**|**Interferometric and Bipartite OTOC for Non-Markovian Open Quantum Spin-Chains and Lipkin-Meshkov-Glick Model**|Baibhab Bose, Devvrat Tiwari, Subhashish Banerjee|[2506.23796](http://arxiv.org/abs/2506.23796)|null|

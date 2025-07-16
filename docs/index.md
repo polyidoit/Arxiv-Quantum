@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Facets of Non-locality and Advantage in Entanglement-Assisted Classical Communication Tasks**|Sumit Rout, Anubhav Chaturvedi, Some Sankar Bhattacharya, Paweł Horodecki|[2507.10830](http://arxiv.org/abs/2507.10830)|null|
 |**2025-07-11**|**Bi-Contextuality: A Novel Non-Classical Phenomenon in Bipartite Quantum Systems**|Gabriel Ruffolo, Nigel Benjamin Lee Junsheng, Kim Mu Young, Dzmitry Matsukevich, Rafael Rabelo, Dagomir Kaszlikowski, Paweł Kurzyński|[2507.08461](http://arxiv.org/abs/2507.08461)|null|
 |**2025-07-11**|**Witnessing nonlocality in quantum network of continuous-variable systems by generalized quasiprobability functions**|Taotao Yan, Jinchuan Hou, Xiaofei Qi, Kan He|[2507.08252](http://arxiv.org/abs/2507.08252)|null|
 |**2025-07-10**|**Violation of Bell Inequality with Unentangled Photons**|Kai Wang, Zhaohua Hou, Kaiyi Qian, Leizhen Chen, Mario Krenn, Markus Aspelmeyer, Anton Zeilinger, Shining Zhu, Xiao-Song Ma|[2507.07756](http://arxiv.org/abs/2507.07756)|null|
@@ -859,6 +860,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**A unified approach to quantum resource theories and a new class of free operations**|N. L. Diaz, Antonio Anna Mele, Pablo Bermejo, Paolo Braccia, Andrew E. Deneris, Martin Larocca, M. Cerezo|[2507.10851](http://arxiv.org/abs/2507.10851)|null|
+|**2025-07-14**|**Strategic Control of Drug-Resistant HIV: Multi-Strain Modeling with Diagnosis, Adherence, and Treatment Switching**|Ashish Poonia, Siddhartha P. Chakrabarty|[2507.10625](http://arxiv.org/abs/2507.10625)|null|
 |**2025-07-12**|**Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances**|Yuchen Guo, Matthew O. Jackson, Ruixue Jia|[2507.09419](http://arxiv.org/abs/2507.09419)|null|
 |**2025-07-12**|**Order-preserving condition for coherence measures of projective measurements with One Example**|Hai Wang|[2507.09261](http://arxiv.org/abs/2507.09261)|null|
 |**2025-07-08**|**A Study in Thermal: Advantage framework for resource engines**|Jakub Czartowski, Rafał Bistroń|[2507.05699](http://arxiv.org/abs/2507.05699)|null|
@@ -1097,6 +1100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Natural super-orbitals representation of many-body operators**|Maxime Debertolis|[2507.10690](http://arxiv.org/abs/2507.10690)|null|
 |**2025-07-10**|**Enhanced entanglement from quantum ergodicity**|Amit Vikram|[2507.08067](http://arxiv.org/abs/2507.08067)|null|
 |**2025-07-10**|**Simulating sparse SYK model with a randomized algorithm on a trapped-ion quantum computer**|Etienne Granet, Yuta Kikuchi, Henrik Dreyer, Enrico Rinaldi|[2507.07530](http://arxiv.org/abs/2507.07530)|null|
 |**2025-07-15**|**Introduction to Sachdev-Ye-Kitaev Model: A Strongly Correlated System Perspective**|Rishabh Jha|[2507.07195](http://arxiv.org/abs/2507.07195)|null|
@@ -1623,6 +1627,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Understanding Quantum Information and Computation**|John Watrous|[2507.11536](http://arxiv.org/abs/2507.11536)|null|
+|**2025-07-15**|**Sharp Error-Rate Transitions in Quantum QC-LDPC Codes under Joint BP Decoding**|Daiki Komoto, Kenta Kasai|[2507.11534](http://arxiv.org/abs/2507.11534)|null|
+|**2025-07-15**|**Enhancing the Clique Local Decoder to Correct Length-2 Space Errors in the Surface Code**|Zikang Jia, Shravan Veerapaneni, Gokul Subramanian Ravi|[2507.11481](http://arxiv.org/abs/2507.11481)|null|
+|**2025-07-15**|**Entanglement Classification in the Graph States: The generalization to $n$ -Qubits States using the Entanglement Matrix**|Sameer Sharma|[2507.11458](http://arxiv.org/abs/2507.11458)|null|
 |**2025-07-14**|**Fault-Tolerant Quantum Error Correction for Constant-Excitation Stabilizer Codes under Coherent Noise**|Ching-Yi Lai, Pei-Hao Liou, Yingkai Ouyang|[2507.10395](http://arxiv.org/abs/2507.10395)|null|
 |**2025-07-13**|**Small Quantum Low Parity Density Check Codes for Near-Term Experiments**|Christian Kraglund Andersen, Eliška Greplová|[2507.09690](http://arxiv.org/abs/2507.09690)|null|
 |**2025-07-11**|**Simulated non-Markovian Noise Resilience of Silicon-Based Spin Qubits with Surface Code Error Correction**|Oscar Gravier, Thomas Ayral, Benoît Vermersch, Tristan Meunier, Valentin Savin|[2507.08713](http://arxiv.org/abs/2507.08713)|null|

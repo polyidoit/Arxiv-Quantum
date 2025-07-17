@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**The EPR Paradox of Quantum Mechanics in the Light of Four Unpublished Letters between A. Einstein and the Mathematician J. L. B. Cooper**|P. L. Butzer, D. E. Edmunds, G. Roepstorff, G. Schmeisser, R. L. Stens|[2507.11736](http://arxiv.org/abs/2507.11736)|null|
 |**2025-07-14**|**Facets of Non-locality and Advantage in Entanglement-Assisted Classical Communication Tasks**|Sumit Rout, Anubhav Chaturvedi, Some Sankar Bhattacharya, Paweł Horodecki|[2507.10830](http://arxiv.org/abs/2507.10830)|null|
 |**2025-07-11**|**Bi-Contextuality: A Novel Non-Classical Phenomenon in Bipartite Quantum Systems**|Gabriel Ruffolo, Nigel Benjamin Lee Junsheng, Kim Mu Young, Dzmitry Matsukevich, Rafael Rabelo, Dagomir Kaszlikowski, Paweł Kurzyński|[2507.08461](http://arxiv.org/abs/2507.08461)|null|
 |**2025-07-11**|**Witnessing nonlocality in quantum network of continuous-variable systems by generalized quasiprobability functions**|Taotao Yan, Jinchuan Hou, Xiaofei Qi, Kan He|[2507.08252](http://arxiv.org/abs/2507.08252)|null|
@@ -563,6 +564,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz|[2507.12447](http://arxiv.org/abs/2507.12447)|null|
 |**2025-07-03**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan, Pengcheng Shi, Zhenjun Zhao, Kaixin Wang, Kuang Cao, Ji Wu, Jiayuan Li|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
 |**2025-06-23**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor, Sanjaye Ramgoolam|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
 |**2025-06-20**|**Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces**|Ronno Das, Brian Lehmann, Sho Tanimoto, Philip Tosteson|[2506.17071](http://arxiv.org/abs/2506.17071)|null|
@@ -860,6 +862,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Analyzing the free states of one quantum resource theory as resource states of another**|Andrew E. Deneris, Paolo Braccia, Pablo Bermejo, N. L. Diaz, Antonio A. Mele, M. Cerezo|[2507.11793](http://arxiv.org/abs/2507.11793)|null|
 |**2025-07-14**|**A unified approach to quantum resource theories and a new class of free operations**|N. L. Diaz, Antonio Anna Mele, Pablo Bermejo, Paolo Braccia, Andrew E. Deneris, Martin Larocca, M. Cerezo|[2507.10851](http://arxiv.org/abs/2507.10851)|null|
 |**2025-07-14**|**Strategic Control of Drug-Resistant HIV: Multi-Strain Modeling with Diagnosis, Adherence, and Treatment Switching**|Ashish Poonia, Siddhartha P. Chakrabarty|[2507.10625](http://arxiv.org/abs/2507.10625)|null|
 |**2025-07-12**|**Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances**|Yuchen Guo, Matthew O. Jackson, Ruixue Jia|[2507.09419](http://arxiv.org/abs/2507.09419)|null|
@@ -1100,6 +1103,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**$ν$ -QSSEP: A toy model for entanglement spreading in stochastic diffusive quantum systems**|Vincenzo Alba|[2507.11674](http://arxiv.org/abs/2507.11674)|null|
 |**2025-07-14**|**Natural super-orbitals representation of many-body operators**|Maxime Debertolis|[2507.10690](http://arxiv.org/abs/2507.10690)|null|
 |**2025-07-10**|**Enhanced entanglement from quantum ergodicity**|Amit Vikram|[2507.08067](http://arxiv.org/abs/2507.08067)|null|
 |**2025-07-10**|**Simulating sparse SYK model with a randomized algorithm on a trapped-ion quantum computer**|Etienne Granet, Yuta Kikuchi, Henrik Dreyer, Enrico Rinaldi|[2507.07530](http://arxiv.org/abs/2507.07530)|null|
@@ -1627,6 +1631,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**On approximate quantum error correction for symmetric noise**|Gereon Koßmann, Julius A. Zeiss, Omar Fawzi, Mario Berta|[2507.12326](http://arxiv.org/abs/2507.12326)|null|
+|**2025-07-16**|**Design Automation in Quantum Error Correction**|Archisman Ghosh, Avimita Chatterjee, Swaroop Ghosh|[2507.12253](http://arxiv.org/abs/2507.12253)|null|
+|**2025-07-16**|**Benchmarking fault-tolerant quantum computing hardware via QLOPS**|Linghang Kong, Fang Zhang, Jianxin Chen|[2507.12024](http://arxiv.org/abs/2507.12024)|null|
 |**2025-07-15**|**Understanding Quantum Information and Computation**|John Watrous|[2507.11536](http://arxiv.org/abs/2507.11536)|null|
 |**2025-07-15**|**Sharp Error-Rate Transitions in Quantum QC-LDPC Codes under Joint BP Decoding**|Daiki Komoto, Kenta Kasai|[2507.11534](http://arxiv.org/abs/2507.11534)|null|
 |**2025-07-15**|**Enhancing the Clique Local Decoder to Correct Length-2 Space Errors in the Surface Code**|Zikang Jia, Shravan Veerapaneni, Gokul Subramanian Ravi|[2507.11481](http://arxiv.org/abs/2507.11481)|null|

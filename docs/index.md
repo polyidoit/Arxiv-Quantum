@@ -1103,6 +1103,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Krylov complexity, path integrals, and instantons**|Cameron Beetar, Eric L Graef, Jeff Murugan, Horatiu Nastase, Hendrik J R Van Zyl|[2507.13226](http://arxiv.org/abs/2507.13226)|null|
+|**2025-07-17**|**Unsupervised Techniques to Detect Quantum Chaos**|Dmitry Nemirovsky, Ruth Shir, Dario Rosa, Victor Kagalovsky|[2507.12887](http://arxiv.org/abs/2507.12887)|null|
 |**2025-07-15**|**$ν$ -QSSEP: A toy model for entanglement spreading in stochastic diffusive quantum systems**|Vincenzo Alba|[2507.11674](http://arxiv.org/abs/2507.11674)|null|
 |**2025-07-14**|**Natural super-orbitals representation of many-body operators**|Maxime Debertolis|[2507.10690](http://arxiv.org/abs/2507.10690)|null|
 |**2025-07-10**|**Enhanced entanglement from quantum ergodicity**|Amit Vikram|[2507.08067](http://arxiv.org/abs/2507.08067)|null|
@@ -1631,6 +1633,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Qrisp Implementation and Resource Analysis of a T-Count-Optimised Non-Restoring Quantum Square-Root Circuit**|Heorhi Kupryianau, Marcin Niemiec|[2507.12603](http://arxiv.org/abs/2507.12603)|null|
+|**2025-07-16**|**Scalable dissipative quantum error correction for discrete-variable codes**|Ivan Rojkov, Elias Zapusek, Florentin Reiter|[2507.12534](http://arxiv.org/abs/2507.12534)|null|
 |**2025-07-16**|**On approximate quantum error correction for symmetric noise**|Gereon Koßmann, Julius A. Zeiss, Omar Fawzi, Mario Berta|[2507.12326](http://arxiv.org/abs/2507.12326)|null|
 |**2025-07-16**|**Design Automation in Quantum Error Correction**|Archisman Ghosh, Avimita Chatterjee, Swaroop Ghosh|[2507.12253](http://arxiv.org/abs/2507.12253)|null|
 |**2025-07-16**|**Benchmarking fault-tolerant quantum computing hardware via QLOPS**|Linghang Kong, Fang Zhang, Jianxin Chen|[2507.12024](http://arxiv.org/abs/2507.12024)|null|

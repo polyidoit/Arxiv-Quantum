@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 
 ## Bell nonlocality
 
@@ -11,7 +11,7 @@ layout: default
 |**2025-07-01**|**The EPR Paradox of Quantum Mechanics in the Light of Four Unpublished Letters between A. Einstein and the Mathematician J. L. B. Cooper**|P. L. Butzer, D. E. Edmunds, G. Roepstorff, G. Schmeisser, R. L. Stens|[2507.11736](http://arxiv.org/abs/2507.11736)|null|
 |**2025-07-14**|**Facets of Non-locality and Advantage in Entanglement-Assisted Classical Communication Tasks**|Sumit Rout, Anubhav Chaturvedi, Some Sankar Bhattacharya, Paweł Horodecki|[2507.10830](http://arxiv.org/abs/2507.10830)|null|
 |**2025-07-11**|**Bi-Contextuality: A Novel Non-Classical Phenomenon in Bipartite Quantum Systems**|Gabriel Ruffolo, Nigel Benjamin Lee Junsheng, Kim Mu Young, Dzmitry Matsukevich, Rafael Rabelo, Dagomir Kaszlikowski, Paweł Kurzyński|[2507.08461](http://arxiv.org/abs/2507.08461)|null|
-|**2025-07-11**|**Witnessing nonlocality in quantum network of continuous-variable systems by generalized quasiprobability functions**|Taotao Yan, Jinchuan Hou, Xiaofei Qi, Kan He|[2507.08252](http://arxiv.org/abs/2507.08252)|null|
+|**2025-07-17**|**Witnessing nonlocality in quantum network of continuous-variable systems by generalized quasiprobability functions**|Taotao Yan, Jinchuan Hou, Xiaofei Qi, Kan He|[2507.08252](http://arxiv.org/abs/2507.08252)|null|
 |**2025-07-10**|**Violation of Bell Inequality with Unentangled Photons**|Kai Wang, Zhaohua Hou, Kaiyi Qian, Leizhen Chen, Mario Krenn, Markus Aspelmeyer, Anton Zeilinger, Shining Zhu, Xiao-Song Ma|[2507.07756](http://arxiv.org/abs/2507.07756)|null|
 |**2025-07-03**|**Access Control Threatened by Quantum Entanglement**|Zhicheng Zhang, Mingsheng Ying|[2507.02622](http://arxiv.org/abs/2507.02622)|null|
 |**2025-06-28**|**On the polemic assessment of what Bell did**|Justo Pastor Lambare|[2506.22915](http://arxiv.org/abs/2506.22915)|null|

@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Historical origins of quantum entanglement in particle physics**|Yu Shi|[2507.13582](http://arxiv.org/abs/2507.13582)|null|
 |**2025-07-01**|**The EPR Paradox of Quantum Mechanics in the Light of Four Unpublished Letters between A. Einstein and the Mathematician J. L. B. Cooper**|P. L. Butzer, D. E. Edmunds, G. Roepstorff, G. Schmeisser, R. L. Stens|[2507.11736](http://arxiv.org/abs/2507.11736)|null|
 |**2025-07-14**|**Facets of Non-locality and Advantage in Entanglement-Assisted Classical Communication Tasks**|Sumit Rout, Anubhav Chaturvedi, Some Sankar Bhattacharya, Paweł Horodecki|[2507.10830](http://arxiv.org/abs/2507.10830)|null|
 |**2025-07-11**|**Bi-Contextuality: A Novel Non-Classical Phenomenon in Bipartite Quantum Systems**|Gabriel Ruffolo, Nigel Benjamin Lee Junsheng, Kim Mu Young, Dzmitry Matsukevich, Rafael Rabelo, Dagomir Kaszlikowski, Paweł Kurzyński|[2507.08461](http://arxiv.org/abs/2507.08461)|null|
@@ -456,6 +457,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Theory-informed neural networks for particle physics**|Barry M. Dillon, Michael Spannowsky|[2507.13447](http://arxiv.org/abs/2507.13447)|null|
 |**2025-07-10**|**Correlations and quantum circuits with dynamical causal order**|Raphaël Mothe, Alastair A. Abbott, Cyril Branciard|[2507.07992](http://arxiv.org/abs/2507.07992)|null|
 |**2025-07-07**|**An order-theoretic circuit syntax and characterisation of the concept lattice**|Tein van der Lugt|[2507.05428](http://arxiv.org/abs/2507.05428)|null|
 |**2025-06-23**|**Unilateral determination of causal order in a cyclic process**|Ilyass Mejdoub, Augustin Vanrietvelde|[2506.18540](http://arxiv.org/abs/2506.18540)|null|
@@ -1103,6 +1105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Quantum chaos and semiclassical behavior in mushroom billiards I: Spectral statistics**|Matic Orel, Črt Lozej, Marko Robnik, Hua Yan|[2507.13823](http://arxiv.org/abs/2507.13823)|null|
 |**2025-07-17**|**Krylov complexity, path integrals, and instantons**|Cameron Beetar, Eric L Graef, Jeff Murugan, Horatiu Nastase, Hendrik J R Van Zyl|[2507.13226](http://arxiv.org/abs/2507.13226)|null|
 |**2025-07-17**|**Unsupervised Techniques to Detect Quantum Chaos**|Dmitry Nemirovsky, Ruth Shir, Dario Rosa, Victor Kagalovsky|[2507.12887](http://arxiv.org/abs/2507.12887)|null|
 |**2025-07-15**|**$ν$ -QSSEP: A toy model for entanglement spreading in stochastic diffusive quantum systems**|Vincenzo Alba|[2507.11674](http://arxiv.org/abs/2507.11674)|null|
@@ -1633,6 +1636,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Growing Sparse Quantum Codes from a Seed**|ChunJun Cao, Brad Lackey|[2507.13496](http://arxiv.org/abs/2507.13496)|null|
 |**2025-07-16**|**Qrisp Implementation and Resource Analysis of a T-Count-Optimised Non-Restoring Quantum Square-Root Circuit**|Heorhi Kupryianau, Marcin Niemiec|[2507.12603](http://arxiv.org/abs/2507.12603)|null|
 |**2025-07-16**|**Scalable dissipative quantum error correction for discrete-variable codes**|Ivan Rojkov, Elias Zapusek, Florentin Reiter|[2507.12534](http://arxiv.org/abs/2507.12534)|null|
 |**2025-07-16**|**On approximate quantum error correction for symmetric noise**|Gereon Koßmann, Julius A. Zeiss, Omar Fawzi, Mario Berta|[2507.12326](http://arxiv.org/abs/2507.12326)|null|

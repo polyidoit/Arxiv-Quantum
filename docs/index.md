@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 
 ## Bell nonlocality
 
@@ -870,7 +870,7 @@ layout: default
 |**2025-07-12**|**Comrades and Cause: Peer Influence on West Point Cadets' Civil War Allegiances**|Yuchen Guo, Matthew O. Jackson, Ruixue Jia|[2507.09419](http://arxiv.org/abs/2507.09419)|null|
 |**2025-07-12**|**Order-preserving condition for coherence measures of projective measurements with One Example**|Hai Wang|[2507.09261](http://arxiv.org/abs/2507.09261)|null|
 |**2025-07-08**|**A Study in Thermal: Advantage framework for resource engines**|Jakub Czartowski, Rafał Bistroń|[2507.05699](http://arxiv.org/abs/2507.05699)|null|
-|**2025-07-08**|**Additivity of quantum relative entropies as a single-copy criterion**|Salman Beigi, Roberto Rubboli, Marco Tomamichel|[2507.05696](http://arxiv.org/abs/2507.05696)|null|
+|**2025-07-20**|**Additivity of quantum relative entropies as a single-copy criterion**|Salman Beigi, Roberto Rubboli, Marco Tomamichel|[2507.05696](http://arxiv.org/abs/2507.05696)|null|
 |**2025-07-02**|**Quadruple Beltrami field structures in electron-positron multi-ion plasma**|Farhat Saleem, M. Iqbal, Usman Shazad|[2507.01283](http://arxiv.org/abs/2507.01283)|null|
 |**2025-07-07**|**A Compartmental Model for Epidemiology with Human Behavior and Stochastic Effects**|Christian Parkinson, Weinan Wang|[2507.01046](http://arxiv.org/abs/2507.01046)|null|
 |**2025-07-01**|**Relaxation of a Two Electron-Temperature Relativistic Hot Electron-Positron-Ion Plasma**|Usman Shazad, M. Iqbal|[2507.00777](http://arxiv.org/abs/2507.00777)|null|
@@ -1644,7 +1644,7 @@ layout: default
 |**2025-07-16**|**Benchmarking fault-tolerant quantum computing hardware via QLOPS**|Linghang Kong, Fang Zhang, Jianxin Chen|[2507.12024](http://arxiv.org/abs/2507.12024)|null|
 |**2025-07-15**|**Understanding Quantum Information and Computation**|John Watrous|[2507.11536](http://arxiv.org/abs/2507.11536)|null|
 |**2025-07-15**|**Sharp Error-Rate Transitions in Quantum QC-LDPC Codes under Joint BP Decoding**|Daiki Komoto, Kenta Kasai|[2507.11534](http://arxiv.org/abs/2507.11534)|null|
-|**2025-07-15**|**Enhancing the Clique Local Decoder to Correct Length-2 Space Errors in the Surface Code**|Zikang Jia, Shravan Veerapaneni, Gokul Subramanian Ravi|[2507.11481](http://arxiv.org/abs/2507.11481)|null|
+|**2025-07-19**|**Enhancing the Clique Local Decoder to Correct Length-2 Space Errors in the Surface Code**|Zikang Jia, Shravan Veerapaneni, Gokul Subramanian Ravi|[2507.11481](http://arxiv.org/abs/2507.11481)|null|
 |**2025-07-15**|**Entanglement Classification in the Graph States: The generalization to $n$ -Qubits States using the Entanglement Matrix**|Sameer Sharma|[2507.11458](http://arxiv.org/abs/2507.11458)|null|
 |**2025-07-14**|**Fault-Tolerant Quantum Error Correction for Constant-Excitation Stabilizer Codes under Coherent Noise**|Ching-Yi Lai, Pei-Hao Liou, Yingkai Ouyang|[2507.10395](http://arxiv.org/abs/2507.10395)|null|
 |**2025-07-13**|**Small Quantum Low Parity Density Check Codes for Near-Term Experiments**|Christian Kraglund Andersen, Eliška Greplová|[2507.09690](http://arxiv.org/abs/2507.09690)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 
 ## Bell nonlocality
 
@@ -1641,7 +1641,7 @@ layout: default
 |**2025-07-20**|**Transversal non-Clifford gates on qLDPC codes breaking the $\sqrt{N}$ distance barrier and quantum-inspired geometry with $\mathbb{Z}_2$ systolic freedom**|Guanyu Zhu|[2507.15056](http://arxiv.org/abs/2507.15056)|null|
 |**2025-07-19**|**Spectator Leakage Elimination in CZ Gates via Tunable Coupler Interference on a Superconducting Quantum Processor**|Peng Wang, Bin-Han Lu, Tian-Le Wang, Sheng Zhang, Zhao-Yun Chen, Hai-Feng Zhang, Ren-Ze Zhao, Xiao-Yan Yang, Ze-An Zhao, Zhuo-Zhi Zhang, Xiang-Xiang Song, Yu-Chun Wu, Peng Duan, Guo-Ping Guo|[2507.14531](http://arxiv.org/abs/2507.14531)|null|
 |**2025-07-19**|**Mitigating state transition errors during readout with a synchronized flux pulse**|Yulong Li, Wuerkaixi Nuerbolati, Chunqing Deng, Xizheng Ma, Haonan Xiong, Haifeng Yu|[2507.14436](http://arxiv.org/abs/2507.14436)|null|
-|**2025-07-18**|**Quantum Internet in a Nutshell -- Advancing Quantum Communication with Ion Traps**|Janine Hilder, Sascha Heußen, Anke Ginter, Andreas Wilke, Ulrich Poschinger, Ferdinand Schmidt-Kaler, Wadim Wormsbecher|[2507.14383](http://arxiv.org/abs/2507.14383)|null|
+|**2025-07-22**|**Quantum Internet in a Nutshell -- Advancing Quantum Communication with Ion Traps**|Janine Hilder, Sascha Heußen, Anke Ginter, Andreas Wilke, Lukas Postler, Ulrich Poschinger, Ferdinand Schmidt-Kaler, Wadim Wormsbecher|[2507.14383](http://arxiv.org/abs/2507.14383)|null|
 |**2025-07-17**|**Growing Sparse Quantum Codes from a Seed**|ChunJun Cao, Brad Lackey|[2507.13496](http://arxiv.org/abs/2507.13496)|null|
 |**2025-07-16**|**Qrisp Implementation and Resource Analysis of a T-Count-Optimised Non-Restoring Quantum Square-Root Circuit**|Heorhi Kupryianau, Marcin Niemiec|[2507.12603](http://arxiv.org/abs/2507.12603)|null|
 |**2025-07-16**|**Scalable dissipative quantum error correction for discrete-variable codes**|Ivan Rojkov, Elias Zapusek, Florentin Reiter|[2507.12534](http://arxiv.org/abs/2507.12534)|null|

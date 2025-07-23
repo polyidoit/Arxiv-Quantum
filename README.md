@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Colliders are Testing neither Locality via Bell's Inequality nor Entanglement versus Non-Entanglement**|Steven A. Abel, Herbi K. Dreiner, Rhitaja Sengupta, Lorenzo Ubaldi|[2507.15949](http://arxiv.org/abs/2507.15949)|null|
+|**2025-07-21**|**A critical appraisal of tests of locality and of entanglement versus non-entanglement at colliders**|Philip Bechtle, Cedric Breuning, Herbi K. Dreiner, Claude Duhr|[2507.15947](http://arxiv.org/abs/2507.15947)|null|
 |**2025-07-21**|**Spin correlations and Bell nonlocality in $Λ\barΛ$ pair production from $e^+e^-$ collisions with a thrust cut**|Shi-Jia Lin, Ming-Jun Liu, Ding Yu Shao, Shu-Yi Wei|[2507.15387](http://arxiv.org/abs/2507.15387)|null|
 |**2025-07-20**|**Taming Entanglement**|Huw Price, Ken Wharton|[2507.15128](http://arxiv.org/abs/2507.15128)|null|
 |**2025-07-18**|**Historical origins of quantum entanglement in particle physics**|Yu Shi|[2507.13582](http://arxiv.org/abs/2507.13582)|null|
@@ -1126,6 +1128,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Non-Linear Dynamics and Critical Phenomena in the Aretakis Instability of Extremal Black p-Branes**|Behnam Pourhassan|[2507.16023](http://arxiv.org/abs/2507.16023)|null|
 |**2025-07-18**|**Quantum chaos and semiclassical behavior in mushroom billiards I: Spectral statistics**|Matic Orel, Črt Lozej, Marko Robnik, Hua Yan|[2507.13823](http://arxiv.org/abs/2507.13823)|null|
 |**2025-07-17**|**Krylov complexity, path integrals, and instantons**|Cameron Beetar, Eric L Graef, Jeff Murugan, Horatiu Nastase, Hendrik J R Van Zyl|[2507.13226](http://arxiv.org/abs/2507.13226)|null|
 |**2025-07-17**|**Unsupervised Techniques to Detect Quantum Chaos**|Dmitry Nemirovsky, Ruth Shir, Dario Rosa, Victor Kagalovsky|[2507.12887](http://arxiv.org/abs/2507.12887)|null|
@@ -1659,6 +1662,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**No-go theorems for logical gates on product quantum codes**|Xiaozhen Fu, Han Zheng, Zimu Li, Zi-Wen Liu|[2507.16797](http://arxiv.org/abs/2507.16797)|null|
 |**2025-07-20**|**Transversal non-Clifford gates on qLDPC codes breaking the $\sqrt{N}$ distance barrier and quantum-inspired geometry with $\mathbb{Z}_2$ systolic freedom**|Guanyu Zhu|[2507.15056](http://arxiv.org/abs/2507.15056)|null|
 |**2025-07-19**|**Spectator Leakage Elimination in CZ Gates via Tunable Coupler Interference on a Superconducting Quantum Processor**|Peng Wang, Bin-Han Lu, Tian-Le Wang, Sheng Zhang, Zhao-Yun Chen, Hai-Feng Zhang, Ren-Ze Zhao, Xiao-Yan Yang, Ze-An Zhao, Zhuo-Zhi Zhang, Xiang-Xiang Song, Yu-Chun Wu, Peng Duan, Guo-Ping Guo|[2507.14531](http://arxiv.org/abs/2507.14531)|null|
 |**2025-07-19**|**Mitigating state transition errors during readout with a synchronized flux pulse**|Yulong Li, Wuerkaixi Nuerbolati, Chunqing Deng, Xizheng Ma, Haonan Xiong, Haifeng Yu|[2507.14436](http://arxiv.org/abs/2507.14436)|null|

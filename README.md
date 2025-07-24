@@ -583,6 +583,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Simulation of quantum contextuality with invasive-measurement maps**|Andrea Navoni, Marco G. Genoni, Andrea Smirne|[2507.16942](http://arxiv.org/abs/2507.16942)|null|
 |**2025-07-16**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz|[2507.12447](http://arxiv.org/abs/2507.12447)|null|
 |**2025-07-03**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan, Pengcheng Shi, Zhenjun Zhao, Kaixin Wang, Kuang Cao, Ji Wu, Jiayuan Li|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
 |**2025-06-23**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor, Sanjaye Ramgoolam|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
@@ -885,6 +886,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Layout optimization for the LUXE-NPOD experiment**|Melissa Almanza Soto, Oleksandr Borysov, Torben Ferber, Shan Huang, Adrián Irles, Markus Klute, Jesús P. Márquez Hernández, Josep Pérez Segura, Raquel Quishpe, Yotam Soreq, Noam Tal Hod, Nicolò Trevisani|[2507.17716](http://arxiv.org/abs/2507.17716)|null|
+|**2025-07-23**|**Dynamic Scoring with Enhanced Semantics for Training-Free Human-Object Interaction Detection**|Francesco Tonini, Lorenzo Vaquero, Alessandro Conti, Cigdem Beyan, Elisa Ricci|[2507.17456](http://arxiv.org/abs/2507.17456)|null|
+|**2025-07-22**|**An Energy-Autonomous and Battery-Free Resistive Sensor using a Time-Domain to Digital Conversion with Bluetooth Low Energy connectivity**|Mario Costanza, Antonino Pagano, Samuel Margueron, Ilenia Tinnirello, Roberto La Rosa|[2507.17011](http://arxiv.org/abs/2507.17011)|null|
 |**2025-07-15**|**Analyzing the free states of one quantum resource theory as resource states of another**|Andrew E. Deneris, Paolo Braccia, Pablo Bermejo, N. L. Diaz, Antonio A. Mele, M. Cerezo|[2507.11793](http://arxiv.org/abs/2507.11793)|null|
 |**2025-07-14**|**A unified approach to quantum resource theories and a new class of free operations**|N. L. Diaz, Antonio Anna Mele, Pablo Bermejo, Paolo Braccia, Andrew E. Deneris, Martin Larocca, M. Cerezo|[2507.10851](http://arxiv.org/abs/2507.10851)|null|
 |**2025-07-14**|**Strategic Control of Drug-Resistant HIV: Multi-Strain Modeling with Diagnosis, Adherence, and Treatment Switching**|Ashish Poonia, Siddhartha P. Chakrabarty|[2507.10625](http://arxiv.org/abs/2507.10625)|null|
@@ -1662,6 +1666,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**CSS- $T$ codes over Binary Extension Fields and their Physical Foundations**|Jasper J. Postema, F. Conca, A. Ravagnani|[2507.17611](http://arxiv.org/abs/2507.17611)|null|
+|**2025-07-23**|**Construction of Self-Orthogonal Quasi-Cyclic Codes and Their Application to Quantum Error-Correcting Codes**|Mengying Gao, Yuhua Sun, Tongjiang Yan, Chun'e Zhao|[2507.17319](http://arxiv.org/abs/2507.17319)|null|
 |**2025-07-22**|**No-go theorems for logical gates on product quantum codes**|Xiaozhen Fu, Han Zheng, Zimu Li, Zi-Wen Liu|[2507.16797](http://arxiv.org/abs/2507.16797)|null|
 |**2025-07-20**|**Transversal non-Clifford gates on qLDPC codes breaking the $\sqrt{N}$ distance barrier and quantum-inspired geometry with $\mathbb{Z}_2$ systolic freedom**|Guanyu Zhu|[2507.15056](http://arxiv.org/abs/2507.15056)|null|
 |**2025-07-19**|**Spectator Leakage Elimination in CZ Gates via Tunable Coupler Interference on a Superconducting Quantum Processor**|Peng Wang, Bin-Han Lu, Tian-Le Wang, Sheng Zhang, Zhao-Yun Chen, Hai-Feng Zhang, Ren-Ze Zhao, Xiao-Yan Yang, Ze-An Zhao, Zhuo-Zhi Zhang, Xiang-Xiang Song, Yu-Chun Wu, Peng Duan, Guo-Ping Guo|[2507.14531](http://arxiv.org/abs/2507.14531)|null|

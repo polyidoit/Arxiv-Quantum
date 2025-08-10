@@ -1,13 +1,17 @@
+# Site settings
 title: Quantum Information Arxiv Daily
-description: Automatically Update Quantum Information Theory ArXiv Papers Daily.
-show_downloads: False
+description: Automatically updated collection of Quantum Information Theory papers from arXiv.
+show_downloads: false
 
+# Repository links (optional)
 # github:
 #   zip_url: https://github.com/polyidiot/Arxiv-Quantum
 #   another_url: https://github.com/polyidot/Arxiv-Quantum
 
+# Theme settings
 remote_theme: pages-themes/primer@v0.2.5
 
+# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-feed

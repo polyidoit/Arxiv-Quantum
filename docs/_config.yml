@@ -1,7 +1,7 @@
 # Site settings
 title: Quantum Information Arxiv Daily
 description: Automatically updated collection of Quantum Information Theory papers from arXiv.
-show_downloads: false
+show_downloads: false  # use lowercase for YAML booleans
 
 # Repository links (optional)
 # github:
@@ -9,7 +9,7 @@ show_downloads: false
 #   another_url: https://github.com/polyidot/Arxiv-Quantum
 
 # Theme settings
-remote_theme: pages-themes/primer@v0.2.5
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Plugins
 plugins:

@@ -1,15 +1,14 @@
 ## Updated on 2025.08.10
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#bell-nonlocality>Bell nonlocality</a></li>
-    <li><a href=#quantum-causal-model>Quantum causal model</a></li>
-    <li><a href=#quantum-contextuality>Quantum contextuality</a></li>
-    <li><a href=#quantum-steering>Quantum steering</a></li>
-    <li><a href=#resource-theory>Resource theory</a></li>
-    <li><a href=#quantum-chaos-and-information-scrambling>Quantum chaos and information scrambling</a></li>
-    <li><a href=#quantum-error-correction-code>Quantum error-correction code</a></li>
+    <li><a href=#Bell-nonlocality>Bell nonlocality</a></li>
+    <li><a href=#Quantum-causal-model>Quantum causal model</a></li>
+    <li><a href=#Quantum-contextuality>Quantum contextuality</a></li>
+    <li><a href=#Quantum-steering>Quantum steering</a></li>
+    <li><a href=#Resource-theory>Resource theory</a></li>
+    <li><a href=#Quantum-chaos-and-information-scrambling>Quantum chaos and information scrambling</a></li>
+    <li><a href=#Quantum-error-correction-code>Quantum error-correction code</a></li>
   </ol>
 </details>
 
@@ -17,10 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-21**|**Colliders are Testing neither Locality via Bell's Inequality nor Entanglement versus Non-Entanglement**|Steven A. Abel, Herbi K. Dreiner, Rhitaja Sengupta, Lorenzo Ubaldi|[2507.15949](http://arxiv.org/abs/2507.15949)|null|
-|**2025-07-21**|**A critical appraisal of tests of locality and of entanglement versus non-entanglement at colliders**|Philip Bechtle, Cedric Breuning, Herbi K. Dreiner, Claude Duhr|[2507.15947](http://arxiv.org/abs/2507.15947)|null|
-|**2025-07-21**|**Spin correlations and Bell nonlocality in $Λ\barΛ$ pair production from $e^+e^-$ collisions with a thrust cut**|Shi-Jia Lin, Ming-Jun Liu, Ding Yu Shao, Shu-Yi Wei|[2507.15387](http://arxiv.org/abs/2507.15387)|null|
-|**2025-07-20**|**Taming Entanglement**|Huw Price, Ken Wharton|[2507.15128](http://arxiv.org/abs/2507.15128)|null|
+|**2025-08-06**|**Experimental device-independent certification of indefinite causal order**|Dengke Qu et.al.|[2508.04643](http://arxiv.org/abs/2508.04643)|null|
+|**2025-08-05**|**Entanglement Detection Beyond Local Bound with Coarse Calibrated measurements**|Liang-Liang Sun et.al.|[2508.03525](http://arxiv.org/abs/2508.03525)|null|
+|**2025-08-04**|**A fluid--peridynamic structure model of deformation and damage of microchannels**|Ziyu Wang et.al.|[2508.02875](http://arxiv.org/abs/2508.02875)|null|
+|**2025-07-30**|**Molecular spin qudits to test generalized Bell inequalities**|S. Macedonio et.al.|[2507.22768](http://arxiv.org/abs/2507.22768)|null|
+|**2025-07-31**|**Certification of nonobjective information by Popescu-Rohrlich box fraction and distinguishing quantum theory**|Chellasamy Jebarathinam et.al.|[2507.21051](http://arxiv.org/abs/2507.21051)|null|
+|**2025-07-28**|**When More Light Means Less Quantum: Modeling Bell Inequality Degradation from Accidental Counts**|Piotr Mironowicz et.al.|[2507.20596](http://arxiv.org/abs/2507.20596)|null|
+|**2025-07-21**|**Colliders are Testing neither Locality via Bell's Inequality nor Entanglement versus Non-Entanglement**|Steven A. Abel et.al.|[2507.15949](http://arxiv.org/abs/2507.15949)|null|
+|**2025-07-31**|**A critical appraisal of tests of locality and of entanglement versus non-entanglement at colliders**|Philip Bechtle et.al.|[2507.15947](http://arxiv.org/abs/2507.15947)|null|
+|**2025-07-21**|**Spin correlations and Bell nonlocality in $Λ\barΛ$ pair production from $e^+e^-$ collisions with a thrust cut**|Shi-Jia Lin et.al.|[2507.15387](http://arxiv.org/abs/2507.15387)|null|
+|**2025-08-01**|**Taming Entanglement**|Huw Price et.al.|[2507.15128](http://arxiv.org/abs/2507.15128)|null|
 |**2025-07-18**|**Historical origins of quantum entanglement in particle physics**|Yu Shi|[2507.13582](http://arxiv.org/abs/2507.13582)|null|
 |**2025-07-01**|**The EPR Paradox of Quantum Mechanics in the Light of Four Unpublished Letters between A. Einstein and the Mathematician J. L. B. Cooper**|P. L. Butzer, D. E. Edmunds, G. Roepstorff, G. Schmeisser, R. L. Stens|[2507.11736](http://arxiv.org/abs/2507.11736)|null|
 |**2025-07-14**|**Facets of Non-locality and Advantage in Entanglement-Assisted Classical Communication Tasks**|Sumit Rout, Anubhav Chaturvedi, Some Sankar Bhattacharya, Paweł Horodecki|[2507.10830](http://arxiv.org/abs/2507.10830)|null|
@@ -466,19 +471,22 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
 
 ## Quantum causal model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-17**|**Theory-informed neural networks for particle physics**|Barry M. Dillon, Michael Spannowsky|[2507.13447](http://arxiv.org/abs/2507.13447)|null|
-|**2025-07-10**|**Correlations and quantum circuits with dynamical causal order**|Raphaël Mothe, Alastair A. Abbott, Cyril Branciard|[2507.07992](http://arxiv.org/abs/2507.07992)|null|
-|**2025-07-07**|**An order-theoretic circuit syntax and characterisation of the concept lattice**|Tein van der Lugt|[2507.05428](http://arxiv.org/abs/2507.05428)|null|
-|**2025-06-23**|**Unilateral determination of causal order in a cyclic process**|Ilyass Mejdoub, Augustin Vanrietvelde|[2506.18540](http://arxiv.org/abs/2506.18540)|null|
-|**2025-06-23**|**Multi-user Downlink with Reconfigurable Intelligent Metasurface Antennas (RIMSA) Array**|Xuejian Wei, Hui-Ming Wang|[2506.18418](http://arxiv.org/abs/2506.18418)|null|
-|**2025-06-23**|**Accelerating multijet-merged event generation with neural network matrix element surrogates**|Tim Herrmann, Timo Janßen, Mathis Schenker, Steffen Schumann, Frank Siegert|[2506.06203](http://arxiv.org/abs/2506.06203)|null|
-|**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang, Akshay Gaikwad, Ilya Moskalenko, Anuj Aggarwal, Tahereh Abad, Marko Kuzmanovic, Yu-Han Chang, Ognjen Stanisavljevic, Emil Hogedal, Christopher Warren, Irshad Ahmad, Janka Biznárová, Amr Osman, Mamta Dahiya, Marcus Rommel, Anita Fadavi Rousari, Andreas Nylander, Liangyu Chen, Jonas Bylander, Gheorghe Sorin Paraoanu, Anton Frisk Kockum, Giovanna Tancredi|[2505.07725](http://arxiv.org/abs/2505.07725)|**[link](https://github.com/huangtangy/em-qpt)**|
+|**2025-08-02**|**Theory of quantum comb enhanced interferometry**|Haowei Shi et.al.|[2508.01513](http://arxiv.org/abs/2508.01513)|null|
+|**2025-08-01**|**Can the latent signatures of quantum superposition be detected through correlation harvesting?**|Yu Tang et.al.|[2508.00292](http://arxiv.org/abs/2508.00292)|null|
+|**2025-07-25**|**Probing Quantum States Over Spacetime Through Interferometry**|Seok Hyung Lie et.al.|[2507.19258](http://arxiv.org/abs/2507.19258)|null|
+|**2025-07-17**|**Theory-informed neural networks for particle physics**|Barry M. Dillon et.al.|[2507.13447](http://arxiv.org/abs/2507.13447)|null|
+|**2025-07-10**|**Correlations and quantum circuits with dynamical causal order**|Raphaël Mothe et.al.|[2507.07992](http://arxiv.org/abs/2507.07992)|null|
+|**2025-07-07**|**An order-theoretic circuit syntax and characterisation of the concept lattice**|Tein van der Lugt et.al.|[2507.05428](http://arxiv.org/abs/2507.05428)|null|
+|**2025-06-23**|**Unilateral determination of causal order in a cyclic process**|Ilyass Mejdoub et.al.|[2506.18540](http://arxiv.org/abs/2506.18540)|null|
+|**2025-06-23**|**Multi-user Downlink with Reconfigurable Intelligent Metasurface Antennas (RIMSA) Array**|Xuejian Wei et.al.|[2506.18418](http://arxiv.org/abs/2506.18418)|null|
+|**2025-06-23**|**Accelerating multijet-merged event generation with neural network matrix element surrogates**|Tim Herrmann et.al.|[2506.06203](http://arxiv.org/abs/2506.06203)|null|
+|**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang et.al.|[2505.07725](http://arxiv.org/abs/2505.07725)|null|
 |**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng, Chen-Yeh Wei, Huan-Yu Ku, Shin-Liang Chen, Yueh-Nan Chen, Chih-Sung Chuu|[2505.01379](http://arxiv.org/abs/2505.01379)|null|
 |**2025-03-31**|**Quantum causality in kappa Minkoswki**|Valentine Maris|[2503.24192](http://arxiv.org/abs/2503.24192)|null|
 |**2025-03-12**|**Higher-Order Quantum Operations**|Philip Taranto, Simon Milz, Mio Murao, Marco Túlio Quintino, Kavan Modi|[2503.09693](http://arxiv.org/abs/2503.09693)|null|
@@ -577,22 +585,22 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-22**|**Simulation of quantum contextuality with invasive-measurement maps**|Andrea Navoni, Marco G. Genoni, Andrea Smirne|[2507.16942](http://arxiv.org/abs/2507.16942)|null|
-|**2025-07-16**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz|[2507.12447](http://arxiv.org/abs/2507.12447)|null|
-|**2025-07-03**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan, Pengcheng Shi, Zhenjun Zhao, Kaixin Wang, Kuang Cao, Ji Wu, Jiayuan Li|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
-|**2025-06-23**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor, Sanjaye Ramgoolam|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
-|**2025-06-20**|**Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces**|Ronno Das, Brian Lehmann, Sho Tanimoto, Philip Tosteson|[2506.17071](http://arxiv.org/abs/2506.17071)|null|
-|**2025-06-20**|**The logical structure of contextuality and nonclassicality**|Songyi Liu, Yongjun Wang, Baoshan Wang, Chang He, Jincheng Wang|[2506.15071](http://arxiv.org/abs/2506.15071)|null|
-|**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
-|**2025-06-13**|**Quantum Resource Complementarity in Finite-Dimensional Systems**|Justin K. Edmondson|[2506.11741](http://arxiv.org/abs/2506.11741)|null|
-|**2025-06-10**|**The Quantum Paldus Transform: Efficient Circuits with Applications**|Jędrzej Burkat, Nathan Fitzpatrick|[2506.09151](http://arxiv.org/abs/2506.09151)|null|
-|**2025-06-09**|**A non-local exchange potential for electronic structure calculations**|G. Schiwietz, P. L. Grande|[2506.08286](http://arxiv.org/abs/2506.08286)|null|
+|**2025-07-22**|**Simulation of quantum contextuality with invasive-measurement maps**|Andrea Navoni et.al.|[2507.16942](http://arxiv.org/abs/2507.16942)|null|
+|**2025-07-16**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz et.al.|[2507.12447](http://arxiv.org/abs/2507.12447)|null|
+|**2025-07-30**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
+|**2025-08-05**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor et.al.|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
+|**2025-06-20**|**Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces**|Ronno Das et.al.|[2506.17071](http://arxiv.org/abs/2506.17071)|null|
+|**2025-06-20**|**The logical structure of contextuality and nonclassicality**|Songyi Liu et.al.|[2506.15071](http://arxiv.org/abs/2506.15071)|null|
+|**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou et.al.|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
+|**2025-06-13**|**Quantum Resource Complementarity in Finite-Dimensional Systems**|Justin K. Edmondson et.al.|[2506.11741](http://arxiv.org/abs/2506.11741)|null|
+|**2025-06-10**|**The Quantum Paldus Transform: Efficient Circuits with Applications**|Jędrzej Burkat et.al.|[2506.09151](http://arxiv.org/abs/2506.09151)|null|
+|**2025-06-09**|**A non-local exchange potential for electronic structure calculations**|G. Schiwietz et.al.|[2506.08286](http://arxiv.org/abs/2506.08286)|null|
 |**2025-06-07**|**Memory cost of quantum contextuality with Pauli observables**|Stefan Trandafir, Colm Kelleher, Adán Cabello|[2506.06869](http://arxiv.org/abs/2506.06869)|null|
 |**2025-05-31**|**An Introduction to Algebraic Combinatorics**|Darij Grinberg|[2506.00738](http://arxiv.org/abs/2506.00738)|null|
 |**2025-05-29**|**Moments of the shifted prime divisor function**|Mikhail R. Gabdullin|[2505.24050](http://arxiv.org/abs/2505.24050)|null|
@@ -743,20 +751,22 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
 
 ## Quantum steering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-13**|**Barnett effect boosted nonreciprocal entanglement and EPR-steering in magnomechanics in the presence of coherent feedback loop**|Noura Chabar, Mohamed Amazioug|[2507.09590](http://arxiv.org/abs/2507.09590)|null|
-|**2025-07-10**|**Strong squeezing and perfect one-way EPR steering in electro-optomechanical system**|Qing-Min Zeng, A-Peng Liu, Qi Guo|[2507.07697](http://arxiv.org/abs/2507.07697)|null|
-|**2025-07-01**|**All entangled states can be certified by a violation of noncontextuality inequalities**|Yujie Zhang, Jonah Spodek, David Schmid, Carter Reid, Liam J. Morrison, Thomas Jennewein, Kevin J. Resch, Robert W. Spekkens|[2507.01122](http://arxiv.org/abs/2507.01122)|null|
-|**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do, Binh X. Nguyen, Quang D. Tran, Erman Tjiputra, Te-Chuan Chiu, Anh Nguyen|[2506.23523](http://arxiv.org/abs/2506.23523)|null|
-|**2025-06-29**|**Detecting and quantifying non-Markovianity via quantum direct cause**|Shrikant Utagi, Prateek Chawla|[2506.23267](http://arxiv.org/abs/2506.23267)|null|
-|**2025-06-23**|**Can boundary configuration be tuned to optimize directional quantum steering harvesting?**|Xiao-Li Huang, Xiao-Ying Jiang, Yu-Xuan Wang, Si-Yu Liu, Zejun Wang, Shu-Min Wu|[2506.18734](http://arxiv.org/abs/2506.18734)|null|
-|**2025-06-12**|**Certification of quantum networks using the generalised Choi isomorphism**|Sophie Egelhaaf, Roope Uola|[2506.10725](http://arxiv.org/abs/2506.10725)|null|
-|**2025-06-12**|**Saturable nonlinearity induced quantum correlations in optomechanics**|D. R. Kenigoule Massembele, E. Kongkui Berinyuy, P. Djorwe, A. -H. Abdel-Aty, M. R. Eid, R. Altuijri, S. G. Nana Engo|[2506.10709](http://arxiv.org/abs/2506.10709)|null|
+|**2025-07-28**|**Witness the High-Dimensional Quantum Steering via Majorization Lattice**|Ma-Cheng Yang et.al.|[2507.20950](http://arxiv.org/abs/2507.20950)|null|
+|**2025-07-24**|**Secure One-Sided Device-Independent Quantum Key Distribution Under Collective Attacks with Enhanced Robustness**|Pritam Roy et.al.|[2507.18744](http://arxiv.org/abs/2507.18744)|null|
+|**2025-07-13**|**Barnett effect boosted nonreciprocal entanglement and EPR-steering in magnomechanics in the presence of coherent feedback loop**|Noura Chabar et.al.|[2507.09590](http://arxiv.org/abs/2507.09590)|null|
+|**2025-07-10**|**Strong squeezing and perfect one-way EPR steering in electro-optomechanical system**|Qing-Min Zeng et.al.|[2507.07697](http://arxiv.org/abs/2507.07697)|null|
+|**2025-07-23**|**All entangled states can be certified by a violation of noncontextuality inequalities**|Yujie Zhang et.al.|[2507.01122](http://arxiv.org/abs/2507.01122)|null|
+|**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do et.al.|[2506.23523](http://arxiv.org/abs/2506.23523)|null|
+|**2025-06-29**|**Detecting and quantifying non-Markovianity via quantum direct cause**|Shrikant Utagi et.al.|[2506.23267](http://arxiv.org/abs/2506.23267)|null|
+|**2025-06-23**|**Can boundary configuration be tuned to optimize directional quantum steering harvesting?**|Xiao-Li Huang et.al.|[2506.18734](http://arxiv.org/abs/2506.18734)|null|
+|**2025-06-12**|**Certification of quantum networks using the generalised Choi isomorphism**|Sophie Egelhaaf et.al.|[2506.10725](http://arxiv.org/abs/2506.10725)|null|
+|**2025-06-12**|**Saturable nonlinearity induced quantum correlations in optomechanics**|D. R. Kenigoule Massembele et.al.|[2506.10709](http://arxiv.org/abs/2506.10709)|null|
 |**2025-06-08**|**Quantum correlations in molecular cavity optomechanics**|E. Kongkui Berinyuy, D. R. Kenigoule Massembele, P. Djorwe, R. Altuijri, M. R. Eid, A. -H. Abdel-Aty, S. G. Nana Engo|[2506.07277](http://arxiv.org/abs/2506.07277)|null|
 |**2025-06-06**|**Effect of Weak Measurement Reversal on Quantum Correlations in a Correlated Amplitude Damping Channel, with a Neural Network Perspective**|Venkat Abhignan, Bidyut Bikash Boruah, R. Srikanth, Ashutosh Singh|[2506.05642](http://arxiv.org/abs/2506.05642)|null|
 |**2025-06-03**|**Measurement incompatibility and quantum steering via linear programming**|Lucas E. A. Porto, Sébastien Designolle, Sebastian Pokutta, Marco Túlio Quintino|[2506.03045](http://arxiv.org/abs/2506.03045)|null|
@@ -880,14 +890,22 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-23**|**Layout optimization for the LUXE-NPOD experiment**|Melissa Almanza Soto, Oleksandr Borysov, Torben Ferber, Shan Huang, Adrián Irles, Markus Klute, Jesús P. Márquez Hernández, Josep Pérez Segura, Raquel Quishpe, Yotam Soreq, Noam Tal Hod, Nicolò Trevisani|[2507.17716](http://arxiv.org/abs/2507.17716)|null|
-|**2025-07-23**|**Dynamic Scoring with Enhanced Semantics for Training-Free Human-Object Interaction Detection**|Francesco Tonini, Lorenzo Vaquero, Alessandro Conti, Cigdem Beyan, Elisa Ricci|[2507.17456](http://arxiv.org/abs/2507.17456)|null|
+|**2025-08-07**|**Optimal Planning for Multi-Robot Simultaneous Area and Line Coverage Using Hierarchical Cyclic Merging Regulation**|Tianyuan Zheng et.al.|[2508.04981](http://arxiv.org/abs/2508.04981)|null|
+|**2025-08-01**|**Persistent Quantum Memory in Iterated Lifts**|Hartosh Singh Bal et.al.|[2508.00562](http://arxiv.org/abs/2508.00562)|null|
+|**2025-07-31**|**Universal tradeoff relations between resource cost and irreversibility of channels: General-resource Wigner-Araki-Yanase theorems and beyond**|Hiroyasu Tajima et.al.|[2507.23760](http://arxiv.org/abs/2507.23760)|null|
+|**2025-07-31**|**Multi-wavelength Study of HESS J0632+057: New Insights into Pulsar-Disk Interaction**|Jaegeun Park et.al.|[2507.23304](http://arxiv.org/abs/2507.23304)|null|
+|**2025-07-30**|**Majorization theory for quasiprobabilities**|Twesh Upadhyaya et.al.|[2507.22986](http://arxiv.org/abs/2507.22986)|null|
+|**2025-07-30**|**Multipartite correlation measures and framework for multipartite quantum resources theory**|Taotao Yan et.al.|[2507.22348](http://arxiv.org/abs/2507.22348)|null|
+|**2025-07-28**|**A Variational Quantum Algorithm for Entanglement Quantification**|Lucas Friedrich et.al.|[2507.20813](http://arxiv.org/abs/2507.20813)|null|
+|**2025-07-25**|**Wave packets, "negative times" and the elephant in the room**|D. Sokolovski et.al.|[2507.19105](http://arxiv.org/abs/2507.19105)|null|
+|**2025-07-23**|**Layout optimization for the LUXE-NPOD experiment**|Melissa Almanza Soto et.al.|[2507.17716](http://arxiv.org/abs/2507.17716)|null|
+|**2025-07-23**|**Dynamic Scoring with Enhanced Semantics for Training-Free Human-Object Interaction Detection**|Francesco Tonini et.al.|[2507.17456](http://arxiv.org/abs/2507.17456)|null|
 |**2025-07-22**|**An Energy-Autonomous and Battery-Free Resistive Sensor using a Time-Domain to Digital Conversion with Bluetooth Low Energy connectivity**|Mario Costanza, Antonino Pagano, Samuel Margueron, Ilenia Tinnirello, Roberto La Rosa|[2507.17011](http://arxiv.org/abs/2507.17011)|null|
 |**2025-07-15**|**Analyzing the free states of one quantum resource theory as resource states of another**|Andrew E. Deneris, Paolo Braccia, Pablo Bermejo, N. L. Diaz, Antonio A. Mele, M. Cerezo|[2507.11793](http://arxiv.org/abs/2507.11793)|null|
 |**2025-07-14**|**A unified approach to quantum resource theories and a new class of free operations**|N. L. Diaz, Antonio Anna Mele, Pablo Bermejo, Paolo Braccia, Andrew E. Deneris, Martin Larocca, M. Cerezo|[2507.10851](http://arxiv.org/abs/2507.10851)|null|
@@ -1126,12 +1144,22 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-07**|**Krylov exponents and power spectra for maximal quantum chaos: an EFT approach**|Saskia Demulder et.al.|[2508.05444](http://arxiv.org/abs/2508.05444)|null|
+|**2025-08-06**|**Unstable periodic orbits galore and quantum hyperscarring in highly frustrated magnets**|Andrea Pizzi et.al.|[2508.04763](http://arxiv.org/abs/2508.04763)|null|
+|**2025-08-04**|**Signatures of quantum chaos and complexity in the Ising model on random graphs**|GJ Sreejith et.al.|[2508.02819](http://arxiv.org/abs/2508.02819)|null|
+|**2025-07-31**|**Entanglement spreading and emergent locality in Brownian SYK chains**|Onkar Parrikar et.al.|[2508.00060](http://arxiv.org/abs/2508.00060)|null|
+|**2025-07-31**|**Free Independence and Unitary Design from Random Matrix Product Unitaries**|Neil Dowling et.al.|[2508.00051](http://arxiv.org/abs/2508.00051)|null|
+|**2025-07-31**|**Universal Time Evolution of Holographic and Quantum Complexity**|Masamichi Miyaji et.al.|[2507.23667](http://arxiv.org/abs/2507.23667)|null|
+|**2025-07-30**|**Non-Hermitian Quantum Many-Body Scar Phase**|Keita Omiya et.al.|[2507.22583](http://arxiv.org/abs/2507.22583)|null|
+|**2025-07-29**|**Complexity in multiqubit and many-body systems**|Imre Varga et.al.|[2507.22246](http://arxiv.org/abs/2507.22246)|null|
+|**2025-07-29**|**Sampling (noisy) quantum circuits through randomized rounding**|Victor Martinez et.al.|[2507.21883](http://arxiv.org/abs/2507.21883)|null|
+|**2025-07-25**|**Approximate k-uniform states: definition, construction and applications**|Kaiyi Guo et.al.|[2507.19018](http://arxiv.org/abs/2507.19018)|null|
 |**2025-07-21**|**Non-Linear Dynamics and Critical Phenomena in the Aretakis Instability of Extremal Black p-Branes**|Behnam Pourhassan|[2507.16023](http://arxiv.org/abs/2507.16023)|null|
 |**2025-07-18**|**Quantum chaos and semiclassical behavior in mushroom billiards I: Spectral statistics**|Matic Orel, Črt Lozej, Marko Robnik, Hua Yan|[2507.13823](http://arxiv.org/abs/2507.13823)|null|
 |**2025-07-17**|**Krylov complexity, path integrals, and instantons**|Cameron Beetar, Eric L Graef, Jeff Murugan, Horatiu Nastase, Hendrik J R Van Zyl|[2507.13226](http://arxiv.org/abs/2507.13226)|null|
@@ -1660,12 +1688,22 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
 
 ## Quantum error-correction code
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-07**|**Logical accreditation: a framework for efficient certification of fault-tolerant computations**|James Mills et.al.|[2508.05523](http://arxiv.org/abs/2508.05523)|null|
+|**2025-08-07**|**Explicit Instances of Quantum Tanner Codes**|Rebecca Katharina Radebold et.al.|[2508.05095](http://arxiv.org/abs/2508.05095)|null|
+|**2025-08-07**|**Minimum-Weight Parity Factor Decoder for Quantum Error Correction**|Yue Wu et.al.|[2508.04969](http://arxiv.org/abs/2508.04969)|null|
+|**2025-08-07**|**Taming coherent noise with teleportation**|Kathleen Chang et.al.|[2508.04947](http://arxiv.org/abs/2508.04947)|null|
+|**2025-08-06**|**Fault-Tolerant Universal Quantum Computing in the Presence of Anisotropic Noise**|Yang-Yang Xie et.al.|[2508.04892](http://arxiv.org/abs/2508.04892)|null|
+|**2025-08-06**|**Automorphism gadgets in homological product codes**|Noah Berthusen et.al.|[2508.04794](http://arxiv.org/abs/2508.04794)|null|
+|**2025-08-06**|**Excising dead components in the surface code using minimally invasive alterations: A performance study**|Ryan V. Mishmash et.al.|[2508.04786](http://arxiv.org/abs/2508.04786)|null|
+|**2025-08-06**|**Absolutely maximally entangled pure states of multipartite quantum systems**|Grzegorz Rajchel-Mieldzioć et.al.|[2508.04777](http://arxiv.org/abs/2508.04777)|null|
+|**2025-08-06**|**Power and Limitations of Linear Programming Decoder for Quantum LDPC Codes**|Shouzhen Gu et.al.|[2508.04769](http://arxiv.org/abs/2508.04769)|null|
+|**2025-08-05**|**Moveless: Minimizing Overhead on QCCDs via Versatile Execution and Low Excess Shuttling**|Sahil Khan et.al.|[2508.03914](http://arxiv.org/abs/2508.03914)|null|
 |**2025-07-23**|**CSS- $T$ codes over Binary Extension Fields and their Physical Foundations**|Jasper J. Postema, F. Conca, A. Ravagnani|[2507.17611](http://arxiv.org/abs/2507.17611)|null|
 |**2025-07-23**|**Construction of Self-Orthogonal Quasi-Cyclic Codes and Their Application to Quantum Error-Correcting Codes**|Mengying Gao, Yuhua Sun, Tongjiang Yan, Chun'e Zhao|[2507.17319](http://arxiv.org/abs/2507.17319)|null|
 |**2025-07-22**|**No-go theorems for logical gates on product quantum codes**|Xiaozhen Fu, Han Zheng, Zimu Li, Zi-Wen Liu|[2507.16797](http://arxiv.org/abs/2507.16797)|null|
@@ -2988,5 +3026,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
 

@@ -1,7 +1,7 @@
 # Site settings
 title: Quantum Information Arxiv Daily
 description: Automatically updated collection of Quantum Information Theory papers from arXiv.
-show_downloads: false  # use lowercase for YAML booleans
+show_downloads: false
 
 # Repository links (optional)
 # github:
@@ -16,3 +16,12 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+
+# Defaults to apply front matter to specific pages
+defaults:
+  - scope:
+      path: ""       # empty string means the root (all pages)
+      type: "pages"  # applies to pages (not posts)
+    values:
+      layout: default
+      title: Quantum Information Arxiv Daily

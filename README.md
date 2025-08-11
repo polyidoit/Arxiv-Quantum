@@ -1,4 +1,4 @@
-## Updated on 2025.08.10
+## Updated on 2025.08.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -471,7 +471,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250811>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -585,14 +585,14 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250811>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-22**|**Simulation of quantum contextuality with invasive-measurement maps**|Andrea Navoni et.al.|[2507.16942](http://arxiv.org/abs/2507.16942)|null|
-|**2025-07-16**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz et.al.|[2507.12447](http://arxiv.org/abs/2507.12447)|null|
+|**2025-08-08**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz et.al.|[2507.12447](http://arxiv.org/abs/2507.12447)|null|
 |**2025-07-30**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
 |**2025-08-05**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor et.al.|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
 |**2025-06-20**|**Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces**|Ronno Das et.al.|[2506.17071](http://arxiv.org/abs/2506.17071)|null|
@@ -751,7 +751,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250811>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -890,7 +890,7 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250811>back to top</a>)</p>
 
 ## Resource theory
 
@@ -1144,7 +1144,7 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250811>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -1688,7 +1688,7 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250811>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -3026,5 +3026,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#Updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250811>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.10
+## Updated on 2025.08.11
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -579,7 +579,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-22**|**Simulation of quantum contextuality with invasive-measurement maps**|Andrea Navoni et.al.|[2507.16942](http://arxiv.org/abs/2507.16942)|null|
-|**2025-07-16**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz et.al.|[2507.12447](http://arxiv.org/abs/2507.12447)|null|
+|**2025-08-08**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz et.al.|[2507.12447](http://arxiv.org/abs/2507.12447)|null|
 |**2025-07-30**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
 |**2025-08-05**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor et.al.|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
 |**2025-06-20**|**Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces**|Ronno Das et.al.|[2506.17071](http://arxiv.org/abs/2506.17071)|null|

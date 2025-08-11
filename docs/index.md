@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-08**|**Presentist Fragmentalism and Quantum Mechanics**|Paul Merriam et.al.|[2508.06006](http://arxiv.org/abs/2508.06006)|null|
 |**2025-08-06**|**Experimental device-independent certification of indefinite causal order**|Dengke Qu et.al.|[2508.04643](http://arxiv.org/abs/2508.04643)|null|
 |**2025-08-05**|**Entanglement Detection Beyond Local Bound with Coarse Calibrated measurements**|Liang-Liang Sun et.al.|[2508.03525](http://arxiv.org/abs/2508.03525)|null|
 |**2025-08-04**|**A fluid--peridynamic structure model of deformation and damage of microchannels**|Ziyu Wang et.al.|[2508.02875](http://arxiv.org/abs/2508.02875)|null|
@@ -1673,6 +1674,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-08**|**Cavity-based optical switching via phase modulation in warm rubidium vapor**|Georgia Booton et.al.|[2508.06255](http://arxiv.org/abs/2508.06255)|null|
+|**2025-08-08**|**Space and Time Cost of Continuous Rotations in Surface Codes**|Zhu Sun et.al.|[2508.06236](http://arxiv.org/abs/2508.06236)|null|
+|**2025-08-08**|**State-adaptive quantum error correction and fault-tolerant quantum computing**|D. -S. Wang et.al.|[2508.06011](http://arxiv.org/abs/2508.06011)|null|
+|**2025-08-07**|**ConiQ: Enabling Concatenated Quantum Error Correction on Neutral Atom Arrays**|Pengyu Liu et.al.|[2508.05779](http://arxiv.org/abs/2508.05779)|null|
 |**2025-08-07**|**Logical accreditation: a framework for efficient certification of fault-tolerant computations**|James Mills et.al.|[2508.05523](http://arxiv.org/abs/2508.05523)|null|
 |**2025-08-07**|**Explicit Instances of Quantum Tanner Codes**|Rebecca Katharina Radebold et.al.|[2508.05095](http://arxiv.org/abs/2508.05095)|null|
 |**2025-08-07**|**Minimum-Weight Parity Factor Decoder for Quantum Error Correction**|Yue Wu et.al.|[2508.04969](http://arxiv.org/abs/2508.04969)|null|

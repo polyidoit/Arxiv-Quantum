@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-09**|**Geometry-Controlled Freezing and Revival of Bell Nonlocality through Environmental Memory**|Mohamed Hatifi et.al.|[2508.07046](http://arxiv.org/abs/2508.07046)|null|
 |**2025-08-08**|**Presentist Fragmentalism and Quantum Mechanics**|Paul Merriam et.al.|[2508.06006](http://arxiv.org/abs/2508.06006)|null|
 |**2025-08-06**|**Experimental device-independent certification of indefinite causal order**|Dengke Qu et.al.|[2508.04643](http://arxiv.org/abs/2508.04643)|null|
 |**2025-08-05**|**Entanglement Detection Beyond Local Bound with Coarse Calibrated measurements**|Liang-Liang Sun et.al.|[2508.03525](http://arxiv.org/abs/2508.03525)|null|
@@ -592,6 +593,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-10**|**SUIT: Spatial-Spectral Union-Intersection Interaction Network for Hyperspectral Object Tracking**|Fengchao Xiong et.al.|[2508.07250](http://arxiv.org/abs/2508.07250)|null|
 |**2025-07-22**|**Simulation of quantum contextuality with invasive-measurement maps**|Andrea Navoni et.al.|[2507.16942](http://arxiv.org/abs/2507.16942)|null|
 |**2025-08-08**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz et.al.|[2507.12447](http://arxiv.org/abs/2507.12447)|null|
 |**2025-07-30**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439](http://arxiv.org/abs/2507.01439)|null|
@@ -897,6 +899,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-10**|**Quanutm-State Texture as a Resource: Measures and Nonclassical Interdependencies**|Yuntao Cui et.al.|[2508.07481](http://arxiv.org/abs/2508.07481)|null|
+|**2025-08-09**|**An RBC-MsUQ Framework for Red Blood Cell Morpho-Mechanics**|Shuo Wang et.al.|[2508.06852](http://arxiv.org/abs/2508.06852)|null|
 |**2025-08-07**|**Optimal Planning for Multi-Robot Simultaneous Area and Line Coverage Using Hierarchical Cyclic Merging Regulation**|Tianyuan Zheng et.al.|[2508.04981](http://arxiv.org/abs/2508.04981)|null|
 |**2025-08-01**|**Persistent Quantum Memory in Iterated Lifts**|Hartosh Singh Bal et.al.|[2508.00562](http://arxiv.org/abs/2508.00562)|null|
 |**2025-07-31**|**Universal tradeoff relations between resource cost and irreversibility of channels: General-resource Wigner-Araki-Yanase theorems and beyond**|Hiroyasu Tajima et.al.|[2507.23760](http://arxiv.org/abs/2507.23760)|null|
@@ -1151,6 +1155,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-11**|**Average Contraction Coefficients of Quantum Channels**|Ruben Ibarrondo et.al.|[2508.08214](http://arxiv.org/abs/2508.08214)|null|
+|**2025-08-08**|**Learning to stabilize nonequilibrium phases of matter with active feedback using partial information**|Giovanni Cemin et.al.|[2508.06612](http://arxiv.org/abs/2508.06612)|null|
 |**2025-08-07**|**Krylov exponents and power spectra for maximal quantum chaos: an EFT approach**|Saskia Demulder et.al.|[2508.05444](http://arxiv.org/abs/2508.05444)|null|
 |**2025-08-06**|**Unstable periodic orbits galore and quantum hyperscarring in highly frustrated magnets**|Andrea Pizzi et.al.|[2508.04763](http://arxiv.org/abs/2508.04763)|null|
 |**2025-08-04**|**Signatures of quantum chaos and complexity in the Ising model on random graphs**|GJ Sreejith et.al.|[2508.02819](http://arxiv.org/abs/2508.02819)|null|
@@ -1695,7 +1701,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-08**|**Cavity-based optical switching via phase modulation in warm rubidium vapor**|Georgia Booton et.al.|[2508.06255](http://arxiv.org/abs/2508.06255)|null|
+|**2025-08-11**|**Composable Quantum Fault-Tolerance**|Zhiyang He et.al.|[2508.08246](http://arxiv.org/abs/2508.08246)|null|
+|**2025-08-11**|**Single-Shot Decoding and Fault-tolerant Gates with Trivariate Tricycle Codes**|Abraham Jacob et.al.|[2508.08191](http://arxiv.org/abs/2508.08191)|null|
+|**2025-08-11**|**Characterization of syndrome-dependent logical noise in detector regions**|Matthew Girling et.al.|[2508.08188](http://arxiv.org/abs/2508.08188)|null|
+|**2025-08-11**|**Handling fabrication defects in hex-grid surface codes**|Oscar Higgott et.al.|[2508.08116](http://arxiv.org/abs/2508.08116)|null|
+|**2025-08-11**|**Scheduling of syndrome measurements with a few ancillary qubits**|Shintaro Sato et.al.|[2508.07913](http://arxiv.org/abs/2508.07913)|null|
+|**2025-08-11**|**GPU-Accelerated Syndrome Decoding for Quantum LDPC Codes below the 63 $μ$ s Latency Threshold**|Oscar Ferraz et.al.|[2508.07879](http://arxiv.org/abs/2508.07879)|null|
+|**2025-08-11**|**Graded Quantum Codes: From Weighted Algebraic Geometry to Homological Chain Complexes**|Tony Shaska et.al.|[2508.07542](http://arxiv.org/abs/2508.07542)|null|
+|**2025-08-09**|**Highlight All the Phrases: Enhancing LLM Transparency through Visual Factuality Indicators**|Hyo Jin Do et.al.|[2508.06846](http://arxiv.org/abs/2508.06846)|null|
+|**2025-08-11**|**Cavity-based optical switching via phase modulation in warm rubidium vapor**|Georgia Booton et.al.|[2508.06255](http://arxiv.org/abs/2508.06255)|null|
 |**2025-08-08**|**Space and Time Cost of Continuous Rotations in Surface Codes**|Zhu Sun et.al.|[2508.06236](http://arxiv.org/abs/2508.06236)|null|
 |**2025-08-08**|**State-adaptive quantum error correction and fault-tolerant quantum computing**|D. -S. Wang et.al.|[2508.06011](http://arxiv.org/abs/2508.06011)|null|
 |**2025-08-07**|**ConiQ: Enabling Concatenated Quantum Error Correction on Neutral Atom Arrays**|Pengyu Liu et.al.|[2508.05779](http://arxiv.org/abs/2508.05779)|null|

@@ -899,6 +899,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-12**|**Instrument-based quantum resources: quantification, hierarchies and towards constructing resource theories**|Jatin Ghai et.al.|[2508.09134](http://arxiv.org/abs/2508.09134)|null|
 |**2025-08-10**|**Quanutm-State Texture as a Resource: Measures and Nonclassical Interdependencies**|Yuntao Cui et.al.|[2508.07481](http://arxiv.org/abs/2508.07481)|null|
 |**2025-08-09**|**An RBC-MsUQ Framework for Red Blood Cell Morpho-Mechanics**|Shuo Wang et.al.|[2508.06852](http://arxiv.org/abs/2508.06852)|null|
 |**2025-08-07**|**Optimal Planning for Multi-Robot Simultaneous Area and Line Coverage Using Hierarchical Cyclic Merging Regulation**|Tianyuan Zheng et.al.|[2508.04981](http://arxiv.org/abs/2508.04981)|null|
@@ -1701,6 +1702,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-12**|**Generalized Bicycle Codes with Low Connectivity: Minimum Distance Bounds and Hook Errors**|Reza Dastbasteh et.al.|[2508.09082](http://arxiv.org/abs/2508.09082)|null|
+|**2025-08-11**|**An Interactive Platform for Unified Assessment of Drug-Drug Interactions Using Descriptive and Pharmacokinetic Data**|Nadezhda Diadkina et.al.|[2508.08351](http://arxiv.org/abs/2508.08351)|null|
 |**2025-08-11**|**Composable Quantum Fault-Tolerance**|Zhiyang He et.al.|[2508.08246](http://arxiv.org/abs/2508.08246)|null|
 |**2025-08-11**|**Single-Shot Decoding and Fault-tolerant Gates with Trivariate Tricycle Codes**|Abraham Jacob et.al.|[2508.08191](http://arxiv.org/abs/2508.08191)|null|
 |**2025-08-11**|**Characterization of syndrome-dependent logical noise in detector regions**|Matthew Girling et.al.|[2508.08188](http://arxiv.org/abs/2508.08188)|null|

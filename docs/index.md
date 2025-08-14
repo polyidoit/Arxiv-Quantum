@@ -1137,6 +1137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-13**|**Quantum recurrences and the arithmetic of Floquet dynamics**|Amit Anand et.al.|[2508.09933](http://arxiv.org/abs/2508.09933)|null|
 |**2025-08-11**|**Average Contraction Coefficients of Quantum Channels**|Ruben Ibarrondo et.al.|[2508.08214](http://arxiv.org/abs/2508.08214)|null|
 |**2025-08-08**|**Learning to stabilize nonequilibrium phases of matter with active feedback using partial information**|Giovanni Cemin et.al.|[2508.06612](http://arxiv.org/abs/2508.06612)|null|
 |**2025-08-07**|**Krylov exponents and power spectra for maximal quantum chaos: an EFT approach**|Saskia Demulder et.al.|[2508.05444](http://arxiv.org/abs/2508.05444)|null|
@@ -1681,6 +1682,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-13**|**Improving quantum communication rates with permutation-invariant codes**|Sujeet Bhalerao et.al.|[2508.09978](http://arxiv.org/abs/2508.09978)|null|
+|**2025-08-13**|**Fault tolerant Operations in Majorana-based Quantum Codes: Gates, Measurements and High Rate Constructions**|Maryam Mudassar et.al.|[2508.09928](http://arxiv.org/abs/2508.09928)|null|
 |**2025-08-12**|**Generalized Bicycle Codes with Low Connectivity: Minimum Distance Bounds and Hook Errors**|Reza Dastbasteh et.al.|[2508.09082](http://arxiv.org/abs/2508.09082)|null|
 |**2025-08-11**|**An Interactive Platform for Unified Assessment of Drug-Drug Interactions Using Descriptive and Pharmacokinetic Data**|Nadezhda Diadkina et.al.|[2508.08351](http://arxiv.org/abs/2508.08351)|null|
 |**2025-08-11**|**Composable Quantum Fault-Tolerance**|Zhiyang He et.al.|[2508.08246](http://arxiv.org/abs/2508.08246)|null|

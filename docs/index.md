@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.14
+## Updated on 2025.08.15
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1686,7 +1686,7 @@ layout: default
 |**2025-08-13**|**Fault tolerant Operations in Majorana-based Quantum Codes: Gates, Measurements and High Rate Constructions**|Maryam Mudassar et.al.|[2508.09928](http://arxiv.org/abs/2508.09928)|null|
 |**2025-08-12**|**Generalized Bicycle Codes with Low Connectivity: Minimum Distance Bounds and Hook Errors**|Reza Dastbasteh et.al.|[2508.09082](http://arxiv.org/abs/2508.09082)|null|
 |**2025-08-11**|**An Interactive Platform for Unified Assessment of Drug-Drug Interactions Using Descriptive and Pharmacokinetic Data**|Nadezhda Diadkina et.al.|[2508.08351](http://arxiv.org/abs/2508.08351)|null|
-|**2025-08-11**|**Composable Quantum Fault-Tolerance**|Zhiyang He et.al.|[2508.08246](http://arxiv.org/abs/2508.08246)|null|
+|**2025-08-14**|**Composable Quantum Fault-Tolerance**|Zhiyang He et.al.|[2508.08246](http://arxiv.org/abs/2508.08246)|null|
 |**2025-08-11**|**Single-Shot Decoding and Fault-tolerant Gates with Trivariate Tricycle Codes**|Abraham Jacob et.al.|[2508.08191](http://arxiv.org/abs/2508.08191)|null|
 |**2025-08-11**|**Characterization of syndrome-dependent logical noise in detector regions**|Matthew Girling et.al.|[2508.08188](http://arxiv.org/abs/2508.08188)|null|
 |**2025-08-11**|**Handling fabrication defects in hex-grid surface codes**|Oscar Higgott et.al.|[2508.08116](http://arxiv.org/abs/2508.08116)|null|

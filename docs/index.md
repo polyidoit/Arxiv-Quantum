@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**Measurement Incompatibility Based In-equivalence Between Bell and Network Nonlocality**|Kaushiki Mukherjee et.al.|[2508.10670](http://arxiv.org/abs/2508.10670)|null|
+|**2025-08-14**|**Nonlocal Monte Carlo via Reinforcement Learning**|Dmitrii Dobrynin et.al.|[2508.10520](http://arxiv.org/abs/2508.10520)|null|
 |**2025-08-09**|**Geometry-Controlled Freezing and Revival of Bell Nonlocality through Environmental Memory**|Mohamed Hatifi et.al.|[2508.07046](http://arxiv.org/abs/2508.07046)|null|
 |**2025-08-08**|**Presentist Fragmentalism and Quantum Mechanics**|Paul Merriam et.al.|[2508.06006](http://arxiv.org/abs/2508.06006)|null|
 |**2025-08-06**|**Experimental device-independent certification of indefinite causal order**|Dengke Qu et.al.|[2508.04643](http://arxiv.org/abs/2508.04643)|null|
@@ -1137,6 +1139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**Random Permutation Circuits are Quantum Chaotic**|Bruno Bertini et.al.|[2508.10890](http://arxiv.org/abs/2508.10890)|null|
 |**2025-08-13**|**Quantum recurrences and the arithmetic of Floquet dynamics**|Amit Anand et.al.|[2508.09933](http://arxiv.org/abs/2508.09933)|null|
 |**2025-08-11**|**Average Contraction Coefficients of Quantum Channels**|Ruben Ibarrondo et.al.|[2508.08214](http://arxiv.org/abs/2508.08214)|null|
 |**2025-08-08**|**Learning to stabilize nonequilibrium phases of matter with active feedback using partial information**|Giovanni Cemin et.al.|[2508.06612](http://arxiv.org/abs/2508.06612)|null|
@@ -1682,6 +1685,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**Parity Cross-Resonance: A Multiqubit Gate**|Xuexin Xu et.al.|[2508.10807](http://arxiv.org/abs/2508.10807)|null|
+|**2025-08-14**|**Generating Compilers for Qubit Mapping and Routing**|Abtin Molavi et.al.|[2508.10781](http://arxiv.org/abs/2508.10781)|null|
+|**2025-08-13**|**A Comprehensive Comparison of the Wald, Wilson, and adjusted Wilson Confidence Intervals for Proportions**|Nabil Kahouadji et.al.|[2508.10223](http://arxiv.org/abs/2508.10223)|null|
 |**2025-08-13**|**Improving quantum communication rates with permutation-invariant codes**|Sujeet Bhalerao et.al.|[2508.09978](http://arxiv.org/abs/2508.09978)|null|
 |**2025-08-13**|**Fault tolerant Operations in Majorana-based Quantum Codes: Gates, Measurements and High Rate Constructions**|Maryam Mudassar et.al.|[2508.09928](http://arxiv.org/abs/2508.09928)|null|
 |**2025-08-12**|**Generalized Bicycle Codes with Low Connectivity: Minimum Distance Bounds and Hook Errors**|Reza Dastbasteh et.al.|[2508.09082](http://arxiv.org/abs/2508.09082)|null|

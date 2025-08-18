@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**Addressing Local Realism through Bell Tests at Colliders**|Matthew Low et.al.|[2508.10979](http://arxiv.org/abs/2508.10979)|null|
 |**2025-08-14**|**Measurement Incompatibility Based In-equivalence Between Bell and Network Nonlocality**|Kaushiki Mukherjee et.al.|[2508.10670](http://arxiv.org/abs/2508.10670)|null|
 |**2025-08-14**|**Nonlocal Monte Carlo via Reinforcement Learning**|Dmitrii Dobrynin et.al.|[2508.10520](http://arxiv.org/abs/2508.10520)|null|
 |**2025-08-09**|**Geometry-Controlled Freezing and Revival of Bell Nonlocality through Environmental Memory**|Mohamed Hatifi et.al.|[2508.07046](http://arxiv.org/abs/2508.07046)|null|
@@ -582,6 +583,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**Dyadically resolving trinomials for fast modular arithmetic**|Robert Dougherty-Bliss et.al.|[2508.11043](http://arxiv.org/abs/2508.11043)|null|
 |**2025-08-10**|**SUIT: Spatial-Spectral Union-Intersection Interaction Network for Hyperspectral Object Tracking**|Fengchao Xiong et.al.|[2508.07250](http://arxiv.org/abs/2508.07250)|null|
 |**2025-07-22**|**Simulation of quantum contextuality with invasive-measurement maps**|Andrea Navoni et.al.|[2507.16942](http://arxiv.org/abs/2507.16942)|null|
 |**2025-08-08**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz et.al.|[2507.12447](http://arxiv.org/abs/2507.12447)|null|
@@ -1685,6 +1687,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-15**|**Learning to Restore Heisenberg Limit in Noisy Quantum Sensing via Quantum Digital Twin**|Hang Xu et.al.|[2508.11198](http://arxiv.org/abs/2508.11198)|null|
 |**2025-08-14**|**Parity Cross-Resonance: A Multiqubit Gate**|Xuexin Xu et.al.|[2508.10807](http://arxiv.org/abs/2508.10807)|null|
 |**2025-08-14**|**Generating Compilers for Qubit Mapping and Routing**|Abtin Molavi et.al.|[2508.10781](http://arxiv.org/abs/2508.10781)|null|
 |**2025-08-13**|**A Comprehensive Comparison of the Wald, Wilson, and adjusted Wilson Confidence Intervals for Proportions**|Nabil Kahouadji et.al.|[2508.10223](http://arxiv.org/abs/2508.10223)|null|

@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-17**|**Partial transpose as a space-time swap**|James Fullwood et.al.|[2508.12256](http://arxiv.org/abs/2508.12256)|null|
 |**2025-08-14**|**Addressing Local Realism through Bell Tests at Colliders**|Matthew Low et.al.|[2508.10979](http://arxiv.org/abs/2508.10979)|null|
 |**2025-08-14**|**Measurement Incompatibility Based In-equivalence Between Bell and Network Nonlocality**|Kaushiki Mukherjee et.al.|[2508.10670](http://arxiv.org/abs/2508.10670)|null|
 |**2025-08-14**|**Nonlocal Monte Carlo via Reinforcement Learning**|Dmitrii Dobrynin et.al.|[2508.10520](http://arxiv.org/abs/2508.10520)|null|
@@ -471,6 +472,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-16**|**Conditional mutual information: A generalization of causal inference in quantum systems**|Anupam Ghosh et.al.|[2508.12160](http://arxiv.org/abs/2508.12160)|null|
+|**2025-08-15**|**Unitary causal decompositions: a combinatorial characterisation via lattice theory**|Tein van der Lugt et.al.|[2508.11762](http://arxiv.org/abs/2508.11762)|null|
 |**2025-08-02**|**Theory of quantum comb enhanced interferometry**|Haowei Shi et.al.|[2508.01513](http://arxiv.org/abs/2508.01513)|null|
 |**2025-08-01**|**Can the latent signatures of quantum superposition be detected through correlation harvesting?**|Yu Tang et.al.|[2508.00292](http://arxiv.org/abs/2508.00292)|null|
 |**2025-07-25**|**Probing Quantum States Over Spacetime Through Interferometry**|Seok Hyung Lie et.al.|[2507.19258](http://arxiv.org/abs/2507.19258)|null|
@@ -583,6 +586,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-15**|**Harvesting Contextuality from the Vacuum**|Philip A. LeMaitre et.al.|[2508.11773](http://arxiv.org/abs/2508.11773)|null|
 |**2025-08-14**|**Dyadically resolving trinomials for fast modular arithmetic**|Robert Dougherty-Bliss et.al.|[2508.11043](http://arxiv.org/abs/2508.11043)|null|
 |**2025-08-10**|**SUIT: Spatial-Spectral Union-Intersection Interaction Network for Hyperspectral Object Tracking**|Fengchao Xiong et.al.|[2508.07250](http://arxiv.org/abs/2508.07250)|null|
 |**2025-07-22**|**Simulation of quantum contextuality with invasive-measurement maps**|Andrea Navoni et.al.|[2507.16942](http://arxiv.org/abs/2507.16942)|null|
@@ -886,6 +890,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-18**|**Trading Quantum Ensembles**|Junaid ur Rehman et.al.|[2508.13010](http://arxiv.org/abs/2508.13010)|null|
+|**2025-08-18**|**Generalized quantum Chernoff bound**|Kun Fang et.al.|[2508.12889](http://arxiv.org/abs/2508.12889)|null|
+|**2025-08-16**|**Unified quantification of entanglement and magic in information scrambling and their trade-off relationship**|Mao Kaneyasu et.al.|[2508.11969](http://arxiv.org/abs/2508.11969)|null|
 |**2025-08-12**|**Instrument-based quantum resources: quantification, hierarchies and towards constructing resource theories**|Jatin Ghai et.al.|[2508.09134](http://arxiv.org/abs/2508.09134)|null|
 |**2025-08-10**|**Quanutm-State Texture as a Resource: Measures and Nonclassical Interdependencies**|Yuntao Cui et.al.|[2508.07481](http://arxiv.org/abs/2508.07481)|null|
 |**2025-08-09**|**An RBC-MsUQ Framework for Red Blood Cell Morpho-Mechanics**|Shuo Wang et.al.|[2508.06852](http://arxiv.org/abs/2508.06852)|null|
@@ -1687,6 +1694,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-18**|**Dynamic syndrome decoder in volume-law phases of hybrid quantum circuits**|Dawid Paszko et.al.|[2508.13045](http://arxiv.org/abs/2508.13045)|null|
+|**2025-08-17**|**Generalized Number-Phase Lattice Encoding of a Bosonic Mode for Quantum Error Correction**|Dong-Long Hu et.al.|[2508.12354](http://arxiv.org/abs/2508.12354)|null|
 |**2025-08-15**|**Learning to Restore Heisenberg Limit in Noisy Quantum Sensing via Quantum Digital Twin**|Hang Xu et.al.|[2508.11198](http://arxiv.org/abs/2508.11198)|null|
 |**2025-08-14**|**Parity Cross-Resonance: A Multiqubit Gate**|Xuexin Xu et.al.|[2508.10807](http://arxiv.org/abs/2508.10807)|null|
 |**2025-08-14**|**Generating Compilers for Qubit Mapping and Routing**|Abtin Molavi et.al.|[2508.10781](http://arxiv.org/abs/2508.10781)|null|

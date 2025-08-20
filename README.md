@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-19**|**Bell Inequality Violations Without Entanglement? It's Just Postselection**|Ken Wharton et.al.|[2508.13431](http://arxiv.org/abs/2508.13431)|null|
 |**2025-08-17**|**Partial transpose as a space-time swap**|James Fullwood et.al.|[2508.12256](http://arxiv.org/abs/2508.12256)|null|
 |**2025-08-14**|**Addressing Local Realism through Bell Tests at Colliders**|Matthew Low et.al.|[2508.10979](http://arxiv.org/abs/2508.10979)|null|
 |**2025-08-14**|**Measurement Incompatibility Based In-equivalence Between Bell and Network Nonlocality**|Kaushiki Mukherjee et.al.|[2508.10670](http://arxiv.org/abs/2508.10670)|null|
@@ -1167,6 +1168,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-19**|**Quantum Chaos Diagnostics for Open Quantum Systems from Bi-Lanczos Krylov Dynamics**|Matteo Baggioli et.al.|[2508.13956](http://arxiv.org/abs/2508.13956)|null|
 |**2025-08-14**|**Random Permutation Circuits are Quantum Chaotic**|Bruno Bertini et.al.|[2508.10890](http://arxiv.org/abs/2508.10890)|null|
 |**2025-08-13**|**Quantum recurrences and the arithmetic of Floquet dynamics**|Amit Anand et.al.|[2508.09933](http://arxiv.org/abs/2508.09933)|null|
 |**2025-08-11**|**Average Contraction Coefficients of Quantum Channels**|Ruben Ibarrondo et.al.|[2508.08214](http://arxiv.org/abs/2508.08214)|null|
@@ -1715,6 +1717,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-19**|**Brace for impact: ECDLP challenges for quantum cryptanalysis**|Pierre-Luc Dallaire-Demers et.al.|[2508.14011](http://arxiv.org/abs/2508.14011)|null|
+|**2025-08-19**|**Programmable Anyon Mobility through Higher Order Cellular Automata**|Jie-Yu Zhang et.al.|[2508.13961](http://arxiv.org/abs/2508.13961)|null|
+|**2025-08-19**|**A Novel Attention-Augmented Wavelet YOLO System for Real-time Brain Vessel Segmentation on Transcranial Color-coded Doppler**|Wenxuan Zhang et.al.|[2508.13875](http://arxiv.org/abs/2508.13875)|null|
+|**2025-08-19**|**Entanglement witnesses for stabilizer states and subspaces beyond qubits**|Jakub Szczepaniak et.al.|[2508.13734](http://arxiv.org/abs/2508.13734)|null|
 |**2025-08-18**|**Dynamic syndrome decoder in volume-law phases of hybrid quantum circuits**|Dawid Paszko et.al.|[2508.13045](http://arxiv.org/abs/2508.13045)|null|
 |**2025-08-17**|**Generalized Number-Phase Lattice Encoding of a Bosonic Mode for Quantum Error Correction**|Dong-Long Hu et.al.|[2508.12354](http://arxiv.org/abs/2508.12354)|null|
 |**2025-08-15**|**Learning to Restore Heisenberg Limit in Noisy Quantum Sensing via Quantum Digital Twin**|Hang Xu et.al.|[2508.11198](http://arxiv.org/abs/2508.11198)|null|

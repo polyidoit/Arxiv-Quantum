@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**A Classification Program for Nonlocality Paradoxes of Three Qubits**|Nadish de Silva et.al.|[2508.14673](http://arxiv.org/abs/2508.14673)|null|
+|**2025-08-20**|**All incompatible sets of measurements can generate Buscemi nonlocality**|Andrés F. Ducuara et.al.|[2508.14421](http://arxiv.org/abs/2508.14421)|null|
 |**2025-08-19**|**Bell Inequality Violations Without Entanglement? It's Just Postselection**|Ken Wharton et.al.|[2508.13431](http://arxiv.org/abs/2508.13431)|null|
 |**2025-08-17**|**Partial transpose as a space-time swap**|James Fullwood et.al.|[2508.12256](http://arxiv.org/abs/2508.12256)|null|
 |**2025-08-14**|**Addressing Local Realism through Bell Tests at Colliders**|Matthew Low et.al.|[2508.10979](http://arxiv.org/abs/2508.10979)|null|
@@ -473,6 +475,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-19**|**Logical Error Rates for the Surface Code Under a Mixed Coherent and Stochastic Circuit-Level Noise Model Inspired by Trapped Ions**|Tyler LeBlond et.al.|[2508.14227](http://arxiv.org/abs/2508.14227)|null|
 |**2025-08-16**|**Conditional mutual information: A generalization of causal inference in quantum systems**|Anupam Ghosh et.al.|[2508.12160](http://arxiv.org/abs/2508.12160)|null|
 |**2025-08-15**|**Unitary causal decompositions: a combinatorial characterisation via lattice theory**|Tein van der Lugt et.al.|[2508.11762](http://arxiv.org/abs/2508.11762)|null|
 |**2025-08-02**|**Theory of quantum comb enhanced interferometry**|Haowei Shi et.al.|[2508.01513](http://arxiv.org/abs/2508.01513)|null|
@@ -1149,6 +1152,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**Nonperturbative quantum field theory for pseudo-Goldstone modes, slow-Goldstone modes, and their quantum chaos**|Fadi Sun et.al.|[2508.14491](http://arxiv.org/abs/2508.14491)|null|
 |**2025-08-19**|**Quantum Chaos Diagnostics for Open Quantum Systems from Bi-Lanczos Krylov Dynamics**|Matteo Baggioli et.al.|[2508.13956](http://arxiv.org/abs/2508.13956)|null|
 |**2025-08-14**|**Random Permutation Circuits are Quantum Chaotic**|Bruno Bertini et.al.|[2508.10890](http://arxiv.org/abs/2508.10890)|null|
 |**2025-08-13**|**Quantum recurrences and the arithmetic of Floquet dynamics**|Amit Anand et.al.|[2508.09933](http://arxiv.org/abs/2508.09933)|null|
@@ -1696,6 +1700,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**String Diagrams for Defect-Based Surface Code Computing**|Mateusz Kupper et.al.|[2508.14672](http://arxiv.org/abs/2508.14672)|null|
+|**2025-08-20**|**Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes**|Theodoros Trochatos et.al.|[2508.14533](http://arxiv.org/abs/2508.14533)|null|
+|**2025-08-19**|**Logical Error Rates for the Surface Code Under a Mixed Coherent and Stochastic Circuit-Level Noise Model Inspired by Trapped Ions**|Tyler LeBlond et.al.|[2508.14227](http://arxiv.org/abs/2508.14227)|null|
+|**2025-08-19**|**Flag at origin: a modular fault-tolerant preparation for CSS codes**|Diego Forlivesi et.al.|[2508.14200](http://arxiv.org/abs/2508.14200)|null|
 |**2025-08-19**|**Brace for impact: ECDLP challenges for quantum cryptanalysis**|Pierre-Luc Dallaire-Demers et.al.|[2508.14011](http://arxiv.org/abs/2508.14011)|null|
 |**2025-08-19**|**Programmable Anyon Mobility through Higher Order Cellular Automata**|Jie-Yu Zhang et.al.|[2508.13961](http://arxiv.org/abs/2508.13961)|null|
 |**2025-08-19**|**A Novel Attention-Augmented Wavelet YOLO System for Real-time Brain Vessel Segmentation on Transcranial Color-coded Doppler**|Wenxuan Zhang et.al.|[2508.13875](http://arxiv.org/abs/2508.13875)|null|

@@ -475,6 +475,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**Complex Heat Capacity as a Witness of Spatio-Temporal Entanglement**|Mia Stamatova et.al.|[2508.15728](http://arxiv.org/abs/2508.15728)|null|
 |**2025-08-19**|**Logical Error Rates for the Surface Code Under a Mixed Coherent and Stochastic Circuit-Level Noise Model Inspired by Trapped Ions**|Tyler LeBlond et.al.|[2508.14227](http://arxiv.org/abs/2508.14227)|null|
 |**2025-08-16**|**Conditional mutual information: A generalization of causal inference in quantum systems**|Anupam Ghosh et.al.|[2508.12160](http://arxiv.org/abs/2508.12160)|null|
 |**2025-08-15**|**Unitary causal decompositions: a combinatorial characterisation via lattice theory**|Tein van der Lugt et.al.|[2508.11762](http://arxiv.org/abs/2508.11762)|null|
@@ -590,6 +591,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**On the Fermi-Dirac-type Fisher information**|Yuzhe Zhu et.al.|[2508.15054](http://arxiv.org/abs/2508.15054)|null|
+|**2025-08-20**|**Thermodynamics of dilute anyon gases from fusion constraints**|Yuto Nakajima et.al.|[2508.14961](http://arxiv.org/abs/2508.14961)|null|
 |**2025-08-15**|**Harvesting Contextuality from the Vacuum**|Philip A. LeMaitre et.al.|[2508.11773](http://arxiv.org/abs/2508.11773)|null|
 |**2025-08-14**|**Dyadically resolving trinomials for fast modular arithmetic**|Robert Dougherty-Bliss et.al.|[2508.11043](http://arxiv.org/abs/2508.11043)|null|
 |**2025-08-10**|**SUIT: Spatial-Spectral Union-Intersection Interaction Network for Hyperspectral Object Tracking**|Fengchao Xiong et.al.|[2508.07250](http://arxiv.org/abs/2508.07250)|null|
@@ -1152,6 +1155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**Cosmological pole-skipping, shock waves and quantum chaotic dynamics of de Sitter horizons**|Yongjun Ahn et.al.|[2508.15589](http://arxiv.org/abs/2508.15589)|null|
 |**2025-08-20**|**Nonperturbative quantum field theory for pseudo-Goldstone modes, slow-Goldstone modes, and their quantum chaos**|Fadi Sun et.al.|[2508.14491](http://arxiv.org/abs/2508.14491)|null|
 |**2025-08-19**|**Quantum Chaos Diagnostics for Open Quantum Systems from Bi-Lanczos Krylov Dynamics**|Matteo Baggioli et.al.|[2508.13956](http://arxiv.org/abs/2508.13956)|null|
 |**2025-08-14**|**Random Permutation Circuits are Quantum Chaotic**|Bruno Bertini et.al.|[2508.10890](http://arxiv.org/abs/2508.10890)|null|
@@ -1700,6 +1704,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**Colour Codes Reach Surface Code Performance using Vibe Decoding**|Stergios Koutsioumpas et.al.|[2508.15743](http://arxiv.org/abs/2508.15743)|null|
+|**2025-08-21**|**Fermion-to-Fermion Low-Density Parity-Check Codes**|Chong-Yuan Xu et.al.|[2508.15323](http://arxiv.org/abs/2508.15323)|null|
 |**2025-08-20**|**String Diagrams for Defect-Based Surface Code Computing**|Mateusz Kupper et.al.|[2508.14672](http://arxiv.org/abs/2508.14672)|null|
 |**2025-08-20**|**Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes**|Theodoros Trochatos et.al.|[2508.14533](http://arxiv.org/abs/2508.14533)|null|
 |**2025-08-19**|**Logical Error Rates for the Surface Code Under a Mixed Coherent and Stochastic Circuit-Level Noise Model Inspired by Trapped Ions**|Tyler LeBlond et.al.|[2508.14227](http://arxiv.org/abs/2508.14227)|null|

@@ -914,6 +914,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-21**|**Breaking global symmetries with locality-preserving operations**|Michele Mazzoni et.al.|[2508.15892](http://arxiv.org/abs/2508.15892)|null|
 |**2025-08-18**|**Trading Quantum Ensembles**|Junaid ur Rehman et.al.|[2508.13010](http://arxiv.org/abs/2508.13010)|null|
 |**2025-08-18**|**Generalized quantum Chernoff bound**|Kun Fang et.al.|[2508.12889](http://arxiv.org/abs/2508.12889)|null|
 |**2025-08-16**|**Unified quantification of entanglement and magic in information scrambling and their trade-off relationship**|Mao Kaneyasu et.al.|[2508.11969](http://arxiv.org/abs/2508.11969)|null|
@@ -1725,6 +1726,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**Protocol for Purifying Noisy Preparation and Measurements of Qubits**|Jaemin Kim et.al.|[2508.16136](http://arxiv.org/abs/2508.16136)|null|
+|**2025-08-22**|**ANSC: Probabilistic Capacity Health Scoring for Datacenter-Scale Reliability**|Madhava Gaikwad et.al.|[2508.16119](http://arxiv.org/abs/2508.16119)|null|
 |**2025-08-21**|**Colour Codes Reach Surface Code Performance using Vibe Decoding**|Stergios Koutsioumpas et.al.|[2508.15743](http://arxiv.org/abs/2508.15743)|null|
 |**2025-08-21**|**Fermion-to-Fermion Low-Density Parity-Check Codes**|Chong-Yuan Xu et.al.|[2508.15323](http://arxiv.org/abs/2508.15323)|null|
 |**2025-08-20**|**String Diagrams for Defect-Based Surface Code Computing**|Mateusz Kupper et.al.|[2508.14672](http://arxiv.org/abs/2508.14672)|null|

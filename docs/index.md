@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**A Metropolitan-scale Multiplexed Quantum Repeater with Bell Nonlocality**|Tian-Xiang Zhu et.al.|[2508.17940](http://arxiv.org/abs/2508.17940)|null|
 |**2025-08-20**|**A Classification Program for Nonlocality Paradoxes of Three Qubits**|Nadish de Silva et.al.|[2508.14673](http://arxiv.org/abs/2508.14673)|null|
 |**2025-08-20**|**All incompatible sets of measurements can generate Buscemi nonlocality**|Andrés F. Ducuara et.al.|[2508.14421](http://arxiv.org/abs/2508.14421)|null|
 |**2025-08-19**|**Bell Inequality Violations Without Entanglement? It's Just Postselection**|Ken Wharton et.al.|[2508.13431](http://arxiv.org/abs/2508.13431)|null|
@@ -475,6 +476,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-23**|**A Superselection Rule for Quantum Causality**|Issam Ibnouhsein et.al.|[2508.17075](http://arxiv.org/abs/2508.17075)|null|
 |**2025-08-21**|**Complex Heat Capacity as a Witness of Spatio-Temporal Entanglement**|Mia Stamatova et.al.|[2508.15728](http://arxiv.org/abs/2508.15728)|null|
 |**2025-08-19**|**Logical Error Rates for the Surface Code Under a Mixed Coherent and Stochastic Circuit-Level Noise Model Inspired by Trapped Ions**|Tyler LeBlond et.al.|[2508.14227](http://arxiv.org/abs/2508.14227)|null|
 |**2025-08-16**|**Conditional mutual information: A generalization of causal inference in quantum systems**|Anupam Ghosh et.al.|[2508.12160](http://arxiv.org/abs/2508.12160)|null|
@@ -591,6 +593,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-24**|**Robust Point Cloud Registration via Geometric Overlapping Guided Rotation Search**|Zhao Zheng et.al.|[2508.17427](http://arxiv.org/abs/2508.17427)|null|
 |**2025-08-20**|**On the Fermi-Dirac-type Fisher information**|Yuzhe Zhu et.al.|[2508.15054](http://arxiv.org/abs/2508.15054)|null|
 |**2025-08-20**|**Thermodynamics of dilute anyon gases from fusion constraints**|Yuto Nakajima et.al.|[2508.14961](http://arxiv.org/abs/2508.14961)|null|
 |**2025-08-15**|**Harvesting Contextuality from the Vacuum**|Philip A. LeMaitre et.al.|[2508.11773](http://arxiv.org/abs/2508.11773)|null|
@@ -760,6 +763,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-23**|**Efficient utilization of imaginarity in quantum steering**|Shounak Datta et.al.|[2508.17140](http://arxiv.org/abs/2508.17140)|null|
 |**2025-07-28**|**Witness the High-Dimensional Quantum Steering via Majorization Lattice**|Ma-Cheng Yang et.al.|[2507.20950](http://arxiv.org/abs/2507.20950)|null|
 |**2025-07-24**|**Secure One-Sided Device-Independent Quantum Key Distribution Under Collective Attacks with Enhanced Robustness**|Pritam Roy et.al.|[2507.18744](http://arxiv.org/abs/2507.18744)|null|
 |**2025-07-13**|**Barnett effect boosted nonreciprocal entanglement and EPR-steering in magnomechanics in the presence of coherent feedback loop**|Noura Chabar et.al.|[2507.09590](http://arxiv.org/abs/2507.09590)|null|
@@ -1705,10 +1709,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-24**|**Literature Review of the Effect of Quantum Computing on Cryptocurrencies using Blockchain Technology**|Adi Mutha et.al.|[2508.17296](http://arxiv.org/abs/2508.17296)|null|
 |**2025-08-22**|**Protocol for Purifying Noisy Preparation and Measurements of Qubits**|Jaemin Kim et.al.|[2508.16136](http://arxiv.org/abs/2508.16136)|null|
 |**2025-08-22**|**ANSC: Probabilistic Capacity Health Scoring for Datacenter-Scale Reliability**|Madhava Gaikwad et.al.|[2508.16119](http://arxiv.org/abs/2508.16119)|null|
 |**2025-08-21**|**Colour Codes Reach Surface Code Performance using Vibe Decoding**|Stergios Koutsioumpas et.al.|[2508.15743](http://arxiv.org/abs/2508.15743)|null|
-|**2025-08-21**|**Fermion-to-Fermion Low-Density Parity-Check Codes**|Chong-Yuan Xu et.al.|[2508.15323](http://arxiv.org/abs/2508.15323)|null|
+|**2025-08-25**|**Fermion-to-Fermion Low-Density Parity-Check Codes**|Chong-Yuan Xu et.al.|[2508.15323](http://arxiv.org/abs/2508.15323)|null|
 |**2025-08-20**|**String Diagrams for Defect-Based Surface Code Computing**|Mateusz Kupper et.al.|[2508.14672](http://arxiv.org/abs/2508.14672)|null|
 |**2025-08-20**|**Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes**|Theodoros Trochatos et.al.|[2508.14533](http://arxiv.org/abs/2508.14533)|null|
 |**2025-08-19**|**Logical Error Rates for the Surface Code Under a Mixed Coherent and Stochastic Circuit-Level Noise Model Inspired by Trapped Ions**|Tyler LeBlond et.al.|[2508.14227](http://arxiv.org/abs/2508.14227)|null|

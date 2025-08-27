@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**Unquestionable Bell theorem for interwoven frustrated down conversion processes**|Paweł Cieśliński et.al.|[2508.19207](http://arxiv.org/abs/2508.19207)|null|
 |**2025-08-25**|**A Metropolitan-scale Multiplexed Quantum Repeater with Bell Nonlocality**|Tian-Xiang Zhu et.al.|[2508.17940](http://arxiv.org/abs/2508.17940)|null|
 |**2025-08-20**|**A Classification Program for Nonlocality Paradoxes of Three Qubits**|Nadish de Silva et.al.|[2508.14673](http://arxiv.org/abs/2508.14673)|null|
 |**2025-08-20**|**All incompatible sets of measurements can generate Buscemi nonlocality**|Andrés F. Ducuara et.al.|[2508.14421](http://arxiv.org/abs/2508.14421)|null|
@@ -901,6 +902,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**The projection spectral theorem, quasi-free states and point processes**|Eugene Lytvynov et.al.|[2508.19147](http://arxiv.org/abs/2508.19147)|null|
 |**2025-08-21**|**Breaking global symmetries with locality-preserving operations**|Michele Mazzoni et.al.|[2508.15892](http://arxiv.org/abs/2508.15892)|null|
 |**2025-08-18**|**Trading Quantum Ensembles**|Junaid ur Rehman et.al.|[2508.13010](http://arxiv.org/abs/2508.13010)|null|
 |**2025-08-18**|**Generalized quantum Chernoff bound**|Kun Fang et.al.|[2508.12889](http://arxiv.org/abs/2508.12889)|null|
@@ -1160,6 +1162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**Destructive Interference induced constraints in Floquet systems**|Somsubhra Ghosh et.al.|[2508.18368](http://arxiv.org/abs/2508.18368)|null|
 |**2025-08-21**|**Cosmological pole-skipping, shock waves and quantum chaotic dynamics of de Sitter horizons**|Yongjun Ahn et.al.|[2508.15589](http://arxiv.org/abs/2508.15589)|null|
 |**2025-08-20**|**Nonperturbative quantum field theory for pseudo-Goldstone modes, slow-Goldstone modes, and their quantum chaos**|Fadi Sun et.al.|[2508.14491](http://arxiv.org/abs/2508.14491)|null|
 |**2025-08-19**|**Quantum Chaos Diagnostics for Open Quantum Systems from Bi-Lanczos Krylov Dynamics**|Matteo Baggioli et.al.|[2508.13956](http://arxiv.org/abs/2508.13956)|null|
@@ -1709,6 +1712,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**New Twists on Topological Quantum Error Correcting Codes**|Mohamad Mousa et.al.|[2508.19245](http://arxiv.org/abs/2508.19245)|null|
 |**2025-08-24**|**Literature Review of the Effect of Quantum Computing on Cryptocurrencies using Blockchain Technology**|Adi Mutha et.al.|[2508.17296](http://arxiv.org/abs/2508.17296)|null|
 |**2025-08-22**|**Protocol for Purifying Noisy Preparation and Measurements of Qubits**|Jaemin Kim et.al.|[2508.16136](http://arxiv.org/abs/2508.16136)|null|
 |**2025-08-22**|**ANSC: Probabilistic Capacity Health Scoring for Datacenter-Scale Reliability**|Madhava Gaikwad et.al.|[2508.16119](http://arxiv.org/abs/2508.16119)|null|

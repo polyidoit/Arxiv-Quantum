@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**Quantum Entanglement as Super-Confounding: From Bell's Theorem to Robust Machine Learning**|Pilsung Kang et.al.|[2508.19327](http://arxiv.org/abs/2508.19327)|null|
 |**2025-08-26**|**Unquestionable Bell theorem for interwoven frustrated down conversion processes**|Paweł Cieśliński et.al.|[2508.19207](http://arxiv.org/abs/2508.19207)|null|
 |**2025-08-25**|**A Metropolitan-scale Multiplexed Quantum Repeater with Bell Nonlocality**|Tian-Xiang Zhu et.al.|[2508.17940](http://arxiv.org/abs/2508.17940)|null|
 |**2025-08-20**|**A Classification Program for Nonlocality Paradoxes of Three Qubits**|Nadish de Silva et.al.|[2508.14673](http://arxiv.org/abs/2508.14673)|null|
@@ -1162,6 +1163,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-27**|**Quantum Chaos, Thermalization, and Non-locality**|Masataka Matsumoto et.al.|[2508.19556](http://arxiv.org/abs/2508.19556)|null|
 |**2025-08-25**|**Destructive Interference induced constraints in Floquet systems**|Somsubhra Ghosh et.al.|[2508.18368](http://arxiv.org/abs/2508.18368)|null|
 |**2025-08-21**|**Cosmological pole-skipping, shock waves and quantum chaotic dynamics of de Sitter horizons**|Yongjun Ahn et.al.|[2508.15589](http://arxiv.org/abs/2508.15589)|null|
 |**2025-08-20**|**Nonperturbative quantum field theory for pseudo-Goldstone modes, slow-Goldstone modes, and their quantum chaos**|Fadi Sun et.al.|[2508.14491](http://arxiv.org/abs/2508.14491)|null|
@@ -1712,6 +1714,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-27**|**A method of an on-demand beamsplitter for trapped-ion quantum computers**|Takanori Nishi et.al.|[2508.19995](http://arxiv.org/abs/2508.19995)|null|
+|**2025-08-27**|**Partial Anyon Condensation in the Color Code: A Hamiltonian Approach**|Mohsen Rahmani Haghighi et.al.|[2508.19877](http://arxiv.org/abs/2508.19877)|null|
 |**2025-08-26**|**New Twists on Topological Quantum Error Correcting Codes**|Mohamad Mousa et.al.|[2508.19245](http://arxiv.org/abs/2508.19245)|null|
 |**2025-08-24**|**Literature Review of the Effect of Quantum Computing on Cryptocurrencies using Blockchain Technology**|Adi Mutha et.al.|[2508.17296](http://arxiv.org/abs/2508.17296)|null|
 |**2025-08-22**|**Protocol for Purifying Noisy Preparation and Measurements of Qubits**|Jaemin Kim et.al.|[2508.16136](http://arxiv.org/abs/2508.16136)|null|

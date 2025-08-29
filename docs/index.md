@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-28**|**A predictive solution of the EPR paradox**|Henryk Gzyl et.al.|[2508.20788](http://arxiv.org/abs/2508.20788)|null|
 |**2025-08-26**|**Quantum Entanglement as Super-Confounding: From Bell's Theorem to Robust Machine Learning**|Pilsung Kang et.al.|[2508.19327](http://arxiv.org/abs/2508.19327)|null|
 |**2025-08-26**|**Unquestionable Bell theorem for interwoven frustrated down conversion processes**|Paweł Cieśliński et.al.|[2508.19207](http://arxiv.org/abs/2508.19207)|null|
 |**2025-08-25**|**A Metropolitan-scale Multiplexed Quantum Repeater with Bell Nonlocality**|Tian-Xiang Zhu et.al.|[2508.17940](http://arxiv.org/abs/2508.17940)|null|
@@ -595,6 +596,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-28**|**Bosonization in $R$ -paraparticle Luttinger models**|Dennis F. Salinel et.al.|[2508.20429](http://arxiv.org/abs/2508.20429)|null|
 |**2025-08-24**|**Robust Point Cloud Registration via Geometric Overlapping Guided Rotation Search**|Zhao Zheng et.al.|[2508.17427](http://arxiv.org/abs/2508.17427)|null|
 |**2025-08-20**|**On the Fermi-Dirac-type Fisher information**|Yuzhe Zhu et.al.|[2508.15054](http://arxiv.org/abs/2508.15054)|null|
 |**2025-08-20**|**Thermodynamics of dilute anyon gases from fusion constraints**|Yuto Nakajima et.al.|[2508.14961](http://arxiv.org/abs/2508.14961)|null|
@@ -1163,6 +1165,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-28**|**The algebraic structure of gravitational scrambling**|Geoff Penington et.al.|[2508.21062](http://arxiv.org/abs/2508.21062)|null|
+|**2025-08-28**|**Non-spatial symmetries in quantum nonlinear spectroscopy**|Li Sun et.al.|[2508.20445](http://arxiv.org/abs/2508.20445)|null|
+|**2025-08-27**|**Out-of-time-order correlators bridge classical transport and quantum dynamics**|Sophia N. Fricke et.al.|[2508.20235](http://arxiv.org/abs/2508.20235)|null|
 |**2025-08-27**|**Quantum Chaos, Thermalization, and Non-locality**|Masataka Matsumoto et.al.|[2508.19556](http://arxiv.org/abs/2508.19556)|null|
 |**2025-08-25**|**Destructive Interference induced constraints in Floquet systems**|Somsubhra Ghosh et.al.|[2508.18368](http://arxiv.org/abs/2508.18368)|null|
 |**2025-08-21**|**Cosmological pole-skipping, shock waves and quantum chaotic dynamics of de Sitter horizons**|Yongjun Ahn et.al.|[2508.15589](http://arxiv.org/abs/2508.15589)|null|
@@ -1714,6 +1719,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-28**|**Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Expanded Quantum Instruction Set**|Runshi Zhou et.al.|[2508.20858](http://arxiv.org/abs/2508.20858)|null|
+|**2025-08-27**|**Classical Simulations of Low Magic Quantum Dynamics**|Kemal Aziz et.al.|[2508.20252](http://arxiv.org/abs/2508.20252)|null|
+|**2025-08-27**|**Compilation-informed probabilistic quantum error cancellation**|Giancarlo Camilo et.al.|[2508.20174](http://arxiv.org/abs/2508.20174)|null|
 |**2025-08-27**|**A method of an on-demand beamsplitter for trapped-ion quantum computers**|Takanori Nishi et.al.|[2508.19995](http://arxiv.org/abs/2508.19995)|null|
 |**2025-08-27**|**Partial Anyon Condensation in the Color Code: A Hamiltonian Approach**|Mohsen Rahmani Haghighi et.al.|[2508.19877](http://arxiv.org/abs/2508.19877)|null|
 |**2025-08-26**|**New Twists on Topological Quantum Error Correcting Codes**|Mohamad Mousa et.al.|[2508.19245](http://arxiv.org/abs/2508.19245)|null|

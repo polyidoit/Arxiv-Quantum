@@ -1165,6 +1165,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-29**|**Out-of-time ordered correlation functions for the localized $f$ electrons in the Falicov-Kimball model**|A. M. Shvaika et.al.|[2508.21388](http://arxiv.org/abs/2508.21388)|null|
 |**2025-08-28**|**The algebraic structure of gravitational scrambling**|Geoff Penington et.al.|[2508.21062](http://arxiv.org/abs/2508.21062)|null|
 |**2025-08-28**|**Non-spatial symmetries in quantum nonlinear spectroscopy**|Li Sun et.al.|[2508.20445](http://arxiv.org/abs/2508.20445)|null|
 |**2025-08-27**|**Out-of-time-order correlators bridge classical transport and quantum dynamics**|Sophia N. Fricke et.al.|[2508.20235](http://arxiv.org/abs/2508.20235)|null|
@@ -1719,6 +1720,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-28**|**Model-Driven Quantum Code Generation Using Large Language Models and Retrieval-Augmented Generation**|Nazanin Siavash et.al.|[2508.21097](http://arxiv.org/abs/2508.21097)|null|
 |**2025-08-28**|**Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Expanded Quantum Instruction Set**|Runshi Zhou et.al.|[2508.20858](http://arxiv.org/abs/2508.20858)|null|
 |**2025-08-27**|**Classical Simulations of Low Magic Quantum Dynamics**|Kemal Aziz et.al.|[2508.20252](http://arxiv.org/abs/2508.20252)|null|
 |**2025-08-27**|**Compilation-informed probabilistic quantum error cancellation**|Giancarlo Camilo et.al.|[2508.20174](http://arxiv.org/abs/2508.20174)|null|

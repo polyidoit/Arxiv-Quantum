@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.03
+## Updated on 2025.09.04
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -775,7 +775,7 @@ layout: default
 |**2025-07-23**|**All entangled states can be certified by a violation of noncontextuality inequalities**|Yujie Zhang et.al.|[2507.01122](http://arxiv.org/abs/2507.01122)|null|
 |**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do et.al.|[2506.23523](http://arxiv.org/abs/2506.23523)|null|
 |**2025-06-29**|**Detecting and quantifying non-Markovianity via quantum direct cause**|Shrikant Utagi et.al.|[2506.23267](http://arxiv.org/abs/2506.23267)|null|
-|**2025-06-23**|**Can boundary configuration be tuned to optimize directional quantum steering harvesting?**|Xiao-Li Huang et.al.|[2506.18734](http://arxiv.org/abs/2506.18734)|null|
+|**2025-09-03**|**Can boundary configuration be tuned to optimize directional quantum steering harvesting?**|Xiao-Li Huang et.al.|[2506.18734](http://arxiv.org/abs/2506.18734)|null|
 |**2025-06-12**|**Certification of quantum networks using the generalised Choi isomorphism**|Sophie Egelhaaf et.al.|[2506.10725](http://arxiv.org/abs/2506.10725)|null|
 |**2025-06-12**|**Saturable nonlinearity induced quantum correlations in optomechanics**|D. R. Kenigoule Massembele et.al.|[2506.10709](http://arxiv.org/abs/2506.10709)|null|
 |**2025-06-08**|**Quantum correlations in molecular cavity optomechanics**|E. Kongkui Berinyuy, D. R. Kenigoule Massembele, P. Djorwe, R. Altuijri, M. R. Eid, A. -H. Abdel-Aty, S. G. Nana Engo|[2506.07277](http://arxiv.org/abs/2506.07277)|null|

@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-03**|**Cat-state-like non-Gaussian entanglement in magnon systems**|Zeyu Zhang et.al.|[2509.03239](http://arxiv.org/abs/2509.03239)|null|
+|**2025-09-03**|**Simple explanation of apparent Bell nonlocality of unentangled photons**|Antoni Wójcik et.al.|[2509.03127](http://arxiv.org/abs/2509.03127)|null|
+|**2025-09-03**|**Zero-Error Nash Equilibrium: Harnessing Nonlocal Correlation in Incomplete Information Games**|Ambuj et.al.|[2509.02947](http://arxiv.org/abs/2509.02947)|null|
+|**2025-09-02**|**Is the EPR paradox really a paradox?**|Natalia Gorobey et.al.|[2509.02085](http://arxiv.org/abs/2509.02085)|null|
 |**2025-08-28**|**A predictive solution of the EPR paradox**|Henryk Gzyl et.al.|[2508.20788](http://arxiv.org/abs/2508.20788)|null|
 |**2025-08-26**|**Quantum Entanglement as Super-Confounding: From Bell's Theorem to Robust Machine Learning**|Pilsung Kang et.al.|[2508.19327](http://arxiv.org/abs/2508.19327)|null|
 |**2025-08-26**|**Unquestionable Bell theorem for interwoven frustrated down conversion processes**|Paweł Cieśliński et.al.|[2508.19207](http://arxiv.org/abs/2508.19207)|null|
@@ -490,6 +494,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-31**|**Quantum Causality: Resolving Simpson's Paradox with $\mathcal{DO}$ -Calculus**|Pilsung Kang et.al.|[2509.00744](http://arxiv.org/abs/2509.00744)|null|
 |**2025-08-23**|**A Superselection Rule for Quantum Causality**|Issam Ibnouhsein et.al.|[2508.17075](http://arxiv.org/abs/2508.17075)|null|
 |**2025-08-21**|**Complex Heat Capacity as a Witness of Spatio-Temporal Entanglement**|Mia Stamatova et.al.|[2508.15728](http://arxiv.org/abs/2508.15728)|null|
 |**2025-08-19**|**Logical Error Rates for the Surface Code Under a Mixed Coherent and Stochastic Circuit-Level Noise Model Inspired by Trapped Ions**|Tyler LeBlond et.al.|[2508.14227](http://arxiv.org/abs/2508.14227)|null|
@@ -609,6 +614,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**Statistical Mechanics of Paraparticles**|Nupoor Thakur et.al.|[2509.00112](http://arxiv.org/abs/2509.00112)|null|
 |**2025-08-28**|**Bosonization in $R$ -paraparticle Luttinger models**|Dennis F. Salinel et.al.|[2508.20429](http://arxiv.org/abs/2508.20429)|null|
 |**2025-08-24**|**Robust Point Cloud Registration via Geometric Overlapping Guided Rotation Search**|Zhao Zheng et.al.|[2508.17427](http://arxiv.org/abs/2508.17427)|null|
 |**2025-08-20**|**On the Fermi-Dirac-type Fisher information**|Yuzhe Zhu et.al.|[2508.15054](http://arxiv.org/abs/2508.15054)|null|
@@ -922,6 +928,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-03**|**Quantum Resource Theory of Deficiency and Operational Applications in Subchannel Discrimination**|Sunho Kim et.al.|[2509.03043](http://arxiv.org/abs/2509.03043)|null|
+|**2025-09-02**|**MEMS Vapor Cells-based Rydberg-atom Electrometry Toward Miniaturization and High Sensitivity**|Yintao Ma et.al.|[2509.01911](http://arxiv.org/abs/2509.01911)|null|
 |**2025-08-26**|**The projection spectral theorem, quasi-free states and point processes**|Eugene Lytvynov et.al.|[2508.19147](http://arxiv.org/abs/2508.19147)|null|
 |**2025-08-21**|**Breaking global symmetries with locality-preserving operations**|Michele Mazzoni et.al.|[2508.15892](http://arxiv.org/abs/2508.15892)|null|
 |**2025-08-18**|**Trading Quantum Ensembles**|Junaid ur Rehman et.al.|[2508.13010](http://arxiv.org/abs/2508.13010)|null|
@@ -1184,6 +1192,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-03**|**Ancilla-Free Quantum Protocol for Thermal Green's Functions**|Changhao Yi et.al.|[2509.03288](http://arxiv.org/abs/2509.03288)|null|
+|**2025-09-02**|**Saturation of Chaos Bound in a Phenomenological Rotating Black Hole--Effective Matter System at Low-Temperature Limit**|Reza Pourkhodabakhshi et.al.|[2509.02728](http://arxiv.org/abs/2509.02728)|null|
+|**2025-09-01**|**Dynamics of Loschmidt echoes from operator growth in noisy quantum many-body systems**|Takato Yoshimura et.al.|[2509.01585](http://arxiv.org/abs/2509.01585)|null|
+|**2025-08-30**|**Quantum Circuits for Quantum Convolutions: A Quantum Convolutional Autoencoder**|Javier Orduz et.al.|[2509.00637](http://arxiv.org/abs/2509.00637)|null|
 |**2025-08-29**|**Out-of-time ordered correlation functions for the localized $f$ electrons in the Falicov-Kimball model**|A. M. Shvaika et.al.|[2508.21388](http://arxiv.org/abs/2508.21388)|null|
 |**2025-08-28**|**The algebraic structure of gravitational scrambling**|Geoff Penington et.al.|[2508.21062](http://arxiv.org/abs/2508.21062)|null|
 |**2025-08-28**|**Non-spatial symmetries in quantum nonlinear spectroscopy**|Li Sun et.al.|[2508.20445](http://arxiv.org/abs/2508.20445)|null|
@@ -1741,6 +1753,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-03**|**An angular momentum approach to quantum insertion errors**|Lewis Bulled et.al.|[2509.03413](http://arxiv.org/abs/2509.03413)|null|
+|**2025-09-02**|**Improving Hardware Requirements for Fault-Tolerant Quantum Computing by Optimizing Error Budget Distributions**|Tobias Forster et.al.|[2509.02683](http://arxiv.org/abs/2509.02683)|null|
+|**2025-09-02**|**Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing**|Wenxuan Fan et.al.|[2509.01892](http://arxiv.org/abs/2509.01892)|null|
+|**2025-09-01**|**Electron transfer between surface-acoustic-wave-induced moving and static quantum dots**|Mikel Olano et.al.|[2509.01525](http://arxiv.org/abs/2509.01525)|null|
+|**2025-09-01**|**Cutting stabiliser decompositions of magic state cultivation with ZX-calculus**|Kwok Ho Wan et.al.|[2509.01224](http://arxiv.org/abs/2509.01224)|null|
+|**2025-08-31**|**A simple universal routing strategy for reducing the connectivity requirements of quantum LDPC codes**|Guangqi Zhao et.al.|[2509.00850](http://arxiv.org/abs/2509.00850)|null|
+|**2025-08-30**|**An exploration of the noise sensitivity of the Shor's algorithm**|Fusheng Yang et.al.|[2509.00417](http://arxiv.org/abs/2509.00417)|null|
+|**2025-08-29**|**High-Distance Error-Correcting Codes for Fermion-to-Qubit Mappings in 2D and 3D**|Ruby Wei et.al.|[2509.00147](http://arxiv.org/abs/2509.00147)|null|
 |**2025-08-28**|**Model-Driven Quantum Code Generation Using Large Language Models and Retrieval-Augmented Generation**|Nazanin Siavash et.al.|[2508.21097](http://arxiv.org/abs/2508.21097)|null|
 |**2025-08-28**|**Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Expanded Quantum Instruction Set**|Runshi Zhou et.al.|[2508.20858](http://arxiv.org/abs/2508.20858)|null|
 |**2025-08-27**|**Classical Simulations of Low Magic Quantum Dynamics**|Kemal Aziz et.al.|[2508.20252](http://arxiv.org/abs/2508.20252)|null|

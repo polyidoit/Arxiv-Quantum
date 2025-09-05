@@ -601,6 +601,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-04**|**Statistics of multi-electron states and $J$ -levels in atomic configurations**|Jean-Christophe Pain et.al.|[2509.04353](http://arxiv.org/abs/2509.04353)|null|
 |**2025-08-28**|**Statistical Mechanics of Paraparticles**|Nupoor Thakur et.al.|[2509.00112](http://arxiv.org/abs/2509.00112)|null|
 |**2025-08-28**|**Bosonization in $R$ -paraparticle Luttinger models**|Dennis F. Salinel et.al.|[2508.20429](http://arxiv.org/abs/2508.20429)|null|
 |**2025-08-24**|**Robust Point Cloud Registration via Geometric Overlapping Guided Rotation Search**|Zhao Zheng et.al.|[2508.17427](http://arxiv.org/abs/2508.17427)|null|
@@ -1173,6 +1174,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-04**|**Complexity of Quadratic Quantum Chaos**|Pallab Basu et.al.|[2509.04075](http://arxiv.org/abs/2509.04075)|null|
 |**2025-09-03**|**Ancilla-Free Quantum Protocol for Thermal Green's Functions**|Changhao Yi et.al.|[2509.03288](http://arxiv.org/abs/2509.03288)|null|
 |**2025-09-02**|**Saturation of Chaos Bound in a Phenomenological Rotating Black Hole--Effective Matter System at Low-Temperature Limit**|Reza Pourkhodabakhshi et.al.|[2509.02728](http://arxiv.org/abs/2509.02728)|null|
 |**2025-09-01**|**Dynamics of Loschmidt echoes from operator growth in noisy quantum many-body systems**|Takato Yoshimura et.al.|[2509.01585](http://arxiv.org/abs/2509.01585)|null|
@@ -1732,6 +1734,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-04**|**Real-time adaptive quantum error correction by model-free multi-agent learning**|Manuel Guatto et.al.|[2509.03974](http://arxiv.org/abs/2509.03974)|null|
+|**2025-09-04**|**LATTE: A Decoding Architecture for Quantum Computing with Temporal and Spatial Scalability**|Kai Zhang et.al.|[2509.03954](http://arxiv.org/abs/2509.03954)|null|
+|**2025-09-04**|**Learning Neural Decoding with Parallelism and Self-Coordination for Quantum Error Correction**|Kai Zhang et.al.|[2509.03815](http://arxiv.org/abs/2509.03815)|null|
 |**2025-09-03**|**An angular momentum approach to quantum insertion errors**|Lewis Bulled et.al.|[2509.03413](http://arxiv.org/abs/2509.03413)|null|
 |**2025-09-02**|**Improving Hardware Requirements for Fault-Tolerant Quantum Computing by Optimizing Error Budget Distributions**|Tobias Forster et.al.|[2509.02683](http://arxiv.org/abs/2509.02683)|null|
 |**2025-09-02**|**Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing**|Wenxuan Fan et.al.|[2509.01892](http://arxiv.org/abs/2509.01892)|null|

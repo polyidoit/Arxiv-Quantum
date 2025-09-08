@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**Unbounded-input explicit Bell inequalities for general quantum networks**|Yao Xiao et.al.|[2509.04767](http://arxiv.org/abs/2509.04767)|null|
 |**2025-09-03**|**Cat-state-like non-Gaussian entanglement in magnon systems**|Zeyu Zhang et.al.|[2509.03239](http://arxiv.org/abs/2509.03239)|null|
 |**2025-09-03**|**Simple explanation of apparent Bell nonlocality of unentangled photons**|Antoni Wójcik et.al.|[2509.03127](http://arxiv.org/abs/2509.03127)|null|
 |**2025-09-03**|**Zero-Error Nash Equilibrium: Harnessing Nonlocal Correlation in Incomplete Information Games**|Ambuj et.al.|[2509.02947](http://arxiv.org/abs/2509.02947)|null|
@@ -912,6 +913,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**Continuum Landau surface states in a non-Hermitian Weyl semimetal**|Shuxin Lin et.al.|[2509.05138](http://arxiv.org/abs/2509.05138)|null|
 |**2025-09-03**|**Quantum Resource Theory of Deficiency and Operational Applications in Subchannel Discrimination**|Sunho Kim et.al.|[2509.03043](http://arxiv.org/abs/2509.03043)|null|
 |**2025-09-02**|**MEMS Vapor Cells-based Rydberg-atom Electrometry Toward Miniaturization and High Sensitivity**|Yintao Ma et.al.|[2509.01911](http://arxiv.org/abs/2509.01911)|null|
 |**2025-08-26**|**The projection spectral theorem, quasi-free states and point processes**|Eugene Lytvynov et.al.|[2508.19147](http://arxiv.org/abs/2508.19147)|null|
@@ -1734,6 +1736,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**Cultivating T states on the surface code with only two-qubit gates**|Jahan Claes et.al.|[2509.05232](http://arxiv.org/abs/2509.05232)|null|
+|**2025-09-05**|**Fold-transversal surface code cultivation**|Kaavya Sahay et.al.|[2509.05212](http://arxiv.org/abs/2509.05212)|null|
+|**2025-09-03**|**The Structure and Interpretation of Quantum Programs I: Foundations**|David Wakeham et.al.|[2509.04527](http://arxiv.org/abs/2509.04527)|null|
 |**2025-09-04**|**Real-time adaptive quantum error correction by model-free multi-agent learning**|Manuel Guatto et.al.|[2509.03974](http://arxiv.org/abs/2509.03974)|null|
 |**2025-09-04**|**LATTE: A Decoding Architecture for Quantum Computing with Temporal and Spatial Scalability**|Kai Zhang et.al.|[2509.03954](http://arxiv.org/abs/2509.03954)|null|
 |**2025-09-04**|**Learning Neural Decoding with Parallelism and Self-Coordination for Quantum Error Correction**|Kai Zhang et.al.|[2509.03815](http://arxiv.org/abs/2509.03815)|null|

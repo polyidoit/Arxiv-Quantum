@@ -484,6 +484,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-07**|**Unified formalism and adaptive algorithms for optimal quantum state, detector and process tomography**|Shuixin Xiao et.al.|[2509.05988](http://arxiv.org/abs/2509.05988)|null|
 |**2025-08-31**|**Quantum Causality: Resolving Simpson's Paradox with $\mathcal{DO}$ -Calculus**|Pilsung Kang et.al.|[2509.00744](http://arxiv.org/abs/2509.00744)|null|
 |**2025-09-06**|**A Superselection Rule for Quantum Causality**|Issam Ibnouhsein et.al.|[2508.17075](http://arxiv.org/abs/2508.17075)|null|
 |**2025-08-21**|**Complex Heat Capacity as a Witness of Spatio-Temporal Entanglement**|Mia Stamatova et.al.|[2508.15728](http://arxiv.org/abs/2508.15728)|null|
@@ -913,6 +914,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**COMPACT: Common-token Optimized Model Pruning Across Channels and Tokens**|Eugene Kwek et.al.|[2509.06836](http://arxiv.org/abs/2509.06836)|null|
 |**2025-09-05**|**Continuum Landau surface states in a non-Hermitian Weyl semimetal**|Shuxin Lin et.al.|[2509.05138](http://arxiv.org/abs/2509.05138)|null|
 |**2025-09-03**|**Quantum Resource Theory of Deficiency and Operational Applications in Subchannel Discrimination**|Sunho Kim et.al.|[2509.03043](http://arxiv.org/abs/2509.03043)|null|
 |**2025-09-02**|**MEMS Vapor Cells-based Rydberg-atom Electrometry Toward Miniaturization and High Sensitivity**|Yintao Ma et.al.|[2509.01911](http://arxiv.org/abs/2509.01911)|null|
@@ -1736,6 +1738,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**A Class of Cyclic Quantum Codes**|Matthew B. Hastings et.al.|[2509.06865](http://arxiv.org/abs/2509.06865)|null|
+|**2025-09-08**|**Enhancing Fault-Tolerant Surface Code Decoding with Iterative Lattice Reweighting**|Yi Tian et.al.|[2509.06756](http://arxiv.org/abs/2509.06756)|null|
+|**2025-09-08**|**Efficient Convex Optimization for Bosonic State Tomography**|Shengyong Li et.al.|[2509.06305](http://arxiv.org/abs/2509.06305)|null|
+|**2025-09-06**|**Non-linear cooling and control of a mechanical quantum harmonic oscillator**|Matteo Simoni et.al.|[2509.05734](http://arxiv.org/abs/2509.05734)|null|
+|**2025-09-05**|**Mitigating Measurement Crosstalk via Pulse Shaping**|Yang Gao et.al.|[2509.05437](http://arxiv.org/abs/2509.05437)|null|
+|**2025-09-05**|**Practical Fidelity Limits of Toffoli Gates in Superconducting Quantum Processors**|M. AbuGhanem et.al.|[2509.05395](http://arxiv.org/abs/2509.05395)|null|
 |**2025-09-05**|**Cultivating T states on the surface code with only two-qubit gates**|Jahan Claes et.al.|[2509.05232](http://arxiv.org/abs/2509.05232)|null|
 |**2025-09-05**|**Fold-transversal surface code cultivation**|Kaavya Sahay et.al.|[2509.05212](http://arxiv.org/abs/2509.05212)|null|
 |**2025-09-03**|**The Structure and Interpretation of Quantum Programs I: Foundations**|David Wakeham et.al.|[2509.04527](http://arxiv.org/abs/2509.04527)|null|

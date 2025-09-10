@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -603,7 +603,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-04**|**Statistics of multi-electron states and $J$ -levels in atomic configurations**|Jean-Christophe Pain et.al.|[2509.04353](http://arxiv.org/abs/2509.04353)|null|
+|**2025-09-09**|**Statistics of multi-electron states and $J$ -levels in atomic configurations**|Jean-Christophe Pain et.al.|[2509.04353](http://arxiv.org/abs/2509.04353)|null|
 |**2025-08-28**|**Statistical Mechanics of Paraparticles**|Nupoor Thakur et.al.|[2509.00112](http://arxiv.org/abs/2509.00112)|null|
 |**2025-08-28**|**Bosonization in $R$ -paraparticle Luttinger models**|Dennis F. Salinel et.al.|[2508.20429](http://arxiv.org/abs/2508.20429)|null|
 |**2025-08-24**|**Robust Point Cloud Registration via Geometric Overlapping Guided Rotation Search**|Zhao Zheng et.al.|[2508.17427](http://arxiv.org/abs/2508.17427)|null|
@@ -1739,7 +1739,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-08**|**A Class of Cyclic Quantum Codes**|Matthew B. Hastings et.al.|[2509.06865](http://arxiv.org/abs/2509.06865)|null|
-|**2025-09-08**|**Enhancing Fault-Tolerant Surface Code Decoding with Iterative Lattice Reweighting**|Yi Tian et.al.|[2509.06756](http://arxiv.org/abs/2509.06756)|null|
+|**2025-09-09**|**Enhancing Fault-Tolerant Surface Code Decoding with Iterative Lattice Reweighting**|Yi Tian et.al.|[2509.06756](http://arxiv.org/abs/2509.06756)|null|
 |**2025-09-08**|**Efficient Convex Optimization for Bosonic State Tomography**|Shengyong Li et.al.|[2509.06305](http://arxiv.org/abs/2509.06305)|null|
 |**2025-09-06**|**Non-linear cooling and control of a mechanical quantum harmonic oscillator**|Matteo Simoni et.al.|[2509.05734](http://arxiv.org/abs/2509.05734)|null|
 |**2025-09-05**|**Mitigating Measurement Crosstalk via Pulse Shaping**|Yang Gao et.al.|[2509.05437](http://arxiv.org/abs/2509.05437)|null|

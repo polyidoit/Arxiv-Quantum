@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**Particle Collisions & Quantum Entanglement in High-Energy Collisions**|Emidio Gabrielli et.al.|[2509.07585](http://arxiv.org/abs/2509.07585)|null|
+|**2025-09-08**|**Demonstrating an unconditional separation between quantum and classical information resources**|William Kretschmer et.al.|[2509.07255](http://arxiv.org/abs/2509.07255)|null|
 |**2025-09-05**|**Unbounded-input explicit Bell inequalities for general quantum networks**|Yao Xiao et.al.|[2509.04767](http://arxiv.org/abs/2509.04767)|null|
 |**2025-09-03**|**Cat-state-like non-Gaussian entanglement in magnon systems**|Zeyu Zhang et.al.|[2509.03239](http://arxiv.org/abs/2509.03239)|null|
 |**2025-09-03**|**Simple explanation of apparent Bell nonlocality of unentangled photons**|Antoni Wójcik et.al.|[2509.03127](http://arxiv.org/abs/2509.03127)|null|
@@ -914,6 +916,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**Dynamic LOCC Circuits for Automated Entanglement Manipulation**|Xia Liu et.al.|[2509.07841](http://arxiv.org/abs/2509.07841)|null|
+|**2025-09-09**|**Quantum Fisher Information as a Measure of Symmetry Breaking in Quantum Many-Body Systems**|Shion Yamashika et.al.|[2509.07468](http://arxiv.org/abs/2509.07468)|null|
+|**2025-09-09**|**Free Elections in the Free State: Ensemble Analysis of Redistricting in New Hampshire**|Atticus McWhorter et.al.|[2509.07328](http://arxiv.org/abs/2509.07328)|null|
+|**2025-09-09**|**Discovering Cataclysmic Variables from the Rubin Observatory LSST**|D. A. H. Buckley et.al.|[2509.07298](http://arxiv.org/abs/2509.07298)|null|
+|**2025-09-08**|**Generalized Quantum Stein's Lemma for Classical-Quantum Dynamical Resources**|Masahito Hayashi et.al.|[2509.07271](http://arxiv.org/abs/2509.07271)|null|
+|**2025-09-08**|**Record High Polarization at 2V and Imprint-free operation in Superlattice HfO2-ZrO2 by Proper Tuning of Ferro and Antiferroelectricity**|Xinye Li et.al.|[2509.07045](http://arxiv.org/abs/2509.07045)|null|
 |**2025-09-08**|**COMPACT: Common-token Optimized Model Pruning Across Channels and Tokens**|Eugene Kwek et.al.|[2509.06836](http://arxiv.org/abs/2509.06836)|null|
 |**2025-09-05**|**Continuum Landau surface states in a non-Hermitian Weyl semimetal**|Shuxin Lin et.al.|[2509.05138](http://arxiv.org/abs/2509.05138)|null|
 |**2025-09-03**|**Quantum Resource Theory of Deficiency and Operational Applications in Subchannel Discrimination**|Sunho Kim et.al.|[2509.03043](http://arxiv.org/abs/2509.03043)|null|
@@ -1738,6 +1746,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**Dual of Algebraic Geometry codes from Hirzebruch surfaces**|Alix Barraud et.al.|[2509.07761](http://arxiv.org/abs/2509.07761)|null|
+|**2025-09-08**|**Compressing Syndrome Measurement Sequences**|Benjamin Anker et.al.|[2509.07288](http://arxiv.org/abs/2509.07288)|null|
 |**2025-09-08**|**A Class of Cyclic Quantum Codes**|Matthew B. Hastings et.al.|[2509.06865](http://arxiv.org/abs/2509.06865)|null|
 |**2025-09-09**|**Enhancing Fault-Tolerant Surface Code Decoding with Iterative Lattice Reweighting**|Yi Tian et.al.|[2509.06756](http://arxiv.org/abs/2509.06756)|null|
 |**2025-09-08**|**Efficient Convex Optimization for Bosonic State Tomography**|Shengyong Li et.al.|[2509.06305](http://arxiv.org/abs/2509.06305)|null|

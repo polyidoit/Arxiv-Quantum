@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.10
+## Updated on 2025.09.11
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -607,7 +607,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-09**|**Statistics of multi-electron states and $J$ -levels in atomic configurations**|Jean-Christophe Pain et.al.|[2509.04353](http://arxiv.org/abs/2509.04353)|null|
 |**2025-08-28**|**Statistical Mechanics of Paraparticles**|Nupoor Thakur et.al.|[2509.00112](http://arxiv.org/abs/2509.00112)|null|
-|**2025-08-28**|**Bosonization in $R$ -paraparticle Luttinger models**|Dennis F. Salinel et.al.|[2508.20429](http://arxiv.org/abs/2508.20429)|null|
+|**2025-09-10**|**Bosonization in $R$ -paraparticle Luttinger models**|Dennis F. Salinel et.al.|[2508.20429](http://arxiv.org/abs/2508.20429)|null|
 |**2025-08-24**|**Robust Point Cloud Registration via Geometric Overlapping Guided Rotation Search**|Zhao Zheng et.al.|[2508.17427](http://arxiv.org/abs/2508.17427)|null|
 |**2025-08-20**|**On the Fermi-Dirac-type Fisher information**|Yuzhe Zhu et.al.|[2508.15054](http://arxiv.org/abs/2508.15054)|null|
 |**2025-08-20**|**Thermodynamics of dilute anyon gases from fusion constraints**|Yuto Nakajima et.al.|[2508.14961](http://arxiv.org/abs/2508.14961)|null|

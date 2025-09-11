@@ -605,6 +605,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**Construction of Kochen-Specker Sets from Mutually Unbiased Bases**|Mirko Navara et.al.|[2509.08636](http://arxiv.org/abs/2509.08636)|null|
 |**2025-09-09**|**Statistics of multi-electron states and $J$ -levels in atomic configurations**|Jean-Christophe Pain et.al.|[2509.04353](http://arxiv.org/abs/2509.04353)|null|
 |**2025-08-28**|**Statistical Mechanics of Paraparticles**|Nupoor Thakur et.al.|[2509.00112](http://arxiv.org/abs/2509.00112)|null|
 |**2025-09-10**|**Bosonization in $R$ -paraparticle Luttinger models**|Dennis F. Salinel et.al.|[2508.20429](http://arxiv.org/abs/2508.20429)|null|
@@ -1186,6 +1187,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**Free Cumulants and Full Eigenstate Thermalization from Boundary Scrambling**|Felix Fritzsch et.al.|[2509.08060](http://arxiv.org/abs/2509.08060)|null|
 |**2025-09-04**|**Complexity of Quadratic Quantum Chaos**|Pallab Basu et.al.|[2509.04075](http://arxiv.org/abs/2509.04075)|null|
 |**2025-09-03**|**Ancilla-Free Quantum Protocol for Thermal Green's Functions**|Changhao Yi et.al.|[2509.03288](http://arxiv.org/abs/2509.03288)|null|
 |**2025-09-02**|**Saturation of Chaos Bound in a Phenomenological Rotating Black Hole--Effective Matter System at Low-Temperature Limit**|Reza Pourkhodabakhshi et.al.|[2509.02728](http://arxiv.org/abs/2509.02728)|null|

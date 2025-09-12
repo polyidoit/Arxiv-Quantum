@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.11
+## Updated on 2025.09.12
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -919,7 +919,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-09**|**Dynamic LOCC Circuits for Automated Entanglement Manipulation**|Xia Liu et.al.|[2509.07841](http://arxiv.org/abs/2509.07841)|null|
 |**2025-09-09**|**Quantum Fisher Information as a Measure of Symmetry Breaking in Quantum Many-Body Systems**|Shion Yamashika et.al.|[2509.07468](http://arxiv.org/abs/2509.07468)|null|
-|**2025-09-09**|**Free Elections in the Free State: Ensemble Analysis of Redistricting in New Hampshire**|Atticus McWhorter et.al.|[2509.07328](http://arxiv.org/abs/2509.07328)|null|
+|**2025-09-11**|**Free Elections in the Free State: Ensemble Analysis of Redistricting in New Hampshire**|Atticus McWhorter et.al.|[2509.07328](http://arxiv.org/abs/2509.07328)|null|
 |**2025-09-09**|**Discovering Cataclysmic Variables from the Rubin Observatory LSST**|D. A. H. Buckley et.al.|[2509.07298](http://arxiv.org/abs/2509.07298)|null|
 |**2025-09-08**|**Generalized Quantum Stein's Lemma for Classical-Quantum Dynamical Resources**|Masahito Hayashi et.al.|[2509.07271](http://arxiv.org/abs/2509.07271)|null|
 |**2025-09-08**|**Record High Polarization at 2V and Imprint-free operation in Superlattice HfO2-ZrO2 by Proper Tuning of Ferro and Antiferroelectricity**|Xinye Li et.al.|[2509.07045](http://arxiv.org/abs/2509.07045)|null|

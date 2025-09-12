@@ -917,6 +917,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Real-Time Kinematic Positioning and Optical See-Through Head-Mounted Display for Outdoor Tracking: Hybrid System and Preliminary Assessment**|Muhannad Ismael et.al.|[2509.09412](http://arxiv.org/abs/2509.09412)|null|
 |**2025-09-09**|**Dynamic LOCC Circuits for Automated Entanglement Manipulation**|Xia Liu et.al.|[2509.07841](http://arxiv.org/abs/2509.07841)|null|
 |**2025-09-09**|**Quantum Fisher Information as a Measure of Symmetry Breaking in Quantum Many-Body Systems**|Shion Yamashika et.al.|[2509.07468](http://arxiv.org/abs/2509.07468)|null|
 |**2025-09-11**|**Free Elections in the Free State: Ensemble Analysis of Redistricting in New Hampshire**|Atticus McWhorter et.al.|[2509.07328](http://arxiv.org/abs/2509.07328)|null|
@@ -1187,6 +1188,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Strong-to-Weak Symmetry Breaking Phases in Steady States of Quantum Operations**|Niklas Ziereis et.al.|[2509.09669](http://arxiv.org/abs/2509.09669)|null|
 |**2025-09-09**|**Free Cumulants and Full Eigenstate Thermalization from Boundary Scrambling**|Felix Fritzsch et.al.|[2509.08060](http://arxiv.org/abs/2509.08060)|null|
 |**2025-09-04**|**Complexity of Quadratic Quantum Chaos**|Pallab Basu et.al.|[2509.04075](http://arxiv.org/abs/2509.04075)|null|
 |**2025-09-03**|**Ancilla-Free Quantum Protocol for Thermal Green's Functions**|Changhao Yi et.al.|[2509.03288](http://arxiv.org/abs/2509.03288)|null|
@@ -1748,6 +1750,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Fault-tolerant transformations of spacetime codes**|Arthur Pesah et.al.|[2509.09603](http://arxiv.org/abs/2509.09603)|null|
+|**2025-09-10**|**Quantum Error Correction in Adversarial Regimes**|Rahul Arvind et.al.|[2509.08943](http://arxiv.org/abs/2509.08943)|null|
+|**2025-09-10**|**Machine learning the effects of many quantum measurements**|Wanda Hou et.al.|[2509.08890](http://arxiv.org/abs/2509.08890)|null|
 |**2025-09-09**|**Dual of Algebraic Geometry codes from Hirzebruch surfaces**|Alix Barraud et.al.|[2509.07761](http://arxiv.org/abs/2509.07761)|null|
 |**2025-09-08**|**Compressing Syndrome Measurement Sequences**|Benjamin Anker et.al.|[2509.07288](http://arxiv.org/abs/2509.07288)|null|
 |**2025-09-08**|**A Class of Cyclic Quantum Codes**|Matthew B. Hastings et.al.|[2509.06865](http://arxiv.org/abs/2509.06865)|null|

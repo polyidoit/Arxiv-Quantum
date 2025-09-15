@@ -1771,6 +1771,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-12**|**A Symmetry-Integrated Approach to Surface Code Decoding**|Hoshitaro Ohnishi et.al.|[2509.10164](http://arxiv.org/abs/2509.10164)|null|
+|**2025-09-11**|**Lower-depth local encoding circuits for the surface code**|Jahan Claes et.al.|[2509.09779](http://arxiv.org/abs/2509.09779)|null|
 |**2025-09-11**|**Fault-tolerant transformations of spacetime codes**|Arthur Pesah et.al.|[2509.09603](http://arxiv.org/abs/2509.09603)|null|
 |**2025-09-10**|**Quantum Error Correction in Adversarial Regimes**|Rahul Arvind et.al.|[2509.08943](http://arxiv.org/abs/2509.08943)|null|
 |**2025-09-10**|**Machine learning the effects of many quantum measurements**|Wanda Hou et.al.|[2509.08890](http://arxiv.org/abs/2509.08890)|null|

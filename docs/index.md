@@ -488,7 +488,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-07**|**Unified formalism and adaptive algorithms for optimal quantum state, detector and process tomography**|Shuixin Xiao et.al.|[2509.05988](http://arxiv.org/abs/2509.05988)|null|
 |**2025-08-31**|**Quantum Causality: Resolving Simpson's Paradox with $\mathcal{DO}$ -Calculus**|Pilsung Kang et.al.|[2509.00744](http://arxiv.org/abs/2509.00744)|null|
-|**2025-09-06**|**A Superselection Rule for Quantum Causality**|Issam Ibnouhsein et.al.|[2508.17075](http://arxiv.org/abs/2508.17075)|null|
+|**2025-09-15**|**A Superselection Rule for Quantum Causality**|Issam Ibnouhsein et.al.|[2508.17075](http://arxiv.org/abs/2508.17075)|null|
 |**2025-08-21**|**Complex Heat Capacity as a Witness of Spatio-Temporal Entanglement**|Mia Stamatova et.al.|[2508.15728](http://arxiv.org/abs/2508.15728)|null|
 |**2025-08-19**|**Logical Error Rates for the Surface Code Under a Mixed Coherent and Stochastic Circuit-Level Noise Model Inspired by Trapped Ions**|Tyler LeBlond et.al.|[2508.14227](http://arxiv.org/abs/2508.14227)|null|
 |**2025-08-16**|**Conditional mutual information: A generalization of causal inference in quantum systems**|Anupam Ghosh et.al.|[2508.12160](http://arxiv.org/abs/2508.12160)|null|
@@ -605,6 +605,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-14**|**Hidden correlations in quantum jumps: A theory of individual trials**|Hiroshi Ishikawa et.al.|[2509.11277](http://arxiv.org/abs/2509.11277)|null|
 |**2025-09-10**|**Construction of Kochen-Specker Sets from Mutually Unbiased Bases**|Mirko Navara et.al.|[2509.08636](http://arxiv.org/abs/2509.08636)|null|
 |**2025-09-09**|**Statistics of multi-electron states and $J$ -levels in atomic configurations**|Jean-Christophe Pain et.al.|[2509.04353](http://arxiv.org/abs/2509.04353)|null|
 |**2025-08-28**|**Statistical Mechanics of Paraparticles**|Nupoor Thakur et.al.|[2509.00112](http://arxiv.org/abs/2509.00112)|null|
@@ -917,6 +918,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-13**|**Factor Graph Optimization for Leak Localization in Water Distribution Networks**|Paul Irofti et.al.|[2509.10982](http://arxiv.org/abs/2509.10982)|null|
 |**2025-09-11**|**Real-Time Kinematic Positioning and Optical See-Through Head-Mounted Display for Outdoor Tracking: Hybrid System and Preliminary Assessment**|Muhannad Ismael et.al.|[2509.09412](http://arxiv.org/abs/2509.09412)|null|
 |**2025-09-09**|**Dynamic LOCC Circuits for Automated Entanglement Manipulation**|Xia Liu et.al.|[2509.07841](http://arxiv.org/abs/2509.07841)|null|
 |**2025-09-09**|**Quantum Fisher Information as a Measure of Symmetry Breaking in Quantum Many-Body Systems**|Shion Yamashika et.al.|[2509.07468](http://arxiv.org/abs/2509.07468)|null|
@@ -1750,6 +1752,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**High-performance multiplexed readout of superconducting qubits with a tunable broadband Purcell filter**|Yuzhe Xiong et.al.|[2509.11822](http://arxiv.org/abs/2509.11822)|null|
+|**2025-09-14**|**Neural Decoders for Universal Quantum Algorithms**|J. Pablo Bonilla Ataides et.al.|[2509.11370](http://arxiv.org/abs/2509.11370)|null|
+|**2025-09-13**|**A structure theorem for complex-valued quasiprobability representations of physical theories**|Rafael Wagner et.al.|[2509.10949](http://arxiv.org/abs/2509.10949)|null|
 |**2025-09-12**|**A Symmetry-Integrated Approach to Surface Code Decoding**|Hoshitaro Ohnishi et.al.|[2509.10164](http://arxiv.org/abs/2509.10164)|null|
 |**2025-09-11**|**Lower-depth local encoding circuits for the surface code**|Jahan Claes et.al.|[2509.09779](http://arxiv.org/abs/2509.09779)|null|
 |**2025-09-11**|**Fault-tolerant transformations of spacetime codes**|Arthur Pesah et.al.|[2509.09603](http://arxiv.org/abs/2509.09603)|null|

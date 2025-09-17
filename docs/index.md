@@ -918,6 +918,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Generalized Quantum Stein's Lemma and Reversibility of Quantum Resource Theories for Classical-Quantum Channels**|Bjarne Bergh et.al.|[2509.13280](http://arxiv.org/abs/2509.13280)|null|
+|**2025-09-16**|**Erasing, Converting, and Communicating: The Power of Resource-Nongenerating Operations**|Xian Shi et.al.|[2509.12604](http://arxiv.org/abs/2509.12604)|null|
 |**2025-09-13**|**Factor Graph Optimization for Leak Localization in Water Distribution Networks**|Paul Irofti et.al.|[2509.10982](http://arxiv.org/abs/2509.10982)|null|
 |**2025-09-11**|**Real-Time Kinematic Positioning and Optical See-Through Head-Mounted Display for Outdoor Tracking: Hybrid System and Preliminary Assessment**|Muhannad Ismael et.al.|[2509.09412](http://arxiv.org/abs/2509.09412)|null|
 |**2025-09-09**|**Dynamic LOCC Circuits for Automated Entanglement Manipulation**|Xia Liu et.al.|[2509.07841](http://arxiv.org/abs/2509.07841)|null|
@@ -1190,6 +1192,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**Entanglement Suppression in Quantum Field Theories: Holography, Chaos, and Mixed-State Dynamics**|Davood Momeni et.al.|[2509.12260](http://arxiv.org/abs/2509.12260)|null|
 |**2025-09-11**|**Strong-to-Weak Symmetry Breaking Phases in Steady States of Quantum Operations**|Niklas Ziereis et.al.|[2509.09669](http://arxiv.org/abs/2509.09669)|null|
 |**2025-09-09**|**Free Cumulants and Full Eigenstate Thermalization from Boundary Scrambling**|Felix Fritzsch et.al.|[2509.08060](http://arxiv.org/abs/2509.08060)|null|
 |**2025-09-04**|**Complexity of Quadratic Quantum Chaos**|Pallab Basu et.al.|[2509.04075](http://arxiv.org/abs/2509.04075)|null|
@@ -1752,6 +1755,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning**|Atta ur Rahman et.al.|[2509.12832](http://arxiv.org/abs/2509.12832)|null|
+|**2025-09-16**|**Designing Shadow Tomography Protocols by Natural Language Processing**|Yadong Wu et.al.|[2509.12782](http://arxiv.org/abs/2509.12782)|null|
+|**2025-09-16**|**Stabilizer Perturbation Theory: A Systematic Construction via Schrieffer-Wolff Transformation**|Xuzhe Ying et.al.|[2509.12621](http://arxiv.org/abs/2509.12621)|null|
+|**2025-09-15**|**A graphical diagnostic of topological order using ZX calculus**|Sergi Mas-Mendoza et.al.|[2509.12355](http://arxiv.org/abs/2509.12355)|null|
 |**2025-09-15**|**High-performance multiplexed readout of superconducting qubits with a tunable broadband Purcell filter**|Yuzhe Xiong et.al.|[2509.11822](http://arxiv.org/abs/2509.11822)|null|
 |**2025-09-14**|**Neural Decoders for Universal Quantum Algorithms**|J. Pablo Bonilla Ataides et.al.|[2509.11370](http://arxiv.org/abs/2509.11370)|null|
 |**2025-09-13**|**A structure theorem for complex-valued quasiprobability representations of physical theories**|Rafael Wagner et.al.|[2509.10949](http://arxiv.org/abs/2509.10949)|null|

@@ -935,6 +935,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-16**|**A Computational Picture of Hydride Formation and Dissipation In Nb SRF Cavities**|Aiden Harbick et.al.|[2509.13555](http://arxiv.org/abs/2509.13555)|null|
 |**2025-09-16**|**Generalized Quantum Stein's Lemma and Reversibility of Quantum Resource Theories for Classical-Quantum Channels**|Bjarne Bergh et.al.|[2509.13280](http://arxiv.org/abs/2509.13280)|null|
 |**2025-09-16**|**Erasing, Converting, and Communicating: The Power of Resource-Nongenerating Operations**|Xian Shi et.al.|[2509.12604](http://arxiv.org/abs/2509.12604)|null|
 |**2025-09-13**|**Factor Graph Optimization for Leak Localization in Water Distribution Networks**|Paul Irofti et.al.|[2509.10982](http://arxiv.org/abs/2509.10982)|null|
@@ -1211,6 +1212,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-16**|**Quantum speed limit for the OTOC from an open systems perspective**|Devjyoti Tripathy et.al.|[2509.13519](http://arxiv.org/abs/2509.13519)|null|
+|**2025-09-16**|**Free mutual information and higher-point OTOCs**|Shreya Vardhan et.al.|[2509.13406](http://arxiv.org/abs/2509.13406)|null|
 |**2025-09-12**|**Entanglement Suppression in Quantum Field Theories: Holography, Chaos, and Mixed-State Dynamics**|Davood Momeni et.al.|[2509.12260](http://arxiv.org/abs/2509.12260)|null|
 |**2025-09-11**|**Strong-to-Weak Symmetry Breaking Phases in Steady States of Quantum Operations**|Niklas Ziereis et.al.|[2509.09669](http://arxiv.org/abs/2509.09669)|null|
 |**2025-09-09**|**Free Cumulants and Full Eigenstate Thermalization from Boundary Scrambling**|Felix Fritzsch et.al.|[2509.08060](http://arxiv.org/abs/2509.08060)|null|
@@ -1776,6 +1779,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-17**|**Rare Event Simulation of Quantum Error-Correcting Circuits**|Carolyn Mayer et.al.|[2509.13678](http://arxiv.org/abs/2509.13678)|null|
+|**2025-09-16**|**End-to-End Complexity Analysis for Quantum Simulation of the Extended Jaynes-Cummings Models**|Nam Nguyen et.al.|[2509.13546](http://arxiv.org/abs/2509.13546)|null|
 |**2025-09-16**|**The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning**|Atta ur Rahman et.al.|[2509.12832](http://arxiv.org/abs/2509.12832)|null|
 |**2025-09-16**|**Designing Shadow Tomography Protocols by Natural Language Processing**|Yadong Wu et.al.|[2509.12782](http://arxiv.org/abs/2509.12782)|null|
 |**2025-09-16**|**Stabilizer Perturbation Theory: A Systematic Construction via Schrieffer-Wolff Transformation**|Xuzhe Ying et.al.|[2509.12621](http://arxiv.org/abs/2509.12621)|null|

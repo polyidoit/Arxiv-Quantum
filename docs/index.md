@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**Bell Meets General Philosophers of Science : Reassessing Measurement Independence**|Yuichiro Kitajima et.al.|[2509.14458](http://arxiv.org/abs/2509.14458)|null|
 |**2025-09-09**|**Particle Collisions & Quantum Entanglement in High-Energy Collisions**|Emidio Gabrielli et.al.|[2509.07585](http://arxiv.org/abs/2509.07585)|null|
 |**2025-09-08**|**Demonstrating an unconditional separation between quantum and classical information resources**|William Kretschmer et.al.|[2509.07255](http://arxiv.org/abs/2509.07255)|null|
 |**2025-09-05**|**Unbounded-input explicit Bell inequalities for general quantum networks**|Yao Xiao et.al.|[2509.04767](http://arxiv.org/abs/2509.04767)|null|
@@ -780,6 +781,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Quantum steering and discord in hyperon-antihyperon system in electron-positron annihilation**|Sihao Wu et.al.|[2509.14990](http://arxiv.org/abs/2509.14990)|null|
 |**2025-08-23**|**Efficient utilization of imaginarity in quantum steering**|Shounak Datta et.al.|[2508.17140](http://arxiv.org/abs/2508.17140)|null|
 |**2025-07-28**|**Witness the High-Dimensional Quantum Steering via Majorization Lattice**|Ma-Cheng Yang et.al.|[2507.20950](http://arxiv.org/abs/2507.20950)|null|
 |**2025-07-24**|**Secure One-Sided Device-Independent Quantum Key Distribution Under Collective Attacks with Enhanced Robustness**|Pritam Roy et.al.|[2507.18744](http://arxiv.org/abs/2507.18744)|null|
@@ -1193,6 +1195,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Open-system analogy of Berry conjecture**|Yaohua Li et.al.|[2509.14644](http://arxiv.org/abs/2509.14644)|null|
 |**2025-09-16**|**Quantum speed limit for the OTOC from an open systems perspective**|Devjyoti Tripathy et.al.|[2509.13519](http://arxiv.org/abs/2509.13519)|null|
 |**2025-09-16**|**Free mutual information and higher-point OTOCs**|Shreya Vardhan et.al.|[2509.13406](http://arxiv.org/abs/2509.13406)|null|
 |**2025-09-12**|**Entanglement Suppression in Quantum Field Theories: Holography, Chaos, and Mixed-State Dynamics**|Davood Momeni et.al.|[2509.12260](http://arxiv.org/abs/2509.12260)|null|
@@ -1758,6 +1761,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Composable logical gate error in approximate quantum error correction: reexamining gate implementations in Gottesman-Kitaev-Preskill codes**|Lukas Brenner et.al.|[2509.14658](http://arxiv.org/abs/2509.14658)|null|
+|**2025-09-18**|**The superconducting grid-states qubit**|Long B. Nguyen et.al.|[2509.14656](http://arxiv.org/abs/2509.14656)|null|
 |**2025-09-17**|**Rare Event Simulation of Quantum Error-Correcting Circuits**|Carolyn Mayer et.al.|[2509.13678](http://arxiv.org/abs/2509.13678)|null|
 |**2025-09-16**|**End-to-End Complexity Analysis for Quantum Simulation of the Extended Jaynes-Cummings Models**|Nam Nguyen et.al.|[2509.13546](http://arxiv.org/abs/2509.13546)|null|
 |**2025-09-16**|**The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning**|Atta ur Rahman et.al.|[2509.12832](http://arxiv.org/abs/2509.12832)|null|

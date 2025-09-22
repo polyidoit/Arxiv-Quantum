@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.21
+## Updated on 2025.09.22
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1765,7 +1765,7 @@ layout: default
 |**2025-09-18**|**The superconducting grid-states qubit**|Long B. Nguyen et.al.|[2509.14656](http://arxiv.org/abs/2509.14656)|null|
 |**2025-09-17**|**Rare Event Simulation of Quantum Error-Correcting Circuits**|Carolyn Mayer et.al.|[2509.13678](http://arxiv.org/abs/2509.13678)|null|
 |**2025-09-16**|**End-to-End Complexity Analysis for Quantum Simulation of the Extended Jaynes-Cummings Models**|Nam Nguyen et.al.|[2509.13546](http://arxiv.org/abs/2509.13546)|null|
-|**2025-09-16**|**The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning**|Atta ur Rahman et.al.|[2509.12832](http://arxiv.org/abs/2509.12832)|null|
+|**2025-09-19**|**The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning**|Atta ur Rahman et.al.|[2509.12832](http://arxiv.org/abs/2509.12832)|null|
 |**2025-09-16**|**Designing Shadow Tomography Protocols by Natural Language Processing**|Yadong Wu et.al.|[2509.12782](http://arxiv.org/abs/2509.12782)|null|
 |**2025-09-16**|**Stabilizer Perturbation Theory: A Systematic Construction via Schrieffer-Wolff Transformation**|Xuzhe Ying et.al.|[2509.12621](http://arxiv.org/abs/2509.12621)|null|
 |**2025-09-15**|**A graphical diagnostic of topological order using ZX calculus**|Sergi Mas-Mendoza et.al.|[2509.12355](http://arxiv.org/abs/2509.12355)|null|

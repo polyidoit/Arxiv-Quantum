@@ -781,6 +781,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Robust self-testing of quantum steering assemblages via operator inequalities**|Beata Zjawin et.al.|[2509.15699](http://arxiv.org/abs/2509.15699)|null|
 |**2025-09-18**|**Quantum steering and discord in hyperon-antihyperon system in electron-positron annihilation**|Sihao Wu et.al.|[2509.14990](http://arxiv.org/abs/2509.14990)|null|
 |**2025-08-23**|**Efficient utilization of imaginarity in quantum steering**|Shounak Datta et.al.|[2508.17140](http://arxiv.org/abs/2508.17140)|null|
 |**2025-07-28**|**Witness the High-Dimensional Quantum Steering via Majorization Lattice**|Ma-Cheng Yang et.al.|[2507.20950](http://arxiv.org/abs/2507.20950)|null|
@@ -920,6 +921,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Unveiling Entanglement's Metrological Power: Empirical Modeling of Optimal States in Quantum Metrics**|Volkan Erol et.al.|[2509.15954](http://arxiv.org/abs/2509.15954)|null|
 |**2025-09-16**|**A Computational Picture of Hydride Formation and Dissipation In Nb SRF Cavities**|Aiden Harbick et.al.|[2509.13555](http://arxiv.org/abs/2509.13555)|null|
 |**2025-09-16**|**Generalized Quantum Stein's Lemma and Reversibility of Quantum Resource Theories for Classical-Quantum Channels**|Bjarne Bergh et.al.|[2509.13280](http://arxiv.org/abs/2509.13280)|null|
 |**2025-09-16**|**Erasing, Converting, and Communicating: The Power of Resource-Nongenerating Operations**|Xian Shi et.al.|[2509.12604](http://arxiv.org/abs/2509.12604)|null|
@@ -1761,6 +1763,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Explainable AI for Maritime Autonomous Surface Ships (MASS): Adaptive Interfaces and Trustworthy Human-AI Collaboration**|Zhuoyue Zhang et.al.|[2509.15959](http://arxiv.org/abs/2509.15959)|null|
+|**2025-09-18**|**Fault-tolerant quantum computing with a high-rate symplectic double code**|Naoyuki Kanomata et.al.|[2509.15457](http://arxiv.org/abs/2509.15457)|null|
 |**2025-09-18**|**Composable logical gate error in approximate quantum error correction: reexamining gate implementations in Gottesman-Kitaev-Preskill codes**|Lukas Brenner et.al.|[2509.14658](http://arxiv.org/abs/2509.14658)|null|
 |**2025-09-18**|**The superconducting grid-states qubit**|Long B. Nguyen et.al.|[2509.14656](http://arxiv.org/abs/2509.14656)|null|
 |**2025-09-17**|**Rare Event Simulation of Quantum Error-Correcting Circuits**|Carolyn Mayer et.al.|[2509.13678](http://arxiv.org/abs/2509.13678)|null|

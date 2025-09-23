@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
+|**2025-09-22**|**Quantitative comparison of quantum pseudo-telepathy games and Bell inequalities**|Gábor Homa et.al.|[2509.18033](http://arxiv.org/abs/2509.18033)|null|
 |**2025-09-17**|**Bell Meets General Philosophers of Science : Reassessing Measurement Independence**|Yuichiro Kitajima et.al.|[2509.14458](http://arxiv.org/abs/2509.14458)|null|
 |**2025-09-09**|**Particle Collisions & Quantum Entanglement in High-Energy Collisions**|Emidio Gabrielli et.al.|[2509.07585](http://arxiv.org/abs/2509.07585)|null|
 |**2025-09-08**|**Demonstrating an unconditional separation between quantum and classical information resources**|William Kretschmer et.al.|[2509.07255](http://arxiv.org/abs/2509.07255)|null|
@@ -487,6 +489,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-20**|**Driving the Unruh Response**|Kevin Player et.al.|[2509.16710](http://arxiv.org/abs/2509.16710)|null|
 |**2025-09-07**|**Unified formalism and adaptive algorithms for optimal quantum state, detector and process tomography**|Shuixin Xiao et.al.|[2509.05988](http://arxiv.org/abs/2509.05988)|null|
 |**2025-08-31**|**Quantum Causality: Resolving Simpson's Paradox with $\mathcal{DO}$ -Calculus**|Pilsung Kang et.al.|[2509.00744](http://arxiv.org/abs/2509.00744)|null|
 |**2025-09-15**|**A Superselection Rule for Quantum Causality**|Issam Ibnouhsein et.al.|[2508.17075](http://arxiv.org/abs/2508.17075)|null|
@@ -606,6 +609,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**Quantitative comparison of quantum pseudo-telepathy games and Bell inequalities**|Gábor Homa et.al.|[2509.18033](http://arxiv.org/abs/2509.18033)|null|
 |**2025-09-14**|**Hidden correlations in quantum jumps: A theory of individual trials**|Hiroshi Ishikawa et.al.|[2509.11277](http://arxiv.org/abs/2509.11277)|null|
 |**2025-09-10**|**Construction of Kochen-Specker Sets from Mutually Unbiased Bases**|Mirko Navara et.al.|[2509.08636](http://arxiv.org/abs/2509.08636)|null|
 |**2025-09-09**|**Statistics of multi-electron states and $J$ -levels in atomic configurations**|Jean-Christophe Pain et.al.|[2509.04353](http://arxiv.org/abs/2509.04353)|null|
@@ -781,6 +785,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
 |**2025-09-19**|**Robust self-testing of quantum steering assemblages via operator inequalities**|Beata Zjawin et.al.|[2509.15699](http://arxiv.org/abs/2509.15699)|null|
 |**2025-09-18**|**Quantum steering and discord in hyperon-antihyperon system in electron-positron annihilation**|Sihao Wu et.al.|[2509.14990](http://arxiv.org/abs/2509.14990)|null|
 |**2025-08-23**|**Efficient utilization of imaginarity in quantum steering**|Shounak Datta et.al.|[2508.17140](http://arxiv.org/abs/2508.17140)|null|
@@ -921,6 +926,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**Triangle-free quantum graphs**|Nik Weaver et.al.|[2509.17782](http://arxiv.org/abs/2509.17782)|null|
 |**2025-09-19**|**Unveiling Entanglement's Metrological Power: Empirical Modeling of Optimal States in Quantum Metrics**|Volkan Erol et.al.|[2509.15954](http://arxiv.org/abs/2509.15954)|null|
 |**2025-09-16**|**A Computational Picture of Hydride Formation and Dissipation In Nb SRF Cavities**|Aiden Harbick et.al.|[2509.13555](http://arxiv.org/abs/2509.13555)|null|
 |**2025-09-16**|**Generalized Quantum Stein's Lemma and Reversibility of Quantum Resource Theories for Classical-Quantum Channels**|Bjarne Bergh et.al.|[2509.13280](http://arxiv.org/abs/2509.13280)|null|
@@ -1197,6 +1203,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-20**|**A Study on Stabilizer Rényi Entropy Estimation using Machine Learning**|Vincenzo Lipardi et.al.|[2509.16799](http://arxiv.org/abs/2509.16799)|null|
 |**2025-09-18**|**Open-system analogy of Berry conjecture**|Yaohua Li et.al.|[2509.14644](http://arxiv.org/abs/2509.14644)|null|
 |**2025-09-16**|**Quantum speed limit for the OTOC from an open systems perspective**|Devjyoti Tripathy et.al.|[2509.13519](http://arxiv.org/abs/2509.13519)|null|
 |**2025-09-16**|**Free mutual information and higher-point OTOCs**|Shreya Vardhan et.al.|[2509.13406](http://arxiv.org/abs/2509.13406)|null|
@@ -1204,7 +1211,7 @@ layout: default
 |**2025-09-11**|**Strong-to-Weak Symmetry Breaking Phases in Steady States of Quantum Operations**|Niklas Ziereis et.al.|[2509.09669](http://arxiv.org/abs/2509.09669)|null|
 |**2025-09-09**|**Free Cumulants and Full Eigenstate Thermalization from Boundary Scrambling**|Felix Fritzsch et.al.|[2509.08060](http://arxiv.org/abs/2509.08060)|null|
 |**2025-09-04**|**Complexity of Quadratic Quantum Chaos**|Pallab Basu et.al.|[2509.04075](http://arxiv.org/abs/2509.04075)|null|
-|**2025-09-03**|**Ancilla-Free Quantum Protocol for Thermal Green's Functions**|Changhao Yi et.al.|[2509.03288](http://arxiv.org/abs/2509.03288)|null|
+|**2025-09-22**|**Ancilla-Free Quantum Protocol for Thermal Green's Functions**|Changhao Yi et.al.|[2509.03288](http://arxiv.org/abs/2509.03288)|null|
 |**2025-09-02**|**Saturation of Chaos Bound in a Phenomenological Rotating Black Hole--Effective Matter System at Low-Temperature Limit**|Reza Pourkhodabakhshi et.al.|[2509.02728](http://arxiv.org/abs/2509.02728)|null|
 |**2025-09-01**|**Dynamics of Loschmidt echoes from operator growth in noisy quantum many-body systems**|Takato Yoshimura et.al.|[2509.01585](http://arxiv.org/abs/2509.01585)|null|
 |**2025-08-30**|**Quantum Circuits for Quantum Convolutions: A Quantum Convolutional Autoencoder**|Javier Orduz et.al.|[2509.00637](http://arxiv.org/abs/2509.00637)|null|
@@ -1763,6 +1770,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**Fast and Accurate Decoder for the XZZX code Using Simulated Annealing**|Tatsuya Sakashita et.al.|[2509.17837](http://arxiv.org/abs/2509.17837)|null|
+|**2025-09-22**|**The Free Energy Barrier: An Eyring-Polanyi bound for stabilizer Hamiltonians, with applications to quantum error correction**|Nouédyn Baspin et.al.|[2509.17356](http://arxiv.org/abs/2509.17356)|null|
+|**2025-09-21**|**Fusion-based implementation of qLDPC codes with quantum emitters**|Susan X. Chen et.al.|[2509.17223](http://arxiv.org/abs/2509.17223)|null|
+|**2025-09-21**|**Constructing an approximate logical Markovian model of consecutive QEC cycles of a stabilizer code**|Alex Kwiatkowski et.al.|[2509.16887](http://arxiv.org/abs/2509.16887)|null|
+|**2025-09-20**|**Geometric Construction of Dynamically Corrected Quantum Gates**|Shingo Kukita et.al.|[2509.16556](http://arxiv.org/abs/2509.16556)|null|
 |**2025-09-19**|**Explainable AI for Maritime Autonomous Surface Ships (MASS): Adaptive Interfaces and Trustworthy Human-AI Collaboration**|Zhuoyue Zhang et.al.|[2509.15959](http://arxiv.org/abs/2509.15959)|null|
 |**2025-09-18**|**Fault-tolerant quantum computing with a high-rate symplectic double code**|Naoyuki Kanomata et.al.|[2509.15457](http://arxiv.org/abs/2509.15457)|null|
 |**2025-09-18**|**Composable logical gate error in approximate quantum error correction: reexamining gate implementations in Gottesman-Kitaev-Preskill codes**|Lukas Brenner et.al.|[2509.14658](http://arxiv.org/abs/2509.14658)|null|

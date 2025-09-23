@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.22
+## Updated on 2025.09.23
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1767,7 +1767,7 @@ layout: default
 |**2025-09-18**|**Fault-tolerant quantum computing with a high-rate symplectic double code**|Naoyuki Kanomata et.al.|[2509.15457](http://arxiv.org/abs/2509.15457)|null|
 |**2025-09-18**|**Composable logical gate error in approximate quantum error correction: reexamining gate implementations in Gottesman-Kitaev-Preskill codes**|Lukas Brenner et.al.|[2509.14658](http://arxiv.org/abs/2509.14658)|null|
 |**2025-09-18**|**The superconducting grid-states qubit**|Long B. Nguyen et.al.|[2509.14656](http://arxiv.org/abs/2509.14656)|null|
-|**2025-09-17**|**Rare Event Simulation of Quantum Error-Correcting Circuits**|Carolyn Mayer et.al.|[2509.13678](http://arxiv.org/abs/2509.13678)|null|
+|**2025-09-19**|**Rare Event Simulation of Quantum Error-Correcting Circuits**|Carolyn Mayer et.al.|[2509.13678](http://arxiv.org/abs/2509.13678)|null|
 |**2025-09-16**|**End-to-End Complexity Analysis for Quantum Simulation of the Extended Jaynes-Cummings Models**|Nam Nguyen et.al.|[2509.13546](http://arxiv.org/abs/2509.13546)|null|
 |**2025-09-19**|**The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning**|Atta ur Rahman et.al.|[2509.12832](http://arxiv.org/abs/2509.12832)|null|
 |**2025-09-16**|**Designing Shadow Tomography Protocols by Natural Language Processing**|Yadong Wu et.al.|[2509.12782](http://arxiv.org/abs/2509.12782)|null|

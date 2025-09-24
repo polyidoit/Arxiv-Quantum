@@ -943,6 +943,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-23**|**Beyond Bloch: A Theoretical Blueprint for Conjugated Polymer Optoelectronics**|Miguel Lagos et.al.|[2509.18663](http://arxiv.org/abs/2509.18663)|null|
 |**2025-09-22**|**Triangle-free quantum graphs**|Nik Weaver et.al.|[2509.17782](http://arxiv.org/abs/2509.17782)|null|
 |**2025-09-19**|**Unveiling Entanglement's Metrological Power: Empirical Modeling of Optimal States in Quantum Metrics**|Volkan Erol et.al.|[2509.15954](http://arxiv.org/abs/2509.15954)|null|
 |**2025-09-16**|**A Computational Picture of Hydride Formation and Dissipation In Nb SRF Cavities**|Aiden Harbick et.al.|[2509.13555](http://arxiv.org/abs/2509.13555)|null|
@@ -1222,6 +1223,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-23**|**Quantum chaos and pole skipping in two-dimensional conformal perturbation theory**|Curtis T. Asplund et.al.|[2509.18540](http://arxiv.org/abs/2509.18540)|null|
+|**2025-09-22**|**Eigenstate Thermalization in 1+1-Dimensional SU(2) Lattice Gauge Theory Coupled with Dynamical Fermions**|Diptarka Das et.al.|[2509.18269](http://arxiv.org/abs/2509.18269)|null|
 |**2025-09-20**|**A Study on Stabilizer Rényi Entropy Estimation using Machine Learning**|Vincenzo Lipardi et.al.|[2509.16799](http://arxiv.org/abs/2509.16799)|null|
 |**2025-09-18**|**Open-system analogy of Berry conjecture**|Yaohua Li et.al.|[2509.14644](http://arxiv.org/abs/2509.14644)|null|
 |**2025-09-16**|**Quantum speed limit for the OTOC from an open systems perspective**|Devjyoti Tripathy et.al.|[2509.13519](http://arxiv.org/abs/2509.13519)|null|
@@ -1791,6 +1794,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-22**|**Chiral Color Code : Single-shot error correction for exotic topological order**|Dongjin Lee et.al.|[2509.18324](http://arxiv.org/abs/2509.18324)|null|
+|**2025-09-22**|**Transversal STAR architecture for megaquop-scale quantum simulation with neutral atoms**|Refaat Ismail et.al.|[2509.18294](http://arxiv.org/abs/2509.18294)|null|
 |**2025-09-22**|**Fast and Accurate Decoder for the XZZX code Using Simulated Annealing**|Tatsuya Sakashita et.al.|[2509.17837](http://arxiv.org/abs/2509.17837)|null|
 |**2025-09-22**|**The Free Energy Barrier: An Eyring-Polanyi bound for stabilizer Hamiltonians, with applications to quantum error correction**|Nouédyn Baspin et.al.|[2509.17356](http://arxiv.org/abs/2509.17356)|null|
 |**2025-09-21**|**Fusion-based implementation of qLDPC codes with quantum emitters**|Susan X. Chen et.al.|[2509.17223](http://arxiv.org/abs/2509.17223)|null|

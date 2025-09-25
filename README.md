@@ -622,6 +622,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-24**|**A Quantum Algorithm For Computing Contextuality Bounds**|Colm Kelleher et.al.|[2509.20250](http://arxiv.org/abs/2509.20250)|null|
 |**2025-09-22**|**Quantitative comparison of quantum pseudo-telepathy games and Bell inequalities**|Gábor Homa et.al.|[2509.18033](http://arxiv.org/abs/2509.18033)|null|
 |**2025-09-14**|**Hidden correlations in quantum jumps: A theory of individual trials**|Hiroshi Ishikawa et.al.|[2509.11277](http://arxiv.org/abs/2509.11277)|null|
 |**2025-09-10**|**Construction of Kochen-Specker Sets from Mutually Unbiased Bases**|Mirko Navara et.al.|[2509.08636](http://arxiv.org/abs/2509.08636)|null|
@@ -1223,6 +1224,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-24**|**Dyson Trace Flow and Dynamic Coupled Semicircle Law**|Cong Chen et.al.|[2509.19871](http://arxiv.org/abs/2509.19871)|null|
 |**2025-09-23**|**Quantum chaos and pole skipping in two-dimensional conformal perturbation theory**|Curtis T. Asplund et.al.|[2509.18540](http://arxiv.org/abs/2509.18540)|null|
 |**2025-09-22**|**Eigenstate Thermalization in 1+1-Dimensional SU(2) Lattice Gauge Theory Coupled with Dynamical Fermions**|Diptarka Das et.al.|[2509.18269](http://arxiv.org/abs/2509.18269)|null|
 |**2025-09-20**|**A Study on Stabilizer Rényi Entropy Estimation using Machine Learning**|Vincenzo Lipardi et.al.|[2509.16799](http://arxiv.org/abs/2509.16799)|null|
@@ -1794,6 +1796,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-24**|**Refine coherent control of atomic qubits via wave-function approach conditioned on no-decay**|Yuan Sun et.al.|[2509.20042](http://arxiv.org/abs/2509.20042)|null|
+|**2025-09-24**|**Amplituhedra for Generic Quantum Processes from Computation-Scattering Correspondence**|Chris Fields et.al.|[2509.19772](http://arxiv.org/abs/2509.19772)|null|
 |**2025-09-22**|**Chiral Color Code : Single-shot error correction for exotic topological order**|Dongjin Lee et.al.|[2509.18324](http://arxiv.org/abs/2509.18324)|null|
 |**2025-09-22**|**Transversal STAR architecture for megaquop-scale quantum simulation with neutral atoms**|Refaat Ismail et.al.|[2509.18294](http://arxiv.org/abs/2509.18294)|null|
 |**2025-09-22**|**Fast and Accurate Decoder for the XZZX code Using Simulated Annealing**|Tatsuya Sakashita et.al.|[2509.17837](http://arxiv.org/abs/2509.17837)|null|

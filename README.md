@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**Harnessing optical disorder for Bell inequalities violation**|Baptiste Courme et.al.|[2509.21052](http://arxiv.org/abs/2509.21052)|null|
 |**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
 |**2025-09-22**|**Quantitative comparison of quantum pseudo-telepathy games and Bell inequalities**|Gábor Homa et.al.|[2509.18033](http://arxiv.org/abs/2509.18033)|null|
 |**2025-09-17**|**Bell Meets General Philosophers of Science : Reassessing Measurement Independence**|Yuichiro Kitajima et.al.|[2509.14458](http://arxiv.org/abs/2509.14458)|null|
@@ -1224,6 +1225,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**Classical and quantum chaotic synchronization in coupled dissipative time crystals**|Eliška Postavová et.al.|[2509.20922](http://arxiv.org/abs/2509.20922)|null|
+|**2025-09-24**|**Nonlocal Magic Generation and Information Scrambling in Noisy Clifford Circuits**|Emanuel Dallas et.al.|[2509.20566](http://arxiv.org/abs/2509.20566)|null|
 |**2025-09-24**|**Dyson Trace Flow and Dynamic Coupled Semicircle Law**|Cong Chen et.al.|[2509.19871](http://arxiv.org/abs/2509.19871)|null|
 |**2025-09-23**|**Quantum chaos and pole skipping in two-dimensional conformal perturbation theory**|Curtis T. Asplund et.al.|[2509.18540](http://arxiv.org/abs/2509.18540)|null|
 |**2025-09-22**|**Eigenstate Thermalization in 1+1-Dimensional SU(2) Lattice Gauge Theory Coupled with Dynamical Fermions**|Diptarka Das et.al.|[2509.18269](http://arxiv.org/abs/2509.18269)|null|
@@ -1796,6 +1799,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**Toric surface codes and the periodicity of polytopes**|Amelia Gibbs et.al.|[2509.21178](http://arxiv.org/abs/2509.21178)|null|
+|**2025-09-25**|**Average-Case Complexity of Quantum Stabilizer Decoding**|Andrey Boris Khesin et.al.|[2509.20697](http://arxiv.org/abs/2509.20697)|null|
+|**2025-09-24**|**Quantum error correction beyond $SU(2)$ spin, bosonic, and permutation-invariant codes from convex geometry**|Arda Aydin et.al.|[2509.20545](http://arxiv.org/abs/2509.20545)|null|
 |**2025-09-24**|**Refine coherent control of atomic qubits via wave-function approach conditioned on no-decay**|Yuan Sun et.al.|[2509.20042](http://arxiv.org/abs/2509.20042)|null|
 |**2025-09-24**|**Amplituhedra for Generic Quantum Processes from Computation-Scattering Correspondence**|Chris Fields et.al.|[2509.19772](http://arxiv.org/abs/2509.19772)|null|
 |**2025-09-22**|**Chiral Color Code : Single-shot error correction for exotic topological order**|Dongjin Lee et.al.|[2509.18324](http://arxiv.org/abs/2509.18324)|null|

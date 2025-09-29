@@ -928,6 +928,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-26**|**Mpemba Effects in Quantum Complexity**|Sreemayee Aditya et.al.|[2509.22176](http://arxiv.org/abs/2509.22176)|null|
+|**2025-09-26**|**On the spectra of periodic discontinuous quantum graphs**|Mahmood Ettehad et.al.|[2509.21819](http://arxiv.org/abs/2509.21819)|null|
 |**2025-09-23**|**Beyond Bloch: A Theoretical Blueprint for Conjugated Polymer Optoelectronics**|Miguel Lagos et.al.|[2509.18663](http://arxiv.org/abs/2509.18663)|null|
 |**2025-09-22**|**Triangle-free quantum graphs**|Nik Weaver et.al.|[2509.17782](http://arxiv.org/abs/2509.17782)|null|
 |**2025-09-19**|**Unveiling Entanglement's Metrological Power: Empirical Modeling of Optimal States in Quantum Metrics**|Volkan Erol et.al.|[2509.15954](http://arxiv.org/abs/2509.15954)|null|
@@ -1206,6 +1208,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Quantum Simulation of Fermions in $AdS_2$ Black Hole: Chirality, Entanglement, and Spectral Crossovers**|Kazuki Ikeda et.al.|[2509.21410](http://arxiv.org/abs/2509.21410)|null|
 |**2025-09-26**|**Classical and quantum chaotic synchronization in coupled dissipative time crystals**|Eliška Postavová et.al.|[2509.20922](http://arxiv.org/abs/2509.20922)|null|
 |**2025-09-24**|**Nonlocal Magic Generation and Information Scrambling in Noisy Clifford Circuits**|Emanuel Dallas et.al.|[2509.20566](http://arxiv.org/abs/2509.20566)|null|
 |**2025-09-24**|**Dyson Trace Flow and Dynamic Coupled Semicircle Law**|Cong Chen et.al.|[2509.19871](http://arxiv.org/abs/2509.19871)|null|
@@ -1778,6 +1781,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-26**|**Decoding quantum low density parity check codes with diffusion**|Zejun Liu et.al.|[2509.22347](http://arxiv.org/abs/2509.22347)|null|
+|**2025-09-26**|**Extending coherence time beyond break-even point using only drives and dissipation**|Lida Sun et.al.|[2509.22191](http://arxiv.org/abs/2509.22191)|null|
+|**2025-09-25**|**On the hardness of approximating minimum distances of quantum codes**|Elena Grigorescu et.al.|[2509.21469](http://arxiv.org/abs/2509.21469)|null|
+|**2025-09-25**|**Holographic codes and bulk RG flows**|Xi Dong et.al.|[2509.21438](http://arxiv.org/abs/2509.21438)|null|
 |**2025-09-25**|**Toric surface codes and the periodicity of polytopes**|Amelia Gibbs et.al.|[2509.21178](http://arxiv.org/abs/2509.21178)|null|
 |**2025-09-25**|**Average-Case Complexity of Quantum Stabilizer Decoding**|Andrey Boris Khesin et.al.|[2509.20697](http://arxiv.org/abs/2509.20697)|null|
 |**2025-09-24**|**Quantum error correction beyond $SU(2)$ spin, bosonic, and permutation-invariant codes from convex geometry**|Arda Aydin et.al.|[2509.20545](http://arxiv.org/abs/2509.20545)|null|

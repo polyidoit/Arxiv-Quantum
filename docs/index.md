@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.28
+## Updated on 2025.09.29
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1206,7 +1206,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-25**|**Classical and quantum chaotic synchronization in coupled dissipative time crystals**|Eliška Postavová et.al.|[2509.20922](http://arxiv.org/abs/2509.20922)|null|
+|**2025-09-26**|**Classical and quantum chaotic synchronization in coupled dissipative time crystals**|Eliška Postavová et.al.|[2509.20922](http://arxiv.org/abs/2509.20922)|null|
 |**2025-09-24**|**Nonlocal Magic Generation and Information Scrambling in Noisy Clifford Circuits**|Emanuel Dallas et.al.|[2509.20566](http://arxiv.org/abs/2509.20566)|null|
 |**2025-09-24**|**Dyson Trace Flow and Dynamic Coupled Semicircle Law**|Cong Chen et.al.|[2509.19871](http://arxiv.org/abs/2509.19871)|null|
 |**2025-09-23**|**Quantum chaos and pole skipping in two-dimensional conformal perturbation theory**|Curtis T. Asplund et.al.|[2509.18540](http://arxiv.org/abs/2509.18540)|null|

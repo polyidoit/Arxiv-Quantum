@@ -490,6 +490,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**Effective Free Energy Landscapes and Hawking-Page Transitions**|Choon-Lin Ho et.al.|[2509.25039](http://arxiv.org/abs/2509.25039)|null|
 |**2025-09-20**|**Driving the Unruh Response**|Kevin Player et.al.|[2509.16710](http://arxiv.org/abs/2509.16710)|null|
 |**2025-09-07**|**Unified formalism and adaptive algorithms for optimal quantum state, detector and process tomography**|Shuixin Xiao et.al.|[2509.05988](http://arxiv.org/abs/2509.05988)|null|
 |**2025-08-31**|**Quantum Causality: Resolving Simpson's Paradox with $\mathcal{DO}$ -Calculus**|Pilsung Kang et.al.|[2509.00744](http://arxiv.org/abs/2509.00744)|null|
@@ -1208,6 +1209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**Pseudorandom Unitaries in the Haar Random Oracle Model**|Prabhanjan Ananth et.al.|[2509.24432](http://arxiv.org/abs/2509.24432)|null|
 |**2025-09-25**|**Quantum Simulation of Fermions in $AdS_2$ Black Hole: Chirality, Entanglement, and Spectral Crossovers**|Kazuki Ikeda et.al.|[2509.21410](http://arxiv.org/abs/2509.21410)|null|
 |**2025-09-26**|**Classical and quantum chaotic synchronization in coupled dissipative time crystals**|Eliška Postavová et.al.|[2509.20922](http://arxiv.org/abs/2509.20922)|null|
 |**2025-09-24**|**Nonlocal Magic Generation and Information Scrambling in Noisy Clifford Circuits**|Emanuel Dallas et.al.|[2509.20566](http://arxiv.org/abs/2509.20566)|null|
@@ -1781,6 +1783,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**Distributed Quantum Error Correction with Permutation-Invariant Approximate Codes**|Connor Clayton et.al.|[2509.25093](http://arxiv.org/abs/2509.25093)|null|
+|**2025-09-29**|**Demonstration of quantum error detection in a silicon quantum processor**|Chunhui Zhang et.al.|[2509.24766](http://arxiv.org/abs/2509.24766)|null|
+|**2025-09-29**|**A Quantum Computer Based on Donor-Cluster Arrays in Silicon**|Shihang Zhang et.al.|[2509.24749](http://arxiv.org/abs/2509.24749)|null|
+|**2025-09-29**|**Automated Discovery of Gadgets in Quantum Circuits for Efficient Reinforcement Learning**|Oleg M. Yevtushenko et.al.|[2509.24666](http://arxiv.org/abs/2509.24666)|null|
+|**2025-09-28**|**Hyperbolic Floquet code with graph-edge syndromes**|Hideyuki Ozawa et.al.|[2509.24110](http://arxiv.org/abs/2509.24110)|null|
+|**2025-09-26**|**A Sparse $Z_2$ Chain Complex Without a Sparse Lift**|Matthew B. Hastings et.al.|[2509.22998](http://arxiv.org/abs/2509.22998)|null|
 |**2025-09-26**|**Decoding quantum low density parity check codes with diffusion**|Zejun Liu et.al.|[2509.22347](http://arxiv.org/abs/2509.22347)|null|
 |**2025-09-26**|**Extending coherence time beyond break-even point using only drives and dissipation**|Lida Sun et.al.|[2509.22191](http://arxiv.org/abs/2509.22191)|null|
 |**2025-09-25**|**On the hardness of approximating minimum distances of quantum codes**|Elena Grigorescu et.al.|[2509.21469](http://arxiv.org/abs/2509.21469)|null|

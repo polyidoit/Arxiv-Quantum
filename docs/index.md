@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1787,7 +1787,7 @@ layout: default
 |**2025-09-25**|**Holographic codes and bulk RG flows**|Xi Dong et.al.|[2509.21438](http://arxiv.org/abs/2509.21438)|null|
 |**2025-09-25**|**Toric surface codes and the periodicity of polytopes**|Amelia Gibbs et.al.|[2509.21178](http://arxiv.org/abs/2509.21178)|null|
 |**2025-09-25**|**Average-Case Complexity of Quantum Stabilizer Decoding**|Andrey Boris Khesin et.al.|[2509.20697](http://arxiv.org/abs/2509.20697)|null|
-|**2025-09-24**|**Quantum error correction beyond $SU(2)$ spin, bosonic, and permutation-invariant codes from convex geometry**|Arda Aydin et.al.|[2509.20545](http://arxiv.org/abs/2509.20545)|null|
+|**2025-09-27**|**Quantum error correction beyond $SU(2)$ : spin, bosonic, and permutation-invariant codes from convex geometry**|Arda Aydin et.al.|[2509.20545](http://arxiv.org/abs/2509.20545)|null|
 |**2025-09-24**|**Refine coherent control of atomic qubits via wave-function approach conditioned on no-decay**|Yuan Sun et.al.|[2509.20042](http://arxiv.org/abs/2509.20042)|null|
 |**2025-09-24**|**Amplituhedra for Generic Quantum Processes from Computation-Scattering Correspondence**|Chris Fields et.al.|[2509.19772](http://arxiv.org/abs/2509.19772)|null|
 |**2025-09-22**|**Chiral Color Code : Single-shot error correction for exotic topological order**|Dongjin Lee et.al.|[2509.18324](http://arxiv.org/abs/2509.18324)|null|

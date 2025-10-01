@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.30
+## Updated on 2025.10.01
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1788,7 +1788,7 @@ layout: default
 |**2025-09-29**|**A Quantum Computer Based on Donor-Cluster Arrays in Silicon**|Shihang Zhang et.al.|[2509.24749](http://arxiv.org/abs/2509.24749)|null|
 |**2025-09-29**|**Automated Discovery of Gadgets in Quantum Circuits for Efficient Reinforcement Learning**|Oleg M. Yevtushenko et.al.|[2509.24666](http://arxiv.org/abs/2509.24666)|null|
 |**2025-09-28**|**Hyperbolic Floquet code with graph-edge syndromes**|Hideyuki Ozawa et.al.|[2509.24110](http://arxiv.org/abs/2509.24110)|null|
-|**2025-09-26**|**A Sparse $Z_2$ Chain Complex Without a Sparse Lift**|Matthew B. Hastings et.al.|[2509.22998](http://arxiv.org/abs/2509.22998)|null|
+|**2025-09-30**|**A Sparse $Z_2$ Chain Complex Without a Sparse Lift**|Matthew B. Hastings et.al.|[2509.22998](http://arxiv.org/abs/2509.22998)|null|
 |**2025-09-26**|**Decoding quantum low density parity check codes with diffusion**|Zejun Liu et.al.|[2509.22347](http://arxiv.org/abs/2509.22347)|null|
 |**2025-09-26**|**Extending coherence time beyond break-even point using only drives and dissipation**|Lida Sun et.al.|[2509.22191](http://arxiv.org/abs/2509.22191)|null|
 |**2025-09-25**|**On the hardness of approximating minimum distances of quantum codes**|Elena Grigorescu et.al.|[2509.21469](http://arxiv.org/abs/2509.21469)|null|

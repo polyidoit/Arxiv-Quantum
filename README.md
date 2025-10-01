@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**Photonic Simulation of Beyond-Quantum Nonlocal Correlations (e.g. Popescu-Rohrlich Box) with Non-Signaling Quantum Resources**|Kunal Shukla et.al.|[2509.26271](http://arxiv.org/abs/2509.26271)|null|
 |**2025-09-25**|**Harnessing optical disorder for Bell inequalities violation**|Baptiste Courme et.al.|[2509.21052](http://arxiv.org/abs/2509.21052)|null|
 |**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
 |**2025-09-22**|**Quantitative comparison of quantum pseudo-telepathy games and Bell inequalities**|Gábor Homa et.al.|[2509.18033](http://arxiv.org/abs/2509.18033)|null|
@@ -624,6 +625,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**The Pauli exclusion principle from the optical theorem**|Peter Matak et.al.|[2509.26612](http://arxiv.org/abs/2509.26612)|null|
 |**2025-09-24**|**A Quantum Algorithm For Computing Contextuality Bounds**|Colm Kelleher et.al.|[2509.20250](http://arxiv.org/abs/2509.20250)|null|
 |**2025-09-22**|**Quantitative comparison of quantum pseudo-telepathy games and Bell inequalities**|Gábor Homa et.al.|[2509.18033](http://arxiv.org/abs/2509.18033)|null|
 |**2025-09-14**|**Hidden correlations in quantum jumps: A theory of individual trials**|Hiroshi Ishikawa et.al.|[2509.11277](http://arxiv.org/abs/2509.11277)|null|
@@ -1228,6 +1230,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**Advantage of utilizing nonlocal magic resource in Haar-random circuits**|Xiao Huang et.al.|[2509.26342](http://arxiv.org/abs/2509.26342)|null|
+|**2025-09-30**|**Strong random unitaries and fast scrambling**|Thomas Schuster et.al.|[2509.26310](http://arxiv.org/abs/2509.26310)|null|
+|**2025-09-30**|**Study of chaos and scrambling in hairy AdS Soliton**|Adrita Chakraborty et.al.|[2509.26059](http://arxiv.org/abs/2509.26059)|null|
+|**2025-09-29**|**Krylov Winding and Emergent Coherence in Operator Growth Dynamics**|Rishik Perugu et.al.|[2509.25331](http://arxiv.org/abs/2509.25331)|null|
 |**2025-09-29**|**Pseudorandom Unitaries in the Haar Random Oracle Model**|Prabhanjan Ananth et.al.|[2509.24432](http://arxiv.org/abs/2509.24432)|null|
 |**2025-09-25**|**Quantum Simulation of Fermions in $AdS_2$ Black Hole: Chirality, Entanglement, and Spectral Crossovers**|Kazuki Ikeda et.al.|[2509.21410](http://arxiv.org/abs/2509.21410)|null|
 |**2025-09-26**|**Classical and quantum chaotic synchronization in coupled dissipative time crystals**|Eliška Postavová et.al.|[2509.20922](http://arxiv.org/abs/2509.20922)|null|
@@ -1804,6 +1810,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**Autonomous quantum error correction beyond break-even and its metrological application**|Zhongchu Ni et.al.|[2509.26042](http://arxiv.org/abs/2509.26042)|null|
+|**2025-09-29**|**Encoder Circuit Optimization for Non-Binary Quantum Error Correction Codes in Prime Dimensions: An Algorithmic Framework**|Aditya Sodhani et.al.|[2509.25587](http://arxiv.org/abs/2509.25587)|null|
 |**2025-09-29**|**Distributed Quantum Error Correction with Permutation-Invariant Approximate Codes**|Connor Clayton et.al.|[2509.25093](http://arxiv.org/abs/2509.25093)|null|
 |**2025-09-29**|**Demonstration of quantum error detection in a silicon quantum processor**|Chunhui Zhang et.al.|[2509.24766](http://arxiv.org/abs/2509.24766)|null|
 |**2025-09-29**|**A Quantum Computer Based on Donor-Cluster Arrays in Silicon**|Shihang Zhang et.al.|[2509.24749](http://arxiv.org/abs/2509.24749)|null|

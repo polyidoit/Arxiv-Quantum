@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**Realism and the Inequivalence of the Two Quantum Pictures**|Charles Alexandre Bédard et.al.|[2510.02138](http://arxiv.org/abs/2510.02138)|null|
+|**2025-10-01**|**On the Relativity of Quantumness as Implied by Relativity of Arithmetic and Probability**|Marek Czachor et.al.|[2510.00637](http://arxiv.org/abs/2510.00637)|null|
 |**2025-09-30**|**Photonic Simulation of Beyond-Quantum Nonlocal Correlations (e.g. Popescu-Rohrlich Box) with Non-Signaling Quantum Resources**|Kunal Shukla et.al.|[2509.26271](http://arxiv.org/abs/2509.26271)|null|
 |**2025-09-25**|**Harnessing optical disorder for Bell inequalities violation**|Baptiste Courme et.al.|[2509.21052](http://arxiv.org/abs/2509.21052)|null|
 |**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
@@ -948,6 +950,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**Continual Personalization for Diffusion Models**|Yu-Chien Liao et.al.|[2510.02296](http://arxiv.org/abs/2510.02296)|null|
+|**2025-10-01**|**Flexible Catalysis**|Máté Weisz et.al.|[2510.01065](http://arxiv.org/abs/2510.01065)|null|
+|**2025-10-01**|**RTFF: Random-to-Target Fabric Flattening Policy using Dual-Arm Manipulator**|Kai Tang et.al.|[2510.00814](http://arxiv.org/abs/2510.00814)|null|
+|**2025-10-01**|**Full-Field Brillouin Microscopy with a Scanning Fabry-Perot Interferometer**|Mikolaj Pochylski et.al.|[2510.00700](http://arxiv.org/abs/2510.00700)|null|
+|**2025-10-01**|**Field-free Superconducting Diode Effect in FeTe $_{0.55}$Se$_{0.45}$**|Peng Dong et.al.|[2510.00575](http://arxiv.org/abs/2510.00575)|null|
+|**2025-10-01**|**Photonic Hybrid Quantum Computing**|Jaehak Lee et.al.|[2510.00534](http://arxiv.org/abs/2510.00534)|null|
 |**2025-09-26**|**Mpemba Effects in Quantum Complexity**|Sreemayee Aditya et.al.|[2509.22176](http://arxiv.org/abs/2509.22176)|null|
 |**2025-09-26**|**On the spectra of periodic discontinuous quantum graphs**|Mahmood Ettehad et.al.|[2509.21819](http://arxiv.org/abs/2509.21819)|null|
 |**2025-09-23**|**Beyond Bloch: A Theoretical Blueprint for Conjugated Polymer Optoelectronics**|Miguel Lagos et.al.|[2509.18663](http://arxiv.org/abs/2509.18663)|null|
@@ -1230,6 +1238,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**Digital quantum simulation of many-body localization crossover in a disordered kicked Ising model**|Tomoya Hayata et.al.|[2510.01983](http://arxiv.org/abs/2510.01983)|null|
+|**2025-10-01**|**Quantum Signatures of Strange Attractors**|Bence Dárdai et.al.|[2510.01416](http://arxiv.org/abs/2510.01416)|null|
+|**2025-10-01**|**Brickwall model for hyperbolic black holes and chaos**|Hyun-Sik Jeong et.al.|[2510.00886](http://arxiv.org/abs/2510.00886)|null|
+|**2025-09-30**|**Complexity and hardness of random peaked circuits**|Yuxuan Zhang et.al.|[2510.00132](http://arxiv.org/abs/2510.00132)|null|
 |**2025-09-30**|**Advantage of utilizing nonlocal magic resource in Haar-random circuits**|Xiao Huang et.al.|[2509.26342](http://arxiv.org/abs/2509.26342)|null|
 |**2025-09-30**|**Strong random unitaries and fast scrambling**|Thomas Schuster et.al.|[2509.26310](http://arxiv.org/abs/2509.26310)|null|
 |**2025-09-30**|**Study of chaos and scrambling in hairy AdS Soliton**|Adrita Chakraborty et.al.|[2509.26059](http://arxiv.org/abs/2509.26059)|null|
@@ -1810,6 +1822,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**Beyond Belief Propagation: Cluster-Corrected Tensor Network Contraction with Exponential Convergence**|Siddhant Midha et.al.|[2510.02290](http://arxiv.org/abs/2510.02290)|null|
+|**2025-10-02**|**Computing Phylogenetic Diversity**|Jannik Schestag et.al.|[2510.01849](http://arxiv.org/abs/2510.01849)|null|
+|**2025-10-01**|**A robust phase of continuous transversal gates in quantum stabilizer codes**|Eric Huang et.al.|[2510.01319](http://arxiv.org/abs/2510.01319)|null|
+|**2025-10-01**|**Combining Error Detection and Mitigation: A Hybrid Protocol for Near-Term Quantum Simulation**|Dawei Zhong et.al.|[2510.01181](http://arxiv.org/abs/2510.01181)|null|
+|**2025-10-01**|**Exploiting Translational Symmetry for Quantum Computing with Squeezed Cat Qubits**|Tomohiro Shitara et.al.|[2510.00497](http://arxiv.org/abs/2510.00497)|null|
+|**2025-10-01**|**Low Depth Color Code Circuits with CXSWAP gate**|Satoshi Yoshida et.al.|[2510.00370](http://arxiv.org/abs/2510.00370)|null|
 |**2025-09-30**|**Autonomous quantum error correction beyond break-even and its metrological application**|Zhongchu Ni et.al.|[2509.26042](http://arxiv.org/abs/2509.26042)|null|
 |**2025-10-01**|**Encoder Circuit Optimization for Non-Binary Quantum Error Correction Codes in Prime Dimensions: An Algorithmic Framework**|Aditya Sodhani et.al.|[2509.25587](http://arxiv.org/abs/2509.25587)|null|
 |**2025-09-29**|**Distributed Quantum Error Correction with Permutation-Invariant Approximate Codes**|Connor Clayton et.al.|[2509.25093](http://arxiv.org/abs/2509.25093)|null|

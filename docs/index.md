@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.02
+## Updated on 2025.10.03
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -935,7 +935,7 @@ layout: default
 |**2025-09-26**|**On the spectra of periodic discontinuous quantum graphs**|Mahmood Ettehad et.al.|[2509.21819](http://arxiv.org/abs/2509.21819)|null|
 |**2025-09-23**|**Beyond Bloch: A Theoretical Blueprint for Conjugated Polymer Optoelectronics**|Miguel Lagos et.al.|[2509.18663](http://arxiv.org/abs/2509.18663)|null|
 |**2025-09-22**|**Triangle-free quantum graphs**|Nik Weaver et.al.|[2509.17782](http://arxiv.org/abs/2509.17782)|null|
-|**2025-09-19**|**Unveiling Entanglement's Metrological Power: Empirical Modeling of Optimal States in Quantum Metrics**|Volkan Erol et.al.|[2509.15954](http://arxiv.org/abs/2509.15954)|null|
+|**2025-10-02**|**Unveiling Entanglement's Metrological Power: Empirical Modeling of Optimal States in Quantum Metrics**|Volkan Erol et.al.|[2509.15954](http://arxiv.org/abs/2509.15954)|null|
 |**2025-09-16**|**A Computational Picture of Hydride Formation and Dissipation In Nb SRF Cavities**|Aiden Harbick et.al.|[2509.13555](http://arxiv.org/abs/2509.13555)|null|
 |**2025-09-16**|**Generalized Quantum Stein's Lemma and Reversibility of Quantum Resource Theories for Classical-Quantum Channels**|Bjarne Bergh et.al.|[2509.13280](http://arxiv.org/abs/2509.13280)|null|
 |**2025-09-16**|**Erasing, Converting, and Communicating: The Power of Resource-Nongenerating Operations**|Xian Shi et.al.|[2509.12604](http://arxiv.org/abs/2509.12604)|null|
@@ -1790,7 +1790,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-30**|**Autonomous quantum error correction beyond break-even and its metrological application**|Zhongchu Ni et.al.|[2509.26042](http://arxiv.org/abs/2509.26042)|null|
-|**2025-09-29**|**Encoder Circuit Optimization for Non-Binary Quantum Error Correction Codes in Prime Dimensions: An Algorithmic Framework**|Aditya Sodhani et.al.|[2509.25587](http://arxiv.org/abs/2509.25587)|null|
+|**2025-10-01**|**Encoder Circuit Optimization for Non-Binary Quantum Error Correction Codes in Prime Dimensions: An Algorithmic Framework**|Aditya Sodhani et.al.|[2509.25587](http://arxiv.org/abs/2509.25587)|null|
 |**2025-09-29**|**Distributed Quantum Error Correction with Permutation-Invariant Approximate Codes**|Connor Clayton et.al.|[2509.25093](http://arxiv.org/abs/2509.25093)|null|
 |**2025-09-29**|**Demonstration of quantum error detection in a silicon quantum processor**|Chunhui Zhang et.al.|[2509.24766](http://arxiv.org/abs/2509.24766)|null|
 |**2025-09-29**|**A Quantum Computer Based on Donor-Cluster Arrays in Silicon**|Shihang Zhang et.al.|[2509.24749](http://arxiv.org/abs/2509.24749)|null|

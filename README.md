@@ -1,4 +1,4 @@
-## Updated on 2025.10.02
+## Updated on 2025.10.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -496,7 +496,7 @@
 |**2023-03-15**|**Violation of Bell inequality by four photon Greenberger Horne Zeilinger state with a phase from a warm atomic ensemble**|Jiho Park et.al.|[2303.08297](http://arxiv.org/abs/2303.08297)|null|
 |**2023-03-14**|**Weak entanglement improves quantum communication using only passive linear optics**|Amélie Piveteau et.al.|[2303.07907](http://arxiv.org/abs/2303.07907)|null|
 
-<p align=right>(<a href=#Updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251003>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -619,7 +619,7 @@
 |**2022-12-30**|**Mid-Infrared Spectroscopy of Components in Chondrites: Search for Processed Materials in Young Solar Systems and Comets**|A. Morlok et.al.|[2212.14835](http://arxiv.org/abs/2212.14835)|null|
 |**2022-12-21**|**The inflation hierarchy and the polarization hierarchy are complete for the quantum bilocal scenario**|Laurens T. Ligthart et.al.|[2212.11299](http://arxiv.org/abs/2212.11299)|null|
 
-<p align=right>(<a href=#Updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251003>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -799,7 +799,7 @@
 |**2022-11-26**|**Quarkyonic or baryquark matter? On the dynamical generation of momentum space shell structure**|Volker Koch et.al.|[2211.14674](http://arxiv.org/abs/2211.14674)|null|
 |**2022-11-20**|**An alternative derivation of orbital-free density functional theory**|Russell B. Thompson et.al.|[2211.14441](http://arxiv.org/abs/2211.14441)|null|
 
-<p align=right>(<a href=#Updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251003>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -942,7 +942,7 @@
 |**2023-01-18**|**Hexapartite steering based on a four-wave-mixing process with a spatially structured pump**|Yunyun Liang et.al.|[2301.07536](http://arxiv.org/abs/2301.07536)|null|
 |**2023-01-16**|**Exploring the nature of neutrinos in a dissipative environment**|Chinmay Bera et.al.|[2301.06594](http://arxiv.org/abs/2301.06594)|null|
 
-<p align=right>(<a href=#Updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251003>back to top</a>)</p>
 
 ## Resource theory
 
@@ -952,7 +952,7 @@
 |**2025-09-26**|**On the spectra of periodic discontinuous quantum graphs**|Mahmood Ettehad et.al.|[2509.21819](http://arxiv.org/abs/2509.21819)|null|
 |**2025-09-23**|**Beyond Bloch: A Theoretical Blueprint for Conjugated Polymer Optoelectronics**|Miguel Lagos et.al.|[2509.18663](http://arxiv.org/abs/2509.18663)|null|
 |**2025-09-22**|**Triangle-free quantum graphs**|Nik Weaver et.al.|[2509.17782](http://arxiv.org/abs/2509.17782)|null|
-|**2025-09-19**|**Unveiling Entanglement's Metrological Power: Empirical Modeling of Optimal States in Quantum Metrics**|Volkan Erol et.al.|[2509.15954](http://arxiv.org/abs/2509.15954)|null|
+|**2025-10-02**|**Unveiling Entanglement's Metrological Power: Empirical Modeling of Optimal States in Quantum Metrics**|Volkan Erol et.al.|[2509.15954](http://arxiv.org/abs/2509.15954)|null|
 |**2025-09-16**|**A Computational Picture of Hydride Formation and Dissipation In Nb SRF Cavities**|Aiden Harbick et.al.|[2509.13555](http://arxiv.org/abs/2509.13555)|null|
 |**2025-09-16**|**Generalized Quantum Stein's Lemma and Reversibility of Quantum Resource Theories for Classical-Quantum Channels**|Bjarne Bergh et.al.|[2509.13280](http://arxiv.org/abs/2509.13280)|null|
 |**2025-09-16**|**Erasing, Converting, and Communicating: The Power of Resource-Nongenerating Operations**|Xian Shi et.al.|[2509.12604](http://arxiv.org/abs/2509.12604)|null|
@@ -1224,7 +1224,7 @@
 |**2023-03-04**|**Catalysis always degrades external quantum correlations**|Seok Hyung Lie et.al.|[2303.02376](http://arxiv.org/abs/2303.02376)|null|
 |**2023-03-02**|**Virtual quantum resource distillation**|Xiao Yuan et.al.|[2303.00955](http://arxiv.org/abs/2303.00955)|null|
 
-<p align=right>(<a href=#Updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251003>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -1804,14 +1804,14 @@
 |**2023-03-15**|**Slowest and Fastest Information Scrambling in the Strongly Disordered XXZ Model**|Myeonghyeon Kim et.al.|[2303.08801](http://arxiv.org/abs/2303.08801)|null|
 |**2023-03-15**|**The Quantum Density Matrix and its many uses**|Apoorva D. Patel et.al.|[2303.08738](http://arxiv.org/abs/2303.08738)|null|
 
-<p align=right>(<a href=#Updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251003>back to top</a>)</p>
 
 ## Quantum error-correction code
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-30**|**Autonomous quantum error correction beyond break-even and its metrological application**|Zhongchu Ni et.al.|[2509.26042](http://arxiv.org/abs/2509.26042)|null|
-|**2025-09-29**|**Encoder Circuit Optimization for Non-Binary Quantum Error Correction Codes in Prime Dimensions: An Algorithmic Framework**|Aditya Sodhani et.al.|[2509.25587](http://arxiv.org/abs/2509.25587)|null|
+|**2025-10-01**|**Encoder Circuit Optimization for Non-Binary Quantum Error Correction Codes in Prime Dimensions: An Algorithmic Framework**|Aditya Sodhani et.al.|[2509.25587](http://arxiv.org/abs/2509.25587)|null|
 |**2025-09-29**|**Distributed Quantum Error Correction with Permutation-Invariant Approximate Codes**|Connor Clayton et.al.|[2509.25093](http://arxiv.org/abs/2509.25093)|null|
 |**2025-09-29**|**Demonstration of quantum error detection in a silicon quantum processor**|Chunhui Zhang et.al.|[2509.24766](http://arxiv.org/abs/2509.24766)|null|
 |**2025-09-29**|**A Quantum Computer Based on Donor-Cluster Arrays in Silicon**|Shihang Zhang et.al.|[2509.24749](http://arxiv.org/abs/2509.24749)|null|
@@ -3248,5 +3248,5 @@
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Fault Tolerant Non-Clifford State Preparation for Arbitrary Rotations**|Hyeongrak Choi et.al.|[2303.17380](http://arxiv.org/abs/2303.17380)|**[link](https://github.com/yale-qcs/non-clifford-state-prep)**|
 
-<p align=right>(<a href=#Updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251003>back to top</a>)</p>
 

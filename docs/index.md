@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1220,7 +1220,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-02**|**Digital quantum simulation of many-body localization crossover in a disordered kicked Ising model**|Tomoya Hayata et.al.|[2510.01983](http://arxiv.org/abs/2510.01983)|null|
-|**2025-10-01**|**Quantum Signatures of Strange Attractors**|Bence Dárdai et.al.|[2510.01416](http://arxiv.org/abs/2510.01416)|null|
+|**2025-10-03**|**Quantum Signatures of Strange Attractors**|Bence Dárdai et.al.|[2510.01416](http://arxiv.org/abs/2510.01416)|null|
 |**2025-10-01**|**Brickwall model for hyperbolic black holes and chaos**|Hyun-Sik Jeong et.al.|[2510.00886](http://arxiv.org/abs/2510.00886)|null|
 |**2025-09-30**|**Complexity and hardness of random peaked circuits**|Yuxuan Zhang et.al.|[2510.00132](http://arxiv.org/abs/2510.00132)|null|
 |**2025-09-30**|**Advantage of utilizing nonlocal magic resource in Haar-random circuits**|Xiao Huang et.al.|[2509.26342](http://arxiv.org/abs/2509.26342)|null|

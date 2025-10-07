@@ -1801,6 +1801,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Correcting quantum errors using a classical code and one additional qubit**|Tenzan Araki et.al.|[2510.05008](http://arxiv.org/abs/2510.05008)|null|
+|**2025-10-06**|**Subsystem many-hypercube codes: High-rate concatenated codes with low-weight syndrome measurements**|Ryota Nakai et.al.|[2510.04526](http://arxiv.org/abs/2510.04526)|null|
+|**2025-10-06**|**Lovász Meets Lieb-Schultz-Mattis: Complexity in Approximate Quantum Error Correction**|Jinmin Yi et.al.|[2510.04453](http://arxiv.org/abs/2510.04453)|null|
+|**2025-10-05**|**Quantum Error Correction with Superpositions of Squeezed Fock States**|Yexiong Zeng et.al.|[2510.04209](http://arxiv.org/abs/2510.04209)|null|
+|**2025-10-03**|**Holographic description of 4d Maxwell theories and their code-based ensembles**|Ahmed Barbar et.al.|[2510.03392](http://arxiv.org/abs/2510.03392)|null|
 |**2025-10-02**|**Beyond Belief Propagation: Cluster-Corrected Tensor Network Contraction with Exponential Convergence**|Siddhant Midha et.al.|[2510.02290](http://arxiv.org/abs/2510.02290)|null|
 |**2025-10-02**|**Computing Phylogenetic Diversity**|Jannik Schestag et.al.|[2510.01849](http://arxiv.org/abs/2510.01849)|null|
 |**2025-10-01**|**A robust phase of continuous transversal gates in quantum stabilizer codes**|Eric Huang et.al.|[2510.01319](http://arxiv.org/abs/2510.01319)|null|

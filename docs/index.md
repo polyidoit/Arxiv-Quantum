@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.06
+## Updated on 2025.10.07
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -939,7 +939,7 @@ layout: default
 |**2025-10-01**|**Full-Field Brillouin Microscopy with a Scanning Fabry-Perot Interferometer**|Mikolaj Pochylski et.al.|[2510.00700](http://arxiv.org/abs/2510.00700)|null|
 |**2025-10-01**|**Field-free Superconducting Diode Effect in FeTe $_{0.55}$Se$_{0.45}$**|Peng Dong et.al.|[2510.00575](http://arxiv.org/abs/2510.00575)|null|
 |**2025-10-01**|**Photonic Hybrid Quantum Computing**|Jaehak Lee et.al.|[2510.00534](http://arxiv.org/abs/2510.00534)|null|
-|**2025-09-26**|**Mpemba Effects in Quantum Complexity**|Sreemayee Aditya et.al.|[2509.22176](http://arxiv.org/abs/2509.22176)|null|
+|**2025-10-04**|**Mpemba Effects in Quantum Complexity**|Sreemayee Aditya et.al.|[2509.22176](http://arxiv.org/abs/2509.22176)|null|
 |**2025-09-26**|**On the spectra of periodic discontinuous quantum graphs**|Mahmood Ettehad et.al.|[2509.21819](http://arxiv.org/abs/2509.21819)|null|
 |**2025-09-23**|**Beyond Bloch: A Theoretical Blueprint for Conjugated Polymer Optoelectronics**|Miguel Lagos et.al.|[2509.18663](http://arxiv.org/abs/2509.18663)|null|
 |**2025-09-22**|**Triangle-free quantum graphs**|Nik Weaver et.al.|[2509.17782](http://arxiv.org/abs/2509.17782)|null|

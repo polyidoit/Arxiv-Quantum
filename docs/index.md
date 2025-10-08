@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
+|**2025-10-07**|**An approach using geometric diagrams to generic Bell inequalities with multiple observables**|Junghee Ryu et.al.|[2510.05622](http://arxiv.org/abs/2510.05622)|null|
 |**2025-10-02**|**Realism and the Inequivalence of the Two Quantum Pictures**|Charles Alexandre Bédard et.al.|[2510.02138](http://arxiv.org/abs/2510.02138)|null|
 |**2025-10-01**|**On the Relativity of Quantumness as Implied by Relativity of Arithmetic and Probability**|Marek Czachor et.al.|[2510.00637](http://arxiv.org/abs/2510.00637)|null|
 |**2025-09-30**|**Photonic Simulation of Beyond-Quantum Nonlocal Correlations (e.g. Popescu-Rohrlich Box) with Non-Signaling Quantum Resources**|Kunal Shukla et.al.|[2509.26271](http://arxiv.org/abs/2509.26271)|null|
@@ -614,6 +616,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Measurement of the Quantum Capacitance Between Two Metallic Electrodes**|T. de Ara et.al.|[2510.05866](http://arxiv.org/abs/2510.05866)|null|
 |**2025-09-30**|**The Pauli exclusion principle from the optical theorem**|Peter Matak et.al.|[2509.26612](http://arxiv.org/abs/2509.26612)|null|
 |**2025-09-24**|**A Quantum Algorithm For Computing Contextuality Bounds**|Colm Kelleher et.al.|[2509.20250](http://arxiv.org/abs/2509.20250)|null|
 |**2025-09-22**|**Quantitative comparison of quantum pseudo-telepathy games and Bell inequalities**|Gábor Homa et.al.|[2509.18033](http://arxiv.org/abs/2509.18033)|null|
@@ -792,6 +795,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
 |**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
 |**2025-09-19**|**Robust self-testing of quantum steering assemblages via operator inequalities**|Beata Zjawin et.al.|[2509.15699](http://arxiv.org/abs/2509.15699)|null|
 |**2025-09-18**|**Quantum steering and discord in hyperon-antihyperon system in electron-positron annihilation**|Sihao Wu et.al.|[2509.14990](http://arxiv.org/abs/2509.14990)|null|
@@ -1219,6 +1223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Full Eigenstate Thermalization in Integrable Spin Systems**|Tanay Pathak et.al.|[2510.05887](http://arxiv.org/abs/2510.05887)|null|
 |**2025-10-02**|**Digital quantum simulation of many-body localization crossover in a disordered kicked Ising model**|Tomoya Hayata et.al.|[2510.01983](http://arxiv.org/abs/2510.01983)|null|
 |**2025-10-03**|**Quantum Signatures of Strange Attractors**|Bence Dárdai et.al.|[2510.01416](http://arxiv.org/abs/2510.01416)|null|
 |**2025-10-01**|**Brickwall model for hyperbolic black holes and chaos**|Hyun-Sik Jeong et.al.|[2510.00886](http://arxiv.org/abs/2510.00886)|null|
@@ -1801,6 +1806,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Batched high-rate logical operations for quantum LDPC codes**|Qian Xu et.al.|[2510.06159](http://arxiv.org/abs/2510.06159)|null|
+|**2025-10-07**|**Efficient Post-Selection for General Quantum LDPC Codes**|Seok-Hyung Lee et.al.|[2510.05795](http://arxiv.org/abs/2510.05795)|null|
+|**2025-10-07**|**Low Overhead Universal Quantum Computation with Triorthogonal Codes**|Dawei Jiao et.al.|[2510.05708](http://arxiv.org/abs/2510.05708)|null|
+|**2025-10-07**|**Cored product codes for quantum self-correction in three dimensions**|Brenden Roberts et.al.|[2510.05479](http://arxiv.org/abs/2510.05479)|null|
+|**2025-10-06**|**Peaked quantum advantage using error correction**|Abhinav Deshpande et.al.|[2510.05262](http://arxiv.org/abs/2510.05262)|null|
+|**2025-10-06**|**Dynamical quantum codes and logic gates on a lattice with sparse connectivity**|Dominic J. Williamson et.al.|[2510.05225](http://arxiv.org/abs/2510.05225)|null|
+|**2025-10-06**|**Scalable accuracy gains from postselection in quantum error correcting codes**|Hongkun Chen et.al.|[2510.05222](http://arxiv.org/abs/2510.05222)|null|
+|**2025-10-06**|**Fault-tolerant interfaces for modular quantum computing on diverse qubit platforms**|Frederik K. Marqversen et.al.|[2510.05221](http://arxiv.org/abs/2510.05221)|null|
+|**2025-10-06**|**Self-dual bivariate bicycle codes with transversal Clifford gates**|Zijian Liang et.al.|[2510.05211](http://arxiv.org/abs/2510.05211)|null|
 |**2025-10-06**|**Correcting quantum errors using a classical code and one additional qubit**|Tenzan Araki et.al.|[2510.05008](http://arxiv.org/abs/2510.05008)|null|
 |**2025-10-06**|**Subsystem many-hypercube codes: High-rate concatenated codes with low-weight syndrome measurements**|Ryota Nakai et.al.|[2510.04526](http://arxiv.org/abs/2510.04526)|null|
 |**2025-10-06**|**Lovász Meets Lieb-Schultz-Mattis: Complexity in Approximate Quantum Error Correction**|Jinmin Yi et.al.|[2510.04453](http://arxiv.org/abs/2510.04453)|null|

@@ -506,6 +506,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**Sequential quantum processes with group symmetries**|Dmitry Grinko et.al.|[2510.07100](http://arxiv.org/abs/2510.07100)|null|
 |**2025-09-29**|**Effective Free Energy Landscapes and Hawking-Page Transitions**|Choon-Lin Ho et.al.|[2509.25039](http://arxiv.org/abs/2509.25039)|null|
 |**2025-09-20**|**Driving the Unruh Response**|Kevin Player et.al.|[2509.16710](http://arxiv.org/abs/2509.16710)|null|
 |**2025-09-07**|**Unified formalism and adaptive algorithms for optimal quantum state, detector and process tomography**|Shuixin Xiao et.al.|[2509.05988](http://arxiv.org/abs/2509.05988)|null|
@@ -954,6 +955,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**Decentralized CBF-based Safety Filters for Collision Avoidance of Cooperative Missile Systems with Input Constraints**|Johannes Autenrieb et.al.|[2510.06846](http://arxiv.org/abs/2510.06846)|null|
 |**2025-10-02**|**Continual Personalization for Diffusion Models**|Yu-Chien Liao et.al.|[2510.02296](http://arxiv.org/abs/2510.02296)|null|
 |**2025-10-01**|**Flexible Catalysis**|Máté Weisz et.al.|[2510.01065](http://arxiv.org/abs/2510.01065)|null|
 |**2025-10-01**|**RTFF: Random-to-Target Fabric Flattening Policy using Dual-Arm Manipulator**|Kai Tang et.al.|[2510.00814](http://arxiv.org/abs/2510.00814)|null|
@@ -1242,6 +1244,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**Quartic level repulsion in a quantum chaotic three-body system without symplectic symmetry**|Alex D. Kerin et.al.|[2510.06772](http://arxiv.org/abs/2510.06772)|null|
+|**2025-10-07**|**Limitations of Noisy Geometrically Local Quantum Circuits**|Jon Nelson et.al.|[2510.06346](http://arxiv.org/abs/2510.06346)|null|
+|**2025-10-07**|**Classical simulation of noisy random circuits from exponential decay of correlation**|Su-un Lee et.al.|[2510.06328](http://arxiv.org/abs/2510.06328)|null|
+|**2025-10-07**|**Classically Sampling Noisy Quantum Circuits in Quasi-Polynomial Time under Approximate Markovianity**|Yifan F. Zhang et.al.|[2510.06324](http://arxiv.org/abs/2510.06324)|null|
+|**2025-10-07**|**Quantum advantage from random geometrically-two-local Hamiltonian dynamics**|Yihui Quek et.al.|[2510.06321](http://arxiv.org/abs/2510.06321)|null|
 |**2025-10-07**|**Full Eigenstate Thermalization in Integrable Spin Systems**|Tanay Pathak et.al.|[2510.05887](http://arxiv.org/abs/2510.05887)|null|
 |**2025-10-02**|**Digital quantum simulation of many-body localization crossover in a disordered kicked Ising model**|Tomoya Hayata et.al.|[2510.01983](http://arxiv.org/abs/2510.01983)|null|
 |**2025-10-03**|**Quantum Signatures of Strange Attractors**|Bence Dárdai et.al.|[2510.01416](http://arxiv.org/abs/2510.01416)|null|
@@ -1827,6 +1834,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**Haar random codes attain the quantum Hamming bound, approximately**|Fermi Ma et.al.|[2510.07158](http://arxiv.org/abs/2510.07158)|null|
+|**2025-10-08**|**Simulating Topological Order on Quantum Processors**|Adam Gammon-Smith et.al.|[2510.07023](http://arxiv.org/abs/2510.07023)|null|
+|**2025-10-08**|**Nonlinear photonic architecture for fault-tolerant quantum computing**|Maike Ostmann et.al.|[2510.06890](http://arxiv.org/abs/2510.06890)|null|
+|**2025-10-08**|**Near-Asymptotically-Good Quantum Codes with Transversal CCZ Gates and Sublinear-Weight Parity-Checks**|Louis Golowich et.al.|[2510.06798](http://arxiv.org/abs/2510.06798)|null|
+|**2025-10-08**|**On the complexity of estimating ground state entanglement and free energy**|Sevag Gharibian et.al.|[2510.06796](http://arxiv.org/abs/2510.06796)|null|
+|**2025-10-08**|**Continuous measurement-based holonomic quantum computation**|Anirudh Lanka et.al.|[2510.06725](http://arxiv.org/abs/2510.06725)|null|
+|**2025-10-08**|**Approximate maximum likelihood decoding with $K$ minimum weight matchings**|Mao Lin et.al.|[2510.06531](http://arxiv.org/abs/2510.06531)|null|
+|**2025-10-07**|**Qudit low-density parity-check codes**|Daniel J. Spencer et.al.|[2510.06495](http://arxiv.org/abs/2510.06495)|null|
 |**2025-10-07**|**Batched high-rate logical operations for quantum LDPC codes**|Qian Xu et.al.|[2510.06159](http://arxiv.org/abs/2510.06159)|null|
 |**2025-10-08**|**Efficient Post-Selection for General Quantum LDPC Codes**|Seok-Hyung Lee et.al.|[2510.05795](http://arxiv.org/abs/2510.05795)|null|
 |**2025-10-07**|**Low Overhead Universal Quantum Computation with Triorthogonal Codes**|Dawei Jiao et.al.|[2510.05708](http://arxiv.org/abs/2510.05708)|null|

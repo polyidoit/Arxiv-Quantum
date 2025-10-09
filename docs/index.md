@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.08
+## Updated on 2025.10.09
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1807,7 +1807,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-07**|**Batched high-rate logical operations for quantum LDPC codes**|Qian Xu et.al.|[2510.06159](http://arxiv.org/abs/2510.06159)|null|
-|**2025-10-07**|**Efficient Post-Selection for General Quantum LDPC Codes**|Seok-Hyung Lee et.al.|[2510.05795](http://arxiv.org/abs/2510.05795)|null|
+|**2025-10-08**|**Efficient Post-Selection for General Quantum LDPC Codes**|Seok-Hyung Lee et.al.|[2510.05795](http://arxiv.org/abs/2510.05795)|null|
 |**2025-10-07**|**Low Overhead Universal Quantum Computation with Triorthogonal Codes**|Dawei Jiao et.al.|[2510.05708](http://arxiv.org/abs/2510.05708)|null|
 |**2025-10-07**|**Cored product codes for quantum self-correction in three dimensions**|Brenden Roberts et.al.|[2510.05479](http://arxiv.org/abs/2510.05479)|null|
 |**2025-10-06**|**Peaked quantum advantage using error correction**|Abhinav Deshpande et.al.|[2510.05262](http://arxiv.org/abs/2510.05262)|null|

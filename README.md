@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**Computational Bell Inequalities**|Ilya Merkulov et.al.|[2510.08423](http://arxiv.org/abs/2510.08423)|null|
 |**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
 |**2025-10-07**|**An approach using geometric diagrams to generic Bell inequalities with multiple observables**|Junghee Ryu et.al.|[2510.05622](http://arxiv.org/abs/2510.05622)|null|
 |**2025-10-02**|**Realism and the Inequivalence of the Two Quantum Pictures**|Charles Alexandre Bédard et.al.|[2510.02138](http://arxiv.org/abs/2510.02138)|null|
@@ -1244,6 +1245,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**Entanglement Growth from Entangled States: A Unified Perspective on Entanglement Generation and Transport**|Chun-Yue Zhang et.al.|[2510.08344](http://arxiv.org/abs/2510.08344)|null|
+|**2025-10-09**|**Quantum variance and fluctuations for Walsh-quantized baker's maps**|Laura Shou et.al.|[2510.08321](http://arxiv.org/abs/2510.08321)|null|
+|**2025-10-08**|**Error correction phase transition in noisy random quantum circuits**|Jon Nelson et.al.|[2510.07512](http://arxiv.org/abs/2510.07512)|null|
 |**2025-10-08**|**Quartic level repulsion in a quantum chaotic three-body system without symplectic symmetry**|Alex D. Kerin et.al.|[2510.06772](http://arxiv.org/abs/2510.06772)|null|
 |**2025-10-07**|**Limitations of Noisy Geometrically Local Quantum Circuits**|Jon Nelson et.al.|[2510.06346](http://arxiv.org/abs/2510.06346)|null|
 |**2025-10-07**|**Classical simulation of noisy random circuits from exponential decay of correlation**|Su-un Lee et.al.|[2510.06328](http://arxiv.org/abs/2510.06328)|null|
@@ -1834,6 +1838,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**Single-Shot Universality in Quantum LDPC Codes via Code-Switching**|Shi Jie Samuel Tan et.al.|[2510.08552](http://arxiv.org/abs/2510.08552)|null|
+|**2025-10-09**|**High-Rate Surgery: towards constant-overhead logical operations**|Guo Zheng et.al.|[2510.08523](http://arxiv.org/abs/2510.08523)|null|
+|**2025-10-09**|**Dynamical error reshaping for dual-rail erasure qubits**|Filippos Dakis et.al.|[2510.08416](http://arxiv.org/abs/2510.08416)|null|
+|**2025-10-09**|**Transversal gates for probabilistic implementation of multi-qubit Pauli rotations**|Nobuyuki Yoshioka et.al.|[2510.08290](http://arxiv.org/abs/2510.08290)|null|
+|**2025-10-09**|**Hyper-optimized Quantum Lego Contraction Schedules**|Balint Pato et.al.|[2510.08210](http://arxiv.org/abs/2510.08210)|null|
+|**2025-10-09**|**Local active error correction from simulated confinement**|Ethan Lake et.al.|[2510.08056](http://arxiv.org/abs/2510.08056)|null|
+|**2025-10-09**|**Quantum Tanner Color Codes on Qubits with Transversal Gates**|Kyle Gulshen et.al.|[2510.07864](http://arxiv.org/abs/2510.07864)|null|
+|**2025-10-08**|**Noisy-Syndrome Decoding of Hypergraph Product Codes**|Venkata Gandikota et.al.|[2510.07602](http://arxiv.org/abs/2510.07602)|null|
+|**2025-10-08**|**On Quantum Computation Using Bias-Preserving Gates**|Debadrito Roy et.al.|[2510.07532](http://arxiv.org/abs/2510.07532)|null|
+|**2025-10-08**|**MLLM4TS: Leveraging Vision and Multimodal Language Models for General Time-Series Analysis**|Qinghua Liu et.al.|[2510.07513](http://arxiv.org/abs/2510.07513)|null|
 |**2025-10-08**|**Haar random codes attain the quantum Hamming bound, approximately**|Fermi Ma et.al.|[2510.07158](http://arxiv.org/abs/2510.07158)|null|
 |**2025-10-08**|**Simulating Topological Order on Quantum Processors**|Adam Gammon-Smith et.al.|[2510.07023](http://arxiv.org/abs/2510.07023)|null|
 |**2025-10-08**|**Nonlinear photonic architecture for fault-tolerant quantum computing**|Maike Ostmann et.al.|[2510.06890](http://arxiv.org/abs/2510.06890)|null|

@@ -7,7 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-09**|**Computational Bell Inequalities**|Ilya Merkulov et.al.|[2510.08423](http://arxiv.org/abs/2510.08423)|null|
+|**2025-10-10**|**Computational Bell Inequalities**|Ilya Merkulov et.al.|[2510.08423](http://arxiv.org/abs/2510.08423)|null|
 |**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
 |**2025-10-07**|**An approach using geometric diagrams to generic Bell inequalities with multiple observables**|Junghee Ryu et.al.|[2510.05622](http://arxiv.org/abs/2510.05622)|null|
 |**2025-10-02**|**Realism and the Inequivalence of the Two Quantum Pictures**|Charles Alexandre Bédard et.al.|[2510.02138](http://arxiv.org/abs/2510.02138)|null|
@@ -939,7 +939,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-08**|**Decentralized CBF-based Safety Filters for Collision Avoidance of Cooperative Missile Systems with Input Constraints**|Johannes Autenrieb et.al.|[2510.06846](http://arxiv.org/abs/2510.06846)|null|
+|**2025-10-09**|**A Formalization of the Generalized Quantum Stein's Lemma in Lean**|Alex Meiburg et.al.|[2510.08672](http://arxiv.org/abs/2510.08672)|null|
+|**2025-10-10**|**Decentralized CBF-based Safety Filters for Collision Avoidance of Cooperative Missile Systems with Input Constraints**|Johannes Autenrieb et.al.|[2510.06846](http://arxiv.org/abs/2510.06846)|null|
 |**2025-10-02**|**Continual Personalization for Diffusion Models**|Yu-Chien Liao et.al.|[2510.02296](http://arxiv.org/abs/2510.02296)|null|
 |**2025-10-01**|**Flexible Catalysis**|Máté Weisz et.al.|[2510.01065](http://arxiv.org/abs/2510.01065)|null|
 |**2025-10-01**|**RTFF: Random-to-Target Fabric Flattening Policy using Dual-Arm Manipulator**|Kai Tang et.al.|[2510.00814](http://arxiv.org/abs/2510.00814)|null|
@@ -1817,6 +1818,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**Simplified Quantum Weight Reduction with Optimal Bounds**|Min-Hsiu Hsieh et.al.|[2510.09601](http://arxiv.org/abs/2510.09601)|null|
+|**2025-10-10**|**Unveiling dynamical quantum error correcting codes via non-invertible symmetries**|Rajath Radhakrishnan et.al.|[2510.09565](http://arxiv.org/abs/2510.09565)|null|
+|**2025-10-10**|**Parameterized Algorithms for Diversity of Networks with Ecological Dependencies**|Mark Jones et.al.|[2510.09512](http://arxiv.org/abs/2510.09512)|null|
+|**2025-10-10**|**Beyond the Carnot limit: work extraction via an entropy battery**|Liam Judd McClelland et.al.|[2510.08989](http://arxiv.org/abs/2510.08989)|null|
+|**2025-10-09**|**Universal syndrome-based recovery for noise-adapted quantum error correction**|Debjyoti Biswas et.al.|[2510.08719](http://arxiv.org/abs/2510.08719)|null|
 |**2025-10-09**|**Single-Shot Universality in Quantum LDPC Codes via Code-Switching**|Shi Jie Samuel Tan et.al.|[2510.08552](http://arxiv.org/abs/2510.08552)|null|
 |**2025-10-09**|**High-Rate Surgery: towards constant-overhead logical operations**|Guo Zheng et.al.|[2510.08523](http://arxiv.org/abs/2510.08523)|null|
 |**2025-10-09**|**Dynamical error reshaping for dual-rail erasure qubits**|Filippos Dakis et.al.|[2510.08416](http://arxiv.org/abs/2510.08416)|null|

@@ -797,6 +797,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-11**|**Monogamy of Gaussian quantum steering and entanglement in a hybrid qubit-cavity optomagnonic system with coherent feedback loop**|Hamza Harraf et.al.|[2510.10334](http://arxiv.org/abs/2510.10334)|null|
 |**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
 |**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
 |**2025-09-19**|**Robust self-testing of quantum steering assemblages via operator inequalities**|Beata Zjawin et.al.|[2509.15699](http://arxiv.org/abs/2509.15699)|null|
@@ -939,6 +940,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**A Monte Carlo approach to bound Trotter error**|Nick S. Blunt et.al.|[2510.11621](http://arxiv.org/abs/2510.11621)|null|
+|**2025-10-08**|**Generalizing Multimorbidity Models Across Countries: A Comparative Study of Austria and Denmark**|Johanna Einsiedler et.al.|[2510.09680](http://arxiv.org/abs/2510.09680)|null|
 |**2025-10-09**|**A Formalization of the Generalized Quantum Stein's Lemma in Lean**|Alex Meiburg et.al.|[2510.08672](http://arxiv.org/abs/2510.08672)|null|
 |**2025-10-10**|**Decentralized CBF-based Safety Filters for Collision Avoidance of Cooperative Missile Systems with Input Constraints**|Johannes Autenrieb et.al.|[2510.06846](http://arxiv.org/abs/2510.06846)|null|
 |**2025-10-02**|**Continual Personalization for Diffusion Models**|Yu-Chien Liao et.al.|[2510.02296](http://arxiv.org/abs/2510.02296)|null|
@@ -1227,6 +1230,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Quantum chaos and semiclassical behavior in mushroom billiards II: Structure of quantum eigenstates and their phase space localization properties**|Matic Orel et.al.|[2510.11412](http://arxiv.org/abs/2510.11412)|null|
 |**2025-10-09**|**Entanglement Growth from Entangled States: A Unified Perspective on Entanglement Generation and Transport**|Chun-Yue Zhang et.al.|[2510.08344](http://arxiv.org/abs/2510.08344)|null|
 |**2025-10-09**|**Quantum variance and fluctuations for Walsh-quantized baker's maps**|Laura Shou et.al.|[2510.08321](http://arxiv.org/abs/2510.08321)|null|
 |**2025-10-08**|**Error correction phase transition in noisy random quantum circuits**|Jon Nelson et.al.|[2510.07512](http://arxiv.org/abs/2510.07512)|null|
@@ -1818,6 +1822,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Hierarchical Qubit-Merging Transformer for Quantum Error Correction**|Seong-Joon Park et.al.|[2510.11593](http://arxiv.org/abs/2510.11593)|null|
+|**2025-10-13**|**Convergence Analysis of Galerkin Approximations for the Lindblad Master Equation**|Rémi Robin et.al.|[2510.11416](http://arxiv.org/abs/2510.11416)|null|
+|**2025-10-12**|**On the Capacity of Distributed Quantum Storage**|Hua Sun et.al.|[2510.10568](http://arxiv.org/abs/2510.10568)|null|
 |**2025-10-10**|**Simplified Quantum Weight Reduction with Optimal Bounds**|Min-Hsiu Hsieh et.al.|[2510.09601](http://arxiv.org/abs/2510.09601)|null|
 |**2025-10-10**|**Unveiling dynamical quantum error correcting codes via non-invertible symmetries**|Rajath Radhakrishnan et.al.|[2510.09565](http://arxiv.org/abs/2510.09565)|null|
 |**2025-10-10**|**Parameterized Algorithms for Diversity of Networks with Ecological Dependencies**|Mark Jones et.al.|[2510.09512](http://arxiv.org/abs/2510.09512)|null|

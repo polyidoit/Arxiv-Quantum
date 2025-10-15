@@ -496,6 +496,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**A Quantum Generative Framework for Modeling Single-Cell Transcriptomes with Gene-Gene and Cell-Cell Interactions**|Selim Romero et.al.|[2510.12776](http://arxiv.org/abs/2510.12776)|null|
 |**2025-10-08**|**Sequential quantum processes with group symmetries**|Dmitry Grinko et.al.|[2510.07100](http://arxiv.org/abs/2510.07100)|null|
 |**2025-09-29**|**Effective Free Energy Landscapes and Hawking-Page Transitions**|Choon-Lin Ho et.al.|[2509.25039](http://arxiv.org/abs/2509.25039)|null|
 |**2025-09-20**|**Driving the Unruh Response**|Kevin Player et.al.|[2509.16710](http://arxiv.org/abs/2509.16710)|null|
@@ -618,6 +619,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Contextuality-based quantum key distribution with deterministic single-photon sources**|Yu Meng et.al.|[2510.12761](http://arxiv.org/abs/2510.12761)|null|
 |**2025-10-07**|**Measurement of the Quantum Capacitance Between Two Metallic Electrodes**|T. de Ara et.al.|[2510.05866](http://arxiv.org/abs/2510.05866)|null|
 |**2025-09-30**|**The Pauli exclusion principle from the optical theorem**|Peter Matak et.al.|[2509.26612](http://arxiv.org/abs/2509.26612)|null|
 |**2025-09-24**|**A Quantum Algorithm For Computing Contextuality Bounds**|Colm Kelleher et.al.|[2509.20250](http://arxiv.org/abs/2509.20250)|null|
@@ -940,6 +942,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Thermodynamics of quantum processes: An operational framework for free energy and reversible athermality**|Himanshu Badhani et.al.|[2510.12790](http://arxiv.org/abs/2510.12790)|null|
 |**2025-10-13**|**A Monte Carlo approach to bound Trotter error**|Nick S. Blunt et.al.|[2510.11621](http://arxiv.org/abs/2510.11621)|null|
 |**2025-10-08**|**Generalizing Multimorbidity Models Across Countries: A Comparative Study of Austria and Denmark**|Johanna Einsiedler et.al.|[2510.09680](http://arxiv.org/abs/2510.09680)|null|
 |**2025-10-09**|**A Formalization of the Generalized Quantum Stein's Lemma in Lean**|Alex Meiburg et.al.|[2510.08672](http://arxiv.org/abs/2510.08672)|null|
@@ -1230,6 +1233,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Non-perturbatively slow spread of quantum correlations in non-resonant systems**|Ben T. McDonough et.al.|[2510.11831](http://arxiv.org/abs/2510.11831)|null|
 |**2025-10-13**|**Quantum chaos and semiclassical behavior in mushroom billiards II: Structure of quantum eigenstates and their phase space localization properties**|Matic Orel et.al.|[2510.11412](http://arxiv.org/abs/2510.11412)|null|
 |**2025-10-09**|**Entanglement Growth from Entangled States: A Unified Perspective on Entanglement Generation and Transport**|Chun-Yue Zhang et.al.|[2510.08344](http://arxiv.org/abs/2510.08344)|null|
 |**2025-10-09**|**Quantum variance and fluctuations for Walsh-quantized baker's maps**|Laura Shou et.al.|[2510.08321](http://arxiv.org/abs/2510.08321)|null|
@@ -1822,6 +1826,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Trajectory-Protected Quantum Computing**|Barbara Šoda et.al.|[2510.12771](http://arxiv.org/abs/2510.12771)|null|
+|**2025-10-14**|**Decoding Multimode Gottesman-Kitaev-Preskill Codes with Noisy Auxiliary States**|Marc-Antoine Roy et.al.|[2510.12677](http://arxiv.org/abs/2510.12677)|null|
 |**2025-10-13**|**Hierarchical Qubit-Merging Transformer for Quantum Error Correction**|Seong-Joon Park et.al.|[2510.11593](http://arxiv.org/abs/2510.11593)|null|
 |**2025-10-13**|**Convergence Analysis of Galerkin Approximations for the Lindblad Master Equation**|Rémi Robin et.al.|[2510.11416](http://arxiv.org/abs/2510.11416)|null|
 |**2025-10-12**|**On the Capacity of Distributed Quantum Storage**|Hua Sun et.al.|[2510.10568](http://arxiv.org/abs/2510.10568)|null|

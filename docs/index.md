@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -619,7 +619,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-14**|**Contextuality-based quantum key distribution with deterministic single-photon sources**|Yu Meng et.al.|[2510.12761](http://arxiv.org/abs/2510.12761)|null|
+|**2025-10-15**|**Contextuality-based quantum key distribution with deterministic single-photon sources**|Yu Meng et.al.|[2510.12761](http://arxiv.org/abs/2510.12761)|null|
 |**2025-10-07**|**Measurement of the Quantum Capacitance Between Two Metallic Electrodes**|T. de Ara et.al.|[2510.05866](http://arxiv.org/abs/2510.05866)|null|
 |**2025-09-30**|**The Pauli exclusion principle from the optical theorem**|Peter Matak et.al.|[2509.26612](http://arxiv.org/abs/2509.26612)|null|
 |**2025-09-24**|**A Quantum Algorithm For Computing Contextuality Bounds**|Colm Kelleher et.al.|[2509.20250](http://arxiv.org/abs/2509.20250)|null|

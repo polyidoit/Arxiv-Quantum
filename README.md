@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**Equivalence of Genuine Multipartite Entanglement and Nonlocality of Nearly Symmetric Multiqubit Pure States**|Jakub Wójcik et.al.|[2510.13296](http://arxiv.org/abs/2510.13296)|null|
+|**2025-10-14**|**Can outcome communication explain Bell nonlocality?**|Carlos Vieira et.al.|[2510.12886](http://arxiv.org/abs/2510.12886)|null|
 |**2025-10-10**|**Computational Bell Inequalities**|Ilya Merkulov et.al.|[2510.08423](http://arxiv.org/abs/2510.08423)|null|
 |**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
 |**2025-10-07**|**An approach using geometric diagrams to generic Bell inequalities with multiple observables**|Junghee Ryu et.al.|[2510.05622](http://arxiv.org/abs/2510.05622)|null|
@@ -959,6 +961,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-14**|**Censorship of quantum resources against catalytic account sharing**|Julien Pinske et.al.|[2510.12876](http://arxiv.org/abs/2510.12876)|null|
 |**2025-10-14**|**Thermodynamics of quantum processes: An operational framework for free energy and reversible athermality**|Himanshu Badhani et.al.|[2510.12790](http://arxiv.org/abs/2510.12790)|null|
 |**2025-10-13**|**A Monte Carlo approach to bound Trotter error**|Nick S. Blunt et.al.|[2510.11621](http://arxiv.org/abs/2510.11621)|null|
 |**2025-10-08**|**Generalizing Multimorbidity Models Across Countries: A Comparative Study of Austria and Denmark**|Johanna Einsiedler et.al.|[2510.09680](http://arxiv.org/abs/2510.09680)|null|
@@ -1847,6 +1850,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**Lattice surgery with Bell measurements: Modular fault-tolerant quantum computation at low entanglement cost**|Trond Hjerpekjøn Haug et.al.|[2510.13541](http://arxiv.org/abs/2510.13541)|null|
 |**2025-10-14**|**Trajectory-Protected Quantum Computing**|Barbara Šoda et.al.|[2510.12771](http://arxiv.org/abs/2510.12771)|null|
 |**2025-10-14**|**Decoding Multimode Gottesman-Kitaev-Preskill Codes with Noisy Auxiliary States**|Marc-Antoine Roy et.al.|[2510.12677](http://arxiv.org/abs/2510.12677)|null|
 |**2025-10-13**|**Hierarchical Qubit-Merging Transformer for Quantum Error Correction**|Seong-Joon Park et.al.|[2510.11593](http://arxiv.org/abs/2510.11593)|null|

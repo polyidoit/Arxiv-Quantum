@@ -509,6 +509,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Quantifiers of Noise Reducibility Under Restricted Control**|Graeme D. Berk et.al.|[2510.14316](http://arxiv.org/abs/2510.14316)|null|
 |**2025-10-14**|**A Quantum Generative Framework for Modeling Single-Cell Transcriptomes with Gene-Gene and Cell-Cell Interactions**|Selim Romero et.al.|[2510.12776](http://arxiv.org/abs/2510.12776)|null|
 |**2025-10-08**|**Sequential quantum processes with group symmetries**|Dmitry Grinko et.al.|[2510.07100](http://arxiv.org/abs/2510.07100)|null|
 |**2025-09-29**|**Effective Free Energy Landscapes and Hawking-Page Transitions**|Choon-Lin Ho et.al.|[2509.25039](http://arxiv.org/abs/2509.25039)|null|
@@ -961,6 +962,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Diffusion-Free Dynamics in Rotating Spherical Shell Convection Driven By Internal Heating and Cooling**|Neil T. Lewis et.al.|[2510.14671](http://arxiv.org/abs/2510.14671)|null|
 |**2025-10-14**|**Censorship of quantum resources against catalytic account sharing**|Julien Pinske et.al.|[2510.12876](http://arxiv.org/abs/2510.12876)|null|
 |**2025-10-14**|**Thermodynamics of quantum processes: An operational framework for free energy and reversible athermality**|Himanshu Badhani et.al.|[2510.12790](http://arxiv.org/abs/2510.12790)|null|
 |**2025-10-13**|**A Monte Carlo approach to bound Trotter error**|Nick S. Blunt et.al.|[2510.11621](http://arxiv.org/abs/2510.11621)|null|
@@ -1255,6 +1257,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Ruelle-Pollicott Decay of Out-of-Time-Order Correlators in Many-Body Systems**|Jerónimo Duarte et.al.|[2510.14886](http://arxiv.org/abs/2510.14886)|null|
 |**2025-10-13**|**Non-perturbatively slow spread of quantum correlations in non-resonant systems**|Ben T. McDonough et.al.|[2510.11831](http://arxiv.org/abs/2510.11831)|null|
 |**2025-10-13**|**Quantum chaos and semiclassical behavior in mushroom billiards II: Structure of quantum eigenstates and their phase space localization properties**|Matic Orel et.al.|[2510.11412](http://arxiv.org/abs/2510.11412)|null|
 |**2025-10-09**|**Entanglement Growth from Entangled States: A Unified Perspective on Entanglement Generation and Transport**|Chun-Yue Zhang et.al.|[2510.08344](http://arxiv.org/abs/2510.08344)|null|
@@ -1850,6 +1853,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery**|Alexander Cowtan et.al.|[2510.14895](http://arxiv.org/abs/2510.14895)|null|
+|**2025-10-16**|**ParaToric 1.0-beta: Continuous-time quantum Monte Carlo for the toric code in a parallel field**|Simon M. Linsel et.al.|[2510.14781](http://arxiv.org/abs/2510.14781)|null|
+|**2025-10-15**|**Quantum Low-Density Parity-Check Codes**|Bane Vasic et.al.|[2510.14090](http://arxiv.org/abs/2510.14090)|null|
 |**2025-10-15**|**Lattice surgery with Bell measurements: Modular fault-tolerant quantum computation at low entanglement cost**|Trond Hjerpekjøn Haug et.al.|[2510.13541](http://arxiv.org/abs/2510.13541)|null|
 |**2025-10-14**|**Trajectory-Protected Quantum Computing**|Barbara Šoda et.al.|[2510.12771](http://arxiv.org/abs/2510.12771)|null|
 |**2025-10-14**|**Decoding Multimode Gottesman-Kitaev-Preskill Codes with Noisy Auxiliary States**|Marc-Antoine Roy et.al.|[2510.12677](http://arxiv.org/abs/2510.12677)|null|

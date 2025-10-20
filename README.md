@@ -1853,6 +1853,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**Game-Theoretic Discovery of Quantum Error-Correcting Codes Through Nash Equilibria**|Rubén Darío Guerrero et.al.|[2510.15223](http://arxiv.org/abs/2510.15223)|null|
 |**2025-10-16**|**Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery**|Alexander Cowtan et.al.|[2510.14895](http://arxiv.org/abs/2510.14895)|null|
 |**2025-10-16**|**ParaToric 1.0-beta: Continuous-time quantum Monte Carlo for the toric code in a parallel field**|Simon M. Linsel et.al.|[2510.14781](http://arxiv.org/abs/2510.14781)|null|
 |**2025-10-15**|**Quantum Low-Density Parity-Check Codes**|Bane Vasic et.al.|[2510.14090](http://arxiv.org/abs/2510.14090)|null|

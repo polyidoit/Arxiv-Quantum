@@ -962,6 +962,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-19**|**FTI-TMR: A Fault Tolerance and Isolation Algorithm for Interconnected Multicore Systems**|Yiming Hu et.al.|[2510.16896](http://arxiv.org/abs/2510.16896)|null|
+|**2025-10-18**|**Estimating location parameters of several exponential distributions with ordered restriction under Linex loss function**|Shrajal Bajpai et.al.|[2510.16527](http://arxiv.org/abs/2510.16527)|null|
 |**2025-10-16**|**Diffusion-Free Dynamics in Rotating Spherical Shell Convection Driven By Internal Heating and Cooling**|Neil T. Lewis et.al.|[2510.14671](http://arxiv.org/abs/2510.14671)|null|
 |**2025-10-14**|**Censorship of quantum resources against catalytic account sharing**|Julien Pinske et.al.|[2510.12876](http://arxiv.org/abs/2510.12876)|null|
 |**2025-10-14**|**Thermodynamics of quantum processes: An operational framework for free energy and reversible athermality**|Himanshu Badhani et.al.|[2510.12790](http://arxiv.org/abs/2510.12790)|null|
@@ -1257,6 +1259,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-18**|**Quantum Complexity in Constrained Many-Body Models: Scars, Fragmentation, and Chaos**|Arkaprava Sil et.al.|[2510.16570](http://arxiv.org/abs/2510.16570)|null|
+|**2025-10-18**|**Hybrid Brownian SYK-Hubbard Model: from Spectral Function to Quantum Chaos**|Ning Sun et.al.|[2510.16401](http://arxiv.org/abs/2510.16401)|null|
 |**2025-10-16**|**Ruelle-Pollicott Decay of Out-of-Time-Order Correlators in Many-Body Systems**|Jerónimo Duarte et.al.|[2510.14886](http://arxiv.org/abs/2510.14886)|null|
 |**2025-10-13**|**Non-perturbatively slow spread of quantum correlations in non-resonant systems**|Ben T. McDonough et.al.|[2510.11831](http://arxiv.org/abs/2510.11831)|null|
 |**2025-10-13**|**Quantum chaos and semiclassical behavior in mushroom billiards II: Structure of quantum eigenstates and their phase space localization properties**|Matic Orel et.al.|[2510.11412](http://arxiv.org/abs/2510.11412)|null|
@@ -1853,6 +1857,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-20**|**Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code**|Pau Escofet et.al.|[2510.17689](http://arxiv.org/abs/2510.17689)|null|
+|**2025-10-20**|**Error-correcting codes and absolutely maximally entangled states for mixed dimensional Hilbert spaces**|Simeon Ball et.al.|[2510.17231](http://arxiv.org/abs/2510.17231)|null|
+|**2025-10-20**|**M2QCode: A Model-Driven Framework for Generating Multi-Platform Quantum Programs**|Xiaoyu Guo et.al.|[2510.17110](http://arxiv.org/abs/2510.17110)|null|
+|**2025-10-19**|**QuanBench: Benchmarking Quantum Code Generation with Large Language Models**|Xiaoyu Guo et.al.|[2510.16779](http://arxiv.org/abs/2510.16779)|null|
 |**2025-10-17**|**Game-Theoretic Discovery of Quantum Error-Correcting Codes Through Nash Equilibria**|Rubén Darío Guerrero et.al.|[2510.15223](http://arxiv.org/abs/2510.15223)|null|
 |**2025-10-16**|**Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery**|Alexander Cowtan et.al.|[2510.14895](http://arxiv.org/abs/2510.14895)|null|
 |**2025-10-16**|**ParaToric 1.0-beta: Continuous-time quantum Monte Carlo for the toric code in a parallel field**|Simon M. Linsel et.al.|[2510.14781](http://arxiv.org/abs/2510.14781)|null|

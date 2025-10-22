@@ -1240,6 +1240,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Sharp Transitions for Subsystem Complexity**|Yale Fan et.al.|[2510.18832](http://arxiv.org/abs/2510.18832)|null|
 |**2025-10-18**|**Quantum Complexity in Constrained Many-Body Models: Scars, Fragmentation, and Chaos**|Arkaprava Sil et.al.|[2510.16570](http://arxiv.org/abs/2510.16570)|null|
 |**2025-10-18**|**Hybrid Brownian SYK-Hubbard Model: from Spectral Function to Quantum Chaos**|Ning Sun et.al.|[2510.16401](http://arxiv.org/abs/2510.16401)|null|
 |**2025-10-20**|**Ruelle-Pollicott Decay of Out-of-Time-Order Correlators in Many-Body Systems**|Jerónimo Duarte et.al.|[2510.14886](http://arxiv.org/abs/2510.14886)|null|
@@ -1836,6 +1837,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Surface code scaling on heavy-hex superconducting quantum processors**|Arian Vezvaee et.al.|[2510.18847](http://arxiv.org/abs/2510.18847)|null|
+|**2025-10-21**|**Simple logical quantum computation with concatenated symplectic double codes**|Noah Berthusen et.al.|[2510.18753](http://arxiv.org/abs/2510.18753)|null|
+|**2025-10-21**|**Measurement-Based Fault-Tolerant Quantum Computation on High-Connectivity Devices: A Resource-Efficient Approach toward Early FTQC**|Yohei Ibe et.al.|[2510.18652](http://arxiv.org/abs/2510.18652)|null|
 |**2025-10-20**|**Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code**|Pau Escofet et.al.|[2510.17689](http://arxiv.org/abs/2510.17689)|null|
 |**2025-10-20**|**Error-correcting codes and absolutely maximally entangled states for mixed dimensional Hilbert spaces**|Simeon Ball et.al.|[2510.17231](http://arxiv.org/abs/2510.17231)|null|
 |**2025-10-20**|**M2QCode: A Model-Driven Framework for Generating Multi-Platform Quantum Programs**|Xiaoyu Guo et.al.|[2510.17110](http://arxiv.org/abs/2510.17110)|null|

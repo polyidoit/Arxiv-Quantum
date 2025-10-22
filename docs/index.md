@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.21
+## Updated on 2025.10.22
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1242,7 +1242,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-18**|**Quantum Complexity in Constrained Many-Body Models: Scars, Fragmentation, and Chaos**|Arkaprava Sil et.al.|[2510.16570](http://arxiv.org/abs/2510.16570)|null|
 |**2025-10-18**|**Hybrid Brownian SYK-Hubbard Model: from Spectral Function to Quantum Chaos**|Ning Sun et.al.|[2510.16401](http://arxiv.org/abs/2510.16401)|null|
-|**2025-10-16**|**Ruelle-Pollicott Decay of Out-of-Time-Order Correlators in Many-Body Systems**|Jerónimo Duarte et.al.|[2510.14886](http://arxiv.org/abs/2510.14886)|null|
+|**2025-10-20**|**Ruelle-Pollicott Decay of Out-of-Time-Order Correlators in Many-Body Systems**|Jerónimo Duarte et.al.|[2510.14886](http://arxiv.org/abs/2510.14886)|null|
 |**2025-10-13**|**Non-perturbatively slow spread of quantum correlations in non-resonant systems**|Ben T. McDonough et.al.|[2510.11831](http://arxiv.org/abs/2510.11831)|null|
 |**2025-10-13**|**Quantum chaos and semiclassical behavior in mushroom billiards II: Structure of quantum eigenstates and their phase space localization properties**|Matic Orel et.al.|[2510.11412](http://arxiv.org/abs/2510.11412)|null|
 |**2025-10-09**|**Entanglement Growth from Entangled States: A Unified Perspective on Entanglement Generation and Transport**|Chun-Yue Zhang et.al.|[2510.08344](http://arxiv.org/abs/2510.08344)|null|

@@ -635,6 +635,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-22**|**Recognizing Leaf Powers and Pairwise Compatibility Graphs is NP-Complete**|Max Dupré la Tour et.al.|[2510.19763](http://arxiv.org/abs/2510.19763)|null|
 |**2025-10-15**|**Contextuality-based quantum key distribution with deterministic single-photon sources**|Yu Meng et.al.|[2510.12761](http://arxiv.org/abs/2510.12761)|null|
 |**2025-10-07**|**Measurement of the Quantum Capacitance Between Two Metallic Electrodes**|T. de Ara et.al.|[2510.05866](http://arxiv.org/abs/2510.05866)|null|
 |**2025-09-30**|**The Pauli exclusion principle from the optical theorem**|Peter Matak et.al.|[2509.26612](http://arxiv.org/abs/2509.26612)|null|
@@ -1259,6 +1260,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-22**|**Quantum computation of molecular geometry via many-body nuclear spin echoes**|C. Zhang et.al.|[2510.19550](http://arxiv.org/abs/2510.19550)|null|
 |**2025-10-21**|**Sharp Transitions for Subsystem Complexity**|Yale Fan et.al.|[2510.18832](http://arxiv.org/abs/2510.18832)|null|
 |**2025-10-18**|**Quantum Complexity in Constrained Many-Body Models: Scars, Fragmentation, and Chaos**|Arkaprava Sil et.al.|[2510.16570](http://arxiv.org/abs/2510.16570)|null|
 |**2025-10-18**|**Hybrid Brownian SYK-Hubbard Model: from Spectral Function to Quantum Chaos**|Ning Sun et.al.|[2510.16401](http://arxiv.org/abs/2510.16401)|null|
@@ -1858,6 +1860,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-22**|**Good quantum codes with addressable and parallelizable non-Clifford gates**|Virgile Guemard et.al.|[2510.19809](http://arxiv.org/abs/2510.19809)|null|
+|**2025-10-22**|**Passive quantum error correction of photon loss at breakeven**|Shruti Shirol et.al.|[2510.19794](http://arxiv.org/abs/2510.19794)|null|
+|**2025-10-22**|**LLMartini: Seamless and Interactive Leveraging of Multiple LLMs through Comparison and Composition**|Yingtian Shi et.al.|[2510.19252](http://arxiv.org/abs/2510.19252)|null|
 |**2025-10-21**|**Surface code scaling on heavy-hex superconducting quantum processors**|Arian Vezvaee et.al.|[2510.18847](http://arxiv.org/abs/2510.18847)|null|
 |**2025-10-21**|**Simple logical quantum computation with concatenated symplectic double codes**|Noah Berthusen et.al.|[2510.18753](http://arxiv.org/abs/2510.18753)|null|
 |**2025-10-21**|**Measurement-Based Fault-Tolerant Quantum Computation on High-Connectivity Devices: A Resource-Efficient Approach toward Early FTQC**|Yohei Ibe et.al.|[2510.18652](http://arxiv.org/abs/2510.18652)|null|

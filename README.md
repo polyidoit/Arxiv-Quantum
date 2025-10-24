@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**Quantum mysteries explained in digestible form**|Alejandro Hnilo et.al.|[2510.20144](http://arxiv.org/abs/2510.20144)|null|
 |**2025-10-15**|**Equivalence of Genuine Multipartite Entanglement and Nonlocality of Nearly Symmetric Multiqubit Pure States**|Jakub Wójcik et.al.|[2510.13296](http://arxiv.org/abs/2510.13296)|null|
 |**2025-10-14**|**Can outcome communication explain Bell nonlocality?**|Carlos Vieira et.al.|[2510.12886](http://arxiv.org/abs/2510.12886)|null|
 |**2025-10-10**|**Computational Bell Inequalities**|Ilya Merkulov et.al.|[2510.08423](http://arxiv.org/abs/2510.08423)|null|
@@ -635,6 +636,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-22**|**The Temporal Graph of Bitcoin Transactions**|Vahid Jalili et.al.|[2510.20028](http://arxiv.org/abs/2510.20028)|null|
 |**2025-10-22**|**Recognizing Leaf Powers and Pairwise Compatibility Graphs is NP-Complete**|Max Dupré la Tour et.al.|[2510.19763](http://arxiv.org/abs/2510.19763)|null|
 |**2025-10-15**|**Contextuality-based quantum key distribution with deterministic single-photon sources**|Yu Meng et.al.|[2510.12761](http://arxiv.org/abs/2510.12761)|null|
 |**2025-10-07**|**Measurement of the Quantum Capacitance Between Two Metallic Electrodes**|T. de Ara et.al.|[2510.05866](http://arxiv.org/abs/2510.05866)|null|
@@ -963,6 +965,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**Complete characterisation of state conversions by work extraction**|Chung-Yun Hsieh et.al.|[2510.20366](http://arxiv.org/abs/2510.20366)|null|
 |**2025-10-19**|**FTI-TMR: A Fault Tolerance and Isolation Algorithm for Interconnected Multicore Systems**|Yiming Hu et.al.|[2510.16896](http://arxiv.org/abs/2510.16896)|null|
 |**2025-10-18**|**Estimating location parameters of several exponential distributions with ordered restriction under Linex loss function**|Shrajal Bajpai et.al.|[2510.16527](http://arxiv.org/abs/2510.16527)|null|
 |**2025-10-16**|**Diffusion-Free Dynamics in Rotating Spherical Shell Convection Driven By Internal Heating and Cooling**|Neil T. Lewis et.al.|[2510.14671](http://arxiv.org/abs/2510.14671)|null|
@@ -1860,6 +1863,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**Co-Designing Quantum Codes with Transversal Diagonal Gates via Multi-Agent Systems**|Xi He et.al.|[2510.20728](http://arxiv.org/abs/2510.20728)|null|
+|**2025-10-23**|**Non-Markovianity in Quantum Information Processing: Interplay with Quantum Error Mitigation**|Suguru Endo et.al.|[2510.20224](http://arxiv.org/abs/2510.20224)|null|
+|**2025-10-22**|**Reduced State Embedding for Error Correction in Quantum Cryptography**|Amit Kam et.al.|[2510.19989](http://arxiv.org/abs/2510.19989)|null|
 |**2025-10-22**|**Good quantum codes with addressable and parallelizable non-Clifford gates**|Virgile Guemard et.al.|[2510.19809](http://arxiv.org/abs/2510.19809)|null|
 |**2025-10-22**|**Passive quantum error correction of photon loss at breakeven**|Shruti Shirol et.al.|[2510.19794](http://arxiv.org/abs/2510.19794)|null|
 |**2025-10-22**|**LLMartini: Seamless and Interactive Leveraging of Multiple LLMs through Comparison and Composition**|Yingtian Shi et.al.|[2510.19252](http://arxiv.org/abs/2510.19252)|null|

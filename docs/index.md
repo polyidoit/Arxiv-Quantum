@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Certifying Randomness or its Lack Thereof for General Network Scenarios**|Maria Ciudad Alañón et.al.|[2510.20993](http://arxiv.org/abs/2510.20993)|null|
 |**2025-10-23**|**Quantum mysteries explained in digestible form**|Alejandro Hnilo et.al.|[2510.20144](http://arxiv.org/abs/2510.20144)|null|
 |**2025-10-15**|**Equivalence of Genuine Multipartite Entanglement and Nonlocality of Nearly Symmetric Multiqubit Pure States**|Jakub Wójcik et.al.|[2510.13296](http://arxiv.org/abs/2510.13296)|null|
 |**2025-10-14**|**Can outcome communication explain Bell nonlocality?**|Carlos Vieira et.al.|[2510.12886](http://arxiv.org/abs/2510.12886)|null|
@@ -948,6 +949,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**No-broadcasting of non-Gaussian states**|Kaustav Chatterjee et.al.|[2510.20971](http://arxiv.org/abs/2510.20971)|null|
 |**2025-10-23**|**Complete characterisation of state conversions by work extraction**|Chung-Yun Hsieh et.al.|[2510.20366](http://arxiv.org/abs/2510.20366)|null|
 |**2025-10-19**|**FTI-TMR: A Fault Tolerance and Isolation Algorithm for Interconnected Multicore Systems**|Yiming Hu et.al.|[2510.16896](http://arxiv.org/abs/2510.16896)|null|
 |**2025-10-18**|**Estimating location parameters of several exponential distributions with ordered restriction under Linex loss function**|Shrajal Bajpai et.al.|[2510.16527](http://arxiv.org/abs/2510.16527)|null|
@@ -1244,6 +1246,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**Analytical determination of multi-time correlation functions in quantum chaotic systems**|Yoana R. Chorbadzhiyska et.al.|[2510.21637](http://arxiv.org/abs/2510.21637)|null|
 |**2025-10-22**|**Quantum computation of molecular geometry via many-body nuclear spin echoes**|C. Zhang et.al.|[2510.19550](http://arxiv.org/abs/2510.19550)|null|
 |**2025-10-21**|**Sharp Transitions for Subsystem Complexity**|Yale Fan et.al.|[2510.18832](http://arxiv.org/abs/2510.18832)|null|
 |**2025-10-18**|**Quantum Complexity in Constrained Many-Body Models: Scars, Fragmentation, and Chaos**|Arkaprava Sil et.al.|[2510.16570](http://arxiv.org/abs/2510.16570)|null|
@@ -1842,6 +1845,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**Harnessing Intrinsic Noise for Quantum Simulation of Open Quantum Systems**|Sameer Dambal et.al.|[2510.21075](http://arxiv.org/abs/2510.21075)|null|
+|**2025-10-23**|**Hybrid Lattice Surgery: Non-Clifford Gates via Non-Abelian Surface Codes**|Sheng-Jie Huang et.al.|[2510.20890](http://arxiv.org/abs/2510.20890)|null|
 |**2025-10-23**|**Co-Designing Quantum Codes with Transversal Diagonal Gates via Multi-Agent Systems**|Xi He et.al.|[2510.20728](http://arxiv.org/abs/2510.20728)|null|
 |**2025-10-23**|**Non-Markovianity in Quantum Information Processing: Interplay with Quantum Error Mitigation**|Suguru Endo et.al.|[2510.20224](http://arxiv.org/abs/2510.20224)|null|
 |**2025-10-22**|**Reduced State Embedding for Error Correction in Quantum Cryptography**|Amit Kam et.al.|[2510.19989](http://arxiv.org/abs/2510.19989)|null|

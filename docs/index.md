@@ -949,6 +949,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots**|Sabino Francesco Roselli et.al.|[2510.23129](http://arxiv.org/abs/2510.23129)|null|
 |**2025-10-23**|**No-broadcasting of non-Gaussian states**|Kaustav Chatterjee et.al.|[2510.20971](http://arxiv.org/abs/2510.20971)|null|
 |**2025-10-23**|**Complete characterisation of state conversions by work extraction**|Chung-Yun Hsieh et.al.|[2510.20366](http://arxiv.org/abs/2510.20366)|null|
 |**2025-10-19**|**FTI-TMR: A Fault Tolerance and Isolation Algorithm for Interconnected Multicore Systems**|Yiming Hu et.al.|[2510.16896](http://arxiv.org/abs/2510.16896)|null|
@@ -1246,6 +1247,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**Many-body chaos and pole-skipping in holographic charged rotating fluids**|Hong-Da Lyu et.al.|[2510.23583](http://arxiv.org/abs/2510.23583)|null|
 |**2025-10-24**|**Analytical determination of multi-time correlation functions in quantum chaotic systems**|Yoana R. Chorbadzhiyska et.al.|[2510.21637](http://arxiv.org/abs/2510.21637)|null|
 |**2025-10-22**|**Quantum computation of molecular geometry via many-body nuclear spin echoes**|C. Zhang et.al.|[2510.19550](http://arxiv.org/abs/2510.19550)|null|
 |**2025-10-21**|**Sharp Transitions for Subsystem Complexity**|Yale Fan et.al.|[2510.18832](http://arxiv.org/abs/2510.18832)|null|
@@ -1845,6 +1847,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**Architecting Scalable Trapped Ion Quantum Computers using Surface Codes**|Scott Jones et.al.|[2510.23519](http://arxiv.org/abs/2510.23519)|null|
+|**2025-10-27**|**Reducing measurements in quantum erasure correction by quantum local recovery**|Ryutaroh Matsumoto et.al.|[2510.22890](http://arxiv.org/abs/2510.22890)|null|
+|**2025-10-26**|**Scalable Neural Decoders for Practical Real-Time Quantum Error Correction**|Changwon Lee et.al.|[2510.22724](http://arxiv.org/abs/2510.22724)|null|
+|**2025-10-26**|**Does In-IDE Calibration of Large Language Models work at Scale?**|Roham Koohestani et.al.|[2510.22614](http://arxiv.org/abs/2510.22614)|null|
+|**2025-10-25**|**Autonomous Floquet Engineering of Bosonic Codes via Reinforcement Learning**|Zheping Wu et.al.|[2510.22227](http://arxiv.org/abs/2510.22227)|null|
+|**2025-10-24**|**Boundaries of Acceptable Defectiveness: Redefining Surface Code Robustness under Heterogeneous Noise**|Jacob S. Palmer et.al.|[2510.22001](http://arxiv.org/abs/2510.22001)|null|
 |**2025-10-24**|**Harnessing Intrinsic Noise for Quantum Simulation of Open Quantum Systems**|Sameer Dambal et.al.|[2510.21075](http://arxiv.org/abs/2510.21075)|null|
 |**2025-10-23**|**Hybrid Lattice Surgery: Non-Clifford Gates via Non-Abelian Surface Codes**|Sheng-Jie Huang et.al.|[2510.20890](http://arxiv.org/abs/2510.20890)|null|
 |**2025-10-23**|**Co-Designing Quantum Codes with Transversal Diagonal Gates via Multi-Agent Systems**|Xi He et.al.|[2510.20728](http://arxiv.org/abs/2510.20728)|null|

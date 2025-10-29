@@ -949,6 +949,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Computing extreme singular values of free operators**|Emre Parmaksiz et.al.|[2510.23987](http://arxiv.org/abs/2510.23987)|null|
+|**2025-10-27**|**A data free neural operator enabling fast inference of 2D and 3D Navier Stokes equations**|Junho Choi et.al.|[2510.23936](http://arxiv.org/abs/2510.23936)|null|
 |**2025-10-27**|**Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots**|Sabino Francesco Roselli et.al.|[2510.23129](http://arxiv.org/abs/2510.23129)|null|
 |**2025-10-23**|**No-broadcasting of non-Gaussian states**|Kaustav Chatterjee et.al.|[2510.20971](http://arxiv.org/abs/2510.20971)|null|
 |**2025-10-23**|**Complete characterisation of state conversions by work extraction**|Chung-Yun Hsieh et.al.|[2510.20366](http://arxiv.org/abs/2510.20366)|null|
@@ -1247,6 +1249,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**Apparent Universal Behavior in Second Moments of Random Quantum Circuits**|Daniel Belkin et.al.|[2510.23726](http://arxiv.org/abs/2510.23726)|null|
+|**2025-10-27**|**Anti-concentration is (almost) all you need**|Markus Heinrich et.al.|[2510.23719](http://arxiv.org/abs/2510.23719)|null|
+|**2025-10-27**|**Free-Fermion Measurement-Induced Volume- to Area-Law Entanglement Transition in the Presence of Fermion Interactions**|Matthew S. Foster et.al.|[2510.23706](http://arxiv.org/abs/2510.23706)|null|
 |**2025-10-27**|**Many-body chaos and pole-skipping in holographic charged rotating fluids**|Hong-Da Lyu et.al.|[2510.23583](http://arxiv.org/abs/2510.23583)|null|
 |**2025-10-24**|**Analytical determination of multi-time correlation functions in quantum chaotic systems**|Yoana R. Chorbadzhiyska et.al.|[2510.21637](http://arxiv.org/abs/2510.21637)|null|
 |**2025-10-22**|**Quantum computation of molecular geometry via many-body nuclear spin echoes**|C. Zhang et.al.|[2510.19550](http://arxiv.org/abs/2510.19550)|null|
@@ -1847,6 +1852,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Efficient magic state cultivation with lattice surgery**|Yutaka Hirano et.al.|[2510.24615](http://arxiv.org/abs/2510.24615)|null|
+|**2025-10-28**|**An exact Error Threshold of Surface Code under Correlated Nearest-Neighbor Errors: A Statistical Mechanical Analysis**|SiYing Wang et.al.|[2510.24181](http://arxiv.org/abs/2510.24181)|null|
+|**2025-10-27**|**Spatial Orchestra: Locomotion Music Instruments through Spatial Exploration**|You-Jin Kim et.al.|[2510.23848](http://arxiv.org/abs/2510.23848)|null|
+|**2025-10-27**|**Estimating and decoding coherent errors of QEC experiments with detector error models**|Evangelia Takou et.al.|[2510.23797](http://arxiv.org/abs/2510.23797)|null|
+|**2025-10-27**|**The injective norm of CSS quantum error-correcting codes**|Stephane Dartois et.al.|[2510.23736](http://arxiv.org/abs/2510.23736)|null|
 |**2025-10-27**|**Architecting Scalable Trapped Ion Quantum Computers using Surface Codes**|Scott Jones et.al.|[2510.23519](http://arxiv.org/abs/2510.23519)|null|
 |**2025-10-27**|**Reducing measurements in quantum erasure correction by quantum local recovery**|Ryutaroh Matsumoto et.al.|[2510.22890](http://arxiv.org/abs/2510.22890)|null|
 |**2025-10-26**|**Scalable Neural Decoders for Practical Real-Time Quantum Error Correction**|Changwon Lee et.al.|[2510.22724](http://arxiv.org/abs/2510.22724)|null|

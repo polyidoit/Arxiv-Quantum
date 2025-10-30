@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Properties and Applications of Partially Deterministic Polytopes**|Marwan Haddara et.al.|[2510.25127](http://arxiv.org/abs/2510.25127)|null|
 |**2025-10-23**|**Certifying Randomness or its Lack Thereof for General Network Scenarios**|Maria Ciudad Alañón et.al.|[2510.20993](http://arxiv.org/abs/2510.20993)|null|
 |**2025-10-23**|**Quantum mysteries explained in digestible form**|Alejandro Hnilo et.al.|[2510.20144](http://arxiv.org/abs/2510.20144)|null|
 |**2025-10-15**|**Equivalence of Genuine Multipartite Entanglement and Nonlocality of Nearly Symmetric Multiqubit Pure States**|Jakub Wójcik et.al.|[2510.13296](http://arxiv.org/abs/2510.13296)|null|
@@ -637,6 +638,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Universal Random Matrix Behavior of a Fermionic Quantum Gas**|Maxime Dixmerias et.al.|[2510.25735](http://arxiv.org/abs/2510.25735)|null|
 |**2025-10-22**|**The Temporal Graph of Bitcoin Transactions**|Vahid Jalili et.al.|[2510.20028](http://arxiv.org/abs/2510.20028)|null|
 |**2025-10-22**|**Recognizing Leaf Powers and Pairwise Compatibility Graphs is NP-Complete**|Max Dupré la Tour et.al.|[2510.19763](http://arxiv.org/abs/2510.19763)|null|
 |**2025-10-15**|**Contextuality-based quantum key distribution with deterministic single-photon sources**|Yu Meng et.al.|[2510.12761](http://arxiv.org/abs/2510.12761)|null|
@@ -966,6 +968,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Symmetry and Asymmetry in Bosonic Gaussian Systems: A Resource-Theoretic Framework**|Nikolaos Koukoulekidis et.al.|[2510.25719](http://arxiv.org/abs/2510.25719)|null|
 |**2025-10-28**|**Computing extreme singular values of free operators**|Emre Parmaksiz et.al.|[2510.23987](http://arxiv.org/abs/2510.23987)|null|
 |**2025-10-27**|**A data free neural operator enabling fast inference of 2D and 3D Navier Stokes equations**|Junho Choi et.al.|[2510.23936](http://arxiv.org/abs/2510.23936)|null|
 |**2025-10-27**|**Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots**|Sabino Francesco Roselli et.al.|[2510.23129](http://arxiv.org/abs/2510.23129)|null|
@@ -1268,6 +1271,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Dynamics of entanglement fluctuations and quantum Mpemba effect in the $ν=1$ QSSEP model**|Angelo Russotto et.al.|[2510.25519](http://arxiv.org/abs/2510.25519)|null|
+|**2025-10-28**|**Neutrino thermalization via randomization on a quantum processor**|Oriel Kiss et.al.|[2510.24841](http://arxiv.org/abs/2510.24841)|null|
 |**2025-10-27**|**Apparent Universal Behavior in Second Moments of Random Quantum Circuits**|Daniel Belkin et.al.|[2510.23726](http://arxiv.org/abs/2510.23726)|null|
 |**2025-10-27**|**Anti-concentration is (almost) all you need**|Markus Heinrich et.al.|[2510.23719](http://arxiv.org/abs/2510.23719)|null|
 |**2025-10-27**|**Free-Fermion Measurement-Induced Volume- to Area-Law Entanglement Transition in the Presence of Fermion Interactions**|Matthew S. Foster et.al.|[2510.23706](http://arxiv.org/abs/2510.23706)|null|
@@ -1873,6 +1878,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Accurate Leakage Speculation for Quantum Error Correction**|Chaithanya Naik Mude et.al.|[2510.25661](http://arxiv.org/abs/2510.25661)|null|
+|**2025-10-29**|**Decoder Switching: Breaking the Speed-Accuracy Tradeoff in Real-Time Quantum Error Correction**|Riki Toshio et.al.|[2510.25222](http://arxiv.org/abs/2510.25222)|null|
 |**2025-10-28**|**Efficient magic state cultivation with lattice surgery**|Yutaka Hirano et.al.|[2510.24615](http://arxiv.org/abs/2510.24615)|null|
 |**2025-10-28**|**An exact Error Threshold of Surface Code under Correlated Nearest-Neighbor Errors: A Statistical Mechanical Analysis**|SiYing Wang et.al.|[2510.24181](http://arxiv.org/abs/2510.24181)|null|
 |**2025-10-27**|**Spatial Orchestra: Locomotion Music Instruments through Spatial Exploration**|You-Jin Kim et.al.|[2510.23848](http://arxiv.org/abs/2510.23848)|null|

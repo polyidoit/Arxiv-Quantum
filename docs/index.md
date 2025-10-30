@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -954,11 +954,11 @@ layout: default
 |**2025-10-27**|**Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots**|Sabino Francesco Roselli et.al.|[2510.23129](http://arxiv.org/abs/2510.23129)|null|
 |**2025-10-23**|**No-broadcasting of non-Gaussian states**|Kaustav Chatterjee et.al.|[2510.20971](http://arxiv.org/abs/2510.20971)|null|
 |**2025-10-23**|**Complete characterisation of state conversions by work extraction**|Chung-Yun Hsieh et.al.|[2510.20366](http://arxiv.org/abs/2510.20366)|null|
-|**2025-10-19**|**FTI-TMR: A Fault Tolerance and Isolation Algorithm for Interconnected Multicore Systems**|Yiming Hu et.al.|[2510.16896](http://arxiv.org/abs/2510.16896)|null|
+|**2025-10-29**|**FTI-TMR: A Fault Tolerance and Isolation Algorithm for Interconnected Multicore Systems**|Yiming Hu et.al.|[2510.16896](http://arxiv.org/abs/2510.16896)|null|
 |**2025-10-18**|**Estimating location parameters of several exponential distributions with ordered restriction under Linex loss function**|Shrajal Bajpai et.al.|[2510.16527](http://arxiv.org/abs/2510.16527)|null|
 |**2025-10-16**|**Diffusion-Free Dynamics in Rotating Spherical Shell Convection Driven By Internal Heating and Cooling**|Neil T. Lewis et.al.|[2510.14671](http://arxiv.org/abs/2510.14671)|null|
 |**2025-10-14**|**Censorship of quantum resources against catalytic account sharing**|Julien Pinske et.al.|[2510.12876](http://arxiv.org/abs/2510.12876)|null|
-|**2025-10-14**|**Thermodynamics of quantum processes: An operational framework for free energy and reversible athermality**|Himanshu Badhani et.al.|[2510.12790](http://arxiv.org/abs/2510.12790)|null|
+|**2025-10-29**|**Thermodynamics of quantum processes: An operational framework for free energy and reversible athermality**|Himanshu Badhani et.al.|[2510.12790](http://arxiv.org/abs/2510.12790)|null|
 |**2025-10-13**|**A Monte Carlo approach to bound Trotter error**|Nick S. Blunt et.al.|[2510.11621](http://arxiv.org/abs/2510.11621)|null|
 |**2025-10-08**|**Generalizing Multimorbidity Models Across Countries: A Comparative Study of Austria and Denmark**|Johanna Einsiedler et.al.|[2510.09680](http://arxiv.org/abs/2510.09680)|null|
 |**2025-10-09**|**A Formalization of the Generalized Quantum Stein's Lemma in Lean**|Alex Meiburg et.al.|[2510.08672](http://arxiv.org/abs/2510.08672)|null|

@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-30**|**Graph theoretic quantum contextuality and unextendible Product Bases**|Gurvir Singh et.al.|[2510.26719](http://arxiv.org/abs/2510.26719)|null|
+|**2025-10-30**|**Network nonlocality breaking channels**|Kaushiki Mukherjee et.al.|[2510.26417](http://arxiv.org/abs/2510.26417)|null|
+|**2025-10-30**|**Quantum Nonlocality under Latency Constraints**|Dawei Ding et.al.|[2510.26349](http://arxiv.org/abs/2510.26349)|null|
 |**2025-10-29**|**Properties and Applications of Partially Deterministic Polytopes**|Marwan Haddara et.al.|[2510.25127](http://arxiv.org/abs/2510.25127)|null|
 |**2025-10-23**|**Certifying Randomness or its Lack Thereof for General Network Scenarios**|Maria Ciudad Alañón et.al.|[2510.20993](http://arxiv.org/abs/2510.20993)|null|
 |**2025-10-23**|**Quantum mysteries explained in digestible form**|Alejandro Hnilo et.al.|[2510.20144](http://arxiv.org/abs/2510.20144)|null|
@@ -638,6 +641,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-30**|**Graph theoretic quantum contextuality and unextendible Product Bases**|Gurvir Singh et.al.|[2510.26719](http://arxiv.org/abs/2510.26719)|null|
 |**2025-10-29**|**Universal Random Matrix Behavior of a Fermionic Quantum Gas**|Maxime Dixmerias et.al.|[2510.25735](http://arxiv.org/abs/2510.25735)|null|
 |**2025-10-22**|**The Temporal Graph of Bitcoin Transactions**|Vahid Jalili et.al.|[2510.20028](http://arxiv.org/abs/2510.20028)|null|
 |**2025-10-22**|**Recognizing Leaf Powers and Pairwise Compatibility Graphs is NP-Complete**|Max Dupré la Tour et.al.|[2510.19763](http://arxiv.org/abs/2510.19763)|null|
@@ -1271,6 +1275,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-30**|**Approximate quantum error correction, eigenstate thermalization and the chaos bound**|Shozab Qasim et.al.|[2510.26758](http://arxiv.org/abs/2510.26758)|null|
+|**2025-10-30**|**Higher-order discrete time crystals in a quantum chaotic top**|Subhashis Das et.al.|[2510.26600](http://arxiv.org/abs/2510.26600)|null|
 |**2025-10-29**|**Dynamics of entanglement fluctuations and quantum Mpemba effect in the $ν=1$ QSSEP model**|Angelo Russotto et.al.|[2510.25519](http://arxiv.org/abs/2510.25519)|null|
 |**2025-10-28**|**Neutrino thermalization via randomization on a quantum processor**|Oriel Kiss et.al.|[2510.24841](http://arxiv.org/abs/2510.24841)|null|
 |**2025-10-27**|**Apparent Universal Behavior in Second Moments of Random Quantum Circuits**|Daniel Belkin et.al.|[2510.23726](http://arxiv.org/abs/2510.23726)|null|
@@ -1878,6 +1884,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-30**|**Approximate quantum error correction, eigenstate thermalization and the chaos bound**|Shozab Qasim et.al.|[2510.26758](http://arxiv.org/abs/2510.26758)|null|
+|**2025-10-29**|**Enabling Fast and Accurate Neutral Atom Readout through Image Denoising**|Chaithanya Naik Mude et.al.|[2510.25982](http://arxiv.org/abs/2510.25982)|null|
 |**2025-10-29**|**Accurate Leakage Speculation for Quantum Error Correction**|Chaithanya Naik Mude et.al.|[2510.25661](http://arxiv.org/abs/2510.25661)|null|
 |**2025-10-29**|**Decoder Switching: Breaking the Speed-Accuracy Tradeoff in Real-Time Quantum Error Correction**|Riki Toshio et.al.|[2510.25222](http://arxiv.org/abs/2510.25222)|null|
 |**2025-10-28**|**Efficient magic state cultivation with lattice surgery**|Yutaka Hirano et.al.|[2510.24615](http://arxiv.org/abs/2510.24615)|null|

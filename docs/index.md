@@ -955,9 +955,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Quantum waste management: Utilizing residual states in quantum information processing**|Karol Horodecki et.al.|[2510.27687](http://arxiv.org/abs/2510.27687)|null|
 |**2025-10-29**|**Symmetry and Asymmetry in Bosonic Gaussian Systems: A Resource-Theoretic Framework**|Nikolaos Koukoulekidis et.al.|[2510.25719](http://arxiv.org/abs/2510.25719)|null|
 |**2025-10-28**|**Computing extreme singular values of free operators**|Emre Parmaksiz et.al.|[2510.23987](http://arxiv.org/abs/2510.23987)|null|
-|**2025-10-27**|**A data free neural operator enabling fast inference of 2D and 3D Navier Stokes equations**|Junho Choi et.al.|[2510.23936](http://arxiv.org/abs/2510.23936)|null|
+|**2025-10-31**|**A data free neural operator enabling fast inference of 2D and 3D Navier Stokes equations**|Junho Choi et.al.|[2510.23936](http://arxiv.org/abs/2510.23936)|null|
 |**2025-10-27**|**Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots**|Sabino Francesco Roselli et.al.|[2510.23129](http://arxiv.org/abs/2510.23129)|null|
 |**2025-10-23**|**No-broadcasting of non-Gaussian states**|Kaustav Chatterjee et.al.|[2510.20971](http://arxiv.org/abs/2510.20971)|null|
 |**2025-10-23**|**Complete characterisation of state conversions by work extraction**|Chung-Yun Hsieh et.al.|[2510.20366](http://arxiv.org/abs/2510.20366)|null|
@@ -1256,6 +1257,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Area-Law Entanglement in Quantum Chaotic System**|Chunyin Chen et.al.|[2510.27511](http://arxiv.org/abs/2510.27511)|null|
 |**2025-10-30**|**Approximate quantum error correction, eigenstate thermalization and the chaos bound**|Shozab Qasim et.al.|[2510.26758](http://arxiv.org/abs/2510.26758)|null|
 |**2025-10-30**|**Higher-order discrete time crystals in a quantum chaotic top**|Subhashis Das et.al.|[2510.26600](http://arxiv.org/abs/2510.26600)|null|
 |**2025-10-29**|**Dynamics of entanglement fluctuations and quantum Mpemba effect in the $ν=1$ QSSEP model**|Angelo Russotto et.al.|[2510.25519](http://arxiv.org/abs/2510.25519)|null|
@@ -1863,6 +1865,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**Fast Bosonic Control via Multiphoton Qubit-Oscillator Interactions**|Noah Gorgichuk et.al.|[2510.27035](http://arxiv.org/abs/2510.27035)|null|
+|**2025-10-30**|**Entanglement Entropy in Loop Quantum Gravity through Quantum Error Correction**|Sean Tobin et.al.|[2510.26911](http://arxiv.org/abs/2510.26911)|null|
 |**2025-10-30**|**Approximate quantum error correction, eigenstate thermalization and the chaos bound**|Shozab Qasim et.al.|[2510.26758](http://arxiv.org/abs/2510.26758)|null|
 |**2025-10-29**|**Enabling Fast and Accurate Neutral Atom Readout through Image Denoising**|Chaithanya Naik Mude et.al.|[2510.25982](http://arxiv.org/abs/2510.25982)|null|
 |**2025-10-29**|**Accurate Leakage Speculation for Quantum Error Correction**|Chaithanya Naik Mude et.al.|[2510.25661](http://arxiv.org/abs/2510.25661)|null|

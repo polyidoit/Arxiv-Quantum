@@ -1257,7 +1257,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-31**|**Area-Law Entanglement in Quantum Chaotic System**|Chunyin Chen et.al.|[2510.27511](http://arxiv.org/abs/2510.27511)|null|
+|**2025-11-03**|**Area-Law Entanglement in Quantum Chaotic System**|Chunyin Chen et.al.|[2510.27511](http://arxiv.org/abs/2510.27511)|null|
 |**2025-10-30**|**Approximate quantum error correction, eigenstate thermalization and the chaos bound**|Shozab Qasim et.al.|[2510.26758](http://arxiv.org/abs/2510.26758)|null|
 |**2025-10-30**|**Higher-order discrete time crystals in a quantum chaotic top**|Subhashis Das et.al.|[2510.26600](http://arxiv.org/abs/2510.26600)|null|
 |**2025-10-29**|**Dynamics of entanglement fluctuations and quantum Mpemba effect in the $ν=1$ QSSEP model**|Angelo Russotto et.al.|[2510.25519](http://arxiv.org/abs/2510.25519)|null|

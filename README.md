@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-03**|**Graph Structured Operator Inequalities and Tsirelson-Type Bounds**|James Tian et.al.|[2511.01525](http://arxiv.org/abs/2511.01525)|null|
+|**2025-10-31**|**Local perception operators and classicality: new tools for old tests**|Rohit Kishan Ray et.al.|[2511.00314](http://arxiv.org/abs/2511.00314)|null|
 |**2025-10-30**|**Graph theoretic quantum contextuality and unextendible Product Bases**|Gurvir Singh et.al.|[2510.26719](http://arxiv.org/abs/2510.26719)|null|
 |**2025-10-30**|**Network nonlocality breaking channels**|Kaushiki Mukherjee et.al.|[2510.26417](http://arxiv.org/abs/2510.26417)|null|
 |**2025-10-30**|**Quantum Nonlocality under Latency Constraints**|Dawei Ding et.al.|[2510.26349](http://arxiv.org/abs/2510.26349)|null|
@@ -641,6 +643,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**Haldane-Inspired Generalized Statistics**|M. H. Naghizadeh Ardabili et.al.|[2511.02546](http://arxiv.org/abs/2511.02546)|null|
+|**2025-11-03**|**Solution Space Topology Guides CMTS Search**|Mirco A. Mannucci et.al.|[2511.01701](http://arxiv.org/abs/2511.01701)|null|
+|**2025-11-03**|**2D or not 2D: a "holographic dictionary'' for Lowest Landau Levels**|Gautam Mandal et.al.|[2511.01630](http://arxiv.org/abs/2511.01630)|null|
+|**2025-11-01**|**AdS $_3$ Quantum Gravity and Finite $N$ Chiral Primaries**|Ji Hoon Lee et.al.|[2511.00636](http://arxiv.org/abs/2511.00636)|null|
 |**2025-10-30**|**Graph theoretic quantum contextuality and unextendible Product Bases**|Gurvir Singh et.al.|[2510.26719](http://arxiv.org/abs/2510.26719)|null|
 |**2025-10-29**|**Universal Random Matrix Behavior of a Fermionic Quantum Gas**|Maxime Dixmerias et.al.|[2510.25735](http://arxiv.org/abs/2510.25735)|null|
 |**2025-10-22**|**The Temporal Graph of Bitcoin Transactions**|Vahid Jalili et.al.|[2510.20028](http://arxiv.org/abs/2510.20028)|null|
@@ -827,6 +833,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-03**|**Does the survival and sudden death of quadripartite steering in curved spacetime truly depend on multi-directionality?**|Xiaobao Liu et.al.|[2511.01561](http://arxiv.org/abs/2511.01561)|null|
 |**2025-10-11**|**Monogamy of Gaussian quantum steering and entanglement in a hybrid qubit-cavity optomagnonic system with coherent feedback loop**|Hamza Harraf et.al.|[2510.10334](http://arxiv.org/abs/2510.10334)|null|
 |**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
 |**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
@@ -972,6 +979,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-01**|**HIP-LLM: A Hierarchical Imprecise Probability Approach to Reliability Assessment of Large Language Models**|Robab Aghazadeh-Chakherlou et.al.|[2511.00527](http://arxiv.org/abs/2511.00527)|null|
 |**2025-10-31**|**Quantum waste management: Utilizing residual states in quantum information processing**|Karol Horodecki et.al.|[2510.27687](http://arxiv.org/abs/2510.27687)|null|
 |**2025-10-29**|**Symmetry and Asymmetry in Bosonic Gaussian Systems: A Resource-Theoretic Framework**|Nikolaos Koukoulekidis et.al.|[2510.25719](http://arxiv.org/abs/2510.25719)|null|
 |**2025-10-28**|**Computing extreme singular values of free operators**|Emre Parmaksiz et.al.|[2510.23987](http://arxiv.org/abs/2510.23987)|null|
@@ -1276,6 +1284,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**Nodal Count for Orthogonally Invariant Ensembles**|Lior Alon et.al.|[2511.02784](http://arxiv.org/abs/2511.02784)|null|
 |**2025-11-03**|**Area-Law Entanglement in Quantum Chaotic System**|Chunyin Chen et.al.|[2510.27511](http://arxiv.org/abs/2510.27511)|null|
 |**2025-10-30**|**Approximate quantum error correction, eigenstate thermalization and the chaos bound**|Shozab Qasim et.al.|[2510.26758](http://arxiv.org/abs/2510.26758)|null|
 |**2025-10-30**|**Higher-order discrete time crystals in a quantum chaotic top**|Subhashis Das et.al.|[2510.26600](http://arxiv.org/abs/2510.26600)|null|
@@ -1886,6 +1895,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**A Construction of Infinite Families of Self-Orthogonal Quasi-Cyclic Codes Using Constituent Codes.pdf**|Gustavo Terra Bastos et.al.|[2511.02813](http://arxiv.org/abs/2511.02813)|null|
+|**2025-11-04**|**Multiplexed double-transmon coupler scheme in scalable superconducting quantum processor**|Tianqi Cai et.al.|[2511.02249](http://arxiv.org/abs/2511.02249)|null|
+|**2025-11-03**|**HyperNQ: A Hypergraph Neural Network Decoder for Quantum LDPC Codes**|Ameya S. Bhave et.al.|[2511.01741](http://arxiv.org/abs/2511.01741)|null|
+|**2025-11-04**|**Emergent Area Operators in the Boundary**|Ronak M Soni et.al.|[2511.01382](http://arxiv.org/abs/2511.01382)|null|
+|**2025-11-03**|**High-fidelity all-microwave CZ gate with partial erasure-error detection via a transmon coupler**|Shotaro Shirai et.al.|[2511.01260](http://arxiv.org/abs/2511.01260)|null|
+|**2025-11-02**|**In situ calibration of unitary operations during quantum error correction**|Jonathan Kunjummen et.al.|[2511.01080](http://arxiv.org/abs/2511.01080)|null|
+|**2025-11-02**|**ECCentric: An Empirical Analysis of Quantum Error Correction Codes**|Aleksandra Świerkowska et.al.|[2511.01062](http://arxiv.org/abs/2511.01062)|null|
+|**2025-11-02**|**Enhancing Kerr-Cat Qubit Coherence with Controlled Dissipation**|Francesco Adinolfi et.al.|[2511.01027](http://arxiv.org/abs/2511.01027)|null|
 |**2025-10-30**|**Fast Bosonic Control via Multiphoton Qubit-Oscillator Interactions**|Noah Gorgichuk et.al.|[2510.27035](http://arxiv.org/abs/2510.27035)|null|
 |**2025-10-30**|**Entanglement Entropy in Loop Quantum Gravity through Quantum Error Correction**|Sean Tobin et.al.|[2510.26911](http://arxiv.org/abs/2510.26911)|null|
 |**2025-10-30**|**Approximate quantum error correction, eigenstate thermalization and the chaos bound**|Shozab Qasim et.al.|[2510.26758](http://arxiv.org/abs/2510.26758)|null|

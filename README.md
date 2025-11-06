@@ -517,6 +517,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**Entanglement-assisted circuit knitting**|Shao-Hua Hu et.al.|[2510.26789](http://arxiv.org/abs/2510.26789)|null|
 |**2025-10-16**|**Quantifiers of Noise Reducibility Under Restricted Control**|Graeme D. Berk et.al.|[2510.14316](http://arxiv.org/abs/2510.14316)|null|
 |**2025-10-14**|**A Quantum Generative Framework for Modeling Single-Cell Transcriptomes with Gene-Gene and Cell-Cell Interactions**|Selim Romero et.al.|[2510.12776](http://arxiv.org/abs/2510.12776)|null|
 |**2025-10-08**|**Sequential quantum processes with group symmetries**|Dmitry Grinko et.al.|[2510.07100](http://arxiv.org/abs/2510.07100)|null|
@@ -1284,6 +1285,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**Scrambling or Stalling: Angular Momentum Barriers to Chaos in Holographic CFTs**|Juan Hernandez et.al.|[2511.03633](http://arxiv.org/abs/2511.03633)|null|
+|**2025-11-05**|**Integrability of a family of clean SYK models from the critical Ising chain**|Kohei Fukai et.al.|[2511.03460](http://arxiv.org/abs/2511.03460)|null|
 |**2025-11-04**|**Nodal Count for Orthogonally Invariant Ensembles**|Lior Alon et.al.|[2511.02784](http://arxiv.org/abs/2511.02784)|null|
 |**2025-11-03**|**Area-Law Entanglement in Quantum Chaotic System**|Chunyin Chen et.al.|[2510.27511](http://arxiv.org/abs/2510.27511)|null|
 |**2025-10-30**|**Approximate quantum error correction, eigenstate thermalization and the chaos bound**|Shozab Qasim et.al.|[2510.26758](http://arxiv.org/abs/2510.26758)|null|
@@ -1895,6 +1898,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**Quantum Error Correction-like Noise Mitigation for Wave-like Dark Matter Searches with Quantum Sensors**|Hajime Fukuda et.al.|[2511.03253](http://arxiv.org/abs/2511.03253)|null|
+|**2025-11-04**|**Revisiting Nishimori multicriticality through the lens of information measures**|Zhou-Quan Wan et.al.|[2511.02907](http://arxiv.org/abs/2511.02907)|null|
 |**2025-11-04**|**A Construction of Infinite Families of Self-Orthogonal Quasi-Cyclic Codes Using Constituent Codes.pdf**|Gustavo Terra Bastos et.al.|[2511.02813](http://arxiv.org/abs/2511.02813)|null|
 |**2025-11-04**|**Multiplexed double-transmon coupler scheme in scalable superconducting quantum processor**|Tianqi Cai et.al.|[2511.02249](http://arxiv.org/abs/2511.02249)|null|
 |**2025-11-03**|**HyperNQ: A Hypergraph Neural Network Decoder for Quantum LDPC Codes**|Ameya S. Bhave et.al.|[2511.01741](http://arxiv.org/abs/2511.01741)|null|

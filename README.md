@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**Probing quantum entanglement with Generalized Parton Distributions at the Electron-Ion Collider**|Yoshitaka Hatta et.al.|[2511.04537](http://arxiv.org/abs/2511.04537)|null|
+|**2025-11-06**|**Random access Bell game by sequentially measuring the control of the quantum SWITCH**|Gaurang Agrawal et.al.|[2511.04272](http://arxiv.org/abs/2511.04272)|null|
+|**2025-11-06**|**Expectation-Realization Interpretation of Quantum Superposition**|Yanting Wang et.al.|[2511.04154](http://arxiv.org/abs/2511.04154)|null|
 |**2025-11-03**|**Graph Structured Operator Inequalities and Tsirelson-Type Bounds**|James Tian et.al.|[2511.01525](http://arxiv.org/abs/2511.01525)|null|
 |**2025-10-31**|**Local perception operators and classicality: new tools for old tests**|Rohit Kishan Ray et.al.|[2511.00314](http://arxiv.org/abs/2511.00314)|null|
 |**2025-10-30**|**Graph theoretic quantum contextuality and unextendible Product Bases**|Gurvir Singh et.al.|[2510.26719](http://arxiv.org/abs/2510.26719)|null|
@@ -839,7 +842,7 @@
 |**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
 |**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
 |**2025-09-19**|**Robust self-testing of quantum steering assemblages via operator inequalities**|Beata Zjawin et.al.|[2509.15699](http://arxiv.org/abs/2509.15699)|null|
-|**2025-09-18**|**Quantum steering and discord in hyperon-antihyperon system in electron-positron annihilation**|Sihao Wu et.al.|[2509.14990](http://arxiv.org/abs/2509.14990)|null|
+|**2025-11-06**|**Quantum steering and discord in hyperon-antihyperon system in electron-positron annihilation**|Sihao Wu et.al.|[2509.14990](http://arxiv.org/abs/2509.14990)|null|
 |**2025-08-23**|**Efficient utilization of imaginarity in quantum steering**|Shounak Datta et.al.|[2508.17140](http://arxiv.org/abs/2508.17140)|null|
 |**2025-07-28**|**Witness the High-Dimensional Quantum Steering via Majorization Lattice**|Ma-Cheng Yang et.al.|[2507.20950](http://arxiv.org/abs/2507.20950)|null|
 |**2025-07-24**|**Secure One-Sided Device-Independent Quantum Key Distribution Under Collective Attacks with Enhanced Robustness**|Pritam Roy et.al.|[2507.18744](http://arxiv.org/abs/2507.18744)|null|
@@ -980,6 +983,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**Age of Job Completion Minimization with Stable Queues**|Stavros Mitrolaris et.al.|[2511.04630](http://arxiv.org/abs/2511.04630)|null|
 |**2025-11-01**|**HIP-LLM: A Hierarchical Imprecise Probability Approach to Reliability Assessment of Large Language Models**|Robab Aghazadeh-Chakherlou et.al.|[2511.00527](http://arxiv.org/abs/2511.00527)|null|
 |**2025-10-31**|**Quantum waste management: Utilizing residual states in quantum information processing**|Karol Horodecki et.al.|[2510.27687](http://arxiv.org/abs/2510.27687)|null|
 |**2025-10-29**|**Symmetry and Asymmetry in Bosonic Gaussian Systems: A Resource-Theoretic Framework**|Nikolaos Koukoulekidis et.al.|[2510.25719](http://arxiv.org/abs/2510.25719)|null|
@@ -1285,6 +1289,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**Holographic black hole formation and scrambling in time-ordered correlators**|Pratyusha Chowdhury et.al.|[2511.03784](http://arxiv.org/abs/2511.03784)|null|
 |**2025-11-05**|**Scrambling or Stalling: Angular Momentum Barriers to Chaos in Holographic CFTs**|Juan Hernandez et.al.|[2511.03633](http://arxiv.org/abs/2511.03633)|null|
 |**2025-11-05**|**Integrability of a family of clean SYK models from the critical Ising chain**|Kohei Fukai et.al.|[2511.03460](http://arxiv.org/abs/2511.03460)|null|
 |**2025-11-04**|**Nodal Count for Orthogonally Invariant Ensembles**|Lior Alon et.al.|[2511.02784](http://arxiv.org/abs/2511.02784)|null|
@@ -1898,6 +1903,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**Microwave Output Stabilization of a Qubit Controller via Device-Level Temperature Control**|Yoshinori Kurimoto et.al.|[2511.04397](http://arxiv.org/abs/2511.04397)|null|
+|**2025-11-06**|**Quantum error correction for multiparameter metrology**|Mauricio Gutiérrez et.al.|[2511.04018](http://arxiv.org/abs/2511.04018)|null|
+|**2025-11-05**|**Novel Encodings of Homology, Cohomology, and Characteristic Classes**|Itai Maimon et.al.|[2511.03920](http://arxiv.org/abs/2511.03920)|null|
 |**2025-11-05**|**Quantum Error Correction-like Noise Mitigation for Wave-like Dark Matter Searches with Quantum Sensors**|Hajime Fukuda et.al.|[2511.03253](http://arxiv.org/abs/2511.03253)|null|
 |**2025-11-04**|**Revisiting Nishimori multicriticality through the lens of information measures**|Zhou-Quan Wan et.al.|[2511.02907](http://arxiv.org/abs/2511.02907)|null|
 |**2025-11-04**|**A Construction of Infinite Families of Self-Orthogonal Quasi-Cyclic Codes Using Constituent Codes.pdf**|Gustavo Terra Bastos et.al.|[2511.02813](http://arxiv.org/abs/2511.02813)|null|

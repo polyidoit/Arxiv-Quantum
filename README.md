@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-07**|**Several kinds of Gaussian quantum channels**|Ruifen Ma et.al.|[2511.05003](http://arxiv.org/abs/2511.05003)|null|
 |**2025-11-06**|**Probing quantum entanglement with Generalized Parton Distributions at the Electron-Ion Collider**|Yoshitaka Hatta et.al.|[2511.04537](http://arxiv.org/abs/2511.04537)|null|
 |**2025-11-06**|**Random access Bell game by sequentially measuring the control of the quantum SWITCH**|Gaurang Agrawal et.al.|[2511.04272](http://arxiv.org/abs/2511.04272)|null|
 |**2025-11-06**|**Expectation-Realization Interpretation of Quantum Superposition**|Yanting Wang et.al.|[2511.04154](http://arxiv.org/abs/2511.04154)|null|
@@ -837,6 +838,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-07**|**Several kinds of Gaussian quantum channels**|Ruifen Ma et.al.|[2511.05003](http://arxiv.org/abs/2511.05003)|null|
 |**2025-11-03**|**Does the survival and sudden death of quadripartite steering in curved spacetime truly depend on multi-directionality?**|Xiaobao Liu et.al.|[2511.01561](http://arxiv.org/abs/2511.01561)|null|
 |**2025-10-11**|**Monogamy of Gaussian quantum steering and entanglement in a hybrid qubit-cavity optomagnonic system with coherent feedback loop**|Hamza Harraf et.al.|[2510.10334](http://arxiv.org/abs/2510.10334)|null|
 |**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|

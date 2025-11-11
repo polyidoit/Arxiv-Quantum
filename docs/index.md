@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**No-signalling-projection-invariant Bell inequalities**|Soumyadip Patra et.al.|[2511.06624](http://arxiv.org/abs/2511.06624)|null|
+|**2025-11-08**|**Quantum-Like Correlations from Local Hidden-Variable Theories Under Conservation Law**|Alejandro J. Garza et.al.|[2511.06043](http://arxiv.org/abs/2511.06043)|null|
 |**2025-11-07**|**Several kinds of Gaussian quantum channels**|Ruifen Ma et.al.|[2511.05003](http://arxiv.org/abs/2511.05003)|null|
 |**2025-11-06**|**Probing quantum entanglement with Generalized Parton Distributions at the Electron-Ion Collider**|Yoshitaka Hatta et.al.|[2511.04537](http://arxiv.org/abs/2511.04537)|null|
 |**2025-11-06**|**Random access Bell game by sequentially measuring the control of the quantum SWITCH**|Gaurang Agrawal et.al.|[2511.04272](http://arxiv.org/abs/2511.04272)|null|
@@ -510,6 +512,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Optimal phase estimation in the presence of correlated dephasing**|Srijon Ghosh et.al.|[2511.07211](http://arxiv.org/abs/2511.07211)|null|
 |**2025-11-05**|**Entanglement-assisted circuit knitting**|Shao-Hua Hu et.al.|[2510.26789](http://arxiv.org/abs/2510.26789)|null|
 |**2025-10-16**|**Quantifiers of Noise Reducibility Under Restricted Control**|Graeme D. Berk et.al.|[2510.14316](http://arxiv.org/abs/2510.14316)|null|
 |**2025-10-14**|**A Quantum Generative Framework for Modeling Single-Cell Transcriptomes with Gene-Gene and Cell-Cell Interactions**|Selim Romero et.al.|[2510.12776](http://arxiv.org/abs/2510.12776)|null|
@@ -635,6 +638,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-09**|**Stronger Hardness for Maximum Robust Flow and Randomized Network Interdiction**|Jannik Matuschke et.al.|[2511.06505](http://arxiv.org/abs/2511.06505)|null|
 |**2025-11-04**|**Haldane-Inspired Generalized Statistics**|M. H. Naghizadeh Ardabili et.al.|[2511.02546](http://arxiv.org/abs/2511.02546)|null|
 |**2025-11-03**|**Solution Space Topology Guides CMTS Search**|Mirco A. Mannucci et.al.|[2511.01701](http://arxiv.org/abs/2511.01701)|null|
 |**2025-11-03**|**2D or not 2D: a "holographic dictionary'' for Lowest Landau Levels**|Gautam Mandal et.al.|[2511.01630](http://arxiv.org/abs/2511.01630)|null|
@@ -1884,6 +1888,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Sample-efficient quantum error mitigation via classical learning surrogates**|Wei-You Liao et.al.|[2511.07092](http://arxiv.org/abs/2511.07092)|null|
+|**2025-11-10**|**Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling**|Kohei Fujiu et.al.|[2511.06758](http://arxiv.org/abs/2511.06758)|null|
+|**2025-11-08**|**Addressable gate-based logical computation with quantum LDPC codes**|Laura Pecorari et.al.|[2511.06124](http://arxiv.org/abs/2511.06124)|null|
+|**2025-11-08**|**Squeezed-vacuum bosonic codes**|Nir Gutman et.al.|[2511.06108](http://arxiv.org/abs/2511.06108)|null|
+|**2025-11-07**|**Color code thresholds under circuit-level noise beyond the Pauli framework**|Francesco Pio Barone et.al.|[2511.05719](http://arxiv.org/abs/2511.05719)|null|
 |**2025-11-06**|**Microwave Output Stabilization of a Qubit Controller via Device-Level Temperature Control**|Yoshinori Kurimoto et.al.|[2511.04397](http://arxiv.org/abs/2511.04397)|null|
 |**2025-11-06**|**Quantum error correction for multiparameter metrology**|Mauricio Gutiérrez et.al.|[2511.04018](http://arxiv.org/abs/2511.04018)|null|
 |**2025-11-05**|**Novel Encodings of Homology, Cohomology, and Characteristic Classes**|Itai Maimon et.al.|[2511.03920](http://arxiv.org/abs/2511.03920)|null|

@@ -2,16 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.11.14
+## Updated on 2025.11.15
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-12**|**Fejér--Riesz factorization for positive noncommutative trigonometric polynomials**|Igor Klep et.al.|[2511.09267](http://arxiv.org/abs/2511.09267)|null|
+|**2025-11-11**|**Numerical Approaches for Identifying the Time-Dependent Potential Coefficient in the Diffusion Equation**|Arshyn Altybay et.al.|[2511.08302](http://arxiv.org/abs/2511.08302)|null|
+|**2025-11-10**|**Optimizing quantum violation for multipartite facet Bell inequalities**|Jin-Fu Chen et.al.|[2511.07523](http://arxiv.org/abs/2511.07523)|null|
 |**2025-11-10**|**No-signalling-projection-invariant Bell inequalities**|Soumyadip Patra et.al.|[2511.06624](http://arxiv.org/abs/2511.06624)|null|
 |**2025-11-08**|**Quantum-Like Correlations from Local Hidden-Variable Theories Under Conservation Law**|Alejandro J. Garza et.al.|[2511.06043](http://arxiv.org/abs/2511.06043)|null|
 |**2025-11-07**|**Several kinds of Gaussian quantum channels**|Ruifen Ma et.al.|[2511.05003](http://arxiv.org/abs/2511.05003)|null|
+|**2025-11-07**|**Representational power of selected neural network quantum states in second quantization**|Zhendong Li et.al.|[2511.04932](http://arxiv.org/abs/2511.04932)|null|
 |**2025-11-06**|**Probing quantum entanglement with Generalized Parton Distributions at the Electron-Ion Collider**|Yoshitaka Hatta et.al.|[2511.04537](http://arxiv.org/abs/2511.04537)|null|
 |**2025-11-06**|**Random access Bell game by sequentially measuring the control of the quantum SWITCH**|Gaurang Agrawal et.al.|[2511.04272](http://arxiv.org/abs/2511.04272)|null|
+|**2025-11-06**|**Space-Bounded Communication Complexity of Unitaries**|Longcheng Li et.al.|[2511.04250](http://arxiv.org/abs/2511.04250)|null|
 |**2025-11-06**|**Expectation-Realization Interpretation of Quantum Superposition**|Yanting Wang et.al.|[2511.04154](http://arxiv.org/abs/2511.04154)|null|
 |**2025-11-03**|**Graph Structured Operator Inequalities and Tsirelson-Type Bounds**|James Tian et.al.|[2511.01525](http://arxiv.org/abs/2511.01525)|null|
 |**2025-10-31**|**Local perception operators and classicality: new tools for old tests**|Rohit Kishan Ray et.al.|[2511.00314](http://arxiv.org/abs/2511.00314)|null|
@@ -520,6 +525,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Asymptotic Simplicity and Scattering in General Relativity from Quantum Field Theory**|Stefano De Angelis et.al.|[2511.10637](http://arxiv.org/abs/2511.10637)|null|
+|**2025-11-13**|**Belief Net: A Filter-Based Framework for Learning Hidden Markov Models from Observations**|Reginald Zhiyan Chen et.al.|[2511.10571](http://arxiv.org/abs/2511.10571)|null|
+|**2025-11-13**|**Entanglement Structure of Nonlocal Field Theories**|Reza Pirmoradian et.al.|[2511.10505](http://arxiv.org/abs/2511.10505)|null|
+|**2025-11-13**|**Malliavin smoothness of the Rosenblatt process**|Laurent Loosveldt et.al.|[2511.10299](http://arxiv.org/abs/2511.10299)|null|
+|**2025-11-13**|**Geometric foundations of thermodynamics in the quantum regime**|Álvaro Tejero et.al.|[2511.10125](http://arxiv.org/abs/2511.10125)|null|
+|**2025-11-13**|**Cyclotron: Compilation of Recurrences to Distributed and Systolic Architectures**|Shiv Sundram et.al.|[2511.09987](http://arxiv.org/abs/2511.09987)|null|
+|**2025-11-13**|**Sifting out the neutral and charged components of $X(3872)$ from a spin observable**|Ke Wang et.al.|[2511.09981](http://arxiv.org/abs/2511.09981)|null|
+|**2025-11-13**|**Massive MIMO-OFDM Channel Acquisition with Multi-group Adjustable Phase Shift Pilots**|Yu Zhao et.al.|[2511.09826](http://arxiv.org/abs/2511.09826)|null|
+|**2025-11-12**|**Microstate counting from defects in de Sitter**|Jan de Boer et.al.|[2511.09624](http://arxiv.org/abs/2511.09624)|null|
+|**2025-11-12**|**Entanglement, Yang-Mills, and the Scattering Matrix as an SU(N)-equivariant Kernel**|Kun-Feng Lyu et.al.|[2511.09623](http://arxiv.org/abs/2511.09623)|null|
 |**2025-11-10**|**Optimal phase estimation in the presence of correlated dephasing**|Srijon Ghosh et.al.|[2511.07211](http://arxiv.org/abs/2511.07211)|null|
 |**2025-11-05**|**Entanglement-assisted circuit knitting**|Shao-Hua Hu et.al.|[2510.26789](http://arxiv.org/abs/2510.26789)|null|
 |**2025-10-16**|**Quantifiers of Noise Reducibility Under Restricted Control**|Graeme D. Berk et.al.|[2510.14316](http://arxiv.org/abs/2510.14316)|null|
@@ -652,7 +667,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Interspecific information use facilitates species coexistence in ecosystems**|Wei Tao et.al.|[2511.10520](http://arxiv.org/abs/2511.10520)|null|
+|**2025-11-13**|**T2IBias: Uncovering Societal Bias Encoded in the Latent Space of Text-to-Image Generative Models**|Abu Sufian et.al.|[2511.10089](http://arxiv.org/abs/2511.10089)|null|
+|**2025-11-12**|**Efficient and Noise-Resilient Molecular Quantum Simulation with the Generalized Superfast Encoding**|James Brown et.al.|[2511.09322](http://arxiv.org/abs/2511.09322)|null|
+|**2025-11-11**|**A Unified Theory for Transient Synchronization Stability Analysis of Renewable Dominated Power Systems**|Meng Zhan et.al.|[2511.08165](http://arxiv.org/abs/2511.08165)|null|
+|**2025-11-10**|**Learning stabilising policies for constrained nonlinear systems**|Daniele Ravasio et.al.|[2511.06832](http://arxiv.org/abs/2511.06832)|null|
 |**2025-11-09**|**Stronger Hardness for Maximum Robust Flow and Randomized Network Interdiction**|Jannik Matuschke et.al.|[2511.06505](http://arxiv.org/abs/2511.06505)|null|
+|**2025-11-09**|**CINEMAE: Leveraging Frozen Masked Autoencoders for Cross-Generator AI Image Detection**|Minsuk Jang et.al.|[2511.06325](http://arxiv.org/abs/2511.06325)|null|
+|**2025-11-07**|**Further improvements to stabilizer simulation theory: classical rewriting of CSS-preserving stabilizer circuits, quadratic form expansions of stabilizer operations, and framed hidden variable models**|Vsevolod I. Yashin et.al.|[2511.05478](http://arxiv.org/abs/2511.05478)|null|
+|**2025-11-07**|**An Efficient Proximity Graph-based Approach to Table Union Search**|Yiming Xie et.al.|[2511.05082](http://arxiv.org/abs/2511.05082)|null|
+|**2025-11-06**|**Benchmark Designers Should "Train on the Test Set" to Expose Exploitable Non-Visual Shortcuts**|Ellis Brown et.al.|[2511.04655](http://arxiv.org/abs/2511.04655)|null|
 |**2025-11-04**|**Haldane-Inspired Generalized Statistics**|M. H. Naghizadeh Ardabili et.al.|[2511.02546](http://arxiv.org/abs/2511.02546)|null|
 |**2025-11-03**|**Solution Space Topology Guides CMTS Search**|Mirco A. Mannucci et.al.|[2511.01701](http://arxiv.org/abs/2511.01701)|null|
 |**2025-11-03**|**2D or not 2D: a "holographic dictionary'' for Lowest Landau Levels**|Gautam Mandal et.al.|[2511.01630](http://arxiv.org/abs/2511.01630)|null|
@@ -849,7 +873,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-12**|**Operational Characterization of Coherent Measurements with Steering and Randomness**|Chellasamy Jebarathinam et.al.|[2511.09102](http://arxiv.org/abs/2511.09102)|null|
+|**2025-11-12**|**Inherently unpredictable beam steering for quantum LiDAR**|Junyeop Kim et.al.|[2511.09089](http://arxiv.org/abs/2511.09089)|null|
+|**2025-11-11**|**Reinforcement Learning Control of Quantum Error Correction**|Volodymyr Sivak et.al.|[2511.08493](http://arxiv.org/abs/2511.08493)|null|
+|**2025-11-11**|**Multipartite steering verification with imprecise measurements**|Zeyang Lu et.al.|[2511.07708](http://arxiv.org/abs/2511.07708)|null|
+|**2025-11-10**|**Parametric Instabilities of Correlated Quantum Matter**|Gal Shavit et.al.|[2511.07527](http://arxiv.org/abs/2511.07527)|null|
+|**2025-11-10**|**Steering LLMs toward Korean Local Speech: Iterative Refinement Framework for Faithful Dialect Translation**|Keunhyeung Park et.al.|[2511.06680](http://arxiv.org/abs/2511.06680)|null|
+|**2025-11-08**|**Optimizing the charging of quantum batteries via shortcuts to adiabaticity**|Sh. Ebrahimi et.al.|[2511.05848](http://arxiv.org/abs/2511.05848)|null|
 |**2025-11-07**|**Several kinds of Gaussian quantum channels**|Ruifen Ma et.al.|[2511.05003](http://arxiv.org/abs/2511.05003)|null|
+|**2025-11-11**|**Quantum Key Distribution via Charge Teleportation**|Amir Yona et.al.|[2511.04188](http://arxiv.org/abs/2511.04188)|null|
+|**2025-11-05**|**Learning to shine: Neuroevolution enables optical control of phase transitions**|Sraddha Agrawal et.al.|[2511.03895](http://arxiv.org/abs/2511.03895)|null|
 |**2025-11-03**|**Does the survival and sudden death of quadripartite steering in curved spacetime truly depend on multi-directionality?**|Xiaobao Liu et.al.|[2511.01561](http://arxiv.org/abs/2511.01561)|null|
 |**2025-10-11**|**Monogamy of Gaussian quantum steering and entanglement in a hybrid qubit-cavity optomagnonic system with coherent feedback loop**|Hamza Harraf et.al.|[2510.10334](http://arxiv.org/abs/2510.10334)|null|
 |**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
@@ -1003,6 +1036,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**From 2D to 3D Without Extra Baggage: Data-Efficient Cancer Detection in Digital Breast Tomosynthesis**|Yen Nhi Truong Vu et.al.|[2511.10597](http://arxiv.org/abs/2511.10597)|null|
+|**2025-11-13**|**Self-organisation through layering of $β$ -plane like turbulence in plasmas and geophysical fluids**|P. L. Guillon et.al.|[2511.10438](http://arxiv.org/abs/2511.10438)|null|
+|**2025-11-13**|**Stochastic Thermodynamics of Cooperative Biomolecular Machines: Fluctuation Relations and Hidden Detailed Balance Breaking**|D. Evan Piephoff et.al.|[2511.10337](http://arxiv.org/abs/2511.10337)|null|
+|**2025-11-13**|**Low-Energy Free-Electron Nonclassical Lasing**|Mai Zhang et.al.|[2511.10274](http://arxiv.org/abs/2511.10274)|null|
+|**2025-11-13**|**Ancilla-Free Fast-Forwarding Lindbladian Simulation Algorithms by Hamiltonian Twirling**|Minbo Gao et.al.|[2511.10253](http://arxiv.org/abs/2511.10253)|null|
+|**2025-11-13**|**Exact fluctuation relation for open systems beyond the Jarzynski equality**|Mohammad Rahbar et.al.|[2511.10236](http://arxiv.org/abs/2511.10236)|null|
+|**2025-11-13**|**Generalized Gross-Pitaevskii Equation for 2D Bosons with Attractive Interactions**|Michał Suchorowski et.al.|[2511.10115](http://arxiv.org/abs/2511.10115)|null|
+|**2025-11-13**|**ScaleFormer: Span Representation Cumulation for Long-Context Transformer**|Jiangshu Du et.al.|[2511.10029](http://arxiv.org/abs/2511.10029)|null|
+|**2025-11-13**|**SPAN: Benchmarking and Improving Cross-Calendar Temporal Reasoning of Large Language Models**|Zhongjian Miao et.al.|[2511.09993](http://arxiv.org/abs/2511.09993)|null|
+|**2025-11-13**|**ASSENT: Learning-Based Association Optimization for Distributed Cell-Free ISAC**|Mehdi Zafari et.al.|[2511.09992](http://arxiv.org/abs/2511.09992)|null|
 |**2025-11-06**|**Age of Job Completion Minimization with Stable Queues**|Stavros Mitrolaris et.al.|[2511.04630](http://arxiv.org/abs/2511.04630)|null|
 |**2025-11-01**|**HIP-LLM: A Hierarchical Imprecise Probability Approach to Reliability Assessment of Large Language Models**|Robab Aghazadeh-Chakherlou et.al.|[2511.00527](http://arxiv.org/abs/2511.00527)|null|
 |**2025-10-31**|**Quantum waste management: Utilizing residual states in quantum information processing**|Karol Horodecki et.al.|[2510.27687](http://arxiv.org/abs/2510.27687)|null|
@@ -1315,6 +1358,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Information phases of partial projected ensembles generated from random quantum states**|Alan Sherry et.al.|[2511.10595](http://arxiv.org/abs/2511.10595)|null|
+|**2025-11-13**|**QuCoWE Quantum Contrastive Word Embeddings with Variational Circuits for NearTerm Quantum Devices**|Rabimba Karanjai et.al.|[2511.10179](http://arxiv.org/abs/2511.10179)|null|
+|**2025-11-13**|**Reusability Report: Optimizing T-count in General Quantum Circuits with AlphaTensor-Quantum**|Remmy Zen et.al.|[2511.09951](http://arxiv.org/abs/2511.09951)|null|
+|**2025-11-12**|**Cyclic Hypergraph Product Code**|Arda Aydin et.al.|[2511.09683](http://arxiv.org/abs/2511.09683)|null|
+|**2025-11-12**|**Tensor Network Framework for Forecasting Nonlinear and Chaotic Dynamics**|Jia-Bin You et.al.|[2511.09233](http://arxiv.org/abs/2511.09233)|null|
+|**2025-11-12**|**Resource-Efficient Variational Quantum Classifier**|Petr Ptáček et.al.|[2511.09204](http://arxiv.org/abs/2511.09204)|null|
+|**2025-11-11**|**Fractal structure of multipartite entanglement in monitored quantum circuits**|Vaibhav Sharma et.al.|[2511.08690](http://arxiv.org/abs/2511.08690)|null|
+|**2025-11-11**|**Design boosters: from constant-time quantum chaos to $\infty$ -designs and beyond**|Soumik Ghosh et.al.|[2511.08543](http://arxiv.org/abs/2511.08543)|null|
+|**2025-11-11**|**Dynamical Chaos in a Dissipative Driven Quantum Soft Impact Oscillator**|Titir Mukherjee et.al.|[2511.08497](http://arxiv.org/abs/2511.08497)|null|
+|**2025-11-11**|**Local spreading of stabilizer Rényi entropy in a brickwork random Clifford circuit**|Somnath Maity et.al.|[2511.07769](http://arxiv.org/abs/2511.07769)|null|
 |**2025-11-05**|**Holographic black hole formation and scrambling in time-ordered correlators**|Pratyusha Chowdhury et.al.|[2511.03784](http://arxiv.org/abs/2511.03784)|null|
 |**2025-11-05**|**Scrambling or Stalling: Angular Momentum Barriers to Chaos in Holographic CFTs**|Juan Hernandez et.al.|[2511.03633](http://arxiv.org/abs/2511.03633)|null|
 |**2025-11-05**|**Integrability of a family of clean SYK models from the critical Ising chain**|Kohei Fukai et.al.|[2511.03460](http://arxiv.org/abs/2511.03460)|null|
@@ -1936,6 +1989,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-11-13**|**Impacts of Decoder Latency on Utility-Scale Quantum Computer Architectures**|Abdullah Khalid et.al.|[2511.10633](http://arxiv.org/abs/2511.10633)|null|
+|**2025-11-13**|**Quantum Design Automation: Foundations, Challenges, and the Road Ahead**|Feng Wu et.al.|[2511.10479](http://arxiv.org/abs/2511.10479)|null|
+|**2025-11-13**|**Assessing Finite Scalability in Early Fault-Tolerant Quantum Computing for Homogeneous Catalysts**|Yanbing Zhou et.al.|[2511.10388](http://arxiv.org/abs/2511.10388)|null|
+|**2025-11-13**|**Black-hole scattering with numerical relativity: Self-force extraction and post-Minkowskian validation**|Oliver Long et.al.|[2511.10196](http://arxiv.org/abs/2511.10196)|null|
+|**2025-11-13**|**Addressable fault-tolerant universal quantum gate operations for high-rate lift-connected surface codes**|Josias Old et.al.|[2511.10191](http://arxiv.org/abs/2511.10191)|null|
+|**2025-11-13**|**MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples**|Xurui Li et.al.|[2511.10047](http://arxiv.org/abs/2511.10047)|null|
+|**2025-11-13**|**SeQuant Framework for Symbolic and Numerical Tensor Algebra. I. Core Capabilities**|Bimal Gaudel et.al.|[2511.09943](http://arxiv.org/abs/2511.09943)|null|
+|**2025-11-12**|**Local arrows of time in quantum many-body systems**|Andrew G. Yates et.al.|[2511.09758](http://arxiv.org/abs/2511.09758)|null|
+|**2025-11-12**|**Cyclic Hypergraph Product Code**|Arda Aydin et.al.|[2511.09683](http://arxiv.org/abs/2511.09683)|null|
+|**2025-11-12**|**Adaptive Estimation of Drifting Noise in Quantum Error Correction**|Devansh Bhardwaj et.al.|[2511.09491](http://arxiv.org/abs/2511.09491)|null|
 |**2025-11-10**|**Sample-efficient quantum error mitigation via classical learning surrogates**|Wei-You Liao et.al.|[2511.07092](http://arxiv.org/abs/2511.07092)|null|
 |**2025-11-10**|**Dense packing of the surface code: code deformation procedures and hook-error-avoiding gate scheduling**|Kohei Fujiu et.al.|[2511.06758](http://arxiv.org/abs/2511.06758)|null|
 |**2025-11-08**|**Addressable gate-based logical computation with quantum LDPC codes**|Laura Pecorari et.al.|[2511.06124](http://arxiv.org/abs/2511.06124)|null|

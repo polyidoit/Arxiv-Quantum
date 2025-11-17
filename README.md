@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Memory-Assisted Nonlocal Interferometer Towards Long-Baseline Telescopes**|Bin Wang et.al.|[2511.10988](http://arxiv.org/abs/2511.10988)|null|
 |**2025-11-12**|**Fejér--Riesz factorization for positive noncommutative trigonometric polynomials**|Igor Klep et.al.|[2511.09267](http://arxiv.org/abs/2511.09267)|null|
 |**2025-11-11**|**Numerical Approaches for Identifying the Time-Dependent Potential Coefficient in the Diffusion Equation**|Arshyn Altybay et.al.|[2511.08302](http://arxiv.org/abs/2511.08302)|null|
 |**2025-11-10**|**Optimizing quantum violation for multipartite facet Bell inequalities**|Jin-Fu Chen et.al.|[2511.07523](http://arxiv.org/abs/2511.07523)|null|
@@ -536,6 +537,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**$CPT$ -Symmetric Kähler-Dirac Fermions**|Latham Boyle et.al.|[2511.11548](http://arxiv.org/abs/2511.11548)|null|
+|**2025-11-14**|**Photonic-integrated quantum sensor array for microscale magnetic localisation**|Hao-Cheng Weng et.al.|[2511.11496](http://arxiv.org/abs/2511.11496)|null|
+|**2025-11-14**|**TrackHHL: A Quantum Computing Algorithm for Track Reconstruction at the LHCb**|Xenofon Chiotopoulos et.al.|[2511.11458](http://arxiv.org/abs/2511.11458)|null|
+|**2025-11-14**|**Data-Driven Stabilization of Continuous-Time LTI Systems from Noisy Input-Output Data**|Alessandro Bosso et.al.|[2511.11417](http://arxiv.org/abs/2511.11417)|null|
+|**2025-11-14**|**Beyond quantum mean-field approximation: Phase-space formulation of many-body time-dependent density functional theory and efficient spectral approximations**|Jiong-Hang Liang et.al.|[2511.11354](http://arxiv.org/abs/2511.11354)|null|
+|**2025-11-14**|**Coupled Proca theories: Green-hyperbolicity, quantization and applications to polarization measurement**|Christopher J. Fewster et.al.|[2511.11348](http://arxiv.org/abs/2511.11348)|null|
+|**2025-11-14**|**Relative entropy for locally squeezed states**|Daniela Cadamuro et.al.|[2511.11203](http://arxiv.org/abs/2511.11203)|null|
+|**2025-11-14**|**Generalizing Lattice Structures to Hypergraphs: Spectra of Clique and Hyperedge-based Laplacians**|Eleonora Andreotti et.al.|[2511.11138](http://arxiv.org/abs/2511.11138)|null|
+|**2025-11-14**|**SALT-V: Lightweight Authentication for 5G V2X Broadcasting**|Liu Cao et.al.|[2511.11028](http://arxiv.org/abs/2511.11028)|null|
+|**2025-11-14**|**Kapitza-Dirac interference of Higgs waves in superconductors**|Daemo Kang et.al.|[2511.10954](http://arxiv.org/abs/2511.10954)|null|
 |**2025-11-13**|**Asymptotic Simplicity and Scattering in General Relativity from Quantum Field Theory**|Stefano De Angelis et.al.|[2511.10637](http://arxiv.org/abs/2511.10637)|null|
 |**2025-11-13**|**Belief Net: A Filter-Based Framework for Learning Hidden Markov Models from Observations**|Reginald Zhiyan Chen et.al.|[2511.10571](http://arxiv.org/abs/2511.10571)|null|
 |**2025-11-13**|**Entanglement Structure of Nonlocal Field Theories**|Reza Pirmoradian et.al.|[2511.10505](http://arxiv.org/abs/2511.10505)|null|
@@ -680,6 +691,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Heterogeneous Attributed Graph Learning via Neighborhood-Aware Star Kernels**|Hong Huang et.al.|[2511.11245](http://arxiv.org/abs/2511.11245)|null|
+|**2025-11-14**|**Echoless Label-Based Pre-computation for Memory-Efficient Heterogeneous Graph Learning**|Jun Hu et.al.|[2511.11081](http://arxiv.org/abs/2511.11081)|null|
+|**2025-11-13**|**New picture on the mesons mass relations**|R. L. P. G. Amaral et.al.|[2511.10803](http://arxiv.org/abs/2511.10803)|null|
 |**2025-11-13**|**Interspecific information use facilitates species coexistence in ecosystems**|Wei Tao et.al.|[2511.10520](http://arxiv.org/abs/2511.10520)|null|
 |**2025-11-13**|**T2IBias: Uncovering Societal Bias Encoded in the Latent Space of Text-to-Image Generative Models**|Abu Sufian et.al.|[2511.10089](http://arxiv.org/abs/2511.10089)|null|
 |**2025-11-12**|**Efficient and Noise-Resilient Molecular Quantum Simulation with the Generalized Superfast Encoding**|James Brown et.al.|[2511.09322](http://arxiv.org/abs/2511.09322)|null|
@@ -888,6 +902,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Charged-particle control via spatio-temporally tailored pulses from gas-based nonlinear optics**|Hao Zhang et.al.|[2511.11507](http://arxiv.org/abs/2511.11507)|null|
 |**2025-11-12**|**Operational Characterization of Coherent Measurements with Steering and Randomness**|Chellasamy Jebarathinam et.al.|[2511.09102](http://arxiv.org/abs/2511.09102)|null|
 |**2025-11-12**|**Inherently unpredictable beam steering for quantum LiDAR**|Junyeop Kim et.al.|[2511.09089](http://arxiv.org/abs/2511.09089)|null|
 |**2025-11-11**|**Reinforcement Learning Control of Quantum Error Correction**|Volodymyr Sivak et.al.|[2511.08493](http://arxiv.org/abs/2511.08493)|null|
@@ -1053,6 +1068,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**PAS : Prelim Attention Score for Detecting Object Hallucinations in Large Vision--Language Models**|Nhat Hoang-Xuan et.al.|[2511.11502](http://arxiv.org/abs/2511.11502)|null|
+|**2025-11-14**|**ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation**|Kaishen Wang et.al.|[2511.11483](http://arxiv.org/abs/2511.11483)|null|
+|**2025-11-14**|**VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation**|Maximilian Rokuss et.al.|[2511.11450](http://arxiv.org/abs/2511.11450)|null|
+|**2025-11-14**|**From Synthetic Scenes to Real Performance: Enhancing Spatial Reasoning in VLMs**|Massimo Rizzoli et.al.|[2511.11440](http://arxiv.org/abs/2511.11440)|null|
+|**2025-11-14**|**Unsupervised Motion-Compensated Decomposition for Cardiac MRI Reconstruction via Neural Representation**|Xuanyu Tian et.al.|[2511.11436](http://arxiv.org/abs/2511.11436)|null|
+|**2025-11-14**|**Shrinking the Teacher: An Adaptive Teaching Paradigm for Asymmetric EEG-Vision Alignment**|Lukun Wu et.al.|[2511.11422](http://arxiv.org/abs/2511.11422)|null|
+|**2025-11-14**|**A pressure-robust and parameter-free enriched Galerkin method for the Navier-Stokes equations of rotational form**|Shuai Su et.al.|[2511.11330](http://arxiv.org/abs/2511.11330)|null|
+|**2025-11-14**|**SimuFreeMark: A Noise-Simulation-Free Robust Watermarking Against Image Editing**|Yichao Tang et.al.|[2511.11295](http://arxiv.org/abs/2511.11295)|null|
+|**2025-11-14**|**Electronic and magnetic properties of light rare-earth cubic Laves compounds derived from XMCD experiments**|Vilde G. S. Lunde et.al.|[2511.11260](http://arxiv.org/abs/2511.11260)|null|
+|**2025-11-14**|**CountSteer: Steering Attention for Object Counting in Diffusion Models**|Hyemin Boo et.al.|[2511.11253](http://arxiv.org/abs/2511.11253)|null|
 |**2025-11-13**|**From 2D to 3D Without Extra Baggage: Data-Efficient Cancer Detection in Digital Breast Tomosynthesis**|Yen Nhi Truong Vu et.al.|[2511.10597](http://arxiv.org/abs/2511.10597)|null|
 |**2025-11-13**|**Self-organisation through layering of $β$ -plane like turbulence in plasmas and geophysical fluids**|P. L. Guillon et.al.|[2511.10438](http://arxiv.org/abs/2511.10438)|null|
 |**2025-11-13**|**Stochastic Thermodynamics of Cooperative Biomolecular Machines: Fluctuation Relations and Hidden Detailed Balance Breaking**|D. Evan Piephoff et.al.|[2511.10337](http://arxiv.org/abs/2511.10337)|null|
@@ -1377,6 +1402,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**A Quantum Spectral Method for Non-Periodic Boundary Value Problems**|Eky Febrianto et.al.|[2511.11494](http://arxiv.org/abs/2511.11494)|null|
+|**2025-11-14**|**Hopfions in the Lee-Huang-Yang superfluids**|Liangwei Dong et.al.|[2511.10977](http://arxiv.org/abs/2511.10977)|null|
 |**2025-11-13**|**Information phases of partial projected ensembles generated from random quantum states**|Alan Sherry et.al.|[2511.10595](http://arxiv.org/abs/2511.10595)|null|
 |**2025-11-13**|**QuCoWE Quantum Contrastive Word Embeddings with Variational Circuits for NearTerm Quantum Devices**|Rabimba Karanjai et.al.|[2511.10179](http://arxiv.org/abs/2511.10179)|null|
 |**2025-11-13**|**Reusability Report: Optimizing T-count in General Quantum Circuits with AlphaTensor-Quantum**|Remmy Zen et.al.|[2511.09951](http://arxiv.org/abs/2511.09951)|null|
@@ -2010,6 +2037,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-11-14**|**The Interoperability Challenge in DFT Workflows Across Implementations**|S. K. Steensen et.al.|[2511.11524](http://arxiv.org/abs/2511.11524)|null|
+|**2025-11-14**|**How Physics Professors Use and Frame Generative AI Tools**|Vidar Skogvoll et.al.|[2511.11317](http://arxiv.org/abs/2511.11317)|null|
+|**2025-11-14**|**Devising Experiments with Interactive Environments**|Pavlos Panagiotidis et.al.|[2511.11229](http://arxiv.org/abs/2511.11229)|null|
+|**2025-11-14**|**Phys-Liquid: A Physics-Informed Dataset for Estimating 3D Geometry and Volume of Transparent Deformable Liquids**|Ke Ma et.al.|[2511.11077](http://arxiv.org/abs/2511.11077)|null|
+|**2025-11-14**|**Maximizing the nondemolition nature of a quantum measurement via an adaptive readout protocol**|Arjen Vaartjes et.al.|[2511.10978](http://arxiv.org/abs/2511.10978)|null|
+|**2025-11-14**|**Cycle Basis Algorithms for Reducing Maximum Edge Participation**|Fan Wang et.al.|[2511.10961](http://arxiv.org/abs/2511.10961)|null|
+|**2025-11-14**|**A Compilation Framework for Quantum Circuits with Mid-Circuit Measurement Error Awareness**|Ming Zhong et.al.|[2511.10921](http://arxiv.org/abs/2511.10921)|null|
+|**2025-11-14**|**Unveiling the Chemical Complexity and C/O Ratio of the HD 163296 Protoplanetary Disk: Constraints from Multi-line ALMA Observations of Organics, Nitriles, Sulfur-bearing, and Deuterated Molecules**|Parashmoni Kashyap et.al.|[2511.10882](http://arxiv.org/abs/2511.10882)|null|
+|**2025-11-13**|**Efficient quantum Gibbs sampling of stabilizer codes using hybrid computation**|Ivan H. C. Shum et.al.|[2511.10839](http://arxiv.org/abs/2511.10839)|null|
+|**2025-11-13**|**SURFACEBENCH: Can Self-Evolving LLMs Find the Equations of 3D Scientific Surfaces?**|Sanchit Kabra et.al.|[2511.10833](http://arxiv.org/abs/2511.10833)|null|
 |**2025-11-13**|**Impacts of Decoder Latency on Utility-Scale Quantum Computer Architectures**|Abdullah Khalid et.al.|[2511.10633](http://arxiv.org/abs/2511.10633)|null|
 |**2025-11-13**|**Quantum Design Automation: Foundations, Challenges, and the Road Ahead**|Feng Wu et.al.|[2511.10479](http://arxiv.org/abs/2511.10479)|null|
 |**2025-11-13**|**Assessing Finite Scalability in Early Fault-Tolerant Quantum Computing for Homogeneous Catalysts**|Yanbing Zhou et.al.|[2511.10388](http://arxiv.org/abs/2511.10388)|null|

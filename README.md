@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Network Operations Scheduling for Distributed Quantum Computing**|Nitish Kumar Chandra et.al.|[2511.13687](http://arxiv.org/abs/2511.13687)|null|
+|**2025-11-17**|**Architectural Approaches to Fault-Tolerant Distributed Quantum Computing and Their Entanglement Overheads**|Nitish Kumar Chandra et.al.|[2511.13657](http://arxiv.org/abs/2511.13657)|null|
+|**2025-11-16**|**Nonlocal action in Everettian Quantum Mechanics**|Mordecai Waegell et.al.|[2511.12403](http://arxiv.org/abs/2511.12403)|null|
 |**2025-11-14**|**Memory-Assisted Nonlocal Interferometer Towards Long-Baseline Telescopes**|Bin Wang et.al.|[2511.10988](http://arxiv.org/abs/2511.10988)|null|
 |**2025-11-12**|**Fejér--Riesz factorization for positive noncommutative trigonometric polynomials**|Igor Klep et.al.|[2511.09267](http://arxiv.org/abs/2511.09267)|null|
 |**2025-11-11**|**Numerical Approaches for Identifying the Time-Dependent Potential Coefficient in the Diffusion Equation**|Arshyn Altybay et.al.|[2511.08302](http://arxiv.org/abs/2511.08302)|null|
@@ -537,6 +540,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Long-range entanglement and quantum correlations in a multi-frequency comb system**|Sahil Pontula et.al.|[2511.13604](http://arxiv.org/abs/2511.13604)|null|
+|**2025-11-17**|**Development of a Low-Cost, Autonomous Pulse Amplitude Modulated (PAM) Chlorophyll Fluorometer for In-Situ Monitoring of Photosystem II Efficiency**|Samaneh Baghbani et.al.|[2511.13580](http://arxiv.org/abs/2511.13580)|null|
+|**2025-11-17**|**Formation of HNC and HCN isomers in molecular plasmas revealed by frequency comb and quantum cascade laser spectroscopy**|Ibrahim Sadiek et.al.|[2511.13519](http://arxiv.org/abs/2511.13519)|null|
+|**2025-11-17**|**Discovering Operational Patterns Using Image-Based Convolutional Clustering and Composite Evaluation: A Case Study in Foundry Melting Processes**|Zhipeng Ma et.al.|[2511.13444](http://arxiv.org/abs/2511.13444)|null|
+|**2025-11-17**|**Optical investigation of ultra-slow spin relaxation in $^{171}$Yb$^{3+}$:Y$_2$SiO$_5$ single crystals**|Federico Chiossi et.al.|[2511.13434](http://arxiv.org/abs/2511.13434)|null|
+|**2025-11-17**|**Diffraction induced quantum chaos in a one-dimensional Bose gas**|M. Olshanii et.al.|[2511.13385](http://arxiv.org/abs/2511.13385)|null|
+|**2025-11-17**|**PDRs4All XX. Haute Couture: Spectral stitching of JWST MIRI-IFU cubes with matrix completion**|Amélie Canin et.al.|[2511.13377](http://arxiv.org/abs/2511.13377)|null|
+|**2025-11-17**|**Antisymmetric Mueller Generator as the Universal Origin of Geometric Phase in Classical Polarization and Quantum Two-Level Systems**|José J. Gil et.al.|[2511.13266](http://arxiv.org/abs/2511.13266)|null|
+|**2025-11-17**|**Anomalous Higgs Couplings as a Window to New Physics**|I. Asiáin et.al.|[2511.13227](http://arxiv.org/abs/2511.13227)|null|
+|**2025-11-17**|**Large-scale Multigrid with Adaptive Galerkin Coarsening**|Fabian Böhm et.al.|[2511.13109](http://arxiv.org/abs/2511.13109)|null|
 |**2025-11-14**|**$CPT$ -Symmetric Kähler-Dirac Fermions**|Latham Boyle et.al.|[2511.11548](http://arxiv.org/abs/2511.11548)|null|
 |**2025-11-14**|**Photonic-integrated quantum sensor array for microscale magnetic localisation**|Hao-Cheng Weng et.al.|[2511.11496](http://arxiv.org/abs/2511.11496)|null|
 |**2025-11-14**|**TrackHHL: A Quantum Computing Algorithm for Track Reconstruction at the LHCb**|Xenofon Chiotopoulos et.al.|[2511.11458](http://arxiv.org/abs/2511.11458)|null|
@@ -691,6 +704,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Emergent spectral geometry in the Coherence--Curvature Model**|Jorge Lamas et.al.|[2511.13423](http://arxiv.org/abs/2511.13423)|null|
+|**2025-11-17**|**The Intrinsic Angular - Momentum of Particles and the Resolution of the Spin-Statistics Theorem**|Enrico Santamato et.al.|[2511.13360](http://arxiv.org/abs/2511.13360)|null|
+|**2025-11-17**|**Transformer-Based Scalable Multi-Agent Reinforcement Learning for Networked Systems with Long-Range Interactions**|Vidur Sinha et.al.|[2511.13103](http://arxiv.org/abs/2511.13103)|null|
+|**2025-11-17**|**Esim: EVM Bytecode Similarity Detection Based on Stable-Semantic Graph**|Zhuo Chen et.al.|[2511.12971](http://arxiv.org/abs/2511.12971)|null|
+|**2025-11-17**|**MedRule-KG: A Knowledge-Graph--Steered Scaffold for Reliable Mathematical and Biomedical Reasoning**|Crystal Su et.al.|[2511.12963](http://arxiv.org/abs/2511.12963)|null|
+|**2025-11-16**|**Connectivity-Guided Sparsification of 2-FWL GNNs: Preserving Full Expressivity with Improved Efficiency**|Rongqin Chen et.al.|[2511.12838](http://arxiv.org/abs/2511.12838)|null|
+|**2025-11-15**|**Tight displacement-based formation control under bounded disturbances. A set-theoretic perspective**|Vlad-Matei Angheluţă et.al.|[2511.12163](http://arxiv.org/abs/2511.12163)|null|
+|**2025-11-15**|**Mesh-based Super-resolution of Detonation Flows with Multiscale Graph Transformers**|Shivam Barwey et.al.|[2511.12041](http://arxiv.org/abs/2511.12041)|null|
 |**2025-11-14**|**Heterogeneous Attributed Graph Learning via Neighborhood-Aware Star Kernels**|Hong Huang et.al.|[2511.11245](http://arxiv.org/abs/2511.11245)|null|
 |**2025-11-14**|**Echoless Label-Based Pre-computation for Memory-Efficient Heterogeneous Graph Learning**|Jun Hu et.al.|[2511.11081](http://arxiv.org/abs/2511.11081)|null|
 |**2025-11-13**|**New picture on the mesons mass relations**|R. L. P. G. Amaral et.al.|[2511.10803](http://arxiv.org/abs/2511.10803)|null|
@@ -1068,6 +1089,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Bosonisation Cohomology: Spin Structure Summation in Every Dimension**|Philip Boyle Smith et.al.|[2511.13718](http://arxiv.org/abs/2511.13718)|null|
+|**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
+|**2025-11-17**|**Open-shell frozen natural orbital approach for quantum eigensolvers**|Angela F. Harper et.al.|[2511.13677](http://arxiv.org/abs/2511.13677)|null|
+|**2025-11-17**|**A Gentle Introduction to Conformal Time Series Forecasting**|M. Stocker et.al.|[2511.13608](http://arxiv.org/abs/2511.13608)|null|
+|**2025-11-17**|**Collective decision-making with higher-order interactions on $d$ -uniform hypergraphs**|Thierry Njougouo et.al.|[2511.13452](http://arxiv.org/abs/2511.13452)|null|
+|**2025-11-17**|**Dimension-Free Estimates for Noncommutative Discrete Maximal Spherical Means**|Li Gao et.al.|[2511.13449](http://arxiv.org/abs/2511.13449)|null|
+|**2025-11-17**|**Taming Barren Plateaus in Arbitrary Parameterized Quantum Circuits Without Sacrificing Expressibility**|Zhenyu Chen et.al.|[2511.13408](http://arxiv.org/abs/2511.13408)|null|
+|**2025-11-17**|**MedDCR: Learning to Design Agentic Workflows for Medical Coding**|Jiyang Zheng et.al.|[2511.13361](http://arxiv.org/abs/2511.13361)|null|
+|**2025-11-17**|**The free Banach $f$ -algebra generated by a Banach space**|David Muñoz-Lahoz et.al.|[2511.13299](http://arxiv.org/abs/2511.13299)|null|
+|**2025-11-17**|**MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI**|Malek Al Abed et.al.|[2511.13232](http://arxiv.org/abs/2511.13232)|null|
 |**2025-11-14**|**PAS : Prelim Attention Score for Detecting Object Hallucinations in Large Vision--Language Models**|Nhat Hoang-Xuan et.al.|[2511.11502](http://arxiv.org/abs/2511.11502)|null|
 |**2025-11-14**|**ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation**|Kaishen Wang et.al.|[2511.11483](http://arxiv.org/abs/2511.11483)|null|
 |**2025-11-14**|**VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation**|Maximilian Rokuss et.al.|[2511.11450](http://arxiv.org/abs/2511.11450)|null|
@@ -1402,6 +1433,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Diffraction induced quantum chaos in a one-dimensional Bose gas**|M. Olshanii et.al.|[2511.13385](http://arxiv.org/abs/2511.13385)|null|
+|**2025-11-16**|**Machine Learning Framework for Efficient Prediction of Quantum Wasserstein Distance**|Changchun Feng et.al.|[2511.12443](http://arxiv.org/abs/2511.12443)|null|
+|**2025-11-15**|**Enhanced coherence in the periodically driven two-dimensional XY model**|Duilio De Santis et.al.|[2511.12287](http://arxiv.org/abs/2511.12287)|null|
+|**2025-11-15**|**Stochastic Shadow Descent: Training Parametrized Quantum Circuits with Shadows of Gradients**|Sayantan Pramanik et.al.|[2511.12168](http://arxiv.org/abs/2511.12168)|null|
 |**2025-11-14**|**A Quantum Spectral Method for Non-Periodic Boundary Value Problems**|Eky Febrianto et.al.|[2511.11494](http://arxiv.org/abs/2511.11494)|null|
 |**2025-11-14**|**Hopfions in the Lee-Huang-Yang superfluids**|Liangwei Dong et.al.|[2511.10977](http://arxiv.org/abs/2511.10977)|null|
 |**2025-11-13**|**Information phases of partial projected ensembles generated from random quantum states**|Alan Sherry et.al.|[2511.10595](http://arxiv.org/abs/2511.10595)|null|
@@ -2037,6 +2072,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-11-17**|**Quantum Error Correction Codes for Truncated SU(2) Lattice Gauge Theories**|Xiaojun Yao et.al.|[2511.13721](http://arxiv.org/abs/2511.13721)|null|
+|**2025-11-17**|**Ultra Low Overhead Syndrome Extraction for the Steane code**|Boldizsár Poór et.al.|[2511.13700](http://arxiv.org/abs/2511.13700)|null|
+|**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
+|**2025-11-17**|**Architectural Approaches to Fault-Tolerant Distributed Quantum Computing and Their Entanglement Overheads**|Nitish Kumar Chandra et.al.|[2511.13657](http://arxiv.org/abs/2511.13657)|null|
+|**2025-11-17**|**Sequences of Bivariate Bicycle Codes from Covering Graphs**|Benjamin C. B. Symons et.al.|[2511.13560](http://arxiv.org/abs/2511.13560)|null|
+|**2025-11-17**|**Towards Quantum Software for Quantum Simulation**|Maja Franz et.al.|[2511.13520](http://arxiv.org/abs/2511.13520)|null|
+|**2025-11-17**|**Emergent spectral geometry in the Coherence--Curvature Model**|Jorge Lamas et.al.|[2511.13423](http://arxiv.org/abs/2511.13423)|null|
+|**2025-11-17**|**Attention Grounded Enhancement for Visual Document Retrieval**|Wanqing Cui et.al.|[2511.13415](http://arxiv.org/abs/2511.13415)|null|
+|**2025-11-17**|**Restart Belief: A General Quantum LDPC Decoder**|Lorenzo Valentini et.al.|[2511.13281](http://arxiv.org/abs/2511.13281)|null|
+|**2025-11-17**|**Spectroscopic signatures of emergent elementary excitations in a kinetically constrained long-range interacting two-dimensional spin system**|Tobias Kaltenmark et.al.|[2511.13279](http://arxiv.org/abs/2511.13279)|null|
 |**2025-11-14**|**The Interoperability Challenge in DFT Workflows Across Implementations**|S. K. Steensen et.al.|[2511.11524](http://arxiv.org/abs/2511.11524)|null|
 |**2025-11-14**|**How Physics Professors Use and Frame Generative AI Tools**|Vidar Skogvoll et.al.|[2511.11317](http://arxiv.org/abs/2511.11317)|null|
 |**2025-11-14**|**Devising Experiments with Interactive Environments**|Pavlos Panagiotidis et.al.|[2511.11229](http://arxiv.org/abs/2511.11229)|null|

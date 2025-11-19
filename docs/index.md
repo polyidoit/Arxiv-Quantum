@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**Using the Schmidt Decomposition to Determine Quantum Entanglement**|Lane Boswell et.al.|[2511.14648](http://arxiv.org/abs/2511.14648)|null|
 |**2025-11-17**|**Network Operations Scheduling for Distributed Quantum Computing**|Nitish Kumar Chandra et.al.|[2511.13687](http://arxiv.org/abs/2511.13687)|null|
 |**2025-11-17**|**Architectural Approaches to Fault-Tolerant Distributed Quantum Computing and Their Entanglement Overheads**|Nitish Kumar Chandra et.al.|[2511.13657](http://arxiv.org/abs/2511.13657)|null|
 |**2025-11-16**|**Nonlocal action in Everettian Quantum Mechanics**|Mordecai Waegell et.al.|[2511.12403](http://arxiv.org/abs/2511.12403)|null|
@@ -529,6 +530,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**Estimation of Spatial and Temporal Autoregressive Effects using LASSO - An Example of Hourly Particulate Matter Concentrations**|Elkanah Nyabuto et.al.|[2511.14666](http://arxiv.org/abs/2511.14666)|null|
+|**2025-11-18**|**Full Atom Peptide Design via Riemannian Euclidean Bayesian Flow Networks**|Hao Qian et.al.|[2511.14516](http://arxiv.org/abs/2511.14516)|null|
+|**2025-11-18**|**Covariance-based Imaging and Multi-View Fusion for Networked Sensing**|Junyuan Gao et.al.|[2511.14490](http://arxiv.org/abs/2511.14490)|null|
+|**2025-11-18**|**Lecture Notes on Information Scrambling, Quantum Chaos, and Haar-Random States**|Marcin Płodzień et.al.|[2511.14397](http://arxiv.org/abs/2511.14397)|null|
+|**2025-11-18**|**Quantum Circuit Model of Black Hole Evaporation with Controlled Causal Leakage**|Sourav Ballav et.al.|[2511.14350](http://arxiv.org/abs/2511.14350)|null|
+|**2025-11-18**|**Generating spatially separated correlated multiphoton states in nonlinear waveguide quantum electrodynamics**|Jia-Qi Li et.al.|[2511.14281](http://arxiv.org/abs/2511.14281)|null|
+|**2025-11-18**|**Entropic uncertainty under indefinite causal order and input-output direction**|Göktuğ Karpat et.al.|[2511.14192](http://arxiv.org/abs/2511.14192)|null|
+|**2025-11-17**|**A Brain Wave Encodes a Thousand Tokens: Modeling Inter-Cortical Neural Interactions for Effective EEG-based Emotion Recognition**|Nilay Kumar et.al.|[2511.13954](http://arxiv.org/abs/2511.13954)|null|
+|**2025-11-17**|**Rapid Design and Fabrication of Body Conformable Surfaces with Kirigami Cutting and Machine Learning**|Jyotshna Bali et.al.|[2511.13941](http://arxiv.org/abs/2511.13941)|null|
+|**2025-11-17**|**Gravitational Atom Spectroscopy**|Matteo Della Rocca et.al.|[2511.13848](http://arxiv.org/abs/2511.13848)|null|
 |**2025-11-17**|**Long-range entanglement and quantum correlations in a multi-frequency comb system**|Sahil Pontula et.al.|[2511.13604](http://arxiv.org/abs/2511.13604)|null|
 |**2025-11-17**|**Development of a Low-Cost, Autonomous Pulse Amplitude Modulated (PAM) Chlorophyll Fluorometer for In-Situ Monitoring of Photosystem II Efficiency**|Samaneh Baghbani et.al.|[2511.13580](http://arxiv.org/abs/2511.13580)|null|
 |**2025-11-17**|**Formation of HNC and HCN isomers in molecular plasmas revealed by frequency comb and quantum cascade laser spectroscopy**|Ibrahim Sadiek et.al.|[2511.13519](http://arxiv.org/abs/2511.13519)|null|
@@ -691,7 +702,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-17**|**Emergent spectral geometry in the Coherence--Curvature Model**|Jorge Lamas et.al.|[2511.13423](http://arxiv.org/abs/2511.13423)|null|
+|**2025-11-18**|**Emergent spectral geometry in the Coherence--Curvature Model**|Jorge Lamas et.al.|[2511.13423](http://arxiv.org/abs/2511.13423)|null|
 |**2025-11-17**|**The Intrinsic Angular - Momentum of Particles and the Resolution of the Spin-Statistics Theorem**|Enrico Santamato et.al.|[2511.13360](http://arxiv.org/abs/2511.13360)|null|
 |**2025-11-17**|**Transformer-Based Scalable Multi-Agent Reinforcement Learning for Networked Systems with Long-Range Interactions**|Vidur Sinha et.al.|[2511.13103](http://arxiv.org/abs/2511.13103)|null|
 |**2025-11-17**|**Esim: EVM Bytecode Similarity Detection Based on Stable-Semantic Graph**|Zhuo Chen et.al.|[2511.12971](http://arxiv.org/abs/2511.12971)|null|
@@ -908,6 +919,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-17**|**Quantum Metamorphosis: Programmable Emergence and the Breakdown of Bulk-Edge Dichotomy in Multiscale Systems**|Mahmoud Jalali Mehrabad et.al.|[2511.13831](http://arxiv.org/abs/2511.13831)|null|
 |**2025-11-14**|**Charged-particle control via spatio-temporally tailored pulses from gas-based nonlinear optics**|Hao Zhang et.al.|[2511.11507](http://arxiv.org/abs/2511.11507)|null|
 |**2025-11-12**|**Operational Characterization of Coherent Measurements with Steering and Randomness**|Chellasamy Jebarathinam et.al.|[2511.09102](http://arxiv.org/abs/2511.09102)|null|
 |**2025-11-12**|**Inherently unpredictable beam steering for quantum LiDAR**|Junyeop Kim et.al.|[2511.09089](http://arxiv.org/abs/2511.09089)|null|
@@ -1072,6 +1084,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**From Random Determinants to the Ground State**|Hao Zhang et.al.|[2511.14734](http://arxiv.org/abs/2511.14734)|null|
+|**2025-11-18**|**Static Laboratory-Frame Polarization of a Trapped Molecular Ion for CP-Violation Searches**|Fabian Wolf et.al.|[2511.14701](http://arxiv.org/abs/2511.14701)|null|
+|**2025-11-18**|**Robust Offset-free Kernelized Data-Driven Predictive Control for Nonlinear Systems**|Mahmood Mazare et.al.|[2511.14652](http://arxiv.org/abs/2511.14652)|null|
+|**2025-11-18**|**Real-time time-dependent density functional theory for high-energy density physics**|Alina Kononov et.al.|[2511.14643](http://arxiv.org/abs/2511.14643)|null|
+|**2025-11-18**|**Neural Networks-Enabled Channel Reconstruction for Fluid Antenna Systems: A Data-Driven Approach**|Haoyu Liang et.al.|[2511.14520](http://arxiv.org/abs/2511.14520)|null|
+|**2025-11-18**|**Aerial Assistance System for Automated Firefighting during Turntable Ladder Operations**|Jan Quenzel et.al.|[2511.14504](http://arxiv.org/abs/2511.14504)|null|
+|**2025-11-18**|**Explicit block-encoding for partial differential equation-constrained optimization**|Yuki Sato et.al.|[2511.14420](http://arxiv.org/abs/2511.14420)|null|
+|**2025-11-18**|**Nonlinear Coherence for Vector Time Series: Defining Region-to-Region Functional Brain Connectivity**|Paolo Victor Redondo et.al.|[2511.14417](http://arxiv.org/abs/2511.14417)|null|
+|**2025-11-18**|**Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs**|Yiyi Miao et.al.|[2511.14315](http://arxiv.org/abs/2511.14315)|null|
+|**2025-11-18**|**Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs**|Chinonso Onah et.al.|[2511.14296](http://arxiv.org/abs/2511.14296)|null|
 |**2025-11-17**|**Bosonisation Cohomology: Spin Structure Summation in Every Dimension**|Philip Boyle Smith et.al.|[2511.13718](http://arxiv.org/abs/2511.13718)|null|
 |**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
 |**2025-11-17**|**Open-shell frozen natural orbital approach for quantum eigensolvers**|Angela F. Harper et.al.|[2511.13677](http://arxiv.org/abs/2511.13677)|null|
@@ -1414,6 +1436,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**Divide-et-impera Heuristic-based Randomized Search for the Qubit Routing Problem**|Marco Baioletti et.al.|[2511.14644](http://arxiv.org/abs/2511.14644)|null|
+|**2025-11-18**|**Lecture Notes on Information Scrambling, Quantum Chaos, and Haar-Random States**|Marcin Płodzień et.al.|[2511.14397](http://arxiv.org/abs/2511.14397)|null|
 |**2025-11-17**|**Diffraction induced quantum chaos in a one-dimensional Bose gas**|M. Olshanii et.al.|[2511.13385](http://arxiv.org/abs/2511.13385)|null|
 |**2025-11-16**|**Machine Learning Framework for Efficient Prediction of Quantum Wasserstein Distance**|Changchun Feng et.al.|[2511.12443](http://arxiv.org/abs/2511.12443)|null|
 |**2025-11-15**|**Enhanced coherence in the periodically driven two-dimensional XY model**|Duilio De Santis et.al.|[2511.12287](http://arxiv.org/abs/2511.12287)|null|
@@ -2051,6 +2075,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-11-18**|**Squeezing-Enhanced Photon-Number Measurements for GKP State Generation**|Paul Renault et.al.|[2511.14737](http://arxiv.org/abs/2511.14737)|null|
+|**2025-11-18**|**Logical Operators and Derived Automorphisms of Tile Codes**|Nikolas P. Breuckmann et.al.|[2511.14589](http://arxiv.org/abs/2511.14589)|null|
+|**2025-11-18**|**Learning Compact Latent Space for Representing Neural Signed Distance Functions with High-fidelity Geometry Details**|Qiang Bai et.al.|[2511.14539](http://arxiv.org/abs/2511.14539)|null|
+|**2025-11-18**|**LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations**|Tatiane Ornelas et.al.|[2511.14528](http://arxiv.org/abs/2511.14528)|null|
+|**2025-11-18**|**Learning to See Through a Baby's Eyes: Early Visual Diets Enable Robust Visual Intelligence in Humans and Machines**|Yusen Cai et.al.|[2511.14440](http://arxiv.org/abs/2511.14440)|null|
+|**2025-11-18**|**AraLingBench A Human-Annotated Benchmark for Evaluating Arabic Linguistic Capabilities of Large Language Models**|Mohammad Zbib et.al.|[2511.14295](http://arxiv.org/abs/2511.14295)|null|
+|**2025-11-17**|**QUASAR: An Evolutionary Algorithm to Accelerate High-Dimensional Optimization**|Julian Soltes et.al.|[2511.13843](http://arxiv.org/abs/2511.13843)|null|
 |**2025-11-17**|**Quantum Error Correction Codes for Truncated SU(2) Lattice Gauge Theories**|Xiaojun Yao et.al.|[2511.13721](http://arxiv.org/abs/2511.13721)|null|
 |**2025-11-17**|**Ultra Low Overhead Syndrome Extraction for the Steane code**|Boldizsár Poór et.al.|[2511.13700](http://arxiv.org/abs/2511.13700)|null|
 |**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|

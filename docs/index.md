@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Laminar and Turbulent Flow in Wavy Pipes under Strong Wall Modulations**|Ismail El Mellas et.al.|[2511.17458](http://arxiv.org/abs/2511.17458)|null|
+|**2025-11-21**|**Witnesses of Genuine Multipartite Entanglement and Nonlocal Measurement Back-action for Raman-scattering Quantum Systems**|Kai Ryen Bush et.al.|[2511.17211](http://arxiv.org/abs/2511.17211)|null|
 |**2025-11-20**|**Selfconsistent Transfer Operators for Heterogeneous Coupled Maps**|Herbert M. C. Maquera et.al.|[2511.16572](http://arxiv.org/abs/2511.16572)|null|
 |**2025-11-19**|**k-Uniform complete hypergraph states stabilizers in terms of local operators**|Gabriel M. Arantes et.al.|[2511.15911](http://arxiv.org/abs/2511.15911)|null|
 |**2025-11-19**|**Bell Inequality Violation with Vacuum-One-Photon Number Superposition States**|Zi-Qi Zeng et.al.|[2511.15413](http://arxiv.org/abs/2511.15413)|null|
@@ -533,6 +535,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Unmasking Airborne Threats: Guided-Transformers for Portable Aerosol Mass Spectrometry**|Kyle M. Regan et.al.|[2511.17446](http://arxiv.org/abs/2511.17446)|null|
+|**2025-11-21**|**Fluid Antenna System-Enabled UAV-to-Ground Communications**|Xusheng Zhu et.al.|[2511.17416](http://arxiv.org/abs/2511.17416)|null|
+|**2025-11-21**|**Optimal Thermalization under Indefinite Causal Order with Identical and Asymmetric Baths**|Neeraj Sharma et.al.|[2511.17357](http://arxiv.org/abs/2511.17357)|null|
+|**2025-11-21**|**Theoretical Analysis of Photonic Resonances in Spectroscopic Measurements of a Kerr Nonlinear Resonator**|Yuki Tanaka et.al.|[2511.17197](http://arxiv.org/abs/2511.17197)|null|
+|**2025-11-21**|**Effect of temperature and excitation power on down-conversion process in Tb3+/Yb3+-activated silica-hafnia glass-ceramic films**|S. E. Amrani et.al.|[2511.17114](http://arxiv.org/abs/2511.17114)|null|
+|**2025-11-21**|**Illuminating the Black Box of Reservoir Computing**|Claus Metzner et.al.|[2511.17003](http://arxiv.org/abs/2511.17003)|null|
+|**2025-11-21**|**Quantum Storage of Frequency-Multiplexed Photons Exhibiting Nonclassical Correlations with Telecom C-Band Photons**|Hiroki Tateishi et.al.|[2511.16977](http://arxiv.org/abs/2511.16977)|null|
+|**2025-11-21**|**Exponentially enhanced sensing through nonreciprocal light propagation**|Paul-Édouard Blanchard et.al.|[2511.16895](http://arxiv.org/abs/2511.16895)|null|
+|**2025-11-21**|**Next-to-leading order analysis of $J/ψ+ γ$ production in photon-photon collisions at CEPC**|Ying-Zhao Jiang et.al.|[2511.16881](http://arxiv.org/abs/2511.16881)|null|
+|**2025-11-21**|**Quantum Optical Simulator for Unruh-DeWitt Detector Dynamics**|Tai Hyun Yoon et.al.|[2511.16865](http://arxiv.org/abs/2511.16865)|null|
 |**2025-11-20**|**KrkNLO matching and phenomenology for vector boson processes**|Pratixan Sarmah et.al.|[2511.16605](http://arxiv.org/abs/2511.16605)|null|
 |**2025-11-20**|**Comment on: "Scaling and Universality at Noisy Quench Dynamical Quantum Phase Transitions"**|J. Sirker et.al.|[2511.16509](http://arxiv.org/abs/2511.16509)|null|
 |**2025-11-20**|**Two-beam Multiparticle Many-body simulations of Inhomogeneous FFI**|Zoha Laraib et.al.|[2511.16506](http://arxiv.org/abs/2511.16506)|null|
@@ -723,6 +735,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**Coherence and contextuality as quantum resources**|Rafael Wagner et.al.|[2511.16785](http://arxiv.org/abs/2511.16785)|null|
 |**2025-11-19**|**Nonclassicality of a Macroscopic Qubit-Ensemble via Parity Measurement Induced Disturbance**|Lorenzo Braccini et.al.|[2511.15880](http://arxiv.org/abs/2511.15880)|null|
 |**2025-11-19**|**D2D Power Allocation via Quantum Graph Neural Network**|Tung Giang Le et.al.|[2511.15246](http://arxiv.org/abs/2511.15246)|null|
 |**2025-11-18**|**Emergent spectral geometry in the Coherence--Curvature Model**|Jorge Lamas et.al.|[2511.13423](http://arxiv.org/abs/2511.13423)|null|
@@ -1107,6 +1120,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Non-Hermitian impurity problem**|E. T. Kokkinakis et.al.|[2511.17390](http://arxiv.org/abs/2511.17390)|null|
+|**2025-11-21**|**Building 3D superconductor-based Josephson junctions using a via transfer approach**|Cequn Li et.al.|[2511.17386](http://arxiv.org/abs/2511.17386)|null|
+|**2025-11-21**|**A DSMC method for the space homogeneous multispecies Landau equation**|Andrea Medaglia et.al.|[2511.17286](http://arxiv.org/abs/2511.17286)|null|
+|**2025-11-21**|**Persistent BitTorrent Trackers**|Francois Xavier Wicht et.al.|[2511.17260](http://arxiv.org/abs/2511.17260)|null|
+|**2025-11-21**|**Distributed Switching Model Predictive Control Meets Koopman Operator for Dynamic Obstacle Avoidance**|Ali Azarbahram et.al.|[2511.17186](http://arxiv.org/abs/2511.17186)|null|
+|**2025-11-21**|**A Robust GPU-Accelerated Kernel Compensation Solver with Novel Discretization for Photonic Crystals in Pseudochiral Media**|Chenhao Jin et.al.|[2511.17107](http://arxiv.org/abs/2511.17107)|null|
+|**2025-11-21**|**Sparse Reasoning is Enough: Biological-Inspired Framework for Video Anomaly Detection with Large Pre-trained Models**|He Huang et.al.|[2511.17094](http://arxiv.org/abs/2511.17094)|null|
+|**2025-11-21**|**Energy Scaling Laws for Diffusion Models: Quantifying Compute and Carbon Emissions in Image Generation**|Aniketh Iyengar et.al.|[2511.17031](http://arxiv.org/abs/2511.17031)|null|
+|**2025-11-21**|**FLUID: Training-Free Face De-identification via Latent Identity Substitution**|Jinhyeong Park et.al.|[2511.17005](http://arxiv.org/abs/2511.17005)|null|
+|**2025-11-21**|**Stable Offline Hand-Eye Calibration for any Robot with Just One Mark**|Sicheng Xie et.al.|[2511.17001](http://arxiv.org/abs/2511.17001)|null|
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
 |**2025-11-20**|**Evolution Strategies at the Hyperscale**|Bidipta Sarkar et.al.|[2511.16652](http://arxiv.org/abs/2511.16652)|null|
 |**2025-11-20**|**Metasurface-controlled high-speed tunable external cavity lasers**|Zahra Basiri et.al.|[2511.16499](http://arxiv.org/abs/2511.16499)|null|
@@ -1479,6 +1502,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**The Scrooge ensemble in many-body quantum systems**|Max McGinley et.al.|[2511.17172](http://arxiv.org/abs/2511.17172)|null|
+|**2025-11-20**|**Unitary synthesis with optimal brick wall circuits**|David Wierichs et.al.|[2511.16736](http://arxiv.org/abs/2511.16736)|null|
 |**2025-11-20**|**Non-Abelian operator size distribution in charge-conserving many-body systems**|Mina Tarakemeh et.al.|[2511.16634](http://arxiv.org/abs/2511.16634)|null|
 |**2025-11-20**|**Chip-integrated Brillouin Saser Gyroscope**|Wen-Qi Duan et.al.|[2511.16525](http://arxiv.org/abs/2511.16525)|null|
 |**2025-11-19**|**Using Light Curve Derivatives to Estimate the Fill-out Factor of Overcontact Binaries**|Shinjirou Kouzuma et.al.|[2511.15537](http://arxiv.org/abs/2511.15537)|null|
@@ -2125,6 +2150,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-11-21**|**Improved error correction with leakage reduction units built into qubit measurement in a superconducting quantum processor**|Yuejie Xin et.al.|[2511.17460](http://arxiv.org/abs/2511.17460)|null|
+|**2025-11-21**|**Measuring Anyonic Exchange Phases Using Two-Dimensional Coherent Spectroscopy**|Nico Kirchner et.al.|[2511.17420](http://arxiv.org/abs/2511.17420)|null|
+|**2025-11-21**|**SVRecon: Sparse Voxel Rasterization for Surface Reconstruction**|Seunghun Oh et.al.|[2511.17364](http://arxiv.org/abs/2511.17364)|null|
+|**2025-11-21**|**Learning Latent Transmission and Glare Maps for Lens Veiling Glare Removal**|Xiaolong Qian et.al.|[2511.17353](http://arxiv.org/abs/2511.17353)|null|
+|**2025-11-21**|**The Star Product of Uniformly Random Codes**|Johan V. Dinesen et.al.|[2511.17236](http://arxiv.org/abs/2511.17236)|null|
+|**2025-11-21**|**Reflection-Based Relative Localization for Cooperative UAV Teams Using Active Markers**|Tim Lakemann et.al.|[2511.17166](http://arxiv.org/abs/2511.17166)|null|
+|**2025-11-21**|**Anyon Quasilocalization in a Quasicrystalline Toric Code**|Soumya Sur et.al.|[2511.17144](http://arxiv.org/abs/2511.17144)|null|
+|**2025-11-21**|**SPAGS: Sparse-View Articulated Object Reconstruction from Single State via Planar Gaussian Splatting**|Di Wu et.al.|[2511.17092](http://arxiv.org/abs/2511.17092)|null|
+|**2025-11-21**|**Glass Surface Detection: Leveraging Reflection Dynamics in Flash/No-flash Imagery**|Tao Yan et.al.|[2511.16887](http://arxiv.org/abs/2511.16887)|null|
+|**2025-11-20**|**Quantum Data Learning of Topological-to-Ferromagnetic Phase Transitions in the 2+1D Toric Code Loop Gas Model**|Shamminuj Aktar et.al.|[2511.16851](http://arxiv.org/abs/2511.16851)|null|
 |**2025-11-20**|**Correction of chain losses in trapped ion quantum computers**|Nolan J. Coble et.al.|[2511.16632](http://arxiv.org/abs/2511.16632)|null|
 |**2025-11-20**|**Variational Quantum Integrated Sensing and Communication**|Ivana Nikoloska et.al.|[2511.16597](http://arxiv.org/abs/2511.16597)|null|
 |**2025-11-20**|**OpenQudit: Extensible and Accelerated Numerical Quantum Compilation via a JIT-Compiled DSL**|Ed Younis et.al.|[2511.16585](http://arxiv.org/abs/2511.16585)|null|

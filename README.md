@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**SUPN: Shallow Universal Polynomial Networks**|Zachary Morrow et.al.|[2511.21414](http://arxiv.org/abs/2511.21414)|null|
+|**2025-11-26**|**Witness wedges in fidelity-deviation plane: separating teleportation advantage and Bell-inequality violation**|Kyoungho Cho et.al.|[2511.21079](http://arxiv.org/abs/2511.21079)|null|
 |**2025-11-25**|**Suboptimality of Parity for Distilling Correlations with Nontrivial Marginals**|Syed Affan Aslam et.al.|[2511.19977](http://arxiv.org/abs/2511.19977)|null|
 |**2025-11-24**|**Processing Entangled Links Into Secure Cryptographic Keys**|Marcel Kokorsch et.al.|[2511.18913](http://arxiv.org/abs/2511.18913)|null|
 |**2025-11-21**|**Certifying Majorana Fermions with Elegant-Like Bell Inequalities and a New Self-Testing Equivalence**|Patryk Michalski et.al.|[2511.17764](http://arxiv.org/abs/2511.17764)|null|
@@ -549,6 +551,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Factorisation conditions and causality for local measurements in QFT**|Robin Simmons et.al.|[2511.21644](http://arxiv.org/abs/2511.21644)|null|
+|**2025-11-26**|**Quantum Latent Gauge and Coherence Selective Forces**|Ridha Horchani et.al.|[2511.21576](http://arxiv.org/abs/2511.21576)|null|
+|**2025-11-26**|**Formation of Light-Emitting Defects in Ag-based Memristors**|Diana Singh et.al.|[2511.21555](http://arxiv.org/abs/2511.21555)|null|
+|**2025-11-26**|**$k$-path graphs: experiments and conjectures about algebraic connectivity and $α$ -index**|Rafael L. de Paula et.al.|[2511.21524](http://arxiv.org/abs/2511.21524)|null|
+|**2025-11-26**|**Making sense of quantum teleportation: An intervention study on students' conceptions using a diagrammatic approach**|Sebastian Kilde-Westberg et.al.|[2511.21443](http://arxiv.org/abs/2511.21443)|null|
+|**2025-11-26**|**Multiport Analytical Pixel Electromagnetic Simulator (MAPES) for AI-assisted RFIC and Microwave Circuit Design**|Junhui Rao et.al.|[2511.21274](http://arxiv.org/abs/2511.21274)|null|
+|**2025-11-26**|**Data-driven control of continuous-time systems: A synthesis-operator approach**|Masashi Wakaiki et.al.|[2511.21041](http://arxiv.org/abs/2511.21041)|null|
+|**2025-11-26**|**Mirror subspace diagonalization: a quantum Krylov algorithm with near-optimal sampling cost**|Shota Kanasugi et.al.|[2511.20998](http://arxiv.org/abs/2511.20998)|null|
+|**2025-11-25**|**Hardware Acceleration of Frustrated Lattice Systems using Convolutional Restricted Boltzmann Machine**|Pratik Brahma et.al.|[2511.20911](http://arxiv.org/abs/2511.20911)|null|
+|**2025-11-25**|**Local Dissipativity Analysis of Nonlinear Systems**|Amy K. Strong et.al.|[2511.20838](http://arxiv.org/abs/2511.20838)|null|
 |**2025-11-25**|**Resource assessment of classical and quantum hardware for post-quench dynamics**|Joseph Vovrosh et.al.|[2511.20388](http://arxiv.org/abs/2511.20388)|null|
 |**2025-11-25**|**Unified Block Signal Processing Framework for LPWANs: Sequence Index Modulation Spreading**|Wenkun Wen et.al.|[2511.20364](http://arxiv.org/abs/2511.20364)|null|
 |**2025-11-25**|**Mass Dependence of the Araki-Uhlmann Relative Entropy Across Dimensions**|João G. A. Caribé et.al.|[2511.20244](http://arxiv.org/abs/2511.20244)|null|
@@ -771,6 +783,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Causal Inference: A Tale of Three Frameworks**|Linbo Wang et.al.|[2511.21516](http://arxiv.org/abs/2511.21516)|null|
+|**2025-11-26**|**Consistent solutions to the allocation of indivisible objects with general endowments**|Jun Zhang et.al.|[2511.21155](http://arxiv.org/abs/2511.21155)|null|
+|**2025-11-26**|**Subgoal Graph-Augmented Planning for LLM-Guided Open-World Reinforcement Learning**|Shanwei Fan et.al.|[2511.20993](http://arxiv.org/abs/2511.20993)|null|
+|**2025-11-26**|**Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs**|Reham Omar et.al.|[2511.20940](http://arxiv.org/abs/2511.20940)|null|
+|**2025-11-25**|**On the Expected Duration of a Generalized Bingo Game**|Vu Phan et.al.|[2511.20932](http://arxiv.org/abs/2511.20932)|null|
+|**2025-11-25**|**Length-MAX Tokenizer for Language Models**|Dong Dong et.al.|[2511.20849](http://arxiv.org/abs/2511.20849)|null|
 |**2025-11-25**|**Toward generic control for soft robotic systems**|Yu Sun et.al.|[2511.20226](http://arxiv.org/abs/2511.20226)|null|
 |**2025-11-24**|**Primitive Geometric Markov Partitions for pseudo-Anosov Homeomorphisms**|Inti Cruz Diaz et.al.|[2511.19792](http://arxiv.org/abs/2511.19792)|null|
 |**2025-11-24**|**Quantum Hardware-Efficient Selection of Auxiliary Variables for QUBO Formulations**|Damian Rovara et.al.|[2511.19613](http://arxiv.org/abs/2511.19613)|null|
@@ -1167,6 +1185,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
+|**2025-11-26**|**Integrated emitters with CMOS-compatible tuning for large scale quantum SiN photonic circuits**|Jasper De Witte et.al.|[2511.21529](http://arxiv.org/abs/2511.21529)|null|
+|**2025-11-26**|**Antiferromagnetism and Kekulé valence bond order in the honeycomb optical Su-Schrieffer-Heeger-Hubbard model**|Sohan Malkaruge Costa et.al.|[2511.21440](http://arxiv.org/abs/2511.21440)|null|
+|**2025-11-26**|**Odin: Oriented Dual-module Integration for Text-rich Network Representation Learning**|Kaifeng Hong et.al.|[2511.21416](http://arxiv.org/abs/2511.21416)|null|
+|**2025-11-26**|**Thermodynamics and $P$-$V$ Criticality of Charged AdS Black Holes with a Cloud of Strings in Kalb-Ramond Gravity**|Faizuddin Ahmed et.al.|[2511.21374](http://arxiv.org/abs/2511.21374)|null|
+|**2025-11-26**|**Neural NMPC through Signed Distance Field Encoding for Collision Avoidance**|Martin Jacquet et.al.|[2511.21312](http://arxiv.org/abs/2511.21312)|null|
+|**2025-11-26**|**Low-dose Chemically Specific Bioimaging via Deep-UV Lensless Holographic Microscopy on a Standard Camera**|Piotr Arcab et.al.|[2511.21311](http://arxiv.org/abs/2511.21311)|null|
+|**2025-11-26**|**Fly-by transit: A novel door-to-door shared mobility with minimal stops**|Wenbo Fan et.al.|[2511.21295](http://arxiv.org/abs/2511.21295)|null|
+|**2025-11-26**|**A p-adaptive high-order mesh-free framework for fluid simulations in complex geometries**|Ruofeng Feng et.al.|[2511.21224](http://arxiv.org/abs/2511.21224)|null|
+|**2025-11-26**|**The effect of tip-speed ratio and free-stream turbulence on the coupled wind turbine blade/wake dynamics**|Francisco J. G. de Oliveira et.al.|[2511.21206](http://arxiv.org/abs/2511.21206)|null|
 |**2025-11-25**|**Extracting conserved operators from a projected entangled pair state**|Wen-Tao Xu et.al.|[2511.20619](http://arxiv.org/abs/2511.20619)|null|
 |**2025-11-25**|**Asymptotic yet practical optimization of quantum circuits implementing GF( $2^m$ ) multiplication and division operations**|Noureldin Yosri et.al.|[2511.20618](http://arxiv.org/abs/2511.20618)|null|
 |**2025-11-25**|**Precision thermodynamics of the strongly interacting Fermi gas in two dimensions**|S. Ramachandran et.al.|[2511.20599](http://arxiv.org/abs/2511.20599)|null|
@@ -1571,6 +1599,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Holographically Emergent Gauge Theory in Symmetric Quantum Circuits**|Akash Vijay et.al.|[2511.21685](http://arxiv.org/abs/2511.21685)|null|
+|**2025-11-26**|**Magic spreading under unitary Clifford dynamics**|Mircea Bejan et.al.|[2511.21487](http://arxiv.org/abs/2511.21487)|null|
+|**2025-11-26**|**Differentiable Physics-Neural Models enable Learning of Non-Markovian Closures for Accelerated Coarse-Grained Physics Simulations**|Tingkai Xue et.al.|[2511.21369](http://arxiv.org/abs/2511.21369)|null|
+|**2025-11-25**|**The EGUP-Induced Critical Radius: A New Holographic Scale for Quantum Gravity**|Sara Motalebi et.al.|[2511.20777](http://arxiv.org/abs/2511.20777)|null|
 |**2025-11-23**|**Probabilistic Bounds on the Number of Elements to Generate Finite Nilpotent Groups and Their Applications**|Ziyuan Dong et.al.|[2511.19494](http://arxiv.org/abs/2511.19494)|null|
 |**2025-11-24**|**CHAOS - A Consistent Large-scale Database for Sigma-Profiles and Other Molecular Descriptors**|Dominik Gond et.al.|[2511.19002](http://arxiv.org/abs/2511.19002)|null|
 |**2025-11-23**|**Universal learning of nonlocal entropy via local correlations in non-equilibrium quantum states**|Hao Liao et.al.|[2511.18327](http://arxiv.org/abs/2511.18327)|null|
@@ -2226,6 +2258,14 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-11-26**|**Holographically Emergent Gauge Theory in Symmetric Quantum Circuits**|Akash Vijay et.al.|[2511.21685](http://arxiv.org/abs/2511.21685)|null|
+|**2025-11-26**|**FPGA-tailored algorithms for real-time decoding of quantum LDPC codes**|Satvik Maurya et.al.|[2511.21660](http://arxiv.org/abs/2511.21660)|null|
+|**2025-11-26**|**The Quantum Network of Assets: A Non-Classical Framework for Market Correlation and Structural Risk**|Hui Gong et.al.|[2511.21515](http://arxiv.org/abs/2511.21515)|null|
+|**2025-11-26**|**Magic spreading under unitary Clifford dynamics**|Mircea Bejan et.al.|[2511.21487](http://arxiv.org/abs/2511.21487)|null|
+|**2025-11-26**|**AnchorOPT: Towards Optimizing Dynamic Anchors for Adaptive Prompt Learning**|Zheng Li et.al.|[2511.21188](http://arxiv.org/abs/2511.21188)|null|
+|**2025-11-26**|**Compilation Pipeline for Predicting Algorithmic Break-Even in an Early-Fault-Tolerant Surface Code Architecture**|Tianyi Hao et.al.|[2511.20947](http://arxiv.org/abs/2511.20947)|null|
+|**2025-11-25**|**Securing the Model Context Protocol (MCP): Risks, Controls, and Governance**|Herman Errico et.al.|[2511.20920](http://arxiv.org/abs/2511.20920)|null|
+|**2025-11-25**|**MODEST: Multi-Optics Depth-of-Field Stereo Dataset**|Nisarg K. Trivedi et.al.|[2511.20853](http://arxiv.org/abs/2511.20853)|null|
 |**2025-11-25**|**Extracting conserved operators from a projected entangled pair state**|Wen-Tao Xu et.al.|[2511.20619](http://arxiv.org/abs/2511.20619)|null|
 |**2025-11-25**|**Quantum Key Distribution: Bridging Theoretical Security Proofs, Practical Attacks, and Error Correction for Quantum-Augmented Networks**|Nitin Jha et.al.|[2511.20602](http://arxiv.org/abs/2511.20602)|null|
 |**2025-11-25**|**Dynamic local single-shot checks for toric codes**|Yingjia Lin et.al.|[2511.20576](http://arxiv.org/abs/2511.20576)|null|

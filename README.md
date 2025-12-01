@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-27**|**Extensive search of Shannon entropy-based randomness certification protocols**|Robert Okuła et.al.|[2511.22771](http://arxiv.org/abs/2511.22771)|null|
+|**2025-11-27**|**Graphical Tests of Causality**|Ämin Baumeler et.al.|[2511.22552](http://arxiv.org/abs/2511.22552)|null|
+|**2025-11-27**|**Radio-Frequency Hong-Ou-Mandel Interference with Conditionally Built States**|A. Sheleg et.al.|[2511.22480](http://arxiv.org/abs/2511.22480)|null|
+|**2025-11-27**|**A Time-Symmetric Formulation of Quantum Measurement: Reinterpreting the Arrow of Time as Information Flow**|Shin-ichi Inage et.al.|[2511.22191](http://arxiv.org/abs/2511.22191)|null|
+|**2025-11-26**|**Testing Single Photon Entanglement using Self-Referential Measurements**|Daniel Kun et.al.|[2511.21819](http://arxiv.org/abs/2511.21819)|null|
 |**2025-11-26**|**SUPN: Shallow Universal Polynomial Networks**|Zachary Morrow et.al.|[2511.21414](http://arxiv.org/abs/2511.21414)|null|
 |**2025-11-26**|**Witness wedges in fidelity-deviation plane: separating teleportation advantage and Bell-inequality violation**|Kyoungho Cho et.al.|[2511.21079](http://arxiv.org/abs/2511.21079)|null|
 |**2025-11-25**|**Suboptimality of Parity for Distilling Correlations with Nontrivial Marginals**|Syed Affan Aslam et.al.|[2511.19977](http://arxiv.org/abs/2511.19977)|null|
@@ -551,6 +556,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Arbitrary control of the temporal waveform of photons during spontaneous emission**|Carl Thomas et.al.|[2511.23462](http://arxiv.org/abs/2511.23462)|null|
+|**2025-11-28**|**The Boundary Time Crystal as a light source for quantum enhanced sensing beyond the Heisenberg Limit**|Malik Jirasek et.al.|[2511.23416](http://arxiv.org/abs/2511.23416)|null|
+|**2025-11-28**|**Quantum Private Distributed Matrix Multiplication With Degree Tables**|Mohamed Nomeir et.al.|[2511.23406](http://arxiv.org/abs/2511.23406)|null|
+|**2025-11-28**|**Quantum spectroscopy of topological dynamics via a supersymmetric Hamiltonian**|Hiroshi Yamauchi et.al.|[2511.23169](http://arxiv.org/abs/2511.23169)|null|
+|**2025-11-28**|**Algebraic power scaling in a slowly-quenched bosonic quantum battery**|Donny Dwiputra et.al.|[2511.23081](http://arxiv.org/abs/2511.23081)|null|
+|**2025-11-28**|**Observing the spatial and temporal evolution of exciton wave functions in organic semiconductors**|Marcel Theilen et.al.|[2511.23001](http://arxiv.org/abs/2511.23001)|null|
+|**2025-11-28**|**NeuMatC: A General Neural Framework for Fast Parametric Matrix Operation**|Chuan Wang et.al.|[2511.22934](http://arxiv.org/abs/2511.22934)|null|
+|**2025-11-28**|**MBFL-DKMR: Improving Mutation-based Fault Localization through Denoising-based Kill Matrix Refinement**|Hengyuan Liu et.al.|[2511.22921](http://arxiv.org/abs/2511.22921)|null|
+|**2025-11-28**|**Tunable Single-Photon Transport in a Multi-mode Waveguide via a $Λ$ -Type Emitter**|Yan Liu et.al.|[2511.22840](http://arxiv.org/abs/2511.22840)|null|
+|**2025-11-28**|**Delayed Choice Quantum Erasure Experiment Revisited: Causality and Informational Coherence**|Taku Ohwada et.al.|[2511.22827](http://arxiv.org/abs/2511.22827)|null|
 |**2025-11-26**|**Factorisation conditions and causality for local measurements in QFT**|Robin Simmons et.al.|[2511.21644](http://arxiv.org/abs/2511.21644)|null|
 |**2025-11-26**|**Quantum Latent Gauge and Coherence Selective Forces**|Ridha Horchani et.al.|[2511.21576](http://arxiv.org/abs/2511.21576)|null|
 |**2025-11-26**|**Formation of Light-Emitting Defects in Ag-based Memristors**|Diana Singh et.al.|[2511.21555](http://arxiv.org/abs/2511.21555)|null|
@@ -783,6 +798,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Probing the Fermi Sea Topology in a Quantum Gas**|Cyprien Daix et.al.|[2511.23353](http://arxiv.org/abs/2511.23353)|null|
+|**2025-11-28**|**Extended Serial Safety Net: A Refined Serializability Criterion for Multiversion Concurrency Control**|Atsushi Kitazawa et.al.|[2511.22956](http://arxiv.org/abs/2511.22956)|null|
+|**2025-11-27**|**Foundations of Quantum Granular Computing with Effect-Based Granules, Algebraic Properties and Reference Architectures**|Oscar Montiel Ross et.al.|[2511.22679](http://arxiv.org/abs/2511.22679)|null|
+|**2025-11-27**|**HW-GNN: Homophily-Aware Gaussian-Window Constrained Graph Spectral Network for Social Network Bot Detection**|Zida Liu et.al.|[2511.22493](http://arxiv.org/abs/2511.22493)|null|
 |**2025-11-26**|**Causal Inference: A Tale of Three Frameworks**|Linbo Wang et.al.|[2511.21516](http://arxiv.org/abs/2511.21516)|null|
 |**2025-11-26**|**Consistent solutions to the allocation of indivisible objects with general endowments**|Jun Zhang et.al.|[2511.21155](http://arxiv.org/abs/2511.21155)|null|
 |**2025-11-26**|**Subgoal Graph-Augmented Planning for LLM-Guided Open-World Reinforcement Learning**|Shanwei Fan et.al.|[2511.20993](http://arxiv.org/abs/2511.20993)|null|
@@ -1015,9 +1034,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**A Customer Journey in the Land of Oz: Leveraging the Wizard of Oz Technique to Model Emotions in Customer Service Interactions**|Sofie Labat et.al.|[2511.21909](http://arxiv.org/abs/2511.21909)|null|
 |**2025-11-25**|**Landau-level-dependent photonic spin Hall effect in monolayer WTe2**|Qiaoyun Ma et.al.|[2511.20311](http://arxiv.org/abs/2511.20311)|null|
 |**2025-11-25**|**$\mathcal{PT}$ -assisted control of Goos-Hänchen shift in cavity magnomechanics**|Shah Fahad et.al.|[2511.20262](http://arxiv.org/abs/2511.20262)|null|
-|**2025-11-24**|**Learning Plug-and-play Memory for Guiding Video Diffusion Models**|Selena Song et.al.|[2511.19229](http://arxiv.org/abs/2511.19229)|null|
+|**2025-11-27**|**Learning Plug-and-play Memory for Guiding Video Diffusion Models**|Selena Song et.al.|[2511.19229](http://arxiv.org/abs/2511.19229)|null|
 |**2025-11-17**|**Quantum Metamorphosis: Programmable Emergence and the Breakdown of Bulk-Edge Dichotomy in Multiscale Systems**|Mahmoud Jalali Mehrabad et.al.|[2511.13831](http://arxiv.org/abs/2511.13831)|null|
 |**2025-11-14**|**Charged-particle control via spatio-temporally tailored pulses from gas-based nonlinear optics**|Hao Zhang et.al.|[2511.11507](http://arxiv.org/abs/2511.11507)|null|
 |**2025-11-12**|**Operational Characterization of Coherent Measurements with Steering and Randomness**|Chellasamy Jebarathinam et.al.|[2511.09102](http://arxiv.org/abs/2511.09102)|null|
@@ -1185,6 +1205,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Arbitrary control of the temporal waveform of photons during spontaneous emission**|Carl Thomas et.al.|[2511.23462](http://arxiv.org/abs/2511.23462)|null|
+|**2025-11-28**|**Optical bistability of continuous-wave and multi-pulse phase transition within EDFL via low threshold saturable absorber**|Hsuan-Sen Wang et.al.|[2511.23360](http://arxiv.org/abs/2511.23360)|null|
+|**2025-11-28**|**Fault-Tolerant MARL for CAVs under Observation Perturbations for Highway On-Ramp Merging**|Yuchen Shi et.al.|[2511.23193](http://arxiv.org/abs/2511.23193)|null|
+|**2025-11-28**|**Nature of frontier quasi-particle states in nitrogen-base systems**|Raul Quintero-Monsebaiz et.al.|[2511.23171](http://arxiv.org/abs/2511.23171)|null|
+|**2025-11-28**|**DoA Estimation with Sparse Arrays: Effects of Antenna Element Patterns and Nonidealities**|Niko Lindvall et.al.|[2511.23028](http://arxiv.org/abs/2511.23028)|null|
+|**2025-11-28**|**Control Barrier Function for Unknown Systems: An Approximation-free Approach**|Shubham Sawarkar et.al.|[2511.23022](http://arxiv.org/abs/2511.23022)|null|
+|**2025-11-28**|**A Trainable Centrality Framework for Modern Data**|Minh Duc Vu et.al.|[2511.22959](http://arxiv.org/abs/2511.22959)|null|
+|**2025-11-28**|**Adaptive Trajectory Bundle Method for Roll-to-Roll Manufacturing Systems**|Jiachen Li et.al.|[2511.22954](http://arxiv.org/abs/2511.22954)|null|
+|**2025-11-28**|**Generation of Ultra-Broadband Frequency Comb in Strongly Bistable Nonlinear Magnonic Resonator**|Yu Jiang et.al.|[2511.22915](http://arxiv.org/abs/2511.22915)|null|
+|**2025-11-28**|**ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance**|Congjia Chen et.al.|[2511.22908](http://arxiv.org/abs/2511.22908)|null|
 |**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
 |**2025-11-26**|**Integrated emitters with CMOS-compatible tuning for large scale quantum SiN photonic circuits**|Jasper De Witte et.al.|[2511.21529](http://arxiv.org/abs/2511.21529)|null|
 |**2025-11-26**|**Antiferromagnetism and Kekulé valence bond order in the honeycomb optical Su-Schrieffer-Heeger-Hubbard model**|Sohan Malkaruge Costa et.al.|[2511.21440](http://arxiv.org/abs/2511.21440)|null|
@@ -1599,6 +1629,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Nonstabilizerness Estimation using Graph Neural Networks**|Vincenzo Lipardi et.al.|[2511.23224](http://arxiv.org/abs/2511.23224)|null|
+|**2025-11-28**|**Quantum spectroscopy of topological dynamics via a supersymmetric Hamiltonian**|Hiroshi Yamauchi et.al.|[2511.23169](http://arxiv.org/abs/2511.23169)|null|
+|**2025-11-27**|**Qubit Reuse Beyond Reorder and Reset: Optimizing Quantum Circuits by Fully Utilizing the Potential of Dynamic Circuits**|Damian Rovara et.al.|[2511.22712](http://arxiv.org/abs/2511.22712)|null|
+|**2025-11-27**|**Out-of-Time-Order Correlator Spectroscopy**|Keisuke Fujii et.al.|[2511.22654](http://arxiv.org/abs/2511.22654)|null|
+|**2025-11-27**|**Deconstructing symmetry breaking dynamics**|Fumika Suzuki et.al.|[2511.22583](http://arxiv.org/abs/2511.22583)|null|
+|**2025-11-27**|**Efficient Pseudo-spectral Algorithms for Statistical Field Theories**|Martin Kjøllesdal Johnsrud et.al.|[2511.22510](http://arxiv.org/abs/2511.22510)|null|
+|**2025-11-27**|**High-Precision Fidelity Estimation with Common Randomized Measurements**|Zhongyi Yang et.al.|[2511.22509](http://arxiv.org/abs/2511.22509)|null|
+|**2025-11-27**|**Programmable generation of arbitrary continuous-variable anharmonicities and nonlinear couplings**|Teerawat Chalermpusitarak et.al.|[2511.22286](http://arxiv.org/abs/2511.22286)|null|
+|**2025-11-27**|**Robust quantum-droplet necklace clusters in three dimensions**|Liangwei Dong et.al.|[2511.22231](http://arxiv.org/abs/2511.22231)|null|
+|**2025-11-26**|**Measure and Forget Dynamics in Random Circuits**|Yucheng He et.al.|[2511.21866](http://arxiv.org/abs/2511.21866)|null|
 |**2025-11-26**|**Holographically Emergent Gauge Theory in Symmetric Quantum Circuits**|Akash Vijay et.al.|[2511.21685](http://arxiv.org/abs/2511.21685)|null|
 |**2025-11-26**|**Magic spreading under unitary Clifford dynamics**|Mircea Bejan et.al.|[2511.21487](http://arxiv.org/abs/2511.21487)|null|
 |**2025-11-26**|**Differentiable Physics-Neural Models enable Learning of Non-Markovian Closures for Accelerated Coarse-Grained Physics Simulations**|Tingkai Xue et.al.|[2511.21369](http://arxiv.org/abs/2511.21369)|null|
@@ -2258,6 +2298,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-11-28**|**Quantum Private Distributed Matrix Multiplication With Degree Tables**|Mohamed Nomeir et.al.|[2511.23406](http://arxiv.org/abs/2511.23406)|null|
+|**2025-11-28**|**Quantum Cubature Codes**|Yaoling Yang et.al.|[2511.23316](http://arxiv.org/abs/2511.23316)|null|
+|**2025-11-28**|**Software for Studying CASCADE Error Correction Protocols in Quantum Communications**|Nikita Repnkiov et.al.|[2511.23050](http://arxiv.org/abs/2511.23050)|null|
+|**2025-11-28**|**Secret Entanglement, Public Geometry. Quantum Cryptography from a Geometric Perspective**|Loris Di Cairano et.al.|[2511.22984](http://arxiv.org/abs/2511.22984)|null|
+|**2025-11-28**|**MDcraft -- a modern molecular dynamics simulation package with machine learning potentials support**|I. S. Galtsov et.al.|[2511.22951](http://arxiv.org/abs/2511.22951)|null|
+|**2025-11-28**|**NuclearConfectionery: Multi-stage Simulation Framework for Modeling Relativistic Heavy-ion Collisions**|Kevin P. Pala et.al.|[2511.22852](http://arxiv.org/abs/2511.22852)|null|
+|**2025-11-27**|**GSpaRC: Gaussian Splatting for Real-time Reconstruction of RF Channels**|Bhavya Sai Nukapotula et.al.|[2511.22793](http://arxiv.org/abs/2511.22793)|null|
+|**2025-11-27**|**Raising the Cavity Frequency in cQED**|Raymond A. Mencia et.al.|[2511.22764](http://arxiv.org/abs/2511.22764)|null|
+|**2025-11-27**|**Denotational semantics for stabiliser quantum programs**|Robert I. Booth et.al.|[2511.22734](http://arxiv.org/abs/2511.22734)|null|
+|**2025-11-27**|**OPI x Soft Decoders**|André Chailloux et.al.|[2511.22691](http://arxiv.org/abs/2511.22691)|null|
 |**2025-11-26**|**Holographically Emergent Gauge Theory in Symmetric Quantum Circuits**|Akash Vijay et.al.|[2511.21685](http://arxiv.org/abs/2511.21685)|null|
 |**2025-11-26**|**FPGA-tailored algorithms for real-time decoding of quantum LDPC codes**|Satvik Maurya et.al.|[2511.21660](http://arxiv.org/abs/2511.21660)|null|
 |**2025-11-26**|**The Quantum Network of Assets: A Non-Classical Framework for Market Correlation and Structural Risk**|Hui Gong et.al.|[2511.21515](http://arxiv.org/abs/2511.21515)|null|

@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**Systematic construction of ROCN Bell-inequalities**|Arturo Konderak et.al.|[2512.02957](http://arxiv.org/abs/2512.02957)|null|
+|**2025-12-01**|**Quantum-Classical Separation in Bounded-Resource Tasks Arising from Measurement Contextuality**|Shashwat Kumar et.al.|[2512.02284](http://arxiv.org/abs/2512.02284)|null|
 |**2025-12-01**|**Robust hyperentanglement self testing**|Yu-Hao Wang et.al.|[2512.01633](http://arxiv.org/abs/2512.01633)|null|
 |**2025-11-29**|**Physical Probability in the Everett Interpretation and Bell Inequalities**|Simon Saunders et.al.|[2512.00575](http://arxiv.org/abs/2512.00575)|null|
 |**2025-11-29**|**On the EPR paradox in systems with finite number of levels**|Henryk Gzyl et.al.|[2512.00497](http://arxiv.org/abs/2512.00497)|null|
@@ -560,6 +562,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
+|**2025-12-02**|**Structured Clifford+T Circuits for Efficient Generation of Quantum Chaos**|Asim Sharma et.al.|[2512.02996](http://arxiv.org/abs/2512.02996)|null|
+|**2025-12-02**|**Scalable Quantum Walk-Based Heuristics for the Minimum Vertex Cover Problem**|F. S. Luiz et.al.|[2512.02940](http://arxiv.org/abs/2512.02940)|null|
+|**2025-12-02**|**Universality and Falsifiability of Quantum Spacetime Decoherence: A Gauge-Invariant Framework for Gravitational-Wave Phase Diffusion**|Hu Cang et.al.|[2512.02782](http://arxiv.org/abs/2512.02782)|null|
+|**2025-12-02**|**Detection of photon-level signals embedded in sunlight with an atomic photodetector**|Laura Zarraoa et.al.|[2512.02521](http://arxiv.org/abs/2512.02521)|null|
+|**2025-12-02**|**Superchannel without Tears: A Generalized Occam's Razor for Quantum Processes**|Yunlong Xiao et.al.|[2512.02493](http://arxiv.org/abs/2512.02493)|null|
+|**2025-12-02**|**Structure and Mass-Radius Stability of Charged Compact Objects in Symmetric Teleparallel Euler-Heisenberg Gravity**|Allah Ditta et.al.|[2512.02439](http://arxiv.org/abs/2512.02439)|null|
+|**2025-12-02**|**Estimating Local Observables via Cluster-Level Light-Cone Decomposition**|Junxiang Huang et.al.|[2512.02377](http://arxiv.org/abs/2512.02377)|null|
+|**2025-12-01**|**Network theory classification of quantum matter based on wave function snapshots**|Riccardo Andreoni et.al.|[2512.02121](http://arxiv.org/abs/2512.02121)|null|
 |**2025-12-01**|**Parametric processes in nonlinear structures with reflections: a transfer matrix method approach**|Salvador Poveda-Hospital et.al.|[2512.01921](http://arxiv.org/abs/2512.01921)|null|
 |**2025-12-01**|**Characterization of cutting-edge CMOS Active Pixel sensors within the CYGNO Experiment**|B. D. Almeida et.al.|[2512.01762](http://arxiv.org/abs/2512.01762)|null|
 |**2025-12-01**|**Velocity Averaging Lemmas: Classical, Quantum and Semi-Classical**|François Golse et.al.|[2512.01529](http://arxiv.org/abs/2512.01529)|null|
@@ -812,6 +823,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**PAC-Bayesian Optimal Control with Stability and Generalization Guarantees**|Mahrokh Ghoddousi Boroujeni et.al.|[2512.02858](http://arxiv.org/abs/2512.02858)|null|
+|**2025-12-02**|**Rational regulation strategies of interstitial localized electrons in electride: A density functional theory study**|L. Zhang et.al.|[2512.02674](http://arxiv.org/abs/2512.02674)|null|
+|**2025-12-02**|**New 1mm thick Silicon Drift Detectors for future researches of Kaonic Atoms and the Pauli Exclusion principle**|F. Clozza et.al.|[2512.02613](http://arxiv.org/abs/2512.02613)|null|
+|**2025-12-02**|**Quantum-Based Self-Attention Mechanism for Hardware-Aware Differentiable Quantum Architecture Search**|Yuxiang Liu et.al.|[2512.02476](http://arxiv.org/abs/2512.02476)|null|
+|**2025-12-01**|**Quantum-Classical Separation in Bounded-Resource Tasks Arising from Measurement Contextuality**|Shashwat Kumar et.al.|[2512.02284](http://arxiv.org/abs/2512.02284)|null|
 |**2025-12-01**|**Analysis of $H \to J/ψ+γ$ up to Next-to-Next-to-Leading Order QCD Corrections**|Wen-Yuan Li et.al.|[2512.01211](http://arxiv.org/abs/2512.01211)|null|
 |**2025-11-30**|**Braided QM and Majorana qubits at third root of unity: a color Heisenberg-Lie (super)algebra framework**|Zhanna Kuznetsova et.al.|[2512.00809](http://arxiv.org/abs/2512.00809)|null|
 |**2025-11-30**|**Weighted Projective Line ZX Calculus: Quantized Orbifold Geometry for Quantum Compilation**|Gunhee Cho et.al.|[2512.00682](http://arxiv.org/abs/2512.00682)|null|
@@ -1224,6 +1240,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**Entanglement evolution from entangled multipodal states**|Konstantinos Chalas et.al.|[2512.03032](http://arxiv.org/abs/2512.03032)|null|
+|**2025-12-02**|**DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images**|Xiaoxue Chen et.al.|[2512.03004](http://arxiv.org/abs/2512.03004)|null|
+|**2025-12-02**|**Phase diagram of the one-dimensional three-state Potts model with an additional mean-field interaction**|Alessandro Campa et.al.|[2512.02930](http://arxiv.org/abs/2512.02930)|null|
+|**2025-12-02**|**FAIRY2I: Universal Extremely-Low Bit QAT framework via Widely-Linear Representation and Phase-Aware Quantization**|Feiyu Wang et.al.|[2512.02901](http://arxiv.org/abs/2512.02901)|null|
+|**2025-12-02**|**SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots**|Iana Zhura et.al.|[2512.02851](http://arxiv.org/abs/2512.02851)|null|
+|**2025-12-02**|**SR-GRPO: Stable Rank as an Intrinsic Geometric Reward for Large Language Model Alignment**|Yixuan Tang et.al.|[2512.02807](http://arxiv.org/abs/2512.02807)|null|
+|**2025-12-02**|**Multimode interface between optical free-space- and waveguide modes**|Teresia Stranden et.al.|[2512.02658](http://arxiv.org/abs/2512.02658)|null|
+|**2025-12-02**|**Regime Maps for Sloshing in Horizontal Cylindrical Tanks Under Vertical Acceleration**|Francisco Monteiro et.al.|[2512.02540](http://arxiv.org/abs/2512.02540)|null|
+|**2025-12-02**|**Assessment of Simulation-based Inference Methods for Stochastic Compartmental Models**|Vincent Wieland et.al.|[2512.02528](http://arxiv.org/abs/2512.02528)|null|
+|**2025-12-02**|**Detection of photon-level signals embedded in sunlight with an atomic photodetector**|Laura Zarraoa et.al.|[2512.02521](http://arxiv.org/abs/2512.02521)|null|
 |**2025-12-01**|**Arbitrage-Free Option Price Surfaces via Chebyshev Tensor Bases and a Hamiltonian Fog Post-Fit**|Robert Jenkinson Alvarez et.al.|[2512.01967](http://arxiv.org/abs/2512.01967)|null|
 |**2025-12-01**|**Automated Compilation Including Dropouts: Tolerating Defective Components in Stabiliser Codes**|Stasiu Wolanski et.al.|[2512.01943](http://arxiv.org/abs/2512.01943)|null|
 |**2025-12-01**|**Unifying Sign and Magnitude for Optimizing Deep Vision Networks via ThermoLion**|Ahmed Nebli et.al.|[2512.01881](http://arxiv.org/abs/2512.01881)|null|
@@ -1658,6 +1684,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**The discrete wave equation with applications to scattering theory and quantum chaos**|Carsten Peterson et.al.|[2512.03015](http://arxiv.org/abs/2512.03015)|null|
+|**2025-12-02**|**Structured Clifford+T Circuits for Efficient Generation of Quantum Chaos**|Asim Sharma et.al.|[2512.02996](http://arxiv.org/abs/2512.02996)|null|
+|**2025-12-02**|**Stability of quantum chaos against weak non-unitarity**|Yi-Cheng Wang et.al.|[2512.02934](http://arxiv.org/abs/2512.02934)|null|
+|**2025-12-02**|**Reaching Sachdev-Ye-Kitaev physics by shaking the Hubbard model**|Charles Creffield et.al.|[2512.02755](http://arxiv.org/abs/2512.02755)|null|
+|**2025-12-02**|**Excitation function of femtoscopic Lévy source parameters of pion pairs in EPOS4**|Yan Huang et.al.|[2512.02560](http://arxiv.org/abs/2512.02560)|null|
 |**2025-12-01**|**Data-Driven Learnability Transition of Measurement-Induced Entanglement**|Dongheng Qian et.al.|[2512.01317](http://arxiv.org/abs/2512.01317)|null|
 |**2025-12-01**|**Higher-order spectral form factors of circular unitary ensemble**|Sohail et.al.|[2512.01304](http://arxiv.org/abs/2512.01304)|null|
 |**2025-11-30**|**Quantum ramp secret sharing from Haar scrambling**|Kiran Adhikari et.al.|[2512.00970](http://arxiv.org/abs/2512.00970)|null|
@@ -2332,6 +2363,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-02**|**MagicQuillV2: Precise and Interactive Image Editing with Layered Visual Cues**|Zichen Liu et.al.|[2512.03046](http://arxiv.org/abs/2512.03046)|null|
+|**2025-12-02**|**AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry**|Xiang Xu et.al.|[2512.03018](http://arxiv.org/abs/2512.03018)|null|
+|**2025-12-02**|**On the ellipticity of the higher rank numerical range**|Natália Bebiano et.al.|[2512.02977](http://arxiv.org/abs/2512.02977)|null|
+|**2025-12-02**|**Pseudocodewords of quantum, quasi-cyclic, and spatially-coupled LDPC codes: a fundamental cone perspective**|Wittawat Kositwattanarerk et.al.|[2512.02941](http://arxiv.org/abs/2512.02941)|null|
+|**2025-12-02**|**SDQC: Distributed Quantum Computing Architecture Utilizing Entangled Ion Qubit Shuttling**|Seunghyun Baek et.al.|[2512.02890](http://arxiv.org/abs/2512.02890)|null|
+|**2025-12-02**|**Decryption thorough polynomial ambiguity: noise-enhanced high-memory convolutional codes for post-quantum cryptography**|Meir Ariel et.al.|[2512.02822](http://arxiv.org/abs/2512.02822)|null|
+|**2025-12-02**|**Fault-tolerant quantum computation with constant overhead for general noise**|Matthias Christandl et.al.|[2512.02760](http://arxiv.org/abs/2512.02760)|null|
+|**2025-12-02**|**Constraint-Optimal Driven Allocation for Scalable QEC Decoder Scheduling**|Dongmin Kim et.al.|[2512.02539](http://arxiv.org/abs/2512.02539)|null|
+|**2025-12-02**|**Leading effective field theory corrections to the Kerr metric at all spins**|Pedro G. S. Fernandes et.al.|[2512.02338](http://arxiv.org/abs/2512.02338)|null|
+|**2025-12-02**|**Associative Memory using Attribute-Specific Neuron Groups-1: Learning between Multiple Cue Balls**|Hiroshi Inazawa et.al.|[2512.02319](http://arxiv.org/abs/2512.02319)|null|
 |**2025-12-01**|**Automated Compilation Including Dropouts: Tolerating Defective Components in Stabiliser Codes**|Stasiu Wolanski et.al.|[2512.01943](http://arxiv.org/abs/2512.01943)|null|
 |**2025-12-01**|**Scalable Quantum Reversible BCD Adder Architectures with Enhanced Speed and Reduced Quantum Cost for Next-Generation Computing**|Negin Mashayekhi et.al.|[2512.01883](http://arxiv.org/abs/2512.01883)|null|
 |**2025-12-01**|**The Hubble Missing Globular Cluster Survey. II. Survey membership tools and kinematic analysis of NGC 6749**|L. Rosignoli et.al.|[2512.01530](http://arxiv.org/abs/2512.01530)|null|

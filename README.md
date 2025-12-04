@@ -16,9 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees**|Davut Emre Tasar et.al.|[2512.04016](http://arxiv.org/abs/2512.04016)|null|
 |**2025-12-02**|**Systematic construction of ROCN Bell-inequalities**|Arturo Konderak et.al.|[2512.02957](http://arxiv.org/abs/2512.02957)|null|
 |**2025-12-01**|**Quantum-Classical Separation in Bounded-Resource Tasks Arising from Measurement Contextuality**|Shashwat Kumar et.al.|[2512.02284](http://arxiv.org/abs/2512.02284)|null|
-|**2025-12-01**|**Robust hyperentanglement self testing**|Yu-Hao Wang et.al.|[2512.01633](http://arxiv.org/abs/2512.01633)|null|
+|**2025-12-03**|**Robust hyperentanglement self testing**|Yu-Hao Wang et.al.|[2512.01633](http://arxiv.org/abs/2512.01633)|null|
 |**2025-11-29**|**Physical Probability in the Everett Interpretation and Bell Inequalities**|Simon Saunders et.al.|[2512.00575](http://arxiv.org/abs/2512.00575)|null|
 |**2025-11-29**|**On the EPR paradox in systems with finite number of levels**|Henryk Gzyl et.al.|[2512.00497](http://arxiv.org/abs/2512.00497)|null|
 |**2025-11-28**|**Tailoring Bell inequalities to the qudit toric code and self testing**|Eloïc Vallée et.al.|[2512.00146](http://arxiv.org/abs/2512.00146)|null|
@@ -562,6 +563,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Closing the problem of which causal structures of up to six total nodes have a classical-quantum gap**|Shashaank Khanna et.al.|[2512.04058](http://arxiv.org/abs/2512.04058)|null|
+|**2025-12-03**|**Fully quantum theory of strong-field driven tunable entangled multi-photon states in HHG**|Sebastián de-la-Peña et.al.|[2512.03987](http://arxiv.org/abs/2512.03987)|null|
+|**2025-12-03**|**Performance and efficiency of a transformer-based quark/gluon jet tagger in the ATLAS experiment**|ATLAS Collaboration et.al.|[2512.03949](http://arxiv.org/abs/2512.03949)|null|
+|**2025-12-03**|**A microscopic theory of Anderson localization of electrons in random lattices**|Václav Janiš et.al.|[2512.03917](http://arxiv.org/abs/2512.03917)|null|
+|**2025-12-03**|**Classification of diffusion processes in dimension $d$ via the Carleman approach with applications to models involving additive, multiplicative or square-root noises**|Cecile Monthus et.al.|[2512.03857](http://arxiv.org/abs/2512.03857)|null|
+|**2025-12-03**|**Widefield Quantum Sensor for Vector Magnetic Field Imaging of Micromagnetic Structures**|Orlando D. Cunha et.al.|[2512.03748](http://arxiv.org/abs/2512.03748)|null|
+|**2025-12-03**|**From AdS correlators to Carrollian amplitudes with the scattering equation**|Tim Adamo et.al.|[2512.03677](http://arxiv.org/abs/2512.03677)|null|
+|**2025-12-03**|**Spherical accretion onto higher-dimensional Reissner-Nordström Black Hole**|Bibhash Das et.al.|[2512.03668](http://arxiv.org/abs/2512.03668)|null|
+|**2025-12-03**|**Quantum Hash Function Based on Spectral Properties of Graphs and Discrete Walker Dynamics**|Mohana Priya Thinesh Kumar et.al.|[2512.03581](http://arxiv.org/abs/2512.03581)|null|
+|**2025-12-03**|**Constraint-Preserving High-Order Compact OEDG Method for Spherically Symmetric Einstein-Euler System**|Yuchen Huang et.al.|[2512.03496](http://arxiv.org/abs/2512.03496)|null|
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
 |**2025-12-02**|**Structured Clifford+T Circuits for Efficient Generation of Quantum Chaos**|Asim Sharma et.al.|[2512.02996](http://arxiv.org/abs/2512.02996)|null|
 |**2025-12-02**|**Scalable Quantum Walk-Based Heuristics for the Minimum Vertex Cover Problem**|F. S. Luiz et.al.|[2512.02940](http://arxiv.org/abs/2512.02940)|null|
@@ -823,6 +834,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Permutation Flows I: Triangulations of Flow Polytopes (Research Announcement)**|Rafael S. González D'León et.al.|[2512.04078](http://arxiv.org/abs/2512.04078)|null|
+|**2025-12-03**|**TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees**|Davut Emre Tasar et.al.|[2512.04016](http://arxiv.org/abs/2512.04016)|null|
+|**2025-12-03**|**Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization**|Lianyu Pang et.al.|[2512.03964](http://arxiv.org/abs/2512.03964)|null|
 |**2025-12-02**|**PAC-Bayesian Optimal Control with Stability and Generalization Guarantees**|Mahrokh Ghoddousi Boroujeni et.al.|[2512.02858](http://arxiv.org/abs/2512.02858)|null|
 |**2025-12-02**|**Rational regulation strategies of interstitial localized electrons in electride: A density functional theory study**|L. Zhang et.al.|[2512.02674](http://arxiv.org/abs/2512.02674)|null|
 |**2025-12-02**|**New 1mm thick Silicon Drift Detectors for future researches of Kaonic Atoms and the Pauli Exclusion principle**|F. Clozza et.al.|[2512.02613](http://arxiv.org/abs/2512.02613)|null|
@@ -1069,6 +1083,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Entanglement Detection with Rotationally Covariant Measurements - From Compton Scattering to Lemonade**|Marlene Funck et.al.|[2512.03984](http://arxiv.org/abs/2512.03984)|null|
 |**2025-11-26**|**A Customer Journey in the Land of Oz: Leveraging the Wizard of Oz Technique to Model Emotions in Customer Service Interactions**|Sofie Labat et.al.|[2511.21909](http://arxiv.org/abs/2511.21909)|null|
 |**2025-11-25**|**Landau-level-dependent photonic spin Hall effect in monolayer WTe2**|Qiaoyun Ma et.al.|[2511.20311](http://arxiv.org/abs/2511.20311)|null|
 |**2025-11-25**|**$\mathcal{PT}$ -assisted control of Goos-Hänchen shift in cavity magnomechanics**|Shah Fahad et.al.|[2511.20262](http://arxiv.org/abs/2511.20262)|null|
@@ -1240,6 +1255,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs**|Oren Rachmil et.al.|[2512.03994](http://arxiv.org/abs/2512.03994)|null|
+|**2025-12-03**|**DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment**|Sheng-Hao Liao et.al.|[2512.03981](http://arxiv.org/abs/2512.03981)|null|
+|**2025-12-03**|**Refining Machine Learning Potentials through Thermodynamic Theory of Phase Transitions**|Paul Fuchs et.al.|[2512.03974](http://arxiv.org/abs/2512.03974)|null|
+|**2025-12-03**|**Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization**|Lianyu Pang et.al.|[2512.03964](http://arxiv.org/abs/2512.03964)|null|
+|**2025-12-03**|**MUT3R: Motion-aware Updating Transformer for Dynamic 3D Reconstruction**|Guole Shen et.al.|[2512.03939](http://arxiv.org/abs/2512.03939)|null|
+|**2025-12-03**|**OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference**|Liujianfu Wang et.al.|[2512.03927](http://arxiv.org/abs/2512.03927)|null|
+|**2025-12-03**|**Passive Silicon Nitride On-Chip Polarimetry: Precise Polarization Detection with Imperfect Components**|Christoph Stockinger et.al.|[2512.03920](http://arxiv.org/abs/2512.03920)|null|
+|**2025-12-03**|**A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models**|X. Y. Han et.al.|[2512.03915](http://arxiv.org/abs/2512.03915)|null|
+|**2025-12-03**|**Fractional Holographic Dark Energy Driven Reconstruction of $f(Q)$ Gravity and its Cosmological Implications**|Rajdeep Mazumdar et.al.|[2512.03855](http://arxiv.org/abs/2512.03855)|null|
+|**2025-12-03**|**Density of states of quantum systems from free probability theory: a brief overview**|Keun-Young Kim et.al.|[2512.03850](http://arxiv.org/abs/2512.03850)|null|
 |**2025-12-02**|**Entanglement evolution from entangled multipodal states**|Konstantinos Chalas et.al.|[2512.03032](http://arxiv.org/abs/2512.03032)|null|
 |**2025-12-02**|**DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images**|Xiaoxue Chen et.al.|[2512.03004](http://arxiv.org/abs/2512.03004)|null|
 |**2025-12-02**|**Phase diagram of the one-dimensional three-state Potts model with an additional mean-field interaction**|Alessandro Campa et.al.|[2512.02930](http://arxiv.org/abs/2512.02930)|null|
@@ -1684,6 +1709,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**V-Reactor Dynamics: Dual Chaotic System and Rewriting the Antiviral Response History**|Yong-Shou Chen et.al.|[2512.03655](http://arxiv.org/abs/2512.03655)|null|
+|**2025-12-03**|**Optical feedback induced irregular and chaotic dynamics in terahertz quantum cascade laser combs**|Xiaoqiong Qi et.al.|[2512.03344](http://arxiv.org/abs/2512.03344)|null|
+|**2025-12-03**|**Quench dynamics of the quantum XXZ chain with staggered interactions: Exact results and simulations on digital quantum computers**|Ching-Tai Huang et.al.|[2512.03341](http://arxiv.org/abs/2512.03341)|null|
 |**2025-12-02**|**The discrete wave equation with applications to scattering theory and quantum chaos**|Carsten Peterson et.al.|[2512.03015](http://arxiv.org/abs/2512.03015)|null|
 |**2025-12-02**|**Structured Clifford+T Circuits for Efficient Generation of Quantum Chaos**|Asim Sharma et.al.|[2512.02996](http://arxiv.org/abs/2512.02996)|null|
 |**2025-12-02**|**Stability of quantum chaos against weak non-unitarity**|Yi-Cheng Wang et.al.|[2512.02934](http://arxiv.org/abs/2512.02934)|null|
@@ -2363,6 +2391,13 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-03**|**Instantaneous Sobolev Regularization for Dissipative Bosonic Dynamics**|Pablo Costa Rico et.al.|[2512.04066](http://arxiv.org/abs/2512.04066)|null|
+|**2025-12-03**|**Non-Linear Determinants of Pedestrian Injury Severity: Evidence from Administrative Data in Great Britain**|Yifei Tong et.al.|[2512.04022](http://arxiv.org/abs/2512.04022)|null|
+|**2025-12-03**|**Prostate biopsy whole slide image dataset from an underrepresented Middle Eastern population**|Peshawa J. Muhammad Ali et.al.|[2512.03854](http://arxiv.org/abs/2512.03854)|null|
+|**2025-12-03**|**Magnetic activity on the young Sun: a case study of EK Draconis**|A. Görgei et.al.|[2512.03830](http://arxiv.org/abs/2512.03830)|null|
+|**2025-12-03**|**Energy-Scaled Zero-Noise Extrapolation for Gottesman-Kitaev-Preskill Code**|Gui-Zhong Luo et.al.|[2512.03583](http://arxiv.org/abs/2512.03583)|null|
+|**2025-12-02**|**Enhancing Job Matching: Occupation, Skill and Qualification Linking with the ESCO and EQF taxonomies**|Stylianos Saroglou et.al.|[2512.03195](http://arxiv.org/abs/2512.03195)|null|
+|**2025-12-02**|**Plantain: Plan-Answer Interleaved Reasoning**|Anthony Liang et.al.|[2512.03176](http://arxiv.org/abs/2512.03176)|null|
 |**2025-12-02**|**MagicQuillV2: Precise and Interactive Image Editing with Layered Visual Cues**|Zichen Liu et.al.|[2512.03046](http://arxiv.org/abs/2512.03046)|null|
 |**2025-12-02**|**AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry**|Xiang Xu et.al.|[2512.03018](http://arxiv.org/abs/2512.03018)|null|
 |**2025-12-02**|**On the ellipticity of the higher rank numerical range**|Natália Bebiano et.al.|[2512.02977](http://arxiv.org/abs/2512.02977)|null|

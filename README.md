@@ -563,6 +563,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory**|Yu-Chao Hsu et.al.|[2512.05049](http://arxiv.org/abs/2512.05049)|null|
+|**2025-12-04**|**A Theory of Backgrounds and Background Independence**|Marc Klinger et.al.|[2512.05043](http://arxiv.org/abs/2512.05043)|null|
+|**2025-12-04**|**The Single Differential Cross Sections (SDCS) for H(3s) Ionization in the First-Born Approximation by Electron and Positron Impact**|Fahadul Islam et.al.|[2512.04870](http://arxiv.org/abs/2512.04870)|null|
+|**2025-12-04**|**The next-to-next-to-leading-order QCD corrections to $e^+e^-\to η_c/χ_{cJ}+γ$ at B factories**|Cong Li et.al.|[2512.04758](http://arxiv.org/abs/2512.04758)|null|
+|**2025-12-04**|**TRINITY: An Evolved LLM Coordinator**|Jinglue Xu et.al.|[2512.04695](http://arxiv.org/abs/2512.04695)|null|
+|**2025-12-04**|**Watt-level coherent microwave emission from dissipation engineered solid-state quantum batteries**|Yuanjin Wang et.al.|[2512.04666](http://arxiv.org/abs/2512.04666)|null|
+|**2025-12-04**|**Fermionic neural Gibbs states**|Jannes Nys et.al.|[2512.04663](http://arxiv.org/abs/2512.04663)|null|
+|**2025-12-04**|**Convergence of patterned matrices with random walk entries**|Arup Bose et.al.|[2512.04612](http://arxiv.org/abs/2512.04612)|null|
+|**2025-12-04**|**Cosmological singularity, conformal anomaly and symmetric polynomials**|Sergey N. Solodukhin et.al.|[2512.04591](http://arxiv.org/abs/2512.04591)|null|
+|**2025-12-04**|**Prototype-Based Semantic Consistency Alignment for Domain Adaptive Retrieval**|Tianle Hu et.al.|[2512.04524](http://arxiv.org/abs/2512.04524)|null|
 |**2025-12-03**|**Closing the problem of which causal structures of up to six total nodes have a classical-quantum gap**|Shashaank Khanna et.al.|[2512.04058](http://arxiv.org/abs/2512.04058)|null|
 |**2025-12-03**|**Fully quantum theory of strong-field driven tunable entangled multi-photon states in HHG**|Sebastián de-la-Peña et.al.|[2512.03987](http://arxiv.org/abs/2512.03987)|null|
 |**2025-12-03**|**Performance and efficiency of a transformer-based quark/gluon jet tagger in the ATLAS experiment**|ATLAS Collaboration et.al.|[2512.03949](http://arxiv.org/abs/2512.03949)|null|
@@ -834,6 +844,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding**|Zhou Chen et.al.|[2512.04231](http://arxiv.org/abs/2512.04231)|null|
 |**2025-12-03**|**Permutation Flows I: Triangulations of Flow Polytopes (Research Announcement)**|Rafael S. González D'León et.al.|[2512.04078](http://arxiv.org/abs/2512.04078)|null|
 |**2025-12-03**|**TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees**|Davut Emre Tasar et.al.|[2512.04016](http://arxiv.org/abs/2512.04016)|null|
 |**2025-12-03**|**Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization**|Lianyu Pang et.al.|[2512.03964](http://arxiv.org/abs/2512.03964)|null|
@@ -1083,6 +1094,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Introduction to quantum control: From basic concepts to applications in quantum technologies**|Christiane P. Koch et.al.|[2512.04990](http://arxiv.org/abs/2512.04990)|null|
+|**2025-12-04**|**One Ring to Rule Them All: Constrained Distributional Control for Massive-Scale Heterogeneous Robotic Ensemble Systems**|Andres Arias et.al.|[2512.04502](http://arxiv.org/abs/2512.04502)|null|
 |**2025-12-03**|**Entanglement Detection with Rotationally Covariant Measurements - From Compton Scattering to Lemonade**|Marlene Funck et.al.|[2512.03984](http://arxiv.org/abs/2512.03984)|null|
 |**2025-11-26**|**A Customer Journey in the Land of Oz: Leveraging the Wizard of Oz Technique to Model Emotions in Customer Service Interactions**|Sofie Labat et.al.|[2511.21909](http://arxiv.org/abs/2511.21909)|null|
 |**2025-11-25**|**Landau-level-dependent photonic spin Hall effect in monolayer WTe2**|Qiaoyun Ma et.al.|[2511.20311](http://arxiv.org/abs/2511.20311)|null|
@@ -1255,6 +1268,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Pump Free Microwave-Optical Quantum Transduction**|Fangxin Li et.al.|[2512.05096](http://arxiv.org/abs/2512.05096)|null|
+|**2025-12-04**|**The Magnus expansion in relativistic quantum field theory**|Andreas Brandhuber et.al.|[2512.05017](http://arxiv.org/abs/2512.05017)|null|
+|**2025-12-04**|**Opacity estimation of OO collision from CoMBolt-ITA hybrid**|Seyed Farid Taghavi et.al.|[2512.05009](http://arxiv.org/abs/2512.05009)|null|
+|**2025-12-04**|**A meta-GGA perspective on the altermagnetism of RuO2**|Markus Meinert et.al.|[2512.04995](http://arxiv.org/abs/2512.04995)|null|
+|**2025-12-04**|**Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels**|Guangming Liang et.al.|[2512.04966](http://arxiv.org/abs/2512.04966)|null|
+|**2025-12-04**|**Tuning the Electronic States of Bi2Se3 Films with Large Spin-Orbit Interaction Using Molecular Heterojunctions**|Matthew Rogers et.al.|[2512.04922](http://arxiv.org/abs/2512.04922)|null|
+|**2025-12-04**|**Multi-Agent Reinforcement Learning for Intraday Operating Rooms Scheduling under Uncertainty**|Kailiang Liu et.al.|[2512.04918](http://arxiv.org/abs/2512.04918)|null|
+|**2025-12-04**|**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**|Jiawen Wen et.al.|[2512.04883](http://arxiv.org/abs/2512.04883)|null|
+|**2025-12-04**|**SP-Det: Self-Prompted Dual-Text Fusion for Generalized Multi-Label Lesion Detection**|Qing Xu et.al.|[2512.04875](http://arxiv.org/abs/2512.04875)|null|
+|**2025-12-04**|**Interband and kinetic corrections to the electronic Boltzmann transport equation**|Elena Trukhan et.al.|[2512.04835](http://arxiv.org/abs/2512.04835)|null|
 |**2025-12-03**|**Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs**|Oren Rachmil et.al.|[2512.03994](http://arxiv.org/abs/2512.03994)|null|
 |**2025-12-03**|**DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment**|Sheng-Hao Liao et.al.|[2512.03981](http://arxiv.org/abs/2512.03981)|null|
 |**2025-12-03**|**Refining Machine Learning Potentials through Thermodynamic Theory of Phase Transitions**|Paul Fuchs et.al.|[2512.03974](http://arxiv.org/abs/2512.03974)|null|
@@ -1709,6 +1732,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Extreme-Mass-Ratio Inspirals Embedded in Dark Matter Halo II: Chaotic Imprints in Gravitational Waves**|Surajit Das et.al.|[2512.04848](http://arxiv.org/abs/2512.04848)|null|
+|**2025-12-04**|**Ground state energy and phase transitions of Long-range XXZ using VQE**|Mrinal Dev et.al.|[2512.04615](http://arxiv.org/abs/2512.04615)|null|
+|**2025-12-03**|**Entanglement membrane in the Brownian SYK chain**|Márk Mezei et.al.|[2512.04179](http://arxiv.org/abs/2512.04179)|null|
 |**2025-12-03**|**V-Reactor Dynamics: Dual Chaotic System and Rewriting the Antiviral Response History**|Yong-Shou Chen et.al.|[2512.03655](http://arxiv.org/abs/2512.03655)|null|
 |**2025-12-03**|**Optical feedback induced irregular and chaotic dynamics in terahertz quantum cascade laser combs**|Xiaoqiong Qi et.al.|[2512.03344](http://arxiv.org/abs/2512.03344)|null|
 |**2025-12-03**|**Quench dynamics of the quantum XXZ chain with staggered interactions: Exact results and simulations on digital quantum computers**|Ching-Tai Huang et.al.|[2512.03341](http://arxiv.org/abs/2512.03341)|null|
@@ -2391,6 +2417,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-04**|**Hybrid Quantum-Classical Autoencoders for Unsupervised Network Intrusion Detection**|Mohammad Arif Rasyidi et.al.|[2512.05069](http://arxiv.org/abs/2512.05069)|null|
+|**2025-12-04**|**Communicating Properties of Quantum States over Classical Noisy Channels**|Nikhitha Nunavath et.al.|[2512.04913](http://arxiv.org/abs/2512.04913)|null|
+|**2025-12-04**|**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**|Jiawen Wen et.al.|[2512.04883](http://arxiv.org/abs/2512.04883)|null|
+|**2025-12-04**|**Hybrid VQE-CVQE algorithm using diabatic state preparation**|John P. T. Stenger et.al.|[2512.04801](http://arxiv.org/abs/2512.04801)|null|
+|**2025-12-04**|**Teaching a Transformer to Think Like a Chemist: Predicting Nanocluster Stability**|João Marcos T. Palheta et.al.|[2512.04794](http://arxiv.org/abs/2512.04794)|null|
+|**2025-12-04**|**Relative Wavefront Error Correction Over a 2.4 km Free-Space Optical Link via Machine Learning**|Nathan K. Long et.al.|[2512.04460](http://arxiv.org/abs/2512.04460)|null|
+|**2025-12-04**|**Counting Without Running: Evaluating LLMs' Reasoning About Code Complexity**|Gregory Bolet et.al.|[2512.04355](http://arxiv.org/abs/2512.04355)|null|
+|**2025-12-03**|**Constructing Low-Redundancy Codes via Distributed Graph Coloring**|Yuting Li et.al.|[2512.04197](http://arxiv.org/abs/2512.04197)|null|
+|**2025-12-03**|**Deformed LDPC codes with spontaneously broken non-invertible duality symmetries**|Pranay Gorantla et.al.|[2512.04174](http://arxiv.org/abs/2512.04174)|null|
+|**2025-12-03**|**Minimizing the Number of Code Switching Operations in Fault-Tolerant Quantum Circuits**|Erik Weilandt et.al.|[2512.04170](http://arxiv.org/abs/2512.04170)|null|
 |**2025-12-03**|**Instantaneous Sobolev Regularization for Dissipative Bosonic Dynamics**|Pablo Costa Rico et.al.|[2512.04066](http://arxiv.org/abs/2512.04066)|null|
 |**2025-12-03**|**Non-Linear Determinants of Pedestrian Injury Severity: Evidence from Administrative Data in Great Britain**|Yifei Tong et.al.|[2512.04022](http://arxiv.org/abs/2512.04022)|null|
 |**2025-12-03**|**Prostate biopsy whole slide image dataset from an underrepresented Middle Eastern population**|Peshawa J. Muhammad Ali et.al.|[2512.03854](http://arxiv.org/abs/2512.03854)|null|

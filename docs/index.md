@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.05
+## Updated on 2025.12.06
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2405,6 +2405,7 @@ layout: default
 |**2025-12-04**|**Counting Without Running: Evaluating LLMs' Reasoning About Code Complexity**|Gregory Bolet et.al.|[2512.04355](http://arxiv.org/abs/2512.04355)|null|
 |**2025-12-03**|**Constructing Low-Redundancy Codes via Distributed Graph Coloring**|Yuting Li et.al.|[2512.04197](http://arxiv.org/abs/2512.04197)|null|
 |**2025-12-03**|**Deformed LDPC codes with spontaneously broken non-invertible duality symmetries**|Pranay Gorantla et.al.|[2512.04174](http://arxiv.org/abs/2512.04174)|null|
+|**2025-12-03**|**A Quantum Gate Architecture via Teleportation and Entanglement**|Samuel J. Sheldon et.al.|[2512.04171](http://arxiv.org/abs/2512.04171)|null|
 |**2025-12-03**|**Minimizing the Number of Code Switching Operations in Fault-Tolerant Quantum Circuits**|Erik Weilandt et.al.|[2512.04170](http://arxiv.org/abs/2512.04170)|null|
 |**2025-12-03**|**Instantaneous Sobolev Regularization for Dissipative Bosonic Dynamics**|Pablo Costa Rico et.al.|[2512.04066](http://arxiv.org/abs/2512.04066)|null|
 |**2025-12-03**|**Non-Linear Determinants of Pedestrian Injury Severity: Evidence from Administrative Data in Great Britain**|Yifei Tong et.al.|[2512.04022](http://arxiv.org/abs/2512.04022)|null|

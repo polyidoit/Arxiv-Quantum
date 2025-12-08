@@ -552,6 +552,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Spectroscopy and Coherent Control of Two-Level System Defect Ensembles Using a Broadband 3D Waveguide**|Qianxu Wang et.al.|[2512.05934](http://arxiv.org/abs/2512.05934)|null|
+|**2025-12-05**|**Conformal transformations of metric spaces and Lorentzian pre-length spaces**|Miguel Manzano et.al.|[2512.05842](http://arxiv.org/abs/2512.05842)|null|
+|**2025-12-05**|**Introduction to Quantum Groups and Yang-Baxter Equation For Probabilists**|Jeffrey Kuan et.al.|[2512.05782](http://arxiv.org/abs/2512.05782)|null|
+|**2025-12-05**|**Randomness quantification in spontaneous emission**|Chenxu Li et.al.|[2512.05713](http://arxiv.org/abs/2512.05713)|null|
+|**2025-12-05**|**Quantification of Errors of the Performance Estimators in the Linear-Quantized Precoding Models for Massive MIMO Systems**|Jie Zhang et.al.|[2512.05675](http://arxiv.org/abs/2512.05675)|null|
+|**2025-12-04**|**CoLoRFulNNLO for hadron collisions: regularizing initial-state double real emissions**|Vittorio Del Duca et.al.|[2512.05192](http://arxiv.org/abs/2512.05192)|null|
+|**2025-12-04**|**Investigating a Quantum-Inspired Method for Quantum Dynamics**|Bo Xiao et.al.|[2512.05185](http://arxiv.org/abs/2512.05185)|null|
 |**2025-12-04**|**QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory**|Yu-Chao Hsu et.al.|[2512.05049](http://arxiv.org/abs/2512.05049)|null|
 |**2025-12-04**|**A Theory of Backgrounds and Background Independence**|Marc Klinger et.al.|[2512.05043](http://arxiv.org/abs/2512.05043)|null|
 |**2025-12-04**|**The Single Differential Cross Sections (SDCS) for H(3s) Ionization in the First-Born Approximation by Electron and Positron Impact**|Fahadul Islam et.al.|[2512.04870](http://arxiv.org/abs/2512.04870)|null|
@@ -831,6 +838,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Exclusive Control of Quantum Memory Erasure**|Alimuddin Mir et.al.|[2512.05761](http://arxiv.org/abs/2512.05761)|null|
+|**2025-12-05**|**IMMPC: An Internal Model Based MPC for Rejecting Unknown Disturbances**|Felix Brändle et.al.|[2512.05692](http://arxiv.org/abs/2512.05692)|null|
 |**2025-12-03**|**CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding**|Zhou Chen et.al.|[2512.04231](http://arxiv.org/abs/2512.04231)|null|
 |**2025-12-03**|**Permutation Flows I: Triangulations of Flow Polytopes (Research Announcement)**|Rafael S. González D'León et.al.|[2512.04078](http://arxiv.org/abs/2512.04078)|null|
 |**2025-12-03**|**TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees**|Davut Emre Tasar et.al.|[2512.04016](http://arxiv.org/abs/2512.04016)|null|
@@ -1251,6 +1260,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code**|Shima Imani et.al.|[2512.05954](http://arxiv.org/abs/2512.05954)|null|
+|**2025-12-05**|**Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding**|Zhiyuan Jiang et.al.|[2512.05941](http://arxiv.org/abs/2512.05941)|null|
+|**2025-12-05**|**LPD: Learnable Prototypes with Diversity Regularization for Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[2512.05922](http://arxiv.org/abs/2512.05922)|null|
+|**2025-12-05**|**A Discontinuous Galerkin Consistent Splitting Method for the Incompressible Navier-Stokes Equations**|Dominik Still et.al.|[2512.05919](http://arxiv.org/abs/2512.05919)|null|
+|**2025-12-05**|**Topological spin multipolization and linear magnetoelectric coupling in two-dimensional antiferromagnets**|Jörn W. F. Venderbos et.al.|[2512.05862](http://arxiv.org/abs/2512.05862)|null|
+|**2025-12-05**|**Optimal Safety-Aware Scheduling for Multi-Agent Aerial 3D Printing with Utility Maximization under Dependency Constraints**|Marios-Nektarios Stamatopoulos et.al.|[2512.05815](http://arxiv.org/abs/2512.05815)|null|
+|**2025-12-05**|**3D Path Planning for Robot-assisted Vertebroplasty from Arbitrary Bi-plane X-ray via Differentiable Rendering**|Blanca Inigo et.al.|[2512.05803](http://arxiv.org/abs/2512.05803)|null|
+|**2025-12-05**|**Distributed Online Randomized Gradient-Free Optimization with Compressed Communication**|Longkang Zhu et.al.|[2512.05775](http://arxiv.org/abs/2512.05775)|null|
+|**2025-12-05**|**On the role of nuclear quantum effects on the stability of peptides**|Jing Shen et.al.|[2512.05741](http://arxiv.org/abs/2512.05741)|null|
+|**2025-12-05**|**Bayesian Active Inference for Intelligent UAV Anti-Jamming and Adaptive Trajectory Planning**|Ali Krayani et.al.|[2512.05711](http://arxiv.org/abs/2512.05711)|null|
 |**2025-12-04**|**Pump Free Microwave-Optical Quantum Transduction**|Fangxin Li et.al.|[2512.05096](http://arxiv.org/abs/2512.05096)|null|
 |**2025-12-04**|**The Magnus expansion in relativistic quantum field theory**|Andreas Brandhuber et.al.|[2512.05017](http://arxiv.org/abs/2512.05017)|null|
 |**2025-12-04**|**Opacity estimation of OO collision from CoMBolt-ITA hybrid**|Seyed Farid Taghavi et.al.|[2512.05009](http://arxiv.org/abs/2512.05009)|null|
@@ -1713,6 +1732,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem**|Truong Thanh Hung Nguyen et.al.|[2512.05946](http://arxiv.org/abs/2512.05946)|null|
+|**2025-12-04**|**Non-equilibrium quantum field theory of the free-electron laser in Keldysh formalism**|Loris Di Cairano et.al.|[2512.05266](http://arxiv.org/abs/2512.05266)|null|
+|**2025-12-04**|**The deep Hilbert space of all-to-all interacting SU(3) atoms: from quantum to classical**|Federico Balducci et.al.|[2512.05184](http://arxiv.org/abs/2512.05184)|null|
 |**2025-12-04**|**Extreme-Mass-Ratio Inspirals Embedded in Dark Matter Halo II: Chaotic Imprints in Gravitational Waves**|Surajit Das et.al.|[2512.04848](http://arxiv.org/abs/2512.04848)|null|
 |**2025-12-04**|**Ground state energy and phase transitions of Long-range XXZ using VQE**|Mrinal Dev et.al.|[2512.04615](http://arxiv.org/abs/2512.04615)|null|
 |**2025-12-03**|**Entanglement membrane in the Brownian SYK chain**|Márk Mezei et.al.|[2512.04179](http://arxiv.org/abs/2512.04179)|null|
@@ -2396,6 +2418,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-05**|**NICE: Neural Implicit Craniofacial Model for Orthognathic Surgery Prediction**|Jiawen Yang et.al.|[2512.05920](http://arxiv.org/abs/2512.05920)|null|
+|**2025-12-05**|**Differentially rotating neutron stars with dark matter cores**|Lorenzo Cipriani et.al.|[2512.05898](http://arxiv.org/abs/2512.05898)|null|
+|**2025-12-05**|**Introduction to Quantum Groups and Yang-Baxter Equation For Probabilists**|Jeffrey Kuan et.al.|[2512.05782](http://arxiv.org/abs/2512.05782)|null|
+|**2025-12-05**|**Radar Network Waveform Design for Target Tracking**|Tao Fan et.al.|[2512.05757](http://arxiv.org/abs/2512.05757)|null|
+|**2025-12-05**|**Modeling the effect of MHD activity on runaway electron generation during SPARC disruptions**|R Datta et.al.|[2512.05709](http://arxiv.org/abs/2512.05709)|null|
+|**2025-12-05**|**Exe.py: Ab initio fine structure parameters for trigonal defect qubits within the E $\otimes$ e Jahn-Teller case**|Balazs Toth et.al.|[2512.05704](http://arxiv.org/abs/2512.05704)|null|
+|**2025-12-05**|**Experts-Guided Unbalanced Optimal Transport for ISP Learning from Unpaired and/or Paired Data**|Georgy Perevozchikov et.al.|[2512.05635](http://arxiv.org/abs/2512.05635)|null|
+|**2025-12-05**|**GRASP: Graph Reasoning Agents for Systems Pharmacology with Human-in-the-Loop**|Omid Bazgir et.al.|[2512.05502](http://arxiv.org/abs/2512.05502)|null|
+|**2025-12-05**|**The Glow of Axion Quark Nugget Dark Matter: (IV) CMB Spectral and Anisotropy Signatures**|Fereshteh Majidi et.al.|[2512.05401](http://arxiv.org/abs/2512.05401)|null|
+|**2025-12-04**|**Highly resilient, error-protected quantum gates in a solid-state quantum network node**|E. Poem et.al.|[2512.05322](http://arxiv.org/abs/2512.05322)|null|
 |**2025-12-04**|**Hybrid Quantum-Classical Autoencoders for Unsupervised Network Intrusion Detection**|Mohammad Arif Rasyidi et.al.|[2512.05069](http://arxiv.org/abs/2512.05069)|null|
 |**2025-12-04**|**Communicating Properties of Quantum States over Classical Noisy Channels**|Nikhitha Nunavath et.al.|[2512.04913](http://arxiv.org/abs/2512.04913)|null|
 |**2025-12-04**|**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**|Jiawen Wen et.al.|[2512.04883](http://arxiv.org/abs/2512.04883)|null|

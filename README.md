@@ -725,7 +725,7 @@
 |**2025-10-14**|**A Quantum Generative Framework for Modeling Single-Cell Transcriptomes with Gene-Gene and Cell-Cell Interactions**|Selim Romero et.al.|[2510.12776](http://arxiv.org/abs/2510.12776)|null|
 |**2025-10-08**|**Sequential quantum processes with group symmetries**|Dmitry Grinko et.al.|[2510.07100](http://arxiv.org/abs/2510.07100)|null|
 |**2025-09-29**|**Effective Free Energy Landscapes and Hawking-Page Transitions**|Choon-Lin Ho et.al.|[2509.25039](http://arxiv.org/abs/2509.25039)|null|
-|**2025-09-20**|**Driving the Unruh Response**|Kevin Player et.al.|[2509.16710](http://arxiv.org/abs/2509.16710)|null|
+|**2025-12-06**|**Driving the Unruh Response**|Kevin Player et.al.|[2509.16710](http://arxiv.org/abs/2509.16710)|null|
 |**2025-09-07**|**Unified formalism and adaptive algorithms for optimal quantum state, detector and process tomography**|Shuixin Xiao et.al.|[2509.05988](http://arxiv.org/abs/2509.05988)|null|
 |**2025-09-24**|**Assessing the dynamical assumptions in Tsirelson inequality tests of non-classicality in harmonic oscillators**|Arush Garg et.al.|[2509.03166](http://arxiv.org/abs/2509.03166)|null|
 |**2025-08-31**|**Quantum Causality: Resolving Simpson's Paradox with $\mathcal{DO}$ -Calculus**|Pilsung Kang et.al.|[2509.00744](http://arxiv.org/abs/2509.00744)|null|
@@ -1280,6 +1280,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**Traveling Wave Solutions For A Singular Diffusive Prey-Predator Model With Nonlocal Dispersal**|Jong-Shenq Guo et.al.|[2512.07362](http://arxiv.org/abs/2512.07362)|null|
 |**2025-12-05**|**SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code**|Shima Imani et.al.|[2512.05954](http://arxiv.org/abs/2512.05954)|null|
 |**2025-12-05**|**Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding**|Zhiyuan Jiang et.al.|[2512.05941](http://arxiv.org/abs/2512.05941)|null|
 |**2025-12-05**|**LPD: Learnable Prototypes with Diversity Regularization for Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[2512.05922](http://arxiv.org/abs/2512.05922)|null|
@@ -1758,6 +1759,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-07**|**From Quantum Chaos to Classical Chaos via Gain-Induced Measurement Dynamics in a Photon Gas**|Violetta Sharoglazova et.al.|[2512.07045](http://arxiv.org/abs/2512.07045)|null|
+|**2025-12-07**|**Geometry protected probabilistic structure in many-body dynamics**|Yue Liu et.al.|[2512.06894](http://arxiv.org/abs/2512.06894)|null|
+|**2025-12-05**|**Temporal correlations and chaos from spacetime kernel**|Rathindra Nath Das et.al.|[2512.06078](http://arxiv.org/abs/2512.06078)|null|
 |**2025-12-05**|**Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem**|Truong Thanh Hung Nguyen et.al.|[2512.05946](http://arxiv.org/abs/2512.05946)|null|
 |**2025-12-04**|**Non-equilibrium quantum field theory of the free-electron laser in Keldysh formalism**|Loris Di Cairano et.al.|[2512.05266](http://arxiv.org/abs/2512.05266)|null|
 |**2025-12-04**|**The deep Hilbert space of all-to-all interacting SU(3) atoms: from quantum to classical**|Federico Balducci et.al.|[2512.05184](http://arxiv.org/abs/2512.05184)|null|
@@ -2446,6 +2450,14 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-08**|**Fast-feedback protocols for calibration and drift control in quantum computers**|Alicia B. Magann et.al.|[2512.07815](http://arxiv.org/abs/2512.07815)|null|
+|**2025-12-08**|**LUNA: LUT-Based Neural Architecture for Fast and Low-Cost Qubit Readout**|M. A. Farooq et.al.|[2512.07808](http://arxiv.org/abs/2512.07808)|null|
+|**2025-12-08**|**A scalable and real-time neural decoder for topological quantum codes**|Andrew W. Senior et.al.|[2512.07737](http://arxiv.org/abs/2512.07737)|null|
+|**2025-12-08**|**Dualities of dihedral and generalised quaternion codes and applications to quantum codes**|Miguel Sales-Cabrera et.al.|[2512.07354](http://arxiv.org/abs/2512.07354)|null|
+|**2025-12-08**|**Simulating general noise nearly as cheaply as Pauli noise**|Mark Myers et.al.|[2512.07304](http://arxiv.org/abs/2512.07304)|null|
+|**2025-12-08**|**Improved bounds and optimal constructions of pure quantum locally recoverable codes**|Yang Li et.al.|[2512.07256](http://arxiv.org/abs/2512.07256)|null|
+|**2025-12-08**|**A manufacturable surface code architecture for spin qubits with fast transversal logic**|Jason D. Chadwick et.al.|[2512.07131](http://arxiv.org/abs/2512.07131)|null|
+|**2025-12-06**|**Scheduling Lattice Surgery with Magic State Cultivation**|Steven Hofmeyr et.al.|[2512.06484](http://arxiv.org/abs/2512.06484)|null|
 |**2025-12-05**|**NICE: Neural Implicit Craniofacial Model for Orthognathic Surgery Prediction**|Jiawen Yang et.al.|[2512.05920](http://arxiv.org/abs/2512.05920)|null|
 |**2025-12-05**|**Differentially rotating neutron stars with dark matter cores**|Lorenzo Cipriani et.al.|[2512.05898](http://arxiv.org/abs/2512.05898)|null|
 |**2025-12-05**|**Introduction to Quantum Groups and Yang-Baxter Equation For Probabilists**|Jeffrey Kuan et.al.|[2512.05782](http://arxiv.org/abs/2512.05782)|null|

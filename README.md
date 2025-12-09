@@ -1,4 +1,4 @@
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -557,7 +557,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251209>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -609,6 +609,7 @@
 |**2025-11-30**|**Impact of positrons on electrical conductivity of hot and dense astrophysical plasma**|Tigran Petrosyan et.al.|[2512.01044](http://arxiv.org/abs/2512.01044)|null|
 |**2025-11-30**|**Lattice Boltzmann models for the hydrodynamic equations in multiphase flow with high density ratio**|H. Otomo et.al.|[2512.01027](http://arxiv.org/abs/2512.01027)|null|
 |**2025-11-30**|**Geometric Constraints on Quantum Gravity-Inspired Dispersion Relations**|Gines R. Perez Teruel et.al.|[2512.00933](http://arxiv.org/abs/2512.00933)|null|
+|**2025-11-30**|**Efficient Self-Consistent Quantum Comb Tomography on the Product Stiefel Manifold**|Xinlin He et.al.|[2512.00875](http://arxiv.org/abs/2512.00875)|null|
 |**2025-11-28**|**Arbitrary control of the temporal waveform of photons during spontaneous emission**|Carl Thomas et.al.|[2511.23462](http://arxiv.org/abs/2511.23462)|null|
 |**2025-11-28**|**The Boundary Time Crystal as a light source for quantum enhanced sensing beyond the Heisenberg Limit**|Malik Jirasek et.al.|[2511.23416](http://arxiv.org/abs/2511.23416)|null|
 |**2025-11-28**|**Quantum Private Distributed Matrix Multiplication With Degree Tables**|Mohamed Nomeir et.al.|[2511.23406](http://arxiv.org/abs/2511.23406)|null|
@@ -718,6 +719,7 @@
 |**2025-11-12**|**Microstate counting from defects in de Sitter**|Jan de Boer et.al.|[2511.09624](http://arxiv.org/abs/2511.09624)|null|
 |**2025-11-12**|**Entanglement, Yang-Mills, and the Scattering Matrix as an SU(N)-equivariant Kernel**|Kun-Feng Lyu et.al.|[2511.09623](http://arxiv.org/abs/2511.09623)|null|
 |**2025-11-10**|**Optimal phase estimation in the presence of correlated dephasing**|Srijon Ghosh et.al.|[2511.07211](http://arxiv.org/abs/2511.07211)|null|
+|**2025-11-13**|**Spatial Incompatibility Witnesses for Quantum Temporal Correlations**|Xiangjing Liu et.al.|[2511.01179](http://arxiv.org/abs/2511.01179)|null|
 |**2025-11-05**|**Entanglement-assisted circuit knitting**|Shao-Hua Hu et.al.|[2510.26789](http://arxiv.org/abs/2510.26789)|null|
 |**2025-10-16**|**Quantifiers of Noise Reducibility Under Restricted Control**|Graeme D. Berk et.al.|[2510.14316](http://arxiv.org/abs/2510.14316)|null|
 |**2025-10-14**|**A Quantum Generative Framework for Modeling Single-Cell Transcriptomes with Gene-Gene and Cell-Cell Interactions**|Selim Romero et.al.|[2510.12776](http://arxiv.org/abs/2510.12776)|null|
@@ -725,6 +727,7 @@
 |**2025-09-29**|**Effective Free Energy Landscapes and Hawking-Page Transitions**|Choon-Lin Ho et.al.|[2509.25039](http://arxiv.org/abs/2509.25039)|null|
 |**2025-09-20**|**Driving the Unruh Response**|Kevin Player et.al.|[2509.16710](http://arxiv.org/abs/2509.16710)|null|
 |**2025-09-07**|**Unified formalism and adaptive algorithms for optimal quantum state, detector and process tomography**|Shuixin Xiao et.al.|[2509.05988](http://arxiv.org/abs/2509.05988)|null|
+|**2025-09-24**|**Assessing the dynamical assumptions in Tsirelson inequality tests of non-classicality in harmonic oscillators**|Arush Garg et.al.|[2509.03166](http://arxiv.org/abs/2509.03166)|null|
 |**2025-08-31**|**Quantum Causality: Resolving Simpson's Paradox with $\mathcal{DO}$ -Calculus**|Pilsung Kang et.al.|[2509.00744](http://arxiv.org/abs/2509.00744)|null|
 |**2025-09-15**|**A Superselection Rule for Quantum Causality**|Issam Ibnouhsein et.al.|[2508.17075](http://arxiv.org/abs/2508.17075)|null|
 |**2025-08-21**|**Complex Heat Capacity as a Witness of Spatio-Temporal Entanglement**|Mia Stamatova et.al.|[2508.15728](http://arxiv.org/abs/2508.15728)|null|
@@ -845,7 +848,7 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251209>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -1097,7 +1100,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251209>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1124,7 +1127,7 @@
 |**2025-11-05**|**Learning to shine: Neuroevolution enables optical control of phase transitions**|Sraddha Agrawal et.al.|[2511.03895](http://arxiv.org/abs/2511.03895)|null|
 |**2025-11-03**|**Does the survival and sudden death of quadripartite steering in curved spacetime truly depend on multi-directionality?**|Xiaobao Liu et.al.|[2511.01561](http://arxiv.org/abs/2511.01561)|null|
 |**2025-10-11**|**Monogamy of Gaussian quantum steering and entanglement in a hybrid qubit-cavity optomagnonic system with coherent feedback loop**|Hamza Harraf et.al.|[2510.10334](http://arxiv.org/abs/2510.10334)|null|
-|**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina Jr. et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
+|**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
 |**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
 |**2025-09-19**|**Robust self-testing of quantum steering assemblages via operator inequalities**|Beata Zjawin et.al.|[2509.15699](http://arxiv.org/abs/2509.15699)|null|
 |**2025-11-06**|**Quantum steering and discord in hyperon-antihyperon system in electron-positron annihilation**|Sihao Wu et.al.|[2509.14990](http://arxiv.org/abs/2509.14990)|null|
@@ -1271,7 +1274,7 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251209>back to top</a>)</p>
 
 ## Resource theory
 
@@ -1307,6 +1310,7 @@
 |**2025-12-03**|**A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models**|X. Y. Han et.al.|[2512.03915](http://arxiv.org/abs/2512.03915)|null|
 |**2025-12-03**|**Fractional Holographic Dark Energy Driven Reconstruction of $f(Q)$ Gravity and its Cosmological Implications**|Rajdeep Mazumdar et.al.|[2512.03855](http://arxiv.org/abs/2512.03855)|null|
 |**2025-12-03**|**Density of states of quantum systems from free probability theory: a brief overview**|Keun-Young Kim et.al.|[2512.03850](http://arxiv.org/abs/2512.03850)|null|
+|**2025-12-03**|**FFTrainer: Fast Failover in Large-Language Model Training with Almost-Free State Management**|Bohan Zhao et.al.|[2512.03644](http://arxiv.org/abs/2512.03644)|null|
 |**2025-12-02**|**Entanglement evolution from entangled multipodal states**|Konstantinos Chalas et.al.|[2512.03032](http://arxiv.org/abs/2512.03032)|null|
 |**2025-12-02**|**DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images**|Xiaoxue Chen et.al.|[2512.03004](http://arxiv.org/abs/2512.03004)|null|
 |**2025-12-02**|**Phase diagram of the one-dimensional three-state Potts model with an additional mean-field interaction**|Alessandro Campa et.al.|[2512.02930](http://arxiv.org/abs/2512.02930)|null|
@@ -1337,6 +1341,7 @@
 |**2025-11-28**|**Adaptive Trajectory Bundle Method for Roll-to-Roll Manufacturing Systems**|Jiachen Li et.al.|[2511.22954](http://arxiv.org/abs/2511.22954)|null|
 |**2025-11-28**|**Generation of Ultra-Broadband Frequency Comb in Strongly Bistable Nonlinear Magnonic Resonator**|Yu Jiang et.al.|[2511.22915](http://arxiv.org/abs/2511.22915)|null|
 |**2025-11-28**|**ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance**|Congjia Chen et.al.|[2511.22908](http://arxiv.org/abs/2511.22908)|null|
+|**2025-11-27**|**Quantum resource degradation theory within the framework of observational entropy decomposition**|Xiang Zhou et.al.|[2511.22350](http://arxiv.org/abs/2511.22350)|null|
 |**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
 |**2025-11-26**|**Integrated emitters with CMOS-compatible tuning for large scale quantum SiN photonic circuits**|Jasper De Witte et.al.|[2511.21529](http://arxiv.org/abs/2511.21529)|null|
 |**2025-11-26**|**Antiferromagnetism and Kekulé valence bond order in the honeycomb optical Su-Schrieffer-Heeger-Hubbard model**|Sohan Malkaruge Costa et.al.|[2511.21440](http://arxiv.org/abs/2511.21440)|null|
@@ -1367,6 +1372,7 @@
 |**2025-11-24**|**Constant-Size Certificates for Leader Election in Chordal Graphs and Related Classes**|Jérémie Chalopin et.al.|[2511.19208](http://arxiv.org/abs/2511.19208)|null|
 |**2025-11-24**|**Collaborative Learning with Multiple Foundation Models for Source-Free Domain Adaptation**|Huisoo Lee et.al.|[2511.19147](http://arxiv.org/abs/2511.19147)|null|
 |**2025-11-24**|**3M-TI: High-Quality Mobile Thermal Imaging via Calibration-free Multi-Camera Cross-Modal Diffusion**|Minchong Chen et.al.|[2511.19117](http://arxiv.org/abs/2511.19117)|null|
+|**2025-11-24**|**Depairing critical current density and the vortex-free state in FeSe nanobridges**|Yue Sun et.al.|[2511.19054](http://arxiv.org/abs/2511.19054)|null|
 |**2025-11-21**|**Non-Hermitian impurity problem**|E. T. Kokkinakis et.al.|[2511.17390](http://arxiv.org/abs/2511.17390)|null|
 |**2025-11-21**|**Building 3D superconductor-based Josephson junctions using a via transfer approach**|Cequn Li et.al.|[2511.17386](http://arxiv.org/abs/2511.17386)|null|
 |**2025-11-21**|**A DSMC method for the space homogeneous multispecies Landau equation**|Andrea Medaglia et.al.|[2511.17286](http://arxiv.org/abs/2511.17286)|null|
@@ -1417,6 +1423,7 @@
 |**2025-11-17**|**MedDCR: Learning to Design Agentic Workflows for Medical Coding**|Jiyang Zheng et.al.|[2511.13361](http://arxiv.org/abs/2511.13361)|null|
 |**2025-11-17**|**The free Banach $f$ -algebra generated by a Banach space**|David Muñoz-Lahoz et.al.|[2511.13299](http://arxiv.org/abs/2511.13299)|null|
 |**2025-11-17**|**MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI**|Malek Al Abed et.al.|[2511.13232](http://arxiv.org/abs/2511.13232)|null|
+|**2025-11-14**|**Conflict-Free Flight Scheduling Using Strategic Demand Capacity Balancing for Urban Air Mobility Operations**|Vahid Hemmati et.al.|[2511.11854](http://arxiv.org/abs/2511.11854)|null|
 |**2025-11-14**|**PAS : Prelim Attention Score for Detecting Object Hallucinations in Large Vision--Language Models**|Nhat Hoang-Xuan et.al.|[2511.11502](http://arxiv.org/abs/2511.11502)|null|
 |**2025-11-14**|**ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation**|Kaishen Wang et.al.|[2511.11483](http://arxiv.org/abs/2511.11483)|null|
 |**2025-11-14**|**VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation**|Maximilian Rokuss et.al.|[2511.11450](http://arxiv.org/abs/2511.11450)|null|
@@ -1745,7 +1752,7 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251209>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -2431,7 +2438,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251209>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -2460,6 +2467,7 @@
 |**2025-12-03**|**Deformed LDPC codes with spontaneously broken non-invertible duality symmetries**|Pranay Gorantla et.al.|[2512.04174](http://arxiv.org/abs/2512.04174)|null|
 |**2025-12-03**|**A Quantum Gate Architecture via Teleportation and Entanglement**|Samuel J. Sheldon et.al.|[2512.04171](http://arxiv.org/abs/2512.04171)|null|
 |**2025-12-03**|**Minimizing the Number of Code Switching Operations in Fault-Tolerant Quantum Circuits**|Erik Weilandt et.al.|[2512.04170](http://arxiv.org/abs/2512.04170)|null|
+|**2025-12-03**|**Exploiting Movable Logical Qubits for Lattice Surgery Compilation**|Laura S. Herzog et.al.|[2512.04169](http://arxiv.org/abs/2512.04169)|null|
 |**2025-12-03**|**Instantaneous Sobolev Regularization for Dissipative Bosonic Dynamics**|Pablo Costa Rico et.al.|[2512.04066](http://arxiv.org/abs/2512.04066)|null|
 |**2025-12-03**|**Non-Linear Determinants of Pedestrian Injury Severity: Evidence from Administrative Data in Great Britain**|Yifei Tong et.al.|[2512.04022](http://arxiv.org/abs/2512.04022)|null|
 |**2025-12-03**|**Prostate biopsy whole slide image dataset from an underrepresented Middle Eastern population**|Peshawa J. Muhammad Ali et.al.|[2512.03854](http://arxiv.org/abs/2512.03854)|null|
@@ -4136,5 +4144,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251209>back to top</a>)</p>
 

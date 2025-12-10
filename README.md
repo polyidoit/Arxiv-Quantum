@@ -563,6 +563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**On Dirac-type correlations**|James Fullwood et.al.|[2512.08068](http://arxiv.org/abs/2512.08068)|null|
 |**2025-12-05**|**Spectroscopy and Coherent Control of Two-Level System Defect Ensembles Using a Broadband 3D Waveguide**|Qianxu Wang et.al.|[2512.05934](http://arxiv.org/abs/2512.05934)|null|
 |**2025-12-05**|**Conformal transformations of metric spaces and Lorentzian pre-length spaces**|Miguel Manzano et.al.|[2512.05842](http://arxiv.org/abs/2512.05842)|null|
 |**2025-12-05**|**Introduction to Quantum Groups and Yang-Baxter Equation For Probabilists**|Jeffrey Kuan et.al.|[2512.05782](http://arxiv.org/abs/2512.05782)|null|
@@ -1280,6 +1281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Matrix-free algorithms for fast ab initio calculations on distributed CPU architectures using finite-element discretization**|Phani Motamarri et.al.|[2512.08571](http://arxiv.org/abs/2512.08571)|null|
 |**2025-12-08**|**Traveling Wave Solutions For A Singular Diffusive Prey-Predator Model With Nonlocal Dispersal**|Jong-Shenq Guo et.al.|[2512.07362](http://arxiv.org/abs/2512.07362)|null|
 |**2025-12-05**|**SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code**|Shima Imani et.al.|[2512.05954](http://arxiv.org/abs/2512.05954)|null|
 |**2025-12-05**|**Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding**|Zhiyuan Jiang et.al.|[2512.05941](http://arxiv.org/abs/2512.05941)|null|
@@ -2450,6 +2452,9 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-09**|**SAQ: Stabilizer-Aware Quantum Error Correction Decoder**|David Zenati et.al.|[2512.08914](http://arxiv.org/abs/2512.08914)|null|
+|**2025-12-09**|**Emergent Non-Markovianity in Logical Qubit Dynamics**|Jalan A. Ziyad et.al.|[2512.08893](http://arxiv.org/abs/2512.08893)|null|
+|**2025-12-08**|**Measurement-and Feedback-Driven Non-Equilibrium Phase Transitions on a Quantum Processor**|Zhiyi Wu et.al.|[2512.07966](http://arxiv.org/abs/2512.07966)|null|
 |**2025-12-08**|**Fast-feedback protocols for calibration and drift control in quantum computers**|Alicia B. Magann et.al.|[2512.07815](http://arxiv.org/abs/2512.07815)|null|
 |**2025-12-08**|**LUNA: LUT-Based Neural Architecture for Fast and Low-Cost Qubit Readout**|M. A. Farooq et.al.|[2512.07808](http://arxiv.org/abs/2512.07808)|null|
 |**2025-12-08**|**A scalable and real-time neural decoder for topological quantum codes**|Andrew W. Senior et.al.|[2512.07737](http://arxiv.org/abs/2512.07737)|null|

@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Unfolding quantum entanglement from $h\to ZZ^*\to jj\ell\ell$ at a muon collider**|Songshaptak De et.al.|[2512.09121](http://arxiv.org/abs/2512.09121)|null|
+|**2025-12-09**|**The Richness of Bell Nonlocality: Generalized Bell Polygamy and Hyper-Polygamy**|Gerard Anglès Munné et.al.|[2512.09034](http://arxiv.org/abs/2512.09034)|null|
 |**2025-12-03**|**TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees**|Davut Emre Tasar et.al.|[2512.04016](http://arxiv.org/abs/2512.04016)|null|
 |**2025-12-02**|**Systematic construction of ROCN Bell-inequalities**|Arturo Konderak et.al.|[2512.02957](http://arxiv.org/abs/2512.02957)|null|
 |**2025-12-01**|**Quantum-Classical Separation in Bounded-Resource Tasks Arising from Measurement Contextuality**|Shashwat Kumar et.al.|[2512.02284](http://arxiv.org/abs/2512.02284)|null|
@@ -552,6 +554,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Quantumness certification via non-demolition measurements**|Paolo Solinas et.al.|[2512.09734](http://arxiv.org/abs/2512.09734)|null|
 |**2025-12-08**|**On Dirac-type correlations**|James Fullwood et.al.|[2512.08068](http://arxiv.org/abs/2512.08068)|null|
 |**2025-12-05**|**Spectroscopy and Coherent Control of Two-Level System Defect Ensembles Using a Broadband 3D Waveguide**|Qianxu Wang et.al.|[2512.05934](http://arxiv.org/abs/2512.05934)|null|
 |**2025-12-05**|**Conformal transformations of metric spaces and Lorentzian pre-length spaces**|Miguel Manzano et.al.|[2512.05842](http://arxiv.org/abs/2512.05842)|null|
@@ -842,6 +845,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Machine Learning Optimization of BEGe Detector Event Selection in the VIP Experiment**|Simone Manti et.al.|[2512.09777](http://arxiv.org/abs/2512.09777)|null|
 |**2025-12-05**|**Exclusive Control of Quantum Memory Erasure**|Alimuddin Mir et.al.|[2512.05761](http://arxiv.org/abs/2512.05761)|null|
 |**2025-12-05**|**IMMPC: An Internal Model Based MPC for Rejecting Unknown Disturbances**|Felix Brändle et.al.|[2512.05692](http://arxiv.org/abs/2512.05692)|null|
 |**2025-12-03**|**CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding**|Zhou Chen et.al.|[2512.04231](http://arxiv.org/abs/2512.04231)|null|
@@ -1264,7 +1268,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-09**|**Matrix-free algorithms for fast ab initio calculations on distributed CPU architectures using finite-element discretization**|Phani Motamarri et.al.|[2512.08571](http://arxiv.org/abs/2512.08571)|null|
+|**2025-12-10**|**Matrix-free algorithms for fast ab initio calculations on distributed CPU architectures using finite-element discretization**|Gourab Panigrahi et.al.|[2512.08571](http://arxiv.org/abs/2512.08571)|null|
 |**2025-12-08**|**Traveling Wave Solutions For A Singular Diffusive Prey-Predator Model With Nonlocal Dispersal**|Jong-Shenq Guo et.al.|[2512.07362](http://arxiv.org/abs/2512.07362)|null|
 |**2025-12-05**|**SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code**|Shima Imani et.al.|[2512.05954](http://arxiv.org/abs/2512.05954)|null|
 |**2025-12-05**|**Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding**|Zhiyuan Jiang et.al.|[2512.05941](http://arxiv.org/abs/2512.05941)|null|
@@ -1327,7 +1331,7 @@ layout: default
 |**2025-11-28**|**Adaptive Trajectory Bundle Method for Roll-to-Roll Manufacturing Systems**|Jiachen Li et.al.|[2511.22954](http://arxiv.org/abs/2511.22954)|null|
 |**2025-11-28**|**Generation of Ultra-Broadband Frequency Comb in Strongly Bistable Nonlinear Magnonic Resonator**|Yu Jiang et.al.|[2511.22915](http://arxiv.org/abs/2511.22915)|null|
 |**2025-11-28**|**ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance**|Congjia Chen et.al.|[2511.22908](http://arxiv.org/abs/2511.22908)|null|
-|**2025-11-27**|**Quantum resource degradation theory within the framework of observational entropy decomposition**|Xiang Zhou et.al.|[2511.22350](http://arxiv.org/abs/2511.22350)|null|
+|**2025-12-10**|**Quantum resource degradation theory within the framework of observational entropy decomposition**|Xiang Zhou et.al.|[2511.22350](http://arxiv.org/abs/2511.22350)|null|
 |**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
 |**2025-11-26**|**Integrated emitters with CMOS-compatible tuning for large scale quantum SiN photonic circuits**|Jasper De Witte et.al.|[2511.21529](http://arxiv.org/abs/2511.21529)|null|
 |**2025-11-26**|**Antiferromagnetism and Kekulé valence bond order in the honeycomb optical Su-Schrieffer-Heeger-Hubbard model**|Sohan Malkaruge Costa et.al.|[2511.21440](http://arxiv.org/abs/2511.21440)|null|
@@ -2431,6 +2435,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-10**|**Error Mitigation of Fault-Tolerant Quantum Circuits with Soft Information**|Zeyuan Zhou et.al.|[2512.09863](http://arxiv.org/abs/2512.09863)|null|
+|**2025-12-10**|**Pinball: A Cryogenic Predecoder for Quantum Error Correction Decoding Under Circuit-Level Noise**|Alexander Knapen et.al.|[2512.09807](http://arxiv.org/abs/2512.09807)|null|
+|**2025-12-10**|**Quantum error correction via purification using a single auxiliary**|Chandrima B. Pushpan et.al.|[2512.09745](http://arxiv.org/abs/2512.09745)|null|
+|**2025-12-09**|**Exact and Efficient Stabilizer Simulation of Thermal-Relaxation Noise for Quantum Error Correction**|Sean R. Garner et.al.|[2512.09189](http://arxiv.org/abs/2512.09189)|null|
 |**2025-12-09**|**SAQ: Stabilizer-Aware Quantum Error Correction Decoder**|David Zenati et.al.|[2512.08914](http://arxiv.org/abs/2512.08914)|null|
 |**2025-12-09**|**Emergent Non-Markovianity in Logical Qubit Dynamics**|Jalan A. Ziyad et.al.|[2512.08893](http://arxiv.org/abs/2512.08893)|null|
 |**2025-12-08**|**Measurement-and Feedback-Driven Non-Equilibrium Phase Transitions on a Quantum Processor**|Zhiyi Wu et.al.|[2512.07966](http://arxiv.org/abs/2512.07966)|null|

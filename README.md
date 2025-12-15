@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Bell, Spinors, and the Impossibility of a Classical Spin-Vector Model**|G. A. Koroteev et.al.|[2512.11476](http://arxiv.org/abs/2512.11476)|null|
 |**2025-12-11**|**Loophole-free Bell-inequality violation between atomic states in cavity-QED systems mediated by hybrid atom-light entanglement**|Pei-Zhe Li et.al.|[2512.10378](http://arxiv.org/abs/2512.10378)|null|
 |**2025-12-10**|**Quantumness via Discrete Structures**|Ravi Kunjwal et.al.|[2512.10063](http://arxiv.org/abs/2512.10063)|null|
 |**2025-12-09**|**Unfolding quantum entanglement from $h\to ZZ^*\to jj\ell\ell$ at a muon collider**|Songshaptak De et.al.|[2512.09121](http://arxiv.org/abs/2512.09121)|null|
@@ -860,6 +861,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**Information-Theoretic and Operational Measures of Quantum Contextuality**|Ali Can Günhan et.al.|[2512.11049](http://arxiv.org/abs/2512.11049)|null|
 |**2025-12-10**|**Machine Learning Optimization of BEGe Detector Event Selection in the VIP Experiment**|Simone Manti et.al.|[2512.09777](http://arxiv.org/abs/2512.09777)|null|
 |**2025-12-05**|**Exclusive Control of Quantum Memory Erasure**|Alimuddin Mir et.al.|[2512.05761](http://arxiv.org/abs/2512.05761)|null|
 |**2025-12-05**|**IMMPC: An Internal Model Based MPC for Rejecting Unknown Disturbances**|Felix Brändle et.al.|[2512.05692](http://arxiv.org/abs/2512.05692)|null|
@@ -1769,6 +1771,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Theory of Out-of-Time-Ordered Transport**|Ruchira Mishra et.al.|[2512.11198](http://arxiv.org/abs/2512.11198)|null|
+|**2025-12-11**|**Choi echo: dynamical irreversibility and local decoherence in quantum many-body chaos**|Jose Alfredo de Leon et.al.|[2512.11030](http://arxiv.org/abs/2512.11030)|null|
 |**2025-12-07**|**From Quantum Chaos to Classical Chaos via Gain-Induced Measurement Dynamics in a Photon Gas**|Violetta Sharoglazova et.al.|[2512.07045](http://arxiv.org/abs/2512.07045)|null|
 |**2025-12-07**|**Geometry protected probabilistic structure in many-body dynamics**|Yue Liu et.al.|[2512.06894](http://arxiv.org/abs/2512.06894)|null|
 |**2025-12-05**|**Temporal correlations and chaos from spacetime kernel**|Rathindra Nath Das et.al.|[2512.06078](http://arxiv.org/abs/2512.06078)|null|
@@ -2460,11 +2464,12 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-12**|**QGEC : Quantum Golay Code Error Correction**|Hideo Mukai et.al.|[2512.11307](http://arxiv.org/abs/2512.11307)|null|
 |**2025-12-11**|**Optimized Measurement Schedules for the Surface Code with Dropout**|Benjamin Anker et.al.|[2512.10871](http://arxiv.org/abs/2512.10871)|null|
 |**2025-12-11**|**Ising on the donut: Regimes of topological quantum error correction from statistical mechanics**|Lucas H. English et.al.|[2512.10399](http://arxiv.org/abs/2512.10399)|null|
 |**2025-12-11**|**Improved Small Set Expansion in High Dimensional Expanders**|Tali Kaufman et.al.|[2512.10385](http://arxiv.org/abs/2512.10385)|null|
 |**2025-12-10**|**Error Mitigation of Fault-Tolerant Quantum Circuits with Soft Information**|Zeyuan Zhou et.al.|[2512.09863](http://arxiv.org/abs/2512.09863)|null|
-|**2025-12-10**|**Pinball: A Cryogenic Predecoder for Quantum Error Correction Decoding Under Circuit-Level Noise**|Alexander Knapen et.al.|[2512.09807](http://arxiv.org/abs/2512.09807)|null|
+|**2025-12-12**|**Pinball: A Cryogenic Predecoder for Surface Code Decoding Under Circuit-Level Noise**|Alexander Knapen et.al.|[2512.09807](http://arxiv.org/abs/2512.09807)|null|
 |**2025-12-10**|**Quantum error correction via purification using a single auxiliary**|Chandrima B. Pushpan et.al.|[2512.09745](http://arxiv.org/abs/2512.09745)|null|
 |**2025-12-09**|**Exact and Efficient Stabilizer Simulation of Thermal-Relaxation Noise for Quantum Error Correction**|Sean R. Garner et.al.|[2512.09189](http://arxiv.org/abs/2512.09189)|null|
 |**2025-12-09**|**SAQ: Stabilizer-Aware Quantum Error Correction Decoder**|David Zenati et.al.|[2512.08914](http://arxiv.org/abs/2512.08914)|null|

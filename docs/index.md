@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Quantum Correlations and Gravity: From the Emergence of a Cosmological Constant to the Gravitation of Particles in Superposition**|Johas Morales et.al.|[2512.13531](http://arxiv.org/abs/2512.13531)|null|
+|**2025-12-15**|**Achievable Trade-Off in Network Nonlocality Sharing**|Ming-Xiao Li et.al.|[2512.13357](http://arxiv.org/abs/2512.13357)|null|
 |**2025-12-12**|**Bell, Spinors, and the Impossibility of a Classical Spin-Vector Model**|G. A. Koroteev et.al.|[2512.11476](http://arxiv.org/abs/2512.11476)|null|
 |**2025-12-11**|**Loophole-free Bell-inequality violation between atomic states in cavity-QED systems mediated by hybrid atom-light entanglement**|Pei-Zhe Li et.al.|[2512.10378](http://arxiv.org/abs/2512.10378)|null|
 |**2025-12-10**|**Quantumness via Discrete Structures**|Ravi Kunjwal et.al.|[2512.10063](http://arxiv.org/abs/2512.10063)|null|
@@ -848,6 +850,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-14**|**Fortuity and relevant deformation**|Jaehyeok Choi et.al.|[2512.12674](http://arxiv.org/abs/2512.12674)|null|
 |**2025-12-11**|**Information-Theoretic and Operational Measures of Quantum Contextuality**|Ali Can Günhan et.al.|[2512.11049](http://arxiv.org/abs/2512.11049)|null|
 |**2025-12-10**|**Machine Learning Optimization of BEGe Detector Event Selection in the VIP Experiment**|Simone Manti et.al.|[2512.09777](http://arxiv.org/abs/2512.09777)|null|
 |**2025-12-05**|**Exclusive Control of Quantum Memory Erasure**|Alimuddin Mir et.al.|[2512.05761](http://arxiv.org/abs/2512.05761)|null|
@@ -862,7 +865,7 @@ layout: default
 |**2025-12-02**|**Quantum-Based Self-Attention Mechanism for Hardware-Aware Differentiable Quantum Architecture Search**|Yuxiang Liu et.al.|[2512.02476](http://arxiv.org/abs/2512.02476)|null|
 |**2025-12-01**|**Quantum-Classical Separation in Bounded-Resource Tasks Arising from Measurement Contextuality**|Shashwat Kumar et.al.|[2512.02284](http://arxiv.org/abs/2512.02284)|null|
 |**2025-12-01**|**Analysis of $H \to J/ψ+γ$ up to Next-to-Next-to-Leading Order QCD Corrections**|Wen-Yuan Li et.al.|[2512.01211](http://arxiv.org/abs/2512.01211)|null|
-|**2025-11-30**|**Braided QM and Majorana qubits at third root of unity: a color Heisenberg-Lie (super)algebra framework**|Zhanna Kuznetsova et.al.|[2512.00809](http://arxiv.org/abs/2512.00809)|null|
+|**2025-12-13**|**Braided QM and Majorana qubits at third root of unity: a color Heisenberg-Lie (super)algebra framework**|Zhanna Kuznetsova et.al.|[2512.00809](http://arxiv.org/abs/2512.00809)|null|
 |**2025-11-30**|**Weighted Projective Line ZX Calculus: Quantized Orbifold Geometry for Quantum Compilation**|Gunhee Cho et.al.|[2512.00682](http://arxiv.org/abs/2512.00682)|null|
 |**2025-11-29**|**The Linear Slicing Method for Equal Sums of Like Powers: Modular and Geometric Constraints**|Valery Asiryan et.al.|[2512.00551](http://arxiv.org/abs/2512.00551)|null|
 |**2025-11-29**|**On coshuffle comultiplication on configuration spaces**|Byung Hee An et.al.|[2512.00477](http://arxiv.org/abs/2512.00477)|null|
@@ -1337,7 +1340,7 @@ layout: default
 |**2025-11-28**|**Adaptive Trajectory Bundle Method for Roll-to-Roll Manufacturing Systems**|Jiachen Li et.al.|[2511.22954](http://arxiv.org/abs/2511.22954)|null|
 |**2025-11-28**|**Generation of Ultra-Broadband Frequency Comb in Strongly Bistable Nonlinear Magnonic Resonator**|Yu Jiang et.al.|[2511.22915](http://arxiv.org/abs/2511.22915)|null|
 |**2025-11-28**|**ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance**|Congjia Chen et.al.|[2511.22908](http://arxiv.org/abs/2511.22908)|null|
-|**2025-12-10**|**Quantum resource degradation theory within the framework of observational entropy decomposition**|Xiang Zhou et.al.|[2511.22350](http://arxiv.org/abs/2511.22350)|null|
+|**2025-12-15**|**Quantum resource degradation theory within the framework of observational entropy decomposition**|Xiang Zhou et.al.|[2511.22350](http://arxiv.org/abs/2511.22350)|null|
 |**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
 |**2025-11-26**|**Integrated emitters with CMOS-compatible tuning for large scale quantum SiN photonic circuits**|Jasper De Witte et.al.|[2511.21529](http://arxiv.org/abs/2511.21529)|null|
 |**2025-11-26**|**Antiferromagnetism and Kekulé valence bond order in the honeycomb optical Su-Schrieffer-Heeger-Hubbard model**|Sohan Malkaruge Costa et.al.|[2511.21440](http://arxiv.org/abs/2511.21440)|null|
@@ -1752,6 +1755,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Quantum Chaos as an Essential Resource for Full Quantum State Controllability**|Lukas Beringer et.al.|[2512.13384](http://arxiv.org/abs/2512.13384)|null|
 |**2025-12-12**|**Theory of Out-of-Time-Ordered Transport**|Ruchira Mishra et.al.|[2512.11198](http://arxiv.org/abs/2512.11198)|null|
 |**2025-12-11**|**Choi echo: dynamical irreversibility and local decoherence in quantum many-body chaos**|Jose Alfredo de Leon et.al.|[2512.11030](http://arxiv.org/abs/2512.11030)|null|
 |**2025-12-07**|**From Quantum Chaos to Classical Chaos via Gain-Induced Measurement Dynamics in a Photon Gas**|Violetta Sharoglazova et.al.|[2512.07045](http://arxiv.org/abs/2512.07045)|null|
@@ -2443,6 +2447,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-15**|**Decoding 3D color codes with boundaries**|Friederike Butt et.al.|[2512.13436](http://arxiv.org/abs/2512.13436)|null|
+|**2025-12-15**|**Machine learning discovers new champion codes**|Yang-Hui He et.al.|[2512.13370](http://arxiv.org/abs/2512.13370)|null|
+|**2025-12-15**|**Fault-tolerant multi-qubit gates in Parity Codes**|Anette Messinger et.al.|[2512.13335](http://arxiv.org/abs/2512.13335)|null|
 |**2025-12-12**|**QGEC : Quantum Golay Code Error Correction**|Hideo Mukai et.al.|[2512.11307](http://arxiv.org/abs/2512.11307)|null|
 |**2025-12-11**|**Optimized Measurement Schedules for the Surface Code with Dropout**|Benjamin Anker et.al.|[2512.10871](http://arxiv.org/abs/2512.10871)|null|
 |**2025-12-11**|**Ising on the donut: Regimes of topological quantum error correction from statistical mechanics**|Lucas H. English et.al.|[2512.10399](http://arxiv.org/abs/2512.10399)|null|

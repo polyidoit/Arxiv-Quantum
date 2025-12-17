@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Nonlocal contributions to ergotropy: A thermodynamic perspective**|B. Vigneshwar et.al.|[2512.14497](http://arxiv.org/abs/2512.14497)|null|
+|**2025-12-16**|**QBism, Polishing Some Points**|Christopher A. Fuchs et.al.|[2512.14122](http://arxiv.org/abs/2512.14122)|null|
 |**2025-12-15**|**Quantum Correlations and Gravity: From the Emergence of a Cosmological Constant to the Gravitation of Particles in Superposition**|Johas Morales et.al.|[2512.13531](http://arxiv.org/abs/2512.13531)|null|
 |**2025-12-15**|**Achievable Trade-Off in Network Nonlocality Sharing**|Ming-Xiao Li et.al.|[2512.13357](http://arxiv.org/abs/2512.13357)|null|
 |**2025-12-12**|**Bell, Spinors, and the Impossibility of a Classical Spin-Vector Model**|G. A. Koroteev et.al.|[2512.11476](http://arxiv.org/abs/2512.11476)|null|
@@ -1357,7 +1359,7 @@
 |**2025-11-28**|**Adaptive Trajectory Bundle Method for Roll-to-Roll Manufacturing Systems**|Jiachen Li et.al.|[2511.22954](http://arxiv.org/abs/2511.22954)|null|
 |**2025-11-28**|**Generation of Ultra-Broadband Frequency Comb in Strongly Bistable Nonlinear Magnonic Resonator**|Yu Jiang et.al.|[2511.22915](http://arxiv.org/abs/2511.22915)|null|
 |**2025-11-28**|**ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance**|Congjia Chen et.al.|[2511.22908](http://arxiv.org/abs/2511.22908)|null|
-|**2025-12-15**|**Quantum resource degradation theory within the framework of observational entropy decomposition**|Xiang Zhou et.al.|[2511.22350](http://arxiv.org/abs/2511.22350)|null|
+|**2025-12-16**|**Quantum resource degradation theory within the framework of observational entropy decomposition**|Xiang Zhou et.al.|[2511.22350](http://arxiv.org/abs/2511.22350)|null|
 |**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
 |**2025-11-26**|**Integrated emitters with CMOS-compatible tuning for large scale quantum SiN photonic circuits**|Jasper De Witte et.al.|[2511.21529](http://arxiv.org/abs/2511.21529)|null|
 |**2025-11-26**|**Antiferromagnetism and Kekulé valence bond order in the honeycomb optical Su-Schrieffer-Heeger-Hubbard model**|Sohan Malkaruge Costa et.al.|[2511.21440](http://arxiv.org/abs/2511.21440)|null|
@@ -1774,7 +1776,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-15**|**Quantum Chaos as an Essential Resource for Full Quantum State Controllability**|Lukas Beringer et.al.|[2512.13384](http://arxiv.org/abs/2512.13384)|null|
+|**2025-12-16**|**Integrability Breaking and Coherent Dynamics in Hermitian and Non-Hermitian Spin Chains with Long-Range Coupling**|Y. S. Liu et.al.|[2512.14065](http://arxiv.org/abs/2512.14065)|null|
+|**2025-12-15**|**Quantum simulation using Trotterized disorder Hamiltonians in a single-mode optical cavity**|Rahel Lea Baumgartner et.al.|[2512.13774](http://arxiv.org/abs/2512.13774)|null|
+|**2025-12-16**|**Quantum Chaos as an Essential Resource for Full Quantum State Controllability**|Lukas Beringer et.al.|[2512.13384](http://arxiv.org/abs/2512.13384)|null|
 |**2025-12-12**|**Theory of Out-of-Time-Ordered Transport**|Ruchira Mishra et.al.|[2512.11198](http://arxiv.org/abs/2512.11198)|null|
 |**2025-12-11**|**Choi echo: dynamical irreversibility and local decoherence in quantum many-body chaos**|Jose Alfredo de Leon et.al.|[2512.11030](http://arxiv.org/abs/2512.11030)|null|
 |**2025-12-07**|**From Quantum Chaos to Classical Chaos via Gain-Induced Measurement Dynamics in a Photon Gas**|Violetta Sharoglazova et.al.|[2512.07045](http://arxiv.org/abs/2512.07045)|null|
@@ -2468,6 +2472,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-16**|**Physics-Informed Neural Networks with Adaptive Constraints for Multi-Qubit Quantum Tomography**|Changchun Feng et.al.|[2512.14543](http://arxiv.org/abs/2512.14543)|null|
+|**2025-12-16**|**Information-efficient decoding of surface codes**|Long D. H. My et.al.|[2512.14255](http://arxiv.org/abs/2512.14255)|null|
+|**2025-12-15**|**Magic state cultivation on a superconducting quantum processor**|Emma Rosenfeld et.al.|[2512.13908](http://arxiv.org/abs/2512.13908)|null|
+|**2025-12-15**|**Quantum Anticodes**|ChunJun Cao et.al.|[2512.13891](http://arxiv.org/abs/2512.13891)|null|
+|**2025-12-15**|**Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes**|Alison Warman et.al.|[2512.13777](http://arxiv.org/abs/2512.13777)|null|
 |**2025-12-15**|**Decoding 3D color codes with boundaries**|Friederike Butt et.al.|[2512.13436](http://arxiv.org/abs/2512.13436)|null|
 |**2025-12-15**|**Machine learning discovers new champion codes**|Yang-Hui He et.al.|[2512.13370](http://arxiv.org/abs/2512.13370)|null|
 |**2025-12-15**|**Fault-tolerant multi-qubit gates in Parity Codes**|Anette Messinger et.al.|[2512.13335](http://arxiv.org/abs/2512.13335)|null|

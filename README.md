@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**All Entangled States are Nonlocal and Self-Testable in the Broadcast Scenario**|Pavel Sekatski et.al.|[2512.15656](http://arxiv.org/abs/2512.15656)|null|
 |**2025-12-16**|**Nonlocal contributions to ergotropy: A thermodynamic perspective**|B. Vigneshwar et.al.|[2512.14497](http://arxiv.org/abs/2512.14497)|null|
 |**2025-12-16**|**QBism, Polishing Some Points**|Christopher A. Fuchs et.al.|[2512.14122](http://arxiv.org/abs/2512.14122)|null|
 |**2025-12-15**|**Quantum Correlations and Gravity: From the Emergence of a Cosmological Constant to the Gravitation of Particles in Superposition**|Johas Morales et.al.|[2512.13531](http://arxiv.org/abs/2512.13531)|null|
@@ -866,8 +867,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-12-14**|**Fortuity and relevant deformation**|Jaehyeok Choi et.al.|[2512.12674](http://arxiv.org/abs/2512.12674)|null|
-|**2025-12-11**|**Information-Theoretic and Operational Measures of Quantum Contextuality**|Ali Can Günhan et.al.|[2512.11049](http://arxiv.org/abs/2512.11049)|null|
-|**2025-12-10**|**Machine Learning Optimization of BEGe Detector Event Selection in the VIP Experiment**|Simone Manti et.al.|[2512.09777](http://arxiv.org/abs/2512.09777)|null|
+|**2025-12-17**|**Information-Theoretic and Operational Measures of Quantum Contextuality**|Ali Can Günhan et.al.|[2512.11049](http://arxiv.org/abs/2512.11049)|null|
+|**2025-12-17**|**Machine Learning Optimization of BEGe Detector Event Selection in the VIP Experiment**|Simone Manti et.al.|[2512.09777](http://arxiv.org/abs/2512.09777)|null|
 |**2025-12-05**|**Exclusive Control of Quantum Memory Erasure**|Alimuddin Mir et.al.|[2512.05761](http://arxiv.org/abs/2512.05761)|null|
 |**2025-12-05**|**IMMPC: An Internal Model Based MPC for Rejecting Unknown Disturbances**|Felix Brändle et.al.|[2512.05692](http://arxiv.org/abs/2512.05692)|null|
 |**2025-12-03**|**CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding**|Zhou Chen et.al.|[2512.04231](http://arxiv.org/abs/2512.04231)|null|
@@ -1294,6 +1295,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Growth and spreading of quantum resources under random circuit dynamics**|Sreemayee Aditya et.al.|[2512.14827](http://arxiv.org/abs/2512.14827)|null|
 |**2025-12-11**|**Collision-Aware Density-Driven Control of Multi-Agent Systems via Control Barrier Functions**|Sungjun Seo et.al.|[2512.10392](http://arxiv.org/abs/2512.10392)|null|
 |**2025-12-10**|**Deep Thermalization and Measurements of Quantum Resources**|Naga Dileep Varikuti et.al.|[2512.09999](http://arxiv.org/abs/2512.09999)|null|
 |**2025-12-10**|**Matrix-free algorithms for fast ab initio calculations on distributed CPU architectures using finite-element discretization**|Gourab Panigrahi et.al.|[2512.08571](http://arxiv.org/abs/2512.08571)|null|
@@ -1776,6 +1778,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Dynamical Scarring from Scrambling in Two Dimensional Topological Materials**|Dominik Szpara et.al.|[2512.15417](http://arxiv.org/abs/2512.15417)|null|
 |**2025-12-16**|**Integrability Breaking and Coherent Dynamics in Hermitian and Non-Hermitian Spin Chains with Long-Range Coupling**|Y. S. Liu et.al.|[2512.14065](http://arxiv.org/abs/2512.14065)|null|
 |**2025-12-15**|**Quantum simulation using Trotterized disorder Hamiltonians in a single-mode optical cavity**|Rahel Lea Baumgartner et.al.|[2512.13774](http://arxiv.org/abs/2512.13774)|null|
 |**2025-12-16**|**Quantum Chaos as an Essential Resource for Full Quantum State Controllability**|Lukas Beringer et.al.|[2512.13384](http://arxiv.org/abs/2512.13384)|null|
@@ -2472,6 +2475,9 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-17**|**Error mitigation for logical circuits using decoder confidence**|Maria Dincă et.al.|[2512.15689](http://arxiv.org/abs/2512.15689)|null|
+|**2025-12-17**|**Bosonic quantum computing with near-term devices and beyond**|Timo Hillmann et.al.|[2512.15063](http://arxiv.org/abs/2512.15063)|null|
+|**2025-12-15**|**Quantum Resource Analysis of Low-Round Keccak/SHA-3 Preimage Attack: From Classical 2^57.8 to Quantum 2^28.9 using Qiskit Modeling**|Ramin Rezvani Gilkolae et.al.|[2512.14759](http://arxiv.org/abs/2512.14759)|null|
 |**2025-12-16**|**Physics-Informed Neural Networks with Adaptive Constraints for Multi-Qubit Quantum Tomography**|Changchun Feng et.al.|[2512.14543](http://arxiv.org/abs/2512.14543)|null|
 |**2025-12-16**|**Information-efficient decoding of surface codes**|Long D. H. My et.al.|[2512.14255](http://arxiv.org/abs/2512.14255)|null|
 |**2025-12-15**|**Magic state cultivation on a superconducting quantum processor**|Emma Rosenfeld et.al.|[2512.13908](http://arxiv.org/abs/2512.13908)|null|

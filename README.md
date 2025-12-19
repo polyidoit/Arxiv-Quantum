@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**On the Dynamics of Local Hidden-Variable Models**|Nick von Selzam et.al.|[2512.16682](http://arxiv.org/abs/2512.16682)|null|
+|**2025-12-18**|**Self-testing GHZ state via a Hardy-type paradox**|Smritikana Patra et.al.|[2512.16242](http://arxiv.org/abs/2512.16242)|null|
+|**2025-12-17**|**Entangled two-proton emission from 16Ne and its sensitivity to diproton correlation**|Tomohiro Oishi et.al.|[2512.15879](http://arxiv.org/abs/2512.15879)|null|
 |**2025-12-17**|**All Entangled States are Nonlocal and Self-Testable in the Broadcast Scenario**|Pavel Sekatski et.al.|[2512.15656](http://arxiv.org/abs/2512.15656)|null|
 |**2025-12-16**|**Nonlocal contributions to ergotropy: A thermodynamic perspective**|B. Vigneshwar et.al.|[2512.14497](http://arxiv.org/abs/2512.14497)|null|
 |**2025-12-16**|**QBism, Polishing Some Points**|Christopher A. Fuchs et.al.|[2512.14122](http://arxiv.org/abs/2512.14122)|null|
@@ -866,6 +869,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Scalable tests of quantum contextuality from stabilizer-testing nonlocal games**|Wanbing Zhao et.al.|[2512.16654](http://arxiv.org/abs/2512.16654)|null|
 |**2025-12-14**|**Fortuity and relevant deformation**|Jaehyeok Choi et.al.|[2512.12674](http://arxiv.org/abs/2512.12674)|null|
 |**2025-12-17**|**Information-Theoretic and Operational Measures of Quantum Contextuality**|Ali Can Günhan et.al.|[2512.11049](http://arxiv.org/abs/2512.11049)|null|
 |**2025-12-17**|**Machine Learning Optimization of BEGe Detector Event Selection in the VIP Experiment**|Simone Manti et.al.|[2512.09777](http://arxiv.org/abs/2512.09777)|null|
@@ -1778,6 +1782,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Solvable Quantum Circuits from Spacetime Lattices**|Michael A. Rampp et.al.|[2512.15871](http://arxiv.org/abs/2512.15871)|null|
 |**2025-12-17**|**Dynamical Scarring from Scrambling in Two Dimensional Topological Materials**|Dominik Szpara et.al.|[2512.15417](http://arxiv.org/abs/2512.15417)|null|
 |**2025-12-16**|**Integrability Breaking and Coherent Dynamics in Hermitian and Non-Hermitian Spin Chains with Long-Range Coupling**|Y. S. Liu et.al.|[2512.14065](http://arxiv.org/abs/2512.14065)|null|
 |**2025-12-15**|**Quantum simulation using Trotterized disorder Hamiltonians in a single-mode optical cavity**|Rahel Lea Baumgartner et.al.|[2512.13774](http://arxiv.org/abs/2512.13774)|null|
@@ -2475,6 +2480,12 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-18**|**Many-body contextuality and self-testing quantum matter via nonlocal games**|Oliver Hart et.al.|[2512.16886](http://arxiv.org/abs/2512.16886)|null|
+|**2025-12-18**|**Topological magic response in quantum spin chains**|Ritu Nehra et.al.|[2512.16673](http://arxiv.org/abs/2512.16673)|null|
+|**2025-12-18**|**Scalable tests of quantum contextuality from stabilizer-testing nonlocal games**|Wanbing Zhao et.al.|[2512.16654](http://arxiv.org/abs/2512.16654)|null|
+|**2025-12-18**|**Fast Native Three-Qubit Gates and Fault-Tolerant Quantum Error Correction with Trapped Rydberg Ions**|Katrin Bolsmann et.al.|[2512.16641](http://arxiv.org/abs/2512.16641)|null|
+|**2025-12-18**|**New Quantum Stabilizer Codes from generalized Monomial-Cartesian Codes constructed using two different generalized Reed-Solomon codes**|Oisin Campion et.al.|[2512.16482](http://arxiv.org/abs/2512.16482)|null|
+|**2025-12-17**|**Deflating quantum error-correcting codes**|Jaron Skovsted Gundersen et.al.|[2512.15887](http://arxiv.org/abs/2512.15887)|null|
 |**2025-12-17**|**Error mitigation for logical circuits using decoder confidence**|Maria Dincă et.al.|[2512.15689](http://arxiv.org/abs/2512.15689)|null|
 |**2025-12-17**|**Bosonic quantum computing with near-term devices and beyond**|Timo Hillmann et.al.|[2512.15063](http://arxiv.org/abs/2512.15063)|null|
 |**2025-12-15**|**Quantum Resource Analysis of Low-Round Keccak/SHA-3 Preimage Attack: From Classical 2^57.8 to Quantum 2^28.9 using Qiskit Modeling**|Ramin Rezvani Gilkolae et.al.|[2512.14759](http://arxiv.org/abs/2512.14759)|null|

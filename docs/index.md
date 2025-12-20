@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.19
+## Updated on 2025.12.20
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1112,7 +1112,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-04**|**Introduction to quantum control: From basic concepts to applications in quantum technologies**|Christiane P. Koch et.al.|[2512.04990](http://arxiv.org/abs/2512.04990)|null|
 |**2025-12-04**|**One Ring to Rule Them All: Constrained Distributional Control for Massive-Scale Heterogeneous Robotic Ensemble Systems**|Andres Arias et.al.|[2512.04502](http://arxiv.org/abs/2512.04502)|null|
-|**2025-12-03**|**Entanglement Detection with Rotationally Covariant Measurements - From Compton Scattering to Lemonade**|Marlene Funck et.al.|[2512.03984](http://arxiv.org/abs/2512.03984)|null|
+|**2025-12-03**|**Entanglement Detection with Rotationally Covariant Measurements -- From Compton Scattering to Lemonade**|Marlene Funck et.al.|[2512.03984](http://arxiv.org/abs/2512.03984)|null|
 |**2025-11-26**|**A Customer Journey in the Land of Oz: Leveraging the Wizard of Oz Technique to Model Emotions in Customer Service Interactions**|Sofie Labat et.al.|[2511.21909](http://arxiv.org/abs/2511.21909)|null|
 |**2025-11-25**|**Landau-level-dependent photonic spin Hall effect in monolayer WTe2**|Qiaoyun Ma et.al.|[2511.20311](http://arxiv.org/abs/2511.20311)|null|
 |**2025-11-25**|**$\mathcal{PT}$ -assisted control of Goos-Hänchen shift in cavity magnomechanics**|Shah Fahad et.al.|[2511.20262](http://arxiv.org/abs/2511.20262)|null|

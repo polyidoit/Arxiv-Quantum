@@ -1763,6 +1763,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Observation of Fano-suppression in scattering resonances of bosonic erbium atoms**|L. Lafforgue et.al.|[2512.17556](http://arxiv.org/abs/2512.17556)|null|
 |**2025-12-17**|**Solvable Quantum Circuits from Spacetime Lattices**|Michael A. Rampp et.al.|[2512.15871](http://arxiv.org/abs/2512.15871)|null|
 |**2025-12-17**|**Dynamical Scarring from Scrambling in Two Dimensional Topological Materials**|Dominik Szpara et.al.|[2512.15417](http://arxiv.org/abs/2512.15417)|null|
 |**2025-12-16**|**Integrability Breaking and Coherent Dynamics in Hermitian and Non-Hermitian Spin Chains with Long-Range Coupling**|Y. S. Liu et.al.|[2512.14065](http://arxiv.org/abs/2512.14065)|null|
@@ -2459,6 +2460,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-18**|**Hermitian Hulls of Rational Algebraic Geometry Codes and Applications in Quantum Codes**|Lin Sok et.al.|[2512.17128](http://arxiv.org/abs/2512.17128)|null|
 |**2025-12-18**|**Many-body contextuality and self-testing quantum matter via nonlocal games**|Oliver Hart et.al.|[2512.16886](http://arxiv.org/abs/2512.16886)|null|
 |**2025-12-18**|**Topological magic response in quantum spin chains**|Ritu Nehra et.al.|[2512.16673](http://arxiv.org/abs/2512.16673)|null|
 |**2025-12-18**|**Scalable tests of quantum contextuality from stabilizer-testing nonlocal games**|Wanbing Zhao et.al.|[2512.16654](http://arxiv.org/abs/2512.16654)|null|

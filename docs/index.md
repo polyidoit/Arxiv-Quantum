@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-21**|**Bell Nonlocality as a Covariance Obstruction in Locally Covariant Quantum Field Theory**|Joseph Samper Finberg et.al.|[2512.18603](http://arxiv.org/abs/2512.18603)|null|
+|**2025-12-19**|**The CHSH Game, Tsirelson's Bound, and Causal Locality**|Jacob A. Barandes et.al.|[2512.18105](http://arxiv.org/abs/2512.18105)|null|
 |**2025-12-18**|**On the Dynamics of Local Hidden-Variable Models**|Nick von Selzam et.al.|[2512.16682](http://arxiv.org/abs/2512.16682)|null|
 |**2025-12-18**|**Self-testing GHZ state via a Hardy-type paradox**|Smritikana Patra et.al.|[2512.16242](http://arxiv.org/abs/2512.16242)|null|
 |**2025-12-17**|**Entangled two-proton emission from 16Ne and its sensitivity to diproton correlation**|Tomohiro Oishi et.al.|[2512.15879](http://arxiv.org/abs/2512.15879)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.23
+## Updated on 2025.12.24
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1765,6 +1765,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-21**|**Chaos-controlled switching between entanglement and coherence**|Kyu-Won Park et.al.|[2512.18777](http://arxiv.org/abs/2512.18777)|null|
 |**2025-12-19**|**Observation of Fano-suppression in scattering resonances of bosonic erbium atoms**|L. Lafforgue et.al.|[2512.17556](http://arxiv.org/abs/2512.17556)|null|
 |**2025-12-17**|**Solvable Quantum Circuits from Spacetime Lattices**|Michael A. Rampp et.al.|[2512.15871](http://arxiv.org/abs/2512.15871)|null|
 |**2025-12-17**|**Dynamical Scarring from Scrambling in Two Dimensional Topological Materials**|Dominik Szpara et.al.|[2512.15417](http://arxiv.org/abs/2512.15417)|null|
@@ -2462,6 +2463,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-22**|**The EU Quantum Flagship's Key Performance Indicators for Quantum Computing**|Zoltán Zimborás et.al.|[2512.19653](http://arxiv.org/abs/2512.19653)|null|
+|**2025-12-21**|**El Agente Cuántico: Automating quantum simulations**|Ignacio Gustin et.al.|[2512.18847](http://arxiv.org/abs/2512.18847)|null|
+|**2025-12-21**|**Noisy Monitored Quantum Circuits**|Shuo Liu et.al.|[2512.18783](http://arxiv.org/abs/2512.18783)|null|
+|**2025-12-21**|**Long-distance quantum communication sending single photons and keeping many**|Stefan Häussler et.al.|[2512.18767](http://arxiv.org/abs/2512.18767)|null|
+|**2025-12-20**|**Evolutionary BP+OSD Decoding for Low-Latency Quantum Error Correction**|Hee-Youl Kwak et.al.|[2512.18273](http://arxiv.org/abs/2512.18273)|null|
+|**2025-12-20**|**Superconducting qubit decoherence correlated with detected radiation events**|A. R. Castelli et.al.|[2512.18171](http://arxiv.org/abs/2512.18171)|null|
+|**2025-12-19**|**Logical gates on Floquet codes via folds and twists**|Alexandra E. Moylett et.al.|[2512.17999](http://arxiv.org/abs/2512.17999)|null|
 |**2025-12-18**|**Hermitian Hulls of Rational Algebraic Geometry Codes and Applications in Quantum Codes**|Lin Sok et.al.|[2512.17128](http://arxiv.org/abs/2512.17128)|null|
 |**2025-12-18**|**Many-body contextuality and self-testing quantum matter via nonlocal games**|Oliver Hart et.al.|[2512.16886](http://arxiv.org/abs/2512.16886)|null|
 |**2025-12-18**|**Topological magic response in quantum spin chains**|Ritu Nehra et.al.|[2512.16673](http://arxiv.org/abs/2512.16673)|null|

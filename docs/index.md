@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Exploring the nature of gravity with quantum information methods**|Bruna Sahdo et.al.|[2512.20429](http://arxiv.org/abs/2512.20429)|null|
 |**2025-12-21**|**Bell Nonlocality as a Covariance Obstruction in Locally Covariant Quantum Field Theory**|Joseph Samper Finberg et.al.|[2512.18603](http://arxiv.org/abs/2512.18603)|null|
 |**2025-12-19**|**The CHSH Game, Tsirelson's Bound, and Causal Locality**|Jacob A. Barandes et.al.|[2512.18105](http://arxiv.org/abs/2512.18105)|null|
 |**2025-12-18**|**On the Dynamics of Local Hidden-Variable Models**|Nick von Selzam et.al.|[2512.16682](http://arxiv.org/abs/2512.16682)|null|
@@ -861,7 +862,7 @@ layout: default
 |**2025-12-18**|**Scalable tests of quantum contextuality from stabilizer-testing nonlocal games**|Wanbing Zhao et.al.|[2512.16654](http://arxiv.org/abs/2512.16654)|null|
 |**2025-12-14**|**Fortuity and relevant deformation**|Jaehyeok Choi et.al.|[2512.12674](http://arxiv.org/abs/2512.12674)|null|
 |**2025-12-17**|**Information-Theoretic and Operational Measures of Quantum Contextuality**|Ali Can Günhan et.al.|[2512.11049](http://arxiv.org/abs/2512.11049)|null|
-|**2025-12-17**|**Machine Learning Optimization of BEGe Detector Event Selection in the VIP Experiment**|Simone Manti et.al.|[2512.09777](http://arxiv.org/abs/2512.09777)|null|
+|**2025-12-23**|**Machine Learning Optimization of BEGe Detector Event Selection in the VIP Experiment**|Simone Manti et.al.|[2512.09777](http://arxiv.org/abs/2512.09777)|null|
 |**2025-12-05**|**Exclusive Control of Quantum Memory Erasure**|Alimuddin Mir et.al.|[2512.05761](http://arxiv.org/abs/2512.05761)|null|
 |**2025-12-05**|**IMMPC: An Internal Model Based MPC for Rejecting Unknown Disturbances**|Felix Brändle et.al.|[2512.05692](http://arxiv.org/abs/2512.05692)|null|
 |**2025-12-03**|**CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding**|Zhou Chen et.al.|[2512.04231](http://arxiv.org/abs/2512.04231)|null|
@@ -1284,6 +1285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Micromagnet-free operation of electron spin qubits in Si/Si $_{1-x}$Ge$_x$ vertical double quantum dots**|Abhikbrata Sarkar et.al.|[2512.19785](http://arxiv.org/abs/2512.19785)|null|
 |**2025-12-16**|**Growth and spreading of quantum resources under random circuit dynamics**|Sreemayee Aditya et.al.|[2512.14827](http://arxiv.org/abs/2512.14827)|null|
 |**2025-12-11**|**Collision-Aware Density-Driven Control of Multi-Agent Systems via Control Barrier Functions**|Sungjun Seo et.al.|[2512.10392](http://arxiv.org/abs/2512.10392)|null|
 |**2025-12-10**|**Deep Thermalization and Measurements of Quantum Resources**|Naga Dileep Varikuti et.al.|[2512.09999](http://arxiv.org/abs/2512.09999)|null|
@@ -1765,6 +1767,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Krylov complexity in ergodically constrained nonintegrable transverse-field Ising model**|Gaurav Rudra Malik et.al.|[2512.20285](http://arxiv.org/abs/2512.20285)|null|
+|**2025-12-22**|**The relation between classical and quantum Lyapunov exponent and the bound on chaos in classically chaotic quantum systems**|Fabian Haneder et.al.|[2512.19869](http://arxiv.org/abs/2512.19869)|null|
+|**2025-12-22**|**Quantum information scrambling in strongly disordered Rydberg spin systems**|Maximilian Müllenbach et.al.|[2512.19856](http://arxiv.org/abs/2512.19856)|null|
 |**2025-12-21**|**Chaos-controlled switching between entanglement and coherence**|Kyu-Won Park et.al.|[2512.18777](http://arxiv.org/abs/2512.18777)|null|
 |**2025-12-19**|**Observation of Fano-suppression in scattering resonances of bosonic erbium atoms**|L. Lafforgue et.al.|[2512.17556](http://arxiv.org/abs/2512.17556)|null|
 |**2025-12-17**|**Solvable Quantum Circuits from Spacetime Lattices**|Michael A. Rampp et.al.|[2512.15871](http://arxiv.org/abs/2512.15871)|null|
@@ -2463,6 +2468,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-23**|**Scaling roadmap for modular trapped-ion QEC and lattice-surgery teleportation**|César Benito et.al.|[2512.20435](http://arxiv.org/abs/2512.20435)|null|
+|**2025-12-23**|**Metrologically advantageous states: long-range entanglement and asymmetric error correction**|Junjie Chen et.al.|[2512.20426](http://arxiv.org/abs/2512.20426)|null|
+|**2025-12-23**|**Profusion of Symmetry-Protected Qubits from Stable Ergodicity Breaking**|Thomas Iadecola et.al.|[2512.20393](http://arxiv.org/abs/2512.20393)|null|
+|**2025-12-22**|**Gate-Based Microwave Quantum Repeater Via Grid-State Encoding**|Hany Khalifa et.al.|[2512.19896](http://arxiv.org/abs/2512.19896)|null|
+|**2025-12-22**|**Learning transitions of topological surface codes**|Finn Eckstein et.al.|[2512.19786](http://arxiv.org/abs/2512.19786)|null|
 |**2025-12-22**|**The EU Quantum Flagship's Key Performance Indicators for Quantum Computing**|Zoltán Zimborás et.al.|[2512.19653](http://arxiv.org/abs/2512.19653)|null|
 |**2025-12-21**|**El Agente Cuántico: Automating quantum simulations**|Ignacio Gustin et.al.|[2512.18847](http://arxiv.org/abs/2512.18847)|null|
 |**2025-12-21**|**Noisy Monitored Quantum Circuits**|Shuo Liu et.al.|[2512.18783](http://arxiv.org/abs/2512.18783)|null|

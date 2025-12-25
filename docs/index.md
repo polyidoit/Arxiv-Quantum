@@ -859,6 +859,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Higher-Dimensional Information Lattice: Quantum State Characterization through Inclusion-Exclusion Local Information**|Ian Matthias Flór et.al.|[2512.20793](http://arxiv.org/abs/2512.20793)|null|
 |**2025-12-18**|**Scalable tests of quantum contextuality from stabilizer-testing nonlocal games**|Wanbing Zhao et.al.|[2512.16654](http://arxiv.org/abs/2512.16654)|null|
 |**2025-12-14**|**Fortuity and relevant deformation**|Jaehyeok Choi et.al.|[2512.12674](http://arxiv.org/abs/2512.12674)|null|
 |**2025-12-17**|**Information-Theoretic and Operational Measures of Quantum Contextuality**|Ali Can Günhan et.al.|[2512.11049](http://arxiv.org/abs/2512.11049)|null|
@@ -1285,6 +1286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Operation of a tunable Power over Fiber system for light detectors down to 4.6 K**|A. Andreani et.al.|[2512.21207](http://arxiv.org/abs/2512.21207)|null|
 |**2025-12-22**|**Micromagnet-free operation of electron spin qubits in Si/Si $_{1-x}$Ge$_x$ vertical double quantum dots**|Abhikbrata Sarkar et.al.|[2512.19785](http://arxiv.org/abs/2512.19785)|null|
 |**2025-12-16**|**Growth and spreading of quantum resources under random circuit dynamics**|Sreemayee Aditya et.al.|[2512.14827](http://arxiv.org/abs/2512.14827)|null|
 |**2025-12-11**|**Collision-Aware Density-Driven Control of Multi-Agent Systems via Control Barrier Functions**|Sungjun Seo et.al.|[2512.10392](http://arxiv.org/abs/2512.10392)|null|
@@ -1767,6 +1769,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Information-Scrambling-Enhanced Quantum Sensing Beyond the Standard Quantum Limit**|Yangyang Ge et.al.|[2512.21157](http://arxiv.org/abs/2512.21157)|null|
+|**2025-12-24**|**OTOC and Quamtum Chaos of Interacting Scalar Fields**|Wung-Hong Huang et.al.|[2512.21023](http://arxiv.org/abs/2512.21023)|null|
+|**2025-12-23**|**Quantum Ising Model on $(2+1)-$Dimensional Anti$-$ de Sitter Space using Tensor Networks**|Simon Catterall et.al.|[2512.20838](http://arxiv.org/abs/2512.20838)|null|
 |**2025-12-23**|**Krylov complexity in ergodically constrained nonintegrable transverse-field Ising model**|Gaurav Rudra Malik et.al.|[2512.20285](http://arxiv.org/abs/2512.20285)|null|
 |**2025-12-22**|**The relation between classical and quantum Lyapunov exponent and the bound on chaos in classically chaotic quantum systems**|Fabian Haneder et.al.|[2512.19869](http://arxiv.org/abs/2512.19869)|null|
 |**2025-12-22**|**Quantum information scrambling in strongly disordered Rydberg spin systems**|Maximilian Müllenbach et.al.|[2512.19856](http://arxiv.org/abs/2512.19856)|null|
@@ -2468,6 +2473,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-23**|**Horizons and Soft Quantum Information**|Daine L. Danielson et.al.|[2512.20754](http://arxiv.org/abs/2512.20754)|null|
 |**2025-12-23**|**Scaling roadmap for modular trapped-ion QEC and lattice-surgery teleportation**|César Benito et.al.|[2512.20435](http://arxiv.org/abs/2512.20435)|null|
 |**2025-12-23**|**Metrologically advantageous states: long-range entanglement and asymmetric error correction**|Junjie Chen et.al.|[2512.20426](http://arxiv.org/abs/2512.20426)|null|
 |**2025-12-23**|**Profusion of Symmetry-Protected Qubits from Stable Ergodicity Breaking**|Thomas Iadecola et.al.|[2512.20393](http://arxiv.org/abs/2512.20393)|null|

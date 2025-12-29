@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**A Fundamental Theorem on Einstein-Podolsky-Rosen Steering**|Yu-Xuan Zhang et.al.|[2512.22030](http://arxiv.org/abs/2512.22030)|null|
+|**2025-12-26**|**Linear Program Witness for Network Nonlocality in Arbitrary Networks**|Salome Hayes-Shuptar et.al.|[2512.21962](http://arxiv.org/abs/2512.21962)|null|
 |**2025-12-23**|**Exploring the nature of gravity with quantum information methods**|Bruna Sahdo et.al.|[2512.20429](http://arxiv.org/abs/2512.20429)|null|
 |**2025-12-21**|**Bell Nonlocality as a Covariance Obstruction in Locally Covariant Quantum Field Theory**|Joseph Samper Finberg et.al.|[2512.18603](http://arxiv.org/abs/2512.18603)|null|
 |**2025-12-19**|**The CHSH Game, Tsirelson's Bound, and Causal Locality**|Jacob A. Barandes et.al.|[2512.18105](http://arxiv.org/abs/2512.18105)|null|
@@ -1129,6 +1131,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**A Fundamental Theorem on Einstein-Podolsky-Rosen Steering**|Yu-Xuan Zhang et.al.|[2512.22030](http://arxiv.org/abs/2512.22030)|null|
+|**2025-12-26**|**A General Framework for Constructing Local Hidden-state Models to Determine the Steerability**|Yanning Jia et.al.|[2512.21848](http://arxiv.org/abs/2512.21848)|null|
 |**2025-12-04**|**Introduction to quantum control: From basic concepts to applications in quantum technologies**|Christiane P. Koch et.al.|[2512.04990](http://arxiv.org/abs/2512.04990)|null|
 |**2025-12-04**|**One Ring to Rule Them All: Constrained Distributional Control for Massive-Scale Heterogeneous Robotic Ensemble Systems**|Andres Arias et.al.|[2512.04502](http://arxiv.org/abs/2512.04502)|null|
 |**2025-12-03**|**Entanglement Detection with Rotationally Covariant Measurements -- From Compton Scattering to Lemonade**|Marlene Funck et.al.|[2512.03984](http://arxiv.org/abs/2512.03984)|null|
@@ -1303,6 +1307,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**Measure of entanglement and the monogamy relation: a topical review**|Yu Guo et.al.|[2512.21992](http://arxiv.org/abs/2512.21992)|null|
 |**2025-12-24**|**Operation of a tunable Power over Fiber system for light detectors down to 4.6 K**|A. Andreani et.al.|[2512.21207](http://arxiv.org/abs/2512.21207)|null|
 |**2025-12-22**|**Micromagnet-free operation of electron spin qubits in Si/Si $_{1-x}$Ge$_x$ vertical double quantum dots**|Abhikbrata Sarkar et.al.|[2512.19785](http://arxiv.org/abs/2512.19785)|null|
 |**2025-12-16**|**Growth and spreading of quantum resources under random circuit dynamics**|Sreemayee Aditya et.al.|[2512.14827](http://arxiv.org/abs/2512.14827)|null|
@@ -1788,6 +1793,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-25**|**Investigation of quantum chaos in local and non-local Ising models**|Reza Pirmoradian et.al.|[2512.21713](http://arxiv.org/abs/2512.21713)|null|
 |**2025-12-24**|**Information-Scrambling-Enhanced Quantum Sensing Beyond the Standard Quantum Limit**|Yangyang Ge et.al.|[2512.21157](http://arxiv.org/abs/2512.21157)|null|
 |**2025-12-24**|**OTOC and Quamtum Chaos of Interacting Scalar Fields**|Wung-Hong Huang et.al.|[2512.21023](http://arxiv.org/abs/2512.21023)|null|
 |**2025-12-23**|**Quantum Ising Model on $(2+1)-$Dimensional Anti$-$ de Sitter Space using Tensor Networks**|Simon Catterall et.al.|[2512.20838](http://arxiv.org/abs/2512.20838)|null|
@@ -2494,6 +2500,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-26**|**Charge-Informed Quantum Error Correction**|Vlad Temkin et.al.|[2512.22119](http://arxiv.org/abs/2512.22119)|null|
+|**2025-12-26**|**General Construction of Quantum Error-Correcting Codes from Multiple Classical Codes**|Yue Wu et.al.|[2512.22116](http://arxiv.org/abs/2512.22116)|null|
+|**2025-12-26**|**Spacetime Spins: Statistical mechanics for error correction with stabilizer circuits**|Cory T. Aitchison et.al.|[2512.21991](http://arxiv.org/abs/2512.21991)|null|
+|**2025-12-26**|**Poincaré Duality and Multiplicative Structures on Quantum Codes**|Yiming Li et.al.|[2512.21922](http://arxiv.org/abs/2512.21922)|null|
+|**2025-12-26**|**Magic State Distillation using Asymptotically Good Codes on Qudits**|Michael J. Cervia et.al.|[2512.21874](http://arxiv.org/abs/2512.21874)|null|
 |**2025-12-23**|**Horizons and Soft Quantum Information**|Daine L. Danielson et.al.|[2512.20754](http://arxiv.org/abs/2512.20754)|null|
 |**2025-12-23**|**Scaling roadmap for modular trapped-ion QEC and lattice-surgery teleportation**|César Benito et.al.|[2512.20435](http://arxiv.org/abs/2512.20435)|null|
 |**2025-12-23**|**Metrologically advantageous states: long-range entanglement and asymmetric error correction**|Junjie Chen et.al.|[2512.20426](http://arxiv.org/abs/2512.20426)|null|

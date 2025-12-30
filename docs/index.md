@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Clauser-Horne-Shimony-Holt Bell-inequality Violability with the Full Poincaré-Bloch Sphere**|Carlos Cardoso-Isidoro et.al.|[2512.23550](http://arxiv.org/abs/2512.23550)|null|
+|**2025-12-28**|**Bell nonlocality and entanglement in $χ_{cJ}$ decays into baryon pair**|PengCheng Hong et.al.|[2512.22837](http://arxiv.org/abs/2512.22837)|null|
+|**2025-12-26**|**Time Reparametrization, Not Fractional Calculus: A Reassessment of the Conformable Derivative**|Aziz El Ghazouani et.al.|[2512.22366](http://arxiv.org/abs/2512.22366)|null|
+|**2025-12-23**|**Bell-Inequality Violation for Continuous, Non-Projective Measurements**|Shalender Singh et.al.|[2512.22229](http://arxiv.org/abs/2512.22229)|null|
 |**2025-12-26**|**A Fundamental Theorem on Einstein-Podolsky-Rosen Steering**|Yu-Xuan Zhang et.al.|[2512.22030](http://arxiv.org/abs/2512.22030)|null|
 |**2025-12-26**|**Linear Program Witness for Network Nonlocality in Arbitrary Networks**|Salome Hayes-Shuptar et.al.|[2512.21962](http://arxiv.org/abs/2512.21962)|null|
 |**2025-12-23**|**Exploring the nature of gravity with quantum information methods**|Bruna Sahdo et.al.|[2512.20429](http://arxiv.org/abs/2512.20429)|null|
@@ -1140,7 +1144,7 @@ layout: default
 |**2025-11-03**|**Does the survival and sudden death of quadripartite steering in curved spacetime truly depend on multi-directionality?**|Xiaobao Liu et.al.|[2511.01561](http://arxiv.org/abs/2511.01561)|null|
 |**2025-10-11**|**Monogamy of Gaussian quantum steering and entanglement in a hybrid qubit-cavity optomagnonic system with coherent feedback loop**|Hamza Harraf et.al.|[2510.10334](http://arxiv.org/abs/2510.10334)|null|
 |**2025-10-07**|**Quantumness and its hierarchies in PT-symmetric down-conversion models**|Jan Peřina et.al.|[2510.06171](http://arxiv.org/abs/2510.06171)|null|
-|**2025-09-22**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
+|**2025-12-29**|**Distribution of non-Gaussian states in a deployed telecommunication fiber channel**|Casper A. Breum et.al.|[2509.18080](http://arxiv.org/abs/2509.18080)|null|
 |**2025-09-19**|**Robust self-testing of quantum steering assemblages via operator inequalities**|Beata Zjawin et.al.|[2509.15699](http://arxiv.org/abs/2509.15699)|null|
 |**2025-11-06**|**Quantum steering and discord in hyperon-antihyperon system in electron-positron annihilation**|Sihao Wu et.al.|[2509.14990](http://arxiv.org/abs/2509.14990)|null|
 |**2025-08-23**|**Efficient utilization of imaginarity in quantum steering**|Shounak Datta et.al.|[2508.17140](http://arxiv.org/abs/2508.17140)|null|
@@ -1774,6 +1778,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Generalised Entanglement Entropies from Unit-Invariant Singular Value Decomposition**|Pawel Caputa et.al.|[2512.22997](http://arxiv.org/abs/2512.22997)|null|
+|**2025-12-27**|**Measuring out-of-time-order correlators on a quantum computer based on an irreversibility-susceptibility method**|Haruki Emori et.al.|[2512.22643](http://arxiv.org/abs/2512.22643)|null|
 |**2025-12-25**|**Investigation of quantum chaos in local and non-local Ising models**|Reza Pirmoradian et.al.|[2512.21713](http://arxiv.org/abs/2512.21713)|null|
 |**2025-12-24**|**Information-Scrambling-Enhanced Quantum Sensing Beyond the Standard Quantum Limit**|Yangyang Ge et.al.|[2512.21157](http://arxiv.org/abs/2512.21157)|null|
 |**2025-12-24**|**OTOC and Quamtum Chaos of Interacting Scalar Fields**|Wung-Hong Huang et.al.|[2512.21023](http://arxiv.org/abs/2512.21023)|null|
@@ -2479,6 +2485,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2025-12-28**|**SOFT: a high-performance simulator for universal fault-tolerant quantum circuits**|Riling Li et.al.|[2512.23037](http://arxiv.org/abs/2512.23037)|null|
+|**2025-12-28**|**Optimal Threshold for Fracton Codes and Nearly Saturated Code Capacity in Three Dimensions**|Giovanni Canossa et.al.|[2512.22888](http://arxiv.org/abs/2512.22888)|null|
 |**2025-12-26**|**Charge-Informed Quantum Error Correction**|Vlad Temkin et.al.|[2512.22119](http://arxiv.org/abs/2512.22119)|null|
 |**2025-12-26**|**General Construction of Quantum Error-Correcting Codes from Multiple Classical Codes**|Yue Wu et.al.|[2512.22116](http://arxiv.org/abs/2512.22116)|null|
 |**2025-12-26**|**Spacetime Spins: Statistical mechanics for error correction with stabilizer circuits**|Cory T. Aitchison et.al.|[2512.21991](http://arxiv.org/abs/2512.21991)|null|

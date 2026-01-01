@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**No-cost Bell Nonlocality Certification from Quantum Tomography and Its Applications in Quantum Magic Witnessing**|Pawel Cieslinski et.al.|[2512.25068](http://arxiv.org/abs/2512.25068)|null|
+|**2025-12-29**|**Gedanken Experiments of Entanglement in Particle Physics: Interactions, Operators and Bell Inequalities in Flavor Space**|Corbin Pacheco et.al.|[2512.23855](http://arxiv.org/abs/2512.23855)|null|
 |**2025-12-29**|**Clauser-Horne-Shimony-Holt Bell-inequality Violability with the Full Poincaré-Bloch Sphere**|Carlos Cardoso-Isidoro et.al.|[2512.23550](http://arxiv.org/abs/2512.23550)|null|
 |**2025-12-28**|**Bell nonlocality and entanglement in $χ_{cJ}$ decays into baryon pair**|PengCheng Hong et.al.|[2512.22837](http://arxiv.org/abs/2512.22837)|null|
 |**2025-12-26**|**Time Reparametrization, Not Fractional Calculus: A Reassessment of the Conformable Derivative**|Aziz El Ghazouani et.al.|[2512.22366](http://arxiv.org/abs/2512.22366)|null|
@@ -1778,6 +1780,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Randomization Times under Quantum Chaotic Hamiltonian Evolution**|Souradeep Ghosh et.al.|[2512.25074](http://arxiv.org/abs/2512.25074)|null|
 |**2025-12-28**|**Generalised Entanglement Entropies from Unit-Invariant Singular Value Decomposition**|Pawel Caputa et.al.|[2512.22997](http://arxiv.org/abs/2512.22997)|null|
 |**2025-12-27**|**Measuring out-of-time-order correlators on a quantum computer based on an irreversibility-susceptibility method**|Haruki Emori et.al.|[2512.22643](http://arxiv.org/abs/2512.22643)|null|
 |**2025-12-25**|**Investigation of quantum chaos in local and non-local Ising models**|Reza Pirmoradian et.al.|[2512.21713](http://arxiv.org/abs/2512.21713)|null|
@@ -2490,7 +2493,7 @@ layout: default
 |**2025-12-26**|**Charge-Informed Quantum Error Correction**|Vlad Temkin et.al.|[2512.22119](http://arxiv.org/abs/2512.22119)|null|
 |**2025-12-26**|**General Construction of Quantum Error-Correcting Codes from Multiple Classical Codes**|Yue Wu et.al.|[2512.22116](http://arxiv.org/abs/2512.22116)|null|
 |**2025-12-26**|**Spacetime Spins: Statistical mechanics for error correction with stabilizer circuits**|Cory T. Aitchison et.al.|[2512.21991](http://arxiv.org/abs/2512.21991)|null|
-|**2025-12-26**|**Poincaré Duality and Multiplicative Structures on Quantum Codes**|Yiming Li et.al.|[2512.21922](http://arxiv.org/abs/2512.21922)|null|
+|**2025-12-30**|**Poincaré Duality and Multiplicative Structures on Quantum Codes**|Yiming Li et.al.|[2512.21922](http://arxiv.org/abs/2512.21922)|null|
 |**2025-12-26**|**Magic State Distillation using Asymptotically Good Codes on Qudits**|Michael J. Cervia et.al.|[2512.21874](http://arxiv.org/abs/2512.21874)|null|
 |**2025-12-23**|**Horizons and Soft Quantum Information**|Daine L. Danielson et.al.|[2512.20754](http://arxiv.org/abs/2512.20754)|null|
 |**2025-12-23**|**Scaling roadmap for modular trapped-ion QEC and lattice-surgery teleportation**|César Benito et.al.|[2512.20435](http://arxiv.org/abs/2512.20435)|null|

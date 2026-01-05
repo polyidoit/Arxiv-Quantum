@@ -1780,6 +1780,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Classical vs quantum dynamics and the onset of chaos in a macrospin system**|Haowei Fan et.al.|[2601.00062](http://arxiv.org/abs/2601.00062)|null|
 |**2025-12-31**|**Randomization Times under Quantum Chaotic Hamiltonian Evolution**|Souradeep Ghosh et.al.|[2512.25074](http://arxiv.org/abs/2512.25074)|null|
 |**2025-12-28**|**Generalised Entanglement Entropies from Unit-Invariant Singular Value Decomposition**|Pawel Caputa et.al.|[2512.22997](http://arxiv.org/abs/2512.22997)|null|
 |**2025-12-27**|**Measuring out-of-time-order correlators on a quantum computer based on an irreversibility-susceptibility method**|Haruki Emori et.al.|[2512.22643](http://arxiv.org/abs/2512.22643)|null|
@@ -2488,6 +2489,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-01**|**The JLMS formula in a large code with approximate error correction**|Xi Dong et.al.|[2601.00442](http://arxiv.org/abs/2601.00442)|null|
+|**2026-01-01**|**Neural Minimum Weight Perfect Matching for Quantum Error Codes**|Yotam Peled et.al.|[2601.00242](http://arxiv.org/abs/2601.00242)|null|
+|**2025-12-31**|**Pauli stabilizer formalism for topological quantum field theories and generalized statistics**|Yitao Feng et.al.|[2601.00064](http://arxiv.org/abs/2601.00064)|null|
 |**2025-12-28**|**SOFT: a high-performance simulator for universal fault-tolerant quantum circuits**|Riling Li et.al.|[2512.23037](http://arxiv.org/abs/2512.23037)|null|
 |**2025-12-28**|**Optimal Threshold for Fracton Codes and Nearly Saturated Code Capacity in Three Dimensions**|Giovanni Canossa et.al.|[2512.22888](http://arxiv.org/abs/2512.22888)|null|
 |**2025-12-26**|**Charge-Informed Quantum Error Correction**|Vlad Temkin et.al.|[2512.22119](http://arxiv.org/abs/2512.22119)|null|

@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Binarisation-loophole-free observation of high-dimensional quantum nonlocality**|Jia-le Miao et.al.|[2601.02350](http://arxiv.org/abs/2601.02350)|null|
 |**2025-12-31**|**No-cost Bell Nonlocality Certification from Quantum Tomography and Its Applications in Quantum Magic Witnessing**|Pawel Cieslinski et.al.|[2512.25068](http://arxiv.org/abs/2512.25068)|null|
 |**2025-12-29**|**Gedanken Experiments of Entanglement in Particle Physics: Interactions, Operators and Bell Inequalities in Flavor Space**|Corbin Pacheco et.al.|[2512.23855](http://arxiv.org/abs/2512.23855)|null|
 |**2025-12-29**|**Clauser-Horne-Shimony-Holt Bell-inequality Violability with the Full Poincaré-Bloch Sphere**|Carlos Cardoso-Isidoro et.al.|[2512.23550](http://arxiv.org/abs/2512.23550)|null|
@@ -576,6 +577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-03**|**Non-Markovian and Thermodynamic Signatures in the Classicality Assessment via Kolmogorov Consistency**|Arghya Maity et.al.|[2601.01122](http://arxiv.org/abs/2601.01122)|null|
 |**2025-12-10**|**Quantumness certification via non-demolition measurements**|Paolo Solinas et.al.|[2512.09734](http://arxiv.org/abs/2512.09734)|null|
 |**2025-12-08**|**On Dirac-type correlations**|James Fullwood et.al.|[2512.08068](http://arxiv.org/abs/2512.08068)|null|
 |**2025-12-05**|**Spectroscopy and Coherent Control of Two-Level System Defect Ensembles Using a Broadband 3D Waveguide**|Qianxu Wang et.al.|[2512.05934](http://arxiv.org/abs/2512.05934)|null|
@@ -867,6 +869,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Hilbert Polynomials of Calabi Yau Hypersurfaces in Toric Varieties and Lattice Points in Polytope Boundaries**|Jonathan Weitsman et.al.|[2601.02176](http://arxiv.org/abs/2601.02176)|null|
+|**2026-01-05**|**Exploring bound states and interactions of the nucleon-antinucleon system in a constituent quark model**|Aaron Park et.al.|[2601.01953](http://arxiv.org/abs/2601.01953)|null|
+|**2026-01-04**|**The Equivalence between Hardy-type paradox and Logical Contextuality**|Songyi Liu et.al.|[2601.01445](http://arxiv.org/abs/2601.01445)|null|
 |**2025-12-23**|**Higher-Dimensional Information Lattice: Quantum State Characterization through Inclusion-Exclusion Local Information**|Ian Matthias Flór et.al.|[2512.20793](http://arxiv.org/abs/2512.20793)|null|
 |**2025-12-18**|**Scalable tests of quantum contextuality from stabilizer-testing nonlocal games**|Wanbing Zhao et.al.|[2512.16654](http://arxiv.org/abs/2512.16654)|null|
 |**2025-12-14**|**Fortuity and relevant deformation**|Jaehyeok Choi et.al.|[2512.12674](http://arxiv.org/abs/2512.12674)|null|
@@ -1122,6 +1127,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**A General Class of Functionals for Certifying Quantum Incompatibility**|Kuan-Yi Lee et.al.|[2601.02239](http://arxiv.org/abs/2601.02239)|null|
+|**2026-01-04**|**Einstein-Podolsky-Rosen Steering in Three Coupled Harmonic Oscillators**|Ayoub Ghaba et.al.|[2601.01307](http://arxiv.org/abs/2601.01307)|null|
 |**2025-12-26**|**A Fundamental Theorem on Einstein-Podolsky-Rosen Steering**|Yu-Xuan Zhang et.al.|[2512.22030](http://arxiv.org/abs/2512.22030)|null|
 |**2025-12-26**|**A General Framework for Constructing Local Hidden-state Models to Determine the Steerability**|Yanning Jia et.al.|[2512.21848](http://arxiv.org/abs/2512.21848)|null|
 |**2025-12-04**|**Introduction to quantum control: From basic concepts to applications in quantum technologies**|Christiane P. Koch et.al.|[2512.04990](http://arxiv.org/abs/2512.04990)|null|
@@ -1296,6 +1303,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-03**|**The Completeness of Eigenstates in Quantum Mechanics**|Guoping Zhang et.al.|[2601.01136](http://arxiv.org/abs/2601.01136)|null|
 |**2025-12-26**|**Measure of entanglement and the monogamy relation: a topical review**|Yu Guo et.al.|[2512.21992](http://arxiv.org/abs/2512.21992)|null|
 |**2025-12-24**|**Operation of a tunable Power over Fiber system for light detectors down to 4.6 K**|A. Andreani et.al.|[2512.21207](http://arxiv.org/abs/2512.21207)|null|
 |**2025-12-22**|**Micromagnet-free operation of electron spin qubits in Si/Si $_{1-x}$Ge$_x$ vertical double quantum dots**|Abhikbrata Sarkar et.al.|[2512.19785](http://arxiv.org/abs/2512.19785)|null|
@@ -1780,6 +1788,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Continuous Unitary Designs for Universally Robust Quantum Control**|Xiaodong Yang et.al.|[2601.01988](http://arxiv.org/abs/2601.01988)|null|
+|**2026-01-04**|**Bond Additivity and Persistent Geometric Imprints of Entanglement in Quantum Thermalization**|Chun-Yue Zhang et.al.|[2601.01327](http://arxiv.org/abs/2601.01327)|null|
 |**2025-12-31**|**Classical vs quantum dynamics and the onset of chaos in a macrospin system**|Haowei Fan et.al.|[2601.00062](http://arxiv.org/abs/2601.00062)|null|
 |**2025-12-31**|**Randomization Times under Quantum Chaotic Hamiltonian Evolution**|Souradeep Ghosh et.al.|[2512.25074](http://arxiv.org/abs/2512.25074)|null|
 |**2025-12-28**|**Generalised Entanglement Entropies from Unit-Invariant Singular Value Decomposition**|Pawel Caputa et.al.|[2512.22997](http://arxiv.org/abs/2512.22997)|null|
@@ -2489,9 +2499,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-05**|**Developments in superconducting erasure qubits for hardware-efficient quantum error correction**|Maria Violaris et.al.|[2601.02183](http://arxiv.org/abs/2601.02183)|null|
+|**2026-01-04**|**Noise-Resilient Heisenberg-limited Quantum Sensing via Indefinite-Causal-Order Error Correction**|Hang Xu et.al.|[2601.01404](http://arxiv.org/abs/2601.01404)|null|
+|**2026-01-02**|**Improved decoding algorithms for surface codes under independent bit-flip and phase-flip errors**|Louay Bazzi et.al.|[2601.00972](http://arxiv.org/abs/2601.00972)|null|
 |**2026-01-01**|**The JLMS formula in a large code with approximate error correction**|Xi Dong et.al.|[2601.00442](http://arxiv.org/abs/2601.00442)|null|
 |**2026-01-01**|**Neural Minimum Weight Perfect Matching for Quantum Error Codes**|Yotam Peled et.al.|[2601.00242](http://arxiv.org/abs/2601.00242)|null|
-|**2025-12-31**|**Pauli stabilizer formalism for topological quantum field theories and generalized statistics**|Yitao Feng et.al.|[2601.00064](http://arxiv.org/abs/2601.00064)|null|
+|**2026-01-05**|**Pauli stabilizer formalism for topological quantum field theories and generalized statistics**|Yitao Feng et.al.|[2601.00064](http://arxiv.org/abs/2601.00064)|null|
 |**2025-12-28**|**SOFT: a high-performance simulator for universal fault-tolerant quantum circuits**|Riling Li et.al.|[2512.23037](http://arxiv.org/abs/2512.23037)|null|
 |**2025-12-28**|**Optimal Threshold for Fracton Codes and Nearly Saturated Code Capacity in Three Dimensions**|Giovanni Canossa et.al.|[2512.22888](http://arxiv.org/abs/2512.22888)|null|
 |**2025-12-26**|**Charge-Informed Quantum Error Correction**|Vlad Temkin et.al.|[2512.22119](http://arxiv.org/abs/2512.22119)|null|

@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Violation of Bell Monogamy Relations**|Abhisek Panda et.al.|[2601.02925](http://arxiv.org/abs/2601.02925)|null|
+|**2026-01-06**|**Trading symmetry for Hilbert-space dimension in Bell-inequality violation**|Hsin-Yu Hsu et.al.|[2601.02893](http://arxiv.org/abs/2601.02893)|null|
 |**2026-01-05**|**Binarisation-loophole-free observation of high-dimensional quantum nonlocality**|Jia-le Miao et.al.|[2601.02350](http://arxiv.org/abs/2601.02350)|null|
 |**2025-12-31**|**No-cost Bell Nonlocality Certification from Quantum Tomography and Its Applications in Quantum Magic Witnessing**|Pawel Cieslinski et.al.|[2512.25068](http://arxiv.org/abs/2512.25068)|null|
 |**2025-12-29**|**Gedanken Experiments of Entanglement in Particle Physics: Interactions, Operators and Bell Inequalities in Flavor Space**|Corbin Pacheco et.al.|[2512.23855](http://arxiv.org/abs/2512.23855)|null|
@@ -871,7 +873,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-05**|**Hilbert Polynomials of Calabi Yau Hypersurfaces in Toric Varieties and Lattice Points in Polytope Boundaries**|Jonathan Weitsman et.al.|[2601.02176](http://arxiv.org/abs/2601.02176)|null|
 |**2026-01-05**|**Exploring bound states and interactions of the nucleon-antinucleon system in a constituent quark model**|Aaron Park et.al.|[2601.01953](http://arxiv.org/abs/2601.01953)|null|
-|**2026-01-04**|**The Equivalence between Hardy-type paradox and Logical Contextuality**|Songyi Liu et.al.|[2601.01445](http://arxiv.org/abs/2601.01445)|null|
+|**2026-01-06**|**The Equivalence between Hardy-type paradox and Logical Contextuality**|Songyi Liu et.al.|[2601.01445](http://arxiv.org/abs/2601.01445)|null|
 |**2025-12-23**|**Higher-Dimensional Information Lattice: Quantum State Characterization through Inclusion-Exclusion Local Information**|Ian Matthias Flór et.al.|[2512.20793](http://arxiv.org/abs/2512.20793)|null|
 |**2025-12-18**|**Scalable tests of quantum contextuality from stabilizer-testing nonlocal games**|Wanbing Zhao et.al.|[2512.16654](http://arxiv.org/abs/2512.16654)|null|
 |**2025-12-14**|**Fortuity and relevant deformation**|Jaehyeok Choi et.al.|[2512.12674](http://arxiv.org/abs/2512.12674)|null|
@@ -2499,6 +2501,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-06**|**FTCircuitBench: A Benchmark Suite for Fault-Tolerant Quantum Compilation and Architecture**|Adrian Harkness et.al.|[2601.03185](http://arxiv.org/abs/2601.03185)|null|
 |**2026-01-05**|**Developments in superconducting erasure qubits for hardware-efficient quantum error correction**|Maria Violaris et.al.|[2601.02183](http://arxiv.org/abs/2601.02183)|null|
 |**2026-01-04**|**Noise-Resilient Heisenberg-limited Quantum Sensing via Indefinite-Causal-Order Error Correction**|Hang Xu et.al.|[2601.01404](http://arxiv.org/abs/2601.01404)|null|
 |**2026-01-02**|**Improved decoding algorithms for surface codes under independent bit-flip and phase-flip errors**|Louay Bazzi et.al.|[2601.00972](http://arxiv.org/abs/2601.00972)|null|

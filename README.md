@@ -16,8 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**Detection-loophole-free nonlocality in the simplest scenario**|Nandana T Raveendranath et.al.|[2601.03817](http://arxiv.org/abs/2601.03817)|null|
 |**2026-01-06**|**Violation of Bell Monogamy Relations**|Abhisek Panda et.al.|[2601.02925](http://arxiv.org/abs/2601.02925)|null|
-|**2026-01-06**|**Trading symmetry for Hilbert-space dimension in Bell-inequality violation**|Hsin-Yu Hsu et.al.|[2601.02893](http://arxiv.org/abs/2601.02893)|null|
+|**2026-01-07**|**Trading symmetry for Hilbert-space dimension in Bell-inequality violation**|Hsin-Yu Hsu et.al.|[2601.02893](http://arxiv.org/abs/2601.02893)|null|
 |**2026-01-05**|**Binarisation-loophole-free observation of high-dimensional quantum nonlocality**|Jia-le Miao et.al.|[2601.02350](http://arxiv.org/abs/2601.02350)|null|
 |**2025-12-31**|**No-cost Bell Nonlocality Certification from Quantum Tomography and Its Applications in Quantum Magic Witnessing**|Pawel Cieslinski et.al.|[2512.25068](http://arxiv.org/abs/2512.25068)|null|
 |**2025-12-29**|**Gedanken Experiments of Entanglement in Particle Physics: Interactions, Operators and Bell Inequalities in Flavor Space**|Corbin Pacheco et.al.|[2512.23855](http://arxiv.org/abs/2512.23855)|null|
@@ -1322,7 +1323,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-03**|**The Completeness of Eigenstates in Quantum Mechanics**|Guoping Zhang et.al.|[2601.01136](http://arxiv.org/abs/2601.01136)|null|
+|**2026-01-07**|**Discontinuous Galerkin finite element operator network for solving non-smooth PDEs**|Kapil Chawla et.al.|[2601.03668](http://arxiv.org/abs/2601.03668)|null|
+|**2026-01-07**|**First Thin-Film Lithium Tantalate Polarization Controller Enabling Reset-Free Mrad/s Tracking for Optical Interconnects**|Zichao Gao et.al.|[2601.03652](http://arxiv.org/abs/2601.03652)|null|
+|**2026-01-07**|**The Completeness of Eigenstates in Quantum Mechanics**|Guoping Zhang et.al.|[2601.01136](http://arxiv.org/abs/2601.01136)|null|
 |**2025-12-26**|**Measure of entanglement and the monogamy relation: a topical review**|Yu Guo et.al.|[2512.21992](http://arxiv.org/abs/2512.21992)|null|
 |**2025-12-24**|**Operation of a tunable Power over Fiber system for light detectors down to 4.6 K**|A. Andreani et.al.|[2512.21207](http://arxiv.org/abs/2512.21207)|null|
 |**2025-12-22**|**Micromagnet-free operation of electron spin qubits in Si/Si $_{1-x}$Ge$_x$ vertical double quantum dots**|Abhikbrata Sarkar et.al.|[2512.19785](http://arxiv.org/abs/2512.19785)|null|

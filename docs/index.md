@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1130,6 +1130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-07**|**Detection-loophole-free nonlocality in the simplest scenario**|Nandana T Raveendranath et.al.|[2601.03817](http://arxiv.org/abs/2601.03817)|null|
 |**2026-01-05**|**A General Class of Functionals for Certifying Quantum Incompatibility**|Kuan-Yi Lee et.al.|[2601.02239](http://arxiv.org/abs/2601.02239)|null|
 |**2026-01-04**|**Einstein-Podolsky-Rosen Steering in Three Coupled Harmonic Oscillators**|Ayoub Ghaba et.al.|[2601.01307](http://arxiv.org/abs/2601.01307)|null|
 |**2025-12-26**|**A Fundamental Theorem on Einstein-Podolsky-Rosen Steering**|Yu-Xuan Zhang et.al.|[2512.22030](http://arxiv.org/abs/2512.22030)|null|
@@ -2504,6 +2505,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-07**|**Conveyor-mode electron shuttling through a T-junction in Si/SiGe**|Max Beer et.al.|[2601.03942](http://arxiv.org/abs/2601.03942)|null|
+|**2026-01-07**|**Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes**|Mohammad Rowshan et.al.|[2601.03623](http://arxiv.org/abs/2601.03623)|null|
 |**2026-01-06**|**FTCircuitBench: A Benchmark Suite for Fault-Tolerant Quantum Compilation and Architecture**|Adrian Harkness et.al.|[2601.03185](http://arxiv.org/abs/2601.03185)|null|
 |**2026-01-05**|**Developments in superconducting erasure qubits for hardware-efficient quantum error correction**|Maria Violaris et.al.|[2601.02183](http://arxiv.org/abs/2601.02183)|null|
 |**2026-01-04**|**Noise-Resilient Heisenberg-limited Quantum Sensing via Indefinite-Causal-Order Error Correction**|Hang Xu et.al.|[2601.01404](http://arxiv.org/abs/2601.01404)|null|

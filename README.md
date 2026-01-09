@@ -1,4 +1,4 @@
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -585,7 +585,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -879,7 +879,7 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -1139,12 +1139,13 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 ## Quantum steering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**Detection-loophole-free nonlocality in the simplest scenario**|Nandana T Raveendranath et.al.|[2601.03817](http://arxiv.org/abs/2601.03817)|null|
 |**2026-01-05**|**A General Class of Functionals for Certifying Quantum Incompatibility**|Kuan-Yi Lee et.al.|[2601.02239](http://arxiv.org/abs/2601.02239)|null|
 |**2026-01-04**|**Einstein-Podolsky-Rosen Steering in Three Coupled Harmonic Oscillators**|Ayoub Ghaba et.al.|[2601.01307](http://arxiv.org/abs/2601.01307)|null|
 |**2025-12-26**|**A Fundamental Theorem on Einstein-Podolsky-Rosen Steering**|Yu-Xuan Zhang et.al.|[2512.22030](http://arxiv.org/abs/2512.22030)|null|
@@ -1317,7 +1318,7 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 ## Resource theory
 
@@ -1806,7 +1807,7 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -2517,7 +2518,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -2525,6 +2526,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-07**|**Conveyor-mode electron shuttling through a T-junction in Si/SiGe**|Max Beer et.al.|[2601.03942](http://arxiv.org/abs/2601.03942)|null|
+|**2026-01-07**|**Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes**|Mohammad Rowshan et.al.|[2601.03623](http://arxiv.org/abs/2601.03623)|null|
 |**2026-01-06**|**FTCircuitBench: A Benchmark Suite for Fault-Tolerant Quantum Compilation and Architecture**|Adrian Harkness et.al.|[2601.03185](http://arxiv.org/abs/2601.03185)|null|
 |**2026-01-05**|**Developments in superconducting erasure qubits for hardware-efficient quantum error correction**|Maria Violaris et.al.|[2601.02183](http://arxiv.org/abs/2601.02183)|null|
 |**2026-01-04**|**Noise-Resilient Heisenberg-limited Quantum Sensing via Indefinite-Causal-Order Error Correction**|Hang Xu et.al.|[2601.01404](http://arxiv.org/abs/2601.01404)|null|
@@ -4287,5 +4290,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 

@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Hardy nonlocality for entangled pairs in a four-particle system**|Duc Manh Doan et.al.|[2601.04636](http://arxiv.org/abs/2601.04636)|null|
+|**2026-01-03**|**Overlooked local interactions in the EPR Paradox**|N. O. Chudak et.al.|[2601.04230](http://arxiv.org/abs/2601.04230)|null|
 |**2026-01-07**|**Detection-loophole-free nonlocality in the simplest scenario**|Nandana T Raveendranath et.al.|[2601.03817](http://arxiv.org/abs/2601.03817)|null|
 |**2026-01-06**|**Violation of Bell Monogamy Relations**|Abhisek Panda et.al.|[2601.02925](http://arxiv.org/abs/2601.02925)|null|
 |**2026-01-07**|**Trading symmetry for Hilbert-space dimension in Bell-inequality violation**|Hsin-Yu Hsu et.al.|[2601.02893](http://arxiv.org/abs/2601.02893)|null|
@@ -580,6 +582,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Fast Continuum Robot Shape and External Load State Estimation on SE(3)**|James M. Ferguson et.al.|[2601.04493](http://arxiv.org/abs/2601.04493)|null|
 |**2026-01-03**|**Non-Markovian and Thermodynamic Signatures in the Classicality Assessment via Kolmogorov Consistency**|Arghya Maity et.al.|[2601.01122](http://arxiv.org/abs/2601.01122)|null|
 |**2025-12-10**|**Quantumness certification via non-demolition measurements**|Paolo Solinas et.al.|[2512.09734](http://arxiv.org/abs/2512.09734)|null|
 |**2025-12-08**|**On Dirac-type correlations**|James Fullwood et.al.|[2512.08068](http://arxiv.org/abs/2512.08068)|null|
@@ -2505,6 +2508,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-08**|**Unitary fault-tolerant encoding of Pauli states in surface codes**|Luis Colmenarez et.al.|[2601.05113](http://arxiv.org/abs/2601.05113)|null|
+|**2026-01-08**|**Holographic codes seen through ZX-calculus**|Kwok Ho Wan et.al.|[2601.04467](http://arxiv.org/abs/2601.04467)|null|
+|**2026-01-07**|**Rare-Event Quantum Sensing using Logical Qubits**|Robert Ott et.al.|[2601.04313](http://arxiv.org/abs/2601.04313)|null|
 |**2026-01-07**|**Conveyor-mode electron shuttling through a T-junction in Si/SiGe**|Max Beer et.al.|[2601.03942](http://arxiv.org/abs/2601.03942)|null|
 |**2026-01-07**|**Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes**|Mohammad Rowshan et.al.|[2601.03623](http://arxiv.org/abs/2601.03623)|null|
 |**2026-01-06**|**FTCircuitBench: A Benchmark Suite for Fault-Tolerant Quantum Compilation and Architecture**|Adrian Harkness et.al.|[2601.03185](http://arxiv.org/abs/2601.03185)|null|

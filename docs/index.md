@@ -1805,7 +1805,7 @@ layout: default
 |**2025-12-27**|**Measuring out-of-time-order correlators on a quantum computer based on an irreversibility-susceptibility method**|Haruki Emori et.al.|[2512.22643](http://arxiv.org/abs/2512.22643)|null|
 |**2025-12-25**|**Investigation of quantum chaos in local and non-local Ising models**|Reza Pirmoradian et.al.|[2512.21713](http://arxiv.org/abs/2512.21713)|null|
 |**2025-12-24**|**Information-Scrambling-Enhanced Quantum Sensing Beyond the Standard Quantum Limit**|Yangyang Ge et.al.|[2512.21157](http://arxiv.org/abs/2512.21157)|null|
-|**2025-12-24**|**OTOC and Quamtum Chaos of Interacting Scalar Fields**|Wung-Hong Huang et.al.|[2512.21023](http://arxiv.org/abs/2512.21023)|null|
+|**2026-01-09**|**OTOC and Quamtum Chaos of Interacting Scalar Fields**|Wung-Hong Huang et.al.|[2512.21023](http://arxiv.org/abs/2512.21023)|null|
 |**2025-12-23**|**Quantum Ising Model on $(2+1)-$Dimensional Anti$-$ de Sitter Space using Tensor Networks**|Simon Catterall et.al.|[2512.20838](http://arxiv.org/abs/2512.20838)|null|
 |**2025-12-23**|**Krylov complexity in ergodically constrained nonintegrable transverse-field Ising model**|Gaurav Rudra Malik et.al.|[2512.20285](http://arxiv.org/abs/2512.20285)|null|
 |**2025-12-22**|**The relation between classical and quantum Lyapunov exponent and the bound on chaos in classically chaotic quantum systems**|Fabian Haneder et.al.|[2512.19869](http://arxiv.org/abs/2512.19869)|null|
@@ -2508,6 +2508,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-09**|**Below-threshold error reduction in single photons through photon distillation**|F. H. B. Somhorst et.al.|[2601.05947](http://arxiv.org/abs/2601.05947)|null|
+|**2026-01-09**|**Causality Criteria for Island Models**|Feiyu Deng et.al.|[2601.05620](http://arxiv.org/abs/2601.05620)|null|
+|**2026-01-09**|**Achieving the Heisenberg limit using fault-tolerant quantum error correction**|Himanshu Sahu et.al.|[2601.05457](http://arxiv.org/abs/2601.05457)|null|
+|**2026-01-08**|**Interacting electrons in silicon quantum interconnects**|Anantha S. Rao et.al.|[2601.05306](http://arxiv.org/abs/2601.05306)|null|
 |**2026-01-08**|**Unitary fault-tolerant encoding of Pauli states in surface codes**|Luis Colmenarez et.al.|[2601.05113](http://arxiv.org/abs/2601.05113)|null|
 |**2026-01-08**|**Holographic codes seen through ZX-calculus**|Kwok Ho Wan et.al.|[2601.04467](http://arxiv.org/abs/2601.04467)|null|
 |**2026-01-07**|**Rare-Event Quantum Sensing using Logical Qubits**|Robert Ott et.al.|[2601.04313](http://arxiv.org/abs/2601.04313)|null|

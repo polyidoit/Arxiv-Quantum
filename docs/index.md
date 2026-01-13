@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**A unified framework for Bell inequalities from continuous-variable contextuality**|Carlos Ernesto Lopetegui-González et.al.|[2601.07686](http://arxiv.org/abs/2601.07686)|null|
 |**2026-01-08**|**Hardy nonlocality for entangled pairs in a four-particle system**|Duc Manh Doan et.al.|[2601.04636](http://arxiv.org/abs/2601.04636)|null|
 |**2026-01-03**|**Overlooked local interactions in the EPR Paradox**|N. O. Chudak et.al.|[2601.04230](http://arxiv.org/abs/2601.04230)|null|
 |**2026-01-07**|**Detection-loophole-free nonlocality in the simplest scenario**|Nandana T Raveendranath et.al.|[2601.03817](http://arxiv.org/abs/2601.03817)|null|
@@ -582,6 +583,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**A proposal for the algebra of a novel noncommutative spacetime**|Markus B. Fröb et.al.|[2601.07350](http://arxiv.org/abs/2601.07350)|null|
 |**2026-01-08**|**Fast Continuum Robot Shape and External Load State Estimation on SE(3)**|James M. Ferguson et.al.|[2601.04493](http://arxiv.org/abs/2601.04493)|null|
 |**2026-01-03**|**Non-Markovian and Thermodynamic Signatures in the Classicality Assessment via Kolmogorov Consistency**|Arghya Maity et.al.|[2601.01122](http://arxiv.org/abs/2601.01122)|null|
 |**2025-12-10**|**Quantumness certification via non-demolition measurements**|Paolo Solinas et.al.|[2512.09734](http://arxiv.org/abs/2512.09734)|null|
@@ -1310,6 +1312,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Single-Chip 1.024 Tb/s Optical Receiver for High-Speed Optical links**|Ali Pirmoradi et.al.|[2601.07709](http://arxiv.org/abs/2601.07709)|null|
+|**2026-01-10**|**Non-volatile Programmable Photonic Integrated Circuits using Mechanically Latched MEMS: A System-Level Scheme Enabling Power-Connection-Free Operation Without Performance Compromise**|Ran Tao et.al.|[2601.06578](http://arxiv.org/abs/2601.06578)|null|
 |**2026-01-07**|**Discontinuous Galerkin finite element operator network for solving non-smooth PDEs**|Kapil Chawla et.al.|[2601.03668](http://arxiv.org/abs/2601.03668)|null|
 |**2026-01-07**|**First Thin-Film Lithium Tantalate Polarization Controller Enabling Reset-Free Mrad/s Tracking for Optical Interconnects**|Zichao Gao et.al.|[2601.03652](http://arxiv.org/abs/2601.03652)|null|
 |**2026-01-07**|**The Completeness of Eigenstates in Quantum Mechanics**|Guoping Zhang et.al.|[2601.01136](http://arxiv.org/abs/2601.01136)|null|
@@ -2508,6 +2512,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-12**|**Multi-pathline flow visualization using PIV images**|Yukun Sun et.al.|[2601.07643](http://arxiv.org/abs/2601.07643)|null|
+|**2026-01-12**|**Fault-tolerant modular quantum computing with surface codes using single-shot emission-based hardware**|Siddhant Singh et.al.|[2601.07241](http://arxiv.org/abs/2601.07241)|null|
+|**2026-01-12**|**Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy**|Mohammad Rowshan et.al.|[2601.07240](http://arxiv.org/abs/2601.07240)|null|
+|**2026-01-12**|**Quantum Error Correction and Detection for Quantum Machine Learning**|Eromanga Adermann et.al.|[2601.07223](http://arxiv.org/abs/2601.07223)|null|
+|**2026-01-11**|**Quantum Circuit-Based Adaptation for Credit Risk Analysis**|Halima Giovanna Ahmad et.al.|[2601.06865](http://arxiv.org/abs/2601.06865)|null|
 |**2026-01-09**|**Below-threshold error reduction in single photons through photon distillation**|F. H. B. Somhorst et.al.|[2601.05947](http://arxiv.org/abs/2601.05947)|null|
 |**2026-01-09**|**Causality Criteria for Island Models**|Feiyu Deng et.al.|[2601.05620](http://arxiv.org/abs/2601.05620)|null|
 |**2026-01-09**|**Achieving the Heisenberg limit using fault-tolerant quantum error correction**|Himanshu Sahu et.al.|[2601.05457](http://arxiv.org/abs/2601.05457)|null|

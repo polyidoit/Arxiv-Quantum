@@ -2533,6 +2533,9 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-13**|**Quantum CSS LDPC Codes based on Dyadic Matrices for Belief Propagation-based Decoding**|Alessio Baldelli et.al.|[2601.08636](http://arxiv.org/abs/2601.08636)|null|
+|**2026-01-12**|**Learning Better Error Correction Codes with Hybrid Quantum-Assisted Machine Learning**|Yariv Yanay et.al.|[2601.08014](http://arxiv.org/abs/2601.08014)|null|
+|**2026-01-10**|**Fault-Tolerant Quantum Error Correction: Implementing Hamming-Based Codes with Advanced Syndrome Extraction Techniques**|Soham Bhadra et.al.|[2601.07860](http://arxiv.org/abs/2601.07860)|null|
 |**2026-01-12**|**Multi-pathline flow visualization using PIV images**|Yukun Sun et.al.|[2601.07643](http://arxiv.org/abs/2601.07643)|null|
 |**2026-01-12**|**Fault-tolerant modular quantum computing with surface codes using single-shot emission-based hardware**|Siddhant Singh et.al.|[2601.07241](http://arxiv.org/abs/2601.07241)|null|
 |**2026-01-12**|**Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy**|Mohammad Rowshan et.al.|[2601.07240](http://arxiv.org/abs/2601.07240)|null|

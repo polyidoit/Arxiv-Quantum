@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Quantum properties of heavy-fermion pairs at a lepton collider with polarised beams**|Mohammad Mahdi Altakach et.al.|[2601.09558](http://arxiv.org/abs/2601.09558)|null|
+|**2026-01-13**|**Exploring Bell Nonlocality with Extremal Non-Signaling Boxes**|Emmanuel Zambrini Cruzeiro et.al.|[2601.08924](http://arxiv.org/abs/2601.08924)|null|
 |**2026-01-12**|**A unified framework for Bell inequalities from continuous-variable contextuality**|Carlos Ernesto Lopetegui-González et.al.|[2601.07686](http://arxiv.org/abs/2601.07686)|null|
 |**2026-01-08**|**Hardy nonlocality for entangled pairs in a four-particle system**|Duc Manh Doan et.al.|[2601.04636](http://arxiv.org/abs/2601.04636)|null|
 |**2026-01-03**|**Overlooked local interactions in the EPR Paradox**|N. O. Chudak et.al.|[2601.04230](http://arxiv.org/abs/2601.04230)|null|
@@ -877,6 +879,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Superadditivity of Zero-Error Capacity in Noisy Classical and Perfect Quantum Channel Pairs**|Ambuj et.al.|[2601.08913](http://arxiv.org/abs/2601.08913)|null|
 |**2026-01-05**|**Hilbert Polynomials of Calabi Yau Hypersurfaces in Toric Varieties and Lattice Points in Polytope Boundaries**|Jonathan Weitsman et.al.|[2601.02176](http://arxiv.org/abs/2601.02176)|null|
 |**2026-01-05**|**Exploring bound states and interactions of the nucleon-antinucleon system in a constituent quark model**|Aaron Park et.al.|[2601.01953](http://arxiv.org/abs/2601.01953)|null|
 |**2026-01-06**|**The Equivalence between Hardy-type paradox and Logical Contextuality**|Songyi Liu et.al.|[2601.01445](http://arxiv.org/abs/2601.01445)|null|
@@ -2512,6 +2515,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-14**|**Geometry- and Topology-Informed Quantum Computing: From States to Real-Time Control with FPGA Prototypes**|Gunhee Cho et.al.|[2601.09556](http://arxiv.org/abs/2601.09556)|null|
+|**2026-01-14**|**Bidirectional Decoding for Concatenated Quantum Hamming Codes**|Chao Zhang et.al.|[2601.09131](http://arxiv.org/abs/2601.09131)|null|
+|**2026-01-13**|**Obfuscation of Arbitrary Quantum Circuits**|Miryam Mi-Ying Huang et.al.|[2601.08969](http://arxiv.org/abs/2601.08969)|null|
 |**2026-01-13**|**Quantum CSS LDPC Codes based on Dyadic Matrices for Belief Propagation-based Decoding**|Alessio Baldelli et.al.|[2601.08636](http://arxiv.org/abs/2601.08636)|null|
 |**2026-01-12**|**Learning Better Error Correction Codes with Hybrid Quantum-Assisted Machine Learning**|Yariv Yanay et.al.|[2601.08014](http://arxiv.org/abs/2601.08014)|null|
 |**2026-01-10**|**Fault-Tolerant Quantum Error Correction: Implementing Hamming-Based Codes with Advanced Syndrome Extraction Techniques**|Soham Bhadra et.al.|[2601.07860](http://arxiv.org/abs/2601.07860)|null|

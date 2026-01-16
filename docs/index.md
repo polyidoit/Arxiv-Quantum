@@ -879,6 +879,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Asymptotic Stability and Equilibrium Selection in Quasi-Feller Systems with Minimal Moment Conditions**|Jean-Gabriel Attali et.al.|[2601.09880](http://arxiv.org/abs/2601.09880)|null|
 |**2026-01-13**|**Superadditivity of Zero-Error Capacity in Noisy Classical and Perfect Quantum Channel Pairs**|Ambuj et.al.|[2601.08913](http://arxiv.org/abs/2601.08913)|null|
 |**2026-01-05**|**Hilbert Polynomials of Calabi Yau Hypersurfaces in Toric Varieties and Lattice Points in Polytope Boundaries**|Jonathan Weitsman et.al.|[2601.02176](http://arxiv.org/abs/2601.02176)|null|
 |**2026-01-05**|**Exploring bound states and interactions of the nucleon-antinucleon system in a constituent quark model**|Aaron Park et.al.|[2601.01953](http://arxiv.org/abs/2601.01953)|null|
@@ -1315,6 +1316,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Exponential Analysis for Entanglement Distillation**|Zhiwen Lin et.al.|[2601.10190](http://arxiv.org/abs/2601.10190)|null|
 |**2026-01-12**|**Single-Chip 1.024 Tb/s Optical Receiver for High-Speed Optical links**|Ali Pirmoradi et.al.|[2601.07709](http://arxiv.org/abs/2601.07709)|null|
 |**2026-01-10**|**Non-volatile Programmable Photonic Integrated Circuits using Mechanically Latched MEMS: A System-Level Scheme Enabling Power-Connection-Free Operation Without Performance Compromise**|Ran Tao et.al.|[2601.06578](http://arxiv.org/abs/2601.06578)|null|
 |**2026-01-07**|**Discontinuous Galerkin finite element operator network for solving non-smooth PDEs**|Kapil Chawla et.al.|[2601.03668](http://arxiv.org/abs/2601.03668)|null|
@@ -2515,6 +2517,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-15**|**Hybrid Encryption with Certified Deletion in Preprocessing Model**|Kunal Dey et.al.|[2601.10542](http://arxiv.org/abs/2601.10542)|null|
+|**2026-01-15**|**Erasure conversion for singlet-triplet spin qubits enables high-performance shuttling-based quantum error correction**|Adam Siegel et.al.|[2601.10461](http://arxiv.org/abs/2601.10461)|null|
+|**2026-01-15**|**Experimental Realization of Rabi-Driven Reset for Fast Cooling of a High-Q Cavity**|Eliya Blumenthal et.al.|[2601.10385](http://arxiv.org/abs/2601.10385)|null|
+|**2026-01-15**|**Noise-Resilient Quantum Evolution in Open Systems through Error-Correcting Frameworks**|Nirupam Basak et.al.|[2601.10206](http://arxiv.org/abs/2601.10206)|null|
+|**2026-01-15**|**Bridging Superconducting and Neutral-Atom Platforms for Efficient Fault-Tolerant Quantum Architectures**|Xiang Fang et.al.|[2601.10144](http://arxiv.org/abs/2601.10144)|null|
+|**2026-01-15**|**Towards Minimal Fault-tolerant Error-Correction Sequence with Quantum Hamming Codes**|Sha Shi et.al.|[2601.10042](http://arxiv.org/abs/2601.10042)|null|
+|**2026-01-14**|**Learning to Decode in Parallel: Self-Coordinating Neural Network for Real-Time Quantum Error Correction**|Kai Zhang et.al.|[2601.09921](http://arxiv.org/abs/2601.09921)|null|
+|**2026-01-14**|**Time-Dynamic Circuits for Fault-Tolerant Shift Automorphisms in Quantum LDPC Codes**|Younghun Kim et.al.|[2601.09911](http://arxiv.org/abs/2601.09911)|null|
+|**2026-01-14**|**Fragmented Topological Excitations in Generalized Hypergraph Product Codes**|Meng-Yuan Li et.al.|[2601.09850](http://arxiv.org/abs/2601.09850)|null|
 |**2026-01-14**|**Geometry- and Topology-Informed Quantum Computing: From States to Real-Time Control with FPGA Prototypes**|Gunhee Cho et.al.|[2601.09556](http://arxiv.org/abs/2601.09556)|null|
 |**2026-01-14**|**Bidirectional Decoding for Concatenated Quantum Hamming Codes**|Chao Zhang et.al.|[2601.09131](http://arxiv.org/abs/2601.09131)|null|
 |**2026-01-13**|**Obfuscation of Arbitrary Quantum Circuits**|Miryam Mi-Ying Huang et.al.|[2601.08969](http://arxiv.org/abs/2601.08969)|null|

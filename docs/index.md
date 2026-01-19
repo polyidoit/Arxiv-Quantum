@@ -585,6 +585,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**The two-time Leggett-Garg inequalities of a superconducting qubit interacting with thermal photons in a cavity**|Hiroo Azuma et.al.|[2601.10946](http://arxiv.org/abs/2601.10946)|null|
+|**2026-01-16**|**Two-tooth bosonic quantum comb for temporal-correlation sensing**|Shaojiang Zhu et.al.|[2601.10916](http://arxiv.org/abs/2601.10916)|null|
 |**2026-01-12**|**A proposal for the algebra of a novel noncommutative spacetime**|Markus B. Fröb et.al.|[2601.07350](http://arxiv.org/abs/2601.07350)|null|
 |**2026-01-08**|**Fast Continuum Robot Shape and External Load State Estimation on SE(3)**|James M. Ferguson et.al.|[2601.04493](http://arxiv.org/abs/2601.04493)|null|
 |**2026-01-03**|**Non-Markovian and Thermodynamic Signatures in the Classicality Assessment via Kolmogorov Consistency**|Arghya Maity et.al.|[2601.01122](http://arxiv.org/abs/2601.01122)|null|
@@ -879,6 +881,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Fundamental Limits of Quantum Semantic Communication via Sheaf Cohomology**|Christo Kurisummoottil Thomas et.al.|[2601.10958](http://arxiv.org/abs/2601.10958)|null|
+|**2026-01-15**|**Exponential gain in clock precision using quantum correlated ticks**|Florian Meier et.al.|[2601.10785](http://arxiv.org/abs/2601.10785)|null|
 |**2026-01-14**|**Asymptotic Stability and Equilibrium Selection in Quasi-Feller Systems with Minimal Moment Conditions**|Jean-Gabriel Attali et.al.|[2601.09880](http://arxiv.org/abs/2601.09880)|null|
 |**2026-01-13**|**Superadditivity of Zero-Error Capacity in Noisy Classical and Perfect Quantum Channel Pairs**|Ambuj et.al.|[2601.08913](http://arxiv.org/abs/2601.08913)|null|
 |**2026-01-05**|**Hilbert Polynomials of Calabi Yau Hypersurfaces in Toric Varieties and Lattice Points in Polytope Boundaries**|Jonathan Weitsman et.al.|[2601.02176](http://arxiv.org/abs/2601.02176)|null|
@@ -1316,7 +1320,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-15**|**Exponential Analysis for Entanglement Distillation**|Zhiwen Lin et.al.|[2601.10190](http://arxiv.org/abs/2601.10190)|null|
+|**2026-01-16**|**Exponential Analysis for Entanglement Distillation**|Zhiwen Lin et.al.|[2601.10190](http://arxiv.org/abs/2601.10190)|null|
 |**2026-01-12**|**Single-Chip 1.024 Tb/s Optical Receiver for High-Speed Optical links**|Ali Pirmoradi et.al.|[2601.07709](http://arxiv.org/abs/2601.07709)|null|
 |**2026-01-10**|**Non-volatile Programmable Photonic Integrated Circuits using Mechanically Latched MEMS: A System-Level Scheme Enabling Power-Connection-Free Operation Without Performance Compromise**|Ran Tao et.al.|[2601.06578](http://arxiv.org/abs/2601.06578)|null|
 |**2026-01-07**|**Discontinuous Galerkin finite element operator network for solving non-smooth PDEs**|Kapil Chawla et.al.|[2601.03668](http://arxiv.org/abs/2601.03668)|null|
@@ -2517,6 +2521,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-16**|**Convergence Properties of Good Quantum Codes for Classical Communication**|Alptug Aytekin et.al.|[2601.11498](http://arxiv.org/abs/2601.11498)|null|
+|**2026-01-16**|**An algebraic description of the Page transition**|Haocheng Zhong et.al.|[2601.11363](http://arxiv.org/abs/2601.11363)|null|
+|**2026-01-15**|**Critical non-equilibrium phases from noisy topological memories**|Amir-Reza Negari et.al.|[2601.10792](http://arxiv.org/abs/2601.10792)|null|
+|**2026-01-15**|**Elevator Codes: Concatenation for resource-efficient quantum memory under biased noise**|Peter Shanahan et.al.|[2601.10786](http://arxiv.org/abs/2601.10786)|null|
 |**2026-01-15**|**Hybrid Encryption with Certified Deletion in Preprocessing Model**|Kunal Dey et.al.|[2601.10542](http://arxiv.org/abs/2601.10542)|null|
 |**2026-01-15**|**Erasure conversion for singlet-triplet spin qubits enables high-performance shuttling-based quantum error correction**|Adam Siegel et.al.|[2601.10461](http://arxiv.org/abs/2601.10461)|null|
 |**2026-01-15**|**Experimental Realization of Rabi-Driven Reset for Fast Cooling of a High-Q Cavity**|Eliya Blumenthal et.al.|[2601.10385](http://arxiv.org/abs/2601.10385)|null|

@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-19**|**Was the Early Universe Quantum? Falsifying Classical Stochastic Inflation**|Veronica Sanz et.al.|[2601.13053](http://arxiv.org/abs/2601.13053)|null|
+|**2026-01-18**|**Hierarchy of quantum correlations in qubit-qutrit axially symmetric states**|Venkat Abhignan et.al.|[2601.12292](http://arxiv.org/abs/2601.12292)|null|
+|**2026-01-17**|**Physical probability in the Everett interpretation and Bell inequalities**|Simon Saunders et.al.|[2601.12159](http://arxiv.org/abs/2601.12159)|null|
+|**2026-01-17**|**Peres-type Criterion of Einstein-Podolsky-Rosen Steering for Two Qubits**|Yu-Xuan Zhang et.al.|[2601.12085](http://arxiv.org/abs/2601.12085)|null|
 |**2026-01-14**|**Quantum properties of heavy-fermion pairs at a lepton collider with polarised beams**|Mohammad Mahdi Altakach et.al.|[2601.09558](http://arxiv.org/abs/2601.09558)|null|
 |**2026-01-13**|**Exploring Bell Nonlocality with Extremal Non-Signaling Boxes**|Emmanuel Zambrini Cruzeiro et.al.|[2601.08924](http://arxiv.org/abs/2601.08924)|null|
 |**2026-01-12**|**A unified framework for Bell inequalities from continuous-variable contextuality**|Carlos Ernesto Lopetegui-González et.al.|[2601.07686](http://arxiv.org/abs/2601.07686)|null|
@@ -596,6 +600,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-18**|**Measuring unconventional causal structures in monitored dynamics**|Hong-Yi Wang et.al.|[2601.12271](http://arxiv.org/abs/2601.12271)|null|
 |**2026-01-16**|**The two-time Leggett-Garg inequalities of a superconducting qubit interacting with thermal photons in a cavity**|Hiroo Azuma et.al.|[2601.10946](http://arxiv.org/abs/2601.10946)|null|
 |**2026-01-16**|**Two-tooth bosonic quantum comb for temporal-correlation sensing**|Shaojiang Zhu et.al.|[2601.10916](http://arxiv.org/abs/2601.10916)|null|
 |**2026-01-12**|**A proposal for the algebra of a novel noncommutative spacetime**|Markus B. Fröb et.al.|[2601.07350](http://arxiv.org/abs/2601.07350)|null|
@@ -894,11 +899,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-19**|**WH Statistics: Generalized Pauli Principle for Partially Distinguishable Particles**|Wang Hao et.al.|[2601.12838](http://arxiv.org/abs/2601.12838)|null|
 |**2026-01-16**|**Fundamental Limits of Quantum Semantic Communication via Sheaf Cohomology**|Christo Kurisummoottil Thomas et.al.|[2601.10958](http://arxiv.org/abs/2601.10958)|null|
 |**2026-01-15**|**Exponential gain in clock precision using quantum correlated ticks**|Florian Meier et.al.|[2601.10785](http://arxiv.org/abs/2601.10785)|null|
 |**2026-01-14**|**Asymptotic Stability and Equilibrium Selection in Quasi-Feller Systems with Minimal Moment Conditions**|Jean-Gabriel Attali et.al.|[2601.09880](http://arxiv.org/abs/2601.09880)|null|
 |**2026-01-13**|**Superadditivity of Zero-Error Capacity in Noisy Classical and Perfect Quantum Channel Pairs**|Ambuj et.al.|[2601.08913](http://arxiv.org/abs/2601.08913)|null|
-|**2026-01-05**|**Hilbert Polynomials of Calabi Yau Hypersurfaces in Toric Varieties and Lattice Points in Polytope Boundaries**|Jonathan Weitsman et.al.|[2601.02176](http://arxiv.org/abs/2601.02176)|null|
+|**2026-01-18**|**Hilbert Polynomials of Calabi Yau Hypersurfaces in Toric Varieties and Lattice Points in Polytope Boundaries**|Jonathan Weitsman et.al.|[2601.02176](http://arxiv.org/abs/2601.02176)|null|
 |**2026-01-05**|**Exploring bound states and interactions of the nucleon-antinucleon system in a constituent quark model**|Aaron Park et.al.|[2601.01953](http://arxiv.org/abs/2601.01953)|null|
 |**2026-01-06**|**The Equivalence between Hardy-type paradox and Logical Contextuality**|Songyi Liu et.al.|[2601.01445](http://arxiv.org/abs/2601.01445)|null|
 |**2025-12-23**|**Higher-Dimensional Information Lattice: Quantum State Characterization through Inclusion-Exclusion Local Information**|Ian Matthias Flór et.al.|[2512.20793](http://arxiv.org/abs/2512.20793)|null|
@@ -1158,6 +1164,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-17**|**Peres-type Criterion of Einstein-Podolsky-Rosen Steering for Two Qubits**|Yu-Xuan Zhang et.al.|[2601.12085](http://arxiv.org/abs/2601.12085)|null|
 |**2026-01-07**|**Detection-loophole-free nonlocality in the simplest scenario**|Nandana T Raveendranath et.al.|[2601.03817](http://arxiv.org/abs/2601.03817)|null|
 |**2026-01-05**|**A General Class of Functionals for Certifying Quantum Incompatibility**|Kuan-Yi Lee et.al.|[2601.02239](http://arxiv.org/abs/2601.02239)|null|
 |**2026-01-04**|**Einstein-Podolsky-Rosen Steering in Three Coupled Harmonic Oscillators**|Ayoub Ghaba et.al.|[2601.01307](http://arxiv.org/abs/2601.01307)|null|
@@ -1337,6 +1344,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Group Fourier filtering of quantum resources in quantum phase space**|Luke Coffman et.al.|[2601.14225](http://arxiv.org/abs/2601.14225)|null|
+|**2026-01-20**|**Ethernet-over-OWC Using VCSELs: Transparent Gigabit Links with Low Latency and Robust Alignment Tolerance**|Hossein Safi et.al.|[2601.13878](http://arxiv.org/abs/2601.13878)|null|
+|**2026-01-19**|**Two-Point Stabilizer Rényi Entropy: a Computable Magic Proxy of Interacting Fermions**|Jun Qi Fang et.al.|[2601.13314](http://arxiv.org/abs/2601.13314)|null|
+|**2026-01-18**|**Quantum Filtering for Squeezed Noise Inputs**|John Gough et.al.|[2601.12564](http://arxiv.org/abs/2601.12564)|null|
 |**2026-01-16**|**Exponential Analysis for Entanglement Distillation**|Zhiwen Lin et.al.|[2601.10190](http://arxiv.org/abs/2601.10190)|null|
 |**2026-01-12**|**Single-Chip 1.024 Tb/s Optical Receiver for High-Speed Optical links**|Ali Pirmoradi et.al.|[2601.07709](http://arxiv.org/abs/2601.07709)|null|
 |**2026-01-10**|**Non-volatile Programmable Photonic Integrated Circuits using Mechanically Latched MEMS: A System-Level Scheme Enabling Power-Connection-Free Operation Without Performance Compromise**|Ran Tao et.al.|[2601.06578](http://arxiv.org/abs/2601.06578)|null|
@@ -1829,6 +1840,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-19**|**Connecting Magic Dynamics in Thermofield Double States to Spectral Form Factors**|Ning Sun et.al.|[2601.12787](http://arxiv.org/abs/2601.12787)|null|
+|**2026-01-20**|**Maximal Entanglement and Frozen Information: A Unified Framework for Dynamical Quantum Phase Transitions**|Kaiyuan Cao et.al.|[2601.04535](http://arxiv.org/abs/2601.04535)|null|
 |**2026-01-05**|**Continuous Unitary Designs for Universally Robust Quantum Control**|Xiaodong Yang et.al.|[2601.01988](http://arxiv.org/abs/2601.01988)|null|
 |**2026-01-04**|**Bond Additivity and Persistent Geometric Imprints of Entanglement in Quantum Thermalization**|Chun-Yue Zhang et.al.|[2601.01327](http://arxiv.org/abs/2601.01327)|null|
 |**2025-12-31**|**Classical vs quantum dynamics and the onset of chaos in a macrospin system**|Haowei Fan et.al.|[2601.00062](http://arxiv.org/abs/2601.00062)|null|
@@ -2542,6 +2555,13 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-20**|**Stabilizer-Assisted Inactivation Decoding of Quantum Error-Correcting Codes with Erasures**|Giulio Pech et.al.|[2601.14236](http://arxiv.org/abs/2601.14236)|null|
+|**2026-01-20**|**3D Stacked Surface-Code Architecture for Measurement-Free Fault-Tolerant Quantum Error Correction**|GunSik Min et.al.|[2601.13648](http://arxiv.org/abs/2601.13648)|null|
+|**2026-01-19**|**Polynomial-time certification of fidelity for many-body mixed states and mixed-state universality classes**|Yuhan Liu et.al.|[2601.13333](http://arxiv.org/abs/2601.13333)|null|
+|**2026-01-19**|**Synthesis of Fault-tolerant State Preparation Circuits using Steane-type Error Detection**|Erik Weilandt et.al.|[2601.13313](http://arxiv.org/abs/2601.13313)|null|
+|**2026-01-18**|**AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**|Yuhao Liu et.al.|[2601.12509](http://arxiv.org/abs/2601.12509)|null|
+|**2026-01-18**|**A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding**|Hoang Viet Nguyen et.al.|[2601.12483](http://arxiv.org/abs/2601.12483)|null|
+|**2026-01-18**|**Topological quantum color code model on infinite lattice**|Shiyu Cao et.al.|[2601.12409](http://arxiv.org/abs/2601.12409)|null|
 |**2026-01-16**|**Convergence Properties of Good Quantum Codes for Classical Communication**|Alptug Aytekin et.al.|[2601.11498](http://arxiv.org/abs/2601.11498)|null|
 |**2026-01-16**|**An algebraic description of the Page transition**|Haocheng Zhong et.al.|[2601.11363](http://arxiv.org/abs/2601.11363)|null|
 |**2026-01-15**|**Critical non-equilibrium phases from noisy topological memories**|Amir-Reza Negari et.al.|[2601.10792](http://arxiv.org/abs/2601.10792)|null|

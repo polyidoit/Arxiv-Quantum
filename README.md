@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Impossible Counterfactuals, Discrete Hilbert Space and Bell's Theorem**|Tim Palmer et.al.|[2601.14941](http://arxiv.org/abs/2601.14941)|null|
 |**2026-01-19**|**Was the Early Universe Quantum? Falsifying Classical Stochastic Inflation**|Veronica Sanz et.al.|[2601.13053](http://arxiv.org/abs/2601.13053)|null|
 |**2026-01-18**|**Hierarchy of quantum correlations in qubit-qutrit axially symmetric states**|Venkat Abhignan et.al.|[2601.12292](http://arxiv.org/abs/2601.12292)|null|
 |**2026-01-17**|**Physical probability in the Everett interpretation and Bell inequalities**|Simon Saunders et.al.|[2601.12159](http://arxiv.org/abs/2601.12159)|null|
@@ -900,7 +901,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-01-19**|**WH Statistics: Generalized Pauli Principle for Partially Distinguishable Particles**|Wang Hao et.al.|[2601.12838](http://arxiv.org/abs/2601.12838)|null|
-|**2026-01-16**|**Fundamental Limits of Quantum Semantic Communication via Sheaf Cohomology**|Christo Kurisummoottil Thomas et.al.|[2601.10958](http://arxiv.org/abs/2601.10958)|null|
+|**2026-01-21**|**Fundamental Limits of Quantum Semantic Communication via Sheaf Cohomology**|Christo Kurisummoottil Thomas et.al.|[2601.10958](http://arxiv.org/abs/2601.10958)|null|
 |**2026-01-15**|**Exponential gain in clock precision using quantum correlated ticks**|Florian Meier et.al.|[2601.10785](http://arxiv.org/abs/2601.10785)|null|
 |**2026-01-14**|**Asymptotic Stability and Equilibrium Selection in Quasi-Feller Systems with Minimal Moment Conditions**|Jean-Gabriel Attali et.al.|[2601.09880](http://arxiv.org/abs/2601.09880)|null|
 |**2026-01-13**|**Superadditivity of Zero-Error Capacity in Noisy Classical and Perfect Quantum Channel Pairs**|Ambuj et.al.|[2601.08913](http://arxiv.org/abs/2601.08913)|null|
@@ -1344,6 +1345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Stochastic EMS for Optimal 24/7 Carbon-Free Energy Operations**|Natanon Tongamrak et.al.|[2601.15135](http://arxiv.org/abs/2601.15135)|null|
 |**2026-01-20**|**Group Fourier filtering of quantum resources in quantum phase space**|Luke Coffman et.al.|[2601.14225](http://arxiv.org/abs/2601.14225)|null|
 |**2026-01-20**|**Ethernet-over-OWC Using VCSELs: Transparent Gigabit Links with Low Latency and Robust Alignment Tolerance**|Hossein Safi et.al.|[2601.13878](http://arxiv.org/abs/2601.13878)|null|
 |**2026-01-19**|**Two-Point Stabilizer Rényi Entropy: a Computable Magic Proxy of Interacting Fermions**|Jun Qi Fang et.al.|[2601.13314](http://arxiv.org/abs/2601.13314)|null|
@@ -2555,6 +2557,7 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-21**|**Explainable OOHRI: Communicating Robot Capabilities and Limitations as Augmented Reality Affordances**|Lauren W. Wang et.al.|[2601.14587](http://arxiv.org/abs/2601.14587)|null|
 |**2026-01-20**|**Stabilizer-Assisted Inactivation Decoding of Quantum Error-Correcting Codes with Erasures**|Giulio Pech et.al.|[2601.14236](http://arxiv.org/abs/2601.14236)|null|
 |**2026-01-20**|**3D Stacked Surface-Code Architecture for Measurement-Free Fault-Tolerant Quantum Error Correction**|GunSik Min et.al.|[2601.13648](http://arxiv.org/abs/2601.13648)|null|
 |**2026-01-19**|**Polynomial-time certification of fidelity for many-body mixed states and mixed-state universality classes**|Yuhan Liu et.al.|[2601.13333](http://arxiv.org/abs/2601.13333)|null|

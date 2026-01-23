@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Robust Bell Nonlocality from Gottesman-Kitaev-Preskill States**|Xiaotian Yang et.al.|[2601.16189](http://arxiv.org/abs/2601.16189)|null|
+|**2026-01-22**|**Excluding Local Hidden Variables in $Λ\barΛ$ Production: The Incompatibility with Angular-Momentum Conservation and CPT Invariance**|Junle Pei et.al.|[2601.15747](http://arxiv.org/abs/2601.15747)|null|
 |**2026-01-21**|**Impossible Counterfactuals, Discrete Hilbert Space and Bell's Theorem**|Tim Palmer et.al.|[2601.14941](http://arxiv.org/abs/2601.14941)|null|
 |**2026-01-19**|**Was the Early Universe Quantum? Falsifying Classical Stochastic Inflation**|Veronica Sanz et.al.|[2601.13053](http://arxiv.org/abs/2601.13053)|null|
 |**2026-01-18**|**Hierarchy of quantum correlations in qubit-qutrit axially symmetric states**|Venkat Abhignan et.al.|[2601.12292](http://arxiv.org/abs/2601.12292)|null|
@@ -601,6 +603,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Exploring Quantumness at Long-Baseline Neutrino Experiments**|Murshed Alam et.al.|[2601.15375](http://arxiv.org/abs/2601.15375)|null|
 |**2026-01-18**|**Measuring unconventional causal structures in monitored dynamics**|Hong-Yi Wang et.al.|[2601.12271](http://arxiv.org/abs/2601.12271)|null|
 |**2026-01-16**|**The two-time Leggett-Garg inequalities of a superconducting qubit interacting with thermal photons in a cavity**|Hiroo Azuma et.al.|[2601.10946](http://arxiv.org/abs/2601.10946)|null|
 |**2026-01-16**|**Two-tooth bosonic quantum comb for temporal-correlation sensing**|Shaojiang Zhu et.al.|[2601.10916](http://arxiv.org/abs/2601.10916)|null|
@@ -1842,6 +1845,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Automated quantum circuit optimization with randomized replacements**|Marcin Szyniszewski et.al.|[2601.15934](http://arxiv.org/abs/2601.15934)|null|
+|**2026-01-21**|**Bidirectional teleportation using scrambling dynamics: a practical protocol**|Amit Vikram et.al.|[2601.15536](http://arxiv.org/abs/2601.15536)|null|
 |**2026-01-19**|**Connecting Magic Dynamics in Thermofield Double States to Spectral Form Factors**|Ning Sun et.al.|[2601.12787](http://arxiv.org/abs/2601.12787)|null|
 |**2026-01-20**|**Maximal Entanglement and Frozen Information: A Unified Framework for Dynamical Quantum Phase Transitions**|Kaiyuan Cao et.al.|[2601.04535](http://arxiv.org/abs/2601.04535)|null|
 |**2026-01-05**|**Continuous Unitary Designs for Universally Robust Quantum Control**|Xiaodong Yang et.al.|[2601.01988](http://arxiv.org/abs/2601.01988)|null|
@@ -2557,6 +2562,12 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-22**|**Calibration-Conditioned FiLM Decoders for Low-Latency Decoding of Quantum Error Correction Evaluated on IBM Repetition-Code Experiments**|Samuel Stein et.al.|[2601.16123](http://arxiv.org/abs/2601.16123)|null|
+|**2026-01-22**|**Enhancing the Size of Phase-Space States Containing Sub-Planck-Scale Structures via Non-Gaussian Operations**|Arman et.al.|[2601.15654](http://arxiv.org/abs/2601.15654)|null|
+|**2026-01-21**|**NWQWorkflow: The Northwest Quantum Workflow**|Ang Li et.al.|[2601.15521](http://arxiv.org/abs/2601.15521)|null|
+|**2026-01-21**|**Check-weight-constrained quantum codes: Bounds and examples**|Lily Wang et.al.|[2601.15446](http://arxiv.org/abs/2601.15446)|null|
+|**2026-01-21**|**On the quantum separability of qubit registers**|Szymon Łukaszyk et.al.|[2601.15364](http://arxiv.org/abs/2601.15364)|null|
+|**2026-01-21**|**USDs: A universal stabilizer decoder framework using symmetry**|Hoshitaro Ohnishi et.al.|[2601.15361](http://arxiv.org/abs/2601.15361)|null|
 |**2026-01-21**|**Explainable OOHRI: Communicating Robot Capabilities and Limitations as Augmented Reality Affordances**|Lauren W. Wang et.al.|[2601.14587](http://arxiv.org/abs/2601.14587)|null|
 |**2026-01-20**|**Stabilizer-Assisted Inactivation Decoding of Quantum Error-Correcting Codes with Erasures**|Giulio Pech et.al.|[2601.14236](http://arxiv.org/abs/2601.14236)|null|
 |**2026-01-20**|**3D Stacked Surface-Code Architecture for Measurement-Free Fault-Tolerant Quantum Error Correction**|GunSik Min et.al.|[2601.13648](http://arxiv.org/abs/2601.13648)|null|

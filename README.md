@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Protocols to share genuine multipartite entanglement employing copies of biseparable states**|Swati Choudhary et.al.|[2601.16840](http://arxiv.org/abs/2601.16840)|null|
 |**2026-01-22**|**Robust Bell Nonlocality from Gottesman-Kitaev-Preskill States**|Xiaotian Yang et.al.|[2601.16189](http://arxiv.org/abs/2601.16189)|null|
 |**2026-01-22**|**Excluding Local Hidden Variables in $Λ\barΛ$ Production: The Incompatibility with Angular-Momentum Conservation and CPT Invariance**|Junle Pei et.al.|[2601.15747](http://arxiv.org/abs/2601.15747)|null|
 |**2026-01-21**|**Impossible Counterfactuals, Discrete Hilbert Space and Bell's Theorem**|Tim Palmer et.al.|[2601.14941](http://arxiv.org/abs/2601.14941)|null|
@@ -603,6 +604,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Formalising an operational continuum limit of quantum combs**|Clara Wassner et.al.|[2601.16974](http://arxiv.org/abs/2601.16974)|null|
 |**2026-01-21**|**Exploring Quantumness at Long-Baseline Neutrino Experiments**|Murshed Alam et.al.|[2601.15375](http://arxiv.org/abs/2601.15375)|null|
 |**2026-01-18**|**Measuring unconventional causal structures in monitored dynamics**|Hong-Yi Wang et.al.|[2601.12271](http://arxiv.org/abs/2601.12271)|null|
 |**2026-01-16**|**The two-time Leggett-Garg inequalities of a superconducting qubit interacting with thermal photons in a cavity**|Hiroo Azuma et.al.|[2601.10946](http://arxiv.org/abs/2601.10946)|null|
@@ -1348,6 +1350,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Gluing Randomness via Entanglement: Tight Bound from Second Rényi Entropy**|Wonjun Lee et.al.|[2601.16454](http://arxiv.org/abs/2601.16454)|null|
 |**2026-01-21**|**Stochastic EMS for Optimal 24/7 Carbon-Free Energy Operations**|Natanon Tongamrak et.al.|[2601.15135](http://arxiv.org/abs/2601.15135)|null|
 |**2026-01-20**|**Group Fourier filtering of quantum resources in quantum phase space**|Luke Coffman et.al.|[2601.14225](http://arxiv.org/abs/2601.14225)|null|
 |**2026-01-20**|**Ethernet-over-OWC Using VCSELs: Transparent Gigabit Links with Low Latency and Robust Alignment Tolerance**|Hossein Safi et.al.|[2601.13878](http://arxiv.org/abs/2601.13878)|null|
@@ -2562,6 +2565,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-22**|**Algebraic Phase Theory III: Structural Quantum Codes over Frobenius Rings**|Joe Gildea et.al.|[2601.16346](http://arxiv.org/abs/2601.16346)|null|
+|**2026-01-22**|**LiDMaS: Architecture-Level Modeling of Fault-Tolerant Magic-State Injection in GKP Photonic Qubits**|Dennis Delali Kwesi Wayo et.al.|[2601.16244](http://arxiv.org/abs/2601.16244)|null|
 |**2026-01-22**|**Calibration-Conditioned FiLM Decoders for Low-Latency Decoding of Quantum Error Correction Evaluated on IBM Repetition-Code Experiments**|Samuel Stein et.al.|[2601.16123](http://arxiv.org/abs/2601.16123)|null|
 |**2026-01-22**|**Enhancing the Size of Phase-Space States Containing Sub-Planck-Scale Structures via Non-Gaussian Operations**|Arman et.al.|[2601.15654](http://arxiv.org/abs/2601.15654)|null|
 |**2026-01-21**|**NWQWorkflow: The Northwest Quantum Workflow**|Ang Li et.al.|[2601.15521](http://arxiv.org/abs/2601.15521)|null|

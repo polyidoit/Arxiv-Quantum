@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Certifying optimal device-independent quantum randomness in quantum networks**|Shuai Zhao et.al.|[2601.18534](http://arxiv.org/abs/2601.18534)|null|
 |**2026-01-23**|**Protocols to share genuine multipartite entanglement employing copies of biseparable states**|Swati Choudhary et.al.|[2601.16840](http://arxiv.org/abs/2601.16840)|null|
 |**2026-01-22**|**Robust Bell Nonlocality from Gottesman-Kitaev-Preskill States**|Xiaotian Yang et.al.|[2601.16189](http://arxiv.org/abs/2601.16189)|null|
 |**2026-01-22**|**Excluding Local Hidden Variables in $Λ\barΛ$ Production: The Incompatibility with Angular-Momentum Conservation and CPT Invariance**|Junle Pei et.al.|[2601.15747](http://arxiv.org/abs/2601.15747)|null|
@@ -905,6 +906,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-25**|**The hyperlink representation of entanglement and the inclusion-exclusion principle**|Silvia N. Santalla et.al.|[2601.17926](http://arxiv.org/abs/2601.17926)|null|
+|**2026-01-24**|**Long time behavior of Fokker-Planck equations for bosons and fermions**|Anton Arnold et.al.|[2601.17594](http://arxiv.org/abs/2601.17594)|null|
 |**2026-01-19**|**WH Statistics: Generalized Pauli Principle for Partially Distinguishable Particles**|Wang Hao et.al.|[2601.12838](http://arxiv.org/abs/2601.12838)|null|
 |**2026-01-21**|**Fundamental Limits of Quantum Semantic Communication via Sheaf Cohomology**|Christo Kurisummoottil Thomas et.al.|[2601.10958](http://arxiv.org/abs/2601.10958)|null|
 |**2026-01-15**|**Exponential gain in clock precision using quantum correlated ticks**|Florian Meier et.al.|[2601.10785](http://arxiv.org/abs/2601.10785)|null|
@@ -1350,6 +1353,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-25**|**Multivariate Rényi divergences characterise betting games with multiple lotteries**|Andrés F. Ducuara et.al.|[2601.17850](http://arxiv.org/abs/2601.17850)|null|
 |**2026-01-23**|**Gluing Randomness via Entanglement: Tight Bound from Second Rényi Entropy**|Wonjun Lee et.al.|[2601.16454](http://arxiv.org/abs/2601.16454)|null|
 |**2026-01-21**|**Stochastic EMS for Optimal 24/7 Carbon-Free Energy Operations**|Natanon Tongamrak et.al.|[2601.15135](http://arxiv.org/abs/2601.15135)|null|
 |**2026-01-20**|**Group Fourier filtering of quantum resources in quantum phase space**|Luke Coffman et.al.|[2601.14225](http://arxiv.org/abs/2601.14225)|null|
@@ -2565,6 +2569,14 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-26**|**Approximate level-by-level maximum-likelihood decoding based on the Chase algorithm for high-rate concatenated stabilizer codes**|Takeshi Kakizaki et.al.|[2601.18743](http://arxiv.org/abs/2601.18743)|null|
+|**2026-01-26**|**Improvement of the Gilbert-Varshamov Bound for Linear Codes and Quantum Codes**|Chen Yuan et.al.|[2601.18590](http://arxiv.org/abs/2601.18590)|null|
+|**2026-01-26**|**Bayesian Optimization for Quantum Error-Correcting Code Discovery**|Yihua Chengyu et.al.|[2601.18562](http://arxiv.org/abs/2601.18562)|null|
+|**2026-01-26**|**Quantum Error Correction on Error-mitigated Physical Qubits**|Minjun Jeon et.al.|[2601.18384](http://arxiv.org/abs/2601.18384)|null|
+|**2026-01-25**|**Wave functions for the regular pentagonal two-dimensional quantum box and thin microstrip antenna**|Tristan Langhorne et.al.|[2601.17925](http://arxiv.org/abs/2601.17925)|null|
+|**2026-01-25**|**Simple, Efficient, and Generic Post-Selection Decoding for qLDPC codes**|Haipeng Xie et.al.|[2601.17757](http://arxiv.org/abs/2601.17757)|null|
+|**2026-01-24**|**Holstein Primakoff spin codes for local and collective noise**|Sivaprasad Omanakuttan et.al.|[2601.17592](http://arxiv.org/abs/2601.17592)|null|
+|**2026-01-24**|**PropHunt: Automated Optimization of Quantum Syndrome Measurement Circuits**|Joshua Viszlai et.al.|[2601.17580](http://arxiv.org/abs/2601.17580)|null|
 |**2026-01-22**|**Algebraic Phase Theory III: Structural Quantum Codes over Frobenius Rings**|Joe Gildea et.al.|[2601.16346](http://arxiv.org/abs/2601.16346)|null|
 |**2026-01-22**|**LiDMaS: Architecture-Level Modeling of Fault-Tolerant Magic-State Injection in GKP Photonic Qubits**|Dennis Delali Kwesi Wayo et.al.|[2601.16244](http://arxiv.org/abs/2601.16244)|null|
 |**2026-01-22**|**Calibration-Conditioned FiLM Decoders for Low-Latency Decoding of Quantum Error Correction Evaluated on IBM Repetition-Code Experiments**|Samuel Stein et.al.|[2601.16123](http://arxiv.org/abs/2601.16123)|null|

@@ -16,7 +16,7 @@ layout: default
 |**2026-01-18**|**Hierarchy of quantum correlations in qubit-qutrit axially symmetric states**|Venkat Abhignan et.al.|[2601.12292](http://arxiv.org/abs/2601.12292)|null|
 |**2026-01-17**|**Physical probability in the Everett interpretation and Bell inequalities**|Simon Saunders et.al.|[2601.12159](http://arxiv.org/abs/2601.12159)|null|
 |**2026-01-17**|**Peres-type Criterion of Einstein-Podolsky-Rosen Steering for Two Qubits**|Yu-Xuan Zhang et.al.|[2601.12085](http://arxiv.org/abs/2601.12085)|null|
-|**2026-01-14**|**Quantum properties of heavy-fermion pairs at a lepton collider with polarised beams**|Mohammad Mahdi Altakach et.al.|[2601.09558](http://arxiv.org/abs/2601.09558)|null|
+|**2026-01-27**|**Quantum properties of heavy-fermion pairs at a lepton collider with polarised beams**|Mohammad Mahdi Altakach et.al.|[2601.09558](http://arxiv.org/abs/2601.09558)|null|
 |**2026-01-13**|**Exploring Bell Nonlocality with Extremal Non-Signaling Boxes**|Emmanuel Zambrini Cruzeiro et.al.|[2601.08924](http://arxiv.org/abs/2601.08924)|null|
 |**2026-01-12**|**A unified framework for Bell inequalities from continuous-variable contextuality**|Carlos Ernesto Lopetegui-González et.al.|[2601.07686](http://arxiv.org/abs/2601.07686)|null|
 |**2026-01-08**|**Hardy nonlocality for entangled pairs in a four-particle system**|Duc Manh Doan et.al.|[2601.04636](http://arxiv.org/abs/2601.04636)|null|
@@ -2548,6 +2548,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-27**|**Theory of low-weight quantum codes**|Fuchuan Wei et.al.|[2601.19848](http://arxiv.org/abs/2601.19848)|null|
+|**2026-01-27**|**A Folded Surface Code Architecture for 2D Quantum Hardware**|Zhu Sun et.al.|[2601.19823](http://arxiv.org/abs/2601.19823)|null|
+|**2026-01-27**|**Spectral Codes: A Geometric Formalism for Quantum Error Correction**|Satoshi Kanno et.al.|[2601.19765](http://arxiv.org/abs/2601.19765)|null|
+|**2026-01-27**|**Transversal gates of the ((3,3,2)) qutrit code and local symmetries of the absolutely maximally entangled state of four qutrits**|Ian Tan et.al.|[2601.19677](http://arxiv.org/abs/2601.19677)|null|
+|**2026-01-27**|**Reinforcement Learning for Enhanced Advanced QEC Architecture Decoding**|Yidong Zhou et.al.|[2601.19279](http://arxiv.org/abs/2601.19279)|null|
+|**2026-01-26**|**Reinforcement Learning for Quantum Technology**|Marin Bukov et.al.|[2601.18953](http://arxiv.org/abs/2601.18953)|null|
+|**2026-01-26**|**Multivariate Multicycle Codes for Complete Single-Shot Decoding**|Feroz Ahmed Mian et.al.|[2601.18879](http://arxiv.org/abs/2601.18879)|null|
 |**2026-01-26**|**Approximate level-by-level maximum-likelihood decoding based on the Chase algorithm for high-rate concatenated stabilizer codes**|Takeshi Kakizaki et.al.|[2601.18743](http://arxiv.org/abs/2601.18743)|null|
 |**2026-01-26**|**Improvement of the Gilbert-Varshamov Bound for Linear Codes and Quantum Codes**|Chen Yuan et.al.|[2601.18590](http://arxiv.org/abs/2601.18590)|null|
 |**2026-01-26**|**Bayesian Optimization for Quantum Error-Correcting Code Discovery**|Yihua Chengyu et.al.|[2601.18562](http://arxiv.org/abs/2601.18562)|null|

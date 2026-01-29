@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Violation of the Leggett-Garg inequality in photon-graviton conversion**|Kimihiro Nomura et.al.|[2601.20436](http://arxiv.org/abs/2601.20436)|null|
+|**2026-01-28**|**Network Nonlocality Sharing in Generalized Star Network from Bipartite Bell Inequalities**|Hao-Miao Jiang et.al.|[2601.20403](http://arxiv.org/abs/2601.20403)|null|
 |**2026-01-26**|**Certifying optimal device-independent quantum randomness in quantum networks**|Shuai Zhao et.al.|[2601.18534](http://arxiv.org/abs/2601.18534)|null|
 |**2026-01-23**|**Protocols to share genuine multipartite entanglement employing copies of biseparable states**|Swati Choudhary et.al.|[2601.16840](http://arxiv.org/abs/2601.16840)|null|
 |**2026-01-22**|**Robust Bell Nonlocality from Gottesman-Kitaev-Preskill States**|Xiaotian Yang et.al.|[2601.16189](http://arxiv.org/abs/2601.16189)|null|
@@ -594,6 +596,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Violation of the Leggett-Garg inequality in photon-graviton conversion**|Kimihiro Nomura et.al.|[2601.20436](http://arxiv.org/abs/2601.20436)|null|
 |**2026-01-23**|**Formalising an operational continuum limit of quantum combs**|Clara Wassner et.al.|[2601.16974](http://arxiv.org/abs/2601.16974)|null|
 |**2026-01-21**|**Exploring Quantumness at Long-Baseline Neutrino Experiments**|Murshed Alam et.al.|[2601.15375](http://arxiv.org/abs/2601.15375)|null|
 |**2026-01-18**|**Measuring unconventional causal structures in monitored dynamics**|Hong-Yi Wang et.al.|[2601.12271](http://arxiv.org/abs/2601.12271)|null|
@@ -1341,7 +1344,7 @@ layout: default
 |**2026-01-21**|**Stochastic EMS for Optimal 24/7 Carbon-Free Energy Operations**|Natanon Tongamrak et.al.|[2601.15135](http://arxiv.org/abs/2601.15135)|null|
 |**2026-01-20**|**Group Fourier filtering of quantum resources in quantum phase space**|Luke Coffman et.al.|[2601.14225](http://arxiv.org/abs/2601.14225)|null|
 |**2026-01-20**|**Ethernet-over-OWC Using VCSELs: Transparent Gigabit Links with Low Latency and Robust Alignment Tolerance**|Hossein Safi et.al.|[2601.13878](http://arxiv.org/abs/2601.13878)|null|
-|**2026-01-19**|**Two-Point Stabilizer Rényi Entropy: a Computable Magic Proxy of Interacting Fermions**|Jun Qi Fang et.al.|[2601.13314](http://arxiv.org/abs/2601.13314)|null|
+|**2026-01-28**|**Two-Point Stabilizer Rényi Entropy: a Computable Magic Proxy of Interacting Fermions**|Jun Qi Fang et.al.|[2601.13314](http://arxiv.org/abs/2601.13314)|null|
 |**2026-01-18**|**Quantum Filtering for Squeezed Noise Inputs**|John Gough et.al.|[2601.12564](http://arxiv.org/abs/2601.12564)|null|
 |**2026-01-16**|**Exponential Analysis for Entanglement Distillation**|Zhiwen Lin et.al.|[2601.10190](http://arxiv.org/abs/2601.10190)|null|
 |**2026-01-12**|**Single-Chip 1.024 Tb/s Optical Receiver for High-Speed Optical links**|Ali Pirmoradi et.al.|[2601.07709](http://arxiv.org/abs/2601.07709)|null|
@@ -2548,6 +2551,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-01-28**|**Quantum Memory and Autonomous Computation in Two Dimensions**|Gesa Dünnweber et.al.|[2601.20818](http://arxiv.org/abs/2601.20818)|null|
 |**2026-01-27**|**Theory of low-weight quantum codes**|Fuchuan Wei et.al.|[2601.19848](http://arxiv.org/abs/2601.19848)|null|
 |**2026-01-27**|**A Folded Surface Code Architecture for 2D Quantum Hardware**|Zhu Sun et.al.|[2601.19823](http://arxiv.org/abs/2601.19823)|null|
 |**2026-01-27**|**Spectral Codes: A Geometric Formalism for Quantum Error Correction**|Satoshi Kanno et.al.|[2601.19765](http://arxiv.org/abs/2601.19765)|null|

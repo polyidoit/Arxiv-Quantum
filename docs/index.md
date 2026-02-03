@@ -1164,6 +1164,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-01**|**Tripartite quantum steering in Schwarzschild spacetime**|Guang-Wei Mi et.al.|[2602.00991](http://arxiv.org/abs/2602.00991)|null|
+|**2026-01-31**|**Geometric Optimization for Tight Entropic Uncertainty Relations**|Ma-Cheng Yang et.al.|[2602.00595](http://arxiv.org/abs/2602.00595)|null|
 |**2026-01-29**|**Quantum steering probes energy transfer in quantum batteries**|Meng-Long Song et.al.|[2601.21398](http://arxiv.org/abs/2601.21398)|null|
 |**2026-01-17**|**Peres-type Criterion of Einstein-Podolsky-Rosen Steering for Two Qubits**|Yu-Xuan Zhang et.al.|[2601.12085](http://arxiv.org/abs/2601.12085)|null|
 |**2026-01-07**|**Detection-loophole-free nonlocality in the simplest scenario**|Nandana T Raveendranath et.al.|[2601.03817](http://arxiv.org/abs/2601.03817)|null|
@@ -1343,6 +1345,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Plasticity, hysteresis, and recovery mechanisms in spider silk fibers**|Renata Olivé et.al.|[2602.00147](http://arxiv.org/abs/2602.00147)|null|
 |**2026-01-30**|**Free encoding capacity: A universal unit for quantum resources**|Shampa Mondal et.al.|[2601.23116](http://arxiv.org/abs/2601.23116)|null|
 |**2026-01-28**|**Resource-Theoretic Quantifiers of Weak and Strong Symmetry Breaking: Strong Entanglement Asymmetry and Beyond**|Yuya Kusuki et.al.|[2601.20924](http://arxiv.org/abs/2601.20924)|null|
 |**2026-01-25**|**Multivariate Rényi divergences characterise betting games with multiple lotteries**|Andrés F. Ducuara et.al.|[2601.17850](http://arxiv.org/abs/2601.17850)|null|
@@ -1842,6 +1845,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**Dynamical witnesses and universal behavior across chaos and non-ergodicity in the tilted Bose-Hubbard model**|Carlos Diaz-Mejia et.al.|[2602.00369](http://arxiv.org/abs/2602.00369)|null|
 |**2026-01-30**|**Dynamics of states of infinite quantum systems as a cornerstone of the second law of thermodynamics**|Walter F. Wreszinski et.al.|[2601.22863](http://arxiv.org/abs/2601.22863)|null|
 |**2026-01-30**|**Quantum-Enhanced Sensing Enabled by Scrambling-Induced Genuine Multipartite Entanglement**|Guantian Hu et.al.|[2601.22503](http://arxiv.org/abs/2601.22503)|null|
 |**2026-01-22**|**Automated quantum circuit optimization with randomized replacements**|Marcin Szyniszewski et.al.|[2601.15934](http://arxiv.org/abs/2601.15934)|null|
@@ -2559,6 +2563,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-02**|**Position: The Need for Ultrafast Training**|Duc Hoang et.al.|[2602.02005](http://arxiv.org/abs/2602.02005)|null|
+|**2026-02-01**|**Black Hole Interior and Quantum Error Correction with Dynamical Gravity**|Akihiro Miyata et.al.|[2602.01241](http://arxiv.org/abs/2602.01241)|null|
 |**2026-01-30**|**Weight-four parity checks with silicon spin qubits**|Brennan Undseth et.al.|[2601.23267](http://arxiv.org/abs/2601.23267)|null|
 |**2026-01-30**|**TopoLS: Lattice Surgery Compilation via Topological Program Transformations**|Junyu Zhou et.al.|[2601.23109](http://arxiv.org/abs/2601.23109)|null|
 |**2026-01-30**|**Fast magic state preparation by gauging higher-form transversal gates in parallel**|Dominic J. Williamson et.al.|[2601.22939](http://arxiv.org/abs/2601.22939)|null|

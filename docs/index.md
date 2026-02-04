@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Quantum Tomography of Fermion Pairs in $e^+e^-$ Collisions: Longitudinal Beam Polarization Effects**|Yu-Chen Guo et.al.|[2602.02719](http://arxiv.org/abs/2602.02719)|null|
 |**2026-01-30**|**Are Bell's conditions for local realism general enough?**|Emilio Santos et.al.|[2601.22833](http://arxiv.org/abs/2601.22833)|null|
 |**2026-01-29**|**Azimuthal angular entanglement between decaying particles in ultra-peripheral ion collisions**|Spencer R. Klein et.al.|[2601.22212](http://arxiv.org/abs/2601.22212)|null|
 |**2026-01-28**|**Violation of the Leggett-Garg inequality in photon-graviton conversion**|Kimihiro Nomura et.al.|[2601.20436](http://arxiv.org/abs/2601.20436)|null|
@@ -1345,6 +1346,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Fisher-Information-Based Sensor Placement for Structural Digital Twins: Analytic Results and Benchmarks**|Harbir Antil et.al.|[2602.02981](http://arxiv.org/abs/2602.02981)|null|
 |**2026-01-29**|**Plasticity, hysteresis, and recovery mechanisms in spider silk fibers**|Renata Olivé et.al.|[2602.00147](http://arxiv.org/abs/2602.00147)|null|
 |**2026-01-30**|**Free encoding capacity: A universal unit for quantum resources**|Shampa Mondal et.al.|[2601.23116](http://arxiv.org/abs/2601.23116)|null|
 |**2026-01-28**|**Resource-Theoretic Quantifiers of Weak and Strong Symmetry Breaking: Strong Entanglement Asymmetry and Beyond**|Yuya Kusuki et.al.|[2601.20924](http://arxiv.org/abs/2601.20924)|null|
@@ -1845,6 +1847,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Liouvillian Gap in Dissipative Haar-Doped Clifford Circuits**|Ha Eum Kim et.al.|[2602.03234](http://arxiv.org/abs/2602.03234)|null|
+|**2026-02-02**|**Inducing, and enhancing, many-body quantum chaos by continuous monitoring**|Xianlong Liu et.al.|[2602.02750](http://arxiv.org/abs/2602.02750)|null|
+|**2026-02-02**|**Tailoring Quantum Chaos With Continuous Quantum Measurements**|Preethi Gopalakrishnan et.al.|[2602.02663](http://arxiv.org/abs/2602.02663)|null|
 |**2026-01-30**|**Dynamical witnesses and universal behavior across chaos and non-ergodicity in the tilted Bose-Hubbard model**|Carlos Diaz-Mejia et.al.|[2602.00369](http://arxiv.org/abs/2602.00369)|null|
 |**2026-01-30**|**Dynamics of states of infinite quantum systems as a cornerstone of the second law of thermodynamics**|Walter F. Wreszinski et.al.|[2601.22863](http://arxiv.org/abs/2601.22863)|null|
 |**2026-01-30**|**Quantum-Enhanced Sensing Enabled by Scrambling-Induced Genuine Multipartite Entanglement**|Guantian Hu et.al.|[2601.22503](http://arxiv.org/abs/2601.22503)|null|
@@ -2563,6 +2568,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-03**|**Accelerating the Tesseract Decoder for Quantum Error Correction**|Dragana Grbic et.al.|[2602.02985](http://arxiv.org/abs/2602.02985)|null|
+|**2026-02-02**|**Modular Krylov Complexity as a Boundary Probe of Area Operator and Entanglement Islands**|Niloofar Vardian et.al.|[2602.02675](http://arxiv.org/abs/2602.02675)|null|
 |**2026-02-02**|**Position: The Need for Ultrafast Training**|Duc Hoang et.al.|[2602.02005](http://arxiv.org/abs/2602.02005)|null|
 |**2026-02-01**|**Black Hole Interior and Quantum Error Correction with Dynamical Gravity**|Akihiro Miyata et.al.|[2602.01241](http://arxiv.org/abs/2602.01241)|null|
 |**2026-01-30**|**Weight-four parity checks with silicon spin qubits**|Brennan Undseth et.al.|[2601.23267](http://arxiv.org/abs/2601.23267)|null|

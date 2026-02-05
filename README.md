@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Quantum Entanglement and Bell Nonlocality at Future Lepton Collider**|Emidio Gabrielli et.al.|[2602.03960](http://arxiv.org/abs/2602.03960)|null|
 |**2026-02-02**|**Quantum Tomography of Fermion Pairs in $e^+e^-$ Collisions: Longitudinal Beam Polarization Effects**|Yu-Chen Guo et.al.|[2602.02719](http://arxiv.org/abs/2602.02719)|null|
 |**2026-01-30**|**Are Bell's conditions for local realism general enough?**|Emilio Santos et.al.|[2601.22833](http://arxiv.org/abs/2601.22833)|null|
 |**2026-01-29**|**Azimuthal angular entanglement between decaying particles in ultra-peripheral ion collisions**|Spencer R. Klein et.al.|[2601.22212](http://arxiv.org/abs/2601.22212)|null|
@@ -912,6 +913,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**From Florence to Fermions: a historical reconstruction of the origins of Fermi's statistics one hundred years later**|Roberto Casalbuoni et.al.|[2602.04484](http://arxiv.org/abs/2602.04484)|null|
 |**2026-01-30**|**Cross-feeding yields high-dimensional chaos and coexistence of species beyond exclusion principle**|Takashi Shimada et.al.|[2601.22564](http://arxiv.org/abs/2601.22564)|null|
 |**2026-01-25**|**The hyperlink representation of entanglement and the inclusion-exclusion principle**|Silvia N. Santalla et.al.|[2601.17926](http://arxiv.org/abs/2601.17926)|null|
 |**2026-01-24**|**Long time behavior of Fokker-Planck equations for bosons and fermions**|Anton Arnold et.al.|[2601.17594](http://arxiv.org/abs/2601.17594)|null|
@@ -1363,6 +1365,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Influence of Noninertial Dynamics on Static Quantum Resource Theories**|Saveetha Harikrishnan et.al.|[2602.04199](http://arxiv.org/abs/2602.04199)|null|
 |**2026-02-03**|**Fisher-Information-Based Sensor Placement for Structural Digital Twins: Analytic Results and Benchmarks**|Harbir Antil et.al.|[2602.02981](http://arxiv.org/abs/2602.02981)|null|
 |**2026-01-29**|**Plasticity, hysteresis, and recovery mechanisms in spider silk fibers**|Renata Olivé et.al.|[2602.00147](http://arxiv.org/abs/2602.00147)|null|
 |**2026-01-30**|**Free encoding capacity: A universal unit for quantum resources**|Shampa Mondal et.al.|[2601.23116](http://arxiv.org/abs/2601.23116)|null|
@@ -2589,6 +2592,7 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-03**|**Detailed, interpretable characterization of mid-circuit measurement on a transmon qubit**|Piper C. Wysocki et.al.|[2602.03938](http://arxiv.org/abs/2602.03938)|null|
 |**2026-02-03**|**Accelerating the Tesseract Decoder for Quantum Error Correction**|Dragana Grbic et.al.|[2602.02985](http://arxiv.org/abs/2602.02985)|null|
 |**2026-02-02**|**Modular Krylov Complexity as a Boundary Probe of Area Operator and Entanglement Islands**|Niloofar Vardian et.al.|[2602.02675](http://arxiv.org/abs/2602.02675)|null|
 |**2026-02-02**|**Position: The Need for Ultrafast Training**|Duc Hoang et.al.|[2602.02005](http://arxiv.org/abs/2602.02005)|null|

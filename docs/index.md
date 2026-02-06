@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Bell and EPR experiments with signalling data**|Lucas Maquedano et.al.|[2602.05507](http://arxiv.org/abs/2602.05507)|null|
 |**2026-02-03**|**Quantum Entanglement and Bell Nonlocality at Future Lepton Collider**|Emidio Gabrielli et.al.|[2602.03960](http://arxiv.org/abs/2602.03960)|null|
 |**2026-02-02**|**Quantum Tomography of Fermion Pairs in $e^+e^-$ Collisions: Longitudinal Beam Polarization Effects**|Yu-Chen Guo et.al.|[2602.02719](http://arxiv.org/abs/2602.02719)|null|
 |**2026-01-30**|**Are Bell's conditions for local realism general enough?**|Emilio Santos et.al.|[2601.22833](http://arxiv.org/abs/2601.22833)|null|
@@ -600,6 +601,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Investigations on Quantum Correlations and Open Quantum System Dynamics Through Nuclear Spins**|Arijit Chatterjee et.al.|[2602.05661](http://arxiv.org/abs/2602.05661)|null|
+|**2026-02-05**|**Simultaneous reconstruction of quantum process and noise via corrupted sensing**|Mengru Ma et.al.|[2602.05604](http://arxiv.org/abs/2602.05604)|null|
 |**2026-01-28**|**Violation of the Leggett-Garg inequality in photon-graviton conversion**|Kimihiro Nomura et.al.|[2601.20436](http://arxiv.org/abs/2601.20436)|null|
 |**2026-01-23**|**Formalising an operational continuum limit of quantum combs**|Clara Wassner et.al.|[2601.16974](http://arxiv.org/abs/2601.16974)|null|
 |**2026-01-21**|**Exploring Quantumness at Long-Baseline Neutrino Experiments**|Murshed Alam et.al.|[2601.15375](http://arxiv.org/abs/2601.15375)|null|
@@ -1167,6 +1170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Bell and EPR experiments with signalling data**|Lucas Maquedano et.al.|[2602.05507](http://arxiv.org/abs/2602.05507)|null|
 |**2026-02-01**|**Tripartite quantum steering in Schwarzschild spacetime**|Guang-Wei Mi et.al.|[2602.00991](http://arxiv.org/abs/2602.00991)|null|
 |**2026-01-31**|**Geometric Optimization for Tight Entropic Uncertainty Relations**|Ma-Cheng Yang et.al.|[2602.00595](http://arxiv.org/abs/2602.00595)|null|
 |**2026-01-29**|**Quantum steering probes energy transfer in quantum batteries**|Meng-Long Song et.al.|[2601.21398](http://arxiv.org/abs/2601.21398)|null|
@@ -1850,6 +1854,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Thermal-Drift Sampling: Generating Random Thermal Ensembles for Quantum Chaos Diagnostics**|Jiyu Jiang et.al.|[2602.05912](http://arxiv.org/abs/2602.05912)|null|
+|**2026-02-05**|**More on OTOCs and Chaos in Quantum Mechanics -- Magnetic Fields**|Cameron Beetar et.al.|[2602.05322](http://arxiv.org/abs/2602.05322)|null|
 |**2026-02-03**|**Liouvillian Gap in Dissipative Haar-Doped Clifford Circuits**|Ha Eum Kim et.al.|[2602.03234](http://arxiv.org/abs/2602.03234)|null|
 |**2026-02-02**|**Inducing, and enhancing, many-body quantum chaos by continuous monitoring**|Xianlong Liu et.al.|[2602.02750](http://arxiv.org/abs/2602.02750)|null|
 |**2026-02-02**|**Tailoring Quantum Chaos With Continuous Quantum Measurements**|Preethi Gopalakrishnan et.al.|[2602.02663](http://arxiv.org/abs/2602.02663)|null|
@@ -2571,8 +2577,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-04**|**Scalable testing of quantum error correction**|John Zhuoyang Ye et.al.|[2602.04921](http://arxiv.org/abs/2602.04921)|null|
 |**2026-02-03**|**Detailed, interpretable characterization of mid-circuit measurement on a transmon qubit**|Piper C. Wysocki et.al.|[2602.03938](http://arxiv.org/abs/2602.03938)|null|
-|**2026-02-03**|**Accelerating the Tesseract Decoder for Quantum Error Correction**|Dragana Grbic et.al.|[2602.02985](http://arxiv.org/abs/2602.02985)|null|
+|**2026-02-04**|**Accelerating the Tesseract Decoder for Quantum Error Correction**|Dragana Grbic et.al.|[2602.02985](http://arxiv.org/abs/2602.02985)|null|
 |**2026-02-02**|**Modular Krylov Complexity as a Boundary Probe of Area Operator and Entanglement Islands**|Niloofar Vardian et.al.|[2602.02675](http://arxiv.org/abs/2602.02675)|null|
 |**2026-02-02**|**Position: The Need for Ultrafast Training**|Duc Hoang et.al.|[2602.02005](http://arxiv.org/abs/2602.02005)|null|
 |**2026-02-01**|**Black Hole Interior and Quantum Error Correction with Dynamical Gravity**|Akihiro Miyata et.al.|[2602.01241](http://arxiv.org/abs/2602.01241)|null|

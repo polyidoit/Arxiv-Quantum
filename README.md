@@ -1873,6 +1873,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**Symmetry and localisation in causally constrained quantum operator dynamics**|Marcell D. Kovács et.al.|[2602.06913](http://arxiv.org/abs/2602.06913)|null|
 |**2026-02-05**|**Thermal-Drift Sampling: Generating Random Thermal Ensembles for Quantum Chaos Diagnostics**|Jiyu Jiang et.al.|[2602.05912](http://arxiv.org/abs/2602.05912)|null|
 |**2026-02-05**|**More on OTOCs and Chaos in Quantum Mechanics -- Magnetic Fields**|Cameron Beetar et.al.|[2602.05322](http://arxiv.org/abs/2602.05322)|null|
 |**2026-02-03**|**Liouvillian Gap in Dissipative Haar-Doped Clifford Circuits**|Ha Eum Kim et.al.|[2602.03234](http://arxiv.org/abs/2602.03234)|null|
@@ -2598,7 +2599,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
-|**2026-02-04**|**Scalable testing of quantum error correction**|John Zhuoyang Ye et.al.|[2602.04921](http://arxiv.org/abs/2602.04921)|null|
+|**2026-02-05**|**Characterizing Quantum Error Correction Performance of Radiation-induced Errors**|Paul G. Baity et.al.|[2602.06202](http://arxiv.org/abs/2602.06202)|null|
+|**2026-02-06**|**Scalable testing of quantum error correction**|John Zhuoyang Ye et.al.|[2602.04921](http://arxiv.org/abs/2602.04921)|null|
 |**2026-02-03**|**Detailed, interpretable characterization of mid-circuit measurement on a transmon qubit**|Piper C. Wysocki et.al.|[2602.03938](http://arxiv.org/abs/2602.03938)|null|
 |**2026-02-04**|**Accelerating the Tesseract Decoder for Quantum Error Correction**|Dragana Grbic et.al.|[2602.02985](http://arxiv.org/abs/2602.02985)|null|
 |**2026-02-02**|**Modular Krylov Complexity as a Boundary Probe of Area Operator and Entanglement Islands**|Niloofar Vardian et.al.|[2602.02675](http://arxiv.org/abs/2602.02675)|null|

@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Can Mirror Symmetry Challenge Local Realism? Probing Photon Entanglement from Positronium via Compton Scattering**|Junle Pei et.al.|[2602.08541](http://arxiv.org/abs/2602.08541)|null|
+|**2026-02-09**|**Classifying the simplest Bell inequalities beyond qubits and their applications towards self-testing**|Palash Pandya et.al.|[2602.08469](http://arxiv.org/abs/2602.08469)|null|
 |**2026-02-05**|**Bell and EPR experiments with signalling data**|Lucas Maquedano et.al.|[2602.05507](http://arxiv.org/abs/2602.05507)|null|
 |**2026-02-03**|**Quantum Entanglement and Bell Nonlocality at Future Lepton Collider**|Emidio Gabrielli et.al.|[2602.03960](http://arxiv.org/abs/2602.03960)|null|
 |**2026-02-02**|**Quantum Tomography of Fermion Pairs in $e^+e^-$ Collisions: Longitudinal Beam Polarization Effects**|Yu-Chen Guo et.al.|[2602.02719](http://arxiv.org/abs/2602.02719)|null|
@@ -924,7 +926,7 @@
 |**2026-01-21**|**Fundamental Limits of Quantum Semantic Communication via Sheaf Cohomology**|Christo Kurisummoottil Thomas et.al.|[2601.10958](http://arxiv.org/abs/2601.10958)|null|
 |**2026-01-15**|**Exponential gain in clock precision using quantum correlated ticks**|Florian Meier et.al.|[2601.10785](http://arxiv.org/abs/2601.10785)|null|
 |**2026-01-14**|**Asymptotic Stability and Equilibrium Selection in Quasi-Feller Systems with Minimal Moment Conditions**|Jean-Gabriel Attali et.al.|[2601.09880](http://arxiv.org/abs/2601.09880)|null|
-|**2026-01-13**|**Superadditivity of Zero-Error Capacity in Noisy Classical and Perfect Quantum Channel Pairs**|Ambuj et.al.|[2601.08913](http://arxiv.org/abs/2601.08913)|null|
+|**2026-02-09**|**Superadditivity of Zero-Error Capacity in Noisy Classical and Perfect Quantum Channel Pairs**|Ambuj et.al.|[2601.08913](http://arxiv.org/abs/2601.08913)|null|
 |**2026-01-18**|**Hilbert Polynomials of Calabi Yau Hypersurfaces in Toric Varieties and Lattice Points in Polytope Boundaries**|Jonathan Weitsman et.al.|[2601.02176](http://arxiv.org/abs/2601.02176)|null|
 |**2026-01-05**|**Exploring bound states and interactions of the nucleon-antinucleon system in a constituent quark model**|Aaron Park et.al.|[2601.01953](http://arxiv.org/abs/2601.01953)|null|
 |**2026-01-06**|**The Equivalence between Hardy-type paradox and Logical Contextuality**|Songyi Liu et.al.|[2601.01445](http://arxiv.org/abs/2601.01445)|null|
@@ -1185,6 +1187,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-08**|**Quantum Steering and Entanglement in a Tritter: Hierarchy under Loss**|Jifeng Sun et.al.|[2602.07788](http://arxiv.org/abs/2602.07788)|null|
 |**2026-02-05**|**Bell and EPR experiments with signalling data**|Lucas Maquedano et.al.|[2602.05507](http://arxiv.org/abs/2602.05507)|null|
 |**2026-02-01**|**Tripartite quantum steering in Schwarzschild spacetime**|Guang-Wei Mi et.al.|[2602.00991](http://arxiv.org/abs/2602.00991)|null|
 |**2026-01-31**|**Geometric Optimization for Tight Entropic Uncertainty Relations**|Ma-Cheng Yang et.al.|[2602.00595](http://arxiv.org/abs/2602.00595)|null|
@@ -1369,6 +1372,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-08**|**Free(): Learning to Forget in Malloc-Only Reasoning Models**|Yilun Zheng et.al.|[2602.08030](http://arxiv.org/abs/2602.08030)|null|
 |**2026-02-04**|**Influence of Noninertial Dynamics on Static Quantum Resource Theories**|Saveetha Harikrishnan et.al.|[2602.04199](http://arxiv.org/abs/2602.04199)|null|
 |**2026-02-03**|**Fisher-Information-Based Sensor Placement for Structural Digital Twins: Analytic Results and Benchmarks**|Harbir Antil et.al.|[2602.02981](http://arxiv.org/abs/2602.02981)|null|
 |**2026-01-29**|**Plasticity, hysteresis, and recovery mechanisms in spider silk fibers**|Renata Olivé et.al.|[2602.00147](http://arxiv.org/abs/2602.00147)|null|
@@ -1873,6 +1877,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-08**|**Higher-Order Corrections to Scrambling Dynamics in Brownian Spin SYK Models**|Tingfei Li et.al.|[2602.07952](http://arxiv.org/abs/2602.07952)|null|
 |**2026-02-06**|**Symmetry and localisation in causally constrained quantum operator dynamics**|Marcell D. Kovács et.al.|[2602.06913](http://arxiv.org/abs/2602.06913)|null|
 |**2026-02-05**|**Thermal-Drift Sampling: Generating Random Thermal Ensembles for Quantum Chaos Diagnostics**|Jiyu Jiang et.al.|[2602.05912](http://arxiv.org/abs/2602.05912)|null|
 |**2026-02-05**|**More on OTOCs and Chaos in Quantum Mechanics -- Magnetic Fields**|Cameron Beetar et.al.|[2602.05322](http://arxiv.org/abs/2602.05322)|null|
@@ -2599,6 +2604,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-09**|**The equivalence of quantum deletion and insertion errors on permutation-invariant codes**|Lewis Bulled et.al.|[2602.08780](http://arxiv.org/abs/2602.08780)|null|
+|**2026-02-07**|**BiBiEQ: Bivariate Bicycle Codes on Erasure Qubits**|Ameya S. Bhave et.al.|[2602.07578](http://arxiv.org/abs/2602.07578)|null|
 |**2026-02-05**|**Characterizing Quantum Error Correction Performance of Radiation-induced Errors**|Paul G. Baity et.al.|[2602.06202](http://arxiv.org/abs/2602.06202)|null|
 |**2026-02-06**|**Scalable testing of quantum error correction**|John Zhuoyang Ye et.al.|[2602.04921](http://arxiv.org/abs/2602.04921)|null|
 |**2026-02-03**|**Detailed, interpretable characterization of mid-circuit measurement on a transmon qubit**|Piper C. Wysocki et.al.|[2602.03938](http://arxiv.org/abs/2602.03938)|null|

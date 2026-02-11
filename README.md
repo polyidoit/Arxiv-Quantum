@@ -1187,6 +1187,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Protection of quantum steering ellipsoids in non-Markovian environments**|Wen-Jie Zhang et.al.|[2602.09903](http://arxiv.org/abs/2602.09903)|null|
 |**2026-02-08**|**Quantum Steering and Entanglement in a Tritter: Hierarchy under Loss**|Jifeng Sun et.al.|[2602.07788](http://arxiv.org/abs/2602.07788)|null|
 |**2026-02-05**|**Bell and EPR experiments with signalling data**|Lucas Maquedano et.al.|[2602.05507](http://arxiv.org/abs/2602.05507)|null|
 |**2026-02-01**|**Tripartite quantum steering in Schwarzschild spacetime**|Guang-Wei Mi et.al.|[2602.00991](http://arxiv.org/abs/2602.00991)|null|
@@ -1372,7 +1373,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-08**|**Free(): Learning to Forget in Malloc-Only Reasoning Models**|Yilun Zheng et.al.|[2602.08030](http://arxiv.org/abs/2602.08030)|null|
+|**2026-02-10**|**VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model**|Jingwen Sun et.al.|[2602.10098](http://arxiv.org/abs/2602.10098)|null|
+|**2026-02-10**|**A Collision-Free Sway Damping Model Predictive Controller for Safe and Reactive Forestry Crane Navigation**|Marc-Philip Ecker et.al.|[2602.10035](http://arxiv.org/abs/2602.10035)|null|
+|**2026-02-10**|**Gravitationally-induced Conversion of Local Coherence to Entanglement**|Hazhir Dolatkhah et.al.|[2602.09900](http://arxiv.org/abs/2602.09900)|null|
+|**2026-02-09**|**Quantum thermodynamics in nonequilibrium**|Md Manirul Ali et.al.|[2602.09074](http://arxiv.org/abs/2602.09074)|null|
+|**2026-02-10**|**Free(): Learning to Forget in Malloc-Only Reasoning Models**|Yilun Zheng et.al.|[2602.08030](http://arxiv.org/abs/2602.08030)|null|
 |**2026-02-04**|**Influence of Noninertial Dynamics on Static Quantum Resource Theories**|Saveetha Harikrishnan et.al.|[2602.04199](http://arxiv.org/abs/2602.04199)|null|
 |**2026-02-03**|**Fisher-Information-Based Sensor Placement for Structural Digital Twins: Analytic Results and Benchmarks**|Harbir Antil et.al.|[2602.02981](http://arxiv.org/abs/2602.02981)|null|
 |**2026-01-29**|**Plasticity, hysteresis, and recovery mechanisms in spider silk fibers**|Renata Olivé et.al.|[2602.00147](http://arxiv.org/abs/2602.00147)|null|
@@ -1877,6 +1882,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Anomalous spin transport in integrable random quantum circuits**|Songlei Wang et.al.|[2602.09098](http://arxiv.org/abs/2602.09098)|null|
 |**2026-02-08**|**Higher-Order Corrections to Scrambling Dynamics in Brownian Spin SYK Models**|Tingfei Li et.al.|[2602.07952](http://arxiv.org/abs/2602.07952)|null|
 |**2026-02-06**|**Symmetry and localisation in causally constrained quantum operator dynamics**|Marcell D. Kovács et.al.|[2602.06913](http://arxiv.org/abs/2602.06913)|null|
 |**2026-02-05**|**Thermal-Drift Sampling: Generating Random Thermal Ensembles for Quantum Chaos Diagnostics**|Jiyu Jiang et.al.|[2602.05912](http://arxiv.org/abs/2602.05912)|null|
@@ -2604,6 +2610,10 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-10**|**Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing**|Mohamed Afane et.al.|[2602.10092](http://arxiv.org/abs/2602.10092)|null|
+|**2026-02-10**|**Construction of the full logical Clifford group for high-rate quantum Reed-Muller codes using only transversal and fold-transversal gates**|Theerapat Tansuwannont et.al.|[2602.09788](http://arxiv.org/abs/2602.09788)|null|
+|**2026-02-09**|**Coherence Protection for Mobile Spin Qubits in Silicon**|Jan A. Krzywda et.al.|[2602.09179](http://arxiv.org/abs/2602.09179)|null|
+|**2026-02-09**|**Surface code off-the-hook: diagonal syndrome-extraction scheduling**|Gilad Kishony et.al.|[2602.09099](http://arxiv.org/abs/2602.09099)|null|
 |**2026-02-09**|**The equivalence of quantum deletion and insertion errors on permutation-invariant codes**|Lewis Bulled et.al.|[2602.08780](http://arxiv.org/abs/2602.08780)|null|
 |**2026-02-07**|**BiBiEQ: Bivariate Bicycle Codes on Erasure Qubits**|Ameya S. Bhave et.al.|[2602.07578](http://arxiv.org/abs/2602.07578)|null|
 |**2026-02-05**|**Characterizing Quantum Error Correction Performance of Radiation-induced Errors**|Paul G. Baity et.al.|[2602.06202](http://arxiv.org/abs/2602.06202)|null|

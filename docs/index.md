@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Manipulating Bell nonlocality and entanglement in polarized electron-positron annihilation**|Hong-Wei Zhang et.al.|[2602.10389](http://arxiv.org/abs/2602.10389)|null|
 |**2026-02-09**|**Can Mirror Symmetry Challenge Local Realism? Probing Photon Entanglement from Positronium via Compton Scattering**|Junle Pei et.al.|[2602.08541](http://arxiv.org/abs/2602.08541)|null|
 |**2026-02-09**|**Classifying the simplest Bell inequalities beyond qubits and their applications towards self-testing**|Palash Pandya et.al.|[2602.08469](http://arxiv.org/abs/2602.08469)|null|
 |**2026-02-05**|**Bell and EPR experiments with signalling data**|Lucas Maquedano et.al.|[2602.05507](http://arxiv.org/abs/2602.05507)|null|
@@ -905,6 +906,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Core-Stable Kidney Exchange via Altruistic Donors**|Gergely Csáji et.al.|[2602.10725](http://arxiv.org/abs/2602.10725)|null|
 |**2026-02-04**|**From Florence to Fermions: a historical reconstruction of the origins of Fermi's statistics one hundred years later**|Roberto Casalbuoni et.al.|[2602.04484](http://arxiv.org/abs/2602.04484)|null|
 |**2026-01-30**|**Cross-feeding yields high-dimensional chaos and coexistence of species beyond exclusion principle**|Takashi Shimada et.al.|[2601.22564](http://arxiv.org/abs/2601.22564)|null|
 |**2026-01-25**|**The hyperlink representation of entanglement and the inclusion-exclusion principle**|Silvia N. Santalla et.al.|[2601.17926](http://arxiv.org/abs/2601.17926)|null|
@@ -1172,7 +1174,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-10**|**Protection of quantum steering ellipsoids in non-Markovian environments**|Wen-Jie Zhang et.al.|[2602.09903](http://arxiv.org/abs/2602.09903)|null|
+|**2026-02-11**|**General Theory of Stable Microwave-Optical Quantum Resources in Hybrid-System Dynamics**|Fan Li et.al.|[2602.10581](http://arxiv.org/abs/2602.10581)|null|
+|**2026-02-11**|**Protection of quantum steering ellipsoids in non-Markovian environments**|Wen-Jie Zhang et.al.|[2602.09903](http://arxiv.org/abs/2602.09903)|null|
 |**2026-02-08**|**Quantum Steering and Entanglement in a Tritter: Hierarchy under Loss**|Jifeng Sun et.al.|[2602.07788](http://arxiv.org/abs/2602.07788)|null|
 |**2026-02-05**|**Bell and EPR experiments with signalling data**|Lucas Maquedano et.al.|[2602.05507](http://arxiv.org/abs/2602.05507)|null|
 |**2026-02-01**|**Tripartite quantum steering in Schwarzschild spacetime**|Guang-Wei Mi et.al.|[2602.00991](http://arxiv.org/abs/2602.00991)|null|
@@ -1872,7 +1875,7 @@ layout: default
 |**2026-02-02**|**Inducing, and enhancing, many-body quantum chaos by continuous monitoring**|Xianlong Liu et.al.|[2602.02750](http://arxiv.org/abs/2602.02750)|null|
 |**2026-02-02**|**Tailoring Quantum Chaos With Continuous Quantum Measurements**|Preethi Gopalakrishnan et.al.|[2602.02663](http://arxiv.org/abs/2602.02663)|null|
 |**2026-01-30**|**Dynamical witnesses and universal behavior across chaos and non-ergodicity in the tilted Bose-Hubbard model**|Carlos Diaz-Mejia et.al.|[2602.00369](http://arxiv.org/abs/2602.00369)|null|
-|**2026-01-30**|**Dynamics of states of infinite quantum systems as a cornerstone of the second law of thermodynamics**|Walter F. Wreszinski et.al.|[2601.22863](http://arxiv.org/abs/2601.22863)|null|
+|**2026-02-11**|**Dynamics of states of infinite quantum systems as a cornerstone of the second law of thermodynamics**|Walter F. Wreszinski et.al.|[2601.22863](http://arxiv.org/abs/2601.22863)|null|
 |**2026-01-30**|**Quantum-Enhanced Sensing Enabled by Scrambling-Induced Genuine Multipartite Entanglement**|Guantian Hu et.al.|[2601.22503](http://arxiv.org/abs/2601.22503)|null|
 |**2026-01-22**|**Automated quantum circuit optimization with randomized replacements**|Marcin Szyniszewski et.al.|[2601.15934](http://arxiv.org/abs/2601.15934)|null|
 |**2026-01-21**|**Bidirectional teleportation using scrambling dynamics: a practical protocol**|Amit Vikram et.al.|[2601.15536](http://arxiv.org/abs/2601.15536)|null|
@@ -2589,9 +2592,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-11**|**Recirculating Quantum Photonic Networks for Fast Deterministic Quantum Information Processing**|Emil Grovn et.al.|[2602.11033](http://arxiv.org/abs/2602.11033)|null|
+|**2026-02-11**|**Erasure Thresholds for Hyperbolic and Semi-Hyperbolic Surface Codes**|Aygul Azatovna Galimova et.al.|[2602.10423](http://arxiv.org/abs/2602.10423)|null|
 |**2026-02-10**|**Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing**|Mohamed Afane et.al.|[2602.10092](http://arxiv.org/abs/2602.10092)|null|
 |**2026-02-10**|**Construction of the full logical Clifford group for high-rate quantum Reed-Muller codes using only transversal and fold-transversal gates**|Theerapat Tansuwannont et.al.|[2602.09788](http://arxiv.org/abs/2602.09788)|null|
-|**2026-02-09**|**Coherence Protection for Mobile Spin Qubits in Silicon**|Jan A. Krzywda et.al.|[2602.09179](http://arxiv.org/abs/2602.09179)|null|
+|**2026-02-11**|**Coherence Protection for Mobile Spin Qubits in Silicon**|Jan A. Krzywda et.al.|[2602.09179](http://arxiv.org/abs/2602.09179)|null|
 |**2026-02-09**|**Surface code off-the-hook: diagonal syndrome-extraction scheduling**|Gilad Kishony et.al.|[2602.09099](http://arxiv.org/abs/2602.09099)|null|
 |**2026-02-09**|**The equivalence of quantum deletion and insertion errors on permutation-invariant codes**|Lewis Bulled et.al.|[2602.08780](http://arxiv.org/abs/2602.08780)|null|
 |**2026-02-07**|**BiBiEQ: Bivariate Bicycle Codes on Erasure Qubits**|Ameya S. Bhave et.al.|[2602.07578](http://arxiv.org/abs/2602.07578)|null|

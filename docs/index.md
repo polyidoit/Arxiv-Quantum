@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Extending Bell's Theorem: Nonlocality via Measurement Dependence**|G. Bacciagaluppi et.al.|[2602.11300](http://arxiv.org/abs/2602.11300)|null|
 |**2026-02-11**|**Manipulating Bell nonlocality and entanglement in polarized electron-positron annihilation**|Hong-Wei Zhang et.al.|[2602.10389](http://arxiv.org/abs/2602.10389)|null|
 |**2026-02-09**|**Can Mirror Symmetry Challenge Local Realism? Probing Photon Entanglement from Positronium via Compton Scattering**|Junle Pei et.al.|[2602.08541](http://arxiv.org/abs/2602.08541)|null|
 |**2026-02-09**|**Classifying the simplest Bell inequalities beyond qubits and their applications towards self-testing**|Palash Pandya et.al.|[2602.08469](http://arxiv.org/abs/2602.08469)|null|
@@ -1866,6 +1867,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Long-Range Pairing in the Kitaev Model: Krylov Subspace Signatures**|Rishabh Jha et.al.|[2602.11278](http://arxiv.org/abs/2602.11278)|null|
 |**2026-02-09**|**Anomalous spin transport in integrable random quantum circuits**|Songlei Wang et.al.|[2602.09098](http://arxiv.org/abs/2602.09098)|null|
 |**2026-02-08**|**Higher-Order Corrections to Scrambling Dynamics in Brownian Spin SYK Models**|Tingfei Li et.al.|[2602.07952](http://arxiv.org/abs/2602.07952)|null|
 |**2026-02-06**|**Symmetry and localisation in causally constrained quantum operator dynamics**|Marcell D. Kovács et.al.|[2602.06913](http://arxiv.org/abs/2602.06913)|null|

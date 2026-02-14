@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.13
+## Updated on 2026.02.14
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2594,6 +2594,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-11**|**Unlearnable phases of matter**|Tarun Advaith Kumar et.al.|[2602.11262](http://arxiv.org/abs/2602.11262)|null|
 |**2026-02-11**|**Recirculating Quantum Photonic Networks for Fast Deterministic Quantum Information Processing**|Emil Grovn et.al.|[2602.11033](http://arxiv.org/abs/2602.11033)|null|
 |**2026-02-11**|**Erasure Thresholds for Hyperbolic and Semi-Hyperbolic Surface Codes**|Aygul Azatovna Galimova et.al.|[2602.10423](http://arxiv.org/abs/2602.10423)|null|
 |**2026-02-10**|**Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing**|Mohamed Afane et.al.|[2602.10092](http://arxiv.org/abs/2602.10092)|null|

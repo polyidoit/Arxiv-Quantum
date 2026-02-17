@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**The road of quantum entanglement: from Einstein to 2022 Nobel Prize in Physics**|Yu Shi et.al.|[2602.14601](http://arxiv.org/abs/2602.14601)|null|
 |**2026-02-11**|**Extending Bell's Theorem: Nonlocality via Measurement Dependence**|G. Bacciagaluppi et.al.|[2602.11300](http://arxiv.org/abs/2602.11300)|null|
 |**2026-02-11**|**Manipulating Bell nonlocality and entanglement in polarized electron-positron annihilation**|Hong-Wei Zhang et.al.|[2602.10389](http://arxiv.org/abs/2602.10389)|null|
 |**2026-02-09**|**Can Mirror Symmetry Challenge Local Realism? Probing Photon Entanglement from Positronium via Compton Scattering**|Junle Pei et.al.|[2602.08541](http://arxiv.org/abs/2602.08541)|null|
@@ -605,6 +606,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Projections with Respect to Bures Distance and Fidelity: Closed-Forms and Applications**|A. Afham et.al.|[2602.14732](http://arxiv.org/abs/2602.14732)|null|
 |**2026-02-05**|**Investigations on Quantum Correlations and Open Quantum System Dynamics Through Nuclear Spins**|Arijit Chatterjee et.al.|[2602.05661](http://arxiv.org/abs/2602.05661)|null|
 |**2026-02-05**|**Simultaneous reconstruction of quantum process and noise via corrupted sensing**|Mengru Ma et.al.|[2602.05604](http://arxiv.org/abs/2602.05604)|null|
 |**2026-01-28**|**Violation of the Leggett-Garg inequality in photon-graviton conversion**|Kimihiro Nomura et.al.|[2601.20436](http://arxiv.org/abs/2601.20436)|null|
@@ -1360,7 +1362,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-10**|**VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model**|Jingwen Sun et.al.|[2602.10098](http://arxiv.org/abs/2602.10098)|null|
+|**2026-02-14**|**A Monolithic hp Space-Time Multigrid Preconditioned Newton-Krylov Solver for Space-Time FEM applied to the Incompressible Navier-Stokes Equations**|Nils Margenberg et.al.|[2602.13841](http://arxiv.org/abs/2602.13841)|null|
+|**2026-02-14**|**Flux Pumped Kerr-Free Parametric Amplifier**|Kagan Yanik et.al.|[2602.13563](http://arxiv.org/abs/2602.13563)|null|
+|**2026-02-14**|**VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model**|Jingwen Sun et.al.|[2602.10098](http://arxiv.org/abs/2602.10098)|null|
 |**2026-02-10**|**A Collision-Free Sway Damping Model Predictive Controller for Safe and Reactive Forestry Crane Navigation**|Marc-Philip Ecker et.al.|[2602.10035](http://arxiv.org/abs/2602.10035)|null|
 |**2026-02-10**|**Gravitationally-induced Conversion of Local Coherence to Entanglement**|Hazhir Dolatkhah et.al.|[2602.09900](http://arxiv.org/abs/2602.09900)|null|
 |**2026-02-09**|**Quantum thermodynamics in nonequilibrium**|Md Manirul Ali et.al.|[2602.09074](http://arxiv.org/abs/2602.09074)|null|
@@ -2595,6 +2599,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-16**|**Constructions of linear codes from vectorial plateaued functions and their subfield codes with applications to quantum CSS codes**|Virginio Fratianni et.al.|[2602.14832](http://arxiv.org/abs/2602.14832)|null|
+|**2026-02-16**|**Faster Optimal Decoder for Graph Codes with a Single Logical Qubit**|Nirupam Basak et.al.|[2602.14730](http://arxiv.org/abs/2602.14730)|null|
+|**2026-02-16**|**Homological origin of transversal implementability of logical diagonal gates in quantum CSS codes**|Junichi Haruna et.al.|[2602.14499](http://arxiv.org/abs/2602.14499)|null|
+|**2026-02-15**|**RASCqL: Reaction-time-limited Architecture for Space-time-efficient Complex qLDPC Logic**|Willers Yang et.al.|[2602.14273](http://arxiv.org/abs/2602.14273)|null|
+|**2026-02-14**|**Quantum computation and quantum error correction: the theoretical minimum**|Mark Wildon et.al.|[2602.13876](http://arxiv.org/abs/2602.13876)|null|
+|**2026-02-14**|**A theory of quantum error correction for permutation-invariant codes**|Yingkai Ouyang et.al.|[2602.13638](http://arxiv.org/abs/2602.13638)|null|
+|**2026-02-13**|**Sequential BP-based Decoding of QLDPC Codes**|Mohsen Moradi et.al.|[2602.13420](http://arxiv.org/abs/2602.13420)|null|
+|**2026-02-13**|**Protection of Exponential Operation using Stabilizer Codes in the Early Fault Tolerance Era**|Dawei Zhong et.al.|[2602.13399](http://arxiv.org/abs/2602.13399)|null|
 |**2026-02-13**|**Floquet implementation of a 3d fermionic toric code with full logical code space**|Yoshito Watanabe et.al.|[2602.12685](http://arxiv.org/abs/2602.12685)|null|
 |**2026-02-12**|**Resource-Adaptive Teleportation Under Imperfect Entanglement: A Code-Puncturing Framework**|Mahmoud Saad Abouamer et.al.|[2602.12309](http://arxiv.org/abs/2602.12309)|null|
 |**2026-02-11**|**Unlearnable phases of matter**|Tarun Advaith Kumar et.al.|[2602.11262](http://arxiv.org/abs/2602.11262)|null|

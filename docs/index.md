@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1867,6 +1867,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Quantum metrology with partially accessible chaotic sensors**|Harshita Sharma et.al.|[2602.12914](http://arxiv.org/abs/2602.12914)|null|
 |**2026-02-11**|**Long-Range Pairing in the Kitaev Model: Krylov Subspace Signatures**|Rishabh Jha et.al.|[2602.11278](http://arxiv.org/abs/2602.11278)|null|
 |**2026-02-09**|**Anomalous spin transport in integrable random quantum circuits**|Songlei Wang et.al.|[2602.09098](http://arxiv.org/abs/2602.09098)|null|
 |**2026-02-08**|**Higher-Order Corrections to Scrambling Dynamics in Brownian Spin SYK Models**|Tingfei Li et.al.|[2602.07952](http://arxiv.org/abs/2602.07952)|null|
@@ -2594,6 +2595,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-13**|**Floquet implementation of a 3d fermionic toric code with full logical code space**|Yoshito Watanabe et.al.|[2602.12685](http://arxiv.org/abs/2602.12685)|null|
+|**2026-02-12**|**Resource-Adaptive Teleportation Under Imperfect Entanglement: A Code-Puncturing Framework**|Mahmoud Saad Abouamer et.al.|[2602.12309](http://arxiv.org/abs/2602.12309)|null|
 |**2026-02-11**|**Unlearnable phases of matter**|Tarun Advaith Kumar et.al.|[2602.11262](http://arxiv.org/abs/2602.11262)|null|
 |**2026-02-11**|**Recirculating Quantum Photonic Networks for Fast Deterministic Quantum Information Processing**|Emil Grovn et.al.|[2602.11033](http://arxiv.org/abs/2602.11033)|null|
 |**2026-02-11**|**Erasure Thresholds for Hyperbolic and Semi-Hyperbolic Surface Codes**|Aygul Azatovna Galimova et.al.|[2602.10423](http://arxiv.org/abs/2602.10423)|null|

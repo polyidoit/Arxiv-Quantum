@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Generating quantum entanglement from sunlight**|Cheng Li et.al.|[2602.15655](http://arxiv.org/abs/2602.15655)|null|
+|**2026-02-17**|**Nonlocality without entanglement in exclusion of quantum states**|Satyaki Manna et.al.|[2602.15452](http://arxiv.org/abs/2602.15452)|null|
 |**2026-02-16**|**The road of quantum entanglement: from Einstein to 2022 Nobel Prize in Physics**|Yu Shi et.al.|[2602.14601](http://arxiv.org/abs/2602.14601)|null|
 |**2026-02-11**|**Extending Bell's Theorem: Nonlocality via Measurement Dependence**|G. Bacciagaluppi et.al.|[2602.11300](http://arxiv.org/abs/2602.11300)|null|
 |**2026-02-11**|**Manipulating Bell nonlocality and entanglement in polarized electron-positron annihilation**|Hong-Wei Zhang et.al.|[2602.10389](http://arxiv.org/abs/2602.10389)|null|
@@ -922,6 +924,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Development of an accurate formalism to predict properties of two-neutron halo nuclei: case study of $^{22}$ C**|Patrick McGlynn et.al.|[2602.15765](http://arxiv.org/abs/2602.15765)|null|
 |**2026-02-11**|**Core-Stable Kidney Exchange via Altruistic Donors**|Gergely Csáji et.al.|[2602.10725](http://arxiv.org/abs/2602.10725)|null|
 |**2026-02-04**|**From Florence to Fermions: a historical reconstruction of the origins of Fermi's statistics one hundred years later**|Roberto Casalbuoni et.al.|[2602.04484](http://arxiv.org/abs/2602.04484)|null|
 |**2026-01-30**|**Cross-feeding yields high-dimensional chaos and coexistence of species beyond exclusion principle**|Takashi Shimada et.al.|[2601.22564](http://arxiv.org/abs/2601.22564)|null|
@@ -1890,6 +1893,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Inhomogeneous quenches and GHD in the $ν= 1$ QSSEP model**|Angelo Russotto et.al.|[2602.15122](http://arxiv.org/abs/2602.15122)|null|
 |**2026-02-13**|**Quantum metrology with partially accessible chaotic sensors**|Harshita Sharma et.al.|[2602.12914](http://arxiv.org/abs/2602.12914)|null|
 |**2026-02-11**|**Long-Range Pairing in the Kitaev Model: Krylov Subspace Signatures**|Rishabh Jha et.al.|[2602.11278](http://arxiv.org/abs/2602.11278)|null|
 |**2026-02-09**|**Anomalous spin transport in integrable random quantum circuits**|Songlei Wang et.al.|[2602.09098](http://arxiv.org/abs/2602.09098)|null|

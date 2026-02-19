@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1365,6 +1365,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Universal entanglement-inspired correlations**|Elizabeth Agudelo et.al.|[2602.15520](http://arxiv.org/abs/2602.15520)|null|
+|**2026-02-16**|**High-throughput screening and mechanistic insights into solid acid proton conductors**|Jonas Hänseroth et.al.|[2602.15268](http://arxiv.org/abs/2602.15268)|null|
 |**2026-02-14**|**A Monolithic hp Space-Time Multigrid Preconditioned Newton-Krylov Solver for Space-Time FEM applied to the Incompressible Navier-Stokes Equations**|Nils Margenberg et.al.|[2602.13841](http://arxiv.org/abs/2602.13841)|null|
 |**2026-02-14**|**Flux Pumped Kerr-Free Parametric Amplifier**|Kagan Yanik et.al.|[2602.13563](http://arxiv.org/abs/2602.13563)|null|
 |**2026-02-14**|**VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model**|Jingwen Sun et.al.|[2602.10098](http://arxiv.org/abs/2602.10098)|null|

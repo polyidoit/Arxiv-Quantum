@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Solving the Mysteries of Quantum Mechanics: Why Nature Abhors a Continuum**|Tim Palmer et.al.|[2602.16382](http://arxiv.org/abs/2602.16382)|null|
+|**2026-02-18**|**Tomographically-nonlocal entanglement**|Roberto D. Baldijão et.al.|[2602.16280](http://arxiv.org/abs/2602.16280)|null|
 |**2026-02-17**|**Generating quantum entanglement from sunlight**|Cheng Li et.al.|[2602.15655](http://arxiv.org/abs/2602.15655)|null|
 |**2026-02-17**|**Nonlocality without entanglement in exclusion of quantum states**|Satyaki Manna et.al.|[2602.15452](http://arxiv.org/abs/2602.15452)|null|
 |**2026-02-16**|**The road of quantum entanglement: from Einstein to 2022 Nobel Prize in Physics**|Yu Shi et.al.|[2602.14601](http://arxiv.org/abs/2602.14601)|null|

@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Extending quantum theory with AI-assisted deterministic game theory**|Florian Pauschitz et.al.|[2602.17213](http://arxiv.org/abs/2602.17213)|null|
+|**2026-02-19**|**Retrieving the Baby: Reichenbach's Principle, Bell Locality, and Selection Bias**|Huw Price et.al.|[2602.16985](http://arxiv.org/abs/2602.16985)|null|
 |**2026-02-18**|**Solving the Mysteries of Quantum Mechanics: Why Nature Abhors a Continuum**|Tim Palmer et.al.|[2602.16382](http://arxiv.org/abs/2602.16382)|null|
 |**2026-02-18**|**Tomographically-nonlocal entanglement**|Roberto D. Baldijão et.al.|[2602.16280](http://arxiv.org/abs/2602.16280)|null|
 |**2026-02-17**|**Generating quantum entanglement from sunlight**|Cheng Li et.al.|[2602.15655](http://arxiv.org/abs/2602.15655)|null|
@@ -926,6 +928,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Realization of fractional Fermi seas**|Yi Zeng et.al.|[2602.17657](http://arxiv.org/abs/2602.17657)|null|
 |**2026-02-17**|**Development of an accurate formalism to predict properties of two-neutron halo nuclei: case study of $^{22}$ C**|Patrick McGlynn et.al.|[2602.15765](http://arxiv.org/abs/2602.15765)|null|
 |**2026-02-11**|**Core-Stable Kidney Exchange via Altruistic Donors**|Gergely Csáji et.al.|[2602.10725](http://arxiv.org/abs/2602.10725)|null|
 |**2026-02-04**|**From Florence to Fermions: a historical reconstruction of the origins of Fermi's statistics one hundred years later**|Roberto Casalbuoni et.al.|[2602.04484](http://arxiv.org/abs/2602.04484)|null|
@@ -1384,6 +1387,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Distributed Virtual Model Control for Scalable Human-Robot Collaboration in Shared Workspace**|Yi Zhang et.al.|[2602.17415](http://arxiv.org/abs/2602.17415)|null|
 |**2026-02-17**|**Universal entanglement-inspired correlations**|Elizabeth Agudelo et.al.|[2602.15520](http://arxiv.org/abs/2602.15520)|null|
 |**2026-02-16**|**High-throughput screening and mechanistic insights into solid acid proton conductors**|Jonas Hänseroth et.al.|[2602.15268](http://arxiv.org/abs/2602.15268)|null|
 |**2026-02-14**|**A Monolithic hp Space-Time Multigrid Preconditioned Newton-Krylov Solver for Space-Time FEM applied to the Incompressible Navier-Stokes Equations**|Nils Margenberg et.al.|[2602.13841](http://arxiv.org/abs/2602.13841)|null|
@@ -1897,11 +1901,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Les Houches lectures on random quantum circuits and monitored quantum dynamics**|Romain Vasseur et.al.|[2602.17258](http://arxiv.org/abs/2602.17258)|null|
 |**2026-02-16**|**Inhomogeneous quenches and GHD in the $ν= 1$ QSSEP model**|Angelo Russotto et.al.|[2602.15122](http://arxiv.org/abs/2602.15122)|null|
 |**2026-02-13**|**Quantum metrology with partially accessible chaotic sensors**|Harshita Sharma et.al.|[2602.12914](http://arxiv.org/abs/2602.12914)|null|
-|**2026-02-11**|**Long-Range Pairing in the Kitaev Model: Krylov Subspace Signatures**|Rishabh Jha et.al.|[2602.11278](http://arxiv.org/abs/2602.11278)|null|
+|**2026-02-18**|**Long-Range Pairing in the Kitaev Model: Krylov Subspace Signatures**|Rishabh Jha et.al.|[2602.11278](http://arxiv.org/abs/2602.11278)|null|
 |**2026-02-09**|**Anomalous spin transport in integrable random quantum circuits**|Songlei Wang et.al.|[2602.09098](http://arxiv.org/abs/2602.09098)|null|
-|**2026-02-08**|**Higher-Order Corrections to Scrambling Dynamics in Brownian Spin SYK Models**|Tingfei Li et.al.|[2602.07952](http://arxiv.org/abs/2602.07952)|null|
+|**2026-02-19**|**Higher-Order Corrections to Scrambling Dynamics in Brownian Spin SYK Models**|Tingfei Li et.al.|[2602.07952](http://arxiv.org/abs/2602.07952)|null|
 |**2026-02-06**|**Symmetry and localisation in causally constrained quantum operator dynamics**|Marcell D. Kovács et.al.|[2602.06913](http://arxiv.org/abs/2602.06913)|null|
 |**2026-02-05**|**Thermal-Drift Sampling: Generating Random Thermal Ensembles for Quantum Chaos Diagnostics**|Jiyu Jiang et.al.|[2602.05912](http://arxiv.org/abs/2602.05912)|null|
 |**2026-02-05**|**More on OTOCs and Chaos in Quantum Mechanics -- Magnetic Fields**|Cameron Beetar et.al.|[2602.05322](http://arxiv.org/abs/2602.05322)|null|
@@ -2628,6 +2633,9 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-19**|**Phase-sensitive representation of Majorana stabilizer states**|Tomislav Begušić et.al.|[2602.17604](http://arxiv.org/abs/2602.17604)|null|
+|**2026-02-19**|**Fault-tolerant preparation of arbitrary logical states in the cat code**|Zi-Jie Chen et.al.|[2602.17438](http://arxiv.org/abs/2602.17438)|null|
+|**2026-02-18**|**Adaptive Aborting Schemes for Quantum Error Correction Decoding**|Sanidhay Bhambay et.al.|[2602.16929](http://arxiv.org/abs/2602.16929)|null|
 |**2026-02-16**|**Constructions of linear codes from vectorial plateaued functions and their subfield codes with applications to quantum CSS codes**|Virginio Fratianni et.al.|[2602.14832](http://arxiv.org/abs/2602.14832)|null|
 |**2026-02-16**|**Faster Optimal Decoder for Graph Codes with a Single Logical Qubit**|Nirupam Basak et.al.|[2602.14730](http://arxiv.org/abs/2602.14730)|null|
 |**2026-02-16**|**Homological origin of transversal implementability of logical diagonal gates in quantum CSS codes**|Junichi Haruna et.al.|[2602.14499](http://arxiv.org/abs/2602.14499)|null|

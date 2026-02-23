@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Bell-GHZ nonclassicality of many-observer interwoven frustrated down conversions**|Marek Żukowski et.al.|[2602.18381](http://arxiv.org/abs/2602.18381)|null|
 |**2026-02-19**|**Extending quantum theory with AI-assisted deterministic game theory**|Florian Pauschitz et.al.|[2602.17213](http://arxiv.org/abs/2602.17213)|null|
 |**2026-02-19**|**Retrieving the Baby: Reichenbach's Principle, Bell Locality, and Selection Bias**|Huw Price et.al.|[2602.16985](http://arxiv.org/abs/2602.16985)|null|
 |**2026-02-18**|**Solving the Mysteries of Quantum Mechanics: Why Nature Abhors a Continuum**|Tim Palmer et.al.|[2602.16382](http://arxiv.org/abs/2602.16382)|null|

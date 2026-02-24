@@ -917,7 +917,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-02-19**|**Realization of fractional Fermi seas**|Yi Zeng et.al.|[2602.17657](http://arxiv.org/abs/2602.17657)|null|
-|**2026-02-17**|**Development of an accurate formalism to predict properties of two-neutron halo nuclei: case study of $^{22}$ C**|Patrick McGlynn et.al.|[2602.15765](http://arxiv.org/abs/2602.15765)|null|
+|**2026-02-21**|**Contextuality from Single-State Ontological Models: An Information-Theoretic No-Go Theorem**|Song-Ju Kim et.al.|[2602.16716](http://arxiv.org/abs/2602.16716)|null|
+|**2026-02-20**|**Development of an accurate formalism to predict properties of two-neutron halo nuclei: case study of $^{22}$ C**|Patrick McGlynn et.al.|[2602.15765](http://arxiv.org/abs/2602.15765)|null|
 |**2026-02-11**|**Core-Stable Kidney Exchange via Altruistic Donors**|Gergely Csáji et.al.|[2602.10725](http://arxiv.org/abs/2602.10725)|null|
 |**2026-02-04**|**From Florence to Fermions: a historical reconstruction of the origins of Fermi's statistics one hundred years later**|Roberto Casalbuoni et.al.|[2602.04484](http://arxiv.org/abs/2602.04484)|null|
 |**2026-01-30**|**Cross-feeding yields high-dimensional chaos and coexistence of species beyond exclusion principle**|Takashi Shimada et.al.|[2601.22564](http://arxiv.org/abs/2601.22564)|null|
@@ -1371,6 +1372,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Quantum Resource Theory of Lasers**|Yannik Brune et.al.|[2602.19749](http://arxiv.org/abs/2602.19749)|null|
 |**2026-02-20**|**Instability as a Quantum Resource**|Goni Yoeli et.al.|[2602.18323](http://arxiv.org/abs/2602.18323)|null|
 |**2026-02-19**|**Manipulating heterogeneous quantum resources over a network**|Ray Ganardi et.al.|[2602.17803](http://arxiv.org/abs/2602.17803)|null|
 |**2026-02-19**|**Distributed Virtual Model Control for Scalable Human-Robot Collaboration in Shared Workspace**|Yi Zhang et.al.|[2602.17415](http://arxiv.org/abs/2602.17415)|null|
@@ -1885,6 +1887,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**From Quantum Chaos to a Reversed Quantum Disentangled Liquid in a Disorder-Free Spin Ladder**|Hanieh Najafzadeh et.al.|[2602.19586](http://arxiv.org/abs/2602.19586)|null|
 |**2026-02-19**|**Les Houches lectures on random quantum circuits and monitored quantum dynamics**|Romain Vasseur et.al.|[2602.17258](http://arxiv.org/abs/2602.17258)|null|
 |**2026-02-16**|**Inhomogeneous quenches and GHD in the $ν= 1$ QSSEP model**|Angelo Russotto et.al.|[2602.15122](http://arxiv.org/abs/2602.15122)|null|
 |**2026-02-13**|**Quantum metrology with partially accessible chaotic sensors**|Harshita Sharma et.al.|[2602.12914](http://arxiv.org/abs/2602.12914)|null|
@@ -2615,6 +2618,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-23**|**CQM: Cyclic Qubit Mappings**|Maxwell Poster et.al.|[2602.20123](http://arxiv.org/abs/2602.20123)|null|
+|**2026-02-23**|**Differentiable Maximum Likelihood Noise Estimation for Quantum Error Correction**|Hanyan Cao et.al.|[2602.19722](http://arxiv.org/abs/2602.19722)|null|
+|**2026-02-23**|**Calderbank-Shor-Steane codes on group-valued qudits**|Ben T. McDonough et.al.|[2602.19558](http://arxiv.org/abs/2602.19558)|null|
+|**2026-02-22**|**Self-correction phase transition in the dissipative toric code**|Sanjeev Kumar et.al.|[2602.19288](http://arxiv.org/abs/2602.19288)|null|
+|**2026-02-22**|**Quantum Error Correction and Dynamical Decoupling: Better Together or Apart?**|Victor Kasatkin et.al.|[2602.19042](http://arxiv.org/abs/2602.19042)|null|
+|**2026-02-21**|**See What I See: An Attention-Guiding eHMI Approach for Autonomous Vehicles**|Jialong Li et.al.|[2602.18798](http://arxiv.org/abs/2602.18798)|null|
 |**2026-02-20**|**Distributed Hyperbolic Floquet Codes under Depolarizing and Erasure Noise**|Aygul Azatovna Galimova et.al.|[2602.17969](http://arxiv.org/abs/2602.17969)|null|
 |**2026-02-19**|**Phase-sensitive representation of Majorana stabilizer states**|Tomislav Begušić et.al.|[2602.17604](http://arxiv.org/abs/2602.17604)|null|
 |**2026-02-19**|**Fault-tolerant preparation of arbitrary logical states in the cat code**|Zi-Jie Chen et.al.|[2602.17438](http://arxiv.org/abs/2602.17438)|null|

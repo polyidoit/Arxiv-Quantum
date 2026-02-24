@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1371,6 +1371,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Instability as a Quantum Resource**|Goni Yoeli et.al.|[2602.18323](http://arxiv.org/abs/2602.18323)|null|
+|**2026-02-19**|**Manipulating heterogeneous quantum resources over a network**|Ray Ganardi et.al.|[2602.17803](http://arxiv.org/abs/2602.17803)|null|
 |**2026-02-19**|**Distributed Virtual Model Control for Scalable Human-Robot Collaboration in Shared Workspace**|Yi Zhang et.al.|[2602.17415](http://arxiv.org/abs/2602.17415)|null|
 |**2026-02-17**|**Universal entanglement-inspired correlations**|Elizabeth Agudelo et.al.|[2602.15520](http://arxiv.org/abs/2602.15520)|null|
 |**2026-02-16**|**High-throughput screening and mechanistic insights into solid acid proton conductors**|Jonas Hänseroth et.al.|[2602.15268](http://arxiv.org/abs/2602.15268)|null|
@@ -2613,6 +2615,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-20**|**Distributed Hyperbolic Floquet Codes under Depolarizing and Erasure Noise**|Aygul Azatovna Galimova et.al.|[2602.17969](http://arxiv.org/abs/2602.17969)|null|
 |**2026-02-19**|**Phase-sensitive representation of Majorana stabilizer states**|Tomislav Begušić et.al.|[2602.17604](http://arxiv.org/abs/2602.17604)|null|
 |**2026-02-19**|**Fault-tolerant preparation of arbitrary logical states in the cat code**|Zi-Jie Chen et.al.|[2602.17438](http://arxiv.org/abs/2602.17438)|null|
 |**2026-02-18**|**Adaptive Aborting Schemes for Quantum Error Correction Decoding**|Sanidhay Bhambay et.al.|[2602.16929](http://arxiv.org/abs/2602.16929)|null|

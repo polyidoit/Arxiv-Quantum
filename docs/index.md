@@ -2618,7 +2618,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
-|**2026-02-23**|**CQM: Cyclic Qubit Mappings**|Maxwell Poster et.al.|[2602.20123](http://arxiv.org/abs/2602.20123)|null|
+|**2026-02-24**|**Correcting coherent quantum errors by going with the flow**|Wayne M. Witzel et.al.|[2602.21076](http://arxiv.org/abs/2602.21076)|null|
+|**2026-02-24**|**Entanglement-Induced Resilience of Quantum Dynamics**|Tianfeng Feng et.al.|[2602.20987](http://arxiv.org/abs/2602.20987)|null|
+|**2026-02-24**|**Error correction with brickwork Clifford circuits**|Twan Kroll et.al.|[2602.20900](http://arxiv.org/abs/2602.20900)|null|
+|**2026-02-24**|**Qudit stabiliser codes for $\mathbb{Z}_N$ lattice gauge theories with matter**|Luca Spagnoli et.al.|[2602.20661](http://arxiv.org/abs/2602.20661)|null|
+|**2026-02-24**|**Insertion Correcting Capability for Quantum Deletion-Correcting Codes**|Ken Nakamura et.al.|[2602.20635](http://arxiv.org/abs/2602.20635)|null|
+|**2026-02-24**|**Distilling Magic States in the Bicycle Architecture**|Shifan Xu et.al.|[2602.20546](http://arxiv.org/abs/2602.20546)|null|
+|**2026-02-24**|**A Unified Error Correction Code for Universal Quantum Computing with Identical Particles**|S. L. Wu et.al.|[2602.20452](http://arxiv.org/abs/2602.20452)|null|
+|**2026-02-23**|**Proof of a finite threshold for the union-find decoder**|Satoshi Yoshida et.al.|[2602.20238](http://arxiv.org/abs/2602.20238)|null|
+|**2026-02-24**|**CQM: Cyclic Qubit Mappings**|Maxwell Poster et.al.|[2602.20123](http://arxiv.org/abs/2602.20123)|null|
 |**2026-02-23**|**Differentiable Maximum Likelihood Noise Estimation for Quantum Error Correction**|Hanyan Cao et.al.|[2602.19722](http://arxiv.org/abs/2602.19722)|null|
 |**2026-02-23**|**Calderbank-Shor-Steane codes on group-valued qudits**|Ben T. McDonough et.al.|[2602.19558](http://arxiv.org/abs/2602.19558)|null|
 |**2026-02-22**|**Self-correction phase transition in the dissipative toric code**|Sanjeev Kumar et.al.|[2602.19288](http://arxiv.org/abs/2602.19288)|null|

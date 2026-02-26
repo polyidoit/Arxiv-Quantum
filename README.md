@@ -1389,6 +1389,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Towards single-shot coherent imaging via overlap-free ptychography**|Oliver Hoidn et.al.|[2602.21361](http://arxiv.org/abs/2602.21361)|null|
 |**2026-02-23**|**Quantum Resource Theory of Lasers**|Yannik Brune et.al.|[2602.19749](http://arxiv.org/abs/2602.19749)|null|
 |**2026-02-20**|**Instability as a Quantum Resource**|Goni Yoeli et.al.|[2602.18323](http://arxiv.org/abs/2602.18323)|null|
 |**2026-02-19**|**Manipulating heterogeneous quantum resources over a network**|Ray Ganardi et.al.|[2602.17803](http://arxiv.org/abs/2602.17803)|null|
@@ -1906,6 +1907,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Out-of-time-ordered correlators for turbulent fields: a quantum-classical correspondence**|Motoki Nakata et.al.|[2602.21710](http://arxiv.org/abs/2602.21710)|null|
 |**2026-02-23**|**From Quantum Chaos to a Reversed Quantum Disentangled Liquid in a Disorder-Free Spin Ladder**|Hanieh Najafzadeh et.al.|[2602.19586](http://arxiv.org/abs/2602.19586)|null|
 |**2026-02-19**|**Les Houches lectures on random quantum circuits and monitored quantum dynamics**|Romain Vasseur et.al.|[2602.17258](http://arxiv.org/abs/2602.17258)|null|
 |**2026-02-16**|**Inhomogeneous quenches and GHD in the $ν= 1$ QSSEP model**|Angelo Russotto et.al.|[2602.15122](http://arxiv.org/abs/2602.15122)|null|
@@ -2639,6 +2641,9 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-25**|**Computing with many encoded logical qubits beyond break-even**|Shival Dasu et.al.|[2602.22211](http://arxiv.org/abs/2602.22211)|null|
+|**2026-02-25**|**Trade-offs in Gauss's law error correction for lattice gauge theory quantum simulations**|Balint Pato et.al.|[2602.22121](http://arxiv.org/abs/2602.22121)|null|
+|**2026-02-24**|**Teleportation transition of surface codes on a superconducting quantum processor**|Yiren Zou et.al.|[2602.21293](http://arxiv.org/abs/2602.21293)|null|
 |**2026-02-24**|**Correcting coherent quantum errors by going with the flow**|Wayne M. Witzel et.al.|[2602.21076](http://arxiv.org/abs/2602.21076)|null|
 |**2026-02-24**|**Entanglement-Induced Resilience of Quantum Dynamics**|Tianfeng Feng et.al.|[2602.20987](http://arxiv.org/abs/2602.20987)|null|
 |**2026-02-24**|**Error correction with brickwork Clifford circuits**|Twan Kroll et.al.|[2602.20900](http://arxiv.org/abs/2602.20900)|null|

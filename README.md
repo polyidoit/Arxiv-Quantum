@@ -1392,7 +1392,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-02-26**|**Revisiting the Role of State Texture in Gate Identification and Fixed-Point Resource Theories**|Alexander C. B. Greenwood et.al.|[2602.22496](http://arxiv.org/abs/2602.22496)|null|
-|**2026-02-25**|**The unbearable hardness of deciding about magic**|Lorenzo Leone et.al.|[2602.22330](http://arxiv.org/abs/2602.22330)|null|
+|**2026-02-27**|**The unbearable hardness of deciding about magic**|Lorenzo Leone et.al.|[2602.22330](http://arxiv.org/abs/2602.22330)|null|
 |**2026-02-24**|**Towards single-shot coherent imaging via overlap-free ptychography**|Oliver Hoidn et.al.|[2602.21361](http://arxiv.org/abs/2602.21361)|null|
 |**2026-02-23**|**Quantum Resource Theory of Lasers**|Yannik Brune et.al.|[2602.19749](http://arxiv.org/abs/2602.19749)|null|
 |**2026-02-20**|**Instability as a Quantum Resource**|Goni Yoeli et.al.|[2602.18323](http://arxiv.org/abs/2602.18323)|null|
@@ -2647,6 +2647,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-02-27**|**Estimating the performance boundary of Gottesman-Kitaev-Preskill codes and number-phase codes**|Kai-Xuan Wen et.al.|[2602.24102](http://arxiv.org/abs/2602.24102)|null|
+|**2026-02-27**|**Spin stiffness and resilience phase transition in a noisy toric-rotor code**|Morteza Zarei et.al.|[2602.23751](http://arxiv.org/abs/2602.23751)|null|
 |**2026-02-26**|**Copy-cup Gates in Tensor Products of Group Algebra Codes**|Ryan Tiew et.al.|[2602.23307](http://arxiv.org/abs/2602.23307)|null|
 |**2026-02-26**|**Equivalent Dichotomies for Triangle Detection in Subgraph, Induced, and Colored H-Free Graphs**|Amir Abboud et.al.|[2602.23196](http://arxiv.org/abs/2602.23196)|null|
 |**2026-02-26**|**Hyperbolic and Semi-Hyperbolic Floquet Codes for Photonic Quantum Computing**|Aygul Azatovna Galimova et.al.|[2602.22906](http://arxiv.org/abs/2602.22906)|null|

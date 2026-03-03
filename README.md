@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Violation of Quantum Bilocal Inequalities on Mutually-Commuting von Neumann Algebra Models**|Bingke Zheng et.al.|[2603.01466](http://arxiv.org/abs/2603.01466)|null|
+|**2026-03-01**|**Multipartite device-independent quantum key distribution using W states**|Makoto Ishihara et.al.|[2603.00937](http://arxiv.org/abs/2603.00937)|null|
 |**2026-02-20**|**Bell-GHZ nonclassicality of many-observer interwoven frustrated down conversions**|Marek Żukowski et.al.|[2602.18381](http://arxiv.org/abs/2602.18381)|null|
 |**2026-02-19**|**Extending quantum theory with AI-assisted deterministic game theory**|Florian Pauschitz et.al.|[2602.17213](http://arxiv.org/abs/2602.17213)|null|
 |**2026-02-19**|**Retrieving the Baby: Reichenbach's Principle, Bell Locality, and Selection Bias**|Huw Price et.al.|[2602.16985](http://arxiv.org/abs/2602.16985)|null|
@@ -1391,6 +1393,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**Feasibility of Negative Triangularity Equilibria in the SPARC Tokamak**|Narin Yüksek et.al.|[2603.01208](http://arxiv.org/abs/2603.01208)|null|
+|**2026-02-26**|**Design Framework and Manufacturing of an Active Magnetic Bearing Spindle for Micro-Milling Applications**|Kazi Sher Ahmed et.al.|[2603.00169](http://arxiv.org/abs/2603.00169)|null|
 |**2026-02-26**|**Revisiting the Role of State Texture in Gate Identification and Fixed-Point Resource Theories**|Alexander C. B. Greenwood et.al.|[2602.22496](http://arxiv.org/abs/2602.22496)|null|
 |**2026-02-27**|**The unbearable hardness of deciding about magic**|Lorenzo Leone et.al.|[2602.22330](http://arxiv.org/abs/2602.22330)|null|
 |**2026-02-24**|**Towards single-shot coherent imaging via overlap-free ptychography**|Oliver Hoidn et.al.|[2602.21361](http://arxiv.org/abs/2602.21361)|null|
@@ -2647,6 +2651,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-02**|**Obstacles to Continuous Quantum Error Correction via Parity Measurements**|Anton Halaski et.al.|[2603.02106](http://arxiv.org/abs/2603.02106)|null|
+|**2026-03-02**|**No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth**|Yuga Hirai et.al.|[2603.01628](http://arxiv.org/abs/2603.01628)|null|
+|**2026-03-02**|**Sustaining high-fidelity quantum logic in neutral-atom circuits via mid-circuit operations**|Rui Lin et.al.|[2603.01612](http://arxiv.org/abs/2603.01612)|null|
+|**2026-02-28**|**ReloQate: Transient Drift Detection and In-Situ Recalibration in Surface Code Quantum Error Correction**|Maxwell Poster et.al.|[2603.00837](http://arxiv.org/abs/2603.00837)|null|
+|**2026-02-28**|**Towards Non-Latin Text and Layout Personalization for Enhanced Readability**|Rina Buoy et.al.|[2603.00688](http://arxiv.org/abs/2603.00688)|null|
 |**2026-02-27**|**Estimating the performance boundary of Gottesman-Kitaev-Preskill codes and number-phase codes**|Kai-Xuan Wen et.al.|[2602.24102](http://arxiv.org/abs/2602.24102)|null|
 |**2026-02-27**|**Spin stiffness and resilience phase transition in a noisy toric-rotor code**|Morteza Zarei et.al.|[2602.23751](http://arxiv.org/abs/2602.23751)|null|
 |**2026-02-26**|**Copy-cup Gates in Tensor Products of Group Algebra Codes**|Ryan Tiew et.al.|[2602.23307](http://arxiv.org/abs/2602.23307)|null|

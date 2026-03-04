@@ -1377,7 +1377,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-01**|**Feasibility of Negative Triangularity Equilibria in the SPARC Tokamak**|Narin Yüksek et.al.|[2603.01208](http://arxiv.org/abs/2603.01208)|null|
-|**2026-02-26**|**Design Framework and Manufacturing of an Active Magnetic Bearing Spindle for Micro-Milling Applications**|Kazi Sher Ahmed et.al.|[2603.00169](http://arxiv.org/abs/2603.00169)|null|
+|**2026-03-03**|**Design Framework and Manufacturing of an Active Magnetic Bearing Spindle for Micro-Milling Applications**|Kazi Sher Ahmed et.al.|[2603.00169](http://arxiv.org/abs/2603.00169)|null|
 |**2026-02-26**|**Revisiting the Role of State Texture in Gate Identification and Fixed-Point Resource Theories**|Alexander C. B. Greenwood et.al.|[2602.22496](http://arxiv.org/abs/2602.22496)|null|
 |**2026-02-27**|**The unbearable hardness of deciding about magic**|Lorenzo Leone et.al.|[2602.22330](http://arxiv.org/abs/2602.22330)|null|
 |**2026-02-24**|**Towards single-shot coherent imaging via overlap-free ptychography**|Oliver Hoidn et.al.|[2602.21361](http://arxiv.org/abs/2602.21361)|null|
@@ -1896,6 +1896,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Qudit Designs and Where to Find Them**|Namit Anand et.al.|[2603.02659](http://arxiv.org/abs/2603.02659)|null|
+|**2026-03-02**|**Enhancing entanglement asymmetry in fragmented quantum systems**|Lorenzo Gotta et.al.|[2603.02338](http://arxiv.org/abs/2603.02338)|null|
 |**2026-02-26**|**Ideal random quantum circuits pass the LXEB test**|Nicholas Hunter-Jones et.al.|[2602.22692](http://arxiv.org/abs/2602.22692)|null|
 |**2026-02-25**|**Schwinger-Keldysh field theory for operator Rényi entropy and entanglement growth in non-interacting systems with sub-ballistic transports**|Priesh Roy et.al.|[2602.22331](http://arxiv.org/abs/2602.22331)|null|
 |**2026-02-25**|**Out-of-time-ordered correlators for turbulent fields: a quantum-classical correspondence**|Motoki Nakata et.al.|[2602.21710](http://arxiv.org/abs/2602.21710)|null|
@@ -2630,6 +2632,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-03**|**Entanglement-Assisted Codes Outside the Stabilizer Framework**|Jaszmine DeFranco et.al.|[2603.03182](http://arxiv.org/abs/2603.03182)|null|
+|**2026-03-03**|**Scaling of silicon spin qubits under correlated noise**|Juan S. Rojas-Arias et.al.|[2603.03051](http://arxiv.org/abs/2603.03051)|null|
+|**2026-03-03**|**Steering paths mid-flight for fault-tolerance in measurement-based holonomic gates**|Anirudh Lanka et.al.|[2603.02552](http://arxiv.org/abs/2603.02552)|null|
+|**2026-03-02**|**Local decoder for the toric code with a high pseudo-threshold**|Louis Paletta et.al.|[2603.02328](http://arxiv.org/abs/2603.02328)|null|
 |**2026-03-02**|**Obstacles to Continuous Quantum Error Correction via Parity Measurements**|Anton Halaski et.al.|[2603.02106](http://arxiv.org/abs/2603.02106)|null|
 |**2026-03-02**|**No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth**|Yuga Hirai et.al.|[2603.01628](http://arxiv.org/abs/2603.01628)|null|
 |**2026-03-02**|**Sustaining high-fidelity quantum logic in neutral-atom circuits via mid-circuit operations**|Rui Lin et.al.|[2603.01612](http://arxiv.org/abs/2603.01612)|null|

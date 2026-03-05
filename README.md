@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Kinematic budget of quantum correlations**|Maaz Khan et.al.|[2603.03887](http://arxiv.org/abs/2603.03887)|null|
 |**2026-03-02**|**Violation of Quantum Bilocal Inequalities on Mutually-Commuting von Neumann Algebra Models**|Bingke Zheng et.al.|[2603.01466](http://arxiv.org/abs/2603.01466)|null|
 |**2026-03-01**|**Multipartite device-independent quantum key distribution using W states**|Makoto Ishihara et.al.|[2603.00937](http://arxiv.org/abs/2603.00937)|null|
 |**2026-02-20**|**Bell-GHZ nonclassicality of many-observer interwoven frustrated down conversions**|Marek Żukowski et.al.|[2602.18381](http://arxiv.org/abs/2602.18381)|null|
@@ -626,6 +627,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**On the operational and algebraic quantum correlations**|Shun Umekawa et.al.|[2603.04332](http://arxiv.org/abs/2603.04332)|null|
 |**2026-02-16**|**Projections with Respect to Bures Distance and Fidelity: Closed-Forms and Applications**|A. Afham et.al.|[2602.14732](http://arxiv.org/abs/2602.14732)|null|
 |**2026-02-05**|**Investigations on Quantum Correlations and Open Quantum System Dynamics Through Nuclear Spins**|Arijit Chatterjee et.al.|[2602.05661](http://arxiv.org/abs/2602.05661)|null|
 |**2026-02-05**|**Simultaneous reconstruction of quantum process and noise via corrupted sensing**|Mengru Ma et.al.|[2602.05604](http://arxiv.org/abs/2602.05604)|null|
@@ -931,6 +933,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Fermi-Dirac thermal measurements: A framework for quantum hypothesis testing and semidefinite optimization**|Nana Liu et.al.|[2603.04061](http://arxiv.org/abs/2603.04061)|null|
+|**2026-03-04**|**From Orthogonalizing Pseudopotential to the Feshbach-Schur Projection**|M. M. Nishonov et.al.|[2603.03842](http://arxiv.org/abs/2603.03842)|null|
 |**2026-02-26**|**Connecting Quantum Contextuality and Nonlocality**|Jianqi Sheng et.al.|[2602.23221](http://arxiv.org/abs/2602.23221)|null|
 |**2026-02-26**|**Equal-spin and opposite-spin density-density correlations in the BCS-BEC crossover: Gauge Symmetry, Pauli Exclusion Principle, Wick's Theorem and Experiments**|Nikolai Kaschewski et.al.|[2602.23019](http://arxiv.org/abs/2602.23019)|null|
 |**2026-02-19**|**Realization of fractional Fermi seas**|Yi Zeng et.al.|[2602.17657](http://arxiv.org/abs/2602.17657)|null|
@@ -1393,6 +1397,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**PlaneCycle: Training-Free 2D-to-3D Lifting of Foundation Models Without Adapters**|Yinghong Yu et.al.|[2603.04165](http://arxiv.org/abs/2603.04165)|null|
 |**2026-03-01**|**Feasibility of Negative Triangularity Equilibria in the SPARC Tokamak**|Narin Yüksek et.al.|[2603.01208](http://arxiv.org/abs/2603.01208)|null|
 |**2026-03-03**|**Design Framework and Manufacturing of an Active Magnetic Bearing Spindle for Micro-Milling Applications**|Kazi Sher Ahmed et.al.|[2603.00169](http://arxiv.org/abs/2603.00169)|null|
 |**2026-02-26**|**Revisiting the Role of State Texture in Gate Identification and Fixed-Point Resource Theories**|Alexander C. B. Greenwood et.al.|[2602.22496](http://arxiv.org/abs/2602.22496)|null|
@@ -1915,6 +1920,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Non-equilibrium dynamics of the disordered Power of Two model**|Kunal Singh et.al.|[2603.04220](http://arxiv.org/abs/2603.04220)|null|
 |**2026-03-03**|**Qudit Designs and Where to Find Them**|Namit Anand et.al.|[2603.02659](http://arxiv.org/abs/2603.02659)|null|
 |**2026-03-02**|**Enhancing entanglement asymmetry in fragmented quantum systems**|Lorenzo Gotta et.al.|[2603.02338](http://arxiv.org/abs/2603.02338)|null|
 |**2026-02-26**|**Ideal random quantum circuits pass the LXEB test**|Nicholas Hunter-Jones et.al.|[2602.22692](http://arxiv.org/abs/2602.22692)|null|
@@ -2653,6 +2659,9 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-04**|**Minimum Weight Decoding in the Colour Code is NP-hard**|Mark Walters et.al.|[2603.04234](http://arxiv.org/abs/2603.04234)|null|
+|**2026-03-04**|**Towards Practical Quantum Federated Learning: Enhancing Efficiency and Noise Tolerance**|Suzukaze Kamei et.al.|[2603.03853](http://arxiv.org/abs/2603.03853)|null|
+|**2026-03-03**|**Hazard-Aware Traffic Scene Graph Generation**|Yaoqi Huang et.al.|[2603.03584](http://arxiv.org/abs/2603.03584)|null|
 |**2026-03-03**|**Entanglement-Assisted Codes Outside the Stabilizer Framework**|Jaszmine DeFranco et.al.|[2603.03182](http://arxiv.org/abs/2603.03182)|null|
 |**2026-03-03**|**Scaling of silicon spin qubits under correlated noise**|Juan S. Rojas-Arias et.al.|[2603.03051](http://arxiv.org/abs/2603.03051)|null|
 |**2026-03-03**|**Steering paths mid-flight for fault-tolerance in measurement-based holonomic gates**|Anirudh Lanka et.al.|[2603.02552](http://arxiv.org/abs/2603.02552)|null|

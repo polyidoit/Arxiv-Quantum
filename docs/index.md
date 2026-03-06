@@ -616,6 +616,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
 |**2026-03-04**|**On the operational and algebraic quantum correlations**|Shun Umekawa et.al.|[2603.04332](http://arxiv.org/abs/2603.04332)|null|
 |**2026-02-16**|**Projections with Respect to Bures Distance and Fidelity: Closed-Forms and Applications**|A. Afham et.al.|[2602.14732](http://arxiv.org/abs/2602.14732)|null|
 |**2026-02-05**|**Investigations on Quantum Correlations and Open Quantum System Dynamics Through Nuclear Spins**|Arijit Chatterjee et.al.|[2602.05661](http://arxiv.org/abs/2602.05661)|null|
@@ -920,6 +921,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[2603.05397](http://arxiv.org/abs/2603.05397)|null|
 |**2026-03-04**|**Fermi-Dirac thermal measurements: A framework for quantum hypothesis testing and semidefinite optimization**|Nana Liu et.al.|[2603.04061](http://arxiv.org/abs/2603.04061)|null|
 |**2026-03-04**|**From Orthogonalizing Pseudopotential to the Feshbach-Schur Projection**|M. M. Nishonov et.al.|[2603.03842](http://arxiv.org/abs/2603.03842)|null|
 |**2026-02-26**|**Connecting Quantum Contextuality and Nonlocality**|Jianqi Sheng et.al.|[2602.23221](http://arxiv.org/abs/2602.23221)|null|
@@ -1380,6 +1382,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**When Sensors Fail: Temporal Sequence Models for Robust PPO under Sensor Drift**|Kevin Vogt-Lowell et.al.|[2603.04648](http://arxiv.org/abs/2603.04648)|null|
+|**2026-03-04**|**Robustness as a thermodynamic currency: work advantages and preparation costs of nonclassical states**|Luis Pedro Garcıa-Pintos et.al.|[2603.04618](http://arxiv.org/abs/2603.04618)|null|
+|**2026-03-04**|**Quantum State Certification via Effective Parent Hamiltonians from Local Measurement Data**|Guy-Philippe Nadon et.al.|[2603.04499](http://arxiv.org/abs/2603.04499)|null|
 |**2026-03-04**|**PlaneCycle: Training-Free 2D-to-3D Lifting of Foundation Models Without Adapters**|Yinghong Yu et.al.|[2603.04165](http://arxiv.org/abs/2603.04165)|null|
 |**2026-03-01**|**Feasibility of Negative Triangularity Equilibria in the SPARC Tokamak**|Narin Yüksek et.al.|[2603.01208](http://arxiv.org/abs/2603.01208)|null|
 |**2026-03-03**|**Design Framework and Manufacturing of an Active Magnetic Bearing Spindle for Micro-Milling Applications**|Kazi Sher Ahmed et.al.|[2603.00169](http://arxiv.org/abs/2603.00169)|null|
@@ -1901,6 +1906,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Unified Probe of Quantum Chaos and Ergodicity from Hamiltonian Learning**|Nik O. Gjonbalaj et.al.|[2603.04486](http://arxiv.org/abs/2603.04486)|null|
 |**2026-03-04**|**Non-equilibrium dynamics of the disordered Power of Two model**|Kunal Singh et.al.|[2603.04220](http://arxiv.org/abs/2603.04220)|null|
 |**2026-03-03**|**Qudit Designs and Where to Find Them**|Namit Anand et.al.|[2603.02659](http://arxiv.org/abs/2603.02659)|null|
 |**2026-03-02**|**Enhancing entanglement asymmetry in fragmented quantum systems**|Lorenzo Gotta et.al.|[2603.02338](http://arxiv.org/abs/2603.02338)|null|
@@ -2638,6 +2644,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-05**|**Universal quantum computation with group surface codes**|Naren Manjunath et.al.|[2603.05502](http://arxiv.org/abs/2603.05502)|null|
+|**2026-03-05**|**Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime**|Andrey Boris Khesin et.al.|[2603.05496](http://arxiv.org/abs/2603.05496)|null|
+|**2026-03-05**|**High-performance syndrome extraction circuits for quantum codes**|Armands Strikis et.al.|[2603.05481](http://arxiv.org/abs/2603.05481)|null|
+|**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
+|**2026-03-05**|**Constant depth magic state cultivation with Clifford measurements by gauging**|Bence Hetényi et.al.|[2603.05429](http://arxiv.org/abs/2603.05429)|null|
+|**2026-03-05**|**Optimal Decoding with the Worm**|Zac Tobias et.al.|[2603.05428](http://arxiv.org/abs/2603.05428)|null|
+|**2026-03-05**|**Recursive Magic State Distillation on the Surface Code**|Jonathan E. Moussa et.al.|[2603.05409](http://arxiv.org/abs/2603.05409)|null|
+|**2026-03-05**|**Generalized matching decoders for 2D topological translationally-invariant codes**|Shi Jie Samuel Tan et.al.|[2603.05402](http://arxiv.org/abs/2603.05402)|null|
+|**2026-03-05**|**QGPU: Parallel logic in quantum LDPC codes**|Boren Gu et.al.|[2603.05398](http://arxiv.org/abs/2603.05398)|null|
+|**2026-03-05**|**SpiderCat: Optimal Fault-Tolerant Cat State Preparation**|Andrey Boris Khesin et.al.|[2603.05391](http://arxiv.org/abs/2603.05391)|null|
 |**2026-03-04**|**Minimum Weight Decoding in the Colour Code is NP-hard**|Mark Walters et.al.|[2603.04234](http://arxiv.org/abs/2603.04234)|null|
 |**2026-03-04**|**Towards Practical Quantum Federated Learning: Enhancing Efficiency and Noise Tolerance**|Suzukaze Kamei et.al.|[2603.03853](http://arxiv.org/abs/2603.03853)|null|
 |**2026-03-03**|**Hazard-Aware Traffic Scene Graph Generation**|Yaoqi Huang et.al.|[2603.03584](http://arxiv.org/abs/2603.03584)|null|

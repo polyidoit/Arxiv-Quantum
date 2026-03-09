@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Heterogeneous entanglement between a trapped ion and a solid-state quantum memory**|Chen-Xu Wang et.al.|[2603.05836](http://arxiv.org/abs/2603.05836)|null|
 |**2026-03-04**|**Kinematic budget of quantum correlations**|Maaz Khan et.al.|[2603.03887](http://arxiv.org/abs/2603.03887)|null|
 |**2026-03-02**|**Violation of Quantum Bilocal Inequalities on Mutually-Commuting von Neumann Algebra Models**|Bingke Zheng et.al.|[2603.01466](http://arxiv.org/abs/2603.01466)|null|
 |**2026-03-01**|**Multipartite device-independent quantum key distribution using W states**|Makoto Ishihara et.al.|[2603.00937](http://arxiv.org/abs/2603.00937)|null|
@@ -616,7 +617,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
+|**2026-03-06**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
 |**2026-03-04**|**On the operational and algebraic quantum correlations**|Shun Umekawa et.al.|[2603.04332](http://arxiv.org/abs/2603.04332)|null|
 |**2026-02-16**|**Projections with Respect to Bures Distance and Fidelity: Closed-Forms and Applications**|A. Afham et.al.|[2602.14732](http://arxiv.org/abs/2602.14732)|null|
 |**2026-02-05**|**Investigations on Quantum Correlations and Open Quantum System Dynamics Through Nuclear Spins**|Arijit Chatterjee et.al.|[2602.05661](http://arxiv.org/abs/2602.05661)|null|
@@ -1203,7 +1204,7 @@ layout: default
 |**2026-02-05**|**Bell and EPR experiments with signalling data**|Lucas Maquedano et.al.|[2602.05507](http://arxiv.org/abs/2602.05507)|null|
 |**2026-02-01**|**Tripartite quantum steering in Schwarzschild spacetime**|Guang-Wei Mi et.al.|[2602.00991](http://arxiv.org/abs/2602.00991)|null|
 |**2026-01-31**|**Geometric Optimization for Tight Entropic Uncertainty Relations**|Ma-Cheng Yang et.al.|[2602.00595](http://arxiv.org/abs/2602.00595)|null|
-|**2026-01-29**|**Quantum steering probes energy transfer in quantum batteries**|Meng-Long Song et.al.|[2601.21398](http://arxiv.org/abs/2601.21398)|null|
+|**2026-03-06**|**Quantum steering probes energy transfer in quantum batteries**|Meng-Long Song et.al.|[2601.21398](http://arxiv.org/abs/2601.21398)|null|
 |**2026-01-17**|**Peres-type Criterion of Einstein-Podolsky-Rosen Steering for Two Qubits**|Yu-Xuan Zhang et.al.|[2601.12085](http://arxiv.org/abs/2601.12085)|null|
 |**2026-01-07**|**Detection-loophole-free nonlocality in the simplest scenario**|Nandana T Raveendranath et.al.|[2601.03817](http://arxiv.org/abs/2601.03817)|null|
 |**2026-01-05**|**A General Class of Functionals for Certifying Quantum Incompatibility**|Kuan-Yi Lee et.al.|[2601.02239](http://arxiv.org/abs/2601.02239)|null|
@@ -1906,6 +1907,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Classical Simulability from Operator Entanglement Scaling**|Neil Dowling et.al.|[2603.05656](http://arxiv.org/abs/2603.05656)|null|
 |**2026-03-04**|**Unified Probe of Quantum Chaos and Ergodicity from Hamiltonian Learning**|Nik O. Gjonbalaj et.al.|[2603.04486](http://arxiv.org/abs/2603.04486)|null|
 |**2026-03-04**|**Non-equilibrium dynamics of the disordered Power of Two model**|Kunal Singh et.al.|[2603.04220](http://arxiv.org/abs/2603.04220)|null|
 |**2026-03-03**|**Qudit Designs and Where to Find Them**|Namit Anand et.al.|[2603.02659](http://arxiv.org/abs/2603.02659)|null|
@@ -2644,10 +2646,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-06**|**Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill**|Sitong Liu et.al.|[2603.06513](http://arxiv.org/abs/2603.06513)|null|
 |**2026-03-05**|**Universal quantum computation with group surface codes**|Naren Manjunath et.al.|[2603.05502](http://arxiv.org/abs/2603.05502)|null|
 |**2026-03-05**|**Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime**|Andrey Boris Khesin et.al.|[2603.05496](http://arxiv.org/abs/2603.05496)|null|
 |**2026-03-05**|**High-performance syndrome extraction circuits for quantum codes**|Armands Strikis et.al.|[2603.05481](http://arxiv.org/abs/2603.05481)|null|
-|**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
+|**2026-03-06**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
 |**2026-03-05**|**Constant depth magic state cultivation with Clifford measurements by gauging**|Bence Hetényi et.al.|[2603.05429](http://arxiv.org/abs/2603.05429)|null|
 |**2026-03-05**|**Optimal Decoding with the Worm**|Zac Tobias et.al.|[2603.05428](http://arxiv.org/abs/2603.05428)|null|
 |**2026-03-05**|**Recursive Magic State Distillation on the Surface Code**|Jonathan E. Moussa et.al.|[2603.05409](http://arxiv.org/abs/2603.05409)|null|

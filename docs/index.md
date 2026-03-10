@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -617,6 +617,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**Efficiently Learning Global Quantum Channels with Local Tomography**|Zidu Liu et.al.|[2603.07037](http://arxiv.org/abs/2603.07037)|null|
 |**2026-03-06**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
 |**2026-03-04**|**On the operational and algebraic quantum correlations**|Shun Umekawa et.al.|[2603.04332](http://arxiv.org/abs/2603.04332)|null|
 |**2026-02-16**|**Projections with Respect to Bures Distance and Fidelity: Closed-Forms and Applications**|A. Afham et.al.|[2602.14732](http://arxiv.org/abs/2602.14732)|null|
@@ -1383,6 +1384,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Operational impact of quantum resources in chemical dynamics**|Julia Liebert et.al.|[2603.06833](http://arxiv.org/abs/2603.06833)|null|
 |**2026-03-04**|**When Sensors Fail: Temporal Sequence Models for Robust PPO under Sensor Drift**|Kevin Vogt-Lowell et.al.|[2603.04648](http://arxiv.org/abs/2603.04648)|null|
 |**2026-03-04**|**Robustness as a thermodynamic currency: work advantages and preparation costs of nonclassical states**|Luis Pedro Garcıa-Pintos et.al.|[2603.04618](http://arxiv.org/abs/2603.04618)|null|
 |**2026-03-04**|**Quantum State Certification via Effective Parent Hamiltonians from Local Measurement Data**|Guy-Philippe Nadon et.al.|[2603.04499](http://arxiv.org/abs/2603.04499)|null|
@@ -2646,6 +2648,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-06**|**Heterogeneous quantum error-correcting codes**|Omid Khosravani et.al.|[2603.06817](http://arxiv.org/abs/2603.06817)|null|
+|**2026-03-06**|**Decoder Performance in Hybrid CV-Discrete Surface-Code Threshold Estimation Using LiDMaS+**|Dennis Delali Kwesi Wayo et.al.|[2603.06730](http://arxiv.org/abs/2603.06730)|null|
 |**2026-03-06**|**Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill**|Sitong Liu et.al.|[2603.06513](http://arxiv.org/abs/2603.06513)|null|
 |**2026-03-05**|**Universal quantum computation with group surface codes**|Naren Manjunath et.al.|[2603.05502](http://arxiv.org/abs/2603.05502)|null|
 |**2026-03-05**|**Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime**|Andrey Boris Khesin et.al.|[2603.05496](http://arxiv.org/abs/2603.05496)|null|

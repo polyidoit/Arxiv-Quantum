@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**The Grasshopper Problem on the Sphere**|David Llamas et.al.|[2603.08579](http://arxiv.org/abs/2603.08579)|null|
+|**2026-03-09**|**Quantum information advantage based on Bell inequalities**|Rahul Jain et.al.|[2603.07930](http://arxiv.org/abs/2603.07930)|null|
 |**2026-03-06**|**Heterogeneous entanglement between a trapped ion and a solid-state quantum memory**|Chen-Xu Wang et.al.|[2603.05836](http://arxiv.org/abs/2603.05836)|null|
 |**2026-03-04**|**Kinematic budget of quantum correlations**|Maaz Khan et.al.|[2603.03887](http://arxiv.org/abs/2603.03887)|null|
 |**2026-03-02**|**Violation of Quantum Bilocal Inequalities on Mutually-Commuting von Neumann Algebra Models**|Bingke Zheng et.al.|[2603.01466](http://arxiv.org/abs/2603.01466)|null|
@@ -617,6 +619,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**A Bipartite Quantum Key Distribution Protocol Based on Indefinite Causal Order**|Mateusz Leśniak et.al.|[2603.08204](http://arxiv.org/abs/2603.08204)|null|
 |**2026-03-07**|**Efficiently Learning Global Quantum Channels with Local Tomography**|Zidu Liu et.al.|[2603.07037](http://arxiv.org/abs/2603.07037)|null|
 |**2026-03-06**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
 |**2026-03-04**|**On the operational and algebraic quantum correlations**|Shun Umekawa et.al.|[2603.04332](http://arxiv.org/abs/2603.04332)|null|
@@ -1205,7 +1208,7 @@ layout: default
 |**2026-02-05**|**Bell and EPR experiments with signalling data**|Lucas Maquedano et.al.|[2602.05507](http://arxiv.org/abs/2602.05507)|null|
 |**2026-02-01**|**Tripartite quantum steering in Schwarzschild spacetime**|Guang-Wei Mi et.al.|[2602.00991](http://arxiv.org/abs/2602.00991)|null|
 |**2026-01-31**|**Geometric Optimization for Tight Entropic Uncertainty Relations**|Ma-Cheng Yang et.al.|[2602.00595](http://arxiv.org/abs/2602.00595)|null|
-|**2026-03-06**|**Quantum steering probes energy transfer in quantum batteries**|Meng-Long Song et.al.|[2601.21398](http://arxiv.org/abs/2601.21398)|null|
+|**2026-03-09**|**Quantum steering as a probe of energy transfer in quantum batteries**|Meng-Long Song et.al.|[2601.21398](http://arxiv.org/abs/2601.21398)|null|
 |**2026-01-17**|**Peres-type Criterion of Einstein-Podolsky-Rosen Steering for Two Qubits**|Yu-Xuan Zhang et.al.|[2601.12085](http://arxiv.org/abs/2601.12085)|null|
 |**2026-01-07**|**Detection-loophole-free nonlocality in the simplest scenario**|Nandana T Raveendranath et.al.|[2601.03817](http://arxiv.org/abs/2601.03817)|null|
 |**2026-01-05**|**A General Class of Functionals for Certifying Quantum Incompatibility**|Kuan-Yi Lee et.al.|[2601.02239](http://arxiv.org/abs/2601.02239)|null|
@@ -2648,6 +2651,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-09**|**Coupled-Layer Construction of Quantum Product Codes**|Shuyu Zhang et.al.|[2603.08711](http://arxiv.org/abs/2603.08711)|null|
+|**2026-03-09**|**Scalable Postselection of Quantum Resources**|J. Wilson Staples et.al.|[2603.08697](http://arxiv.org/abs/2603.08697)|null|
+|**2026-03-09**|**Construction of a Family of Quantum Codes Using Sub-exceding Functions via the Hypergraph Product and the Generalized Shor Construction**|Luc Rabefihavanana et.al.|[2603.08213](http://arxiv.org/abs/2603.08213)|null|
 |**2026-03-06**|**Heterogeneous quantum error-correcting codes**|Omid Khosravani et.al.|[2603.06817](http://arxiv.org/abs/2603.06817)|null|
 |**2026-03-06**|**Decoder Performance in Hybrid CV-Discrete Surface-Code Threshold Estimation Using LiDMaS+**|Dennis Delali Kwesi Wayo et.al.|[2603.06730](http://arxiv.org/abs/2603.06730)|null|
 |**2026-03-06**|**Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill**|Sitong Liu et.al.|[2603.06513](http://arxiv.org/abs/2603.06513)|null|

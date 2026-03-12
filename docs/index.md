@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1913,6 +1913,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Entanglement distillation based on Hamiltonian dynamics**|Zitai Xu et.al.|[2603.10843](http://arxiv.org/abs/2603.10843)|null|
+|**2026-03-10**|**Patterson-Sullivan distributions of finite regular graphs**|Christian Arends et.al.|[2603.09779](http://arxiv.org/abs/2603.09779)|null|
 |**2026-03-10**|**Enhancing light-matter coupling for exploring chaos in the quantum Rabi model**|Yan-Song Hu et.al.|[2603.09114](http://arxiv.org/abs/2603.09114)|null|
 |**2026-03-05**|**Classical Simulability from Operator Entanglement Scaling**|Neil Dowling et.al.|[2603.05656](http://arxiv.org/abs/2603.05656)|null|
 |**2026-03-04**|**Unified Probe of Quantum Chaos and Ergodicity from Hamiltonian Learning**|Nik O. Gjonbalaj et.al.|[2603.04486](http://arxiv.org/abs/2603.04486)|null|
@@ -2653,6 +2655,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-11**|**Entanglement distillation based on Hamiltonian dynamics**|Zitai Xu et.al.|[2603.10843](http://arxiv.org/abs/2603.10843)|null|
+|**2026-03-10**|**Regularized Warm-Started Quantum Approximate Optimization and Conditions for Surpassing Classical Solvers on the Max-Cut Problem**|Zichang He et.al.|[2603.10191](http://arxiv.org/abs/2603.10191)|null|
 |**2026-03-10**|**Scientific Rigor and Human Warmth: Remembering Vladimir Sidorenko (1949-2025)**|Christian Deppe et.al.|[2603.09437](http://arxiv.org/abs/2603.09437)|null|
 |**2026-03-10**|**Verified delegated quantum computation requires techniques beyond cut-and-choose**|Fabian Wiesner et.al.|[2603.09368](http://arxiv.org/abs/2603.09368)|null|
 |**2026-03-09**|**A Note on the Equivalence Between Zero-knowledge and Quantum CSS Codes**|Noga Ron-Zewi et.al.|[2603.08941](http://arxiv.org/abs/2603.08941)|null|

@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.03.12
+## Updated on 2026.03.13
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**All star-incompatible measurements can certify steering-based randomness**|Shintaro Minagawa et.al.|[2603.12024](http://arxiv.org/abs/2603.12024)|null|
 |**2026-03-09**|**Quantum nonlocality: no, yes, how and why**|Alejandro A. Hnilo et.al.|[2603.09000](http://arxiv.org/abs/2603.09000)|null|
 |**2026-03-09**|**The Grasshopper Problem on the Sphere**|David Llamas et.al.|[2603.08579](http://arxiv.org/abs/2603.08579)|null|
 |**2026-03-09**|**Quantum information advantage based on Bell inequalities**|Rahul Jain et.al.|[2603.07930](http://arxiv.org/abs/2603.07930)|null|
@@ -620,6 +621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Subtime: Reversible Information Exchange and the Emergence of Classical Time**|Paul L. Borrill et.al.|[2603.11571](http://arxiv.org/abs/2603.11571)|null|
 |**2026-03-09**|**A Bipartite Quantum Key Distribution Protocol Based on Indefinite Causal Order**|Mateusz Leśniak et.al.|[2603.08204](http://arxiv.org/abs/2603.08204)|null|
 |**2026-03-07**|**Efficiently Learning Global Quantum Channels with Local Tomography**|Zidu Liu et.al.|[2603.07037](http://arxiv.org/abs/2603.07037)|null|
 |**2026-03-06**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|
@@ -1388,6 +1390,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Uniqueness of imaginarity-assisted transformation from computationally universal to strictly universal quantum computation**|Yasuaki Nakayama et.al.|[2603.11812](http://arxiv.org/abs/2603.11812)|null|
 |**2026-03-06**|**Operational impact of quantum resources in chemical dynamics**|Julia Liebert et.al.|[2603.06833](http://arxiv.org/abs/2603.06833)|null|
 |**2026-03-04**|**When Sensors Fail: Temporal Sequence Models for Robust PPO under Sensor Drift**|Kevin Vogt-Lowell et.al.|[2603.04648](http://arxiv.org/abs/2603.04648)|null|
 |**2026-03-04**|**Robustness as a thermodynamic currency: work advantages and preparation costs of nonclassical states**|Luis Pedro Garcıa-Pintos et.al.|[2603.04618](http://arxiv.org/abs/2603.04618)|null|
@@ -2655,6 +2658,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-12**|**Measurement-Induced State transitions in Inductively-Shunted Transmons**|Nicholas Zobrist et.al.|[2603.12114](http://arxiv.org/abs/2603.12114)|null|
+|**2026-03-12**|**Optimal quantum metrology protocols with erasure qubits**|Michal Arieli et.al.|[2603.11807](http://arxiv.org/abs/2603.11807)|null|
+|**2026-03-12**|**Quantum Error Correction by Purification**|Jonathan Raghoonanan et.al.|[2603.11568](http://arxiv.org/abs/2603.11568)|null|
+|**2026-03-11**|**Infinite Distance Extrapolation: How error mitigation can enhance quantum error correction**|George Umbrarescu et.al.|[2603.11285](http://arxiv.org/abs/2603.11285)|null|
 |**2026-03-11**|**Permutation-invariant codes: a numerical study and qudit constructions**|Liam J. Bond et.al.|[2603.10981](http://arxiv.org/abs/2603.10981)|null|
 |**2026-03-11**|**Entanglement distillation based on Hamiltonian dynamics**|Zitai Xu et.al.|[2603.10843](http://arxiv.org/abs/2603.10843)|null|
 |**2026-03-10**|**Regularized Warm-Started Quantum Approximate Optimization and Conditions for Surpassing Classical Solvers on the Max-Cut Problem**|Zichang He et.al.|[2603.10191](http://arxiv.org/abs/2603.10191)|null|

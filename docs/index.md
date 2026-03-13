@@ -2658,6 +2658,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-12**|**Optimal control with flag qubits**|Liang-Xu Xie et.al.|[2603.12162](http://arxiv.org/abs/2603.12162)|null|
 |**2026-03-12**|**Measurement-Induced State transitions in Inductively-Shunted Transmons**|Nicholas Zobrist et.al.|[2603.12114](http://arxiv.org/abs/2603.12114)|null|
 |**2026-03-12**|**Optimal quantum metrology protocols with erasure qubits**|Michal Arieli et.al.|[2603.11807](http://arxiv.org/abs/2603.11807)|null|
 |**2026-03-12**|**Quantum Error Correction by Purification**|Jonathan Raghoonanan et.al.|[2603.11568](http://arxiv.org/abs/2603.11568)|null|

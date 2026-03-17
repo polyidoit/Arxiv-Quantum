@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Scalable Self-Testing of Mutually Anticommuting Observables and Maximally Entangled Two-Qudits**|Souradeep Sasmal et.al.|[2603.15018](http://arxiv.org/abs/2603.15018)|null|
+|**2026-03-15**|**The Twin-World road to reality in quantum mechanics**|Daniel Braun et.al.|[2603.14464](http://arxiv.org/abs/2603.14464)|null|
 |**2026-03-13**|**Quantum entanglement and Bell nonlocality in top-quark pair production at a photon linear collider**|Seong Youl Choi et.al.|[2603.12830](http://arxiv.org/abs/2603.12830)|null|
 |**2026-03-13**|**Entanglement-Assisted Discrimination of Nonlocal Sets of Orthogonal States**|Ziying Hou et.al.|[2603.12535](http://arxiv.org/abs/2603.12535)|null|
 |**2026-03-12**|**All star-incompatible measurements can certify steering-based randomness**|Shintaro Minagawa et.al.|[2603.12024](http://arxiv.org/abs/2603.12024)|null|
@@ -1411,6 +1413,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**SSR: A Training-Free Approach for Streaming 3D Reconstruction**|Hui Deng et.al.|[2603.14765](http://arxiv.org/abs/2603.14765)|null|
 |**2026-03-14**|**Entropy Maximization and Weak Gibbsianity of Quasi-Free Fermionic States**|Vojkan Jakšić et.al.|[2603.14020](http://arxiv.org/abs/2603.14020)|null|
 |**2026-03-13**|**From Passive Monitoring to Active Defence: Resilient Control of Manipulators Under Cyberattacks**|Gabriele Gualandi et.al.|[2603.13003](http://arxiv.org/abs/2603.13003)|null|
 |**2026-03-12**|**Uniqueness of imaginarity-assisted transformation from computationally universal to strictly universal quantum computation**|Yasuaki Nakayama et.al.|[2603.11812](http://arxiv.org/abs/2603.11812)|null|
@@ -1941,6 +1944,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Quantum Liang Information Flow vs. Out-of-Time-Order Correlators as Chaos Diagnostics in the Mixed-Field Ising Chain**|Bin Yi et.al.|[2603.15315](http://arxiv.org/abs/2603.15315)|null|
+|**2026-03-15**|**Mixed-State Entanglement in a Minimal Model of Quantum Chaos**|Tanay Pathak et.al.|[2603.14292](http://arxiv.org/abs/2603.14292)|null|
+|**2026-03-14**|**Parity superselection obstructs monogamy of mutual information in free fermions**|Aleksandrs Sokolovs et.al.|[2603.14154](http://arxiv.org/abs/2603.14154)|null|
 |**2026-03-14**|**Kirkwood-Dirac classical states based on discrete Fourier transform: Representation with directed graph**|Lin-Yan Cai et.al.|[2603.13863](http://arxiv.org/abs/2603.13863)|null|
 |**2026-03-13**|**Perspective: Interactions and Nonlinearity in Non-Hermitian Physics**|Federico Roccati et.al.|[2603.13526](http://arxiv.org/abs/2603.13526)|null|
 |**2026-03-13**|**Quantum timekeeping and the dynamics of scrambling in critical systems**|Devjyoti Tripathy et.al.|[2603.13016](http://arxiv.org/abs/2603.13016)|null|
@@ -2689,6 +2695,12 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-16**|**Universal Weakly Fault-Tolerant Quantum Computation via Code Switching in the [[8,3,2]] Code**|Shixin Wu et.al.|[2603.15610](http://arxiv.org/abs/2603.15610)|null|
+|**2026-03-16**|**Velocity-Enabled Quantum Computing with Neutral Atoms**|Ohad Lib et.al.|[2603.15561](http://arxiv.org/abs/2603.15561)|null|
+|**2026-03-16**|**The Amplitude Dynamics of Impulsive Queues**|Ruici Gao et.al.|[2603.15398](http://arxiv.org/abs/2603.15398)|null|
+|**2026-03-16**|**Error semitransparent universal control of a bosonic logical qubit**|Saswata Roy et.al.|[2603.15356](http://arxiv.org/abs/2603.15356)|null|
+|**2026-03-15**|**Computing logical error thresholds with the Pauli Frame Sparse Representation**|Thomas Tuloup et.al.|[2603.14670](http://arxiv.org/abs/2603.14670)|null|
+|**2026-03-15**|**Exact characterizations for quantum conditional mutual information and some other entropies**|Zhou Gang et.al.|[2603.14650](http://arxiv.org/abs/2603.14650)|null|
 |**2026-03-14**|**Intrinsic Error Thresholds in Nearly Critical Toric Codes**|Zack Weinstein et.al.|[2603.14098](http://arxiv.org/abs/2603.14098)|null|
 |**2026-03-14**|**On secret sharing from extended norm-trace curves**|Olav Geil et.al.|[2603.14009](http://arxiv.org/abs/2603.14009)|null|
 |**2026-03-13**|**NumColor: Precise Numeric Color Control in Text-to-Image Generation**|Muhammad Atif Butt et.al.|[2603.13547](http://arxiv.org/abs/2603.13547)|null|

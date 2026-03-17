@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -931,6 +931,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Quantum contextuality with mixed states of 1D symmetry-protected topological order**|Leroy Fagan et.al.|[2603.13626](http://arxiv.org/abs/2603.13626)|null|
 |**2026-03-13**|**Hardy's Paradox for Yu-Oh Set Constructed by Logically Contextual Quantum States**|Chang He et.al.|[2603.12738](http://arxiv.org/abs/2603.12738)|null|
 |**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[2603.05397](http://arxiv.org/abs/2603.05397)|null|
 |**2026-03-04**|**Fermi-Dirac thermal measurements: A framework for quantum hypothesis testing and semidefinite optimization**|Nana Liu et.al.|[2603.04061](http://arxiv.org/abs/2603.04061)|null|
@@ -1393,6 +1394,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-14**|**Entropy Maximization and Weak Gibbsianity of Quasi-Free Fermionic States**|Vojkan Jakšić et.al.|[2603.14020](http://arxiv.org/abs/2603.14020)|null|
 |**2026-03-13**|**From Passive Monitoring to Active Defence: Resilient Control of Manipulators Under Cyberattacks**|Gabriele Gualandi et.al.|[2603.13003](http://arxiv.org/abs/2603.13003)|null|
 |**2026-03-12**|**Uniqueness of imaginarity-assisted transformation from computationally universal to strictly universal quantum computation**|Yasuaki Nakayama et.al.|[2603.11812](http://arxiv.org/abs/2603.11812)|null|
 |**2026-03-06**|**Operational impact of quantum resources in chemical dynamics**|Julia Liebert et.al.|[2603.06833](http://arxiv.org/abs/2603.06833)|null|
@@ -1920,6 +1922,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-14**|**Kirkwood-Dirac classical states based on discrete Fourier transform: Representation with directed graph**|Lin-Yan Cai et.al.|[2603.13863](http://arxiv.org/abs/2603.13863)|null|
+|**2026-03-13**|**Perspective: Interactions and Nonlinearity in Non-Hermitian Physics**|Federico Roccati et.al.|[2603.13526](http://arxiv.org/abs/2603.13526)|null|
 |**2026-03-13**|**Quantum timekeeping and the dynamics of scrambling in critical systems**|Devjyoti Tripathy et.al.|[2603.13016](http://arxiv.org/abs/2603.13016)|null|
 |**2026-03-13**|**Probing many-body localization crossover in quasiperiodic Floquet circuits on a quantum processor**|Kazuma Nagao et.al.|[2603.12675](http://arxiv.org/abs/2603.12675)|null|
 |**2026-03-11**|**Entanglement distillation based on Hamiltonian dynamics**|Zitai Xu et.al.|[2603.10843](http://arxiv.org/abs/2603.10843)|null|
@@ -2664,6 +2668,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-14**|**Intrinsic Error Thresholds in Nearly Critical Toric Codes**|Zack Weinstein et.al.|[2603.14098](http://arxiv.org/abs/2603.14098)|null|
+|**2026-03-14**|**On secret sharing from extended norm-trace curves**|Olav Geil et.al.|[2603.14009](http://arxiv.org/abs/2603.14009)|null|
+|**2026-03-13**|**NumColor: Precise Numeric Color Control in Text-to-Image Generation**|Muhammad Atif Butt et.al.|[2603.13547](http://arxiv.org/abs/2603.13547)|null|
+|**2026-03-13**|**Qubit syndrome measurements with a high fidelity Rb-Cs Rydberg gate**|J. Miles et.al.|[2603.13492](http://arxiv.org/abs/2603.13492)|null|
+|**2026-03-13**|**State-dependent geometries from magic-enriched quantum codes**|ChunJun Cao et.al.|[2603.13475](http://arxiv.org/abs/2603.13475)|null|
 |**2026-03-13**|**On-Demand Correlated Errors in Superconducting Qubits from a Particle Accelerator**|Thomas McJunkin et.al.|[2603.13124](http://arxiv.org/abs/2603.13124)|null|
 |**2026-03-13**|**Quantum CDMA-based Continuous Variable Quantum Key Distribution using Chaotic Phase Shifters**|Shahnoor Ali et.al.|[2603.12777](http://arxiv.org/abs/2603.12777)|null|
 |**2026-03-12**|**Optimal control with flag qubits**|Liang-Xu Xie et.al.|[2603.12162](http://arxiv.org/abs/2603.12162)|null|

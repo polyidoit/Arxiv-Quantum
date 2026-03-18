@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2026-03-16**|**Scalable Self-Testing of Mutually Anticommuting Observables and Maximally Entangled Two-Qudits**|Souradeep Sasmal et.al.|[2603.15018](http://arxiv.org/abs/2603.15018)|null|
 |**2026-03-15**|**The Twin-World road to reality in quantum mechanics**|Daniel Braun et.al.|[2603.14464](http://arxiv.org/abs/2603.14464)|null|
 |**2026-03-13**|**Quantum entanglement and Bell nonlocality in top-quark pair production at a photon linear collider**|Seong Youl Choi et.al.|[2603.12830](http://arxiv.org/abs/2603.12830)|null|
-|**2026-03-13**|**Entanglement-Assisted Discrimination of Nonlocal Sets of Orthogonal States**|Ziying Hou et.al.|[2603.12535](http://arxiv.org/abs/2603.12535)|null|
+|**2026-03-17**|**Entanglement-Assisted Discrimination of Nonlocal Sets of Orthogonal States**|Ziying Hou et.al.|[2603.12535](http://arxiv.org/abs/2603.12535)|null|
 |**2026-03-12**|**All star-incompatible measurements can certify steering-based randomness**|Shintaro Minagawa et.al.|[2603.12024](http://arxiv.org/abs/2603.12024)|null|
 |**2026-03-09**|**Quantum nonlocality: no, yes, how and why**|Alejandro A. Hnilo et.al.|[2603.09000](http://arxiv.org/abs/2603.09000)|null|
 |**2026-03-09**|**The Grasshopper Problem on the Sphere**|David Llamas et.al.|[2603.08579](http://arxiv.org/abs/2603.08579)|null|
@@ -1925,6 +1925,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Bridging Classical Sensitivity and Quantum Scrambling: A Tutorial on Out-of-Time-Ordered Correlators**|Stephen Wiggins et.al.|[2603.16394](http://arxiv.org/abs/2603.16394)|null|
 |**2026-03-16**|**Quantum Liang Information Flow vs. Out-of-Time-Order Correlators as Chaos Diagnostics in the Mixed-Field Ising Chain**|Bin Yi et.al.|[2603.15315](http://arxiv.org/abs/2603.15315)|null|
 |**2026-03-15**|**Mixed-State Entanglement in a Minimal Model of Quantum Chaos**|Tanay Pathak et.al.|[2603.14292](http://arxiv.org/abs/2603.14292)|null|
 |**2026-03-14**|**Parity superselection obstructs monogamy of mutual information in free fermions**|Aleksandrs Sokolovs et.al.|[2603.14154](http://arxiv.org/abs/2603.14154)|null|
@@ -2674,6 +2675,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-17**|**Chipmunq: Fault-Tolerant Compiler for Chiplet Quantum Architectures**|Peter Wegmann et.al.|[2603.16389](http://arxiv.org/abs/2603.16389)|null|
+|**2026-03-17**|**Generative AI for Quantum Circuits and Quantum Code: A Technical Review and Taxonomy**|Juhani Merilehto et.al.|[2603.16216](http://arxiv.org/abs/2603.16216)|null|
+|**2026-03-17**|**A Scalable Open-Source QEC System with Sub-Microsecond Decoding-Feedback Latency**|Junyi Liu et.al.|[2603.16203](http://arxiv.org/abs/2603.16203)|null|
+|**2026-03-17**|**Non-GRS type Euclidean and Hermitian LCD codes and Their Applications for EAQECCs**|Zhonghao Liang et.al.|[2603.16187](http://arxiv.org/abs/2603.16187)|null|
+|**2026-03-16**|**A fault-tolerant encoding for qubit-controlled collective spins**|Charlotte Franke et.al.|[2603.15760](http://arxiv.org/abs/2603.15760)|null|
 |**2026-03-16**|**Universal Weakly Fault-Tolerant Quantum Computation via Code Switching in the [[8,3,2]] Code**|Shixin Wu et.al.|[2603.15610](http://arxiv.org/abs/2603.15610)|null|
 |**2026-03-16**|**Velocity-Enabled Quantum Computing with Neutral Atoms**|Ohad Lib et.al.|[2603.15561](http://arxiv.org/abs/2603.15561)|null|
 |**2026-03-16**|**The Amplitude Dynamics of Impulsive Queues**|Ruici Gao et.al.|[2603.15398](http://arxiv.org/abs/2603.15398)|null|

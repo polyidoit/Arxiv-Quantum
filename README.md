@@ -2696,6 +2696,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-17**|**High Fidelity Single-NV Qubit Quantum State Tomography by Photoelectric Readout**|Boo Carmans et.al.|[2603.16502](http://arxiv.org/abs/2603.16502)|null|
+|**2026-03-17**|**Distinguishing types of correlated errors in superconducting qubits**|Hannah P. Binney et.al.|[2603.16494](http://arxiv.org/abs/2603.16494)|null|
 |**2026-03-17**|**Chipmunq: Fault-Tolerant Compiler for Chiplet Quantum Architectures**|Peter Wegmann et.al.|[2603.16389](http://arxiv.org/abs/2603.16389)|null|
 |**2026-03-17**|**Generative AI for Quantum Circuits and Quantum Code: A Technical Review and Taxonomy**|Juhani Merilehto et.al.|[2603.16216](http://arxiv.org/abs/2603.16216)|null|
 |**2026-03-17**|**A Scalable Open-Source QEC System with Sub-Microsecond Decoding-Feedback Latency**|Junyi Liu et.al.|[2603.16203](http://arxiv.org/abs/2603.16203)|null|

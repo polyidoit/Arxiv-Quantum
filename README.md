@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Uncertainty equality for SU(N) observables enabling the experimentally friendly detection of k-inseparability via purity measurements**|G. Tartaglione et.al.|[2603.17844](http://arxiv.org/abs/2603.17844)|null|
+|**2026-03-18**|**Superactivation of genuine multipartite Bell nonlocality from two-party entanglement**|Markus Miethlinger et.al.|[2603.17783](http://arxiv.org/abs/2603.17783)|null|
+|**2026-03-17**|**Generation of many-body Bell correlations with short-range interactions in analog and digital quantum simulators**|Marcin Płodzień et.al.|[2603.17071](http://arxiv.org/abs/2603.17071)|null|
+|**2026-03-17**|**Bell Inequalities for Smells**|Ricardo Faleiro et.al.|[2603.17030](http://arxiv.org/abs/2603.17030)|null|
 |**2026-03-16**|**Scalable Self-Testing of Mutually Anticommuting Observables and Maximally Entangled Two-Qudits**|Souradeep Sasmal et.al.|[2603.15018](http://arxiv.org/abs/2603.15018)|null|
 |**2026-03-15**|**The Twin-World road to reality in quantum mechanics**|Daniel Braun et.al.|[2603.14464](http://arxiv.org/abs/2603.14464)|null|
 |**2026-03-13**|**Quantum entanglement and Bell nonlocality in top-quark pair production at a photon linear collider**|Seong Youl Choi et.al.|[2603.12830](http://arxiv.org/abs/2603.12830)|null|
@@ -1944,6 +1948,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Exactly Solvable Disorder-free Quantum Breakdown Model: Spectrum, Thermodynamics, and Dynamics**|Kinya Guan et.al.|[2603.17379](http://arxiv.org/abs/2603.17379)|null|
 |**2026-03-17**|**Bridging Classical Sensitivity and Quantum Scrambling: A Tutorial on Out-of-Time-Ordered Correlators**|Stephen Wiggins et.al.|[2603.16394](http://arxiv.org/abs/2603.16394)|null|
 |**2026-03-16**|**Quantum Liang Information Flow vs. Out-of-Time-Order Correlators as Chaos Diagnostics in the Mixed-Field Ising Chain**|Bin Yi et.al.|[2603.15315](http://arxiv.org/abs/2603.15315)|null|
 |**2026-03-15**|**Mixed-State Entanglement in a Minimal Model of Quantum Chaos**|Tanay Pathak et.al.|[2603.14292](http://arxiv.org/abs/2603.14292)|null|
@@ -2696,9 +2701,12 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-18**|**Fast stabilizer state preparation via AI-optimized graph decimation**|Michael Doherty et.al.|[2603.17743](http://arxiv.org/abs/2603.17743)|null|
+|**2026-03-18**|**General circuit compilation protocol into partially fault-tolerant quantum computing architecture**|Tomochika Kurita et.al.|[2603.17428](http://arxiv.org/abs/2603.17428)|null|
+|**2026-03-17**|**Pixel-level Counterfactual Contrastive Learning for Medical Image Segmentation**|Marceau Lafargue-Hauret et.al.|[2603.17110](http://arxiv.org/abs/2603.17110)|null|
 |**2026-03-17**|**High Fidelity Single-NV Qubit Quantum State Tomography by Photoelectric Readout**|Boo Carmans et.al.|[2603.16502](http://arxiv.org/abs/2603.16502)|null|
 |**2026-03-17**|**Distinguishing types of correlated errors in superconducting qubits**|Hannah P. Binney et.al.|[2603.16494](http://arxiv.org/abs/2603.16494)|null|
-|**2026-03-17**|**Chipmunq: Fault-Tolerant Compiler for Chiplet Quantum Architectures**|Peter Wegmann et.al.|[2603.16389](http://arxiv.org/abs/2603.16389)|null|
+|**2026-03-18**|**Chipmunq: A Fault-Tolerant Compiler for Chiplet Quantum Architectures**|Peter Wegmann et.al.|[2603.16389](http://arxiv.org/abs/2603.16389)|null|
 |**2026-03-17**|**Generative AI for Quantum Circuits and Quantum Code: A Technical Review and Taxonomy**|Juhani Merilehto et.al.|[2603.16216](http://arxiv.org/abs/2603.16216)|null|
 |**2026-03-17**|**A Scalable Open-Source QEC System with Sub-Microsecond Decoding-Feedback Latency**|Junyi Liu et.al.|[2603.16203](http://arxiv.org/abs/2603.16203)|null|
 |**2026-03-17**|**Non-GRS type Euclidean and Hermitian LCD codes and Their Applications for EAQECCs**|Zhonghao Liang et.al.|[2603.16187](http://arxiv.org/abs/2603.16187)|null|

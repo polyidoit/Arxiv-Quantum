@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1400,6 +1400,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Circumventing Platform Defenses at Scale: Automated Content Replication from YouTube to Blockchain-Based Decentralized Storage**|Zeeshan Akram et.al.|[2603.18071](http://arxiv.org/abs/2603.18071)|null|
 |**2026-03-16**|**SSR: A Training-Free Approach for Streaming 3D Reconstruction**|Hui Deng et.al.|[2603.14765](http://arxiv.org/abs/2603.14765)|null|
 |**2026-03-14**|**Entropy Maximization and Weak Gibbsianity of Quasi-Free Fermionic States**|Vojkan Jakšić et.al.|[2603.14020](http://arxiv.org/abs/2603.14020)|null|
 |**2026-03-13**|**From Passive Monitoring to Active Defence: Resilient Control of Manipulators Under Cyberattacks**|Gabriele Gualandi et.al.|[2603.13003](http://arxiv.org/abs/2603.13003)|null|
@@ -1929,11 +1930,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Gravitational Wave-Induced Scrambling Delay in SYK Wormhole Teleportation**|Sudhanva Joshi et.al.|[2603.18509](http://arxiv.org/abs/2603.18509)|null|
 |**2026-03-18**|**Exactly Solvable Disorder-free Quantum Breakdown Model: Spectrum, Thermodynamics, and Dynamics**|Kinya Guan et.al.|[2603.17379](http://arxiv.org/abs/2603.17379)|null|
 |**2026-03-17**|**Bridging Classical Sensitivity and Quantum Scrambling: A Tutorial on Out-of-Time-Ordered Correlators**|Stephen Wiggins et.al.|[2603.16394](http://arxiv.org/abs/2603.16394)|null|
 |**2026-03-16**|**Quantum Liang Information Flow vs. Out-of-Time-Order Correlators as Chaos Diagnostics in the Mixed-Field Ising Chain**|Bin Yi et.al.|[2603.15315](http://arxiv.org/abs/2603.15315)|null|
 |**2026-03-15**|**Mixed-State Entanglement in a Minimal Model of Quantum Chaos**|Tanay Pathak et.al.|[2603.14292](http://arxiv.org/abs/2603.14292)|null|
-|**2026-03-14**|**Parity superselection obstructs monogamy of mutual information in free fermions**|Aleksandrs Sokolovs et.al.|[2603.14154](http://arxiv.org/abs/2603.14154)|null|
+|**2026-03-18**|**Parity superselection obstructs monogamy of mutual information in free fermions**|Aleksandrs Sokolovs et.al.|[2603.14154](http://arxiv.org/abs/2603.14154)|null|
 |**2026-03-14**|**Kirkwood-Dirac classical states based on discrete Fourier transform: Representation with directed graph**|Lin-Yan Cai et.al.|[2603.13863](http://arxiv.org/abs/2603.13863)|null|
 |**2026-03-13**|**Perspective: Interactions and Nonlinearity in Non-Hermitian Physics**|Federico Roccati et.al.|[2603.13526](http://arxiv.org/abs/2603.13526)|null|
 |**2026-03-13**|**Quantum timekeeping and the dynamics of scrambling in critical systems**|Devjyoti Tripathy et.al.|[2603.13016](http://arxiv.org/abs/2603.13016)|null|
@@ -2680,6 +2682,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-19**|**Simulating Quantum Error Correction beyond Pauli Stochastic Errors**|Jordan Hines et.al.|[2603.18457](http://arxiv.org/abs/2603.18457)|null|
+|**2026-03-19**|**Observable-Conditioned Backaction in Dynamic Circuits: A Higher-Order Context-Conditioned Kernel for Local Dynamics**|Petr Sramek et.al.|[2603.18381](http://arxiv.org/abs/2603.18381)|null|
+|**2026-03-18**|**Efficient Soft-Output Guessing for Enhanced Quantum Tanner Code Decoding**|Lukas Rapp et.al.|[2603.18318](http://arxiv.org/abs/2603.18318)|null|
+|**2026-03-18**|**Iterative Decoding of Stabilizer Codes under Radiation-Induced Correlated Noise**|Anuj K. Nayak et.al.|[2603.18231](http://arxiv.org/abs/2603.18231)|null|
 |**2026-03-18**|**Fast stabilizer state preparation via AI-optimized graph decimation**|Michael Doherty et.al.|[2603.17743](http://arxiv.org/abs/2603.17743)|null|
 |**2026-03-18**|**General circuit compilation protocol into partially fault-tolerant quantum computing architecture**|Tomochika Kurita et.al.|[2603.17428](http://arxiv.org/abs/2603.17428)|null|
 |**2026-03-17**|**Pixel-level Counterfactual Contrastive Learning for Medical Image Segmentation**|Marceau Lafargue-Hauret et.al.|[2603.17110](http://arxiv.org/abs/2603.17110)|null|

@@ -950,6 +950,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Black hole superradiance in Poincaré gauge theory**|Sebastian Bahamonde et.al.|[2603.19140](http://arxiv.org/abs/2603.19140)|null|
 |**2026-03-13**|**Quantum contextuality with mixed states of 1D symmetry-protected topological order**|Leroy Fagan et.al.|[2603.13626](http://arxiv.org/abs/2603.13626)|null|
 |**2026-03-13**|**Hardy's Paradox for Yu-Oh Set Constructed by Logically Contextual Quantum States**|Chang He et.al.|[2603.12738](http://arxiv.org/abs/2603.12738)|null|
 |**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[2603.05397](http://arxiv.org/abs/2603.05397)|null|
@@ -1417,6 +1418,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation**|Jiayi Yuan et.al.|[2603.18943](http://arxiv.org/abs/2603.18943)|null|
 |**2026-03-18**|**Circumventing Platform Defenses at Scale: Automated Content Replication from YouTube to Blockchain-Based Decentralized Storage**|Zeeshan Akram et.al.|[2603.18071](http://arxiv.org/abs/2603.18071)|null|
 |**2026-03-16**|**SSR: A Training-Free Approach for Streaming 3D Reconstruction**|Hui Deng et.al.|[2603.14765](http://arxiv.org/abs/2603.14765)|null|
 |**2026-03-14**|**Entropy Maximization and Weak Gibbsianity of Quasi-Free Fermionic States**|Vojkan Jakšić et.al.|[2603.14020](http://arxiv.org/abs/2603.14020)|null|
@@ -2703,6 +2705,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-19**|**Post-Quantum Cryptography from Quantum Stabilizer Decoding**|Jonathan Z. Lu et.al.|[2603.19110](http://arxiv.org/abs/2603.19110)|null|
+|**2026-03-19**|**Fair Decoder Baselines and Rigorous Finite-Size Scaling for Bivariate Bicycle Codes on the Quantum Erasure Channel**|Tushar Pandey et.al.|[2603.19062](http://arxiv.org/abs/2603.19062)|null|
 |**2026-03-19**|**Simulating Quantum Error Correction beyond Pauli Stochastic Errors**|Jordan Hines et.al.|[2603.18457](http://arxiv.org/abs/2603.18457)|null|
 |**2026-03-19**|**Observable-Conditioned Backaction in Dynamic Circuits: A Higher-Order Context-Conditioned Kernel for Local Dynamics**|Petr Sramek et.al.|[2603.18381](http://arxiv.org/abs/2603.18381)|null|
 |**2026-03-18**|**Efficient Soft-Output Guessing for Enhanced Quantum Tanner Code Decoding**|Lukas Rapp et.al.|[2603.18318](http://arxiv.org/abs/2603.18318)|null|

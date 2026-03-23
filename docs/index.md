@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Full Network Nonlocality Based Security In Quantum Key Distribution**|Kaushiki Mukherjee et.al.|[2603.20035](http://arxiv.org/abs/2603.20035)|null|
+|**2026-03-19**|**Understanding Bell locality tests at colliders**|J. A. Aguilar-Saavedra et.al.|[2603.19389](http://arxiv.org/abs/2603.19389)|null|
 |**2026-03-18**|**Uncertainty equality for SU(N) observables enabling the experimentally friendly detection of k-inseparability via purity measurements**|G. Tartaglione et.al.|[2603.17844](http://arxiv.org/abs/2603.17844)|null|
 |**2026-03-18**|**Superactivation of genuine multipartite Bell nonlocality from two-party entanglement**|Markus Miethlinger et.al.|[2603.17783](http://arxiv.org/abs/2603.17783)|null|
 |**2026-03-17**|**Generation of many-body Bell correlations with short-range interactions in analog and digital quantum simulators**|Marcin Płodzień et.al.|[2603.17071](http://arxiv.org/abs/2603.17071)|null|
@@ -1216,6 +1218,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**FoleyDirector: Fine-Grained Temporal Steering for Video-to-Audio Generation via Structured Scripts**|You Li et.al.|[2603.19857](http://arxiv.org/abs/2603.19857)|null|
 |**2026-02-11**|**General Theory of Stable Microwave-Optical Quantum Resources in Hybrid-System Dynamics**|Fan Li et.al.|[2602.10581](http://arxiv.org/abs/2602.10581)|null|
 |**2026-02-11**|**Protection of quantum steering ellipsoids in non-Markovian environments**|Wen-Jie Zhang et.al.|[2602.09903](http://arxiv.org/abs/2602.09903)|null|
 |**2026-02-08**|**Quantum Steering and Entanglement in a Tritter: Hierarchy under Loss**|Jifeng Sun et.al.|[2602.07788](http://arxiv.org/abs/2602.07788)|null|

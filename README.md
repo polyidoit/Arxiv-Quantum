@@ -2708,6 +2708,10 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-20**|**Analyzing Decoders for Quantum Error Correction**|Abtin Molavi et.al.|[2603.20127](http://arxiv.org/abs/2603.20127)|null|
+|**2026-03-20**|**SDP bounds on quantum codes: rational certificates**|Gerard Anglès Munné et.al.|[2603.19901](http://arxiv.org/abs/2603.19901)|null|
+|**2026-03-20**|**Linear-optical generation of hybrid GKP entanglement from small-amplitude cat states**|Shohei Kiryu et.al.|[2603.19870](http://arxiv.org/abs/2603.19870)|null|
+|**2026-03-19**|**Preserving MWPM-Decodability in Fault-Equivalent Rewrites**|Maximilian Schweikart et.al.|[2603.19522](http://arxiv.org/abs/2603.19522)|null|
 |**2026-03-19**|**Post-Quantum Cryptography from Quantum Stabilizer Decoding**|Jonathan Z. Lu et.al.|[2603.19110](http://arxiv.org/abs/2603.19110)|null|
 |**2026-03-19**|**Fair Decoder Baselines and Rigorous Finite-Size Scaling for Bivariate Bicycle Codes on the Quantum Erasure Channel**|Tushar Pandey et.al.|[2603.19062](http://arxiv.org/abs/2603.19062)|null|
 |**2026-03-19**|**Simulating Quantum Error Correction beyond Pauli Stochastic Errors**|Jordan Hines et.al.|[2603.18457](http://arxiv.org/abs/2603.18457)|null|

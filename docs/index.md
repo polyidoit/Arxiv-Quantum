@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Using spatiotemporal Born rule for testing macroscopic realism: some applications to the pseudo-density matrices and nonclassical temporal correlations**|Naim Elias Comar et.al.|[2603.21793](http://arxiv.org/abs/2603.21793)|null|
+|**2026-03-22**|**Probabilistic theories stable under teleportation**|Lionel J. Dmello et.al.|[2603.21347](http://arxiv.org/abs/2603.21347)|null|
 |**2026-03-20**|**The production of meaning in the processing of natural language**|Christopher J. Agostino et.al.|[2603.20381](http://arxiv.org/abs/2603.20381)|null|
 |**2026-03-20**|**Full Network Nonlocality Based Security In Quantum Key Distribution**|Kaushiki Mukherjee et.al.|[2603.20035](http://arxiv.org/abs/2603.20035)|null|
 |**2026-03-19**|**Understanding Bell locality tests at colliders**|J. A. Aguilar-Saavedra et.al.|[2603.19389](http://arxiv.org/abs/2603.19389)|null|

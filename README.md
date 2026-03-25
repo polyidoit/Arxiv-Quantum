@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Reaching for the performance limit of hybrid density functional theory for molecular chemistry**|Jiashu Liang et.al.|[2603.23466](http://arxiv.org/abs/2603.23466)|null|
 |**2026-03-24**|**Bell Experiments Revisited: A Numerical Approach Based on De Broglie--Bohm Theory**|Tim Dartois et.al.|[2603.23065](http://arxiv.org/abs/2603.23065)|null|
 |**2026-03-23**|**Using spatiotemporal Born rule for testing macroscopic realism: some applications to the pseudo-density matrices and nonclassical temporal correlations**|Naim Elias Comar et.al.|[2603.21793](http://arxiv.org/abs/2603.21793)|null|
 |**2026-03-22**|**Probabilistic theories stable under teleportation**|Lionel J. Dmello et.al.|[2603.21347](http://arxiv.org/abs/2603.21347)|null|

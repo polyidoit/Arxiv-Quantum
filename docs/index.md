@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Quantum correlations in prepare-and-measure scenarios and their semi-device-independent applications**|Jonatan Bohr Brask et.al.|[2603.23604](http://arxiv.org/abs/2603.23604)|null|
 |**2026-03-24**|**Reaching for the performance limit of hybrid density functional theory for molecular chemistry**|Jiashu Liang et.al.|[2603.23466](http://arxiv.org/abs/2603.23466)|null|
 |**2026-03-24**|**Bell Experiments Revisited: A Numerical Approach Based on De Broglie--Bohm Theory**|Tim Dartois et.al.|[2603.23065](http://arxiv.org/abs/2603.23065)|null|
 |**2026-03-23**|**Using spatiotemporal Born rule for testing macroscopic realism: some applications to the pseudo-density matrices and nonclassical temporal correlations**|Naim Elias Comar et.al.|[2603.21793](http://arxiv.org/abs/2603.21793)|null|
@@ -2700,6 +2701,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-25**|**Time-frequency Talbot effect as Clifford operations on entangled time-frequency GKP states**|Thomas Pousset et.al.|[2603.24279](http://arxiv.org/abs/2603.24279)|null|
+|**2026-03-25**|**Correlated Atom Loss as a Resource for Quantum Error Correction**|Hugo Perrin et.al.|[2603.24237](http://arxiv.org/abs/2603.24237)|null|
+|**2026-03-25**|**Efficient Many-Body Shadow Metrology via Clifford Lensing**|Sooryansh Asthana et.al.|[2603.24035](http://arxiv.org/abs/2603.24035)|null|
 |**2026-03-24**|**STAR-Magic Mutation: Even More Efficient Analog Rotation Gates for Early Fault-Tolerant Quantum Computer**|Riki Toshio et.al.|[2603.22891](http://arxiv.org/abs/2603.22891)|null|
 |**2026-03-23**|**Distance-Finding Algorithms for Quantum Codes and Circuits**|Mark Webster et.al.|[2603.22532](http://arxiv.org/abs/2603.22532)|null|
 |**2026-03-23**|**Revisiting Quantum Code Generation: Where Should Domain Knowledge Live?**|Oscar Novo et.al.|[2603.22184](http://arxiv.org/abs/2603.22184)|null|

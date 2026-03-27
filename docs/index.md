@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1225,6 +1225,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Can every set of incompatible measurements lead to genuine multipartite steering?**|Lucas E. A. Porto et.al.|[2603.25345](http://arxiv.org/abs/2603.25345)|null|
 |**2026-03-24**|**Zero-Uncertainty States Relative to Observable Algebras**|Jiayu Ran et.al.|[2603.23036](http://arxiv.org/abs/2603.23036)|null|
 |**2026-03-24**|**Imprecise quantum steering inequalities in tripartite systems**|Yan Zhao et.al.|[2603.22986](http://arxiv.org/abs/2603.22986)|null|
 |**2026-03-20**|**FoleyDirector: Fine-Grained Temporal Steering for Video-to-Audio Generation via Structured Scripts**|You Li et.al.|[2603.19857](http://arxiv.org/abs/2603.19857)|null|
@@ -1945,6 +1946,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**A derivation of the late-time volume law for local operator entanglement**|Guilherme Ilário Correr et.al.|[2603.25387](http://arxiv.org/abs/2603.25387)|null|
 |**2026-03-24**|**Holography, Brick Wall and a Little Hierarchy Problem**|Vishal Gayari et.al.|[2603.23108](http://arxiv.org/abs/2603.23108)|null|
 |**2026-03-22**|**Memory-Nonlinearity Trade-off across Quantum Reservoir Computing Frameworks**|Saud Čindrak et.al.|[2603.21371](http://arxiv.org/abs/2603.21371)|null|
 |**2026-03-21**|**Geometric Diagnostics of Scrambling-Related Sensitivity in a Bohmian Preparation Space**|Stephen Wiggins et.al.|[2603.20803](http://arxiv.org/abs/2603.20803)|null|
@@ -2701,6 +2703,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-26**|**Non-linear Sigma Model for the Surface Code with Coherent Errors**|Stephen W. Yan et.al.|[2603.25665](http://arxiv.org/abs/2603.25665)|null|
+|**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
+|**2026-03-26**|**Explicit States with Two-sided Long-Range Magic**|Zhi Li et.al.|[2603.25023](http://arxiv.org/abs/2603.25023)|null|
+|**2026-03-25**|**Phased outcome-complete simulation**|Vadym Kliuchnikov et.al.|[2603.24717](http://arxiv.org/abs/2603.24717)|null|
 |**2026-03-25**|**Time-frequency Talbot effect as Clifford operations on entangled time-frequency GKP states**|Thomas Pousset et.al.|[2603.24279](http://arxiv.org/abs/2603.24279)|null|
 |**2026-03-25**|**Correlated Atom Loss as a Resource for Quantum Error Correction**|Hugo Perrin et.al.|[2603.24237](http://arxiv.org/abs/2603.24237)|null|
 |**2026-03-25**|**Efficient Many-Body Shadow Metrology via Clifford Lensing**|Sooryansh Asthana et.al.|[2603.24035](http://arxiv.org/abs/2603.24035)|null|

@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Mass-correction-induced enhancement of quantum correlations even beyond entanglement in the $e^{+}e^{-} \rightarrow J/ψ\rightarrow Λ(pπ^{-}) \barΛ(\bar{p}π^{+})$ process at the BESIII experiment under memory effects**|Elhabib Jaloum et.al.|[2603.25461](http://arxiv.org/abs/2603.25461)|null|
+|**2026-03-26**|**Engineering energy-time entanglement from resonance fluorescence**|Jian Wang et.al.|[2603.25341](http://arxiv.org/abs/2603.25341)|null|
+|**2026-03-26**|**Test of the essential collapse-locality loophole**|Mónica Agüero et.al.|[2603.24909](http://arxiv.org/abs/2603.24909)|null|
+|**2026-03-25**|**A versatile neural-network toolbox for testing Bell locality in networks**|Antoine Girardin et.al.|[2603.24665](http://arxiv.org/abs/2603.24665)|null|
 |**2026-03-24**|**Quantum correlations in prepare-and-measure scenarios and their semi-device-independent applications**|Jonatan Bohr Brask et.al.|[2603.23604](http://arxiv.org/abs/2603.23604)|null|
 |**2026-03-24**|**Reaching for the performance limit of hybrid density functional theory for molecular chemistry**|Jiashu Liang et.al.|[2603.23466](http://arxiv.org/abs/2603.23466)|null|
 |**2026-03-24**|**Bell Experiments Revisited: A Numerical Approach Based on De Broglie--Bohm Theory**|Tim Dartois et.al.|[2603.23065](http://arxiv.org/abs/2603.23065)|null|
@@ -958,6 +962,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**When identical particles cease to be indistinguishable: violation of statistics in quantum spacetime**|Nicola Bortolotti et.al.|[2603.25552](http://arxiv.org/abs/2603.25552)|null|
 |**2026-03-21**|**Coexistence coalitions in propagule disperser quasi-communities**|Leonardo Aguirre et.al.|[2603.20707](http://arxiv.org/abs/2603.20707)|null|
 |**2026-03-19**|**Black hole superradiance in Poincaré gauge theory**|Sebastian Bahamonde et.al.|[2603.19140](http://arxiv.org/abs/2603.19140)|null|
 |**2026-03-13**|**Quantum contextuality with mixed states of 1D symmetry-protected topological order**|Leroy Fagan et.al.|[2603.13626](http://arxiv.org/abs/2603.13626)|null|

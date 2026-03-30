@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.03.29
+## Updated on 2026.03.30
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**A Bell experiment during inflation: probing quantum entanglement in tensor fluctuations through correlations of primordial scalar curvature perturbations**|Pablo Tejerina-Pérez et.al.|[2603.25881](http://arxiv.org/abs/2603.25881)|null|
 |**2026-03-26**|**Mass-correction-induced enhancement of quantum correlations even beyond entanglement in the $e^{+}e^{-} \rightarrow J/ψ\rightarrow Λ(pπ^{-}) \barΛ(\bar{p}π^{+})$ process at the BESIII experiment under memory effects**|Elhabib Jaloum et.al.|[2603.25461](http://arxiv.org/abs/2603.25461)|null|
 |**2026-03-26**|**Engineering energy-time entanglement from resonance fluorescence**|Jian Wang et.al.|[2603.25341](http://arxiv.org/abs/2603.25341)|null|
 |**2026-03-26**|**Test of the essential collapse-locality loophole**|Mónica Agüero et.al.|[2603.24909](http://arxiv.org/abs/2603.24909)|null|

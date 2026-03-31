@@ -2714,6 +2714,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-30**|**Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits**|Madelyn Cain et.al.|[2603.28627](http://arxiv.org/abs/2603.28627)|null|
+|**2026-03-29**|**Q-Bridge: Code Translation for Quantum Machine Learning via LLMs**|Runjia Zeng et.al.|[2603.27836](http://arxiv.org/abs/2603.27836)|null|
 |**2026-03-27**|**Floquet circuits inspired by holographic matrix models**|Yun Ma et.al.|[2603.26874](http://arxiv.org/abs/2603.26874)|null|
 |**2026-03-27**|**Majorana-XYZ subsystem code**|Tobias Busse et.al.|[2603.26311](http://arxiv.org/abs/2603.26311)|null|
 |**2026-03-26**|**Theory of (Co)homological Invariants on Quantum LDPC Codes**|Zimu Li et.al.|[2603.25831](http://arxiv.org/abs/2603.25831)|null|

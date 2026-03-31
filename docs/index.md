@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1952,6 +1952,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**Quantum simulation of thermalization dynamics of a nonuniform Dicke model**|S. -A. Guo et.al.|[2603.27627](http://arxiv.org/abs/2603.27627)|null|
+|**2026-03-27**|**Scrambling at the genesis of chaos**|Thomas R. Michel et.al.|[2603.26480](http://arxiv.org/abs/2603.26480)|null|
+|**2026-03-27**|**Quantum Channel Capacity of Traversable Wormhole**|Jingru Lu et.al.|[2603.26051](http://arxiv.org/abs/2603.26051)|null|
+|**2026-03-26**|**Quantum Thermalization beyond Non-Integrability and Quantum Scars in a Multispecies Bose-Josephson Junction**|Francesco Di Menna et.al.|[2603.25829](http://arxiv.org/abs/2603.25829)|null|
+|**2026-03-26**|**Typical entanglement in anyon chains: Page curves beyond Lie group symmetries**|Yale Yauk et.al.|[2603.25789](http://arxiv.org/abs/2603.25789)|null|
 |**2026-03-26**|**A derivation of the late-time volume law for local operator entanglement**|Guilherme Ilário Correr et.al.|[2603.25387](http://arxiv.org/abs/2603.25387)|null|
 |**2026-03-24**|**Holography, Brick Wall and a Little Hierarchy Problem**|Vishal Gayari et.al.|[2603.23108](http://arxiv.org/abs/2603.23108)|null|
 |**2026-03-22**|**Memory-Nonlinearity Trade-off across Quantum Reservoir Computing Frameworks**|Saud Čindrak et.al.|[2603.21371](http://arxiv.org/abs/2603.21371)|null|
@@ -2709,8 +2714,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-27**|**Floquet circuits inspired by holographic matrix models**|Yun Ma et.al.|[2603.26874](http://arxiv.org/abs/2603.26874)|null|
+|**2026-03-27**|**Majorana-XYZ subsystem code**|Tobias Busse et.al.|[2603.26311](http://arxiv.org/abs/2603.26311)|null|
+|**2026-03-26**|**Theory of (Co)homological Invariants on Quantum LDPC Codes**|Zimu Li et.al.|[2603.25831](http://arxiv.org/abs/2603.25831)|null|
+|**2026-03-26**|**Catalytic Coherence Amplification for Quantum State Recovery: Theory, Numerical Validation, and Comparison with Conventional Error Correction**|Hikaru Wakaura et.al.|[2603.25774](http://arxiv.org/abs/2603.25774)|null|
+|**2026-03-25**|**Decoder Dependence in Surface-Code Threshold Estimation with Native Gottesman-Kitaev-Preskill Digitization and Parallelized Sampling**|Dennis Delali Kwesi Wayo et.al.|[2603.25757](http://arxiv.org/abs/2603.25757)|null|
 |**2026-03-26**|**Non-linear Sigma Model for the Surface Code with Coherent Errors**|Stephen W. Yan et.al.|[2603.25665](http://arxiv.org/abs/2603.25665)|null|
-|**2026-03-26**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
+|**2026-03-27**|**Kardashev scale Quantum Computing for Bitcoin Mining**|Pierre-Luc Dallaire-Demers et.al.|[2603.25519](http://arxiv.org/abs/2603.25519)|null|
 |**2026-03-26**|**Explicit States with Two-sided Long-Range Magic**|Zhi Li et.al.|[2603.25023](http://arxiv.org/abs/2603.25023)|null|
 |**2026-03-25**|**Phased outcome-complete simulation**|Vadym Kliuchnikov et.al.|[2603.24717](http://arxiv.org/abs/2603.24717)|null|
 |**2026-03-25**|**Time-frequency Talbot effect as Clifford operations on entangled time-frequency GKP states**|Thomas Pousset et.al.|[2603.24279](http://arxiv.org/abs/2603.24279)|null|

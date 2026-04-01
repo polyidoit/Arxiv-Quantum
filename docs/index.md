@@ -1423,6 +1423,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-28**|**Complementarity in Social Measurement: A Partition-Logic Approach**|Karl Svozil et.al.|[2603.28818](http://arxiv.org/abs/2603.28818)|null|
+|**2026-03-30**|**A Scalable Monolithic Modified Newton Multigrid Framework for Time-Dependent $p$ -Navier-Stokes Flow**|Nils Margenberg et.al.|[2603.28706](http://arxiv.org/abs/2603.28706)|null|
 |**2026-03-21**|**LASER: Level-Based Asynchronous Scheduling and Execution Regime for Spatiotemporally Constrained Multi-Robot Timber Manufacturing**|Zhenxiang Huang et.al.|[2603.20577](http://arxiv.org/abs/2603.20577)|null|
 |**2026-03-19**|**VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation**|Jiayi Yuan et.al.|[2603.18943](http://arxiv.org/abs/2603.18943)|null|
 |**2026-03-18**|**Circumventing Platform Defenses at Scale: Automated Content Replication from YouTube to Blockchain-Based Decentralized Storage**|Zeeshan Akram et.al.|[2603.18071](http://arxiv.org/abs/2603.18071)|null|
@@ -1955,6 +1957,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Probes of chaos over the Clifford group and approach to Haar values**|Stefano Cusumano et.al.|[2603.29695](http://arxiv.org/abs/2603.29695)|null|
 |**2026-03-29**|**Quantum simulation of thermalization dynamics of a nonuniform Dicke model**|S. -A. Guo et.al.|[2603.27627](http://arxiv.org/abs/2603.27627)|null|
 |**2026-03-27**|**Scrambling at the genesis of chaos**|Thomas R. Michel et.al.|[2603.26480](http://arxiv.org/abs/2603.26480)|null|
 |**2026-03-27**|**Quantum Channel Capacity of Traversable Wormhole**|Jingru Lu et.al.|[2603.26051](http://arxiv.org/abs/2603.26051)|null|
@@ -2717,6 +2720,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-03-31**|**Enabling fundamental understanding of Nature with novel binning methods for 2D histograms**|Igor Vaiman et.al.|[2603.30006](http://arxiv.org/abs/2603.30006)|null|
+|**2026-03-31**|**PAEMS: Precise and Adaptive Error Model for Superconducting Quantum Processors**|Songhuan He et.al.|[2603.29439](http://arxiv.org/abs/2603.29439)|null|
+|**2026-03-30**|**Color code off-the-hook: avoiding hook errors with a single auxiliary per plaquette**|Gilad Kishony et.al.|[2603.28852](http://arxiv.org/abs/2603.28852)|null|
 |**2026-03-30**|**Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits**|Madelyn Cain et.al.|[2603.28627](http://arxiv.org/abs/2603.28627)|null|
 |**2026-03-29**|**Q-Bridge: Code Translation for Quantum Machine Learning via LLMs**|Runjia Zeng et.al.|[2603.27836](http://arxiv.org/abs/2603.27836)|null|
 |**2026-03-27**|**Floquet circuits inspired by holographic matrix models**|Yun Ma et.al.|[2603.26874](http://arxiv.org/abs/2603.26874)|null|

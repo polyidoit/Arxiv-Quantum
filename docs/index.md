@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Bell's Inequality, Causal Bounds, and Quantum Bayesian Computation: A Unified Framework**|Nick Polson et.al.|[2603.28973](http://arxiv.org/abs/2603.28973)|null|
+|**2026-03-30**|**Higgs Boson Spookiness: Probing Quantum Nonlocality with Spacetime-Resolved $H\rightarrowτ^+τ^-$ Decays**|Lawrence Lee et.al.|[2603.28868](http://arxiv.org/abs/2603.28868)|null|
 |**2026-03-26**|**A Bell experiment during inflation: probing quantum entanglement in tensor fluctuations through correlations of primordial scalar curvature perturbations**|Pablo Tejerina-Pérez et.al.|[2603.25881](http://arxiv.org/abs/2603.25881)|null|
 |**2026-03-26**|**Mass-correction-induced enhancement of quantum correlations even beyond entanglement in the $e^{+}e^{-} \rightarrow J/ψ\rightarrow Λ(pπ^{-}) \barΛ(\bar{p}π^{+})$ process at the BESIII experiment under memory effects**|Elhabib Jaloum et.al.|[2603.25461](http://arxiv.org/abs/2603.25461)|null|
 |**2026-03-26**|**Engineering energy-time entanglement from resonance fluorescence**|Jian Wang et.al.|[2603.25341](http://arxiv.org/abs/2603.25341)|null|
@@ -642,6 +644,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Bell's Inequality, Causal Bounds, and Quantum Bayesian Computation: A Unified Framework**|Nick Polson et.al.|[2603.28973](http://arxiv.org/abs/2603.28973)|null|
 |**2026-03-12**|**Subtime: Reversible Information Exchange and the Emergence of Classical Time**|Paul L. Borrill et.al.|[2603.11571](http://arxiv.org/abs/2603.11571)|null|
 |**2026-03-09**|**A Bipartite Quantum Key Distribution Protocol Based on Indefinite Causal Order**|Mateusz Leśniak et.al.|[2603.08204](http://arxiv.org/abs/2603.08204)|null|
 |**2026-03-07**|**Efficiently Learning Global Quantum Channels with Local Tomography**|Zidu Liu et.al.|[2603.07037](http://arxiv.org/abs/2603.07037)|null|

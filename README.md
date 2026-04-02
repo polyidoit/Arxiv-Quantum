@@ -1,4 +1,4 @@
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**Survival of nonclassical correlations in Lorentz-violating spacetime**|Yangchun Tang et.al.|[2604.00616](http://arxiv.org/abs/2604.00616)|null|
 |**2026-03-30**|**Bell's Inequality, Causal Bounds, and Quantum Bayesian Computation: A Unified Framework**|Nick Polson et.al.|[2603.28973](http://arxiv.org/abs/2603.28973)|null|
 |**2026-03-30**|**Higgs Boson Spookiness: Probing Quantum Nonlocality with Spacetime-Resolved $H\rightarrowτ^+τ^-$ Decays**|Lawrence Lee et.al.|[2603.28868](http://arxiv.org/abs/2603.28868)|null|
 |**2026-03-26**|**A Bell experiment during inflation: probing quantum entanglement in tensor fluctuations through correlations of primordial scalar curvature perturbations**|Pablo Tejerina-Pérez et.al.|[2603.25881](http://arxiv.org/abs/2603.25881)|null|
@@ -649,7 +650,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260402>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -960,12 +961,14 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260402>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**Statistical Mechanics of Quarkyonic Matter**|Marcus Bluhm et.al.|[2604.00247](http://arxiv.org/abs/2604.00247)|null|
+|**2026-03-31**|**Conclusive Identification Via Noisy Classical Channel: Superactivation and Quantum Advantage**|Anushko Chattopadhyay et.al.|[2604.00089](http://arxiv.org/abs/2604.00089)|null|
 |**2026-03-26**|**When identical particles cease to be indistinguishable: violation of statistics in quantum spacetime**|Nicola Bortolotti et.al.|[2603.25552](http://arxiv.org/abs/2603.25552)|null|
 |**2026-03-21**|**Coexistence coalitions in propagule disperser quasi-communities**|Leonardo Aguirre et.al.|[2603.20707](http://arxiv.org/abs/2603.20707)|null|
 |**2026-03-19**|**Black hole superradiance in Poincaré gauge theory**|Sebastian Bahamonde et.al.|[2603.19140](http://arxiv.org/abs/2603.19140)|null|
@@ -1243,12 +1246,13 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260402>back to top</a>)</p>
 
 ## Quantum steering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**Survival of nonclassical correlations in Lorentz-violating spacetime**|Yangchun Tang et.al.|[2604.00616](http://arxiv.org/abs/2604.00616)|null|
 |**2026-03-26**|**Can every set of incompatible measurements lead to genuine multipartite steering?**|Lucas E. A. Porto et.al.|[2603.25345](http://arxiv.org/abs/2603.25345)|null|
 |**2026-03-24**|**Zero-Uncertainty States Relative to Observable Algebras**|Jiayu Ran et.al.|[2603.23036](http://arxiv.org/abs/2603.23036)|null|
 |**2026-03-24**|**Imprecise quantum steering inequalities in tripartite systems**|Yan Zhao et.al.|[2603.22986](http://arxiv.org/abs/2603.22986)|null|
@@ -1434,7 +1438,7 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260402>back to top</a>)</p>
 
 ## Resource theory
 
@@ -1445,6 +1449,7 @@
 |**2026-03-21**|**LASER: Level-Based Asynchronous Scheduling and Execution Regime for Spatiotemporally Constrained Multi-Robot Timber Manufacturing**|Zhenxiang Huang et.al.|[2603.20577](http://arxiv.org/abs/2603.20577)|null|
 |**2026-03-19**|**VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation**|Jiayi Yuan et.al.|[2603.18943](http://arxiv.org/abs/2603.18943)|null|
 |**2026-03-18**|**Circumventing Platform Defenses at Scale: Automated Content Replication from YouTube to Blockchain-Based Decentralized Storage**|Zeeshan Akram et.al.|[2603.18071](http://arxiv.org/abs/2603.18071)|null|
+|**2026-03-31**|**The weakly interacting tenfold way**|Lucas C. P. A. M. Müssnich et.al.|[2603.16799](http://arxiv.org/abs/2603.16799)|null|
 |**2026-03-16**|**SSR: A Training-Free Approach for Streaming 3D Reconstruction**|Hui Deng et.al.|[2603.14765](http://arxiv.org/abs/2603.14765)|null|
 |**2026-03-14**|**Entropy Maximization and Weak Gibbsianity of Quasi-Free Fermionic States**|Vojkan Jakšić et.al.|[2603.14020](http://arxiv.org/abs/2603.14020)|null|
 |**2026-03-13**|**From Passive Monitoring to Active Defence: Resilient Control of Manipulators Under Cyberattacks**|Gabriele Gualandi et.al.|[2603.13003](http://arxiv.org/abs/2603.13003)|null|
@@ -1970,7 +1975,7 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260402>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -2733,7 +2738,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260402>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -4732,5 +4737,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260402>back to top</a>)</p>
 

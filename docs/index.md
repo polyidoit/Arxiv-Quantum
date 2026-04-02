@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Survival of nonclassical correlations in Lorentz-violating spacetime**|Yangchun Tang et.al.|[2604.00616](http://arxiv.org/abs/2604.00616)|null|
 |**2026-03-30**|**Bell's Inequality, Causal Bounds, and Quantum Bayesian Computation: A Unified Framework**|Nick Polson et.al.|[2603.28973](http://arxiv.org/abs/2603.28973)|null|
 |**2026-03-30**|**Higgs Boson Spookiness: Probing Quantum Nonlocality with Spacetime-Resolved $H\rightarrowτ^+τ^-$ Decays**|Lawrence Lee et.al.|[2603.28868](http://arxiv.org/abs/2603.28868)|null|
 |**2026-03-26**|**A Bell experiment during inflation: probing quantum entanglement in tensor fluctuations through correlations of primordial scalar curvature perturbations**|Pablo Tejerina-Pérez et.al.|[2603.25881](http://arxiv.org/abs/2603.25881)|null|
@@ -953,6 +954,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Statistical Mechanics of Quarkyonic Matter**|Marcus Bluhm et.al.|[2604.00247](http://arxiv.org/abs/2604.00247)|null|
+|**2026-03-31**|**Conclusive Identification Via Noisy Classical Channel: Superactivation and Quantum Advantage**|Anushko Chattopadhyay et.al.|[2604.00089](http://arxiv.org/abs/2604.00089)|null|
 |**2026-03-26**|**When identical particles cease to be indistinguishable: violation of statistics in quantum spacetime**|Nicola Bortolotti et.al.|[2603.25552](http://arxiv.org/abs/2603.25552)|null|
 |**2026-03-21**|**Coexistence coalitions in propagule disperser quasi-communities**|Leonardo Aguirre et.al.|[2603.20707](http://arxiv.org/abs/2603.20707)|null|
 |**2026-03-19**|**Black hole superradiance in Poincaré gauge theory**|Sebastian Bahamonde et.al.|[2603.19140](http://arxiv.org/abs/2603.19140)|null|
@@ -1234,6 +1237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Survival of nonclassical correlations in Lorentz-violating spacetime**|Yangchun Tang et.al.|[2604.00616](http://arxiv.org/abs/2604.00616)|null|
 |**2026-03-26**|**Can every set of incompatible measurements lead to genuine multipartite steering?**|Lucas E. A. Porto et.al.|[2603.25345](http://arxiv.org/abs/2603.25345)|null|
 |**2026-03-24**|**Zero-Uncertainty States Relative to Observable Algebras**|Jiayu Ran et.al.|[2603.23036](http://arxiv.org/abs/2603.23036)|null|
 |**2026-03-24**|**Imprecise quantum steering inequalities in tripartite systems**|Yan Zhao et.al.|[2603.22986](http://arxiv.org/abs/2603.22986)|null|
@@ -1428,6 +1432,7 @@ layout: default
 |**2026-03-21**|**LASER: Level-Based Asynchronous Scheduling and Execution Regime for Spatiotemporally Constrained Multi-Robot Timber Manufacturing**|Zhenxiang Huang et.al.|[2603.20577](http://arxiv.org/abs/2603.20577)|null|
 |**2026-03-19**|**VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation**|Jiayi Yuan et.al.|[2603.18943](http://arxiv.org/abs/2603.18943)|null|
 |**2026-03-18**|**Circumventing Platform Defenses at Scale: Automated Content Replication from YouTube to Blockchain-Based Decentralized Storage**|Zeeshan Akram et.al.|[2603.18071](http://arxiv.org/abs/2603.18071)|null|
+|**2026-03-31**|**The weakly interacting tenfold way**|Lucas C. P. A. M. Müssnich et.al.|[2603.16799](http://arxiv.org/abs/2603.16799)|null|
 |**2026-03-16**|**SSR: A Training-Free Approach for Streaming 3D Reconstruction**|Hui Deng et.al.|[2603.14765](http://arxiv.org/abs/2603.14765)|null|
 |**2026-03-14**|**Entropy Maximization and Weak Gibbsianity of Quasi-Free Fermionic States**|Vojkan Jakšić et.al.|[2603.14020](http://arxiv.org/abs/2603.14020)|null|
 |**2026-03-13**|**From Passive Monitoring to Active Defence: Resilient Control of Manipulators Under Cyberattacks**|Gabriele Gualandi et.al.|[2603.13003](http://arxiv.org/abs/2603.13003)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1427,6 +1427,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Model Merging via Data-Free Covariance Estimation**|Marawan Gamal Abdel Hameed et.al.|[2604.01329](http://arxiv.org/abs/2604.01329)|null|
 |**2026-03-28**|**Complementarity in Social Measurement: A Partition-Logic Approach**|Karl Svozil et.al.|[2603.28818](http://arxiv.org/abs/2603.28818)|null|
 |**2026-03-30**|**A Scalable Monolithic Modified Newton Multigrid Framework for Time-Dependent $p$ -Navier-Stokes Flow**|Nils Margenberg et.al.|[2603.28706](http://arxiv.org/abs/2603.28706)|null|
 |**2026-03-21**|**LASER: Level-Based Asynchronous Scheduling and Execution Regime for Spatiotemporally Constrained Multi-Robot Timber Manufacturing**|Zhenxiang Huang et.al.|[2603.20577](http://arxiv.org/abs/2603.20577)|null|
@@ -1962,6 +1963,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**When level repulsion fails: non-normality and chaos in open quantum systems**|Caio B. Naves et.al.|[2604.00118](http://arxiv.org/abs/2604.00118)|null|
 |**2026-03-31**|**Probes of chaos over the Clifford group and approach to Haar values**|Stefano Cusumano et.al.|[2603.29695](http://arxiv.org/abs/2603.29695)|null|
 |**2026-03-29**|**Quantum simulation of thermalization dynamics of a nonuniform Dicke model**|S. -A. Guo et.al.|[2603.27627](http://arxiv.org/abs/2603.27627)|null|
 |**2026-03-27**|**Scrambling at the genesis of chaos**|Thomas R. Michel et.al.|[2603.26480](http://arxiv.org/abs/2603.26480)|null|

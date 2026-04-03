@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**A Pragmatist Understanding of Quantum Mechanics**|Richard Healey et.al.|[2604.02197](http://arxiv.org/abs/2604.02197)|null|
 |**2026-04-01**|**Survival of nonclassical correlations in Lorentz-violating spacetime**|Yangchun Tang et.al.|[2604.00616](http://arxiv.org/abs/2604.00616)|null|
 |**2026-03-30**|**Bell's Inequality, Causal Bounds, and Quantum Bayesian Computation: A Unified Framework**|Nick Polson et.al.|[2603.28973](http://arxiv.org/abs/2603.28973)|null|
 |**2026-03-30**|**Higgs Boson Spookiness: Probing Quantum Nonlocality with Spacetime-Resolved $H\rightarrowτ^+τ^-$ Decays**|Lawrence Lee et.al.|[2603.28868](http://arxiv.org/abs/2603.28868)|null|
@@ -2727,8 +2728,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
-|**2026-03-31**|**Enabling fundamental understanding of Nature with novel binning methods for 2D histograms**|Igor Vaiman et.al.|[2603.30006](http://arxiv.org/abs/2603.30006)|null|
-|**2026-03-31**|**PAEMS: Precise and Adaptive Error Model for Superconducting Quantum Processors**|Songhuan He et.al.|[2603.29439](http://arxiv.org/abs/2603.29439)|null|
+|**2026-04-02**|**High-threshold decoding of non-Pauli codes for 2D universality**|Julio C. Magdalena de la Fuente et.al.|[2604.02033](http://arxiv.org/abs/2604.02033)|null|
+|**2026-04-01**|**Resource Estimation via Efficient Compilation of Key Quantum Primitives**|Colin Campbell et.al.|[2604.01376](http://arxiv.org/abs/2604.01376)|null|
+|**2026-04-01**|**Exhaustive Optimisation of Automorphism Groups for Stabiliser Codes**|Aisling Mac Aree et.al.|[2604.01282](http://arxiv.org/abs/2604.01282)|null|
+|**2026-04-01**|**Tsim: Fast Universal Simulator for Quantum Error Correction**|Rafael Haenel et.al.|[2604.01059](http://arxiv.org/abs/2604.01059)|null|
+|**2026-04-01**|**Enabling fundamental understanding of Nature with novel binning methods for 2D histograms**|Igor Vaiman et.al.|[2603.30006](http://arxiv.org/abs/2603.30006)|null|
+|**2026-04-02**|**PAEMS: Precise and Adaptive Error Model for Superconducting Quantum Processors**|Songhuan He et.al.|[2603.29439](http://arxiv.org/abs/2603.29439)|null|
 |**2026-03-30**|**Color code off-the-hook: avoiding hook errors with a single auxiliary per plaquette**|Gilad Kishony et.al.|[2603.28852](http://arxiv.org/abs/2603.28852)|null|
 |**2026-03-30**|**Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits**|Madelyn Cain et.al.|[2603.28627](http://arxiv.org/abs/2603.28627)|null|
 |**2026-03-29**|**Q-Bridge: Code Translation for Quantum Machine Learning via LLMs**|Runjia Zeng et.al.|[2603.27836](http://arxiv.org/abs/2603.27836)|null|

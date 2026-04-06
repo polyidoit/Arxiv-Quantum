@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -646,6 +646,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Frame perspectives for process matrices: from coordinate parametrization to spacetime representation**|Luca Apadula et.al.|[2604.02873](http://arxiv.org/abs/2604.02873)|null|
 |**2026-03-30**|**Bell's Inequality, Causal Bounds, and Quantum Bayesian Computation: A Unified Framework**|Nick Polson et.al.|[2603.28973](http://arxiv.org/abs/2603.28973)|null|
 |**2026-03-12**|**Subtime: Reversible Information Exchange and the Emergence of Classical Time**|Paul L. Borrill et.al.|[2603.11571](http://arxiv.org/abs/2603.11571)|null|
 |**2026-03-09**|**A Bipartite Quantum Key Distribution Protocol Based on Indefinite Causal Order**|Mateusz Leśniak et.al.|[2603.08204](http://arxiv.org/abs/2603.08204)|null|

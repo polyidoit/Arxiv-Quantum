@@ -1985,6 +1985,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Boltzmann-Loschmidt dispute reloaded quantum 150 years later**|Leonardo Ermann et.al.|[2604.04879](http://arxiv.org/abs/2604.04879)|null|
 |**2026-04-04**|**Random matrix theory of integrability-to-chaos transition**|Ben Craps et.al.|[2604.03669](http://arxiv.org/abs/2604.03669)|null|
 |**2026-04-03**|**Continuous-time evolution via probabilistic angle interpolation and its applications**|Tomoya Hayata et.al.|[2604.02854](http://arxiv.org/abs/2604.02854)|null|
 |**2026-04-02**|**Provable quantum thermalization without statistical averages**|Amit Vikram et.al.|[2604.02417](http://arxiv.org/abs/2604.02417)|null|

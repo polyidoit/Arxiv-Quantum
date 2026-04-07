@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-04**|**Robust self-testing with CHSH mod 3**|Igor Klep et.al.|[2604.03700](http://arxiv.org/abs/2604.03700)|null|
 |**2026-04-02**|**A Pragmatist Understanding of Quantum Mechanics**|Richard Healey et.al.|[2604.02197](http://arxiv.org/abs/2604.02197)|null|
 |**2026-04-01**|**Survival of nonclassical correlations in Lorentz-violating spacetime**|Yangchun Tang et.al.|[2604.00616](http://arxiv.org/abs/2604.00616)|null|
 |**2026-03-30**|**Bell's Inequality, Causal Bounds, and Quantum Bayesian Computation: A Unified Framework**|Nick Polson et.al.|[2603.28973](http://arxiv.org/abs/2603.28973)|null|
@@ -1965,6 +1966,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-04**|**Random matrix theory of integrability-to-chaos transition**|Ben Craps et.al.|[2604.03669](http://arxiv.org/abs/2604.03669)|null|
+|**2026-04-03**|**Continuous-time evolution via probabilistic angle interpolation and its applications**|Tomoya Hayata et.al.|[2604.02854](http://arxiv.org/abs/2604.02854)|null|
+|**2026-04-02**|**Provable quantum thermalization without statistical averages**|Amit Vikram et.al.|[2604.02417](http://arxiv.org/abs/2604.02417)|null|
 |**2026-04-02**|**When level repulsion fails: non-normality and chaos in open quantum systems**|Caio B. Naves et.al.|[2604.00118](http://arxiv.org/abs/2604.00118)|null|
 |**2026-03-31**|**Probes of chaos over the Clifford group and approach to Haar values**|Stefano Cusumano et.al.|[2603.29695](http://arxiv.org/abs/2603.29695)|null|
 |**2026-03-29**|**Quantum simulation of thermalization dynamics of a nonuniform Dicke model**|S. -A. Guo et.al.|[2603.27627](http://arxiv.org/abs/2603.27627)|null|

@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Connection between the contextuality breaking and incompatibility breaking qubit channels**|Swati Kumari et.al.|[2604.04899](http://arxiv.org/abs/2604.04899)|null|
 |**2026-04-04**|**Robust self-testing with CHSH mod 3**|Igor Klep et.al.|[2604.03700](http://arxiv.org/abs/2604.03700)|null|
 |**2026-04-02**|**A Pragmatist Understanding of Quantum Mechanics**|Richard Healey et.al.|[2604.02197](http://arxiv.org/abs/2604.02197)|null|
 |**2026-04-01**|**Survival of nonclassical correlations in Lorentz-violating spacetime**|Yangchun Tang et.al.|[2604.00616](http://arxiv.org/abs/2604.00616)|null|
@@ -957,6 +958,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Interband optical conductivities in two-dimensional tilted Dirac bands revisited within the tight-binding model**|Chao-Yang Tan et.al.|[2604.05803](http://arxiv.org/abs/2604.05803)|null|
 |**2026-03-31**|**Statistical Mechanics of Quarkyonic Matter**|Marcus Bluhm et.al.|[2604.00247](http://arxiv.org/abs/2604.00247)|null|
 |**2026-03-31**|**Conclusive Identification Via Noisy Classical Channel: Superactivation and Quantum Advantage**|Anushko Chattopadhyay et.al.|[2604.00089](http://arxiv.org/abs/2604.00089)|null|
 |**2026-03-26**|**When identical particles cease to be indistinguishable: violation of statistics in quantum spacetime**|Nicola Bortolotti et.al.|[2603.25552](http://arxiv.org/abs/2603.25552)|null|
@@ -1430,6 +1432,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Bypassing the CSI Bottleneck: MARL-Driven Spatial Control for Reflector Arrays**|Hieu Le et.al.|[2604.05162](http://arxiv.org/abs/2604.05162)|null|
 |**2026-04-01**|**Model Merging via Data-Free Covariance Estimation**|Marawan Gamal Abdel Hameed et.al.|[2604.01329](http://arxiv.org/abs/2604.01329)|null|
 |**2026-03-28**|**Complementarity in Social Measurement: A Partition-Logic Approach**|Karl Svozil et.al.|[2603.28818](http://arxiv.org/abs/2603.28818)|null|
 |**2026-03-30**|**A Scalable Monolithic Modified Newton Multigrid Framework for Time-Dependent $p$ -Navier-Stokes Flow**|Nils Margenberg et.al.|[2603.28706](http://arxiv.org/abs/2603.28706)|null|
@@ -1966,6 +1969,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Information Propagation in Rydberg Arrays via Analog OTOC Calculations**|Goksu Can Toga et.al.|[2604.05038](http://arxiv.org/abs/2604.05038)|null|
 |**2026-04-06**|**Boltzmann-Loschmidt dispute reloaded quantum 150 years later**|Leonardo Ermann et.al.|[2604.04879](http://arxiv.org/abs/2604.04879)|null|
 |**2026-04-04**|**Random matrix theory of integrability-to-chaos transition**|Ben Craps et.al.|[2604.03669](http://arxiv.org/abs/2604.03669)|null|
 |**2026-04-03**|**Continuous-time evolution via probabilistic angle interpolation and its applications**|Tomoya Hayata et.al.|[2604.02854](http://arxiv.org/abs/2604.02854)|null|

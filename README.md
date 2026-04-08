@@ -2759,6 +2759,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-07**|**Error Correction in Lattice Quantum Electrodynamics with Quantum Reference Frames**|Elias Rothlin et.al.|[2604.06149](http://arxiv.org/abs/2604.06149)|null|
+|**2026-04-07**|**Gauss law codes and vacuum codes from lattice gauge theories**|Javier P. Lacambra et.al.|[2604.06087](http://arxiv.org/abs/2604.06087)|null|
+|**2026-04-07**|**Adaptive Deformation of Color Code in Square Lattices with Defects**|Tian-Hao Wei et.al.|[2604.05874](http://arxiv.org/abs/2604.05874)|null|
+|**2026-04-07**|**Dynamical decoupling and quantum error correction with SU(d) symmetries**|Colin Read et.al.|[2604.05871](http://arxiv.org/abs/2604.05871)|null|
+|**2026-04-07**|**Non-GRS type MDS and AMDS codes from extended TGRS codes**|Meiying Zhang et.al.|[2604.05682](http://arxiv.org/abs/2604.05682)|null|
+|**2026-04-07**|**ResearchEVO: An End-to-End Framework for Automated Scientific Discovery and Documentation**|Zhe Zhao et.al.|[2604.05587](http://arxiv.org/abs/2604.05587)|null|
+|**2026-04-06**|**In-Situ Simultaneous Magic State Injection on Arbitrary CSS qLDPC Codes**|Kun Liu et.al.|[2604.05126](http://arxiv.org/abs/2604.05126)|null|
+|**2026-04-04**|**Impure codes exceeding the pure bounds for quantum local recovery**|Carlos Galindo et.al.|[2604.03569](http://arxiv.org/abs/2604.03569)|null|
+|**2026-04-03**|**A High Motional Frequency Ion Trapping Regime for Quantum Information Science**|A. J. Rasmusson et.al.|[2604.03435](http://arxiv.org/abs/2604.03435)|null|
+|**2026-04-03**|**Characterizing and Benchmarking Dynamic Quantum Circuits**|Sumeet Shirgure et.al.|[2604.03360](http://arxiv.org/abs/2604.03360)|null|
 |**2026-04-02**|**High-threshold decoding of non-Pauli codes for 2D universality**|Julio C. Magdalena de la Fuente et.al.|[2604.02033](http://arxiv.org/abs/2604.02033)|null|
 |**2026-04-01**|**Resource Estimation via Efficient Compilation of Key Quantum Primitives**|Colin Campbell et.al.|[2604.01376](http://arxiv.org/abs/2604.01376)|null|
 |**2026-04-01**|**Exhaustive Optimisation of Automorphism Groups for Stabiliser Codes**|Aisling Mac Aree et.al.|[2604.01282](http://arxiv.org/abs/2604.01282)|null|

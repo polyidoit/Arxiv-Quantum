@@ -2740,6 +2740,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-09**|**Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation**|Andi Gu et.al.|[2604.08358](http://arxiv.org/abs/2604.08358)|null|
+|**2026-04-09**|**Counting HyperGraphlets via Color Coding: a Quadratic Barrier and How to Break It**|Marco Bressan et.al.|[2604.08278](http://arxiv.org/abs/2604.08278)|null|
+|**2026-04-09**|**Belief Propagation Convergence Prediction for Bivariate Bicycle Quantum Error Correction Codes**|Anton Pakhunov et.al.|[2604.07995](http://arxiv.org/abs/2604.07995)|null|
+|**2026-04-08**|**Narrix: Remixing Narrative Strategies from Examples for Story Writing**|Chao Zhang et.al.|[2604.07643](http://arxiv.org/abs/2604.07643)|null|
 |**2026-04-08**|**Non-RS type cyclic MDS codes over finite fields via cyclotomic field reduction**|Can Xiang et.al.|[2604.06822](http://arxiv.org/abs/2604.06822)|null|
 |**2026-04-08**|**Discrete-variable assisted error correction of continuous-variable quantum information**|Negin Razian et.al.|[2604.06565](http://arxiv.org/abs/2604.06565)|null|
 |**2026-04-07**|**Error Correction in Lattice Quantum Electrodynamics with Quantum Reference Frames**|Elias Rothlin et.al.|[2604.06149](http://arxiv.org/abs/2604.06149)|null|

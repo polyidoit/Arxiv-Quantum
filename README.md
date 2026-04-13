@@ -974,6 +974,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-10**|**New limits on the Pauli forbidden transitions in 12C nuclei obtained with the complete Borexino dataset**|Borexino collaboration et.al.|[2604.08950](http://arxiv.org/abs/2604.08950)|null|
 |**2026-04-07**|**Interband optical conductivities in two-dimensional tilted Dirac bands revisited within the tight-binding model**|Chao-Yang Tan et.al.|[2604.05803](http://arxiv.org/abs/2604.05803)|null|
 |**2026-03-31**|**Statistical Mechanics of Quarkyonic Matter**|Marcus Bluhm et.al.|[2604.00247](http://arxiv.org/abs/2604.00247)|null|
 |**2026-03-31**|**Conclusive Identification Via Noisy Classical Channel: Superactivation and Quantum Advantage**|Anushko Chattopadhyay et.al.|[2604.00089](http://arxiv.org/abs/2604.00089)|null|

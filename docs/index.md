@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.04.12
+## Updated on 2026.04.13
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Nonlocal Games Revisited: A Representation-Theoretic Path from Bell Locality to Quantum Pseudo-Telepathy**|Mustafa Mert Özyılmaz et.al.|[2604.09458](http://arxiv.org/abs/2604.09458)|null|
+|**2026-04-08**|**Quantum-like Cognition in Process Theories: An Analysis**|Sean Tull et.al.|[2604.08604](http://arxiv.org/abs/2604.08604)|null|
 |**2026-04-08**|**Postquantum steering in scenarios with multiple characterised parties**|Ana Belen Sainz et.al.|[2604.07078](http://arxiv.org/abs/2604.07078)|null|
 |**2026-04-06**|**Connection between the contextuality breaking and incompatibility breaking qubit channels**|Swati Kumari et.al.|[2604.04899](http://arxiv.org/abs/2604.04899)|null|
 |**2026-04-04**|**Robust self-testing with CHSH mod 3**|Igor Klep et.al.|[2604.03700](http://arxiv.org/abs/2604.03700)|null|
@@ -1433,8 +1435,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Ge $^\text{2}$ mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer**|Zecheng Hao et.al.|[2604.08894](http://arxiv.org/abs/2604.08894)|null|
 |**2026-04-08**|**From 6G Scenarios and Requirements to Design Drivers: Insights from 3GPP Release 20**|Victor Moznon Baeza et.al.|[2604.07212](http://arxiv.org/abs/2604.07212)|null|
 |**2026-04-06**|**Bypassing the CSI Bottleneck: MARL-Driven Spatial Control for Reflector Arrays**|Hieu Le et.al.|[2604.05162](http://arxiv.org/abs/2604.05162)|null|
+|**2026-04-10**|**From Paper to Program: Accelerating Quantum Many-Body Algorithm Development via a Multi-Stage LLM-Assisted Workflow**|Yi Zhou et.al.|[2604.04089](http://arxiv.org/abs/2604.04089)|null|
 |**2026-04-01**|**Model Merging via Data-Free Covariance Estimation**|Marawan Gamal Abdel Hameed et.al.|[2604.01329](http://arxiv.org/abs/2604.01329)|null|
 |**2026-03-28**|**Complementarity in Social Measurement: A Partition-Logic Approach**|Karl Svozil et.al.|[2603.28818](http://arxiv.org/abs/2603.28818)|null|
 |**2026-03-30**|**A Scalable Monolithic Modified Newton Multigrid Framework for Time-Dependent $p$ -Navier-Stokes Flow**|Nils Margenberg et.al.|[2603.28706](http://arxiv.org/abs/2603.28706)|null|
@@ -1971,6 +1975,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Quantum Patches: Enhancing Robustness of Quantum Machine Learning Models**|Ban Q. Tran et.al.|[2604.08827](http://arxiv.org/abs/2604.08827)|null|
 |**2026-04-06**|**Information Propagation in Rydberg Arrays via Analog OTOC Calculations**|Goksu Can Toga et.al.|[2604.05038](http://arxiv.org/abs/2604.05038)|null|
 |**2026-04-06**|**Boltzmann-Loschmidt dispute reloaded quantum 150 years later**|Leonardo Ermann et.al.|[2604.04879](http://arxiv.org/abs/2604.04879)|null|
 |**2026-04-04**|**Random matrix theory of integrability-to-chaos transition**|Ben Craps et.al.|[2604.03669](http://arxiv.org/abs/2604.03669)|null|

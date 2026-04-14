@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -651,6 +651,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-11**|**Comparing quantum and classical finite state generators**|Prasenjit Deb et.al.|[2604.10315](http://arxiv.org/abs/2604.10315)|null|
+|**2026-04-10**|**Leggett-Garg Inequality Violations Bound Quantum Fisher Information**|Nick Abboud et.al.|[2604.09772](http://arxiv.org/abs/2604.09772)|null|
 |**2026-04-03**|**Frame perspectives for process matrices: from coordinate parametrization to spacetime representation**|Luca Apadula et.al.|[2604.02873](http://arxiv.org/abs/2604.02873)|null|
 |**2026-03-30**|**Bell's Inequality, Causal Bounds, and Quantum Bayesian Computation: A Unified Framework**|Nick Polson et.al.|[2603.28973](http://arxiv.org/abs/2603.28973)|null|
 |**2026-03-12**|**Subtime: Reversible Information Exchange and the Emergence of Classical Time**|Paul L. Borrill et.al.|[2603.11571](http://arxiv.org/abs/2603.11571)|null|

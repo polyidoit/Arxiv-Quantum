@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Quantum entanglement in electron-nucleus collisions: Role of the linearly polarized gluon distribution**|Michael Fucilla et.al.|[2604.11697](http://arxiv.org/abs/2604.11697)|null|
+|**2026-04-13**|**Topological Device-Independent Quantum Key Distribution Using Majorana-Based Qubits**|Noureldin Mohamed et.al.|[2604.11442](http://arxiv.org/abs/2604.11442)|null|
 |**2026-04-10**|**Nonlocal Games Revisited: A Representation-Theoretic Path from Bell Locality to Quantum Pseudo-Telepathy**|Mustafa Mert Özyılmaz et.al.|[2604.09458](http://arxiv.org/abs/2604.09458)|null|
 |**2026-04-08**|**Quantum-like Cognition in Process Theories: An Analysis**|Sean Tull et.al.|[2604.08604](http://arxiv.org/abs/2604.08604)|null|
 |**2026-04-08**|**Postquantum steering in scenarios with multiple characterised parties**|Ana Belen Sainz et.al.|[2604.07078](http://arxiv.org/abs/2604.07078)|null|
@@ -976,6 +978,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Role of Excited States in Resonant Charge Transfer during Li $^+$ Backscattering from MoS$_2$ : A Multi-Orbital Theoretical Study**|Thomas A. Balsamo et.al.|[2604.11607](http://arxiv.org/abs/2604.11607)|null|
 |**2026-04-10**|**New limits on the Pauli forbidden transitions in 12C nuclei obtained with the complete Borexino dataset**|Borexino collaboration et.al.|[2604.08950](http://arxiv.org/abs/2604.08950)|null|
 |**2026-04-07**|**Interband optical conductivities in two-dimensional tilted Dirac bands revisited within the tight-binding model**|Chao-Yang Tan et.al.|[2604.05803](http://arxiv.org/abs/2604.05803)|null|
 |**2026-03-31**|**Statistical Mechanics of Quarkyonic Matter**|Marcus Bluhm et.al.|[2604.00247](http://arxiv.org/abs/2604.00247)|null|
@@ -2004,7 +2007,7 @@
 |**2026-04-03**|**Continuous-time evolution via probabilistic angle interpolation and its applications**|Tomoya Hayata et.al.|[2604.02854](http://arxiv.org/abs/2604.02854)|null|
 |**2026-04-02**|**Provable quantum thermalization without statistical averages**|Amit Vikram et.al.|[2604.02417](http://arxiv.org/abs/2604.02417)|null|
 |**2026-04-02**|**When level repulsion fails: non-normality and chaos in open quantum systems**|Caio B. Naves et.al.|[2604.00118](http://arxiv.org/abs/2604.00118)|null|
-|**2026-03-31**|**Probes of chaos over the Clifford group and approach to Haar values**|Stefano Cusumano et.al.|[2603.29695](http://arxiv.org/abs/2603.29695)|null|
+|**2026-04-13**|**Probes of chaos over the Clifford group and approach to Haar values**|Stefano Cusumano et.al.|[2603.29695](http://arxiv.org/abs/2603.29695)|null|
 |**2026-03-29**|**Quantum simulation of thermalization dynamics of a nonuniform Dicke model**|S. -A. Guo et.al.|[2603.27627](http://arxiv.org/abs/2603.27627)|null|
 |**2026-03-27**|**Scrambling at the genesis of chaos**|Thomas R. Michel et.al.|[2603.26480](http://arxiv.org/abs/2603.26480)|null|
 |**2026-03-27**|**Quantum Channel Capacity of Traversable Wormhole**|Jingru Lu et.al.|[2603.26051](http://arxiv.org/abs/2603.26051)|null|
@@ -2769,6 +2772,15 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-13**|**Using Unwrapped Full Color Space Palette Recording to Measure Exposedness of a Vehicle Exterior Parts for External Human Machine Interfaces**|Jaerock Kwon et.al.|[2604.11406](http://arxiv.org/abs/2604.11406)|null|
+|**2026-04-13**|**Generalized Roth--Lempel Codes: NMDS Characterization, Hermitian Self-Orthogonality, and Quantum Constructions**|Qi Liu et.al.|[2604.11350](http://arxiv.org/abs/2604.11350)|null|
+|**2026-04-13**|**Autonomous Quantum Error Correction of Spin-Oscillator Hybrid Qubits**|Sungjoo Cho et.al.|[2604.11145](http://arxiv.org/abs/2604.11145)|null|
+|**2026-04-12**|**Near Optimal Algorithms for Noisy $k$ -XOR under Low-Degree Heuristic**|Songtao Mao et.al.|[2604.10457](http://arxiv.org/abs/2604.10457)|null|
+|**2026-04-12**|**An Undergraduate Course in Quantum Computing**|Peter Young et.al.|[2604.10396](http://arxiv.org/abs/2604.10396)|null|
+|**2026-04-11**|**Dead Cognitions: A Census of Misattributed Insights**|Aaron Tuor et.al.|[2604.10288](http://arxiv.org/abs/2604.10288)|null|
+|**2026-04-10**|**Optimising Quantum Error Correction Using Morphing Circuits**|Mackenzie H. Shaw et.al.|[2604.09797](http://arxiv.org/abs/2604.09797)|null|
+|**2026-04-09**|**Hardware-Efficient Erasure Qubits With Superconducting Transmon Qutrits**|Bao-Jie Liu et.al.|[2604.08672](http://arxiv.org/abs/2604.08672)|null|
+|**2026-04-09**|**Decoding coherent errors in toric codes on honeycomb and square lattices: duality to Majorana monitored dynamics and symmetry classes**|Zhou Yang et.al.|[2604.08650](http://arxiv.org/abs/2604.08650)|null|
 |**2026-04-09**|**Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation**|Andi Gu et.al.|[2604.08358](http://arxiv.org/abs/2604.08358)|null|
 |**2026-04-09**|**Counting HyperGraphlets via Color Coding: a Quadratic Barrier and How to Break It**|Marco Bressan et.al.|[2604.08278](http://arxiv.org/abs/2604.08278)|null|
 |**2026-04-09**|**Belief Propagation Convergence Prediction for Bivariate Bicycle Quantum Error Correction Codes**|Anton Pakhunov et.al.|[2604.07995](http://arxiv.org/abs/2604.07995)|null|

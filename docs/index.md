@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Bell Nonlocality Test on Two-Mode Squeezed Output Generated in Double-Cavity Optomechanical**|Souvik Agasti et.al.|[2604.12050](http://arxiv.org/abs/2604.12050)|null|
+|**2026-04-13**|**Network Nonlocality with Separable Measurements**|Emanuele Polino et.al.|[2604.11910](http://arxiv.org/abs/2604.11910)|null|
 |**2026-04-13**|**Quantum entanglement in electron-nucleus collisions: Role of the linearly polarized gluon distribution**|Michael Fucilla et.al.|[2604.11697](http://arxiv.org/abs/2604.11697)|null|
 |**2026-04-13**|**Topological Device-Independent Quantum Key Distribution Using Majorana-Based Qubits**|Noureldin Mohamed et.al.|[2604.11442](http://arxiv.org/abs/2604.11442)|null|
 |**2026-04-10**|**Nonlocal Games Revisited: A Representation-Theoretic Path from Bell Locality to Quantum Pseudo-Telepathy**|Mustafa Mert Özyılmaz et.al.|[2604.09458](http://arxiv.org/abs/2604.09458)|null|

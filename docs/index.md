@@ -1443,6 +1443,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Hybrid Six-Level Rydberg Atomic Quantum Receiver for Multi-Band RF Communication**|Lahiru Shyamal et.al.|[2604.12106](http://arxiv.org/abs/2604.12106)|null|
 |**2026-04-10**|**Ge $^\text{2}$ mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer**|Zecheng Hao et.al.|[2604.08894](http://arxiv.org/abs/2604.08894)|null|
 |**2026-04-08**|**From 6G Scenarios and Requirements to Design Drivers: Insights from 3GPP Release 20**|Victor Moznon Baeza et.al.|[2604.07212](http://arxiv.org/abs/2604.07212)|null|
 |**2026-04-06**|**Bypassing the CSI Bottleneck: MARL-Driven Spatial Control for Reflector Arrays**|Hieu Le et.al.|[2604.05162](http://arxiv.org/abs/2604.05162)|null|
@@ -1983,6 +1984,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Relativistic Quantum Chaos in Neutrino Billiards**|Barbara Dietz et.al.|[2604.13003](http://arxiv.org/abs/2604.13003)|null|
+|**2026-04-14**|**Hamiltonian Chaos**|Steven Tomsovic et.al.|[2604.12976](http://arxiv.org/abs/2604.12976)|null|
+|**2026-04-14**|**Chaos and Quantum Tunneling**|Akira Shudo et.al.|[2604.12926](http://arxiv.org/abs/2604.12926)|null|
+|**2026-04-14**|**Quantum chaos and the holographic principle**|Alexander Altland et.al.|[2604.12784](http://arxiv.org/abs/2604.12784)|null|
+|**2026-04-14**|**Quantum chaos in many-body systems of indistinguishable particles**|Juan-Diego Urbina et.al.|[2604.12745](http://arxiv.org/abs/2604.12745)|null|
+|**2026-04-14**|**Quantum Chaos in Phase Space**|Martina Hentschel et.al.|[2604.12741](http://arxiv.org/abs/2604.12741)|null|
+|**2026-04-14**|**Quantum analogues of exponential sensitivity: from Loschmidt echo to Krylov complexity**|Ignacio García-Mata et.al.|[2604.12707](http://arxiv.org/abs/2604.12707)|null|
+|**2026-04-14**|**An Introduction to Quantum Graphs and Current Applications**|Gregory Berkolaiko et.al.|[2604.12690](http://arxiv.org/abs/2604.12690)|null|
+|**2026-04-14**|**Many-body localization**|Jakub Zakrzewski et.al.|[2604.12464](http://arxiv.org/abs/2604.12464)|null|
+|**2026-04-14**|**Chaotic Dynamics and Quantum Transport**|Andrey R. Kolovsky et.al.|[2604.12409](http://arxiv.org/abs/2604.12409)|null|
 |**2026-04-09**|**Quantum Patches: Enhancing Robustness of Quantum Machine Learning Models**|Ban Q. Tran et.al.|[2604.08827](http://arxiv.org/abs/2604.08827)|null|
 |**2026-04-06**|**Information Propagation in Rydberg Arrays via Analog OTOC Calculations**|Goksu Can Toga et.al.|[2604.05038](http://arxiv.org/abs/2604.05038)|null|
 |**2026-04-06**|**Boltzmann-Loschmidt dispute reloaded quantum 150 years later**|Leonardo Ermann et.al.|[2604.04879](http://arxiv.org/abs/2604.04879)|null|
@@ -2753,6 +2764,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-14**|**Fast and accurate AI-based pre-decoders for surface codes**|Christopher Chamberland et.al.|[2604.12841](http://arxiv.org/abs/2604.12841)|null|
+|**2026-04-14**|**Quasi-Orthogonal Stabilizer Design for Efficient Quantum Error Suppression**|Valentine Nyirahafashimana et.al.|[2604.12684](http://arxiv.org/abs/2604.12684)|null|
+|**2026-04-14**|**Detecting entanglement from few partial transpose moments and their decay via weight enumerators**|Daniel Miller et.al.|[2604.12576](http://arxiv.org/abs/2604.12576)|null|
+|**2026-04-14**|**Design automation and space-time reduction for surface-code logical operations using a SAT-based EDA kernel compatible with general encodings**|Wang Liao et.al.|[2604.12560](http://arxiv.org/abs/2604.12560)|null|
+|**2026-04-14**|**Long-range tunable coupler for modular fluxonium quantum processors**|Peng Zhao et.al.|[2604.12261](http://arxiv.org/abs/2604.12261)|null|
+|**2026-04-13**|**The Rotation Gap Is Not An Error: Ternary Structure in IBM Quantum Hardware**|Selina Stenberg et.al.|[2604.11963](http://arxiv.org/abs/2604.11963)|null|
+|**2026-04-13**|**Blind Catalytic Quantum Error Correction: Target-State Estimation and Fidelity Recovery Without \textit{A Priori} Knowledge**|Hikaru Wakaura et.al.|[2604.11857](http://arxiv.org/abs/2604.11857)|null|
 |**2026-04-13**|**Using Unwrapped Full Color Space Palette Recording to Measure Exposedness of a Vehicle Exterior Parts for External Human Machine Interfaces**|Jaerock Kwon et.al.|[2604.11406](http://arxiv.org/abs/2604.11406)|null|
 |**2026-04-13**|**Generalized Roth--Lempel Codes: NMDS Characterization, Hermitian Self-Orthogonality, and Quantum Constructions**|Qi Liu et.al.|[2604.11350](http://arxiv.org/abs/2604.11350)|null|
 |**2026-04-13**|**Autonomous Quantum Error Correction of Spin-Oscillator Hybrid Qubits**|Sungjoo Cho et.al.|[2604.11145](http://arxiv.org/abs/2604.11145)|null|

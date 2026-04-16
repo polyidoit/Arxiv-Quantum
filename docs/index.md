@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Comment on arXiv:2604.09826: Discovery of the Solution to the "Einstein--Podolsky--Rosen Paradox"**|Mikołaj Sienicki et.al.|[2604.13135](http://arxiv.org/abs/2604.13135)|null|
 |**2026-04-13**|**Bell Nonlocality Test on Two-Mode Squeezed Output Generated in Double-Cavity Optomechanical**|Souvik Agasti et.al.|[2604.12050](http://arxiv.org/abs/2604.12050)|null|
 |**2026-04-13**|**Network Nonlocality with Separable Measurements**|Emanuele Polino et.al.|[2604.11910](http://arxiv.org/abs/2604.11910)|null|
 |**2026-04-13**|**Quantum entanglement in electron-nucleus collisions: Role of the linearly polarized gluon distribution**|Michael Fucilla et.al.|[2604.11697](http://arxiv.org/abs/2604.11697)|null|
@@ -1984,13 +1985,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-14**|**Relativistic Quantum Chaos in Neutrino Billiards**|Barbara Dietz et.al.|[2604.13003](http://arxiv.org/abs/2604.13003)|null|
+|**2026-04-15**|**Simulating the dynamics of an SU(2) matrix model on a trapped-ion quantum computer**|Gavin S. Hartnett et.al.|[2604.14094](http://arxiv.org/abs/2604.14094)|null|
+|**2026-04-15**|**The role of classical periodic orbits in quantum many-body systems**|Daniel Waltner et.al.|[2604.14015](http://arxiv.org/abs/2604.14015)|null|
+|**2026-04-14**|**Semiclassical theory of transport**|Marcel Novaes et.al.|[2604.13193](http://arxiv.org/abs/2604.13193)|null|
+|**2026-04-15**|**Relativistic Quantum Chaos in Neutrino Billiards**|Barbara Dietz et.al.|[2604.13003](http://arxiv.org/abs/2604.13003)|null|
 |**2026-04-14**|**Hamiltonian Chaos**|Steven Tomsovic et.al.|[2604.12976](http://arxiv.org/abs/2604.12976)|null|
 |**2026-04-14**|**Chaos and Quantum Tunneling**|Akira Shudo et.al.|[2604.12926](http://arxiv.org/abs/2604.12926)|null|
 |**2026-04-14**|**Quantum chaos and the holographic principle**|Alexander Altland et.al.|[2604.12784](http://arxiv.org/abs/2604.12784)|null|
 |**2026-04-14**|**Quantum chaos in many-body systems of indistinguishable particles**|Juan-Diego Urbina et.al.|[2604.12745](http://arxiv.org/abs/2604.12745)|null|
 |**2026-04-14**|**Quantum Chaos in Phase Space**|Martina Hentschel et.al.|[2604.12741](http://arxiv.org/abs/2604.12741)|null|
-|**2026-04-14**|**Quantum analogues of exponential sensitivity: from Loschmidt echo to Krylov complexity**|Ignacio García-Mata et.al.|[2604.12707](http://arxiv.org/abs/2604.12707)|null|
+|**2026-04-15**|**Quantum analogues of exponential sensitivity: from Loschmidt echo to Krylov complexity**|Ignacio García-Mata et.al.|[2604.12707](http://arxiv.org/abs/2604.12707)|null|
 |**2026-04-14**|**An Introduction to Quantum Graphs and Current Applications**|Gregory Berkolaiko et.al.|[2604.12690](http://arxiv.org/abs/2604.12690)|null|
 |**2026-04-14**|**Many-body localization**|Jakub Zakrzewski et.al.|[2604.12464](http://arxiv.org/abs/2604.12464)|null|
 |**2026-04-14**|**Chaotic Dynamics and Quantum Transport**|Andrey R. Kolovsky et.al.|[2604.12409](http://arxiv.org/abs/2604.12409)|null|
@@ -2764,6 +2768,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-15**|**Dimensioning of Quantum Memories for Distilled Quantum EPR Packets**|Lorenzo Valentini et.al.|[2604.13964](http://arxiv.org/abs/2604.13964)|null|
+|**2026-04-15**|**Quantum secret sharing in tripartite superconducting network**|W. K. Yam et.al.|[2604.13643](http://arxiv.org/abs/2604.13643)|null|
+|**2026-04-15**|**A $\boldsymbol{2d \times d \times d}$ Spacetime Volume Implementation of a Logical S Gate in the Surface Code**|Yuga Hirai et.al.|[2604.13632](http://arxiv.org/abs/2604.13632)|null|
+|**2026-04-15**|**Stabilization of finite-energy grid states of a quantum harmonic oscillator by reservoir engineering with two dissipation channels**|Rémi Robin et.al.|[2604.13529](http://arxiv.org/abs/2604.13529)|null|
 |**2026-04-14**|**Fast and accurate AI-based pre-decoders for surface codes**|Christopher Chamberland et.al.|[2604.12841](http://arxiv.org/abs/2604.12841)|null|
 |**2026-04-14**|**Quasi-Orthogonal Stabilizer Design for Efficient Quantum Error Suppression**|Valentine Nyirahafashimana et.al.|[2604.12684](http://arxiv.org/abs/2604.12684)|null|
 |**2026-04-14**|**Detecting entanglement from few partial transpose moments and their decay via weight enumerators**|Daniel Miller et.al.|[2604.12576](http://arxiv.org/abs/2604.12576)|null|

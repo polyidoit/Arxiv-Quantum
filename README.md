@@ -1,4 +1,4 @@
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-14**|**Comment on arXiv:2604.09826: Discovery of the Solution to the "Einstein--Podolsky--Rosen Paradox"**|Mikołaj Sienicki et.al.|[2604.13135](http://arxiv.org/abs/2604.13135)|null|
 |**2026-04-13**|**Bell Nonlocality Test on Two-Mode Squeezed Output Generated in Double-Cavity Optomechanical**|Souvik Agasti et.al.|[2604.12050](http://arxiv.org/abs/2604.12050)|null|
 |**2026-04-13**|**Network Nonlocality with Separable Measurements**|Emanuele Polino et.al.|[2604.11910](http://arxiv.org/abs/2604.11910)|null|
 |**2026-04-13**|**Quantum entanglement in electron-nucleus collisions: Role of the linearly polarized gluon distribution**|Michael Fucilla et.al.|[2604.11697](http://arxiv.org/abs/2604.11697)|null|
@@ -660,7 +661,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260416>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -974,7 +975,7 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260416>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -1262,7 +1263,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260416>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1454,7 +1455,7 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260416>back to top</a>)</p>
 
 ## Resource theory
 
@@ -1997,19 +1998,22 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260416>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-14**|**Relativistic Quantum Chaos in Neutrino Billiards**|Barbara Dietz et.al.|[2604.13003](http://arxiv.org/abs/2604.13003)|null|
+|**2026-04-15**|**Simulating the dynamics of an SU(2) matrix model on a trapped-ion quantum computer**|Gavin S. Hartnett et.al.|[2604.14094](http://arxiv.org/abs/2604.14094)|null|
+|**2026-04-15**|**The role of classical periodic orbits in quantum many-body systems**|Daniel Waltner et.al.|[2604.14015](http://arxiv.org/abs/2604.14015)|null|
+|**2026-04-14**|**Semiclassical theory of transport**|Marcel Novaes et.al.|[2604.13193](http://arxiv.org/abs/2604.13193)|null|
+|**2026-04-15**|**Relativistic Quantum Chaos in Neutrino Billiards**|Barbara Dietz et.al.|[2604.13003](http://arxiv.org/abs/2604.13003)|null|
 |**2026-04-14**|**Hamiltonian Chaos**|Steven Tomsovic et.al.|[2604.12976](http://arxiv.org/abs/2604.12976)|null|
 |**2026-04-14**|**Chaos and Quantum Tunneling**|Akira Shudo et.al.|[2604.12926](http://arxiv.org/abs/2604.12926)|null|
 |**2026-04-14**|**Quantum chaos and the holographic principle**|Alexander Altland et.al.|[2604.12784](http://arxiv.org/abs/2604.12784)|null|
 |**2026-04-14**|**Quantum chaos in many-body systems of indistinguishable particles**|Juan-Diego Urbina et.al.|[2604.12745](http://arxiv.org/abs/2604.12745)|null|
 |**2026-04-14**|**Quantum Chaos in Phase Space**|Martina Hentschel et.al.|[2604.12741](http://arxiv.org/abs/2604.12741)|null|
-|**2026-04-14**|**Quantum analogues of exponential sensitivity: from Loschmidt echo to Krylov complexity**|Ignacio García-Mata et.al.|[2604.12707](http://arxiv.org/abs/2604.12707)|null|
+|**2026-04-15**|**Quantum analogues of exponential sensitivity: from Loschmidt echo to Krylov complexity**|Ignacio García-Mata et.al.|[2604.12707](http://arxiv.org/abs/2604.12707)|null|
 |**2026-04-14**|**An Introduction to Quantum Graphs and Current Applications**|Gregory Berkolaiko et.al.|[2604.12690](http://arxiv.org/abs/2604.12690)|null|
 |**2026-04-14**|**Many-body localization**|Jakub Zakrzewski et.al.|[2604.12464](http://arxiv.org/abs/2604.12464)|null|
 |**2026-04-14**|**Chaotic Dynamics and Quantum Transport**|Andrey R. Kolovsky et.al.|[2604.12409](http://arxiv.org/abs/2604.12409)|null|
@@ -2777,7 +2781,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260416>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -2785,6 +2789,10 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-15**|**Dimensioning of Quantum Memories for Distilled Quantum EPR Packets**|Lorenzo Valentini et.al.|[2604.13964](http://arxiv.org/abs/2604.13964)|null|
+|**2026-04-15**|**Quantum secret sharing in tripartite superconducting network**|W. K. Yam et.al.|[2604.13643](http://arxiv.org/abs/2604.13643)|null|
+|**2026-04-15**|**A $\boldsymbol{2d \times d \times d}$ Spacetime Volume Implementation of a Logical S Gate in the Surface Code**|Yuga Hirai et.al.|[2604.13632](http://arxiv.org/abs/2604.13632)|null|
+|**2026-04-15**|**Stabilization of finite-energy grid states of a quantum harmonic oscillator by reservoir engineering with two dissipation channels**|Rémi Robin et.al.|[2604.13529](http://arxiv.org/abs/2604.13529)|null|
 |**2026-04-14**|**Fast and accurate AI-based pre-decoders for surface codes**|Christopher Chamberland et.al.|[2604.12841](http://arxiv.org/abs/2604.12841)|null|
 |**2026-04-14**|**Quasi-Orthogonal Stabilizer Design for Efficient Quantum Error Suppression**|Valentine Nyirahafashimana et.al.|[2604.12684](http://arxiv.org/abs/2604.12684)|null|
 |**2026-04-14**|**Detecting entanglement from few partial transpose moments and their decay via weight enumerators**|Daniel Miller et.al.|[2604.12576](http://arxiv.org/abs/2604.12576)|null|
@@ -4812,5 +4820,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260416>back to top</a>)</p>
 

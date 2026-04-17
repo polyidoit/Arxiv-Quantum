@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Quantum correlation tests at cosmic distances**|Thomas Durt et.al.|[2604.14252](http://arxiv.org/abs/2604.14252)|null|
 |**2026-04-14**|**Comment on arXiv:2604.09826: Discovery of the Solution to the "Einstein--Podolsky--Rosen Paradox"**|Mikołaj Sienicki et.al.|[2604.13135](http://arxiv.org/abs/2604.13135)|null|
 |**2026-04-13**|**Bell Nonlocality Test on Two-Mode Squeezed Output Generated in Double-Cavity Optomechanical**|Souvik Agasti et.al.|[2604.12050](http://arxiv.org/abs/2604.12050)|null|
 |**2026-04-13**|**Network Nonlocality with Separable Measurements**|Emanuele Polino et.al.|[2604.11910](http://arxiv.org/abs/2604.11910)|null|
@@ -968,6 +969,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Warring Contextualities - Provably Classical vs Provably Nonclassical**|Enrico Bozzetto et.al.|[2604.14319](http://arxiv.org/abs/2604.14319)|null|
 |**2026-04-13**|**Role of Excited States in Resonant Charge Transfer during Li $^+$ Backscattering from MoS$_2$ : A Multi-Orbital Theoretical Study**|Thomas A. Balsamo et.al.|[2604.11607](http://arxiv.org/abs/2604.11607)|null|
 |**2026-04-10**|**New limits on the Pauli forbidden transitions in 12C nuclei obtained with the complete Borexino dataset**|Borexino collaboration et.al.|[2604.08950](http://arxiv.org/abs/2604.08950)|null|
 |**2026-04-07**|**Interband optical conductivities in two-dimensional tilted Dirac bands revisited within the tight-binding model**|Chao-Yang Tan et.al.|[2604.05803](http://arxiv.org/abs/2604.05803)|null|
@@ -1254,6 +1256,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Activating entanglement and EPR steering from continuous-variable resources using witness-based measures**|Kaustav Chatterjee et.al.|[2604.14757](http://arxiv.org/abs/2604.14757)|null|
 |**2026-04-01**|**Survival of nonclassical correlations in Lorentz-violating spacetime**|Yangchun Tang et.al.|[2604.00616](http://arxiv.org/abs/2604.00616)|null|
 |**2026-03-26**|**Can every set of incompatible measurements lead to genuine multipartite steering?**|Lucas E. A. Porto et.al.|[2603.25345](http://arxiv.org/abs/2603.25345)|null|
 |**2026-03-24**|**Zero-Uncertainty States Relative to Observable Algebras**|Jiayu Ran et.al.|[2603.23036](http://arxiv.org/abs/2603.23036)|null|
@@ -1444,6 +1447,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Measurement of the Gerasimov-Drell-Hearn integrand for proton and deuteron from 200 to 1400 MeV**|P. Pedroni et.al.|[2604.14385](http://arxiv.org/abs/2604.14385)|null|
 |**2026-04-13**|**Hybrid Six-Level Rydberg Atomic Quantum Receiver for Multi-Band RF Communication**|Lahiru Shyamal et.al.|[2604.12106](http://arxiv.org/abs/2604.12106)|null|
 |**2026-04-10**|**Ge $^\text{2}$ mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer**|Zecheng Hao et.al.|[2604.08894](http://arxiv.org/abs/2604.08894)|null|
 |**2026-04-08**|**From 6G Scenarios and Requirements to Design Drivers: Insights from 3GPP Release 20**|Victor Moznon Baeza et.al.|[2604.07212](http://arxiv.org/abs/2604.07212)|null|
@@ -1985,6 +1989,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Integrable, Mixed, and Chaotic Dynamics in a Single All-to-All Ising Spin Model**|David Amaro-Alcalá et.al.|[2604.14798](http://arxiv.org/abs/2604.14798)|null|
 |**2026-04-15**|**Simulating the dynamics of an SU(2) matrix model on a trapped-ion quantum computer**|Gavin S. Hartnett et.al.|[2604.14094](http://arxiv.org/abs/2604.14094)|null|
 |**2026-04-15**|**The role of classical periodic orbits in quantum many-body systems**|Daniel Waltner et.al.|[2604.14015](http://arxiv.org/abs/2604.14015)|null|
 |**2026-04-14**|**Semiclassical theory of transport**|Marcel Novaes et.al.|[2604.13193](http://arxiv.org/abs/2604.13193)|null|
@@ -2768,6 +2773,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-16**|**Wave-Based Dispatch for Circuit Cutting in Hybrid HPC--Quantum Systems**|Ricard S. García-Raigada et.al.|[2604.15279](http://arxiv.org/abs/2604.15279)|null|
+|**2026-04-16**|**Universal quantum state purification with energy-preserving operations**|Xing-Chen Guo et.al.|[2604.15228](http://arxiv.org/abs/2604.15228)|null|
+|**2026-04-16**|**Constraints on phantom codes from automorphism group bounds**|Arthur S. Morris et.al.|[2604.15111](http://arxiv.org/abs/2604.15111)|null|
+|**2026-04-16**|**O3LS: Optimizing Lattice Surgery via Automatic Layout Searching and Loose Scheduling**|Chenghong Zhu et.al.|[2604.15099](http://arxiv.org/abs/2604.15099)|null|
+|**2026-04-16**|**SyQMA: A memory-efficient, symbolic and exact universal simulator for quantum error correction**|George Umbrarescu et.al.|[2604.15043](http://arxiv.org/abs/2604.15043)|null|
+|**2026-04-16**|**Runtime-efficient zero-noise extrapolation from mixed physical and logical data**|D. V. Babukhin et.al.|[2604.15014](http://arxiv.org/abs/2604.15014)|null|
+|**2026-04-16**|**Learning to Concatenate Quantum Codes**|Nico Meyer et.al.|[2604.14931](http://arxiv.org/abs/2604.14931)|null|
+|**2026-04-15**|**Hofstadter's Butterfly in AdS $_3$ Black Holes**|Kazuki Ikeda et.al.|[2604.14335](http://arxiv.org/abs/2604.14335)|null|
+|**2026-04-15**|**Low-valency scalable quantum error correction with a dynamic compass code**|Jun Zen et.al.|[2604.14299](http://arxiv.org/abs/2604.14299)|null|
+|**2026-04-15**|**Scalable quantum error correction tailored for a heavy-hex qubit array**|Seok-Hyung Lee et.al.|[2604.14296](http://arxiv.org/abs/2604.14296)|null|
 |**2026-04-15**|**Dimensioning of Quantum Memories for Distilled Quantum EPR Packets**|Lorenzo Valentini et.al.|[2604.13964](http://arxiv.org/abs/2604.13964)|null|
 |**2026-04-15**|**Quantum secret sharing in tripartite superconducting network**|W. K. Yam et.al.|[2604.13643](http://arxiv.org/abs/2604.13643)|null|
 |**2026-04-15**|**A $\boldsymbol{2d \times d \times d}$ Spacetime Volume Implementation of a Logical S Gate in the Surface Code**|Yuga Hirai et.al.|[2604.13632](http://arxiv.org/abs/2604.13632)|null|

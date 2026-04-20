@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Comment on "A General Framework for Constructing Local Hidden-state Models to Determine the Steerability"**|Nick von Selzam et.al.|[2604.16051](http://arxiv.org/abs/2604.16051)|null|
 |**2026-04-15**|**Quantum correlation tests at cosmic distances**|Thomas Durt et.al.|[2604.14252](http://arxiv.org/abs/2604.14252)|null|
 |**2026-04-14**|**Comment on arXiv:2604.09826: Discovery of the Solution to the "Einstein--Podolsky--Rosen Paradox"**|Mikołaj Sienicki et.al.|[2604.13135](http://arxiv.org/abs/2604.13135)|null|
 |**2026-04-13**|**Bell Nonlocality Test on Two-Mode Squeezed Output Generated in Double-Cavity Optomechanical**|Souvik Agasti et.al.|[2604.12050](http://arxiv.org/abs/2604.12050)|null|
@@ -969,7 +970,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-15**|**Warring Contextualities - Provably Classical vs Provably Nonclassical**|Enrico Bozzetto et.al.|[2604.14319](http://arxiv.org/abs/2604.14319)|null|
+|**2026-04-17**|**Warring Contextualities -- Provably Classical vs Provably Nonclassical**|Enrico Bozzetto et.al.|[2604.14319](http://arxiv.org/abs/2604.14319)|null|
 |**2026-04-13**|**Role of Excited States in Resonant Charge Transfer during Li $^+$ Backscattering from MoS$_2$ : A Multi-Orbital Theoretical Study**|Thomas A. Balsamo et.al.|[2604.11607](http://arxiv.org/abs/2604.11607)|null|
 |**2026-04-10**|**New limits on the Pauli forbidden transitions in 12C nuclei obtained with the complete Borexino dataset**|Borexino collaboration et.al.|[2604.08950](http://arxiv.org/abs/2604.08950)|null|
 |**2026-04-07**|**Interband optical conductivities in two-dimensional tilted Dirac bands revisited within the tight-binding model**|Chao-Yang Tan et.al.|[2604.05803](http://arxiv.org/abs/2604.05803)|null|
@@ -1989,6 +1990,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Tensor Networks with Belief Propagation Cannot Feasibly Simulate Google's Quantum Echoes Experiment**|Pablo Bermejo et.al.|[2604.15427](http://arxiv.org/abs/2604.15427)|null|
 |**2026-04-16**|**Integrable, Mixed, and Chaotic Dynamics in a Single All-to-All Ising Spin Model**|David Amaro-Alcalá et.al.|[2604.14798](http://arxiv.org/abs/2604.14798)|null|
 |**2026-04-15**|**Simulating the dynamics of an SU(2) matrix model on a trapped-ion quantum computer**|Gavin S. Hartnett et.al.|[2604.14094](http://arxiv.org/abs/2604.14094)|null|
 |**2026-04-15**|**The role of classical periodic orbits in quantum many-body systems**|Daniel Waltner et.al.|[2604.14015](http://arxiv.org/abs/2604.14015)|null|
@@ -2773,6 +2775,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-17**|**Fast, High-Fidelity Erasure Detection of Dual-Rail Qubits with Symmetrically Coupled Readout**|Jimmy Shih-Chun Hung et.al.|[2604.16292](http://arxiv.org/abs/2604.16292)|null|
+|**2026-04-17**|**Towards Ultra-High-Rate Quantum Error Correction with Reconfigurable Atom Arrays**|Chen Zhao et.al.|[2604.16209](http://arxiv.org/abs/2604.16209)|null|
+|**2026-04-17**|**MacWilliams Identities for Intrinsic Quantum Codes**|Eric Kubischta et.al.|[2604.16023](http://arxiv.org/abs/2604.16023)|null|
+|**2026-04-17**|**Explainable quantum regression algorithm with encoded data structure**|C. -C. Joseph Wang et.al.|[2604.15666](http://arxiv.org/abs/2604.15666)|null|
 |**2026-04-16**|**Wave-Based Dispatch for Circuit Cutting in Hybrid HPC--Quantum Systems**|Ricard S. García-Raigada et.al.|[2604.15279](http://arxiv.org/abs/2604.15279)|null|
 |**2026-04-16**|**Universal quantum state purification with energy-preserving operations**|Xing-Chen Guo et.al.|[2604.15228](http://arxiv.org/abs/2604.15228)|null|
 |**2026-04-16**|**Constraints on phantom codes from automorphism group bounds**|Arthur S. Morris et.al.|[2604.15111](http://arxiv.org/abs/2604.15111)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -659,6 +659,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Classically Forbidden Signatures of Quantum Coherence in the Mesoscopic Lipkin-Meshkov-Glick Model**|Stavros Mouslopoulos et.al.|[2604.18638](http://arxiv.org/abs/2604.18638)|null|
 |**2026-04-11**|**Comparing quantum and classical finite state generators**|Prasenjit Deb et.al.|[2604.10315](http://arxiv.org/abs/2604.10315)|null|
 |**2026-04-10**|**Leggett-Garg Inequality Violations Bound Quantum Fisher Information**|Nick Abboud et.al.|[2604.09772](http://arxiv.org/abs/2604.09772)|null|
 |**2026-04-03**|**Frame perspectives for process matrices: from coordinate parametrization to spacetime representation**|Luca Apadula et.al.|[2604.02873](http://arxiv.org/abs/2604.02873)|null|
@@ -2777,6 +2778,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-21**|**Architecting Early Fault Tolerant Neutral Atoms Systems with Quantum Advantage**|Sahil Khan et.al.|[2604.19735](http://arxiv.org/abs/2604.19735)|null|
+|**2026-04-21**|**Fault-Tolerant Quantum Computing with Trapped Ions: The Walking Cat Architecture**|Felix Tripier et.al.|[2604.19481](http://arxiv.org/abs/2604.19481)|null|
+|**2026-04-21**|**Explicit Factorization of $x^{p+1}-1$ over $\mathbb{Z}_{p^e}$ : A Structural Approach via Dickson Polynomials**|Yongchao Wang et.al.|[2604.19038](http://arxiv.org/abs/2604.19038)|null|
+|**2026-04-21**|**Quantum Decoherence of the Surface Code: A Generalized Caldeira-Leggett Approach**|E. Novais et.al.|[2604.18968](http://arxiv.org/abs/2604.18968)|null|
+|**2026-04-20**|**Understanding Quantum Instruments**|Akel Hashim et.al.|[2604.18884](http://arxiv.org/abs/2604.18884)|null|
+|**2026-04-20**|**Learning error suppression strategies for dynamic quantum circuits**|Christopher Tong et.al.|[2604.18734](http://arxiv.org/abs/2604.18734)|null|
+|**2026-04-20**|**Efficient Routing of Quantum LDPC Codes on Programmable 2D Toric Architectures**|Kun Liu et.al.|[2604.18714](http://arxiv.org/abs/2604.18714)|null|
 |**2026-04-20**|**The dimensions of Schur squares of HRS codes**|Haojie Gu et.al.|[2604.17864](http://arxiv.org/abs/2604.17864)|null|
 |**2026-04-19**|**Fault-Tolerant Cut-Cat State Syndrome Extraction for Quantum Codes**|Diego Forlivesi et.al.|[2604.17339](http://arxiv.org/abs/2604.17339)|null|
 |**2026-04-17**|**GreenPeas: Unlocking Adaptive Quantum Error Correction with Just-in-Time Decoding Hypergraphs**|Abbas B. Ziad et.al.|[2604.16613](http://arxiv.org/abs/2604.16613)|null|

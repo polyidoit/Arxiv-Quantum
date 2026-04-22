@@ -1467,6 +1467,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**Bargmann Scenarios**|Rafael Wagner et.al.|[2604.18833](http://arxiv.org/abs/2604.18833)|null|
 |**2026-04-15**|**Measurement of the Gerasimov-Drell-Hearn integrand for proton and deuteron from 200 to 1400 MeV**|P. Pedroni et.al.|[2604.14385](http://arxiv.org/abs/2604.14385)|null|
 |**2026-04-13**|**Hybrid Six-Level Rydberg Atomic Quantum Receiver for Multi-Band RF Communication**|Lahiru Shyamal et.al.|[2604.12106](http://arxiv.org/abs/2604.12106)|null|
 |**2026-04-10**|**Ge $^\text{2}$ mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer**|Zecheng Hao et.al.|[2604.08894](http://arxiv.org/abs/2604.08894)|null|
@@ -2011,6 +2012,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**Asymptotic Metrological Scaling and Concentration in Chaotic Floquet Dynamics**|Astrid J. M. Bergman et.al.|[2604.19017](http://arxiv.org/abs/2604.19017)|null|
+|**2026-04-20**|**All-order fluctuating hydrodynamics of the SYK lattice**|Marta Bucca et.al.|[2604.18675](http://arxiv.org/abs/2604.18675)|null|
 |**2026-04-17**|**Quantum many-body operator cascade as a route to chaos**|Urban Duh et.al.|[2604.16720](http://arxiv.org/abs/2604.16720)|null|
 |**2026-04-16**|**Tensor Networks with Belief Propagation Cannot Feasibly Simulate Google's Quantum Echoes Experiment**|Pablo Bermejo et.al.|[2604.15427](http://arxiv.org/abs/2604.15427)|null|
 |**2026-04-16**|**Integrable, Mixed, and Chaotic Dynamics in a Single All-to-All Ising Spin Model**|David Amaro-Alcalá et.al.|[2604.14798](http://arxiv.org/abs/2604.14798)|null|

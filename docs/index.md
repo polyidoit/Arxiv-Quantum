@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.22
+## Updated on 2026.04.23
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Nonlocal Characterizations of Stochastic Completeness on Complete Riemannian Manifolds**|Rui Chen et.al.|[2604.20205](http://arxiv.org/abs/2604.20205)|null|
 |**2026-04-17**|**Gigahertz-rate thin-film lithium niobate receiver for time-bin quantum communication**|Andrea Bernardi et.al.|[2604.16695](http://arxiv.org/abs/2604.16695)|null|
 |**2026-04-17**|**Comment on "A General Framework for Constructing Local Hidden-state Models to Determine the Steerability"**|Nick von Selzam et.al.|[2604.16051](http://arxiv.org/abs/2604.16051)|null|
 |**2026-04-15**|**Quantum correlation tests at cosmic distances**|Thomas Durt et.al.|[2604.14252](http://arxiv.org/abs/2604.14252)|null|
@@ -1450,6 +1451,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Maximum Likelihood Reconstruction for Multi-Look Digital Holography with Markov-Modeled Speckle Correlation**|Xi Chen et.al.|[2604.20154](http://arxiv.org/abs/2604.20154)|null|
+|**2026-04-21**|**Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems**|Huy Hoang Le et.al.|[2604.19930](http://arxiv.org/abs/2604.19930)|null|
 |**2026-04-20**|**Bargmann Scenarios**|Rafael Wagner et.al.|[2604.18833](http://arxiv.org/abs/2604.18833)|null|
 |**2026-04-15**|**Measurement of the Gerasimov-Drell-Hearn integrand for proton and deuteron from 200 to 1400 MeV**|P. Pedroni et.al.|[2604.14385](http://arxiv.org/abs/2604.14385)|null|
 |**2026-04-13**|**Hybrid Six-Level Rydberg Atomic Quantum Receiver for Multi-Band RF Communication**|Lahiru Shyamal et.al.|[2604.12106](http://arxiv.org/abs/2604.12106)|null|
@@ -1993,6 +1996,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Arrow of Time as an indicator of Measurement-Induced Phase Transitions**|Nitay Hurvitz et.al.|[2604.20828](http://arxiv.org/abs/2604.20828)|null|
+|**2026-04-21**|**Measurement and feedback-driven adaptive dynamics in the classical and quantum kicked top**|Mahaveer Prasad et.al.|[2604.19874](http://arxiv.org/abs/2604.19874)|null|
 |**2026-04-21**|**Asymptotic Metrological Scaling and Concentration in Chaotic Floquet Dynamics**|Astrid J. M. Bergman et.al.|[2604.19017](http://arxiv.org/abs/2604.19017)|null|
 |**2026-04-20**|**All-order fluctuating hydrodynamics of the SYK lattice**|Marta Bucca et.al.|[2604.18675](http://arxiv.org/abs/2604.18675)|null|
 |**2026-04-17**|**Quantum many-body operator cascade as a route to chaos**|Urban Duh et.al.|[2604.16720](http://arxiv.org/abs/2604.16720)|null|
@@ -2781,6 +2786,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-21**|**Toward designing workload-aware Surface Code Architectures**|Archisman Ghosh et.al.|[2604.19855](http://arxiv.org/abs/2604.19855)|null|
 |**2026-04-21**|**Architecting Early Fault Tolerant Neutral Atoms Systems with Quantum Advantage**|Sahil Khan et.al.|[2604.19735](http://arxiv.org/abs/2604.19735)|null|
 |**2026-04-21**|**Fault-Tolerant Quantum Computing with Trapped Ions: The Walking Cat Architecture**|Felix Tripier et.al.|[2604.19481](http://arxiv.org/abs/2604.19481)|null|
 |**2026-04-21**|**Explicit Factorization of $x^{p+1}-1$ over $\mathbb{Z}_{p^e}$ : A Structural Approach via Dickson Polynomials**|Yongchao Wang et.al.|[2604.19038](http://arxiv.org/abs/2604.19038)|null|

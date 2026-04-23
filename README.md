@@ -1,4 +1,4 @@
-## Updated on 2026.04.22
+## Updated on 2026.04.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Nonlocal Characterizations of Stochastic Completeness on Complete Riemannian Manifolds**|Rui Chen et.al.|[2604.20205](http://arxiv.org/abs/2604.20205)|null|
 |**2026-04-17**|**Gigahertz-rate thin-film lithium niobate receiver for time-bin quantum communication**|Andrea Bernardi et.al.|[2604.16695](http://arxiv.org/abs/2604.16695)|null|
 |**2026-04-17**|**Comment on "A General Framework for Constructing Local Hidden-state Models to Determine the Steerability"**|Nick von Selzam et.al.|[2604.16051](http://arxiv.org/abs/2604.16051)|null|
 |**2026-04-15**|**Quantum correlation tests at cosmic distances**|Thomas Durt et.al.|[2604.14252](http://arxiv.org/abs/2604.14252)|null|
@@ -664,7 +665,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -979,7 +980,7 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -1268,7 +1269,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1461,12 +1462,14 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Maximum Likelihood Reconstruction for Multi-Look Digital Holography with Markov-Modeled Speckle Correlation**|Xi Chen et.al.|[2604.20154](http://arxiv.org/abs/2604.20154)|null|
+|**2026-04-21**|**Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems**|Huy Hoang Le et.al.|[2604.19930](http://arxiv.org/abs/2604.19930)|null|
 |**2026-04-20**|**Bargmann Scenarios**|Rafael Wagner et.al.|[2604.18833](http://arxiv.org/abs/2604.18833)|null|
 |**2026-04-15**|**Measurement of the Gerasimov-Drell-Hearn integrand for proton and deuteron from 200 to 1400 MeV**|P. Pedroni et.al.|[2604.14385](http://arxiv.org/abs/2604.14385)|null|
 |**2026-04-13**|**Hybrid Six-Level Rydberg Atomic Quantum Receiver for Multi-Band RF Communication**|Lahiru Shyamal et.al.|[2604.12106](http://arxiv.org/abs/2604.12106)|null|
@@ -2006,12 +2009,14 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Arrow of Time as an indicator of Measurement-Induced Phase Transitions**|Nitay Hurvitz et.al.|[2604.20828](http://arxiv.org/abs/2604.20828)|null|
+|**2026-04-21**|**Measurement and feedback-driven adaptive dynamics in the classical and quantum kicked top**|Mahaveer Prasad et.al.|[2604.19874](http://arxiv.org/abs/2604.19874)|null|
 |**2026-04-21**|**Asymptotic Metrological Scaling and Concentration in Chaotic Floquet Dynamics**|Astrid J. M. Bergman et.al.|[2604.19017](http://arxiv.org/abs/2604.19017)|null|
 |**2026-04-20**|**All-order fluctuating hydrodynamics of the SYK lattice**|Marta Bucca et.al.|[2604.18675](http://arxiv.org/abs/2604.18675)|null|
 |**2026-04-17**|**Quantum many-body operator cascade as a route to chaos**|Urban Duh et.al.|[2604.16720](http://arxiv.org/abs/2604.16720)|null|
@@ -2794,7 +2799,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -2802,6 +2807,7 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-21**|**Toward designing workload-aware Surface Code Architectures**|Archisman Ghosh et.al.|[2604.19855](http://arxiv.org/abs/2604.19855)|null|
 |**2026-04-21**|**Architecting Early Fault Tolerant Neutral Atoms Systems with Quantum Advantage**|Sahil Khan et.al.|[2604.19735](http://arxiv.org/abs/2604.19735)|null|
 |**2026-04-21**|**Fault-Tolerant Quantum Computing with Trapped Ions: The Walking Cat Architecture**|Felix Tripier et.al.|[2604.19481](http://arxiv.org/abs/2604.19481)|null|
 |**2026-04-21**|**Explicit Factorization of $x^{p+1}-1$ over $\mathbb{Z}_{p^e}$ : A Structural Approach via Dickson Polynomials**|Yongchao Wang et.al.|[2604.19038](http://arxiv.org/abs/2604.19038)|null|
@@ -4857,5 +4863,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
 

@@ -973,6 +973,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**On Threshold Compatibility Graphs**|Sheikh Azizul Hakim et.al.|[2604.20042](http://arxiv.org/abs/2604.20042)|null|
+|**2026-04-21**|**Quantum Correlations in Classical Systems**|Ghenadie N. Mardari et.al.|[2604.19940](http://arxiv.org/abs/2604.19940)|null|
 |**2026-04-17**|**Warring Contextualities -- Provably Classical vs Provably Nonclassical**|Enrico Bozzetto et.al.|[2604.14319](http://arxiv.org/abs/2604.14319)|null|
 |**2026-04-13**|**Role of Excited States in Resonant Charge Transfer during Li $^+$ Backscattering from MoS$_2$ : A Multi-Orbital Theoretical Study**|Thomas A. Balsamo et.al.|[2604.11607](http://arxiv.org/abs/2604.11607)|null|
 |**2026-04-10**|**New limits on the Pauli forbidden transitions in 12C nuclei obtained with the complete Borexino dataset**|Borexino collaboration et.al.|[2604.08950](http://arxiv.org/abs/2604.08950)|null|

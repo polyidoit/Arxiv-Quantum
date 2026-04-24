@@ -1454,6 +1454,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Ternary Memristive Logic: Hardware for Reasoning Realized via Domain Algebra**|Chao Li et.al.|[2604.20891](http://arxiv.org/abs/2604.20891)|null|
 |**2026-04-22**|**Maximum Likelihood Reconstruction for Multi-Look Digital Holography with Markov-Modeled Speckle Correlation**|Xi Chen et.al.|[2604.20154](http://arxiv.org/abs/2604.20154)|null|
 |**2026-04-21**|**Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems**|Huy Hoang Le et.al.|[2604.19930](http://arxiv.org/abs/2604.19930)|null|
 |**2026-04-20**|**Bargmann Scenarios**|Rafael Wagner et.al.|[2604.18833](http://arxiv.org/abs/2604.18833)|null|
@@ -1999,6 +2000,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Chaos Gated Tunneling Drives Molecular Reactivity in Astrophysical Environments**|Saptarshi G. Dastider et.al.|[2604.21005](http://arxiv.org/abs/2604.21005)|null|
+|**2026-04-22**|**Thermalization Regimes in a Chaotic Tavis-Cummings Model**|Sameer Dambal et.al.|[2604.20955](http://arxiv.org/abs/2604.20955)|null|
 |**2026-04-22**|**Arrow of Time as an indicator of Measurement-Induced Phase Transitions**|Nitay Hurvitz et.al.|[2604.20828](http://arxiv.org/abs/2604.20828)|null|
 |**2026-04-21**|**Measurement and feedback-driven adaptive dynamics in the classical and quantum kicked top**|Mahaveer Prasad et.al.|[2604.19874](http://arxiv.org/abs/2604.19874)|null|
 |**2026-04-21**|**Asymptotic Metrological Scaling and Concentration in Chaotic Floquet Dynamics**|Astrid J. M. Bergman et.al.|[2604.19017](http://arxiv.org/abs/2604.19017)|null|
@@ -2789,7 +2792,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
-|**2026-04-21**|**Toward designing workload-aware Surface Code Architectures**|Archisman Ghosh et.al.|[2604.19855](http://arxiv.org/abs/2604.19855)|null|
+|**2026-04-23**|**Loss-biased fault-tolerant quantum error correction**|Laura Pecorari et.al.|[2604.21876](http://arxiv.org/abs/2604.21876)|null|
+|**2026-04-23**|**High-performance cellular automaton decoders for quantum repetition and toric code**|Don Winter et.al.|[2604.21866](http://arxiv.org/abs/2604.21866)|null|
+|**2026-04-23**|**Deterministic generation of grid states with programmable nonlinear bosonic circuits**|Yanis Le Fur et.al.|[2604.21824](http://arxiv.org/abs/2604.21824)|null|
+|**2026-04-23**|**Variance Geometry of Exact Pauli-Detecting Codes: Continuous Landscapes Beyond Stabilizers**|Arunaday Gupta et.al.|[2604.21800](http://arxiv.org/abs/2604.21800)|null|
+|**2026-04-23**|**Near-Term Reduction in Nonlocal Gate Count from Distributed Logical Qubits**|Bruno Avritzer et.al.|[2604.21722](http://arxiv.org/abs/2604.21722)|null|
+|**2026-04-23**|**LightStim: A Framework for QEC Protocol Evaluation and Prototyping with Automated DEM Construction**|Xiang Fang et.al.|[2604.21472](http://arxiv.org/abs/2604.21472)|null|
+|**2026-04-23**|**StabilizerBench: A Benchmark for AI-Assisted Quantum Error Correction Circuit Synthesis**|Andres Paz et.al.|[2604.21287](http://arxiv.org/abs/2604.21287)|null|
+|**2026-04-23**|**Toward designing workload-aware Surface Code Architectures**|Archisman Ghosh et.al.|[2604.19855](http://arxiv.org/abs/2604.19855)|null|
 |**2026-04-21**|**Architecting Early Fault Tolerant Neutral Atoms Systems with Quantum Advantage**|Sahil Khan et.al.|[2604.19735](http://arxiv.org/abs/2604.19735)|null|
 |**2026-04-21**|**Fault-Tolerant Quantum Computing with Trapped Ions: The Walking Cat Architecture**|Felix Tripier et.al.|[2604.19481](http://arxiv.org/abs/2604.19481)|null|
 |**2026-04-21**|**Explicit Factorization of $x^{p+1}-1$ over $\mathbb{Z}_{p^e}$ : A Structural Approach via Dickson Polynomials**|Yongchao Wang et.al.|[2604.19038](http://arxiv.org/abs/2604.19038)|null|

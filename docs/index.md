@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Disentangling new physics with quantum entanglement in $t\bar{t}$ production at future lepton colliders**|Masato Arai et.al.|[2604.21332](http://arxiv.org/abs/2604.21332)|null|
 |**2026-04-22**|**Nonlocal Characterizations of Stochastic Completeness on Complete Riemannian Manifolds**|Rui Chen et.al.|[2604.20205](http://arxiv.org/abs/2604.20205)|null|
 |**2026-04-17**|**Gigahertz-rate thin-film lithium niobate receiver for time-bin quantum communication**|Andrea Bernardi et.al.|[2604.16695](http://arxiv.org/abs/2604.16695)|null|
 |**2026-04-17**|**Comment on "A General Framework for Constructing Local Hidden-state Models to Determine the Steerability"**|Nick von Selzam et.al.|[2604.16051](http://arxiv.org/abs/2604.16051)|null|

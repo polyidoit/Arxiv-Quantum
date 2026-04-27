@@ -1,4 +1,4 @@
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -666,7 +666,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -981,12 +981,14 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**The 0+-spectrum in rare earth nuclei within the pseudo-SU(3) shell model**|Peter O. Hess et.al.|[2604.22599](http://arxiv.org/abs/2604.22599)|null|
+|**2026-04-24**|**ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation**|Amir Hosseini et.al.|[2604.22546](http://arxiv.org/abs/2604.22546)|null|
 |**2026-04-21**|**On Threshold Compatibility Graphs**|Sheikh Azizul Hakim et.al.|[2604.20042](http://arxiv.org/abs/2604.20042)|null|
 |**2026-04-21**|**Quantum Correlations in Classical Systems**|Ghenadie N. Mardari et.al.|[2604.19940](http://arxiv.org/abs/2604.19940)|null|
 |**2026-04-17**|**Warring Contextualities -- Provably Classical vs Provably Nonclassical**|Enrico Bozzetto et.al.|[2604.14319](http://arxiv.org/abs/2604.14319)|null|
@@ -1272,7 +1274,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1465,7 +1467,7 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 
 ## Resource theory
 
@@ -2013,12 +2015,13 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Quantum Circuit Partitioning For Effective Utilization of Quantum Resources**|Connor Howe et.al.|[2604.22664](http://arxiv.org/abs/2604.22664)|null|
 |**2026-04-22**|**Chaos Gated Tunneling Drives Molecular Reactivity in Astrophysical Environments**|Saptarshi G. Dastider et.al.|[2604.21005](http://arxiv.org/abs/2604.21005)|null|
 |**2026-04-22**|**Thermalization Regimes in a Chaotic Tavis-Cummings Model**|Sameer Dambal et.al.|[2604.20955](http://arxiv.org/abs/2604.20955)|null|
 |**2026-04-22**|**Arrow of Time as an indicator of Measurement-Induced Phase Transitions**|Nitay Hurvitz et.al.|[2604.20828](http://arxiv.org/abs/2604.20828)|null|
@@ -2805,7 +2808,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -2813,6 +2816,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-24**|**Decohered color code and emerging mixed toric code by anyon proliferation: Topological entanglement negativity perspective**|Keisuke Kataoka et.al.|[2604.22521](http://arxiv.org/abs/2604.22521)|null|
+|**2026-04-24**|**Boundary-Aware Stabilizer Scheduling for Distributed Quantum Error Correction**|Sanidhya Gupta et.al.|[2604.22471](http://arxiv.org/abs/2604.22471)|null|
 |**2026-04-23**|**Loss-biased fault-tolerant quantum error correction**|Laura Pecorari et.al.|[2604.21876](http://arxiv.org/abs/2604.21876)|null|
 |**2026-04-23**|**High-performance cellular automaton decoders for quantum repetition and toric code**|Don Winter et.al.|[2604.21866](http://arxiv.org/abs/2604.21866)|null|
 |**2026-04-23**|**Deterministic generation of grid states with programmable nonlinear bosonic circuits**|Yanis Le Fur et.al.|[2604.21824](http://arxiv.org/abs/2604.21824)|null|
@@ -4876,5 +4881,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 

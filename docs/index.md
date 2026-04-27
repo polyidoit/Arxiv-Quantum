@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -974,6 +974,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**The 0+-spectrum in rare earth nuclei within the pseudo-SU(3) shell model**|Peter O. Hess et.al.|[2604.22599](http://arxiv.org/abs/2604.22599)|null|
+|**2026-04-24**|**ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation**|Amir Hosseini et.al.|[2604.22546](http://arxiv.org/abs/2604.22546)|null|
 |**2026-04-21**|**On Threshold Compatibility Graphs**|Sheikh Azizul Hakim et.al.|[2604.20042](http://arxiv.org/abs/2604.20042)|null|
 |**2026-04-21**|**Quantum Correlations in Classical Systems**|Ghenadie N. Mardari et.al.|[2604.19940](http://arxiv.org/abs/2604.19940)|null|
 |**2026-04-17**|**Warring Contextualities -- Provably Classical vs Provably Nonclassical**|Enrico Bozzetto et.al.|[2604.14319](http://arxiv.org/abs/2604.14319)|null|
@@ -2000,6 +2002,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Quantum Circuit Partitioning For Effective Utilization of Quantum Resources**|Connor Howe et.al.|[2604.22664](http://arxiv.org/abs/2604.22664)|null|
 |**2026-04-22**|**Chaos Gated Tunneling Drives Molecular Reactivity in Astrophysical Environments**|Saptarshi G. Dastider et.al.|[2604.21005](http://arxiv.org/abs/2604.21005)|null|
 |**2026-04-22**|**Thermalization Regimes in a Chaotic Tavis-Cummings Model**|Sameer Dambal et.al.|[2604.20955](http://arxiv.org/abs/2604.20955)|null|
 |**2026-04-22**|**Arrow of Time as an indicator of Measurement-Induced Phase Transitions**|Nitay Hurvitz et.al.|[2604.20828](http://arxiv.org/abs/2604.20828)|null|
@@ -2792,6 +2795,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-24**|**Decohered color code and emerging mixed toric code by anyon proliferation: Topological entanglement negativity perspective**|Keisuke Kataoka et.al.|[2604.22521](http://arxiv.org/abs/2604.22521)|null|
+|**2026-04-24**|**Boundary-Aware Stabilizer Scheduling for Distributed Quantum Error Correction**|Sanidhya Gupta et.al.|[2604.22471](http://arxiv.org/abs/2604.22471)|null|
 |**2026-04-23**|**Loss-biased fault-tolerant quantum error correction**|Laura Pecorari et.al.|[2604.21876](http://arxiv.org/abs/2604.21876)|null|
 |**2026-04-23**|**High-performance cellular automaton decoders for quantum repetition and toric code**|Don Winter et.al.|[2604.21866](http://arxiv.org/abs/2604.21866)|null|
 |**2026-04-23**|**Deterministic generation of grid states with programmable nonlinear bosonic circuits**|Yanis Le Fur et.al.|[2604.21824](http://arxiv.org/abs/2604.21824)|null|

@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Derivation of the Born Rule and Operational Quantum Formalism in the Accessibility Framework through Boundary Reduction**|Everett Fall et.al.|[2604.27125](http://arxiv.org/abs/2604.27125)|null|
 |**2026-04-29**|**Rethinking Nonlocality: Locality, Counterfactuals, and the EPR-Bell Argument**|Partha Ghose et.al.|[2604.26916](http://arxiv.org/abs/2604.26916)|null|
 |**2026-04-29**|**All pure entangled states can lead to fully nonlocal correlations**|Martin J. Renner et.al.|[2604.26605](http://arxiv.org/abs/2604.26605)|null|
 |**2026-04-28**|**Testing a continuous-variable Bell-like inequality with a hybrid-encoded system**|Yu Meng et.al.|[2604.25901](http://arxiv.org/abs/2604.25901)|null|
@@ -980,6 +981,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Quantum integrable matrix models of spinor Bose gases in one spatial dimension**|Hannes Köper et.al.|[2604.27885](http://arxiv.org/abs/2604.27885)|null|
 |**2026-04-27**|**How Quantum Contextuality disappears in the Classical Limit**|Arthur C. R. Dutra et.al.|[2604.24735](http://arxiv.org/abs/2604.24735)|null|
 |**2026-04-29**|**Contextuality from the Projector Overlap Matrix**|Ali Can Günhan et.al.|[2604.23898](http://arxiv.org/abs/2604.23898)|null|
 |**2026-04-24**|**The 0+-spectrum in rare earth nuclei within the pseudo-SU(3) shell model**|Peter O. Hess et.al.|[2604.22599](http://arxiv.org/abs/2604.22599)|null|
@@ -2815,6 +2817,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-30**|**The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models**|Kenneth J. K. Ong et.al.|[2604.27953](http://arxiv.org/abs/2604.27953)|null|
+|**2026-04-30**|**Magnonic Gottesman-Kitaev-Preskill states**|Zi-Xu Lu et.al.|[2604.27565](http://arxiv.org/abs/2604.27565)|null|
+|**2026-04-30**|**Quantum Anonymous Secret Sharing with Permutation Invariant Codes**|Varin Sikand et.al.|[2604.27284](http://arxiv.org/abs/2604.27284)|null|
 |**2026-04-29**|**Color-Encoded Illumination for High-Speed Volumetric Scene Reconstruction**|David Novikov et.al.|[2604.26920](http://arxiv.org/abs/2604.26920)|null|
 |**2026-04-28**|**Continuous Noise Model for Quantum Circuits**|Yunos El Kaderi et.al.|[2604.26008](http://arxiv.org/abs/2604.26008)|null|
 |**2026-04-28**|**No Tile Left Behind: Multiprogramming for Surface-Code Architectures**|Archisman Ghosh et.al.|[2604.25976](http://arxiv.org/abs/2604.25976)|null|

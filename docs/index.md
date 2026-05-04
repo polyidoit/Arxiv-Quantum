@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-29**|**Derivation of the Born Rule and Operational Quantum Formalism in the Accessibility Framework through Boundary Reduction**|Everett Fall et.al.|[2604.27125](http://arxiv.org/abs/2604.27125)|null|
+|**2026-05-01**|**Derivation of the Born Rule and Operational Quantum Formalism in the Accessibility Framework through Boundary Reduction**|Everett Fall et.al.|[2604.27125](http://arxiv.org/abs/2604.27125)|null|
 |**2026-04-29**|**Rethinking Nonlocality: Locality, Counterfactuals, and the EPR-Bell Argument**|Partha Ghose et.al.|[2604.26916](http://arxiv.org/abs/2604.26916)|null|
 |**2026-04-29**|**All pure entangled states can lead to fully nonlocal correlations**|Martin J. Renner et.al.|[2604.26605](http://arxiv.org/abs/2604.26605)|null|
 |**2026-04-28**|**Testing a continuous-variable Bell-like inequality with a hybrid-encoded system**|Yu Meng et.al.|[2604.25901](http://arxiv.org/abs/2604.25901)|null|
@@ -1275,6 +1275,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Comment on "Controlling the dynamical evolution of quantum coherence and quantum correlations in $e^{+} e^{-} \rightarrow Λ\barΛ$ processes at BESIII''**|Saeed Haddadi et.al.|[2605.00127](http://arxiv.org/abs/2605.00127)|null|
 |**2026-04-29**|**Observation of Non-Markovian Evolution of Tripartite Quantum Steering**|Yan Wang et.al.|[2604.26711](http://arxiv.org/abs/2604.26711)|null|
 |**2026-04-16**|**Activating entanglement and EPR steering from continuous-variable resources using witness-based measures**|Kaustav Chatterjee et.al.|[2604.14757](http://arxiv.org/abs/2604.14757)|null|
 |**2026-04-01**|**Survival of nonclassical correlations in Lorentz-violating spacetime**|Yangchun Tang et.al.|[2604.00616](http://arxiv.org/abs/2604.00616)|null|
@@ -2817,6 +2818,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-04-28**|**Lottery BP: Unlocking Quantum Error Decoding at Scale**|Yanzhang Zhu et.al.|[2605.00038](http://arxiv.org/abs/2605.00038)|null|
 |**2026-04-30**|**The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models**|Kenneth J. K. Ong et.al.|[2604.27953](http://arxiv.org/abs/2604.27953)|null|
 |**2026-04-30**|**Magnonic Gottesman-Kitaev-Preskill states**|Zi-Xu Lu et.al.|[2604.27565](http://arxiv.org/abs/2604.27565)|null|
 |**2026-04-30**|**Quantum Anonymous Secret Sharing with Permutation Invariant Codes**|Varin Sikand et.al.|[2604.27284](http://arxiv.org/abs/2604.27284)|null|

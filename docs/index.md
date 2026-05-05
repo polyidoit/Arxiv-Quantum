@@ -7,8 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-02**|**Probing Quantum Entanglement in $τ^+τ^-$ Pairs via the $ππ$ Channel at STCF**|Xiaokang Li et.al.|[2605.01233](http://arxiv.org/abs/2605.01233)|null|
+|**2026-05-01**|**The minimal example of quantum network Bell nonlocality**|Erwan Don et.al.|[2605.00981](http://arxiv.org/abs/2605.00981)|null|
 |**2026-05-01**|**Derivation of the Born Rule and Operational Quantum Formalism in the Accessibility Framework through Boundary Reduction**|Everett Fall et.al.|[2604.27125](http://arxiv.org/abs/2604.27125)|null|
-|**2026-04-29**|**Rethinking Nonlocality: Locality, Counterfactuals, and the EPR-Bell Argument**|Partha Ghose et.al.|[2604.26916](http://arxiv.org/abs/2604.26916)|null|
+|**2026-05-02**|**Rethinking Nonlocality: Locality, Counterfactuals, and the EPR-Bell Argument**|Partha Ghose et.al.|[2604.26916](http://arxiv.org/abs/2604.26916)|null|
 |**2026-04-29**|**All pure entangled states can lead to fully nonlocal correlations**|Martin J. Renner et.al.|[2604.26605](http://arxiv.org/abs/2604.26605)|null|
 |**2026-04-28**|**Testing a continuous-variable Bell-like inequality with a hybrid-encoded system**|Yu Meng et.al.|[2604.25901](http://arxiv.org/abs/2604.25901)|null|
 |**2026-04-22**|**Bell Inequalities from Polyhedral Sampling**|Christian Staufenbiel et.al.|[2604.22859](http://arxiv.org/abs/2604.22859)|null|
@@ -667,7 +669,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-25**|**Quantum Causal Discovery via Amplitude Estimation of Kullback-Leibler Divergence**|Shabnam Sodagari et.al.|[2604.23451](http://arxiv.org/abs/2604.23451)|null|
+|**2026-05-03**|**Quantum Causal Discovery via Amplitude Estimation of Kullback-Leibler Divergence**|Shabnam Sodagari et.al.|[2604.23451](http://arxiv.org/abs/2604.23451)|null|
 |**2026-04-19**|**Classically Forbidden Signatures of Quantum Coherence in the Mesoscopic Lipkin-Meshkov-Glick Model**|Stavros Mouslopoulos et.al.|[2604.18638](http://arxiv.org/abs/2604.18638)|null|
 |**2026-04-11**|**Comparing quantum and classical finite state generators**|Prasenjit Deb et.al.|[2604.10315](http://arxiv.org/abs/2604.10315)|null|
 |**2026-04-10**|**Leggett-Garg Inequality Violations Bound Quantum Fisher Information**|Nick Abboud et.al.|[2604.09772](http://arxiv.org/abs/2604.09772)|null|
@@ -985,7 +987,7 @@ layout: default
 |**2026-04-27**|**How Quantum Contextuality disappears in the Classical Limit**|Arthur C. R. Dutra et.al.|[2604.24735](http://arxiv.org/abs/2604.24735)|null|
 |**2026-04-29**|**Contextuality from the Projector Overlap Matrix**|Ali Can Günhan et.al.|[2604.23898](http://arxiv.org/abs/2604.23898)|null|
 |**2026-04-24**|**The 0+-spectrum in rare earth nuclei within the pseudo-SU(3) shell model**|Peter O. Hess et.al.|[2604.22599](http://arxiv.org/abs/2604.22599)|null|
-|**2026-04-28**|**ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation**|Amir Hosseini et.al.|[2604.22546](http://arxiv.org/abs/2604.22546)|null|
+|**2026-05-02**|**ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation**|Amir Hosseini et.al.|[2604.22546](http://arxiv.org/abs/2604.22546)|null|
 |**2026-04-21**|**On Threshold Compatibility Graphs**|Sheikh Azizul Hakim et.al.|[2604.20042](http://arxiv.org/abs/2604.20042)|null|
 |**2026-04-21**|**Quantum Correlations in Classical Systems**|Ghenadie N. Mardari et.al.|[2604.19940](http://arxiv.org/abs/2604.19940)|null|
 |**2026-04-17**|**Warring Contextualities -- Provably Classical vs Provably Nonclassical**|Enrico Bozzetto et.al.|[2604.14319](http://arxiv.org/abs/2604.14319)|null|
@@ -2019,12 +2021,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Operator spreading and recoverability of local quantum Fisher information in a $U(1)$ -broken spin chain**|Marcin Płodzień et.al.|[2605.02774](http://arxiv.org/abs/2605.02774)|null|
+|**2026-05-04**|**Quantum scars from holographic boson stars**|Yan Liu et.al.|[2605.02446](http://arxiv.org/abs/2605.02446)|null|
+|**2026-05-03**|**On the Distortion of Partitioning Performance by Random Quantum Circuits**|Maria Gragera Garces et.al.|[2605.01974](http://arxiv.org/abs/2605.01974)|null|
 |**2026-04-28**|**Typical entanglement entropy with charge conservation**|Eugenio Bianchi et.al.|[2604.26141](http://arxiv.org/abs/2604.26141)|null|
 |**2026-04-28**|**Characterization of Thermalization Behaviour in a Generalized Aubry-André Model**|S. Mal et.al.|[2604.25983](http://arxiv.org/abs/2604.25983)|null|
 |**2026-04-28**|**Quantum memory and scrambling from the perspective of a classical neural network**|Dimitrios Maroulakos et.al.|[2604.25663](http://arxiv.org/abs/2604.25663)|null|
 |**2026-04-28**|**Continuous Reset-Induced Phase Transition in Measurement-Free Random Quantum Circuits**|Hinata Yokoyama et.al.|[2604.25640](http://arxiv.org/abs/2604.25640)|null|
 |**2026-04-27**|**Randomised measurements of a disorder-induced entanglement transition in a neutral atom quantum processor**|Apollonas S. Matsoukas-Roubeas et.al.|[2604.24854](http://arxiv.org/abs/2604.24854)|null|
-|**2026-04-26**|**Chaotic Billiard Lasers**|Takahisa Harayama et.al.|[2604.23614](http://arxiv.org/abs/2604.23614)|null|
+|**2026-05-01**|**Chaotic Billiard Lasers**|Takahisa Harayama et.al.|[2604.23614](http://arxiv.org/abs/2604.23614)|null|
 |**2026-04-24**|**Quantum Circuit Partitioning For Effective Utilization of Quantum Resources**|Connor Howe et.al.|[2604.22664](http://arxiv.org/abs/2604.22664)|null|
 |**2026-04-22**|**Chaos Gated Tunneling Drives Molecular Reactivity in Astrophysical Environments**|Saptarshi G. Dastider et.al.|[2604.21005](http://arxiv.org/abs/2604.21005)|null|
 |**2026-04-27**|**Thermalization Regimes in a Chaotic Tavis-Cummings Model**|Sameer Dambal et.al.|[2604.20955](http://arxiv.org/abs/2604.20955)|null|

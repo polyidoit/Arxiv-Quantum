@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2818,6 +2818,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-04**|**Opportunities and challenges in scaling quantum error detection on hardware**|Yanis Le Fur et.al.|[2605.02861](http://arxiv.org/abs/2605.02861)|null|
+|**2026-05-04**|**Construction of Quantum Rank-Metric Codes Using Hermitian Orthogonality**|Ryota Nizuka et.al.|[2605.02571](http://arxiv.org/abs/2605.02571)|null|
+|**2026-05-03**|**Exponential speedups in fault-tolerant processing of quantum experiments**|Ishaan Kannan et.al.|[2605.02057](http://arxiv.org/abs/2605.02057)|null|
+|**2026-05-02**|**From Qubit to Qubit: A Graduate Course in Quantum Mechanics**|Jeremy Levy et.al.|[2605.01585](http://arxiv.org/abs/2605.01585)|null|
+|**2026-05-01**|**A Scalable FPGA Architecture for Real-Time Decoding of Quantum LDPC Codes Using GARI**|Daniel Báscones et.al.|[2605.01035](http://arxiv.org/abs/2605.01035)|null|
 |**2026-04-28**|**Lottery BP: Unlocking Quantum Error Decoding at Scale**|Yanzhang Zhu et.al.|[2605.00038](http://arxiv.org/abs/2605.00038)|null|
 |**2026-04-30**|**The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models**|Kenneth J. K. Ong et.al.|[2604.27953](http://arxiv.org/abs/2604.27953)|null|
 |**2026-04-30**|**Magnonic Gottesman-Kitaev-Preskill states**|Zi-Xu Lu et.al.|[2604.27565](http://arxiv.org/abs/2604.27565)|null|

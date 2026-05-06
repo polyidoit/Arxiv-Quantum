@@ -1,4 +1,4 @@
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Unified Framework for Quantum Resource Recycling via Instrument-Dependent Back-action**|Zinuo Cai et.al.|[2605.03513](http://arxiv.org/abs/2605.03513)|null|
+|**2026-05-04**|**Mapping correlations between quantum discord and Bell non-locality**|Robert Okuła et.al.|[2605.03194](http://arxiv.org/abs/2605.03194)|null|
 |**2026-05-02**|**Probing Quantum Entanglement in $τ^+τ^-$ Pairs via the $ππ$ Channel at STCF**|Xiaokang Li et.al.|[2605.01233](http://arxiv.org/abs/2605.01233)|null|
 |**2026-05-01**|**The minimal example of quantum network Bell nonlocality**|Erwan Don et.al.|[2605.00981](http://arxiv.org/abs/2605.00981)|null|
 |**2026-05-01**|**Derivation of the Born Rule and Operational Quantum Formalism in the Accessibility Framework through Boundary Reduction**|Everett Fall et.al.|[2604.27125](http://arxiv.org/abs/2604.27125)|null|
@@ -674,7 +676,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -990,7 +992,7 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -1286,14 +1288,14 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
 
 ## Quantum steering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-04-30**|**Comment on "Controlling the dynamical evolution of quantum coherence and quantum correlations in $e^{+} e^{-} \rightarrow Λ\barΛ$ processes at BESIII''**|Saeed Haddadi et.al.|[2605.00127](http://arxiv.org/abs/2605.00127)|null|
-|**2026-04-29**|**Observation of Non-Markovian Evolution of Tripartite Quantum Steering**|Yan Wang et.al.|[2604.26711](http://arxiv.org/abs/2604.26711)|null|
+|**2026-05-05**|**Observation of Non-Markovian Evolution of Tripartite Quantum Steering**|Yan Wang et.al.|[2604.26711](http://arxiv.org/abs/2604.26711)|null|
 |**2026-04-16**|**Activating entanglement and EPR steering from continuous-variable resources using witness-based measures**|Kaustav Chatterjee et.al.|[2604.14757](http://arxiv.org/abs/2604.14757)|null|
 |**2026-04-01**|**Survival of nonclassical correlations in Lorentz-violating spacetime**|Yangchun Tang et.al.|[2604.00616](http://arxiv.org/abs/2604.00616)|null|
 |**2026-03-26**|**Can every set of incompatible measurements lead to genuine multipartite steering?**|Lucas E. A. Porto et.al.|[2603.25345](http://arxiv.org/abs/2603.25345)|null|
@@ -1481,7 +1483,7 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
 
 ## Resource theory
 
@@ -2034,12 +2036,13 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Page Curve for Local-Operator Entanglement from Free Probability**|Neil Dowling et.al.|[2605.02995](http://arxiv.org/abs/2605.02995)|null|
 |**2026-05-04**|**Operator spreading and recoverability of local quantum Fisher information in a $U(1)$ -broken spin chain**|Marcin Płodzień et.al.|[2605.02774](http://arxiv.org/abs/2605.02774)|null|
 |**2026-05-04**|**Quantum scars from holographic boson stars**|Yan Liu et.al.|[2605.02446](http://arxiv.org/abs/2605.02446)|null|
 |**2026-05-03**|**On the Distortion of Partitioning Performance by Random Quantum Circuits**|Maria Gragera Garces et.al.|[2605.01974](http://arxiv.org/abs/2605.01974)|null|
@@ -2836,7 +2839,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -2844,6 +2847,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-05**|**FTPrimitiveBench: A Benchmark Suite For Logical Computation Under Hardware-Motivated and Biased Noise Models**|Shuwen Kan et.al.|[2605.04049](http://arxiv.org/abs/2605.04049)|null|
+|**2026-05-05**|**Space-Time Tradeoffs of Pauli-Based Computation in Distributed qLDPC Architectures**|Naphan Benchasattabuse et.al.|[2605.03854](http://arxiv.org/abs/2605.03854)|null|
+|**2026-05-05**|**Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices**|Alessio Baldelli et.al.|[2605.03631](http://arxiv.org/abs/2605.03631)|null|
+|**2026-05-04**|**Mitigating Classical Resource Costs in Quantum Error Correction via Generalized qLDPC Predecoding**|Alexander Knapen et.al.|[2605.03180](http://arxiv.org/abs/2605.03180)|null|
+|**2026-05-04**|**Closed form logical error rate approximations for surface codes**|Shaked Regev et.al.|[2605.03054](http://arxiv.org/abs/2605.03054)|null|
 |**2026-05-04**|**Opportunities and challenges in scaling quantum error detection on hardware**|Yanis Le Fur et.al.|[2605.02861](http://arxiv.org/abs/2605.02861)|null|
 |**2026-05-04**|**Construction of Quantum Rank-Metric Codes Using Hermitian Orthogonality**|Ryota Nizuka et.al.|[2605.02571](http://arxiv.org/abs/2605.02571)|null|
 |**2026-05-03**|**Exponential speedups in fault-tolerant processing of quantum experiments**|Ishaan Kannan et.al.|[2605.02057](http://arxiv.org/abs/2605.02057)|null|
@@ -4931,5 +4939,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
 

@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Robust certification of high-dimensional quantum devices**|Javier Fernández et.al.|[2605.04338](http://arxiv.org/abs/2605.04338)|null|
 |**2026-05-05**|**Unified Framework for Quantum Resource Recycling via Instrument-Dependent Back-action**|Zinuo Cai et.al.|[2605.03513](http://arxiv.org/abs/2605.03513)|null|
 |**2026-05-04**|**Mapping correlations between quantum discord and Bell non-locality**|Robert Okuła et.al.|[2605.03194](http://arxiv.org/abs/2605.03194)|null|
 |**2026-05-02**|**Probing Quantum Entanglement in $τ^+τ^-$ Pairs via the $ππ$ Channel at STCF**|Xiaokang Li et.al.|[2605.01233](http://arxiv.org/abs/2605.01233)|null|
@@ -671,6 +672,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Causal-Order Identification of Memoryless Sequential Quantum Processes from Restricted Projective Data**|Masahito Hayashi et.al.|[2605.04571](http://arxiv.org/abs/2605.04571)|null|
 |**2026-05-03**|**Quantum Causal Discovery via Amplitude Estimation of Kullback-Leibler Divergence**|Shabnam Sodagari et.al.|[2604.23451](http://arxiv.org/abs/2604.23451)|null|
 |**2026-04-19**|**Classically Forbidden Signatures of Quantum Coherence in the Mesoscopic Lipkin-Meshkov-Glick Model**|Stavros Mouslopoulos et.al.|[2604.18638](http://arxiv.org/abs/2604.18638)|null|
 |**2026-04-11**|**Comparing quantum and classical finite state generators**|Prasenjit Deb et.al.|[2604.10315](http://arxiv.org/abs/2604.10315)|null|
@@ -1279,6 +1281,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Dephasing Effects on the Dynamical Evolution of Quantum Correlations and Coherence in Neutrino Oscillations**|Omar Bachain et.al.|[2605.05015](http://arxiv.org/abs/2605.05015)|null|
+|**2026-05-05**|**Robust certification of high-dimensional quantum devices**|Javier Fernández et.al.|[2605.04338](http://arxiv.org/abs/2605.04338)|null|
 |**2026-04-30**|**Comment on "Controlling the dynamical evolution of quantum coherence and quantum correlations in $e^{+} e^{-} \rightarrow Λ\barΛ$ processes at BESIII''**|Saeed Haddadi et.al.|[2605.00127](http://arxiv.org/abs/2605.00127)|null|
 |**2026-05-05**|**Observation of Non-Markovian Evolution of Tripartite Quantum Steering**|Yan Wang et.al.|[2604.26711](http://arxiv.org/abs/2604.26711)|null|
 |**2026-04-16**|**Activating entanglement and EPR steering from continuous-variable resources using witness-based measures**|Kaustav Chatterjee et.al.|[2604.14757](http://arxiv.org/abs/2604.14757)|null|
@@ -2023,6 +2027,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Network-Mediated Capacitive Coupling Drives Fast OTOC Saturation in Superconducting Circuits**|Carla Caro Villanova et.al.|[2605.05035](http://arxiv.org/abs/2605.05035)|null|
 |**2026-05-04**|**Page Curve for Local-Operator Entanglement from Free Probability**|Neil Dowling et.al.|[2605.02995](http://arxiv.org/abs/2605.02995)|null|
 |**2026-05-04**|**Operator spreading and recoverability of local quantum Fisher information in a $U(1)$ -broken spin chain**|Marcin Płodzień et.al.|[2605.02774](http://arxiv.org/abs/2605.02774)|null|
 |**2026-05-04**|**Quantum scars from holographic boson stars**|Yan Liu et.al.|[2605.02446](http://arxiv.org/abs/2605.02446)|null|
@@ -2826,7 +2831,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
-|**2026-05-05**|**FTPrimitiveBench: A Benchmark Suite For Logical Computation Under Hardware-Motivated and Biased Noise Models**|Shuwen Kan et.al.|[2605.04049](http://arxiv.org/abs/2605.04049)|null|
+|**2026-05-06**|**Block Permutation Routing on Ramanujan Hypergraphs for Fault-Tolerant Quantum Computing**|Joshua M. Courtney et.al.|[2605.05036](http://arxiv.org/abs/2605.05036)|null|
+|**2026-05-06**|**Real-time Surface-Code Error Correction Using an FPGA-based Neural-Network Decoder**|Xiaohan Yang et.al.|[2605.04892](http://arxiv.org/abs/2605.04892)|null|
+|**2026-05-06**|**Distributed Quantum Error Correction with Bivariate Bicycle Codes in a Modular Architecture**|Nitish Kumar Chandra et.al.|[2605.04663](http://arxiv.org/abs/2605.04663)|null|
+|**2026-05-06**|**Fundamental Limitations of Post-Quantum Cryptographic Architectures**|Jiho Jung et.al.|[2605.04582](http://arxiv.org/abs/2605.04582)|null|
+|**2026-05-06**|**Triage: An Adaptive Parallel Window Decoding Scheduler for Real-time Fault-Tolerant Quantum Computation**|Jiahan Chen et.al.|[2605.04459](http://arxiv.org/abs/2605.04459)|null|
+|**2026-05-05**|**Energy-error tradeoff in encoding quantum error correction**|Josey Stevens et.al.|[2605.04329](http://arxiv.org/abs/2605.04329)|null|
+|**2026-05-05**|**Topological subsystem bivariate bicycle codes with four-qubit check operators**|Zijian Liang et.al.|[2605.04151](http://arxiv.org/abs/2605.04151)|null|
+|**2026-05-06**|**FTPrimitiveBench: A Benchmark Suite For Logical Computation Under Hardware-Motivated and Biased Noise Models**|Shuwen Kan et.al.|[2605.04049](http://arxiv.org/abs/2605.04049)|null|
 |**2026-05-05**|**Space-Time Tradeoffs of Pauli-Based Computation in Distributed qLDPC Architectures**|Naphan Benchasattabuse et.al.|[2605.03854](http://arxiv.org/abs/2605.03854)|null|
 |**2026-05-05**|**Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices**|Alessio Baldelli et.al.|[2605.03631](http://arxiv.org/abs/2605.03631)|null|
 |**2026-05-04**|**Mitigating Classical Resource Costs in Quantum Error Correction via Generalized qLDPC Predecoding**|Alexander Knapen et.al.|[2605.03180](http://arxiv.org/abs/2605.03180)|null|

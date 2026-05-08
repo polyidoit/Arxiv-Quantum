@@ -1,4 +1,4 @@
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -677,7 +677,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -994,12 +994,13 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**A transition in the hole probability at finite temperature for free fermions in $d$ dimensions**|Giuseppe Del Vecchio Del Vecchio et.al.|[2605.05431](http://arxiv.org/abs/2605.05431)|null|
 |**2026-04-30**|**Quantum integrable matrix models of spinor Bose gases in one spatial dimension**|Hannes Köper et.al.|[2604.27885](http://arxiv.org/abs/2604.27885)|null|
 |**2026-04-27**|**How Quantum Contextuality disappears in the Classical Limit**|Arthur C. R. Dutra et.al.|[2604.24735](http://arxiv.org/abs/2604.24735)|null|
 |**2026-04-29**|**Contextuality from the Projector Overlap Matrix**|Ali Can Günhan et.al.|[2604.23898](http://arxiv.org/abs/2604.23898)|null|
@@ -1290,7 +1291,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1487,7 +1488,7 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## Resource theory
 
@@ -2040,7 +2041,7 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -2844,7 +2845,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -2852,6 +2853,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-07**|**Affine Subcode Ensemble Decoding for Degeneracy-Aware Quantum Error Correction**|Leo Wursthorn et.al.|[2605.06547](http://arxiv.org/abs/2605.06547)|null|
+|**2026-05-07**|**Meromorphic Quantum Computing**|Simon Burton et.al.|[2605.06251](http://arxiv.org/abs/2605.06251)|null|
+|**2026-05-07**|**Syndrome resampling enhances quantum error correction thresholds**|Luis Colmenarez et.al.|[2605.06101](http://arxiv.org/abs/2605.06101)|null|
+|**2026-05-07**|**Surface-Code Thresholds and Qubit Footprints in Shuttling-Based Spin-Qubit Railways**|Arun John Moncy et.al.|[2605.05881](http://arxiv.org/abs/2605.05881)|null|
+|**2026-05-07**|**Infinite families of constacyclic codes supporting 3-designs and their applications in coding theory**|Hongsheng Hu et.al.|[2605.05613](http://arxiv.org/abs/2605.05613)|null|
 |**2026-05-06**|**Block Permutation Routing on Ramanujan Hypergraphs for Fault-Tolerant Quantum Computing**|Joshua M. Courtney et.al.|[2605.05036](http://arxiv.org/abs/2605.05036)|null|
 |**2026-05-06**|**Real-time Surface-Code Error Correction Using an FPGA-based Neural-Network Decoder**|Xiaohan Yang et.al.|[2605.04892](http://arxiv.org/abs/2605.04892)|null|
 |**2026-05-06**|**Distributed Quantum Error Correction with Bivariate Bicycle Codes in a Modular Architecture**|Nitish Kumar Chandra et.al.|[2605.04663](http://arxiv.org/abs/2605.04663)|null|
@@ -4951,5 +4957,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 

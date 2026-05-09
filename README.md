@@ -2047,7 +2047,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-06**|**Network-Mediated Capacitive Coupling Drives Fast OTOC Saturation in Superconducting Circuits**|Carla Caro Villanova et.al.|[2605.05035](http://arxiv.org/abs/2605.05035)|null|
+|**2026-05-07**|**Non-planar corrections in the symmetric orbifold**|Matthias R. Gaberdiel et.al.|[2605.06465](http://arxiv.org/abs/2605.06465)|null|
+|**2026-05-07**|**Network-Mediated Capacitive Coupling Drives Fast OTOC Saturation in Superconducting Circuits**|Carla Caro Villanova et.al.|[2605.05035](http://arxiv.org/abs/2605.05035)|null|
 |**2026-05-04**|**Page Curve for Local-Operator Entanglement from Free Probability**|Neil Dowling et.al.|[2605.02995](http://arxiv.org/abs/2605.02995)|null|
 |**2026-05-04**|**Operator spreading and recoverability of local quantum Fisher information in a $U(1)$ -broken spin chain**|Marcin Płodzień et.al.|[2605.02774](http://arxiv.org/abs/2605.02774)|null|
 |**2026-05-04**|**Quantum scars from holographic boson stars**|Yan Liu et.al.|[2605.02446](http://arxiv.org/abs/2605.02446)|null|

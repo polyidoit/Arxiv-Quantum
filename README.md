@@ -1,4 +1,4 @@
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**Randomness is sometimes necessary for coordination**|Rohan Patil et.al.|[2605.06825](http://arxiv.org/abs/2605.06825)|null|
 |**2026-05-05**|**Robust certification of high-dimensional quantum devices**|Javier Fernández et.al.|[2605.04338](http://arxiv.org/abs/2605.04338)|null|
 |**2026-05-05**|**Unified Framework for Quantum Resource Recycling via Instrument-Dependent Back-action**|Zinuo Cai et.al.|[2605.03513](http://arxiv.org/abs/2605.03513)|null|
 |**2026-05-04**|**Mapping correlations between quantum discord and Bell non-locality**|Robert Okuła et.al.|[2605.03194](http://arxiv.org/abs/2605.03194)|null|
@@ -677,12 +678,13 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 ## Quantum causal model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Decoherence without the state: A causal quantum Darwinist approach**|Nick Ormrod et.al.|[2605.07090](http://arxiv.org/abs/2605.07090)|null|
 |**2026-05-06**|**Causal-Order Identification of Memoryless Sequential Quantum Processes from Restricted Projective Data**|Masahito Hayashi et.al.|[2605.04571](http://arxiv.org/abs/2605.04571)|null|
 |**2026-05-03**|**Quantum Causal Discovery via Amplitude Estimation of Kullback-Leibler Divergence**|Shabnam Sodagari et.al.|[2604.23451](http://arxiv.org/abs/2604.23451)|null|
 |**2026-04-19**|**Classically Forbidden Signatures of Quantum Coherence in the Mesoscopic Lipkin-Meshkov-Glick Model**|Stavros Mouslopoulos et.al.|[2604.18638](http://arxiv.org/abs/2604.18638)|null|
@@ -994,7 +996,7 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -1291,7 +1293,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1488,12 +1490,13 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Elastocapillary morphing of self-encapsulated droplets floating at the oil-air interface**|D. Andrini et.al.|[2605.07759](http://arxiv.org/abs/2605.07759)|null|
 |**2026-04-29**|**A Matrix-Free Galerkin Multigrid Solver and Failure-Mode Screen for Single-GPU 3D SIMP Linear Systems**|Shaoliang Yang et.al.|[2604.26441](http://arxiv.org/abs/2604.26441)|null|
 |**2026-04-29**|**Nitrogen-induced ELM suppression and confinement improvement in the EAST tokamak with a full metal wall**|Jingyan Hu et.al.|[2604.26403](http://arxiv.org/abs/2604.26403)|null|
 |**2026-04-27**|**A Class AAA Solar Testbed for Reproducible Long-Term Characterization of Energy-Harvesting Systems**|Lukas Schulthess et.al.|[2604.24950](http://arxiv.org/abs/2604.24950)|null|
@@ -2041,7 +2044,7 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -2846,7 +2849,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -2854,7 +2857,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
-|**2026-05-07**|**Affine Subcode Ensemble Decoding for Degeneracy-Aware Quantum Error Correction**|Leo Wursthorn et.al.|[2605.06547](http://arxiv.org/abs/2605.06547)|null|
+|**2026-05-08**|**Error Correction of Beamsplitter-Generated Entangled GKP States**|Moritz Fontboté-Schmidt et.al.|[2605.08009](http://arxiv.org/abs/2605.08009)|null|
+|**2026-05-08**|**Price and Payoff: Non-Determinism in Fault Tolerant Quantum Computation**|Aditi Awasthi et.al.|[2605.07983](http://arxiv.org/abs/2605.07983)|null|
+|**2026-05-08**|**SpatialPrompt: XR-Based Spatial Intent Expression as Executable Constraints for AI Generative 3D Design**|Yichen Andy Yu et.al.|[2605.07894](http://arxiv.org/abs/2605.07894)|null|
+|**2026-05-07**|**Mid-Circuit Measurements for Clifford Noise Reduction in Hamiltonian Simulations**|James Brown et.al.|[2605.06792](http://arxiv.org/abs/2605.06792)|null|
+|**2026-05-08**|**Affine Subcode Ensemble Decoding for Degeneracy-Aware Quantum Error Correction**|Leo Wursthorn et.al.|[2605.06547](http://arxiv.org/abs/2605.06547)|null|
 |**2026-05-07**|**Meromorphic Quantum Computing**|Simon Burton et.al.|[2605.06251](http://arxiv.org/abs/2605.06251)|null|
 |**2026-05-07**|**Syndrome resampling enhances quantum error correction thresholds**|Luis Colmenarez et.al.|[2605.06101](http://arxiv.org/abs/2605.06101)|null|
 |**2026-05-07**|**Surface-Code Thresholds and Qubit Footprints in Shuttling-Based Spin-Qubit Railways**|Arun John Moncy et.al.|[2605.05881](http://arxiv.org/abs/2605.05881)|null|
@@ -4958,5 +4965,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 

@@ -2863,6 +2863,9 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-11**|**Crystallographic Symmetry Generates Phononic Holonomic Gates with Biased-Erasure Channels**|El Mustapha Mansouri et.al.|[2605.10932](http://arxiv.org/abs/2605.10932)|null|
+|**2026-05-11**|**Multi-Qubit Stabilizer Readout on a Dual-Species Rydberg Array**|Yu Wang et.al.|[2605.10924](http://arxiv.org/abs/2605.10924)|null|
+|**2026-05-11**|**Emergence of synthetic twist defects in the surface code under local perturbation**|Paul Kairys et.al.|[2605.10839](http://arxiv.org/abs/2605.10839)|null|
 |**2026-05-09**|**DART-Q : A Deadline-Driven Framework for Real-Time QLDPC Decoding**|Ameya S. Bhave et.al.|[2605.09142](http://arxiv.org/abs/2605.09142)|null|
 |**2026-05-09**|**An exact spacetime polymer gas for finite-temperature $\mathbb Z_N$ homological quantum code**|Nafiz Ishtiaque et.al.|[2605.09122](http://arxiv.org/abs/2605.09122)|null|
 |**2026-05-09**|**On Codes with Support-Constrained Parity Checks**|Barron Han et.al.|[2605.08644](http://arxiv.org/abs/2605.08644)|null|

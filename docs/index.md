@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-10**|**Violation of Bell inequalities in $2\times3$ dimensional systems**|Pawel Caban et.al.|[2605.09474](http://arxiv.org/abs/2605.09474)|null|
+|**2026-05-08**|**Bipartite temporal Bell inequality for squeezed coherent state of inflationary perturbations**|Aurindam Mondal et.al.|[2605.08428](http://arxiv.org/abs/2605.08428)|null|
 |**2026-05-07**|**Randomness is sometimes necessary for coordination**|Rohan Patil et.al.|[2605.06825](http://arxiv.org/abs/2605.06825)|null|
 |**2026-05-05**|**Robust certification of high-dimensional quantum devices**|Javier Fernández et.al.|[2605.04338](http://arxiv.org/abs/2605.04338)|null|
 |**2026-05-05**|**Unified Framework for Quantum Resource Recycling via Instrument-Dependent Back-action**|Zinuo Cai et.al.|[2605.03513](http://arxiv.org/abs/2605.03513)|null|
@@ -673,6 +675,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Higher-order quantum processes respecting closed labs in a spacetime have quantum controlled causal order**|Matthias Salzger et.al.|[2605.08351](http://arxiv.org/abs/2605.08351)|null|
 |**2026-05-08**|**Decoherence without the state: A causal quantum Darwinist approach**|Nick Ormrod et.al.|[2605.07090](http://arxiv.org/abs/2605.07090)|null|
 |**2026-05-06**|**Causal-Order Identification of Memoryless Sequential Quantum Processes from Restricted Projective Data**|Masahito Hayashi et.al.|[2605.04571](http://arxiv.org/abs/2605.04571)|null|
 |**2026-05-03**|**Quantum Causal Discovery via Amplitude Estimation of Kullback-Leibler Divergence**|Shabnam Sodagari et.al.|[2604.23451](http://arxiv.org/abs/2604.23451)|null|
@@ -1479,6 +1482,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-09**|**HyDRA Scorpion: A Cost-effective and Modular ROV for Real-Time Underwater Inspection, Intervention, and Object Detection**|Anika Tabassum Orchi et.al.|[2605.09093](http://arxiv.org/abs/2605.09093)|null|
+|**2026-05-09**|**Resource theory of coherence in continuous position basis from measurement-induced dephasing**|Karol Sajnok et.al.|[2605.09014](http://arxiv.org/abs/2605.09014)|null|
 |**2026-05-08**|**Elastocapillary morphing of self-encapsulated droplets floating at the oil-air interface**|D. Andrini et.al.|[2605.07759](http://arxiv.org/abs/2605.07759)|null|
 |**2026-04-29**|**A Matrix-Free Galerkin Multigrid Solver and Failure-Mode Screen for Single-GPU 3D SIMP Linear Systems**|Shaoliang Yang et.al.|[2604.26441](http://arxiv.org/abs/2604.26441)|null|
 |**2026-04-29**|**Nitrogen-induced ELM suppression and confinement improvement in the EAST tokamak with a full metal wall**|Jingyan Hu et.al.|[2604.26403](http://arxiv.org/abs/2604.26403)|null|
@@ -2031,12 +2036,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-10**|**Optimal Approximation of Single Qubit Rotations within a Quantum Circuit**|Gilad Kishony et.al.|[2605.09671](http://arxiv.org/abs/2605.09671)|null|
 |**2026-05-07**|**Non-planar corrections in the symmetric orbifold**|Matthias R. Gaberdiel et.al.|[2605.06465](http://arxiv.org/abs/2605.06465)|null|
 |**2026-05-07**|**Network-Mediated Capacitive Coupling Drives Fast OTOC Saturation in Superconducting Circuits**|Carla Caro Villanova et.al.|[2605.05035](http://arxiv.org/abs/2605.05035)|null|
 |**2026-05-04**|**Page Curve for Local-Operator Entanglement from Free Probability**|Neil Dowling et.al.|[2605.02995](http://arxiv.org/abs/2605.02995)|null|
 |**2026-05-04**|**Operator spreading and recoverability of local quantum Fisher information in a $U(1)$ -broken spin chain**|Marcin Płodzień et.al.|[2605.02774](http://arxiv.org/abs/2605.02774)|null|
 |**2026-05-04**|**Quantum scars from holographic boson stars**|Yan Liu et.al.|[2605.02446](http://arxiv.org/abs/2605.02446)|null|
-|**2026-05-03**|**On the Distortion of Partitioning Performance by Random Quantum Circuits**|Maria Gragera Garces et.al.|[2605.01974](http://arxiv.org/abs/2605.01974)|null|
+|**2026-05-11**|**On the Distortion of Partitioning Performance by Random Quantum Circuits**|Maria Gragera Garces et.al.|[2605.01974](http://arxiv.org/abs/2605.01974)|null|
 |**2026-04-28**|**Typical entanglement entropy with charge conservation**|Eugenio Bianchi et.al.|[2604.26141](http://arxiv.org/abs/2604.26141)|null|
 |**2026-04-28**|**Characterization of Thermalization Behaviour in a Generalized Aubry-André Model**|S. Mal et.al.|[2604.25983](http://arxiv.org/abs/2604.25983)|null|
 |**2026-04-28**|**Quantum memory and scrambling from the perspective of a classical neural network**|Dimitrios Maroulakos et.al.|[2604.25663](http://arxiv.org/abs/2604.25663)|null|
@@ -2836,6 +2842,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-09**|**DART-Q : A Deadline-Driven Framework for Real-Time QLDPC Decoding**|Ameya S. Bhave et.al.|[2605.09142](http://arxiv.org/abs/2605.09142)|null|
+|**2026-05-09**|**An exact spacetime polymer gas for finite-temperature $\mathbb Z_N$ homological quantum code**|Nafiz Ishtiaque et.al.|[2605.09122](http://arxiv.org/abs/2605.09122)|null|
+|**2026-05-09**|**On Codes with Support-Constrained Parity Checks**|Barron Han et.al.|[2605.08644](http://arxiv.org/abs/2605.08644)|null|
+|**2026-05-08**|**Quantum metrology via partial quantum error correction**|Yinan Chen et.al.|[2605.08341](http://arxiv.org/abs/2605.08341)|null|
 |**2026-05-08**|**Error Correction of Beamsplitter-Generated Entangled GKP States**|Moritz Fontboté-Schmidt et.al.|[2605.08009](http://arxiv.org/abs/2605.08009)|null|
 |**2026-05-08**|**Price and Payoff: Non-Determinism in Fault Tolerant Quantum Computation**|Aditi Awasthi et.al.|[2605.07983](http://arxiv.org/abs/2605.07983)|null|
 |**2026-05-08**|**SpatialPrompt: XR-Based Spatial Intent Expression as Executable Constraints for AI Generative 3D Design**|Yichen Andy Yu et.al.|[2605.07894](http://arxiv.org/abs/2605.07894)|null|

@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Thermodynamic value of CHSH-induced side-information channels in a Szilard engine**|Piotr Ćwikliński et.al.|[2605.12044](http://arxiv.org/abs/2605.12044)|null|
+|**2026-05-12**|**Quantumness of top quark pairs produced at LHC within SMEFT framework**|Amir Subba et.al.|[2605.12033](http://arxiv.org/abs/2605.12033)|null|
+|**2026-05-12**|**Correlations Between Quantum Battery Capacity and Quantum Resources for Two-qubit System**|Yiding Wang et.al.|[2605.11399](http://arxiv.org/abs/2605.11399)|null|
+|**2026-05-11**|**Characterizing quantum correlations and quantum teleportation in $gg \to t\bar{t}$ and $q\bar{q} \to t\bar{t}$ processes under noisy channels**|Elhabib Jaloum et.al.|[2605.11323](http://arxiv.org/abs/2605.11323)|null|
 |**2026-05-10**|**Violation of Bell inequalities in $2\times3$ dimensional systems**|Pawel Caban et.al.|[2605.09474](http://arxiv.org/abs/2605.09474)|null|
 |**2026-05-08**|**Bipartite temporal Bell inequality for squeezed coherent state of inflationary perturbations**|Aurindam Mondal et.al.|[2605.08428](http://arxiv.org/abs/2605.08428)|null|
 |**2026-05-07**|**Randomness is sometimes necessary for coordination**|Rohan Patil et.al.|[2605.06825](http://arxiv.org/abs/2605.06825)|null|
@@ -2036,6 +2040,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Lecture Notes on Replica Tensor Networks for Random Quantum Circuits**|Xhek Turkeshi et.al.|[2605.11150](http://arxiv.org/abs/2605.11150)|null|
 |**2026-05-10**|**Optimal Approximation of Single Qubit Rotations within a Quantum Circuit**|Gilad Kishony et.al.|[2605.09671](http://arxiv.org/abs/2605.09671)|null|
 |**2026-05-07**|**Non-planar corrections in the symmetric orbifold**|Matthias R. Gaberdiel et.al.|[2605.06465](http://arxiv.org/abs/2605.06465)|null|
 |**2026-05-07**|**Network-Mediated Capacitive Coupling Drives Fast OTOC Saturation in Superconducting Circuits**|Carla Caro Villanova et.al.|[2605.05035](http://arxiv.org/abs/2605.05035)|null|
@@ -2842,6 +2847,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-12**|**Lower overhead fault-tolerant building blocks for noisy quantum computers**|Prithviraj Prabhu et.al.|[2605.12385](http://arxiv.org/abs/2605.12385)|null|
+|**2026-05-12**|**Rethink the Role of Neural Decoders in Quantum Error Correction**|Ge Yan et.al.|[2605.12046](http://arxiv.org/abs/2605.12046)|null|
+|**2026-05-12**|**Breaking the scalability barrier via a vertical tunable coupler in 3D integrated transmon system**|Xudong Liao et.al.|[2605.11488](http://arxiv.org/abs/2605.11488)|null|
+|**2026-05-11**|**Spatial overhead reduction for 2D hypergraph product codes**|Aarav Pabla et.al.|[2605.11318](http://arxiv.org/abs/2605.11318)|null|
+|**2026-05-11**|**Distributed estimation of many-body Hamiltonians via punctured surface code**|Linmu Qiao et.al.|[2605.11092](http://arxiv.org/abs/2605.11092)|null|
+|**2026-05-11**|**Tolerating Device Failure in Distributed Quantum Computing**|Evan Sutcliffe et.al.|[2605.11088](http://arxiv.org/abs/2605.11088)|null|
 |**2026-05-11**|**Crystallographic Symmetry Generates Phononic Holonomic Gates with Biased-Erasure Channels**|El Mustapha Mansouri et.al.|[2605.10932](http://arxiv.org/abs/2605.10932)|null|
 |**2026-05-11**|**Multi-Qubit Stabilizer Readout on a Dual-Species Rydberg Array**|Yu Wang et.al.|[2605.10924](http://arxiv.org/abs/2605.10924)|null|
 |**2026-05-11**|**Emergence of synthetic twist defects in the surface code under local perturbation**|Paul Kairys et.al.|[2605.10839](http://arxiv.org/abs/2605.10839)|null|

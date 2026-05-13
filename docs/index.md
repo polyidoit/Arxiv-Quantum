@@ -679,6 +679,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Leggett--Garg Tests in Neural Dynamics: Probing Non-Diffusive Stochastic Structure in Single Neurons**|Partha Ghose et.al.|[2605.12126](http://arxiv.org/abs/2605.12126)|null|
 |**2026-05-08**|**Higher-order quantum processes respecting closed labs in a spacetime have quantum controlled causal order**|Matthias Salzger et.al.|[2605.08351](http://arxiv.org/abs/2605.08351)|null|
 |**2026-05-08**|**Decoherence without the state: A causal quantum Darwinist approach**|Nick Ormrod et.al.|[2605.07090](http://arxiv.org/abs/2605.07090)|null|
 |**2026-05-06**|**Causal-Order Identification of Memoryless Sequential Quantum Processes from Restricted Projective Data**|Masahito Hayashi et.al.|[2605.04571](http://arxiv.org/abs/2605.04571)|null|
@@ -996,6 +997,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Joint Realizability Tradeoffs Bounded by Quantum Channel Incompatibility**|Shintaro Minagawa et.al.|[2605.11924](http://arxiv.org/abs/2605.11924)|null|
+|**2026-05-11**|**Lyapunov Exponents as Duality-Invariant Signatures of Critical States**|Tong Liu et.al.|[2605.10746](http://arxiv.org/abs/2605.10746)|null|
 |**2026-05-06**|**A transition in the hole probability at finite temperature for free fermions in $d$ dimensions**|Giuseppe Del Vecchio Del Vecchio et.al.|[2605.05431](http://arxiv.org/abs/2605.05431)|null|
 |**2026-04-30**|**Quantum integrable matrix models of spinor Bose gases in one spatial dimension**|Hannes Köper et.al.|[2604.27885](http://arxiv.org/abs/2604.27885)|null|
 |**2026-04-27**|**How Quantum Contextuality disappears in the Classical Limit**|Arthur C. R. Dutra et.al.|[2604.24735](http://arxiv.org/abs/2604.24735)|null|
@@ -1291,6 +1294,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**U-STS-LLM A Unified Spatio-Temporal Steered Large Language Model for Traffic Prediction and Imputation**|Yichen Zhang et.al.|[2605.11735](http://arxiv.org/abs/2605.11735)|null|
+|**2026-05-11**|**Characterizing quantum correlations and quantum teleportation in $gg \to t\bar{t}$ and $q\bar{q} \to t\bar{t}$ processes under noisy channels**|Elhabib Jaloum et.al.|[2605.11323](http://arxiv.org/abs/2605.11323)|null|
 |**2026-05-06**|**Dephasing Effects on the Dynamical Evolution of Quantum Correlations and Coherence in Neutrino Oscillations**|Omar Bachain et.al.|[2605.05015](http://arxiv.org/abs/2605.05015)|null|
 |**2026-05-05**|**Robust certification of high-dimensional quantum devices**|Javier Fernández et.al.|[2605.04338](http://arxiv.org/abs/2605.04338)|null|
 |**2026-04-30**|**Comment on "Controlling the dynamical evolution of quantum coherence and quantum correlations in $e^{+} e^{-} \rightarrow Λ\barΛ$ processes at BESIII''**|Saeed Haddadi et.al.|[2605.00127](http://arxiv.org/abs/2605.00127)|null|
@@ -1486,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Grounding by Remembering: Cross-Scene and In-Scene Memory for 3D Functional Affordances**|Qirui Wang et.al.|[2605.11616](http://arxiv.org/abs/2605.11616)|null|
 |**2026-05-09**|**HyDRA Scorpion: A Cost-effective and Modular ROV for Real-Time Underwater Inspection, Intervention, and Object Detection**|Anika Tabassum Orchi et.al.|[2605.09093](http://arxiv.org/abs/2605.09093)|null|
 |**2026-05-09**|**Resource theory of coherence in continuous position basis from measurement-induced dephasing**|Karol Sajnok et.al.|[2605.09014](http://arxiv.org/abs/2605.09014)|null|
 |**2026-05-08**|**Elastocapillary morphing of self-encapsulated droplets floating at the oil-air interface**|D. Andrini et.al.|[2605.07759](http://arxiv.org/abs/2605.07759)|null|

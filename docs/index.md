@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -679,6 +679,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Violations of the Leggett-Garg inequality in Hybrid Liouvillian Dynamics: The Nonlinear Role of Detector Efficiency**|Sourav Paul et.al.|[2605.13494](http://arxiv.org/abs/2605.13494)|null|
 |**2026-05-12**|**Leggett--Garg Tests in Neural Dynamics: Probing Non-Diffusive Stochastic Structure in Single Neurons**|Partha Ghose et.al.|[2605.12126](http://arxiv.org/abs/2605.12126)|null|
 |**2026-05-08**|**Higher-order quantum processes respecting closed labs in a spacetime have quantum controlled causal order**|Matthias Salzger et.al.|[2605.08351](http://arxiv.org/abs/2605.08351)|null|
 |**2026-05-08**|**Decoherence without the state: A causal quantum Darwinist approach**|Nick Ormrod et.al.|[2605.07090](http://arxiv.org/abs/2605.07090)|null|
@@ -997,6 +998,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Random Access Code protocols: Quantum advantage related to intraparticle entanglement-based contextuality**|Nilaj Saha et.al.|[2605.13350](http://arxiv.org/abs/2605.13350)|null|
+|**2026-05-12**|**The Quad- $C_5$ Graph: Maximum Contextuality Gap on Eight Vertices**|Ugur Tamer et.al.|[2605.12828](http://arxiv.org/abs/2605.12828)|null|
 |**2026-05-12**|**Joint Realizability Tradeoffs Bounded by Quantum Channel Incompatibility**|Shintaro Minagawa et.al.|[2605.11924](http://arxiv.org/abs/2605.11924)|null|
 |**2026-05-11**|**Lyapunov Exponents as Duality-Invariant Signatures of Critical States**|Tong Liu et.al.|[2605.10746](http://arxiv.org/abs/2605.10746)|null|
 |**2026-05-06**|**A transition in the hole probability at finite temperature for free fermions in $d$ dimensions**|Giuseppe Del Vecchio Del Vecchio et.al.|[2605.05431](http://arxiv.org/abs/2605.05431)|null|
@@ -1004,7 +1007,7 @@ layout: default
 |**2026-04-27**|**How Quantum Contextuality disappears in the Classical Limit**|Arthur C. R. Dutra et.al.|[2604.24735](http://arxiv.org/abs/2604.24735)|null|
 |**2026-04-29**|**Contextuality from the Projector Overlap Matrix**|Ali Can Günhan et.al.|[2604.23898](http://arxiv.org/abs/2604.23898)|null|
 |**2026-04-24**|**The 0+-spectrum in rare earth nuclei within the pseudo-SU(3) shell model**|Peter O. Hess et.al.|[2604.22599](http://arxiv.org/abs/2604.22599)|null|
-|**2026-05-02**|**ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation**|Amir Hosseini et.al.|[2604.22546](http://arxiv.org/abs/2604.22546)|null|
+|**2026-05-13**|**ReLIC-SGG: Relation Lattice Completion for Open-Vocabulary Scene Graph Generation**|Amir Hosseini et.al.|[2604.22546](http://arxiv.org/abs/2604.22546)|null|
 |**2026-04-21**|**On Threshold Compatibility Graphs**|Sheikh Azizul Hakim et.al.|[2604.20042](http://arxiv.org/abs/2604.20042)|null|
 |**2026-04-21**|**Quantum Correlations in Classical Systems**|Ghenadie N. Mardari et.al.|[2604.19940](http://arxiv.org/abs/2604.19940)|null|
 |**2026-04-17**|**Warring Contextualities -- Provably Classical vs Provably Nonclassical**|Enrico Bozzetto et.al.|[2604.14319](http://arxiv.org/abs/2604.14319)|null|
@@ -1491,6 +1494,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**In-situ tunable superconducting diode: towards field-free operation with infinite nonreciprocity**|Razmik A. Hovhannisyan et.al.|[2605.13254](http://arxiv.org/abs/2605.13254)|null|
+|**2026-05-12**|**UFO: A Domain-Unification-Free Operator Framework for Generalized Operator Learning**|Hanli Qiao et.al.|[2605.12700](http://arxiv.org/abs/2605.12700)|null|
 |**2026-05-12**|**Grounding by Remembering: Cross-Scene and In-Scene Memory for 3D Functional Affordances**|Qirui Wang et.al.|[2605.11616](http://arxiv.org/abs/2605.11616)|null|
 |**2026-05-09**|**HyDRA Scorpion: A Cost-effective and Modular ROV for Real-Time Underwater Inspection, Intervention, and Object Detection**|Anika Tabassum Orchi et.al.|[2605.09093](http://arxiv.org/abs/2605.09093)|null|
 |**2026-05-09**|**Resource theory of coherence in continuous position basis from measurement-induced dephasing**|Karol Sajnok et.al.|[2605.09014](http://arxiv.org/abs/2605.09014)|null|
@@ -2046,6 +2051,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Probing Quantum Information Scrambling via Local Randomized Measurements**|Yan-Ming Chen et.al.|[2605.13691](http://arxiv.org/abs/2605.13691)|null|
+|**2026-05-13**|**No chaos required: traversable wormhole signals survive 98% coupling deletion**|Sagar Dubey et.al.|[2605.13241](http://arxiv.org/abs/2605.13241)|null|
+|**2026-05-12**|**Butterflies in $\textrm{T}\overline{\textrm{T}}$ deformed anomalous CFT$_2$**|Debarshi Basu et.al.|[2605.12616](http://arxiv.org/abs/2605.12616)|null|
+|**2026-05-05**|**Quantum chaos with graphs: a silicon photonics plateform**|H. Girin et.al.|[2605.12538](http://arxiv.org/abs/2605.12538)|null|
 |**2026-05-11**|**Lecture Notes on Replica Tensor Networks for Random Quantum Circuits**|Xhek Turkeshi et.al.|[2605.11150](http://arxiv.org/abs/2605.11150)|null|
 |**2026-05-10**|**Optimal Approximation of Single Qubit Rotations within a Quantum Circuit**|Gilad Kishony et.al.|[2605.09671](http://arxiv.org/abs/2605.09671)|null|
 |**2026-05-07**|**Non-planar corrections in the symmetric orbifold**|Matthias R. Gaberdiel et.al.|[2605.06465](http://arxiv.org/abs/2605.06465)|null|
@@ -2853,6 +2862,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-13**|**Combining moment matrices, symmetric extension, and Lovász theta: $Φ_{\text{E8}}$ is entangled**|Jȩdrzej Stempin et.al.|[2605.13832](http://arxiv.org/abs/2605.13832)|null|
+|**2026-05-12**|**Quantum Precoded Polar Codes**|Tyler Kann et.al.|[2605.12796](http://arxiv.org/abs/2605.12796)|null|
+|**2026-05-12**|**Fermion lattices can be simulated by same-size qubit lattices with $\mathcal{O}(1)$ interaction overhead**|Gregor Aigner et.al.|[2605.12600](http://arxiv.org/abs/2605.12600)|null|
 |**2026-05-12**|**Lower overhead fault-tolerant building blocks for noisy quantum computers**|Prithviraj Prabhu et.al.|[2605.12385](http://arxiv.org/abs/2605.12385)|null|
 |**2026-05-12**|**Rethink the Role of Neural Decoders in Quantum Error Correction**|Ge Yan et.al.|[2605.12046](http://arxiv.org/abs/2605.12046)|null|
 |**2026-05-12**|**Breaking the scalability barrier via a vertical tunable coupler in 3D integrated transmon system**|Xudong Liao et.al.|[2605.11488](http://arxiv.org/abs/2605.11488)|null|

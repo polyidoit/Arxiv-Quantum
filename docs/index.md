@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.15
+## Updated on 2026.05.16
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2862,6 +2862,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-14**|**Nonlocal Topological Maxwell Demon Teleporting Ergotropy via Surface-Code Quantum Error Correction**|M. Y. Abd-Rabbou et.al.|[2605.14924](http://arxiv.org/abs/2605.14924)|null|
+|**2026-05-13**|**Linear-Time T-Gate Optimization via Random Abstraction**|Aws Albarghouthi et.al.|[2605.13929](http://arxiv.org/abs/2605.13929)|null|
 |**2026-05-13**|**Combining moment matrices, symmetric extension, and Lovász theta: $Φ_{\text{E8}}$ is entangled**|Jȩdrzej Stempin et.al.|[2605.13832](http://arxiv.org/abs/2605.13832)|null|
 |**2026-05-12**|**Quantum Precoded Polar Codes**|Tyler Kann et.al.|[2605.12796](http://arxiv.org/abs/2605.12796)|null|
 |**2026-05-12**|**Fermion lattices can be simulated by same-size qubit lattices with $\mathcal{O}(1)$ interaction overhead**|Gregor Aigner et.al.|[2605.12600](http://arxiv.org/abs/2605.12600)|null|

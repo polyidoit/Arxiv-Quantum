@@ -2051,7 +2051,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-13**|**Probing Quantum Information Scrambling via Local Randomized Measurements**|Yan-Ming Chen et.al.|[2605.13691](http://arxiv.org/abs/2605.13691)|null|
+|**2026-05-15**|**Probing Quantum Information Scrambling via Local Randomized Measurements**|Yan-Ming Chen et.al.|[2605.13691](http://arxiv.org/abs/2605.13691)|null|
 |**2026-05-13**|**No chaos required: traversable wormhole signals survive 98% coupling deletion**|Sagar Dubey et.al.|[2605.13241](http://arxiv.org/abs/2605.13241)|null|
 |**2026-05-12**|**Butterflies in $\textrm{T}\overline{\textrm{T}}$ deformed anomalous CFT$_2$**|Debarshi Basu et.al.|[2605.12616](http://arxiv.org/abs/2605.12616)|null|
 |**2026-05-05**|**Quantum chaos with graphs: a silicon photonics plateform**|H. Girin et.al.|[2605.12538](http://arxiv.org/abs/2605.12538)|null|

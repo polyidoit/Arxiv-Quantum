@@ -1299,6 +1299,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**One pure steered state implies Einstein-Podolsky-Rosen steering**|Qiu-Cheng Song et.al.|[2605.18243](http://arxiv.org/abs/2605.18243)|null|
 |**2026-05-15**|**Magic Secret Sharing: Threshold Control of Quantum Computational Power via GHZ Entanglement**|Soumyojyoti Dutta et.al.|[2605.16614](http://arxiv.org/abs/2605.16614)|null|
 |**2026-05-12**|**U-STS-LLM A Unified Spatio-Temporal Steered Large Language Model for Traffic Prediction and Imputation**|Yichen Zhang et.al.|[2605.11735](http://arxiv.org/abs/2605.11735)|null|
 |**2026-05-11**|**Characterizing quantum correlations and quantum teleportation in $gg \to t\bar{t}$ and $q\bar{q} \to t\bar{t}$ processes under noisy channels**|Elhabib Jaloum et.al.|[2605.11323](http://arxiv.org/abs/2605.11323)|null|
@@ -2055,6 +2056,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**Signatures of Quantum Chaos in the D1D5 System**|Haoyu Zhang et.al.|[2605.18725](http://arxiv.org/abs/2605.18725)|null|
 |**2026-05-18**|**Weak Fragmentation and Thermalization in a Dipole-Conserving Bose-Hubbard Chain**|Chenrong Liu et.al.|[2605.18119](http://arxiv.org/abs/2605.18119)|null|
 |**2026-05-17**|**Krylov Correlators in $\mathfrak{sl}(2,\mathbb R)$ Models: Exact Results and Holographic Complexity**|Eleonora Alfinito et.al.|[2605.17550](http://arxiv.org/abs/2605.17550)|null|
 |**2026-05-15**|**Probing Quantum Information Scrambling via Local Randomized Measurements**|Yan-Ming Chen et.al.|[2605.13691](http://arxiv.org/abs/2605.13691)|null|
@@ -2868,6 +2870,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-18**|**Precision limits for time-dependent quantum metrology under Markovian noise**|Luca Previdi et.al.|[2605.18392](http://arxiv.org/abs/2605.18392)|null|
 |**2026-05-18**|**LEAD: A Local Ensemble-Assisted Parallel Decoding Framework for Quantum Tanner Codes**|Zhuo-Yan Xiao et.al.|[2605.17796](http://arxiv.org/abs/2605.17796)|null|
 |**2026-05-17**|**Quantum Error Correction Assisted Axion Search in CMOS Spin Qubit Arrays**|Xiangjun Tan et.al.|[2605.17457](http://arxiv.org/abs/2605.17457)|null|
 |**2026-05-17**|**Maximum Likelihood Decoding of Quantum Error Correction Codes**|Hanyan Cao et.al.|[2605.17230](http://arxiv.org/abs/2605.17230)|null|

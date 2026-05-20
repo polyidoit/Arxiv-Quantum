@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.19
+## Updated on 2026.05.20
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2056,6 +2056,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**Semiclassical periodic-orbit theory for quantum spectra**|Sebastian Müller et.al.|[2605.19019](http://arxiv.org/abs/2605.19019)|null|
+|**2026-05-18**|**Noise-induced Simulability Transition from Operator Scrambling**|Neil Dowling et.al.|[2605.18943](http://arxiv.org/abs/2605.18943)|null|
 |**2026-05-18**|**Signatures of Quantum Chaos in the D1D5 System**|Haoyu Zhang et.al.|[2605.18725](http://arxiv.org/abs/2605.18725)|null|
 |**2026-05-18**|**Weak Fragmentation and Thermalization in a Dipole-Conserving Bose-Hubbard Chain**|Chenrong Liu et.al.|[2605.18119](http://arxiv.org/abs/2605.18119)|null|
 |**2026-05-17**|**Krylov Correlators in $\mathfrak{sl}(2,\mathbb R)$ Models: Exact Results and Holographic Complexity**|Eleonora Alfinito et.al.|[2605.17550](http://arxiv.org/abs/2605.17550)|null|
@@ -2870,6 +2872,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-19**|**Unveiling Energetic Advantage in Superconducting Cat-Qubits Quantum Computation**|Pedro Ramos et.al.|[2605.19854](http://arxiv.org/abs/2605.19854)|null|
+|**2026-05-19**|**Efficient Fault-Tolerant Ancilla Preparation for Quantum BCH codes via Cyclic Symmetry**|Kohei Yamamoto et.al.|[2605.19471](http://arxiv.org/abs/2605.19471)|null|
+|**2026-05-19**|**Translation-invariant quantum low-density parity-check codes from compactified fracton models**|Cassandra M. Hopkin et.al.|[2605.19298](http://arxiv.org/abs/2605.19298)|null|
+|**2026-05-18**|**A Review of Galois Qudits**|Adam Wills et.al.|[2605.18981](http://arxiv.org/abs/2605.18981)|null|
 |**2026-05-18**|**Precision limits for time-dependent quantum metrology under Markovian noise**|Luca Previdi et.al.|[2605.18392](http://arxiv.org/abs/2605.18392)|null|
 |**2026-05-18**|**LEAD: A Local Ensemble-Assisted Parallel Decoding Framework for Quantum Tanner Codes**|Zhuo-Yan Xiao et.al.|[2605.17796](http://arxiv.org/abs/2605.17796)|null|
 |**2026-05-17**|**Quantum Error Correction Assisted Axion Search in CMOS Spin Qubit Arrays**|Xiangjun Tan et.al.|[2605.17457](http://arxiv.org/abs/2605.17457)|null|

@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.05.20
+## Updated on 2026.05.21
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Quantum Nonlocality and Device-Independent Randomness are Robust to Noisy Signaling Channels**|Kuntal Sengupta et.al.|[2605.21293](http://arxiv.org/abs/2605.21293)|null|
+|**2026-05-20**|**Collapse of the state vector and nonlocal correlations in quantum mechanics**|Grgeory D. Scholes et.al.|[2605.21243](http://arxiv.org/abs/2605.21243)|null|
 |**2026-05-18**|**Integrated time-bin entangled quantum light source on a 4H-SiC microring chip**|Hong Zeng et.al.|[2605.18124](http://arxiv.org/abs/2605.18124)|null|
 |**2026-05-12**|**Thermodynamic value of CHSH-induced side-information channels in a Szilard engine**|Piotr Ćwikliński et.al.|[2605.12044](http://arxiv.org/abs/2605.12044)|null|
 |**2026-05-12**|**Quantumness of top quark pairs produced at LHC within SMEFT framework**|Amir Subba et.al.|[2605.12033](http://arxiv.org/abs/2605.12033)|null|
@@ -1498,6 +1500,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Time-To-Reach Separation and Safety Filtering for Safe, Fair, and Efficient Multi-Agent Coordination**|Matthew Low et.al.|[2605.20625](http://arxiv.org/abs/2605.20625)|null|
 |**2026-05-17**|**Brain-inspired spike-timing plasticity for reliable label-efficient event-camera vision**|Mohamad Yazan Sadoun et.al.|[2605.17686](http://arxiv.org/abs/2605.17686)|null|
 |**2026-05-13**|**In-situ tunable superconducting diode: towards field-free operation with infinite nonreciprocity**|Razmik A. Hovhannisyan et.al.|[2605.13254](http://arxiv.org/abs/2605.13254)|null|
 |**2026-05-12**|**UFO: A Domain-Unification-Free Operator Framework for Generalized Operator Learning**|Hanli Qiao et.al.|[2605.12700](http://arxiv.org/abs/2605.12700)|null|
@@ -2056,6 +2059,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Wasserstein Space of Quantum Chaos**|Koji Hashimoto et.al.|[2605.20995](http://arxiv.org/abs/2605.20995)|null|
+|**2026-05-19**|**Resource generation and dynamical complexities in open random quantum circuits**|Paranjoy Chaki et.al.|[2605.20350](http://arxiv.org/abs/2605.20350)|null|
 |**2026-05-18**|**Semiclassical periodic-orbit theory for quantum spectra**|Sebastian Müller et.al.|[2605.19019](http://arxiv.org/abs/2605.19019)|null|
 |**2026-05-18**|**Noise-induced Simulability Transition from Operator Scrambling**|Neil Dowling et.al.|[2605.18943](http://arxiv.org/abs/2605.18943)|null|
 |**2026-05-18**|**Signatures of Quantum Chaos in the D1D5 System**|Haoyu Zhang et.al.|[2605.18725](http://arxiv.org/abs/2605.18725)|null|
@@ -2872,6 +2877,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-19**|**Forced Gap Post-Selection for Quantum LDPC Codes and their Operations**|Adam Wills et.al.|[2605.20346](http://arxiv.org/abs/2605.20346)|null|
 |**2026-05-19**|**Unveiling Energetic Advantage in Superconducting Cat-Qubits Quantum Computation**|Pedro Ramos et.al.|[2605.19854](http://arxiv.org/abs/2605.19854)|null|
 |**2026-05-19**|**Efficient Fault-Tolerant Ancilla Preparation for Quantum BCH codes via Cyclic Symmetry**|Kohei Yamamoto et.al.|[2605.19471](http://arxiv.org/abs/2605.19471)|null|
 |**2026-05-19**|**Translation-invariant quantum low-density parity-check codes from compactified fracton models**|Cassandra M. Hopkin et.al.|[2605.19298](http://arxiv.org/abs/2605.19298)|null|

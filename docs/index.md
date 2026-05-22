@@ -15,6 +15,7 @@ layout: default
 |**2026-05-12**|**Correlations Between Quantum Battery Capacity and Quantum Resources for Two-qubit System**|Yiding Wang et.al.|[2605.11399](http://arxiv.org/abs/2605.11399)|null|
 |**2026-05-11**|**Characterizing quantum correlations and quantum teleportation in $gg \to t\bar{t}$ and $q\bar{q} \to t\bar{t}$ processes under noisy channels**|Elhabib Jaloum et.al.|[2605.11323](http://arxiv.org/abs/2605.11323)|null|
 |**2026-05-10**|**Violation of Bell inequalities in $2\times3$ dimensional systems**|Pawel Caban et.al.|[2605.09474](http://arxiv.org/abs/2605.09474)|null|
+|**2026-05-21**|**Battery-Explicit Thermodynamic Witnesses of Bell Post-Quantumness**|Piotr Ćwikliński et.al.|[2605.09149](http://arxiv.org/abs/2605.09149)|null|
 |**2026-05-08**|**Bipartite temporal Bell inequality for squeezed coherent state of inflationary perturbations**|Aurindam Mondal et.al.|[2605.08428](http://arxiv.org/abs/2605.08428)|null|
 |**2026-05-07**|**Randomness is sometimes necessary for coordination**|Rohan Patil et.al.|[2605.06825](http://arxiv.org/abs/2605.06825)|null|
 |**2026-05-05**|**Robust certification of high-dimensional quantum devices**|Javier Fernández et.al.|[2605.04338](http://arxiv.org/abs/2605.04338)|null|
@@ -1500,6 +1501,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**Self-testing of exact entanglement embezzlement**|Samuel J. Harris et.al.|[2605.22713](http://arxiv.org/abs/2605.22713)|null|
 |**2026-05-20**|**Time-To-Reach Separation and Safety Filtering for Safe, Fair, and Efficient Multi-Agent Coordination**|Matthew Low et.al.|[2605.20625](http://arxiv.org/abs/2605.20625)|null|
 |**2026-05-17**|**Brain-inspired spike-timing plasticity for reliable label-efficient event-camera vision**|Mohamad Yazan Sadoun et.al.|[2605.17686](http://arxiv.org/abs/2605.17686)|null|
 |**2026-05-13**|**In-situ tunable superconducting diode: towards field-free operation with infinite nonreciprocity**|Razmik A. Hovhannisyan et.al.|[2605.13254](http://arxiv.org/abs/2605.13254)|null|
@@ -2879,6 +2881,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-21**|**Minimal Permutation-Invariant Qudit Codes from Edge-Colorings of Complete Graphs**|Eric Kubischta et.al.|[2605.22439](http://arxiv.org/abs/2605.22439)|null|
+|**2026-05-21**|**Concatenating Algebraic Codes over High-Rate Quantum LDPC Codes**|Adam Wills et.al.|[2605.21898](http://arxiv.org/abs/2605.21898)|null|
+|**2026-05-21**|**Zero-level $CCZ$ Distillation**|Tomohiro Itogawa et.al.|[2605.21867](http://arxiv.org/abs/2605.21867)|null|
+|**2026-05-20**|**GeneCS: Synthesizing Resource-Efficient Code Surgery for Arbitrary Quantum Stabilizer Codes**|Junyu Zhou et.al.|[2605.21746](http://arxiv.org/abs/2605.21746)|null|
+|**2026-05-20**|**Journey in quantum metrology and sensing from foundations to applications: a review**|Priya Ghosh et.al.|[2605.21702](http://arxiv.org/abs/2605.21702)|null|
 |**2026-05-19**|**Forced Gap Post-Selection for Quantum LDPC Codes and their Operations**|Adam Wills et.al.|[2605.20346](http://arxiv.org/abs/2605.20346)|null|
 |**2026-05-19**|**Unveiling Energetic Advantage in Superconducting Cat-Qubits Quantum Computation**|Pedro Ramos et.al.|[2605.19854](http://arxiv.org/abs/2605.19854)|null|
 |**2026-05-19**|**Efficient Fault-Tolerant Ancilla Preparation for Quantum BCH codes via Cyclic Symmetry**|Kohei Yamamoto et.al.|[2605.19471](http://arxiv.org/abs/2605.19471)|null|

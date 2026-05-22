@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.21
+## Updated on 2026.05.22
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2059,6 +2059,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**Signatures of quantum chaos in phonon-polariton billiards**|Yinan Dong et.al.|[2605.22753](http://arxiv.org/abs/2605.22753)|null|
+|**2026-05-20**|**What We Talk About When We Talk About Dissipative Quantum Chaos**|Lucas Sá et.al.|[2605.21628](http://arxiv.org/abs/2605.21628)|null|
 |**2026-05-20**|**Wasserstein Space of Quantum Chaos**|Koji Hashimoto et.al.|[2605.20995](http://arxiv.org/abs/2605.20995)|null|
 |**2026-05-19**|**Resource generation and dynamical complexities in open random quantum circuits**|Paranjoy Chaki et.al.|[2605.20350](http://arxiv.org/abs/2605.20350)|null|
 |**2026-05-18**|**Semiclassical periodic-orbit theory for quantum spectra**|Sebastian Müller et.al.|[2605.19019](http://arxiv.org/abs/2605.19019)|null|

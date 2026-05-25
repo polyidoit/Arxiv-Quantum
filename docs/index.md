@@ -1501,6 +1501,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**FIRMA: FIbonacci Ring Model Aggregation for Privacy-preserving Federated Learning**|Rachid Hedjam et.al.|[2605.22898](http://arxiv.org/abs/2605.22898)|null|
 |**2026-05-21**|**Self-testing of exact entanglement embezzlement**|Samuel J. Harris et.al.|[2605.22713](http://arxiv.org/abs/2605.22713)|null|
 |**2026-05-20**|**Time-To-Reach Separation and Safety Filtering for Safe, Fair, and Efficient Multi-Agent Coordination**|Matthew Low et.al.|[2605.20625](http://arxiv.org/abs/2605.20625)|null|
 |**2026-05-17**|**Brain-inspired spike-timing plasticity for reliable label-efficient event-camera vision**|Mohamad Yazan Sadoun et.al.|[2605.17686](http://arxiv.org/abs/2605.17686)|null|
@@ -2061,6 +2062,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**Entanglement entropy across the dynamical phase transition in the quantum $\mathcal{O}(N)$ model**|Frederick del Pozo et.al.|[2605.23600](http://arxiv.org/abs/2605.23600)|null|
+|**2026-05-21**|**Sample-efficient benchmarking of shallow all-to-all random quantum circuits**|Gregory Bentsen et.al.|[2605.22909](http://arxiv.org/abs/2605.22909)|null|
 |**2026-05-21**|**Signatures of quantum chaos in phonon-polariton billiards**|Yinan Dong et.al.|[2605.22753](http://arxiv.org/abs/2605.22753)|null|
 |**2026-05-20**|**What We Talk About When We Talk About Dissipative Quantum Chaos**|Lucas Sá et.al.|[2605.21628](http://arxiv.org/abs/2605.21628)|null|
 |**2026-05-20**|**Wasserstein Space of Quantum Chaos**|Koji Hashimoto et.al.|[2605.20995](http://arxiv.org/abs/2605.20995)|null|
@@ -2881,6 +2884,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-22**|**Complementing Quantum Error Correction in Quantum Metrology via Swap Test**|Xiaodie Lin et.al.|[2605.23792](http://arxiv.org/abs/2605.23792)|null|
+|**2026-05-22**|**Optimizing Parallel Execution of Commuting Pauli Product Rotations**|Sayam Sethi et.al.|[2605.23738](http://arxiv.org/abs/2605.23738)|null|
+|**2026-05-22**|**Self-Orthogonal Twisted Generalized Reed-Solomon Codes and Their Application to Quantum Error-Correcting Codes**|Yanxin Chen et.al.|[2605.23460](http://arxiv.org/abs/2605.23460)|null|
+|**2026-05-22**|**AMDS and quantum AMDS Constacyclic codes of length $4p^ς$ over $\mathbb{F}_{{p}^{m}}$**|Manasa K J et.al.|[2605.23447](http://arxiv.org/abs/2605.23447)|null|
+|**2026-05-22**|**Asymptotic Limits of Entanglement Distribution**|Piotr Masajada et.al.|[2605.23443](http://arxiv.org/abs/2605.23443)|null|
+|**2026-05-22**|**A Posterior MWPM Decoding Boosts the XYZ Planar Code**|Zhiwei Wang et.al.|[2605.23236](http://arxiv.org/abs/2605.23236)|null|
+|**2026-05-22**|**Construction of EAQECCs with imperfect ebits**|Guanmin Guo et.al.|[2605.23119](http://arxiv.org/abs/2605.23119)|null|
 |**2026-05-21**|**Minimal Permutation-Invariant Qudit Codes from Edge-Colorings of Complete Graphs**|Eric Kubischta et.al.|[2605.22439](http://arxiv.org/abs/2605.22439)|null|
 |**2026-05-21**|**Concatenating Algebraic Codes over High-Rate Quantum LDPC Codes**|Adam Wills et.al.|[2605.21898](http://arxiv.org/abs/2605.21898)|null|
 |**2026-05-21**|**Zero-level $CCZ$ Distillation**|Tomohiro Itogawa et.al.|[2605.21867](http://arxiv.org/abs/2605.21867)|null|

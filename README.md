@@ -16,10 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-25**|**Strategic Non-Shareability of Quantum Correlations**|Fumin Wang et.al.|[2605.25516](http://arxiv.org/abs/2605.25516)|null|
 |**2026-05-20**|**Quantum Nonlocality and Device-Independent Randomness are Robust to Noisy Signaling Channels**|Kuntal Sengupta et.al.|[2605.21293](http://arxiv.org/abs/2605.21293)|null|
 |**2026-05-20**|**Collapse of the state vector and nonlocal correlations in quantum mechanics**|Grgeory D. Scholes et.al.|[2605.21243](http://arxiv.org/abs/2605.21243)|null|
 |**2026-05-18**|**Integrated time-bin entangled quantum light source on a 4H-SiC microring chip**|Hong Zeng et.al.|[2605.18124](http://arxiv.org/abs/2605.18124)|null|
-|**2026-05-12**|**Thermodynamic value of CHSH-induced side-information channels in a Szilard engine**|Piotr Ćwikliński et.al.|[2605.12044](http://arxiv.org/abs/2605.12044)|null|
+|**2026-05-25**|**Thermodynamic Value of XOR-Game-Induced Side Information in a Szilard Engine**|Piotr Ćwikliński et.al.|[2605.12044](http://arxiv.org/abs/2605.12044)|null|
 |**2026-05-12**|**Quantumness of top quark pairs produced at LHC within SMEFT framework**|Amir Subba et.al.|[2605.12033](http://arxiv.org/abs/2605.12033)|null|
 |**2026-05-12**|**Correlations Between Quantum Battery Capacity and Quantum Resources for Two-qubit System**|Yiding Wang et.al.|[2605.11399](http://arxiv.org/abs/2605.11399)|null|
 |**2026-05-11**|**Characterizing quantum correlations and quantum teleportation in $gg \to t\bar{t}$ and $q\bar{q} \to t\bar{t}$ processes under noisy channels**|Elhabib Jaloum et.al.|[2605.11323](http://arxiv.org/abs/2605.11323)|null|
@@ -694,6 +695,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-24**|**Causal Order Cannot Be An Observable**|Declan Maguire et.al.|[2605.25302](http://arxiv.org/abs/2605.25302)|null|
 |**2026-05-13**|**Violations of the Leggett-Garg inequality in Hybrid Liouvillian Dynamics: The Nonlinear Role of Detector Efficiency**|Sourav Paul et.al.|[2605.13494](http://arxiv.org/abs/2605.13494)|null|
 |**2026-05-12**|**Leggett--Garg Tests in Neural Dynamics: Probing Non-Diffusive Stochastic Structure in Single Neurons**|Partha Ghose et.al.|[2605.12126](http://arxiv.org/abs/2605.12126)|null|
 |**2026-05-08**|**Higher-order quantum processes respecting closed labs in a spacetime have quantum controlled causal order**|Matthias Salzger et.al.|[2605.08351](http://arxiv.org/abs/2605.08351)|null|
@@ -1015,6 +1017,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-23**|**Distinguishing Bohmian contextuality from Kochen-Specker contextuality**|Anton Skott et.al.|[2605.24446](http://arxiv.org/abs/2605.24446)|null|
 |**2026-05-18**|**Linear-optical test of quantum contextuality with sequential measurements**|Jiaqi Liu et.al.|[2605.18112](http://arxiv.org/abs/2605.18112)|null|
 |**2026-05-16**|**Random Access Code protocols: Quantum advantage related to intraparticle entanglement-based contextuality**|Nilaj Saha et.al.|[2605.13350](http://arxiv.org/abs/2605.13350)|null|
 |**2026-05-12**|**The Quad- $C_5$ Graph: Maximum Contextuality Gap on Eight Vertices**|Ugur Tamer et.al.|[2605.12828](http://arxiv.org/abs/2605.12828)|null|
@@ -1518,6 +1521,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-25**|**A structured model of vector-borne disease with within-host viral load and antibody dynamics**|Paulo Amorim et.al.|[2605.25370](http://arxiv.org/abs/2605.25370)|null|
 |**2026-05-21**|**FIRMA: FIbonacci Ring Model Aggregation for Privacy-preserving Federated Learning**|Rachid Hedjam et.al.|[2605.22898](http://arxiv.org/abs/2605.22898)|null|
 |**2026-05-21**|**Self-testing of exact entanglement embezzlement**|Samuel J. Harris et.al.|[2605.22713](http://arxiv.org/abs/2605.22713)|null|
 |**2026-05-20**|**Time-To-Reach Separation and Safety Filtering for Safe, Fair, and Efficient Multi-Agent Coordination**|Matthew Low et.al.|[2605.20625](http://arxiv.org/abs/2605.20625)|null|
@@ -2081,6 +2085,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-25**|**Analysis of Critical Points in a Permutation Model on Hierarchical Lattices by Real-Space Renormalization Group**|Ryuki Ito et.al.|[2605.25683](http://arxiv.org/abs/2605.25683)|null|
+|**2026-05-25**|**Sensitivity to perturbations in the three-dimensional Anderson model**|Piotr Tokarczyk et.al.|[2605.25594](http://arxiv.org/abs/2605.25594)|null|
+|**2026-05-25**|**Boson Sampling as a Probe of Chaotic and Integrable Quantum Dynamics**|Yuancheng Zhan et.al.|[2605.25398](http://arxiv.org/abs/2605.25398)|null|
+|**2026-05-22**|**Bit flips, saturation, and quantum chaos in dissipative cat qubits**|Filippo Ferrari et.al.|[2605.24100](http://arxiv.org/abs/2605.24100)|null|
 |**2026-05-22**|**Entanglement entropy across the dynamical phase transition in the quantum $\mathcal{O}(N)$ model**|Frederick del Pozo et.al.|[2605.23600](http://arxiv.org/abs/2605.23600)|null|
 |**2026-05-21**|**Sample-efficient benchmarking of shallow all-to-all random quantum circuits**|Gregory Bentsen et.al.|[2605.22909](http://arxiv.org/abs/2605.22909)|null|
 |**2026-05-21**|**Signatures of quantum chaos in phonon-polariton billiards**|Yinan Dong et.al.|[2605.22753](http://arxiv.org/abs/2605.22753)|null|
@@ -2905,6 +2913,14 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-25**|**Homomorphic Quantum Error Correction**|Kornikar Sen et.al.|[2605.25692](http://arxiv.org/abs/2605.25692)|null|
+|**2026-05-25**|**PennySynth: RAG-Driven Data Synthesis for Automated Quantum Code Generation**|Minghao Shao et.al.|[2605.25572](http://arxiv.org/abs/2605.25572)|null|
+|**2026-05-25**|**Fault-Tolerant QLDPC Syndrome Measurement via LDGM Encoding**|Eren Guttentag et.al.|[2605.25317](http://arxiv.org/abs/2605.25317)|null|
+|**2026-05-23**|**Performance Limits of Fault-Tolerant Quantum Error Correction Schemes**|Lorenzo Valentini et.al.|[2605.24501](http://arxiv.org/abs/2605.24501)|null|
+|**2026-05-22**|**Quantum non-demolition measurements as a practical primitive for fault-tolerant computation against biased noise**|Christophe Vuillot et.al.|[2605.24262](http://arxiv.org/abs/2605.24262)|null|
+|**2026-05-22**|**Towards Scalable Quaternary Message-Passing Decoding for Quantum Error Correction**|Boqing Zhang et.al.|[2605.24177](http://arxiv.org/abs/2605.24177)|null|
+|**2026-05-22**|**Quantum Sensing and Quantum Error Correction: Two Sides of the Same Coin**|Zhuoran Bao et.al.|[2605.24120](http://arxiv.org/abs/2605.24120)|null|
+|**2026-05-22**|**Bit flips, saturation, and quantum chaos in dissipative cat qubits**|Filippo Ferrari et.al.|[2605.24100](http://arxiv.org/abs/2605.24100)|null|
 |**2026-05-22**|**Complementing Quantum Error Correction in Quantum Metrology via Swap Test**|Xiaodie Lin et.al.|[2605.23792](http://arxiv.org/abs/2605.23792)|null|
 |**2026-05-22**|**Optimizing Parallel Execution of Commuting Pauli Product Rotations**|Sayam Sethi et.al.|[2605.23738](http://arxiv.org/abs/2605.23738)|null|
 |**2026-05-22**|**Self-Orthogonal Twisted Generalized Reed-Solomon Codes and Their Application to Quantum Error-Correcting Codes**|Yanxin Chen et.al.|[2605.23460](http://arxiv.org/abs/2605.23460)|null|

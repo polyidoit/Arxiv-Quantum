@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.05.26
+## Updated on 2026.05.27
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-26**|**Sequential quantum nonlocality sharing under local noisy quantum channels**|Na Li et.al.|[2605.26798](http://arxiv.org/abs/2605.26798)|null|
 |**2026-05-25**|**Strategic Non-Shareability of Quantum Correlations**|Fumin Wang et.al.|[2605.25516](http://arxiv.org/abs/2605.25516)|null|
 |**2026-05-20**|**Quantum Nonlocality and Device-Independent Randomness are Robust to Noisy Signaling Channels**|Kuntal Sengupta et.al.|[2605.21293](http://arxiv.org/abs/2605.21293)|null|
 |**2026-05-20**|**Collapse of the state vector and nonlocal correlations in quantum mechanics**|Grgeory D. Scholes et.al.|[2605.21243](http://arxiv.org/abs/2605.21243)|null|
@@ -2892,6 +2893,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-26**|**Practical Entanglement Distillation Protocols with Quadratic Error Suppression**|Elisa Bäumer Marty et.al.|[2605.26757](http://arxiv.org/abs/2605.26757)|null|
 |**2026-05-25**|**Homomorphic Quantum Error Correction**|Kornikar Sen et.al.|[2605.25692](http://arxiv.org/abs/2605.25692)|null|
 |**2026-05-25**|**PennySynth: RAG-Driven Data Synthesis for Automated Quantum Code Generation**|Minghao Shao et.al.|[2605.25572](http://arxiv.org/abs/2605.25572)|null|
 |**2026-05-25**|**Fault-Tolerant QLDPC Syndrome Measurement via LDGM Encoding**|Eren Guttentag et.al.|[2605.25317](http://arxiv.org/abs/2605.25317)|null|

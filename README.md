@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**Bell's theorem: why probability factorisation fails**|Geoff Beck et.al.|[2605.29589](http://arxiv.org/abs/2605.29589)|null|
+|**2026-05-27**|**Global Kochen-Specker Contextuality Without Local Contextuality and Generalized Bell Nonlocality**|Ming Yang et.al.|[2605.28702](http://arxiv.org/abs/2605.28702)|null|
 |**2026-05-26**|**Sequential quantum nonlocality sharing under local noisy quantum channels**|Na Li et.al.|[2605.26798](http://arxiv.org/abs/2605.26798)|null|
 |**2026-05-25**|**Strategic Non-Shareability of Quantum Correlations**|Fumin Wang et.al.|[2605.25516](http://arxiv.org/abs/2605.25516)|null|
 |**2026-05-20**|**Quantum Nonlocality and Device-Independent Randomness are Robust to Noisy Signaling Channels**|Kuntal Sengupta et.al.|[2605.21293](http://arxiv.org/abs/2605.21293)|null|
@@ -696,6 +698,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**Indefinite Causal Order Reverses the Real-Complex Hierarchy**|Jacopo Surace et.al.|[2605.30238](http://arxiv.org/abs/2605.30238)|null|
 |**2026-05-24**|**Causal Order Cannot Be An Observable**|Declan Maguire et.al.|[2605.25302](http://arxiv.org/abs/2605.25302)|null|
 |**2026-05-13**|**Violations of the Leggett-Garg inequality in Hybrid Liouvillian Dynamics: The Nonlinear Role of Detector Efficiency**|Sourav Paul et.al.|[2605.13494](http://arxiv.org/abs/2605.13494)|null|
 |**2026-05-12**|**Leggett--Garg Tests in Neural Dynamics: Probing Non-Diffusive Stochastic Structure in Single Neurons**|Partha Ghose et.al.|[2605.12126](http://arxiv.org/abs/2605.12126)|null|
@@ -1018,7 +1021,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-23**|**Distinguishing Bohmian contextuality from Kochen-Specker contextuality**|Anton Skott et.al.|[2605.24446](http://arxiv.org/abs/2605.24446)|null|
+|**2026-05-27**|**Global Kochen-Specker Contextuality Without Local Contextuality and Generalized Bell Nonlocality**|Ming Yang et.al.|[2605.28702](http://arxiv.org/abs/2605.28702)|null|
+|**2026-05-26**|**Distinguishing Bohmian contextuality from Kochen-Specker contextuality**|Anton Skott et.al.|[2605.24446](http://arxiv.org/abs/2605.24446)|null|
 |**2026-05-18**|**Linear-optical test of quantum contextuality with sequential measurements**|Jiaqi Liu et.al.|[2605.18112](http://arxiv.org/abs/2605.18112)|null|
 |**2026-05-16**|**Random Access Code protocols: Quantum advantage related to intraparticle entanglement-based contextuality**|Nilaj Saha et.al.|[2605.13350](http://arxiv.org/abs/2605.13350)|null|
 |**2026-05-12**|**The Quad- $C_5$ Graph: Maximum Contextuality Gap on Eight Vertices**|Ugur Tamer et.al.|[2605.12828](http://arxiv.org/abs/2605.12828)|null|
@@ -1321,7 +1325,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-18**|**One pure steered state implies Einstein-Podolsky-Rosen steering**|Qiu-Cheng Song et.al.|[2605.18243](http://arxiv.org/abs/2605.18243)|null|
+|**2026-05-27**|**Quantum Crossovers Revealed by Local Measurements**|A. C. S. Costa et.al.|[2605.29019](http://arxiv.org/abs/2605.29019)|null|
+|**2026-05-27**|**One pure steered state implies Einstein-Podolsky-Rosen steering**|Qiu-Cheng Song et.al.|[2605.18243](http://arxiv.org/abs/2605.18243)|null|
 |**2026-05-15**|**Magic Secret Sharing: Threshold Control of Quantum Computational Power via GHZ Entanglement**|Soumyojyoti Dutta et.al.|[2605.16614](http://arxiv.org/abs/2605.16614)|null|
 |**2026-05-12**|**U-STS-LLM A Unified Spatio-Temporal Steered Large Language Model for Traffic Prediction and Imputation**|Yichen Zhang et.al.|[2605.11735](http://arxiv.org/abs/2605.11735)|null|
 |**2026-05-11**|**Characterizing quantum correlations and quantum teleportation in $gg \to t\bar{t}$ and $q\bar{q} \to t\bar{t}$ processes under noisy channels**|Elhabib Jaloum et.al.|[2605.11323](http://arxiv.org/abs/2605.11323)|null|
@@ -1522,6 +1527,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**An IMEX-DG solver with non-conforming mesh refinement for atmospheric dynamics with rotation**|Letizia Bottani et.al.|[2605.29598](http://arxiv.org/abs/2605.29598)|null|
+|**2026-05-26**|**Compact Experimental Negative TriAngUlarity Reactor (CENTAUR): A design study for a compact, affordable breakeven tokamak**| The CENTAUR Collaboration et.al.|[2605.27549](http://arxiv.org/abs/2605.27549)|null|
 |**2026-05-25**|**A structured model of vector-borne disease with within-host viral load and antibody dynamics**|Paulo Amorim et.al.|[2605.25370](http://arxiv.org/abs/2605.25370)|null|
 |**2026-05-21**|**FIRMA: FIbonacci Ring Model Aggregation for Privacy-preserving Federated Learning**|Rachid Hedjam et.al.|[2605.22898](http://arxiv.org/abs/2605.22898)|null|
 |**2026-05-21**|**Self-testing of exact entanglement embezzlement**|Samuel J. Harris et.al.|[2605.22713](http://arxiv.org/abs/2605.22713)|null|
@@ -2086,6 +2093,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**Black Hole Photon Rings Saturate the Quantum Chaos Bound**|D. Giataganas et.al.|[2605.29923](http://arxiv.org/abs/2605.29923)|null|
+|**2026-05-26**|**Many-Body Quantum Chaos At All Time Scales**|Antonio M. García-García et.al.|[2605.27512](http://arxiv.org/abs/2605.27512)|null|
+|**2026-05-26**|**A universal geometric mechanism for chaos-bound violations in black hole spacetimes**|Terkaa Victor Targema et.al.|[2605.26829](http://arxiv.org/abs/2605.26829)|null|
 |**2026-05-25**|**Analysis of Critical Points in a Permutation Model on Hierarchical Lattices by Real-Space Renormalization Group**|Ryuki Ito et.al.|[2605.25683](http://arxiv.org/abs/2605.25683)|null|
 |**2026-05-25**|**Sensitivity to perturbations in the three-dimensional Anderson model**|Piotr Tokarczyk et.al.|[2605.25594](http://arxiv.org/abs/2605.25594)|null|
 |**2026-05-25**|**Boson Sampling as a Probe of Chaotic and Integrable Quantum Dynamics**|Yuancheng Zhan et.al.|[2605.25398](http://arxiv.org/abs/2605.25398)|null|
@@ -2914,6 +2924,15 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-05-28**|**Programmable Dissipation via Partial Quantum Error Correction**|Sameer Dambal et.al.|[2605.30217](http://arxiv.org/abs/2605.30217)|null|
+|**2026-05-28**|**Non-Clifford Crosstalk Noise in Surface Codes Using Hybrid Stabilizer-Tensor Network Methods**|Ben Harper et.al.|[2605.29514](http://arxiv.org/abs/2605.29514)|null|
+|**2026-05-28**|**Comparative monotonicity of linear codes by Hermitian and symplectic hull dimensions**|Keita Ishizuka et.al.|[2605.29204](http://arxiv.org/abs/2605.29204)|null|
+|**2026-05-27**|**Quantum error correction and fault tolerance: A comprehensive tutorial**|Daniel J. Spencer et.al.|[2605.29137](http://arxiv.org/abs/2605.29137)|null|
+|**2026-05-27**|**Hardware-Tailored Resource Estimation for Magic-State Distillation on Silicon Spin Qubits**|Songqinghao Yang et.al.|[2605.28936](http://arxiv.org/abs/2605.28936)|null|
+|**2026-05-27**|**Complex abelian varieties and quantum error correction: a mathematical framework for GKP codes**|Maxence Mayrand et.al.|[2605.28784](http://arxiv.org/abs/2605.28784)|null|
+|**2026-05-27**|**Trapped-Ion Multiqubit Gates are Compatible with Scalable Quantum Error Correction**|Ori Grossman et.al.|[2605.28536](http://arxiv.org/abs/2605.28536)|null|
+|**2026-05-27**|**Learning Logical Operations for Arbitrary Quantum Error Correction Codes**|Nico Meyer et.al.|[2605.28162](http://arxiv.org/abs/2605.28162)|null|
+|**2026-05-26**|**Leveraging Correlated Decoding for Bias-Tailored Compass Codes**|Arianna Meinking et.al.|[2605.27598](http://arxiv.org/abs/2605.27598)|null|
 |**2026-05-26**|**Practical Entanglement Distillation Protocols with Quadratic Error Suppression**|Elisa Bäumer Marty et.al.|[2605.26757](http://arxiv.org/abs/2605.26757)|null|
 |**2026-05-25**|**Homomorphic Quantum Error Correction**|Kornikar Sen et.al.|[2605.25692](http://arxiv.org/abs/2605.25692)|null|
 |**2026-05-25**|**PennySynth: RAG-Driven Data Synthesis for Automated Quantum Code Generation**|Minghao Shao et.al.|[2605.25572](http://arxiv.org/abs/2605.25572)|null|

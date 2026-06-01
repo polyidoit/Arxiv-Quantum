@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**High-rate and computationally-efficient seedless extractors for device-independent quantum cryptography**|Simone Lin et.al.|[2605.31525](http://arxiv.org/abs/2605.31525)|null|
+|**2026-05-29**|**Erasing photons from bright squeezed vacuum light via above-threshold ionization**|J. Rivera-Dean et.al.|[2605.31160](http://arxiv.org/abs/2605.31160)|null|
 |**2026-05-28**|**Bell's theorem: why probability factorisation fails**|Geoff Beck et.al.|[2605.29589](http://arxiv.org/abs/2605.29589)|null|
 |**2026-05-27**|**Global Kochen-Specker Contextuality Without Local Contextuality and Generalized Bell Nonlocality**|Ming Yang et.al.|[2605.28702](http://arxiv.org/abs/2605.28702)|null|
 |**2026-05-26**|**Sequential quantum nonlocality sharing under local noisy quantum channels**|Na Li et.al.|[2605.26798](http://arxiv.org/abs/2605.26798)|null|

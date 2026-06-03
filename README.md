@@ -1,4 +1,4 @@
-## Updated on 2026.06.02
+## Updated on 2026.06.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -694,7 +694,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -706,7 +706,7 @@
 |**2026-05-12**|**Leggett--Garg Tests in Neural Dynamics: Probing Non-Diffusive Stochastic Structure in Single Neurons**|Partha Ghose et.al.|[2605.12126](http://arxiv.org/abs/2605.12126)|null|
 |**2026-05-08**|**Higher-order quantum processes respecting closed labs in a spacetime have quantum controlled causal order**|Matthias Salzger et.al.|[2605.08351](http://arxiv.org/abs/2605.08351)|null|
 |**2026-05-08**|**Decoherence without the state: A causal quantum Darwinist approach**|Nick Ormrod et.al.|[2605.07090](http://arxiv.org/abs/2605.07090)|null|
-|**2026-05-06**|**Causal-Order Identification of Memoryless Sequential Quantum Processes from Restricted Projective Data**|Masahito Hayashi et.al.|[2605.04571](http://arxiv.org/abs/2605.04571)|null|
+|**2026-05-30**|**Causal-Order Identification of Memoryless Sequential Quantum Processes from Restricted Projective Data**|Masahito Hayashi et.al.|[2605.04571](http://arxiv.org/abs/2605.04571)|null|
 |**2026-05-03**|**Quantum Causal Discovery via Amplitude Estimation of Kullback-Leibler Divergence**|Shabnam Sodagari et.al.|[2604.23451](http://arxiv.org/abs/2604.23451)|null|
 |**2026-04-19**|**Classically Forbidden Signatures of Quantum Coherence in the Mesoscopic Lipkin-Meshkov-Glick Model**|Stavros Mouslopoulos et.al.|[2604.18638](http://arxiv.org/abs/2604.18638)|null|
 |**2026-04-11**|**Comparing quantum and classical finite state generators**|Prasenjit Deb et.al.|[2604.10315](http://arxiv.org/abs/2604.10315)|null|
@@ -1017,7 +1017,7 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -1321,7 +1321,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1523,12 +1523,20 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-01**|**Impurity-driven turbulence opens a pathway to ELM-free operation and enhanced pedestal stability in tokamaks**|Santanu Banerjee et.al.|[2606.02768](http://arxiv.org/abs/2606.02768)|null|
+|**2026-06-01**|**Resistive wall mode induced disruptions in an advanced tokamak**|Sui Wan et.al.|[2606.02349](http://arxiv.org/abs/2606.02349)|null|
+|**2026-06-01**|**Spin Hamiltonian as Matrix-Free Linear Map**|Aditya Dev et.al.|[2606.02169](http://arxiv.org/abs/2606.02169)|null|
+|**2026-05-29**|**Polytopic Quantum Resource Theories: Geometry and Structures**|Moein Naseri et.al.|[2606.00429](http://arxiv.org/abs/2606.00429)|null|
+|**2026-05-29**|**Consolidating Rewarded Perturbations for LLM Post-Training**|Zheyu Zhang et.al.|[2605.31494](http://arxiv.org/abs/2605.31494)|null|
+|**2026-05-29**|**Rényi divergences and binary state discrimination error exponents for fermionic quasi-free states**|Milán Mosonyi et.al.|[2605.31379](http://arxiv.org/abs/2605.31379)|null|
+|**2026-05-29**|**Efficient Diffusion LLMs via Temporal-Spatial Parallel Decoding and Confidence Extrapolation**|Zekai Li et.al.|[2605.30753](http://arxiv.org/abs/2605.30753)|null|
+|**2026-05-28**|**Pure State Transformations under Block Coherence**|Dipayan Chakraborty et.al.|[2605.30588](http://arxiv.org/abs/2605.30588)|null|
 |**2026-05-28**|**An IMEX-DG solver with non-conforming mesh refinement for atmospheric dynamics with rotation**|Letizia Bottani et.al.|[2605.29598](http://arxiv.org/abs/2605.29598)|null|
 |**2026-05-26**|**Compact Experimental Negative TriAngUlarity Reactor (CENTAUR): A design study for a compact, affordable breakeven tokamak**| The CENTAUR Collaboration et.al.|[2605.27549](http://arxiv.org/abs/2605.27549)|null|
 |**2026-05-25**|**A structured model of vector-borne disease with within-host viral load and antibody dynamics**|Paulo Amorim et.al.|[2605.25370](http://arxiv.org/abs/2605.25370)|null|
@@ -2089,12 +2097,15 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-02**|**Operator spreading in random circuits with orthogonal or symplectic symmetry**|Zhiyang Tan et.al.|[2606.03956](http://arxiv.org/abs/2606.03956)|null|
+|**2026-06-02**|**Efficient Quantum Error Mitigation for Unitary k-Designs**|Ayush Pancholy et.al.|[2606.03891](http://arxiv.org/abs/2606.03891)|null|
+|**2026-06-01**|**Information scrambling in all-to-all interacting models**|Abhik Kumar Saha et.al.|[2606.02207](http://arxiv.org/abs/2606.02207)|null|
 |**2026-05-28**|**Black Hole Photon Rings Saturate the Quantum Chaos Bound**|D. Giataganas et.al.|[2605.29923](http://arxiv.org/abs/2605.29923)|null|
 |**2026-05-26**|**Many-Body Quantum Chaos At All Time Scales**|Antonio M. García-García et.al.|[2605.27512](http://arxiv.org/abs/2605.27512)|null|
 |**2026-05-26**|**A universal geometric mechanism for chaos-bound violations in black hole spacetimes**|Terkaa Victor Targema et.al.|[2605.26829](http://arxiv.org/abs/2605.26829)|null|
@@ -2918,7 +2929,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -5098,5 +5109,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 

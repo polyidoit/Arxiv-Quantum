@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.06.03
+## Updated on 2026.06.04
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-01**|**Bounds on Nonlocality and Random Access Codes from Extended Information Causality Principle**|Prabhav Jain et.al.|[2606.02416](http://arxiv.org/abs/2606.02416)|null|
+|**2026-06-01**|**Quantum light source with lithium tantalate for scalable photonic quantum circuits**|Yun-Ru Fan et.al.|[2606.01657](http://arxiv.org/abs/2606.01657)|null|
 |**2026-05-29**|**High-rate and computationally-efficient seedless extractors for device-independent quantum cryptography**|Simone Lin et.al.|[2605.31525](http://arxiv.org/abs/2605.31525)|null|
 |**2026-05-29**|**Erasing photons from bright squeezed vacuum light via above-threshold ionization**|J. Rivera-Dean et.al.|[2605.31160](http://arxiv.org/abs/2605.31160)|null|
 |**2026-05-28**|**Bell's theorem: why probability factorisation fails**|Geoff Beck et.al.|[2605.29589](http://arxiv.org/abs/2605.29589)|null|

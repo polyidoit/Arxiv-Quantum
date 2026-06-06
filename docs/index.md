@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.05
+## Updated on 2026.06.06
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -691,6 +691,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**Leggett-Garg test inequality with spin and flavour neutrino oscillations in a constant magnetic field**|I. A. Monroy et.al.|[2606.04412](http://arxiv.org/abs/2606.04412)|null|
 |**2026-05-28**|**Indefinite Causal Order Reverses the Real-Complex Hierarchy**|Jacopo Surace et.al.|[2605.30238](http://arxiv.org/abs/2605.30238)|null|
 |**2026-05-24**|**Causal Order Cannot Be An Observable**|Declan Maguire et.al.|[2605.25302](http://arxiv.org/abs/2605.25302)|null|
 |**2026-05-13**|**Violations of the Leggett-Garg inequality in Hybrid Liouvillian Dynamics: The Nonlinear Role of Detector Efficiency**|Sourav Paul et.al.|[2605.13494](http://arxiv.org/abs/2605.13494)|null|
@@ -1016,7 +1017,7 @@ layout: default
 |**2026-05-26**|**Distinguishing Bohmian contextuality from Kochen-Specker contextuality**|Anton Skott et.al.|[2605.24446](http://arxiv.org/abs/2605.24446)|null|
 |**2026-05-18**|**Linear-optical test of quantum contextuality with sequential measurements**|Jiaqi Liu et.al.|[2605.18112](http://arxiv.org/abs/2605.18112)|null|
 |**2026-05-16**|**Random Access Code protocols: Quantum advantage related to intraparticle entanglement-based contextuality**|Nilaj Saha et.al.|[2605.13350](http://arxiv.org/abs/2605.13350)|null|
-|**2026-05-12**|**The Quad- $C_5$ Graph: Maximum Contextuality Gap on Eight Vertices**|Ugur Tamer et.al.|[2605.12828](http://arxiv.org/abs/2605.12828)|null|
+|**2026-05-31**|**The Quad- $C_5$ Graph: Maximum Contextuality Gap on Eight Vertices**|Ugur Tamer et.al.|[2605.12828](http://arxiv.org/abs/2605.12828)|null|
 |**2026-05-12**|**Joint Realizability Tradeoffs Bounded by Quantum Channel Incompatibility**|Shintaro Minagawa et.al.|[2605.11924](http://arxiv.org/abs/2605.11924)|null|
 |**2026-05-11**|**Lyapunov Exponents as Duality-Invariant Signatures of Critical States**|Tong Liu et.al.|[2605.10746](http://arxiv.org/abs/2605.10746)|null|
 |**2026-05-06**|**A transition in the hole probability at finite temperature for free fermions in $d$ dimensions**|Giuseppe Del Vecchio Del Vecchio et.al.|[2605.05431](http://arxiv.org/abs/2605.05431)|null|
@@ -1514,6 +1515,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**Reliability of asymptotic work extraction**|Kaito Watanabe et.al.|[2606.06318](http://arxiv.org/abs/2606.06318)|null|
+|**2026-06-04**|**Semidefinite-programming hierarchies for classically simulable state families**|Mengyan Li et.al.|[2606.06204](http://arxiv.org/abs/2606.06204)|null|
+|**2026-06-04**|**Optimal convex approximation of quantum channels based on $α$ -affinity**|Liqiang Zhang et.al.|[2606.05745](http://arxiv.org/abs/2606.05745)|null|
+|**2026-06-02**|**RSC: Decentralized Rigid Formation Flocking for Large-Scale Swarms via Hybrid Predictive Control and Online Reconfiguration**|Ganyu Zou et.al.|[2606.04248](http://arxiv.org/abs/2606.04248)|null|
 |**2026-06-01**|**Impurity-driven turbulence opens a pathway to ELM-free operation and enhanced pedestal stability in tokamaks**|Santanu Banerjee et.al.|[2606.02768](http://arxiv.org/abs/2606.02768)|null|
 |**2026-06-01**|**Resistive wall mode induced disruptions in an advanced tokamak**|Sui Wan et.al.|[2606.02349](http://arxiv.org/abs/2606.02349)|null|
 |**2026-06-01**|**Spin Hamiltonian as Matrix-Free Linear Map**|Aditya Dev et.al.|[2606.02169](http://arxiv.org/abs/2606.02169)|null|
@@ -2086,6 +2091,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**Monitored chaotic scattering**|C. W. J. Beenakker et.al.|[2606.04794](http://arxiv.org/abs/2606.04794)|null|
+|**2026-06-02**|**Out-of-time-order correlators for Swanson Hamiltonian with interaction terms**|M. W. AlMasri et.al.|[2606.04062](http://arxiv.org/abs/2606.04062)|null|
 |**2026-06-02**|**Operator spreading in random circuits with orthogonal or symplectic symmetry**|Zhiyang Tan et.al.|[2606.03956](http://arxiv.org/abs/2606.03956)|null|
 |**2026-06-02**|**Efficient Quantum Error Mitigation for Unitary k-Designs**|Ayush Pancholy et.al.|[2606.03891](http://arxiv.org/abs/2606.03891)|null|
 |**2026-06-01**|**Information scrambling in all-to-all interacting models**|Abhik Kumar Saha et.al.|[2606.02207](http://arxiv.org/abs/2606.02207)|null|
@@ -2918,6 +2925,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-04**|**Breakeven demonstration of quantum low-density parity-check codes**|Edwin Tham et.al.|[2606.06455](http://arxiv.org/abs/2606.06455)|null|
+|**2026-06-04**|**Nanostructure modelling with early fault tolerant quantum computers**|Zhu Sun et.al.|[2606.06442](http://arxiv.org/abs/2606.06442)|null|
+|**2026-06-04**|**A framework for low-overhead quantum fault tolerance via spacetime lifting**|Yijia Xu et.al.|[2606.06365](http://arxiv.org/abs/2606.06365)|null|
+|**2026-06-04**|**Gauging the Spacetime Code**|Gideon Lee et.al.|[2606.05664](http://arxiv.org/abs/2606.05664)|null|
+|**2026-06-03**|**Multi-Qubit Dyadic Phase Fixing for Fault-Tolerant Quantum Compilation**|Justin Kalloor et.al.|[2606.05397](http://arxiv.org/abs/2606.05397)|null|
+|**2026-06-03**|**Generalized Bicycle Codes as Cyclic Submodules and their Automorphism Structure**|AJ Davenport et.al.|[2606.05044](http://arxiv.org/abs/2606.05044)|null|
+|**2026-06-03**|**Finite-Basis Duality Estimate for the Surface-Code Threshold under Correlated Bit-Flip Errors**|Masayuki Ohzeki et.al.|[2606.04723](http://arxiv.org/abs/2606.04723)|null|
+|**2026-06-03**|**Circuit-Level Noise Estimation via Shuttling in Plaquette Circuits**|Huyen Do et.al.|[2606.04629](http://arxiv.org/abs/2606.04629)|null|
+|**2026-06-03**|**Characterization of errors in photon-heralded quantum operations between non-interacting quantum emitters**|Mahsa Karimi et.al.|[2606.04312](http://arxiv.org/abs/2606.04312)|null|
+|**2026-06-02**|**Quantum error correction with the toric code**|Atom Computing et.al.|[2606.04079](http://arxiv.org/abs/2606.04079)|null|
 |**2026-05-28**|**Programmable Dissipation via Partial Quantum Error Correction**|Sameer Dambal et.al.|[2605.30217](http://arxiv.org/abs/2605.30217)|null|
 |**2026-05-28**|**Non-Clifford Crosstalk Noise in Surface Codes Using Hybrid Stabilizer-Tensor Network Methods**|Ben Harper et.al.|[2605.29514](http://arxiv.org/abs/2605.29514)|null|
 |**2026-05-28**|**Comparative monotonicity of linear codes by Hermitian and symplectic hull dimensions**|Keita Ishizuka et.al.|[2605.29204](http://arxiv.org/abs/2605.29204)|null|

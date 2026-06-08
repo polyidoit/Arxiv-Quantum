@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.07
+## Updated on 2026.06.08
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -692,7 +692,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-06-03**|**Leggett-Garg test inequality with spin and flavour neutrino oscillations in a constant magnetic field**|I. A. Monroy et.al.|[2606.04412](http://arxiv.org/abs/2606.04412)|null|
-|**2026-05-28**|**Indefinite Causal Order Reverses the Real-Complex Hierarchy**|Jacopo Surace et.al.|[2605.30238](http://arxiv.org/abs/2605.30238)|null|
+|**2026-06-05**|**Indefinite Causal Order Reverses the Real-Complex Hierarchy**|Jacopo Surace et.al.|[2605.30238](http://arxiv.org/abs/2605.30238)|null|
 |**2026-05-24**|**Causal Order Cannot Be An Observable**|Declan Maguire et.al.|[2605.25302](http://arxiv.org/abs/2605.25302)|null|
 |**2026-05-13**|**Violations of the Leggett-Garg inequality in Hybrid Liouvillian Dynamics: The Nonlinear Role of Detector Efficiency**|Sourav Paul et.al.|[2605.13494](http://arxiv.org/abs/2605.13494)|null|
 |**2026-05-12**|**Leggett--Garg Tests in Neural Dynamics: Probing Non-Diffusive Stochastic Structure in Single Neurons**|Partha Ghose et.al.|[2605.12126](http://arxiv.org/abs/2605.12126)|null|
@@ -2925,6 +2925,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-05**|**Coherent versus stochastic error injection on a repetition-code logical qubit in superconducting hardware**|S. L. M. van der Meer et.al.|[2606.07377](http://arxiv.org/abs/2606.07377)|null|
+|**2026-06-05**|**QBugLM: An Agentic Benchmarking Framework for LLM-based Quantum Software Debugging**|An B. B. Pham et.al.|[2606.07314](http://arxiv.org/abs/2606.07314)|null|
+|**2026-06-04**|**A superconducting surface-code processor with lattice-surgery logical operations**|Yanzhe Wang et.al.|[2606.06598](http://arxiv.org/abs/2606.06598)|null|
+|**2026-06-04**|**Demystifying Objectivity with Operator Algebra Quantum Error Correction**|Marin Girard et.al.|[2606.06588](http://arxiv.org/abs/2606.06588)|null|
+|**2026-06-04**|**Beyond the Canonical Protocol: Quantum Encrypted Cloning from Secret-Sharing Access Structures**|Gabriele Gianini et.al.|[2606.06552](http://arxiv.org/abs/2606.06552)|null|
 |**2026-06-04**|**Breakeven demonstration of quantum low-density parity-check codes**|Edwin Tham et.al.|[2606.06455](http://arxiv.org/abs/2606.06455)|null|
 |**2026-06-04**|**Nanostructure modelling with early fault tolerant quantum computers**|Zhu Sun et.al.|[2606.06442](http://arxiv.org/abs/2606.06442)|null|
 |**2026-06-04**|**A framework for low-overhead quantum fault tolerance via spacetime lifting**|Yijia Xu et.al.|[2606.06365](http://arxiv.org/abs/2606.06365)|null|

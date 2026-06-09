@@ -1,4 +1,4 @@
-## Updated on 2026.06.08
+## Updated on 2026.06.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,12 +16,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-07**|**Nonlocal Teams and Information Structures**|Drishti Baruah et.al.|[2606.08645](http://arxiv.org/abs/2606.08645)|null|
 |**2026-06-01**|**Bounds on Nonlocality and Random Access Codes from Extended Information Causality Principle**|Prabhav Jain et.al.|[2606.02416](http://arxiv.org/abs/2606.02416)|null|
 |**2026-06-01**|**Quantum light source with lithium tantalate for scalable photonic quantum circuits**|Yun-Ru Fan et.al.|[2606.01657](http://arxiv.org/abs/2606.01657)|null|
 |**2026-05-29**|**High-rate and computationally-efficient seedless extractors for device-independent quantum cryptography**|Simone Lin et.al.|[2605.31525](http://arxiv.org/abs/2605.31525)|null|
 |**2026-05-29**|**Erasing photons from bright squeezed vacuum light via above-threshold ionization**|J. Rivera-Dean et.al.|[2605.31160](http://arxiv.org/abs/2605.31160)|null|
 |**2026-05-28**|**Bell's theorem: why probability factorisation fails**|Geoff Beck et.al.|[2605.29589](http://arxiv.org/abs/2605.29589)|null|
-|**2026-05-27**|**Global Kochen-Specker Contextuality Without Local Contextuality and Generalized Bell Nonlocality**|Ming Yang et.al.|[2605.28702](http://arxiv.org/abs/2605.28702)|null|
+|**2026-06-08**|**Global Kochen-Specker Contextuality Without Local Contextuality and Generalized Bell Nonlocality**|Ming Yang et.al.|[2605.28702](http://arxiv.org/abs/2605.28702)|null|
 |**2026-05-26**|**Sequential quantum nonlocality sharing under local noisy quantum channels**|Na Li et.al.|[2605.26798](http://arxiv.org/abs/2605.26798)|null|
 |**2026-05-25**|**Strategic Non-Shareability of Quantum Correlations**|Fumin Wang et.al.|[2605.25516](http://arxiv.org/abs/2605.25516)|null|
 |**2026-05-20**|**Quantum Nonlocality and Device-Independent Randomness are Robust to Noisy Signaling Channels**|Kuntal Sengupta et.al.|[2605.21293](http://arxiv.org/abs/2605.21293)|null|
@@ -696,7 +697,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260609>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -1020,13 +1021,13 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260609>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-27**|**Global Kochen-Specker Contextuality Without Local Contextuality and Generalized Bell Nonlocality**|Ming Yang et.al.|[2605.28702](http://arxiv.org/abs/2605.28702)|null|
+|**2026-06-08**|**Global Kochen-Specker Contextuality Without Local Contextuality and Generalized Bell Nonlocality**|Ming Yang et.al.|[2605.28702](http://arxiv.org/abs/2605.28702)|null|
 |**2026-05-26**|**Distinguishing Bohmian contextuality from Kochen-Specker contextuality**|Anton Skott et.al.|[2605.24446](http://arxiv.org/abs/2605.24446)|null|
 |**2026-05-18**|**Linear-optical test of quantum contextuality with sequential measurements**|Jiaqi Liu et.al.|[2605.18112](http://arxiv.org/abs/2605.18112)|null|
 |**2026-05-16**|**Random Access Code protocols: Quantum advantage related to intraparticle entanglement-based contextuality**|Nilaj Saha et.al.|[2605.13350](http://arxiv.org/abs/2605.13350)|null|
@@ -1324,12 +1325,13 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260609>back to top</a>)</p>
 
 ## Quantum steering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-06**|**Every Rank-Two Entangled State is Projectively Steerable**|Yu-Xuan Zhang et.al.|[2606.08189](http://arxiv.org/abs/2606.08189)|null|
 |**2026-05-27**|**Quantum Crossovers Revealed by Local Measurements**|A. C. S. Costa et.al.|[2605.29019](http://arxiv.org/abs/2605.29019)|null|
 |**2026-05-27**|**One pure steered state implies Einstein-Podolsky-Rosen steering**|Qiu-Cheng Song et.al.|[2605.18243](http://arxiv.org/abs/2605.18243)|null|
 |**2026-05-15**|**Magic Secret Sharing: Threshold Control of Quantum Computational Power via GHZ Entanglement**|Soumyojyoti Dutta et.al.|[2605.16614](http://arxiv.org/abs/2605.16614)|null|
@@ -1526,12 +1528,13 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260609>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-07**|**Quantum resource localizability transitions in deep thermalization**|Xiaozhou Feng et.al.|[2606.08756](http://arxiv.org/abs/2606.08756)|null|
 |**2026-06-04**|**Reliability of asymptotic work extraction**|Kaito Watanabe et.al.|[2606.06318](http://arxiv.org/abs/2606.06318)|null|
 |**2026-06-04**|**Semidefinite-programming hierarchies for classically simulable state families**|Mengyan Li et.al.|[2606.06204](http://arxiv.org/abs/2606.06204)|null|
 |**2026-06-04**|**Optimal convex approximation of quantum channels based on $α$ -affinity**|Liqiang Zhang et.al.|[2606.05745](http://arxiv.org/abs/2606.05745)|null|
@@ -2104,12 +2107,13 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260609>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-07**|**Hierarchical Neural Filtering of Nuclear Mass Residuals and Spectral Signatures of Quantum Chaos**|Jaskirat Singh et.al.|[2606.08546](http://arxiv.org/abs/2606.08546)|null|
 |**2026-06-03**|**Monitored chaotic scattering**|C. W. J. Beenakker et.al.|[2606.04794](http://arxiv.org/abs/2606.04794)|null|
 |**2026-06-02**|**Out-of-time-order correlators for Swanson Hamiltonian with interaction terms**|M. W. AlMasri et.al.|[2606.04062](http://arxiv.org/abs/2606.04062)|null|
 |**2026-06-02**|**Operator spreading in random circuits with orthogonal or symplectic symmetry**|Zhiyang Tan et.al.|[2606.03956](http://arxiv.org/abs/2606.03956)|null|
@@ -2938,7 +2942,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260609>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -2946,6 +2950,15 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-07**|**SCOPE: A Syndrome-Driven Control Plane for QEC-Enabled Quantum Networks**|Xiaojie Fan et.al.|[2606.08873](http://arxiv.org/abs/2606.08873)|null|
+|**2026-06-07**|**Algebra of Bivariate-Bicycle Surface Codes**|Renyu Wang et.al.|[2606.08771](http://arxiv.org/abs/2606.08771)|null|
+|**2026-06-07**|**Neural network decoder confidence as a learned proxy for the logical gap**|David Dentelski et.al.|[2606.08758](http://arxiv.org/abs/2606.08758)|null|
+|**2026-06-07**|**Quantum resource localizability transitions in deep thermalization**|Xiaozhou Feng et.al.|[2606.08756](http://arxiv.org/abs/2606.08756)|null|
+|**2026-06-07**|**New Codes from Cyclic and Negacyclic Codes of Even Length over $\mathbb{Z}_4$**|Nuh Aydin et.al.|[2606.08750](http://arxiv.org/abs/2606.08750)|null|
+|**2026-06-07**|**Quantum Global Variational Learning for Quantum Error Correction**|Shun Ryuzaki et.al.|[2606.08592](http://arxiv.org/abs/2606.08592)|null|
+|**2026-06-07**|**A Dual Metastable-State Encoding Architecture for Quantum Processing with $^{171}\mathrm{Yb}$ Atom Arrays**|Chun-Wei Liu et.al.|[2606.08453](http://arxiv.org/abs/2606.08453)|null|
+|**2026-06-05**|**Defining Unique, Redundant, and Synergistic Quantum Information**|Sean Ericson et.al.|[2606.07880](http://arxiv.org/abs/2606.07880)|null|
+|**2026-06-05**|**Exploring the landscape of compact magic-state distillation factories**|Hugo Jacinto et.al.|[2606.07734](http://arxiv.org/abs/2606.07734)|null|
 |**2026-06-05**|**Coherent versus stochastic error injection on a repetition-code logical qubit in superconducting hardware**|S. L. M. van der Meer et.al.|[2606.07377](http://arxiv.org/abs/2606.07377)|null|
 |**2026-06-05**|**QBugLM: An Agentic Benchmarking Framework for LLM-based Quantum Software Debugging**|An B. B. Pham et.al.|[2606.07314](http://arxiv.org/abs/2606.07314)|null|
 |**2026-06-04**|**A superconducting surface-code processor with lattice-surgery logical operations**|Yanzhe Wang et.al.|[2606.06598](http://arxiv.org/abs/2606.06598)|null|
@@ -5133,5 +5146,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260609>back to top</a>)</p>
 

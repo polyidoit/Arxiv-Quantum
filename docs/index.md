@@ -1517,6 +1517,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**Operation Mpemba effect: Breakdown of resource-Markovianity of free dynamics**|Tian-Ren Jin et.al.|[2606.09790](http://arxiv.org/abs/2606.09790)|null|
 |**2026-06-07**|**Quantum resource localizability transitions in deep thermalization**|Xiaozhou Feng et.al.|[2606.08756](http://arxiv.org/abs/2606.08756)|null|
 |**2026-06-04**|**Reliability of asymptotic work extraction**|Kaito Watanabe et.al.|[2606.06318](http://arxiv.org/abs/2606.06318)|null|
 |**2026-06-04**|**Semidefinite-programming hierarchies for classically simulable state families**|Mengyan Li et.al.|[2606.06204](http://arxiv.org/abs/2606.06204)|null|

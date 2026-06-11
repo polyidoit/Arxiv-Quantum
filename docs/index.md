@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Schauder-type Estimates and Log-Critical Well-posedness for the Two-Phase Muskat Problem with Surface Tension**|Ke Chen et.al.|[2606.12388](http://arxiv.org/abs/2606.12388)|null|
 |**2026-06-09**|**Robust self-testing based on Gisin's arbitrary-input Bell inequality**|Rajdeep Paul et.al.|[2606.10983](http://arxiv.org/abs/2606.10983)|null|
 |**2026-06-09**|**Genuine Multipartite Nonlocality for Arbitrary Input: Maximal Randomness Generation and Robust Self-Testing**|Rajdeep Paul et.al.|[2606.10936](http://arxiv.org/abs/2606.10936)|null|
 |**2026-06-09**|**Does the Weinberg angle allow a local hidden-variable description for the leptonic decays of an entangled $ZZ$ pair?**|Junle Pei et.al.|[2606.10737](http://arxiv.org/abs/2606.10737)|null|
@@ -1520,6 +1521,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Ambiguity-Free Inertial Measurement with Multi-Wavelength Atom Interferometry**|Wei-Chen Jia et.al.|[2606.11747](http://arxiv.org/abs/2606.11747)|null|
+|**2026-06-09**|**Implementing Hamiltonian Renormalization Group Flow on Quantum Computers with VAPOR**|Federica Fragomeno et.al.|[2606.11306](http://arxiv.org/abs/2606.11306)|null|
 |**2026-06-09**|**UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data**|Dong Fang et.al.|[2606.10683](http://arxiv.org/abs/2606.10683)|null|
 |**2026-06-08**|**Operation Mpemba effect: Breakdown of resource-Markovianity of free dynamics**|Tian-Ren Jin et.al.|[2606.09790](http://arxiv.org/abs/2606.09790)|null|
 |**2026-06-07**|**Quantum resource localizability transitions in deep thermalization**|Xiaozhou Feng et.al.|[2606.08756](http://arxiv.org/abs/2606.08756)|null|
@@ -2099,6 +2102,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Quantum ergodicity and semiclassical measures: mathematical results**|Stéphane Nonnenmacher et.al.|[2606.12098](http://arxiv.org/abs/2606.12098)|null|
 |**2026-06-09**|**Random Matrix Theory for Chaotic Wave Scattering and Transport**|Yan V. Fyodorov et.al.|[2606.10957](http://arxiv.org/abs/2606.10957)|null|
 |**2026-06-07**|**Hierarchical Neural Filtering of Nuclear Mass Residuals and Spectral Signatures of Quantum Chaos**|Jaskirat Singh et.al.|[2606.08546](http://arxiv.org/abs/2606.08546)|null|
 |**2026-06-03**|**Monitored chaotic scattering**|C. W. J. Beenakker et.al.|[2606.04794](http://arxiv.org/abs/2606.04794)|null|
@@ -2935,6 +2939,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-10**|**Scaling-optimal purification of noisy qubit unitary channels**|Ryotaro Niwa et.al.|[2606.12394](http://arxiv.org/abs/2606.12394)|null|
+|**2026-06-10**|**An iterative Ising decoder for quantum error correction codes**|Yuanqi Liu et.al.|[2606.12301](http://arxiv.org/abs/2606.12301)|null|
+|**2026-06-09**|**Logical error estimation from syndrome data of surface-code experiments**|Evangelia Takou et.al.|[2606.11496](http://arxiv.org/abs/2606.11496)|null|
 |**2026-06-09**|**Coset Ensemble Decoder for Quantum Error Correction with Algorithm-Hardware Co-Design**|Shuang Liang et.al.|[2606.11076](http://arxiv.org/abs/2606.11076)|null|
 |**2026-06-09**|**Bosonic Cyclic Codes: Trading Stabilizers for Gaussian Non-Clifford Phase Gates**|Owen C. Wetherbee et.al.|[2606.11010](http://arxiv.org/abs/2606.11010)|null|
 |**2026-06-09**|**Efficient Magic State Cultivation for $\sqrt{T}$ Gates**|I-Chi Chen et.al.|[2606.10430](http://arxiv.org/abs/2606.10430)|null|

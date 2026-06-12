@@ -2965,6 +2965,10 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-11**|**Approximate quantum error correction theory of non-isometric codes**|Yixu Wang et.al.|[2606.13559](http://arxiv.org/abs/2606.13559)|null|
+|**2026-06-11**|**Quantum Logic Codes: Complete Transversal Logical Clifford Instruction Sets for High-Rate Stabilizer Quantum Error Correcting Codes**|Adam Holmes et.al.|[2606.13521](http://arxiv.org/abs/2606.13521)|null|
+|**2026-06-11**|**Quantum Network Routing based on Surface Code Error Correction**|Tianjie Hu et.al.|[2606.12781](http://arxiv.org/abs/2606.12781)|null|
+|**2026-06-10**|**Block algebra for morphing circuits**|Rui Chao et.al.|[2606.12724](http://arxiv.org/abs/2606.12724)|null|
 |**2026-06-10**|**Scaling-optimal purification of noisy qubit unitary channels**|Ryotaro Niwa et.al.|[2606.12394](http://arxiv.org/abs/2606.12394)|null|
 |**2026-06-10**|**An iterative Ising decoder for quantum error correction codes**|Yuanqi Liu et.al.|[2606.12301](http://arxiv.org/abs/2606.12301)|null|
 |**2026-06-09**|**Logical error estimation from syndrome data of surface-code experiments**|Evangelia Takou et.al.|[2606.11496](http://arxiv.org/abs/2606.11496)|null|

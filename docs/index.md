@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -696,6 +696,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Beyond the Unruh vacuum: multi-time correlations in black hole collapse and evaporation**|Konstantinos Xenos et.al.|[2606.13383](http://arxiv.org/abs/2606.13383)|null|
+|**2026-06-10**|**Unifying spacetime approaches to quantum mechanics**|N. L. Diaz et.al.|[2606.12539](http://arxiv.org/abs/2606.12539)|null|
 |**2026-06-03**|**Leggett-Garg test inequality with spin and flavour neutrino oscillations in a constant magnetic field**|I. A. Monroy et.al.|[2606.04412](http://arxiv.org/abs/2606.04412)|null|
 |**2026-06-05**|**Indefinite Causal Order Reverses the Real-Complex Hierarchy**|Jacopo Surace et.al.|[2605.30238](http://arxiv.org/abs/2605.30238)|null|
 |**2026-05-24**|**Causal Order Cannot Be An Observable**|Declan Maguire et.al.|[2605.25302](http://arxiv.org/abs/2605.25302)|null|
@@ -1320,6 +1322,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Asymmetric quantum steering harvested near a Lorentz-violating BTZ black hole**|Si-Yu Liu et.al.|[2606.12766](http://arxiv.org/abs/2606.12766)|null|
 |**2026-06-06**|**Every Rank-Two Entangled State is Projectively Steerable**|Yu-Xuan Zhang et.al.|[2606.08189](http://arxiv.org/abs/2606.08189)|null|
 |**2026-05-27**|**Quantum Crossovers Revealed by Local Measurements**|A. C. S. Costa et.al.|[2605.29019](http://arxiv.org/abs/2605.29019)|null|
 |**2026-05-27**|**One pure steered state implies Einstein-Podolsky-Rosen steering**|Qiu-Cheng Song et.al.|[2605.18243](http://arxiv.org/abs/2605.18243)|null|
@@ -1521,9 +1524,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**SCAR dynamics of adolescent substance use: peer influence, dropout, and bifurcation structure in a school-based model**|Tamantha Pizarro et.al.|[2606.12564](http://arxiv.org/abs/2606.12564)|null|
 |**2026-06-10**|**Ambiguity-Free Inertial Measurement with Multi-Wavelength Atom Interferometry**|Wei-Chen Jia et.al.|[2606.11747](http://arxiv.org/abs/2606.11747)|null|
 |**2026-06-09**|**Implementing Hamiltonian Renormalization Group Flow on Quantum Computers with VAPOR**|Federica Fragomeno et.al.|[2606.11306](http://arxiv.org/abs/2606.11306)|null|
-|**2026-06-09**|**UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data**|Dong Fang et.al.|[2606.10683](http://arxiv.org/abs/2606.10683)|null|
+|**2026-06-11**|**UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data**|Dong Fang et.al.|[2606.10683](http://arxiv.org/abs/2606.10683)|null|
 |**2026-06-08**|**Operation Mpemba effect: Breakdown of resource-Markovianity of free dynamics**|Tian-Ren Jin et.al.|[2606.09790](http://arxiv.org/abs/2606.09790)|null|
 |**2026-06-07**|**Quantum resource localizability transitions in deep thermalization**|Xiaozhou Feng et.al.|[2606.08756](http://arxiv.org/abs/2606.08756)|null|
 |**2026-06-04**|**Reliability of asymptotic work extraction**|Kaito Watanabe et.al.|[2606.06318](http://arxiv.org/abs/2606.06318)|null|
@@ -2102,6 +2106,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Instabilities in a Non-KAM System via Information Scrambling: A Note**|Naga Dileep Varikuti et.al.|[2606.12761](http://arxiv.org/abs/2606.12761)|null|
 |**2026-06-10**|**Quantum ergodicity and semiclassical measures: mathematical results**|Stéphane Nonnenmacher et.al.|[2606.12098](http://arxiv.org/abs/2606.12098)|null|
 |**2026-06-09**|**Random Matrix Theory for Chaotic Wave Scattering and Transport**|Yan V. Fyodorov et.al.|[2606.10957](http://arxiv.org/abs/2606.10957)|null|
 |**2026-06-07**|**Hierarchical Neural Filtering of Nuclear Mass Residuals and Spectral Signatures of Quantum Chaos**|Jaskirat Singh et.al.|[2606.08546](http://arxiv.org/abs/2606.08546)|null|

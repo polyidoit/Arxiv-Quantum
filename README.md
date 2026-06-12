@@ -1,4 +1,4 @@
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -701,12 +701,14 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260612>back to top</a>)</p>
 
 ## Quantum causal model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**Beyond the Unruh vacuum: multi-time correlations in black hole collapse and evaporation**|Konstantinos Xenos et.al.|[2606.13383](http://arxiv.org/abs/2606.13383)|null|
+|**2026-06-10**|**Unifying spacetime approaches to quantum mechanics**|N. L. Diaz et.al.|[2606.12539](http://arxiv.org/abs/2606.12539)|null|
 |**2026-06-03**|**Leggett-Garg test inequality with spin and flavour neutrino oscillations in a constant magnetic field**|I. A. Monroy et.al.|[2606.04412](http://arxiv.org/abs/2606.04412)|null|
 |**2026-06-05**|**Indefinite Causal Order Reverses the Real-Complex Hierarchy**|Jacopo Surace et.al.|[2605.30238](http://arxiv.org/abs/2605.30238)|null|
 |**2026-05-24**|**Causal Order Cannot Be An Observable**|Declan Maguire et.al.|[2605.25302](http://arxiv.org/abs/2605.25302)|null|
@@ -1025,7 +1027,7 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260612>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -1329,12 +1331,13 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260612>back to top</a>)</p>
 
 ## Quantum steering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**Asymmetric quantum steering harvested near a Lorentz-violating BTZ black hole**|Si-Yu Liu et.al.|[2606.12766](http://arxiv.org/abs/2606.12766)|null|
 |**2026-06-06**|**Every Rank-Two Entangled State is Projectively Steerable**|Yu-Xuan Zhang et.al.|[2606.08189](http://arxiv.org/abs/2606.08189)|null|
 |**2026-05-27**|**Quantum Crossovers Revealed by Local Measurements**|A. C. S. Costa et.al.|[2605.29019](http://arxiv.org/abs/2605.29019)|null|
 |**2026-05-27**|**One pure steered state implies Einstein-Podolsky-Rosen steering**|Qiu-Cheng Song et.al.|[2605.18243](http://arxiv.org/abs/2605.18243)|null|
@@ -1532,15 +1535,16 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260612>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**SCAR dynamics of adolescent substance use: peer influence, dropout, and bifurcation structure in a school-based model**|Tamantha Pizarro et.al.|[2606.12564](http://arxiv.org/abs/2606.12564)|null|
 |**2026-06-10**|**Ambiguity-Free Inertial Measurement with Multi-Wavelength Atom Interferometry**|Wei-Chen Jia et.al.|[2606.11747](http://arxiv.org/abs/2606.11747)|null|
 |**2026-06-09**|**Implementing Hamiltonian Renormalization Group Flow on Quantum Computers with VAPOR**|Federica Fragomeno et.al.|[2606.11306](http://arxiv.org/abs/2606.11306)|null|
-|**2026-06-09**|**UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data**|Dong Fang et.al.|[2606.10683](http://arxiv.org/abs/2606.10683)|null|
+|**2026-06-11**|**UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data**|Dong Fang et.al.|[2606.10683](http://arxiv.org/abs/2606.10683)|null|
 |**2026-06-08**|**Operation Mpemba effect: Breakdown of resource-Markovianity of free dynamics**|Tian-Ren Jin et.al.|[2606.09790](http://arxiv.org/abs/2606.09790)|null|
 |**2026-06-07**|**Quantum resource localizability transitions in deep thermalization**|Xiaozhou Feng et.al.|[2606.08756](http://arxiv.org/abs/2606.08756)|null|
 |**2026-06-04**|**Reliability of asymptotic work extraction**|Kaito Watanabe et.al.|[2606.06318](http://arxiv.org/abs/2606.06318)|null|
@@ -2115,12 +2119,13 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260612>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**Instabilities in a Non-KAM System via Information Scrambling: A Note**|Naga Dileep Varikuti et.al.|[2606.12761](http://arxiv.org/abs/2606.12761)|null|
 |**2026-06-10**|**Quantum ergodicity and semiclassical measures: mathematical results**|Stéphane Nonnenmacher et.al.|[2606.12098](http://arxiv.org/abs/2606.12098)|null|
 |**2026-06-09**|**Random Matrix Theory for Chaotic Wave Scattering and Transport**|Yan V. Fyodorov et.al.|[2606.10957](http://arxiv.org/abs/2606.10957)|null|
 |**2026-06-07**|**Hierarchical Neural Filtering of Nuclear Mass Residuals and Spectral Signatures of Quantum Chaos**|Jaskirat Singh et.al.|[2606.08546](http://arxiv.org/abs/2606.08546)|null|
@@ -2952,7 +2957,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260612>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -5166,5 +5171,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260612>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2944,13 +2944,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-12**|**Quasilinear Equivalence Checking for Detector Error Models**|Mathys Rennela et.al.|[2606.14677](http://arxiv.org/abs/2606.14677)|null|
+|**2026-06-12**|**Quantum codes and optimal pure quantum $(r,δ)$ -LRCs via the MP construction**|Meng Cao et.al.|[2606.14253](http://arxiv.org/abs/2606.14253)|null|
+|**2026-06-12**|**All about quantum error correction: distillation, mitigation, self-correction and beyond**|D. -S. Wang et.al.|[2606.14034](http://arxiv.org/abs/2606.14034)|null|
 |**2026-06-11**|**Approximate quantum error correction theory of non-isometric codes**|Yixu Wang et.al.|[2606.13559](http://arxiv.org/abs/2606.13559)|null|
 |**2026-06-11**|**Quantum Logic Codes: Complete Transversal Logical Clifford Instruction Sets for High-Rate Stabilizer Quantum Error Correcting Codes**|Adam Holmes et.al.|[2606.13521](http://arxiv.org/abs/2606.13521)|null|
 |**2026-06-11**|**Quantum Network Routing based on Surface Code Error Correction**|Tianjie Hu et.al.|[2606.12781](http://arxiv.org/abs/2606.12781)|null|
 |**2026-06-10**|**Block algebra for morphing circuits**|Rui Chao et.al.|[2606.12724](http://arxiv.org/abs/2606.12724)|null|
 |**2026-06-10**|**Scaling-optimal purification of noisy qubit unitary channels**|Ryotaro Niwa et.al.|[2606.12394](http://arxiv.org/abs/2606.12394)|null|
 |**2026-06-10**|**An iterative Ising decoder for quantum error correction codes**|Yuanqi Liu et.al.|[2606.12301](http://arxiv.org/abs/2606.12301)|null|
-|**2026-06-09**|**Logical error estimation from syndrome data of surface-code experiments**|Evangelia Takou et.al.|[2606.11496](http://arxiv.org/abs/2606.11496)|null|
+|**2026-06-12**|**Logical error estimation from syndrome data of surface-code experiments**|Evangelia Takou et.al.|[2606.11496](http://arxiv.org/abs/2606.11496)|null|
 |**2026-06-09**|**Coset Ensemble Decoder for Quantum Error Correction with Algorithm-Hardware Co-Design**|Shuang Liang et.al.|[2606.11076](http://arxiv.org/abs/2606.11076)|null|
 |**2026-06-09**|**Bosonic Cyclic Codes: Trading Stabilizers for Gaussian Non-Clifford Phase Gates**|Owen C. Wetherbee et.al.|[2606.11010](http://arxiv.org/abs/2606.11010)|null|
 |**2026-06-09**|**Efficient Magic State Cultivation for $\sqrt{T}$ Gates**|I-Chi Chen et.al.|[2606.10430](http://arxiv.org/abs/2606.10430)|null|

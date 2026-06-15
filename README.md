@@ -1033,6 +1033,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-12**|**Pairwise Compatibility Representations of Multidimensional Grid Graphs**|Sheikh Azizul Hakim et.al.|[2606.14656](http://arxiv.org/abs/2606.14656)|null|
+|**2026-06-12**|**Fermi gas of polar molecules in the Pauli-blocked regime**|Junyu Lin et.al.|[2606.14135](http://arxiv.org/abs/2606.14135)|null|
 |**2026-06-08**|**Global Kochen-Specker Contextuality Without Local Contextuality and Generalized Bell Nonlocality**|Ming Yang et.al.|[2605.28702](http://arxiv.org/abs/2605.28702)|null|
 |**2026-05-26**|**Distinguishing Bohmian contextuality from Kochen-Specker contextuality**|Anton Skott et.al.|[2605.24446](http://arxiv.org/abs/2605.24446)|null|
 |**2026-05-18**|**Linear-optical test of quantum contextuality with sequential measurements**|Jiaqi Liu et.al.|[2605.18112](http://arxiv.org/abs/2605.18112)|null|

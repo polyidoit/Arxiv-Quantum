@@ -1327,6 +1327,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Detecting basis-dependent hardware errors through spatio-temporal quantum steering**|Hsiang-Wei Huang et.al.|[2606.16451](http://arxiv.org/abs/2606.16451)|null|
 |**2026-06-11**|**Asymmetric quantum steering harvested near a Lorentz-violating BTZ black hole**|Si-Yu Liu et.al.|[2606.12766](http://arxiv.org/abs/2606.12766)|null|
 |**2026-06-06**|**Every Rank-Two Entangled State is Projectively Steerable**|Yu-Xuan Zhang et.al.|[2606.08189](http://arxiv.org/abs/2606.08189)|null|
 |**2026-05-27**|**Quantum Crossovers Revealed by Local Measurements**|A. C. S. Costa et.al.|[2605.29019](http://arxiv.org/abs/2605.29019)|null|
@@ -1529,6 +1530,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Embedded Arena: Iterative Optimization via Hardware Feedback**|Zhihan Zhang et.al.|[2606.16190](http://arxiv.org/abs/2606.16190)|null|
 |**2026-06-10**|**SCAR dynamics of adolescent substance use: peer influence, dropout, and bifurcation structure in a school-based model**|Tamantha Pizarro et.al.|[2606.12564](http://arxiv.org/abs/2606.12564)|null|
 |**2026-06-10**|**Ambiguity-Free Inertial Measurement with Multi-Wavelength Atom Interferometry**|Wei-Chen Jia et.al.|[2606.11747](http://arxiv.org/abs/2606.11747)|null|
 |**2026-06-09**|**Implementing Hamiltonian Renormalization Group Flow on Quantum Computers with VAPOR**|Federica Fragomeno et.al.|[2606.11306](http://arxiv.org/abs/2606.11306)|null|
@@ -2111,6 +2113,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Morphology-resolved scrambling in a chaotic quantum billiard**|Pranaya Pratik Das et.al.|[2606.16865](http://arxiv.org/abs/2606.16865)|null|
+|**2026-06-15**|**Calibrating the Brody exponent as a quantitative measure of short-range exclusion in 2D spatial point processes**|Dawid Kucharski et.al.|[2606.16393](http://arxiv.org/abs/2606.16393)|null|
 |**2026-06-11**|**Instabilities in a Non-KAM System via Information Scrambling: A Note**|Naga Dileep Varikuti et.al.|[2606.12761](http://arxiv.org/abs/2606.12761)|null|
 |**2026-06-10**|**Quantum ergodicity and semiclassical measures: mathematical results**|Stéphane Nonnenmacher et.al.|[2606.12098](http://arxiv.org/abs/2606.12098)|null|
 |**2026-06-09**|**Random Matrix Theory for Chaotic Wave Scattering and Transport**|Yan V. Fyodorov et.al.|[2606.10957](http://arxiv.org/abs/2606.10957)|null|
@@ -2949,6 +2953,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-15**|**Fuzzy-processing quantum computation**|Yan-Xiong Du et.al.|[2606.16623](http://arxiv.org/abs/2606.16623)|null|
+|**2026-06-15**|**Reconstruction of detector error model for quantum error correction**|Cheng Ye et.al.|[2606.16288](http://arxiv.org/abs/2606.16288)|null|
+|**2026-06-15**|**Efficient Magic State Factory Via Transversal Non-Clifford Gate**|I-Chi Chen et.al.|[2606.16199](http://arxiv.org/abs/2606.16199)|null|
+|**2026-06-14**|**Readout-Induced Leakage in Superconducting Circuits with Nonlinear Couplings**|Sumeru Hazra et.al.|[2606.16055](http://arxiv.org/abs/2606.16055)|null|
+|**2026-06-13**|**Lattice surgery for near-term experimental logical qubit entanglement creation in planar architectures**|Lukas Bödeker et.al.|[2606.15190](http://arxiv.org/abs/2606.15190)|null|
+|**2026-06-12**|**Generalized Kerr-Cat Qubit Codes**|Alonso Viladomat et.al.|[2606.14901](http://arxiv.org/abs/2606.14901)|null|
 |**2026-06-12**|**Quasilinear Equivalence Checking for Detector Error Models**|Mathys Rennela et.al.|[2606.14677](http://arxiv.org/abs/2606.14677)|null|
 |**2026-06-12**|**Quantum codes and optimal pure quantum $(r,δ)$ -LRCs via the MP construction**|Meng Cao et.al.|[2606.14253](http://arxiv.org/abs/2606.14253)|null|
 |**2026-06-12**|**All about quantum error correction: distillation, mitigation, self-correction and beyond**|D. -S. Wang et.al.|[2606.14034](http://arxiv.org/abs/2606.14034)|null|

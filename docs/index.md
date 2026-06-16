@@ -2,15 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-13**|**Single-Image Entanglement Verification with Spatially Encoded Measurement Contexts**|Nazanin Dehghan et.al.|[2606.15382](http://arxiv.org/abs/2606.15382)|null|
 |**2026-06-10**|**Schauder-type Estimates and Log-Critical Well-posedness for the Two-Phase Muskat Problem with Surface Tension**|Ke Chen et.al.|[2606.12388](http://arxiv.org/abs/2606.12388)|null|
 |**2026-06-09**|**Robust self-testing based on Gisin's arbitrary-input Bell inequality**|Rajdeep Paul et.al.|[2606.10983](http://arxiv.org/abs/2606.10983)|null|
 |**2026-06-09**|**Genuine Multipartite Nonlocality for Arbitrary Input: Maximal Randomness Generation and Robust Self-Testing**|Rajdeep Paul et.al.|[2606.10936](http://arxiv.org/abs/2606.10936)|null|
-|**2026-06-09**|**Does the Weinberg angle allow a local hidden-variable description for the leptonic decays of an entangled $ZZ$ pair?**|Junle Pei et.al.|[2606.10737](http://arxiv.org/abs/2606.10737)|null|
+|**2026-06-15**|**Does the Weinberg angle allow a local hidden-variable description for the leptonic decays of an entangled $ZZ$ pair?**|Junle Pei et.al.|[2606.10737](http://arxiv.org/abs/2606.10737)|null|
 |**2026-06-07**|**Nonlocal Teams and Information Structures**|Drishti Baruah et.al.|[2606.08645](http://arxiv.org/abs/2606.08645)|null|
 |**2026-06-01**|**Bounds on Nonlocality and Random Access Codes from Extended Information Causality Principle**|Prabhav Jain et.al.|[2606.02416](http://arxiv.org/abs/2606.02416)|null|
 |**2026-06-01**|**Quantum light source with lithium tantalate for scalable photonic quantum circuits**|Yun-Ru Fan et.al.|[2606.01657](http://arxiv.org/abs/2606.01657)|null|
@@ -696,6 +697,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-14**|**Quantum coherence and Leggett-Garg inequality**|A. Jalal et.al.|[2606.15717](http://arxiv.org/abs/2606.15717)|null|
 |**2026-06-11**|**Beyond the Unruh vacuum: multi-time correlations in black hole collapse and evaporation**|Konstantinos Xenos et.al.|[2606.13383](http://arxiv.org/abs/2606.13383)|null|
 |**2026-06-10**|**Unifying spacetime approaches to quantum mechanics**|N. L. Diaz et.al.|[2606.12539](http://arxiv.org/abs/2606.12539)|null|
 |**2026-06-03**|**Leggett-Garg test inequality with spin and flavour neutrino oscillations in a constant magnetic field**|I. A. Monroy et.al.|[2606.04412](http://arxiv.org/abs/2606.04412)|null|
@@ -1020,6 +1022,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-13**|**4-momentum conservation as the principal framework for mesonic decay: The case of helium-5-lambda**|Emile Meoto et.al.|[2606.15262](http://arxiv.org/abs/2606.15262)|null|
 |**2026-06-12**|**Pairwise Compatibility Representations of Multidimensional Grid Graphs**|Sheikh Azizul Hakim et.al.|[2606.14656](http://arxiv.org/abs/2606.14656)|null|
 |**2026-06-12**|**Fermi gas of polar molecules in the Pauli-blocked regime**|Junyu Lin et.al.|[2606.14135](http://arxiv.org/abs/2606.14135)|null|
 |**2026-06-08**|**Global Kochen-Specker Contextuality Without Local Contextuality and Generalized Bell Nonlocality**|Ming Yang et.al.|[2605.28702](http://arxiv.org/abs/2605.28702)|null|

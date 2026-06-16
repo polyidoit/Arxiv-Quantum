@@ -1,4 +1,4 @@
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,10 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-13**|**Single-Image Entanglement Verification with Spatially Encoded Measurement Contexts**|Nazanin Dehghan et.al.|[2606.15382](http://arxiv.org/abs/2606.15382)|null|
 |**2026-06-10**|**Schauder-type Estimates and Log-Critical Well-posedness for the Two-Phase Muskat Problem with Surface Tension**|Ke Chen et.al.|[2606.12388](http://arxiv.org/abs/2606.12388)|null|
 |**2026-06-09**|**Robust self-testing based on Gisin's arbitrary-input Bell inequality**|Rajdeep Paul et.al.|[2606.10983](http://arxiv.org/abs/2606.10983)|null|
 |**2026-06-09**|**Genuine Multipartite Nonlocality for Arbitrary Input: Maximal Randomness Generation and Robust Self-Testing**|Rajdeep Paul et.al.|[2606.10936](http://arxiv.org/abs/2606.10936)|null|
-|**2026-06-09**|**Does the Weinberg angle allow a local hidden-variable description for the leptonic decays of an entangled $ZZ$ pair?**|Junle Pei et.al.|[2606.10737](http://arxiv.org/abs/2606.10737)|null|
+|**2026-06-15**|**Does the Weinberg angle allow a local hidden-variable description for the leptonic decays of an entangled $ZZ$ pair?**|Junle Pei et.al.|[2606.10737](http://arxiv.org/abs/2606.10737)|null|
 |**2026-06-07**|**Nonlocal Teams and Information Structures**|Drishti Baruah et.al.|[2606.08645](http://arxiv.org/abs/2606.08645)|null|
 |**2026-06-01**|**Bounds on Nonlocality and Random Access Codes from Extended Information Causality Principle**|Prabhav Jain et.al.|[2606.02416](http://arxiv.org/abs/2606.02416)|null|
 |**2026-06-01**|**Quantum light source with lithium tantalate for scalable photonic quantum circuits**|Yun-Ru Fan et.al.|[2606.01657](http://arxiv.org/abs/2606.01657)|null|
@@ -701,12 +702,13 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 
 ## Quantum causal model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-14**|**Quantum coherence and Leggett-Garg inequality**|A. Jalal et.al.|[2606.15717](http://arxiv.org/abs/2606.15717)|null|
 |**2026-06-11**|**Beyond the Unruh vacuum: multi-time correlations in black hole collapse and evaporation**|Konstantinos Xenos et.al.|[2606.13383](http://arxiv.org/abs/2606.13383)|null|
 |**2026-06-10**|**Unifying spacetime approaches to quantum mechanics**|N. L. Diaz et.al.|[2606.12539](http://arxiv.org/abs/2606.12539)|null|
 |**2026-06-03**|**Leggett-Garg test inequality with spin and flavour neutrino oscillations in a constant magnetic field**|I. A. Monroy et.al.|[2606.04412](http://arxiv.org/abs/2606.04412)|null|
@@ -1027,12 +1029,13 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-13**|**4-momentum conservation as the principal framework for mesonic decay: The case of helium-5-lambda**|Emile Meoto et.al.|[2606.15262](http://arxiv.org/abs/2606.15262)|null|
 |**2026-06-12**|**Pairwise Compatibility Representations of Multidimensional Grid Graphs**|Sheikh Azizul Hakim et.al.|[2606.14656](http://arxiv.org/abs/2606.14656)|null|
 |**2026-06-12**|**Fermi gas of polar molecules in the Pauli-blocked regime**|Junyu Lin et.al.|[2606.14135](http://arxiv.org/abs/2606.14135)|null|
 |**2026-06-08**|**Global Kochen-Specker Contextuality Without Local Contextuality and Generalized Bell Nonlocality**|Ming Yang et.al.|[2605.28702](http://arxiv.org/abs/2605.28702)|null|
@@ -1333,7 +1336,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1537,7 +1540,7 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 
 ## Resource theory
 
@@ -2121,7 +2124,7 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -2959,7 +2962,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -5180,5 +5183,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 

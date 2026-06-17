@@ -2976,6 +2976,12 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-16**|**Impulse Decoding of Quantum LDPC Codes: Equivalence of Degeneracy and Code-Shortening**|Shobhit Bhatnagar et.al.|[2606.18240](http://arxiv.org/abs/2606.18240)|null|
+|**2026-06-16**|**Learning Arbitrary Lindbladians with Quantum Error Correction**|Nikita Romanov et.al.|[2606.18188](http://arxiv.org/abs/2606.18188)|null|
+|**2026-06-16**|**A polynomial-time approximation scheme for minimum-weight decoding of topological codes**|Shouzhen Gu et.al.|[2606.18145](http://arxiv.org/abs/2606.18145)|null|
+|**2026-06-16**|**Optimizing bias-tailored quantum error correction beyond code-capacity noise**|César Benito et.al.|[2606.17709](http://arxiv.org/abs/2606.17709)|null|
+|**2026-06-16**|**Impact of Network Constraints on Fault-Tolerant Distributed Quantum Computing**|Eneet Kaur et.al.|[2606.17495](http://arxiv.org/abs/2606.17495)|null|
+|**2026-06-15**|**Projected logical ensembles in surface codes via the random-matrix theory of quantum dots**|Mircea Bejan et.al.|[2606.17140](http://arxiv.org/abs/2606.17140)|null|
 |**2026-06-15**|**Fuzzy-processing quantum computation**|Yan-Xiong Du et.al.|[2606.16623](http://arxiv.org/abs/2606.16623)|null|
 |**2026-06-15**|**Reconstruction of detector error model for quantum error correction**|Cheng Ye et.al.|[2606.16288](http://arxiv.org/abs/2606.16288)|null|
 |**2026-06-15**|**Efficient Magic State Factory Via Transversal Non-Clifford Gate**|I-Chi Chen et.al.|[2606.16199](http://arxiv.org/abs/2606.16199)|null|

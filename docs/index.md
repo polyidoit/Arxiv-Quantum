@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1530,6 +1530,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**Semiclassical Analysis of Tunneling in Graphene under Nonuniform Electrostatic and Magnetic Fields**|Maria V. Perel et.al.|[2606.17689](http://arxiv.org/abs/2606.17689)|null|
+|**2026-06-15**|**Induced Resource Theories and Harvesting via Quantum Probes**|Ron Nyström et.al.|[2606.17287](http://arxiv.org/abs/2606.17287)|null|
 |**2026-06-15**|**Embedded Arena: Iterative Optimization via Hardware Feedback**|Zhihan Zhang et.al.|[2606.16190](http://arxiv.org/abs/2606.16190)|null|
 |**2026-06-10**|**SCAR dynamics of adolescent substance use: peer influence, dropout, and bifurcation structure in a school-based model**|Tamantha Pizarro et.al.|[2606.12564](http://arxiv.org/abs/2606.12564)|null|
 |**2026-06-10**|**Ambiguity-Free Inertial Measurement with Multi-Wavelength Atom Interferometry**|Wei-Chen Jia et.al.|[2606.11747](http://arxiv.org/abs/2606.11747)|null|

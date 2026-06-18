@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1022,6 +1022,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**From Localized Packets to Plane Waves: A Time-Domain Approach to Transport in Mesoscopic Systems**|Andrzej Biborski et.al.|[2606.19012](http://arxiv.org/abs/2606.19012)|null|
+|**2026-06-17**|**Observation of anyonic thermodynamics and generalized Pauli principle**|Fansu Wei et.al.|[2606.19009](http://arxiv.org/abs/2606.19009)|null|
 |**2026-06-13**|**4-momentum conservation as the principal framework for mesonic decay: The case of helium-5-lambda**|Emile Meoto et.al.|[2606.15262](http://arxiv.org/abs/2606.15262)|null|
 |**2026-06-12**|**Pairwise Compatibility Representations of Multidimensional Grid Graphs**|Sheikh Azizul Hakim et.al.|[2606.14656](http://arxiv.org/abs/2606.14656)|null|
 |**2026-06-12**|**Fermi gas of polar molecules in the Pauli-blocked regime**|Junyu Lin et.al.|[2606.14135](http://arxiv.org/abs/2606.14135)|null|
@@ -1530,6 +1532,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Re-Rooting-Based Fault-Tolerant One-to-All Broadcasting in Dense Eisenstein--Jacobi Networks**|Bader Albader et.al.|[2606.18712](http://arxiv.org/abs/2606.18712)|null|
 |**2026-06-16**|**Semiclassical Analysis of Tunneling in Graphene under Nonuniform Electrostatic and Magnetic Fields**|Maria V. Perel et.al.|[2606.17689](http://arxiv.org/abs/2606.17689)|null|
 |**2026-06-15**|**Induced Resource Theories and Harvesting via Quantum Probes**|Ron Nyström et.al.|[2606.17287](http://arxiv.org/abs/2606.17287)|null|
 |**2026-06-15**|**Embedded Arena: Iterative Optimization via Hardware Feedback**|Zhihan Zhang et.al.|[2606.16190](http://arxiv.org/abs/2606.16190)|null|
@@ -2115,6 +2118,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**|Daniel Harkin et.al.|[2606.19331](http://arxiv.org/abs/2606.19331)|null|
+|**2026-06-17**|**Probing chaos and thermalization through out-of-time-ordered correlators in random field spin chains**|C Jisha et.al.|[2606.18982](http://arxiv.org/abs/2606.18982)|null|
+|**2026-06-17**|**Mimicry of chaos and $k$ -design in higher order OTOCs of Luttinger liquids**|Balázs Dóra et.al.|[2606.18800](http://arxiv.org/abs/2606.18800)|null|
+|**2026-06-16**|**Tunable Chaos in the Finite Mean SYK Model**|Arkaprava Mukherjee et.al.|[2606.18529](http://arxiv.org/abs/2606.18529)|null|
+|**2026-06-16**|**Probing weak chaos in $\mathcal N=4$ super Yang-Mills and long-range spin chains**|Pawel Caputa et.al.|[2606.18351](http://arxiv.org/abs/2606.18351)|null|
 |**2026-06-15**|**Morphology-resolved scrambling in a chaotic quantum billiard**|Pranaya Pratik Das et.al.|[2606.16865](http://arxiv.org/abs/2606.16865)|null|
 |**2026-06-15**|**Calibrating the Brody exponent as a quantitative measure of short-range exclusion in 2D spatial point processes**|Dawid Kucharski et.al.|[2606.16393](http://arxiv.org/abs/2606.16393)|null|
 |**2026-06-11**|**Instabilities in a Non-KAM System via Information Scrambling: A Note**|Naga Dileep Varikuti et.al.|[2606.12761](http://arxiv.org/abs/2606.12761)|null|
@@ -2962,7 +2970,7 @@ layout: default
 |**2026-06-16**|**Impact of Network Constraints on Fault-Tolerant Distributed Quantum Computing**|Eneet Kaur et.al.|[2606.17495](http://arxiv.org/abs/2606.17495)|null|
 |**2026-06-15**|**Projected logical ensembles in surface codes via the random-matrix theory of quantum dots**|Mircea Bejan et.al.|[2606.17140](http://arxiv.org/abs/2606.17140)|null|
 |**2026-06-15**|**Fuzzy-processing quantum computation**|Yan-Xiong Du et.al.|[2606.16623](http://arxiv.org/abs/2606.16623)|null|
-|**2026-06-15**|**Reconstruction of detector error model for quantum error correction**|Cheng Ye et.al.|[2606.16288](http://arxiv.org/abs/2606.16288)|null|
+|**2026-06-17**|**Reconstruction of detector error model for quantum error correction**|Cheng Ye et.al.|[2606.16288](http://arxiv.org/abs/2606.16288)|null|
 |**2026-06-15**|**Efficient Magic State Factory Via Transversal Non-Clifford Gate**|I-Chi Chen et.al.|[2606.16199](http://arxiv.org/abs/2606.16199)|null|
 |**2026-06-14**|**Readout-Induced Leakage in Superconducting Circuits with Nonlinear Couplings**|Sumeru Hazra et.al.|[2606.16055](http://arxiv.org/abs/2606.16055)|null|
 |**2026-06-13**|**Lattice surgery for near-term experimental logical qubit entanglement creation in planar architectures**|Lukas Bödeker et.al.|[2606.15190](http://arxiv.org/abs/2606.15190)|null|

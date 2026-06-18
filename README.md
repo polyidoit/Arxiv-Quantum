@@ -1,4 +1,4 @@
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -702,7 +702,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -1029,12 +1029,14 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**From Localized Packets to Plane Waves: A Time-Domain Approach to Transport in Mesoscopic Systems**|Andrzej Biborski et.al.|[2606.19012](http://arxiv.org/abs/2606.19012)|null|
+|**2026-06-17**|**Observation of anyonic thermodynamics and generalized Pauli principle**|Fansu Wei et.al.|[2606.19009](http://arxiv.org/abs/2606.19009)|null|
 |**2026-06-13**|**4-momentum conservation as the principal framework for mesonic decay: The case of helium-5-lambda**|Emile Meoto et.al.|[2606.15262](http://arxiv.org/abs/2606.15262)|null|
 |**2026-06-12**|**Pairwise Compatibility Representations of Multidimensional Grid Graphs**|Sheikh Azizul Hakim et.al.|[2606.14656](http://arxiv.org/abs/2606.14656)|null|
 |**2026-06-12**|**Fermi gas of polar molecules in the Pauli-blocked regime**|Junyu Lin et.al.|[2606.14135](http://arxiv.org/abs/2606.14135)|null|
@@ -1336,7 +1338,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1541,12 +1543,13 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**Re-Rooting-Based Fault-Tolerant One-to-All Broadcasting in Dense Eisenstein--Jacobi Networks**|Bader Albader et.al.|[2606.18712](http://arxiv.org/abs/2606.18712)|null|
 |**2026-06-16**|**Semiclassical Analysis of Tunneling in Graphene under Nonuniform Electrostatic and Magnetic Fields**|Maria V. Perel et.al.|[2606.17689](http://arxiv.org/abs/2606.17689)|null|
 |**2026-06-15**|**Induced Resource Theories and Harvesting via Quantum Probes**|Ron Nyström et.al.|[2606.17287](http://arxiv.org/abs/2606.17287)|null|
 |**2026-06-15**|**Embedded Arena: Iterative Optimization via Hardware Feedback**|Zhihan Zhang et.al.|[2606.16190](http://arxiv.org/abs/2606.16190)|null|
@@ -2128,12 +2131,17 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**|Daniel Harkin et.al.|[2606.19331](http://arxiv.org/abs/2606.19331)|null|
+|**2026-06-17**|**Probing chaos and thermalization through out-of-time-ordered correlators in random field spin chains**|C Jisha et.al.|[2606.18982](http://arxiv.org/abs/2606.18982)|null|
+|**2026-06-17**|**Mimicry of chaos and $k$ -design in higher order OTOCs of Luttinger liquids**|Balázs Dóra et.al.|[2606.18800](http://arxiv.org/abs/2606.18800)|null|
+|**2026-06-16**|**Tunable Chaos in the Finite Mean SYK Model**|Arkaprava Mukherjee et.al.|[2606.18529](http://arxiv.org/abs/2606.18529)|null|
+|**2026-06-16**|**Probing weak chaos in $\mathcal N=4$ super Yang-Mills and long-range spin chains**|Pawel Caputa et.al.|[2606.18351](http://arxiv.org/abs/2606.18351)|null|
 |**2026-06-15**|**Morphology-resolved scrambling in a chaotic quantum billiard**|Pranaya Pratik Das et.al.|[2606.16865](http://arxiv.org/abs/2606.16865)|null|
 |**2026-06-15**|**Calibrating the Brody exponent as a quantitative measure of short-range exclusion in 2D spatial point processes**|Dawid Kucharski et.al.|[2606.16393](http://arxiv.org/abs/2606.16393)|null|
 |**2026-06-11**|**Instabilities in a Non-KAM System via Information Scrambling: A Note**|Naga Dileep Varikuti et.al.|[2606.12761](http://arxiv.org/abs/2606.12761)|null|
@@ -2968,7 +2976,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -2983,7 +2991,7 @@
 |**2026-06-16**|**Impact of Network Constraints on Fault-Tolerant Distributed Quantum Computing**|Eneet Kaur et.al.|[2606.17495](http://arxiv.org/abs/2606.17495)|null|
 |**2026-06-15**|**Projected logical ensembles in surface codes via the random-matrix theory of quantum dots**|Mircea Bejan et.al.|[2606.17140](http://arxiv.org/abs/2606.17140)|null|
 |**2026-06-15**|**Fuzzy-processing quantum computation**|Yan-Xiong Du et.al.|[2606.16623](http://arxiv.org/abs/2606.16623)|null|
-|**2026-06-15**|**Reconstruction of detector error model for quantum error correction**|Cheng Ye et.al.|[2606.16288](http://arxiv.org/abs/2606.16288)|null|
+|**2026-06-17**|**Reconstruction of detector error model for quantum error correction**|Cheng Ye et.al.|[2606.16288](http://arxiv.org/abs/2606.16288)|null|
 |**2026-06-15**|**Efficient Magic State Factory Via Transversal Non-Clifford Gate**|I-Chi Chen et.al.|[2606.16199](http://arxiv.org/abs/2606.16199)|null|
 |**2026-06-14**|**Readout-Induced Leakage in Superconducting Circuits with Nonlinear Couplings**|Sumeru Hazra et.al.|[2606.16055](http://arxiv.org/abs/2606.16055)|null|
 |**2026-06-13**|**Lattice surgery for near-term experimental logical qubit entanglement creation in planar architectures**|Lukas Bödeker et.al.|[2606.15190](http://arxiv.org/abs/2606.15190)|null|
@@ -5201,5 +5209,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 

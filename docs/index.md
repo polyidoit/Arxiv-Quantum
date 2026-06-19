@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Discrimination of genuinely nonlocal sets without entanglement in multipartite systems**|Ziying Hou et.al.|[2606.20380](http://arxiv.org/abs/2606.20380)|null|
 |**2026-06-13**|**Single-Image Entanglement Verification with Spatially Encoded Measurement Contexts**|Nazanin Dehghan et.al.|[2606.15382](http://arxiv.org/abs/2606.15382)|null|
 |**2026-06-10**|**Schauder-type Estimates and Log-Critical Well-posedness for the Two-Phase Muskat Problem with Surface Tension**|Ke Chen et.al.|[2606.12388](http://arxiv.org/abs/2606.12388)|null|
 |**2026-06-09**|**Robust self-testing based on Gisin's arbitrary-input Bell inequality**|Rajdeep Paul et.al.|[2606.10983](http://arxiv.org/abs/2606.10983)|null|
@@ -697,6 +698,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**GPU-accelerated semidefinite programming for causal games**|Emanuel-Cristian Boghiu et.al.|[2606.20519](http://arxiv.org/abs/2606.20519)|null|
+|**2026-06-17**|**Indefinite Quantum Causality**|Fabio Costa et.al.|[2606.19438](http://arxiv.org/abs/2606.19438)|null|
 |**2026-06-14**|**Quantum coherence and Leggett-Garg inequality**|A. Jalal et.al.|[2606.15717](http://arxiv.org/abs/2606.15717)|null|
 |**2026-06-11**|**Beyond the Unruh vacuum: multi-time correlations in black hole collapse and evaporation**|Konstantinos Xenos et.al.|[2606.13383](http://arxiv.org/abs/2606.13383)|null|
 |**2026-06-10**|**Unifying spacetime approaches to quantum mechanics**|N. L. Diaz et.al.|[2606.12539](http://arxiv.org/abs/2606.12539)|null|
@@ -2963,6 +2966,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-18**|**Thinking in Boxes: 3D Editing in Real Images Made Easy**|Pradhaan S Bhat et.al.|[2606.20556](http://arxiv.org/abs/2606.20556)|null|
+|**2026-06-18**|**Approximating optimal decoding of quantum LDPC codes with narrow frontiers**|Anthony Leverrier et.al.|[2606.20513](http://arxiv.org/abs/2606.20513)|null|
+|**2026-06-18**|**Vine Codes: Low-Overhead Quantum LDPC Codes on a Planar Square Grid**|Georgia M. Nixon et.al.|[2606.20263](http://arxiv.org/abs/2606.20263)|null|
+|**2026-06-18**|**QPU-scale randomized benchmarking via Bell-pair injection**|Haripriya Pettugani et.al.|[2606.20123](http://arxiv.org/abs/2606.20123)|null|
+|**2026-06-18**|**Random Local Stabilizer Codes in Three Dimensions without String or Self-Similar Fractal Logical Operators**|Han Yan et.al.|[2606.19873](http://arxiv.org/abs/2606.19873)|null|
+|**2026-06-18**|**QMCtwin: Master-Equation Simulation of Syndrome Statistics Beyond Pauli Noise**|Tong Shen et.al.|[2606.19848](http://arxiv.org/abs/2606.19848)|null|
+|**2026-06-17**|**Subsystem Quantum Error Correction for Noisy Quantum Metrology**|Qiushi Liu et.al.|[2606.19628](http://arxiv.org/abs/2606.19628)|null|
+|**2026-06-17**|**Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid**|Boren Gu et.al.|[2606.19482](http://arxiv.org/abs/2606.19482)|null|
 |**2026-06-16**|**Impulse Decoding of Quantum LDPC Codes: Equivalence of Degeneracy and Code-Shortening**|Shobhit Bhatnagar et.al.|[2606.18240](http://arxiv.org/abs/2606.18240)|null|
 |**2026-06-16**|**Learning Arbitrary Lindbladians with Quantum Error Correction**|Nikita Romanov et.al.|[2606.18188](http://arxiv.org/abs/2606.18188)|null|
 |**2026-06-16**|**A polynomial-time approximation scheme for minimum-weight decoding of topological codes**|Shouzhen Gu et.al.|[2606.18145](http://arxiv.org/abs/2606.18145)|null|

@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-19**|**Common causes for quantum identical particles**|A. Hovhannisyan et.al.|[2606.21768](http://arxiv.org/abs/2606.21768)|null|
+|**2026-06-19**|**Systematic derivation of Tsirelson bounds in arbitrary dimensions**|Lorenzo Coccia et.al.|[2606.21626](http://arxiv.org/abs/2606.21626)|null|
+|**2026-06-19**|**Noise robustness of three outcome Bell certified quantum randomness**|Raffaele D'Avino et.al.|[2606.21371](http://arxiv.org/abs/2606.21371)|null|
+|**2026-06-19**|**Bell inequalities tailored to optimal global randomness certification**|Ignacio Perito et.al.|[2606.21362](http://arxiv.org/abs/2606.21362)|null|
+|**2026-06-19**|**Spin correlations and quantum entanglement in $γγ\to t\bar t$ at polarized photon colliders with NLO QCD corrections**|Jun Jiang et.al.|[2606.21152](http://arxiv.org/abs/2606.21152)|null|
 |**2026-06-18**|**Discrimination of genuinely nonlocal sets without entanglement in multipartite systems**|Ziying Hou et.al.|[2606.20380](http://arxiv.org/abs/2606.20380)|null|
 |**2026-06-13**|**Single-Image Entanglement Verification with Spatially Encoded Measurement Contexts**|Nazanin Dehghan et.al.|[2606.15382](http://arxiv.org/abs/2606.15382)|null|
 |**2026-06-10**|**Schauder-type Estimates and Log-Critical Well-posedness for the Two-Phase Muskat Problem with Surface Tension**|Ke Chen et.al.|[2606.12388](http://arxiv.org/abs/2606.12388)|null|
@@ -698,6 +703,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-20**|**Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**|Yipeng Xu et.al.|[2606.22127](http://arxiv.org/abs/2606.22127)|null|
+|**2026-06-18**|**Leggett-Garg Inequality Violation in Muon $g-2$ Experiments**|Brian Batell et.al.|[2606.20788](http://arxiv.org/abs/2606.20788)|null|
 |**2026-06-18**|**GPU-accelerated semidefinite programming for causal games**|Emanuel-Cristian Boghiu et.al.|[2606.20519](http://arxiv.org/abs/2606.20519)|null|
 |**2026-06-17**|**Indefinite Quantum Causality**|Fabio Costa et.al.|[2606.19438](http://arxiv.org/abs/2606.19438)|null|
 |**2026-06-14**|**Quantum coherence and Leggett-Garg inequality**|A. Jalal et.al.|[2606.15717](http://arxiv.org/abs/2606.15717)|null|
@@ -1025,6 +1032,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-20**|**Schreier-Type Sets and Linear Recurrences: Connections and Developments**|Hung Viet Chu et.al.|[2606.21865](http://arxiv.org/abs/2606.21865)|null|
 |**2026-06-17**|**From Localized Packets to Plane Waves: A Time-Domain Approach to Transport in Mesoscopic Systems**|Andrzej Biborski et.al.|[2606.19012](http://arxiv.org/abs/2606.19012)|null|
 |**2026-06-17**|**Observation of anyonic thermodynamics and generalized Pauli principle**|Fansu Wei et.al.|[2606.19009](http://arxiv.org/abs/2606.19009)|null|
 |**2026-06-13**|**4-momentum conservation as the principal framework for mesonic decay: The case of helium-5-lambda**|Emile Meoto et.al.|[2606.15262](http://arxiv.org/abs/2606.15262)|null|
@@ -2121,13 +2129,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Parametric correlations in non-Hermitian quantum chaos: random matrix approach**|Yan V. Fyodorov et.al.|[2606.20824](http://arxiv.org/abs/2606.20824)|null|
 |**2026-06-17**|**Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**|Daniel Harkin et.al.|[2606.19331](http://arxiv.org/abs/2606.19331)|null|
 |**2026-06-17**|**Probing chaos and thermalization through out-of-time-ordered correlators in random field spin chains**|C Jisha et.al.|[2606.18982](http://arxiv.org/abs/2606.18982)|null|
 |**2026-06-17**|**Mimicry of chaos and $k$ -design in higher order OTOCs of Luttinger liquids**|Balázs Dóra et.al.|[2606.18800](http://arxiv.org/abs/2606.18800)|null|
 |**2026-06-16**|**Tunable Chaos in the Finite Mean SYK Model**|Arkaprava Mukherjee et.al.|[2606.18529](http://arxiv.org/abs/2606.18529)|null|
 |**2026-06-16**|**Probing weak chaos in $\mathcal N=4$ super Yang-Mills and long-range spin chains**|Pawel Caputa et.al.|[2606.18351](http://arxiv.org/abs/2606.18351)|null|
 |**2026-06-15**|**Morphology-resolved scrambling in a chaotic quantum billiard**|Pranaya Pratik Das et.al.|[2606.16865](http://arxiv.org/abs/2606.16865)|null|
-|**2026-06-15**|**Calibrating the Brody exponent as a quantitative measure of short-range exclusion in 2D spatial point processes**|Dawid Kucharski et.al.|[2606.16393](http://arxiv.org/abs/2606.16393)|null|
+|**2026-06-20**|**Calibrating the Brody exponent as a quantitative measure of short-range exclusion in 2D spatial point processes**|Dawid Kucharski et.al.|[2606.16393](http://arxiv.org/abs/2606.16393)|null|
 |**2026-06-11**|**Instabilities in a Non-KAM System via Information Scrambling: A Note**|Naga Dileep Varikuti et.al.|[2606.12761](http://arxiv.org/abs/2606.12761)|null|
 |**2026-06-10**|**Quantum ergodicity and semiclassical measures: mathematical results**|Stéphane Nonnenmacher et.al.|[2606.12098](http://arxiv.org/abs/2606.12098)|null|
 |**2026-06-09**|**Random Matrix Theory for Chaotic Wave Scattering and Transport**|Yan V. Fyodorov et.al.|[2606.10957](http://arxiv.org/abs/2606.10957)|null|
@@ -2966,6 +2975,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-21**|**Hierarchical Logical Processor on the Rotated Surface Code with Shuttle Buses**|Zi-Han Chen et.al.|[2606.22594](http://arxiv.org/abs/2606.22594)|null|
+|**2026-06-21**|**The Quantum Hamming Bound in Arbitrary Local Dimension**|Yu-Xuan Zhang et.al.|[2606.22538](http://arxiv.org/abs/2606.22538)|null|
+|**2026-06-21**|**Quantum Codes with Transversal $CCZ$ Gates and Sublinear $Z$ -Stabilizers**|Ohad Elishco et.al.|[2606.22472](http://arxiv.org/abs/2606.22472)|null|
+|**2026-06-21**|**A Three-Layer Architecture for Fault-Tolerant Quantum Computing**|Zhirao Wang et.al.|[2606.22418](http://arxiv.org/abs/2606.22418)|null|
+|**2026-06-20**|**Machine Learning Optimal Quantum Error Correction Thresholds**|Dominik Seip et.al.|[2606.22194](http://arxiv.org/abs/2606.22194)|null|
+|**2026-06-20**|**Hulls and sums of separable constacyclic codes over $\mathbb{F}_q \times (\mathbb{F}_q+v\mathbb{F}_q)$ and new quantum codes**|Yu Qian et.al.|[2606.22069](http://arxiv.org/abs/2606.22069)|null|
 |**2026-06-18**|**Thinking in Boxes: 3D Editing in Real Images Made Easy**|Pradhaan S Bhat et.al.|[2606.20556](http://arxiv.org/abs/2606.20556)|null|
 |**2026-06-18**|**Approximating optimal decoding of quantum LDPC codes with narrow frontiers**|Anthony Leverrier et.al.|[2606.20513](http://arxiv.org/abs/2606.20513)|null|
 |**2026-06-18**|**Vine Codes: Low-Overhead Quantum LDPC Codes on a Planar Square Grid**|Georgia M. Nixon et.al.|[2606.20263](http://arxiv.org/abs/2606.20263)|null|

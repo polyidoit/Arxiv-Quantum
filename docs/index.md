@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-22**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
 |**2026-06-19**|**Common causes for quantum identical particles**|A. Hovhannisyan et.al.|[2606.21768](http://arxiv.org/abs/2606.21768)|null|
 |**2026-06-19**|**Systematic derivation of Tsirelson bounds in arbitrary dimensions**|Lorenzo Coccia et.al.|[2606.21626](http://arxiv.org/abs/2606.21626)|null|
 |**2026-06-19**|**Noise robustness of three outcome Bell certified quantum randomness**|Raffaele D'Avino et.al.|[2606.21371](http://arxiv.org/abs/2606.21371)|null|
@@ -1032,6 +1033,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-22**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
 |**2026-06-20**|**Schreier-Type Sets and Linear Recurrences: Connections and Developments**|Hung Viet Chu et.al.|[2606.21865](http://arxiv.org/abs/2606.21865)|null|
 |**2026-06-17**|**From Localized Packets to Plane Waves: A Time-Domain Approach to Transport in Mesoscopic Systems**|Andrzej Biborski et.al.|[2606.19012](http://arxiv.org/abs/2606.19012)|null|
 |**2026-06-17**|**Observation of anyonic thermodynamics and generalized Pauli principle**|Fansu Wei et.al.|[2606.19009](http://arxiv.org/abs/2606.19009)|null|
@@ -2975,6 +2977,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-22**|**Bunny Codes: Broadening Superconducting Quantum Error Correction Capability through Advanced Control Engineering**|Runshi Zhou et.al.|[2606.22853](http://arxiv.org/abs/2606.22853)|null|
 |**2026-06-21**|**Hierarchical Logical Processor on the Rotated Surface Code with Shuttle Buses**|Zi-Han Chen et.al.|[2606.22594](http://arxiv.org/abs/2606.22594)|null|
 |**2026-06-21**|**The Quantum Hamming Bound in Arbitrary Local Dimension**|Yu-Xuan Zhang et.al.|[2606.22538](http://arxiv.org/abs/2606.22538)|null|
 |**2026-06-21**|**Quantum Codes with Transversal $CCZ$ Gates and Sublinear $Z$ -Stabilizers**|Ohad Elishco et.al.|[2606.22472](http://arxiv.org/abs/2606.22472)|null|

@@ -2131,6 +2131,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-22**|**Universal Dynamical Response to Slow Driving in Chaotic Systems**|Nachiket Karve et.al.|[2606.23810](http://arxiv.org/abs/2606.23810)|null|
 |**2026-06-18**|**Parametric correlations in non-Hermitian quantum chaos: random matrix approach**|Yan V. Fyodorov et.al.|[2606.20824](http://arxiv.org/abs/2606.20824)|null|
 |**2026-06-17**|**Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**|Daniel Harkin et.al.|[2606.19331](http://arxiv.org/abs/2606.19331)|null|
 |**2026-06-17**|**Probing chaos and thermalization through out-of-time-ordered correlators in random field spin chains**|C Jisha et.al.|[2606.18982](http://arxiv.org/abs/2606.18982)|null|
@@ -2977,6 +2978,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-23**|**Compressed Quantum Operators and Roots of Hermite Polynomials**|Serge Adonsou et.al.|[2606.24792](http://arxiv.org/abs/2606.24792)|null|
+|**2026-06-23**|**When to Skip Syndrome Extraction in Surface-GKP Codes**|Vaughn Sohn et.al.|[2606.24469](http://arxiv.org/abs/2606.24469)|null|
+|**2026-06-23**|**Low Spatial Cost CCZ Magic State Factory**|Sungyeon Kook et.al.|[2606.24170](http://arxiv.org/abs/2606.24170)|null|
+|**2026-06-23**|**An Analysis of Speculative Window Decoders for Quantum Error Correction**|Jocelyn Li et.al.|[2606.24048](http://arxiv.org/abs/2606.24048)|null|
 |**2026-06-22**|**Bunny Codes: Broadening Superconducting Quantum Error Correction Capability through Advanced Control Engineering**|Runshi Zhou et.al.|[2606.22853](http://arxiv.org/abs/2606.22853)|null|
 |**2026-06-21**|**Hierarchical Logical Processor on the Rotated Surface Code with Shuttle Buses**|Zi-Han Chen et.al.|[2606.22594](http://arxiv.org/abs/2606.22594)|null|
 |**2026-06-21**|**The Quantum Hamming Bound in Arbitrary Local Dimension**|Yu-Xuan Zhang et.al.|[2606.22538](http://arxiv.org/abs/2606.22538)|null|

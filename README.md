@@ -3001,6 +3001,12 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-24**|**Tensor network characterization and mitigation of readout errors**|Yuchen Guo et.al.|[2606.25974](http://arxiv.org/abs/2606.25974)|null|
+|**2026-06-24**|**Evolving Quantum Error-Correcting Encodings for Molecular Simulation**|Kenny Heitritter et.al.|[2606.25870](http://arxiv.org/abs/2606.25870)|null|
+|**2026-06-24**|**Routing Codes: High-Rate Quantum LDPC Codes with Short, Parallel Non-Local Connectivity**|Jiaxuan Zhang et.al.|[2606.25330](http://arxiv.org/abs/2606.25330)|null|
+|**2026-06-24**|**High-Rate and Resource-Efficient All-Photonic Quantum Repeater Architectures with 9 km Repeater Spacing**|Ryosuke Shiina et.al.|[2606.25314](http://arxiv.org/abs/2606.25314)|null|
+|**2026-06-23**|**Majorana-Pauli stabilizer codes and duality webs of fermionic topological phases**|Meng Sun et.al.|[2606.25048](http://arxiv.org/abs/2606.25048)|null|
+|**2026-06-23**|**Fast and Parallel High-Rate STAR Architecture for Megaquop Quantum Simulation**|Refaat Ismail et.al.|[2606.25011](http://arxiv.org/abs/2606.25011)|null|
 |**2026-06-23**|**Compressed Quantum Operators and Roots of Hermite Polynomials**|Serge Adonsou et.al.|[2606.24792](http://arxiv.org/abs/2606.24792)|null|
 |**2026-06-23**|**When to Skip Syndrome Extraction in Surface-GKP Codes**|Vaughn Sohn et.al.|[2606.24469](http://arxiv.org/abs/2606.24469)|null|
 |**2026-06-23**|**Low Spatial Cost CCZ Magic State Factory**|Sungyeon Kook et.al.|[2606.24170](http://arxiv.org/abs/2606.24170)|null|

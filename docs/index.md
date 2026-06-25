@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -11,7 +11,7 @@ layout: default
 |**2026-06-19**|**Common causes for quantum identical particles**|A. Hovhannisyan et.al.|[2606.21768](http://arxiv.org/abs/2606.21768)|null|
 |**2026-06-19**|**Systematic derivation of Tsirelson bounds in arbitrary dimensions**|Lorenzo Coccia et.al.|[2606.21626](http://arxiv.org/abs/2606.21626)|null|
 |**2026-06-19**|**Noise robustness of three outcome Bell certified quantum randomness**|Raffaele D'Avino et.al.|[2606.21371](http://arxiv.org/abs/2606.21371)|null|
-|**2026-06-19**|**Bell inequalities tailored to optimal global randomness certification**|Ignacio Perito et.al.|[2606.21362](http://arxiv.org/abs/2606.21362)|null|
+|**2026-06-24**|**Bell inequalities tailored to optimal global randomness certification**|Ignacio Perito et.al.|[2606.21362](http://arxiv.org/abs/2606.21362)|null|
 |**2026-06-19**|**Spin correlations and quantum entanglement in $γγ\to t\bar t$ at polarized photon colliders with NLO QCD corrections**|Jun Jiang et.al.|[2606.21152](http://arxiv.org/abs/2606.21152)|null|
 |**2026-06-18**|**Discrimination of genuinely nonlocal sets without entanglement in multipartite systems**|Ziying Hou et.al.|[2606.20380](http://arxiv.org/abs/2606.20380)|null|
 |**2026-06-13**|**Single-Image Entanglement Verification with Spatially Encoded Measurement Contexts**|Nazanin Dehghan et.al.|[2606.15382](http://arxiv.org/abs/2606.15382)|null|
@@ -1033,6 +1033,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Communicability-Inspired Positional Encoding (CIPE)**|Yipeng Zhang et.al.|[2606.25293](http://arxiv.org/abs/2606.25293)|null|
 |**2026-06-22**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
 |**2026-06-20**|**Schreier-Type Sets and Linear Recurrences: Connections and Developments**|Hung Viet Chu et.al.|[2606.21865](http://arxiv.org/abs/2606.21865)|null|
 |**2026-06-17**|**From Localized Packets to Plane Waves: A Time-Domain Approach to Transport in Mesoscopic Systems**|Andrzej Biborski et.al.|[2606.19012](http://arxiv.org/abs/2606.19012)|null|
@@ -1342,6 +1343,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Quantum steering in networks: Measurement-device-independent detection, continuous variables, and practical Gaussian schemes**|Shao-Hua Hu et.al.|[2606.25690](http://arxiv.org/abs/2606.25690)|null|
 |**2026-06-15**|**Detecting basis-dependent hardware errors through spatio-temporal quantum steering**|Hsiang-Wei Huang et.al.|[2606.16451](http://arxiv.org/abs/2606.16451)|null|
 |**2026-06-11**|**Asymmetric quantum steering harvested near a Lorentz-violating BTZ black hole**|Si-Yu Liu et.al.|[2606.12766](http://arxiv.org/abs/2606.12766)|null|
 |**2026-06-06**|**Every Rank-Two Entangled State is Projectively Steerable**|Yu-Xuan Zhang et.al.|[2606.08189](http://arxiv.org/abs/2606.08189)|null|

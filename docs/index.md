@@ -2,15 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.25
+## Updated on 2026.06.26
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Effect of the magnetic monopole charge on Dirac entanglement and Bell non-locality in Hayward spacetime**|Abdessamie Chhieb et.al.|[2606.26372](http://arxiv.org/abs/2606.26372)|null|
 |**2026-06-22**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
 |**2026-06-19**|**Common causes for quantum identical particles**|A. Hovhannisyan et.al.|[2606.21768](http://arxiv.org/abs/2606.21768)|null|
 |**2026-06-19**|**Systematic derivation of Tsirelson bounds in arbitrary dimensions**|Lorenzo Coccia et.al.|[2606.21626](http://arxiv.org/abs/2606.21626)|null|
-|**2026-06-19**|**Noise robustness of three outcome Bell certified quantum randomness**|Raffaele D'Avino et.al.|[2606.21371](http://arxiv.org/abs/2606.21371)|null|
+|**2026-06-25**|**Noise robustness of three outcome Bell certified quantum randomness**|Raffaele D'Avino et.al.|[2606.21371](http://arxiv.org/abs/2606.21371)|null|
 |**2026-06-24**|**Bell inequalities tailored to optimal global randomness certification**|Ignacio Perito et.al.|[2606.21362](http://arxiv.org/abs/2606.21362)|null|
 |**2026-06-19**|**Spin correlations and quantum entanglement in $γγ\to t\bar t$ at polarized photon colliders with NLO QCD corrections**|Jun Jiang et.al.|[2606.21152](http://arxiv.org/abs/2606.21152)|null|
 |**2026-06-18**|**Discrimination of genuinely nonlocal sets without entanglement in multipartite systems**|Ziying Hou et.al.|[2606.20380](http://arxiv.org/abs/2606.20380)|null|
@@ -1033,6 +1034,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Effect of the magnetic monopole charge on Dirac entanglement and Bell non-locality in Hayward spacetime**|Abdessamie Chhieb et.al.|[2606.26372](http://arxiv.org/abs/2606.26372)|null|
 |**2026-06-24**|**Communicability-Inspired Positional Encoding (CIPE)**|Yipeng Zhang et.al.|[2606.25293](http://arxiv.org/abs/2606.25293)|null|
 |**2026-06-22**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
 |**2026-06-20**|**Schreier-Type Sets and Linear Recurrences: Connections and Developments**|Hung Viet Chu et.al.|[2606.21865](http://arxiv.org/abs/2606.21865)|null|
@@ -1547,6 +1549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**A Low-PAPR, Synchronization-Robust Non-Coherent Grassmannian Modulation for Optical Communications**|Eylon E. Krause et.al.|[2606.26464](http://arxiv.org/abs/2606.26464)|null|
 |**2026-06-17**|**Re-Rooting-Based Fault-Tolerant One-to-All Broadcasting in Dense Eisenstein--Jacobi Networks**|Bader Albader et.al.|[2606.18712](http://arxiv.org/abs/2606.18712)|null|
 |**2026-06-16**|**Semiclassical Analysis of Tunneling in Graphene under Nonuniform Electrostatic and Magnetic Fields**|Maria V. Perel et.al.|[2606.17689](http://arxiv.org/abs/2606.17689)|null|
 |**2026-06-15**|**Induced Resource Theories and Harvesting via Quantum Probes**|Ron Nyström et.al.|[2606.17287](http://arxiv.org/abs/2606.17287)|null|
@@ -2980,6 +2983,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-25**|**Cultivating logical catalysts for fault-tolerant dyadic phase rotations**|Yichen Xu et.al.|[2606.27358](http://arxiv.org/abs/2606.27358)|null|
+|**2026-06-25**|**Quantum computer architecture with ions in tweezer arrays**|Benjamin F. Schiffer et.al.|[2606.27249](http://arxiv.org/abs/2606.27249)|null|
+|**2026-06-25**|**Quantum group codes for non-Clifford logic: enhanced decoding, addressability and parallelizability**|Jean Gasnier et.al.|[2606.27211](http://arxiv.org/abs/2606.27211)|null|
+|**2026-06-25**|**Efficient foundation decoders for fault-tolerant quantum computing**|Ge Yan et.al.|[2606.27119](http://arxiv.org/abs/2606.27119)|null|
+|**2026-06-25**|**Lattice patch structure for fixed-frequency transmon quantum computer with high-fidelity CNOT gates**|Chanpyo Kim et.al.|[2606.27017](http://arxiv.org/abs/2606.27017)|null|
+|**2026-06-24**|**Toric code made subsystem: a framework for topological subsystem codes using anticommuting quantum spin liquids**|Vaibhav Sharma et.al.|[2606.26226](http://arxiv.org/abs/2606.26226)|null|
 |**2026-06-24**|**Tensor network characterization and mitigation of readout errors**|Yuchen Guo et.al.|[2606.25974](http://arxiv.org/abs/2606.25974)|null|
 |**2026-06-24**|**Evolving Quantum Error-Correcting Encodings for Molecular Simulation**|Kenny Heitritter et.al.|[2606.25870](http://arxiv.org/abs/2606.25870)|null|
 |**2026-06-24**|**Routing Codes: High-Rate Quantum LDPC Codes with Short, Parallel Non-Local Connectivity**|Jiaxuan Zhang et.al.|[2606.25330](http://arxiv.org/abs/2606.25330)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2136,6 +2136,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Coexisting Regular and Chaotic Dynamics in the Dysprosium Feshbach Spectrum**|Julie Veschambre et.al.|[2606.28233](http://arxiv.org/abs/2606.28233)|null|
 |**2026-06-22**|**Universal Dynamical Response to Slow Driving in Chaotic Systems**|Nachiket Karve et.al.|[2606.23810](http://arxiv.org/abs/2606.23810)|null|
 |**2026-06-18**|**Parametric correlations in non-Hermitian quantum chaos: random matrix approach**|Yan V. Fyodorov et.al.|[2606.20824](http://arxiv.org/abs/2606.20824)|null|
 |**2026-06-17**|**Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**|Daniel Harkin et.al.|[2606.19331](http://arxiv.org/abs/2606.19331)|null|
@@ -2983,6 +2984,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-26**|**Hybrid Quantum-Classical Neural Networks for Recognizing Quantum Phases**|Colin Scarato et.al.|[2606.28201](http://arxiv.org/abs/2606.28201)|null|
+|**2026-06-26**|**Hybrid quantum-classical neural network for sample-efficient recognition of topological phases**|Markus K. Hoffmann et.al.|[2606.28199](http://arxiv.org/abs/2606.28199)|null|
 |**2026-06-25**|**Cultivating logical catalysts for fault-tolerant dyadic phase rotations**|Yichen Xu et.al.|[2606.27358](http://arxiv.org/abs/2606.27358)|null|
 |**2026-06-25**|**Quantum computer architecture with ions in tweezer arrays**|Benjamin F. Schiffer et.al.|[2606.27249](http://arxiv.org/abs/2606.27249)|null|
 |**2026-06-25**|**Quantum group codes for non-Clifford logic: enhanced decoding, addressability and parallelizability**|Jean Gasnier et.al.|[2606.27211](http://arxiv.org/abs/2606.27211)|null|

@@ -2158,6 +2158,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**Provable random-matrix spectral ramp in a static, geometrically local Hamiltonian**|Matteo Ippoliti et.al.|[2606.30635](http://arxiv.org/abs/2606.30635)|null|
 |**2026-06-28**|**Pseudo entropy and topological phases of matter**|Pramod Kamal Kharel et.al.|[2606.29311](http://arxiv.org/abs/2606.29311)|null|
 |**2026-06-28**|**Quantum scrambling of algebras of observables: the $\mathbb{Z}_2$ -symmetric case**|Paolo Zanardi et.al.|[2606.29137](http://arxiv.org/abs/2606.29137)|null|
 |**2026-06-26**|**Coexisting Regular and Chaotic Dynamics in the Dysprosium Feshbach Spectrum**|Julie Veschambre et.al.|[2606.28233](http://arxiv.org/abs/2606.28233)|null|
@@ -3010,6 +3011,7 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-29**|**Untangling QLDPC Codes with Biased Noise Ancilla**|Runjiang Bi et.al.|[2606.30592](http://arxiv.org/abs/2606.30592)|null|
 |**2026-06-28**|**Characterization of Unlearnable Noise with Mid-Circuit-Measurement-Based Cycle Benchmarking**|M. H. Cheng et.al.|[2606.29638](http://arxiv.org/abs/2606.29638)|null|
 |**2026-06-26**|**Hybrid Quantum-Classical Neural Networks for Recognizing Quantum Phases**|Colin Scarato et.al.|[2606.28201](http://arxiv.org/abs/2606.28201)|null|
 |**2026-06-26**|**Hybrid quantum-classical neural network for sample-efficient recognition of topological phases**|Markus K. Hoffmann et.al.|[2606.28199](http://arxiv.org/abs/2606.28199)|null|

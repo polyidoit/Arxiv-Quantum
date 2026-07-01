@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**Energy-time entanglement from a monolithically integrated quantum dot on silicon**|Marcel Hohn et.al.|[2606.31775](http://arxiv.org/abs/2606.31775)|null|
+|**2026-06-29**|**Toponium effects on quantum steering and Bell nonlocality of top quarks**|J. A. Aguilar-Saavedra et.al.|[2606.30768](http://arxiv.org/abs/2606.30768)|null|
+|**2026-06-29**|**Quantum Information of Photon Pairs at Lepton Colliders**|Kun Cheng et.al.|[2606.30759](http://arxiv.org/abs/2606.30759)|null|
+|**2026-06-29**|**Schrödinger and Heisenberg non-Markovianity in quantum information tasks**|Federico Settimo et.al.|[2606.30751](http://arxiv.org/abs/2606.30751)|null|
+|**2026-06-29**|**Revivals of Bell nonlocality require Schrödinger and Heisenberg non-Markovianity**|Federico Settimo et.al.|[2606.30745](http://arxiv.org/abs/2606.30745)|null|
 |**2026-06-28**|**Steady-state Bell nonlocality in an autonomous quantum thermal machine**|Bradley Longstaff et.al.|[2606.29434](http://arxiv.org/abs/2606.29434)|null|
 |**2026-06-24**|**Effect of the magnetic monopole charge on Dirac entanglement and Bell non-locality in Hayward spacetime**|Abdessamie Chhieb et.al.|[2606.26372](http://arxiv.org/abs/2606.26372)|null|
 |**2026-06-22**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
@@ -1346,6 +1351,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Toponium effects on quantum steering and Bell nonlocality of top quarks**|J. A. Aguilar-Saavedra et.al.|[2606.30768](http://arxiv.org/abs/2606.30768)|null|
 |**2026-06-28**|**Gaussian quantum steering of coupled three-mode squeezed vacuum in an expanding universe**|Guang-Wei Mi et.al.|[2606.29144](http://arxiv.org/abs/2606.29144)|null|
 |**2026-06-24**|**Quantum steering in networks: Measurement-device-independent detection, continuous variables, and practical Gaussian schemes**|Shao-Hua Hu et.al.|[2606.25690](http://arxiv.org/abs/2606.25690)|null|
 |**2026-06-15**|**Detecting basis-dependent hardware errors through spatio-temporal quantum steering**|Hsiang-Wei Huang et.al.|[2606.16451](http://arxiv.org/abs/2606.16451)|null|
@@ -1551,6 +1557,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**Resourcefulness without Resource: Geometric Origins and Robustness**|Jingsong Ao et.al.|[2606.31516](http://arxiv.org/abs/2606.31516)|null|
+|**2026-06-29**|**Athermality of generalized Gibbs ensembles**|Riccardo Senese et.al.|[2606.30762](http://arxiv.org/abs/2606.30762)|null|
 |**2026-06-13**|**ConCise: Training-Free Conclusion-Chain State Compression for Cost-Efficient Multi-Step RAG Services**|Kuan Yan et.al.|[2606.28361](http://arxiv.org/abs/2606.28361)|null|
 |**2026-06-24**|**A Low-PAPR, Synchronization-Robust Non-Coherent Grassmannian Modulation for Optical Communications**|Eylon E. Krause et.al.|[2606.26464](http://arxiv.org/abs/2606.26464)|null|
 |**2026-06-17**|**Re-Rooting-Based Fault-Tolerant One-to-All Broadcasting in Dense Eisenstein--Jacobi Networks**|Bader Albader et.al.|[2606.18712](http://arxiv.org/abs/2606.18712)|null|
@@ -2139,6 +2147,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**Correlation-enhanced metrology from scrambling dynamics in a solid-state spin system**|Yu-Chen Li et.al.|[2606.31827](http://arxiv.org/abs/2606.31827)|null|
 |**2026-06-29**|**Provable random-matrix spectral ramp in a static, geometrically local Hamiltonian**|Matteo Ippoliti et.al.|[2606.30635](http://arxiv.org/abs/2606.30635)|null|
 |**2026-06-28**|**Pseudo entropy and topological phases of matter**|Pramod Kamal Kharel et.al.|[2606.29311](http://arxiv.org/abs/2606.29311)|null|
 |**2026-06-28**|**Quantum scrambling of algebras of observables: the $\mathbb{Z}_2$ -symmetric case**|Paolo Zanardi et.al.|[2606.29137](http://arxiv.org/abs/2606.29137)|null|
@@ -2990,8 +2999,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-06-30**|**The limits of erasure-based postselection for quantum error mitigation**|Sam J. Griffiths et.al.|[2606.31428](http://arxiv.org/abs/2606.31428)|null|
+|**2026-06-29**|**Rethinking quantum information in gravity and fields**|Kanato Goto et.al.|[2606.30853](http://arxiv.org/abs/2606.30853)|null|
+|**2026-06-29**|**CryoZip: An Efficient Cryogenic Compressor for Quantum Error Correction Syndromes**|Guanchen Tao et.al.|[2606.30805](http://arxiv.org/abs/2606.30805)|null|
 |**2026-06-29**|**Untangling QLDPC Codes with Biased Noise Ancilla**|Runjiang Bi et.al.|[2606.30592](http://arxiv.org/abs/2606.30592)|null|
-|**2026-06-28**|**Characterization of Unlearnable Noise with Mid-Circuit-Measurement-Based Cycle Benchmarking**|M. H. Cheng et.al.|[2606.29638](http://arxiv.org/abs/2606.29638)|null|
+|**2026-06-30**|**Characterization of Unlearnable Noise with Mid-Circuit-Measurement-Based Cycle Benchmarking**|M. H. Cheng et.al.|[2606.29638](http://arxiv.org/abs/2606.29638)|null|
 |**2026-06-26**|**Hybrid Quantum-Classical Neural Networks for Recognizing Quantum Phases**|Colin Scarato et.al.|[2606.28201](http://arxiv.org/abs/2606.28201)|null|
 |**2026-06-26**|**Hybrid quantum-classical neural network for sample-efficient recognition of topological phases**|Markus K. Hoffmann et.al.|[2606.28199](http://arxiv.org/abs/2606.28199)|null|
 |**2026-06-25**|**Cultivating logical catalysts for fault-tolerant dyadic phase rotations**|Yichen Xu et.al.|[2606.27358](http://arxiv.org/abs/2606.27358)|null|

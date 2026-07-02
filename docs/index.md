@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.07.01
+## Updated on 2026.07.02
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
 |**2026-06-30**|**Energy-time entanglement from a monolithically integrated quantum dot on silicon**|Marcel Hohn et.al.|[2606.31775](http://arxiv.org/abs/2606.31775)|null|
 |**2026-06-29**|**Toponium effects on quantum steering and Bell nonlocality of top quarks**|J. A. Aguilar-Saavedra et.al.|[2606.30768](http://arxiv.org/abs/2606.30768)|null|
 |**2026-06-29**|**Quantum Information of Photon Pairs at Lepton Colliders**|Kun Cheng et.al.|[2606.30759](http://arxiv.org/abs/2606.30759)|null|
@@ -711,6 +712,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
 |**2026-06-20**|**Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**|Yipeng Xu et.al.|[2606.22127](http://arxiv.org/abs/2606.22127)|null|
 |**2026-06-18**|**Leggett-Garg Inequality Violation in Muon $g-2$ Experiments**|Brian Batell et.al.|[2606.20788](http://arxiv.org/abs/2606.20788)|null|
 |**2026-06-18**|**GPU-accelerated semidefinite programming for causal games**|Emanuel-Cristian Boghiu et.al.|[2606.20519](http://arxiv.org/abs/2606.20519)|null|
@@ -1040,6 +1042,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Robust Quantum Memory Advantage from Contextuality**|Shiroman Prakash et.al.|[2607.00507](http://arxiv.org/abs/2607.00507)|null|
 |**2026-06-24**|**Effect of the magnetic monopole charge on Dirac entanglement and Bell non-locality in Hayward spacetime**|Abdessamie Chhieb et.al.|[2606.26372](http://arxiv.org/abs/2606.26372)|null|
 |**2026-06-24**|**Communicability-Inspired Positional Encoding (CIPE)**|Yipeng Zhang et.al.|[2606.25293](http://arxiv.org/abs/2606.25293)|null|
 |**2026-06-22**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
@@ -1351,6 +1354,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Extreme volume monogamy via bound-state engineering**|Wen-Jie Zhang et.al.|[2607.00346](http://arxiv.org/abs/2607.00346)|null|
 |**2026-06-29**|**Toponium effects on quantum steering and Bell nonlocality of top quarks**|J. A. Aguilar-Saavedra et.al.|[2606.30768](http://arxiv.org/abs/2606.30768)|null|
 |**2026-06-28**|**Gaussian quantum steering of coupled three-mode squeezed vacuum in an expanding universe**|Guang-Wei Mi et.al.|[2606.29144](http://arxiv.org/abs/2606.29144)|null|
 |**2026-06-24**|**Quantum steering in networks: Measurement-device-independent detection, continuous variables, and practical Gaussian schemes**|Shao-Hua Hu et.al.|[2606.25690](http://arxiv.org/abs/2606.25690)|null|
@@ -1557,6 +1561,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Hierarchical Variational Kalman Filtering**|Shilei Li et.al.|[2607.00877](http://arxiv.org/abs/2607.00877)|null|
 |**2026-06-30**|**Resourcefulness without Resource: Geometric Origins and Robustness**|Jingsong Ao et.al.|[2606.31516](http://arxiv.org/abs/2606.31516)|null|
 |**2026-06-29**|**Athermality of generalized Gibbs ensembles**|Riccardo Senese et.al.|[2606.30762](http://arxiv.org/abs/2606.30762)|null|
 |**2026-06-13**|**ConCise: Training-Free Conclusion-Chain State Compression for Cost-Efficient Multi-Step RAG Services**|Kuan Yan et.al.|[2606.28361](http://arxiv.org/abs/2606.28361)|null|
@@ -2147,6 +2152,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Dissipative hydrodynamic actions and horizon symmetries in gravity**|Mike Blake et.al.|[2607.00866](http://arxiv.org/abs/2607.00866)|null|
 |**2026-06-30**|**Correlation-enhanced metrology from scrambling dynamics in a solid-state spin system**|Yu-Chen Li et.al.|[2606.31827](http://arxiv.org/abs/2606.31827)|null|
 |**2026-06-29**|**Provable random-matrix spectral ramp in a static, geometrically local Hamiltonian**|Matteo Ippoliti et.al.|[2606.30635](http://arxiv.org/abs/2606.30635)|null|
 |**2026-06-28**|**Pseudo entropy and topological phases of matter**|Pramod Kamal Kharel et.al.|[2606.29311](http://arxiv.org/abs/2606.29311)|null|
@@ -2999,6 +3005,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-01**|**Bias-Preserving Gates and Quantum Error Correction With Dual-Rail Cat Codes**|Debjyoti Biswas et.al.|[2607.00786](http://arxiv.org/abs/2607.00786)|null|
 |**2026-06-30**|**The limits of erasure-based postselection for quantum error mitigation**|Sam J. Griffiths et.al.|[2606.31428](http://arxiv.org/abs/2606.31428)|null|
 |**2026-06-29**|**Rethinking quantum information in gravity and fields**|Kanato Goto et.al.|[2606.30853](http://arxiv.org/abs/2606.30853)|null|
 |**2026-06-29**|**CryoZip: An Efficient Cryogenic Compressor for Quantum Error Correction Syndromes**|Guanchen Tao et.al.|[2606.30805](http://arxiv.org/abs/2606.30805)|null|

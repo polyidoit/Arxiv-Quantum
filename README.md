@@ -16,7 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-01**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
+|**2026-07-02**|**Nonlocal correlations of fermionic entanglement in the spacetime of Einstein-Gauss-Bonnet black hole**|Yifei Xu et.al.|[2607.02039](http://arxiv.org/abs/2607.02039)|null|
+|**2026-07-01**|**Quantum nonlocal correlations of anomalous weak values**|Ron Cohen et.al.|[2607.01491](http://arxiv.org/abs/2607.01491)|null|
+|**2026-07-02**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
 |**2026-06-30**|**Energy-time entanglement from a monolithically integrated quantum dot on silicon**|Marcel Hohn et.al.|[2606.31775](http://arxiv.org/abs/2606.31775)|null|
 |**2026-06-29**|**Toponium effects on quantum steering and Bell nonlocality of top quarks**|J. A. Aguilar-Saavedra et.al.|[2606.30768](http://arxiv.org/abs/2606.30768)|null|
 |**2026-06-29**|**Quantum Information of Photon Pairs at Lepton Colliders**|Kun Cheng et.al.|[2606.30759](http://arxiv.org/abs/2606.30759)|null|
@@ -723,7 +725,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-01**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
+|**2026-07-02**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
 |**2026-06-20**|**Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**|Yipeng Xu et.al.|[2606.22127](http://arxiv.org/abs/2606.22127)|null|
 |**2026-06-18**|**Leggett-Garg Inequality Violation in Muon $g-2$ Experiments**|Brian Batell et.al.|[2606.20788](http://arxiv.org/abs/2606.20788)|null|
 |**2026-06-18**|**GPU-accelerated semidefinite programming for causal games**|Emanuel-Cristian Boghiu et.al.|[2606.20519](http://arxiv.org/abs/2606.20519)|null|
@@ -1578,6 +1580,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**Coalesced Matrix-Free Finite Elements in Cell-Wise Storage**|Michał Wichrowski et.al.|[2607.02335](http://arxiv.org/abs/2607.02335)|null|
 |**2026-07-01**|**Hierarchical Variational Kalman Filtering**|Shilei Li et.al.|[2607.00877](http://arxiv.org/abs/2607.00877)|null|
 |**2026-06-30**|**Resourcefulness without Resource: Geometric Origins and Robustness**|Jingsong Ao et.al.|[2606.31516](http://arxiv.org/abs/2606.31516)|null|
 |**2026-06-29**|**Athermality of generalized Gibbs ensembles**|Riccardo Senese et.al.|[2606.30762](http://arxiv.org/abs/2606.30762)|null|
@@ -2171,6 +2174,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**On the emergence of quantum many-body chaos for tunably-broken integrability**|Sounak Biswas et.al.|[2607.02506](http://arxiv.org/abs/2607.02506)|null|
+|**2026-07-02**|**Topological Control of Quantum Chaos Diagnostics: OTOCs, Spectral Statistics, and Information Scrambling in Ising Model**|Reza Pirmoradian et.al.|[2607.02463](http://arxiv.org/abs/2607.02463)|null|
+|**2026-07-02**|**Quantum mutual information as a robust probe of integrability in open quantum systems**|Nirupam Sen et.al.|[2607.02462](http://arxiv.org/abs/2607.02462)|null|
+|**2026-07-02**|**Tuning quantum magic of pure quantum chaotic states with a gravity dual**|Antonio M. García-García et.al.|[2607.01930](http://arxiv.org/abs/2607.01930)|null|
+|**2026-07-01**|**Quantum Trajectory Entanglement in Seeded Boundary Time Crystals**|Mohammad Jafari et.al.|[2607.01335](http://arxiv.org/abs/2607.01335)|null|
 |**2026-07-01**|**Dissipative hydrodynamic actions and horizon symmetries in gravity**|Mike Blake et.al.|[2607.00866](http://arxiv.org/abs/2607.00866)|null|
 |**2026-06-30**|**Correlation-enhanced metrology from scrambling dynamics in a solid-state spin system**|Yu-Chen Li et.al.|[2606.31827](http://arxiv.org/abs/2606.31827)|null|
 |**2026-06-29**|**Provable random-matrix spectral ramp in a static, geometrically local Hamiltonian**|Matteo Ippoliti et.al.|[2606.30635](http://arxiv.org/abs/2606.30635)|null|

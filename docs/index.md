@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.02
+## Updated on 2026.07.03
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3005,6 +3005,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-02**|**Optimal stellar rank approximation of squeezed cat states with photon catalysis**|Julian K. Nauth et.al.|[2607.02427](http://arxiv.org/abs/2607.02427)|null|
+|**2026-07-02**|**Recovery Algorithm for Correlated Errors in Permutation-Invariant Quantum Codes**|Omprakash Chandra et.al.|[2607.02346](http://arxiv.org/abs/2607.02346)|null|
+|**2026-07-02**|**A Structure Theorem for Phase-Space Representations of Continuous-Variable Quantum Error-Correcting Codes**|Enrico Bozzetto et.al.|[2607.02164](http://arxiv.org/abs/2607.02164)|null|
+|**2026-07-02**|**LUCI on IBM Hardware: Error Suppression with Almost Half Syndrome Density**|Younghun Kim et.al.|[2607.01887](http://arxiv.org/abs/2607.01887)|null|
+|**2026-07-01**|**Surface code logical operations on a superconducting quantum processor**|Weiping Lin et.al.|[2607.01473](http://arxiv.org/abs/2607.01473)|null|
+|**2026-07-01**|**Bit flips are erasures in dissipative cat qubits**|Filippo Ferrari et.al.|[2607.01375](http://arxiv.org/abs/2607.01375)|null|
+|**2026-07-01**|**Design rules for fault-tolerant multi-gate teleportation**|Mathys Rennela et.al.|[2607.01342](http://arxiv.org/abs/2607.01342)|null|
 |**2026-07-01**|**Bias-Preserving Gates and Quantum Error Correction With Dual-Rail Cat Codes**|Debjyoti Biswas et.al.|[2607.00786](http://arxiv.org/abs/2607.00786)|null|
 |**2026-06-30**|**The limits of erasure-based postselection for quantum error mitigation**|Sam J. Griffiths et.al.|[2606.31428](http://arxiv.org/abs/2606.31428)|null|
 |**2026-06-29**|**Rethinking quantum information in gravity and fields**|Kanato Goto et.al.|[2606.30853](http://arxiv.org/abs/2606.30853)|null|

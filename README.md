@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**Measurement Geometry as a Resource for Certifying Network Nonlocality**|Leon Adachi et.al.|[2607.04656](http://arxiv.org/abs/2607.04656)|null|
+|**2026-07-05**|**Incompatibility assisted Zeno-like confinement enables unbounded sharing of nonlocality**|Prerna Rao et.al.|[2607.04298](http://arxiv.org/abs/2607.04298)|null|
 |**2026-07-02**|**Nonlocal correlations of fermionic entanglement in the spacetime of Einstein-Gauss-Bonnet black hole**|Yifei Xu et.al.|[2607.02039](http://arxiv.org/abs/2607.02039)|null|
 |**2026-07-01**|**Quantum nonlocal correlations of anomalous weak values**|Ron Cohen et.al.|[2607.01491](http://arxiv.org/abs/2607.01491)|null|
 |**2026-07-02**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
@@ -726,7 +728,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-07-02**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
-|**2026-06-20**|**Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**|Yipeng Xu et.al.|[2606.22127](http://arxiv.org/abs/2606.22127)|null|
+|**2026-07-03**|**Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**|Yipeng Xu et.al.|[2606.22127](http://arxiv.org/abs/2606.22127)|null|
 |**2026-06-18**|**Leggett-Garg Inequality Violation in Muon $g-2$ Experiments**|Brian Batell et.al.|[2606.20788](http://arxiv.org/abs/2606.20788)|null|
 |**2026-06-18**|**GPU-accelerated semidefinite programming for causal games**|Emanuel-Cristian Boghiu et.al.|[2606.20519](http://arxiv.org/abs/2606.20519)|null|
 |**2026-06-17**|**Indefinite Quantum Causality**|Fabio Costa et.al.|[2606.19438](http://arxiv.org/abs/2606.19438)|null|
@@ -1060,7 +1062,7 @@
 |**2026-07-01**|**Robust Quantum Memory Advantage from Contextuality**|Shiroman Prakash et.al.|[2607.00507](http://arxiv.org/abs/2607.00507)|null|
 |**2026-06-24**|**Effect of the magnetic monopole charge on Dirac entanglement and Bell non-locality in Hayward spacetime**|Abdessamie Chhieb et.al.|[2606.26372](http://arxiv.org/abs/2606.26372)|null|
 |**2026-06-24**|**Communicability-Inspired Positional Encoding (CIPE)**|Yipeng Zhang et.al.|[2606.25293](http://arxiv.org/abs/2606.25293)|null|
-|**2026-06-22**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
+|**2026-07-05**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
 |**2026-06-20**|**Schreier-Type Sets and Linear Recurrences: Connections and Developments**|Hung Viet Chu et.al.|[2606.21865](http://arxiv.org/abs/2606.21865)|null|
 |**2026-06-17**|**From Localized Packets to Plane Waves: A Time-Domain Approach to Transport in Mesoscopic Systems**|Andrzej Biborski et.al.|[2606.19012](http://arxiv.org/abs/2606.19012)|null|
 |**2026-06-17**|**Observation of anyonic thermodynamics and generalized Pauli principle**|Fansu Wei et.al.|[2606.19009](http://arxiv.org/abs/2606.19009)|null|
@@ -1376,7 +1378,7 @@
 |**2026-06-28**|**Gaussian quantum steering of coupled three-mode squeezed vacuum in an expanding universe**|Guang-Wei Mi et.al.|[2606.29144](http://arxiv.org/abs/2606.29144)|null|
 |**2026-06-24**|**Quantum steering in networks: Measurement-device-independent detection, continuous variables, and practical Gaussian schemes**|Shao-Hua Hu et.al.|[2606.25690](http://arxiv.org/abs/2606.25690)|null|
 |**2026-06-15**|**Detecting basis-dependent hardware errors through spatio-temporal quantum steering**|Hsiang-Wei Huang et.al.|[2606.16451](http://arxiv.org/abs/2606.16451)|null|
-|**2026-06-11**|**Asymmetric quantum steering harvested near a Lorentz-violating BTZ black hole**|Si-Yu Liu et.al.|[2606.12766](http://arxiv.org/abs/2606.12766)|null|
+|**2026-07-06**|**Asymmetric quantum steering harvested near a Lorentz-violating BTZ black hole**|Si-Yu Liu et.al.|[2606.12766](http://arxiv.org/abs/2606.12766)|null|
 |**2026-06-29**|**Every Rank-Two Entangled State is Projectively Steerable**|Yu-Xuan Zhang et.al.|[2606.08189](http://arxiv.org/abs/2606.08189)|null|
 |**2026-05-27**|**Quantum Crossovers Revealed by Local Measurements**|A. C. S. Costa et.al.|[2605.29019](http://arxiv.org/abs/2605.29019)|null|
 |**2026-05-27**|**One pure steered state implies Einstein-Podolsky-Rosen steering**|Qiu-Cheng Song et.al.|[2605.18243](http://arxiv.org/abs/2605.18243)|null|
@@ -1580,6 +1582,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**The free state for the Potts model on Cayley trees is either extremal or glassy**|Jianping Jiang et.al.|[2607.05138](http://arxiv.org/abs/2607.05138)|null|
+|**2026-07-06**|**Direct Model State Migration for Elastic Training of Large Language Models**|Weijian Liu et.al.|[2607.04749](http://arxiv.org/abs/2607.04749)|null|
 |**2026-07-02**|**Coalesced Matrix-Free Finite Elements in Cell-Wise Storage**|Michał Wichrowski et.al.|[2607.02335](http://arxiv.org/abs/2607.02335)|null|
 |**2026-07-01**|**Hierarchical Variational Kalman Filtering**|Shilei Li et.al.|[2607.00877](http://arxiv.org/abs/2607.00877)|null|
 |**2026-06-30**|**Resourcefulness without Resource: Geometric Origins and Robustness**|Jingsong Ao et.al.|[2606.31516](http://arxiv.org/abs/2606.31516)|null|
@@ -2174,6 +2178,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**Brownian Motion in Orthogonal and Symplectic Groups**|Zhiyang Tan et.al.|[2607.05094](http://arxiv.org/abs/2607.05094)|null|
+|**2026-07-05**|**Controlling many-body quantum chaos in a dissipative optical cavity**|Filippo Ferrari et.al.|[2607.04455](http://arxiv.org/abs/2607.04455)|null|
+|**2026-07-04**|**Frozen-Tree Sampling Refutes Quantum Advantage of Random Circuit Sampling**|Sangchul Oh et.al.|[2607.04054](http://arxiv.org/abs/2607.04054)|null|
+|**2026-07-04**|**Perturbed quantum billiards on the hyperbolic plane**|Matic Orel et.al.|[2607.03786](http://arxiv.org/abs/2607.03786)|null|
+|**2026-07-03**|**Anomalous rate of eigenstate thermalisation at singularities of the density of states**|László Erdős et.al.|[2607.03546](http://arxiv.org/abs/2607.03546)|null|
+|**2026-07-03**|**Many-body quantum chaos in excitonic spectra from first principles**|Daniel Hernangómez-Pérez et.al.|[2607.03294](http://arxiv.org/abs/2607.03294)|null|
 |**2026-07-02**|**On the emergence of quantum many-body chaos for tunably-broken integrability**|Sounak Biswas et.al.|[2607.02506](http://arxiv.org/abs/2607.02506)|null|
 |**2026-07-02**|**Topological Control of Quantum Chaos Diagnostics: OTOCs, Spectral Statistics, and Information Scrambling in Ising Model**|Reza Pirmoradian et.al.|[2607.02463](http://arxiv.org/abs/2607.02463)|null|
 |**2026-07-02**|**Quantum mutual information as a robust probe of integrability in open quantum systems**|Nirupam Sen et.al.|[2607.02462](http://arxiv.org/abs/2607.02462)|null|
@@ -3034,6 +3044,13 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-06**|**Complementary 3D color codes for transversal quantum logic**|Friederike Butt et.al.|[2607.05107](http://arxiv.org/abs/2607.05107)|null|
+|**2026-07-05**|**Genuine Multipartite Entanglement between Logical Qubits via Cross-Code Lattice Surgery**|Alex Steiner et.al.|[2607.04227](http://arxiv.org/abs/2607.04227)|null|
+|**2026-07-05**|**A Cross-Platform Analysis of High-Performance Quantum Error Correction Codes**|Bryan Pan et.al.|[2607.04082](http://arxiv.org/abs/2607.04082)|null|
+|**2026-07-05**|**Benchmarking API Drift in LLM-Generated Quantum Code Across Successive SDK Versions**|Mohammad Arif Rasyidi et.al.|[2607.04072](http://arxiv.org/abs/2607.04072)|null|
+|**2026-07-04**|**The Delayed Stabilizer ZX-Calculus**|Cole Comfort et.al.|[2607.04015](http://arxiv.org/abs/2607.04015)|null|
+|**2026-07-04**|**The Hermitian Hull Dimensions for a Class of (L,P)-Twisted Generalized Reed-Solomon Codes**|Chenlu Jia et.al.|[2607.03802](http://arxiv.org/abs/2607.03802)|null|
+|**2026-07-02**|**Fault-tolerant quantum computation with static atomic buses**|Matteo Bergonzoni et.al.|[2607.02804](http://arxiv.org/abs/2607.02804)|null|
 |**2026-07-02**|**Optimal stellar rank approximation of squeezed cat states with photon catalysis**|Julian K. Nauth et.al.|[2607.02427](http://arxiv.org/abs/2607.02427)|null|
 |**2026-07-02**|**Recovery Algorithm for Correlated Errors in Permutation-Invariant Quantum Codes**|Omprakash Chandra et.al.|[2607.02346](http://arxiv.org/abs/2607.02346)|null|
 |**2026-07-02**|**A Structure Theorem for Phase-Space Representations of Continuous-Variable Quantum Error-Correcting Codes**|Enrico Bozzetto et.al.|[2607.02164](http://arxiv.org/abs/2607.02164)|null|

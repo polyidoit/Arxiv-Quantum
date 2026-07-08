@@ -1060,6 +1060,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions**|Jian Xu et.al.|[2607.06230](http://arxiv.org/abs/2607.06230)|null|
 |**2026-07-01**|**Robust Quantum Memory Advantage from Contextuality**|Shiroman Prakash et.al.|[2607.00507](http://arxiv.org/abs/2607.00507)|null|
 |**2026-06-24**|**Effect of the magnetic monopole charge on Dirac entanglement and Bell non-locality in Hayward spacetime**|Abdessamie Chhieb et.al.|[2606.26372](http://arxiv.org/abs/2606.26372)|null|
 |**2026-06-24**|**Communicability-Inspired Positional Encoding (CIPE)**|Yipeng Zhang et.al.|[2606.25293](http://arxiv.org/abs/2606.25293)|null|
@@ -1583,6 +1584,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Microscopic theory of the lower critical field in superconducting thin-film strips**|Takayuki Kubo et.al.|[2607.05890](http://arxiv.org/abs/2607.05890)|null|
+|**2026-07-06**|**DBNN: Neural Spike Classification Using a Deep Binarized Neural Network**|Binyi Ren et.al.|[2607.05590](http://arxiv.org/abs/2607.05590)|null|
 |**2026-07-06**|**The free state for the Potts model on Cayley trees is either extremal or glassy**|Jianping Jiang et.al.|[2607.05138](http://arxiv.org/abs/2607.05138)|null|
 |**2026-07-06**|**Direct Model State Migration for Elastic Training of Large Language Models**|Weijian Liu et.al.|[2607.04749](http://arxiv.org/abs/2607.04749)|null|
 |**2026-07-02**|**Coalesced Matrix-Free Finite Elements in Cell-Wise Storage**|Michał Wichrowski et.al.|[2607.02335](http://arxiv.org/abs/2607.02335)|null|
@@ -2179,6 +2182,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**Anomalous suppression of quantum chaos between two integrable limits**|Roopayan Ghosh et.al.|[2607.05506](http://arxiv.org/abs/2607.05506)|null|
 |**2026-07-06**|**Brownian Motion in Orthogonal and Symplectic Groups**|Zhiyang Tan et.al.|[2607.05094](http://arxiv.org/abs/2607.05094)|null|
 |**2026-07-05**|**Controlling many-body quantum chaos in a dissipative optical cavity**|Filippo Ferrari et.al.|[2607.04455](http://arxiv.org/abs/2607.04455)|null|
 |**2026-07-04**|**Frozen-Tree Sampling Refutes Quantum Advantage of Random Circuit Sampling**|Sangchul Oh et.al.|[2607.04054](http://arxiv.org/abs/2607.04054)|null|
@@ -3045,6 +3049,13 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-07**|**Bosonic quantum error-correcting codes with finite stellar rank**|Rui Wang et.al.|[2607.06404](http://arxiv.org/abs/2607.06404)|null|
+|**2026-07-07**|**Learning to Reconstruct Wigner Functions in Phase Space**|Xinyu Tang et.al.|[2607.06232](http://arxiv.org/abs/2607.06232)|null|
+|**2026-07-07**|**Strictly Local Tile-Code Architectures on Two-Dimensional Planar Lattices**|Yoonjin Bae et.al.|[2607.05897](http://arxiv.org/abs/2607.05897)|null|
+|**2026-07-07**|**Latency-Constrained Hardware-Aware Quantum Error Correction Co-Design with Adaptive Confidence-Gated Neural Decoding for the Rotated Surface Code**|Sumit Chongder et.al.|[2607.05814](http://arxiv.org/abs/2607.05814)|null|
+|**2026-07-07**|**Low-Overhead Error-Corrected QCNNs Using Bivariate Bicycle Codes**|Alejandro Rosales et.al.|[2607.05724](http://arxiv.org/abs/2607.05724)|null|
+|**2026-07-06**|**Harnessing Generative Image Models for Training-Free Primitive Shape Abstraction**|Gregor Kobsik et.al.|[2607.05568](http://arxiv.org/abs/2607.05568)|null|
+|**2026-07-06**|**Towards Lattice Surgery Compilation for the Color Code Using Pipe Diagrams**|Laura S. Herzog et.al.|[2607.05501](http://arxiv.org/abs/2607.05501)|null|
 |**2026-07-06**|**Complementary 3D color codes for transversal quantum logic**|Friederike Butt et.al.|[2607.05107](http://arxiv.org/abs/2607.05107)|null|
 |**2026-07-05**|**Genuine Multipartite Entanglement between Logical Qubits via Cross-Code Lattice Surgery**|Alex Steiner et.al.|[2607.04227](http://arxiv.org/abs/2607.04227)|null|
 |**2026-07-05**|**A Cross-Platform Analysis of High-Performance Quantum Error Correction Codes**|Bryan Pan et.al.|[2607.04082](http://arxiv.org/abs/2607.04082)|null|

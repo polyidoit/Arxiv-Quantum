@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -716,6 +716,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**Coherent Control of Channel Dilations Activate Temporal Bell Nonclassicality**|H S Karthik et.al.|[2607.05643](http://arxiv.org/abs/2607.05643)|null|
 |**2026-07-02**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
 |**2026-07-03**|**Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**|Yipeng Xu et.al.|[2606.22127](http://arxiv.org/abs/2606.22127)|null|
 |**2026-06-18**|**Leggett-Garg Inequality Violation in Muon $g-2$ Experiments**|Brian Batell et.al.|[2606.20788](http://arxiv.org/abs/2606.20788)|null|

@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**XOR Games at Full Tilt: The Hardness of Binary Nonlocal Games**|Richard Cleve et.al.|[2607.06876](http://arxiv.org/abs/2607.06876)|null|
 |**2026-07-06**|**Measurement Geometry as a Resource for Certifying Network Nonlocality**|Leon Adachi et.al.|[2607.04656](http://arxiv.org/abs/2607.04656)|null|
 |**2026-07-05**|**Incompatibility assisted Zeno-like confinement enables unbounded sharing of nonlocality**|Prerna Rao et.al.|[2607.04298](http://arxiv.org/abs/2607.04298)|null|
 |**2026-07-02**|**Nonlocal correlations of fermionic entanglement in the spacetime of Einstein-Gauss-Bonnet black hole**|Yifei Xu et.al.|[2607.02039](http://arxiv.org/abs/2607.02039)|null|
@@ -1567,6 +1568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Terahertz Phase Inversion via Field-Free Spin-Orbit Torque Switching in an Antenna-Integrated Spintronic Heterostructure**|Amir Khan et.al.|[2607.07220](http://arxiv.org/abs/2607.07220)|null|
 |**2026-07-07**|**Microscopic theory of the lower critical field in superconducting thin-film strips**|Takayuki Kubo et.al.|[2607.05890](http://arxiv.org/abs/2607.05890)|null|
 |**2026-07-06**|**DBNN: Neural Spike Classification Using a Deep Binarized Neural Network**|Binyi Ren et.al.|[2607.05590](http://arxiv.org/abs/2607.05590)|null|
 |**2026-07-06**|**The free state for the Potts model on Cayley trees is either extremal or glassy**|Jianping Jiang et.al.|[2607.05138](http://arxiv.org/abs/2607.05138)|null|
@@ -1574,7 +1576,7 @@ layout: default
 |**2026-07-02**|**Coalesced Matrix-Free Finite Elements in Cell-Wise Storage**|Michał Wichrowski et.al.|[2607.02335](http://arxiv.org/abs/2607.02335)|null|
 |**2026-07-01**|**Hierarchical Variational Kalman Filtering**|Shilei Li et.al.|[2607.00877](http://arxiv.org/abs/2607.00877)|null|
 |**2026-06-30**|**Resourcefulness without Resource: Geometric Origins and Robustness**|Jingsong Ao et.al.|[2606.31516](http://arxiv.org/abs/2606.31516)|null|
-|**2026-06-29**|**Athermality of generalized Gibbs ensembles**|Riccardo Senese et.al.|[2606.30762](http://arxiv.org/abs/2606.30762)|null|
+|**2026-07-08**|**Athermality of generalized Gibbs ensembles**|Riccardo Senese et.al.|[2606.30762](http://arxiv.org/abs/2606.30762)|null|
 |**2026-06-13**|**ConCise: Training-Free Conclusion-Chain State Compression for Cost-Efficient Multi-Step RAG Services**|Kuan Yan et.al.|[2606.28361](http://arxiv.org/abs/2606.28361)|null|
 |**2026-06-24**|**A Low-PAPR, Synchronization-Robust Non-Coherent Grassmannian Modulation for Optical Communications**|Eylon E. Krause et.al.|[2606.26464](http://arxiv.org/abs/2606.26464)|null|
 |**2026-06-17**|**Re-Rooting-Based Fault-Tolerant One-to-All Broadcasting in Dense Eisenstein--Jacobi Networks**|Bader Albader et.al.|[2606.18712](http://arxiv.org/abs/2606.18712)|null|
@@ -2163,6 +2165,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Spin singlets are useful**|Silas Hoffman et.al.|[2607.06672](http://arxiv.org/abs/2607.06672)|null|
 |**2026-07-06**|**Anomalous suppression of quantum chaos between two integrable limits**|Roopayan Ghosh et.al.|[2607.05506](http://arxiv.org/abs/2607.05506)|null|
 |**2026-07-06**|**Brownian Motion in Orthogonal and Symplectic Groups**|Zhiyang Tan et.al.|[2607.05094](http://arxiv.org/abs/2607.05094)|null|
 |**2026-07-05**|**Controlling many-body quantum chaos in a dissipative optical cavity**|Filippo Ferrari et.al.|[2607.04455](http://arxiv.org/abs/2607.04455)|null|
@@ -3028,10 +3031,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-08**|**Covariant Approximate Quantum Codes for Protected Analog Computation**|Mariia Elovenkova et.al.|[2607.07607](http://arxiv.org/abs/2607.07607)|null|
+|**2026-07-08**|**Four classes of few-weight self-orthogonal codes and their applications for LCD codes and quantum codes**|Yue Huang et.al.|[2607.07181](http://arxiv.org/abs/2607.07181)|null|
+|**2026-07-07**|**Quantum error correction of a grid-state qubit with state preparation and measurement errors below $10^{-3}$**|Sara Turcotte et.al.|[2607.06718](http://arxiv.org/abs/2607.06718)|null|
 |**2026-07-07**|**Bosonic quantum error-correcting codes with finite stellar rank**|Rui Wang et.al.|[2607.06404](http://arxiv.org/abs/2607.06404)|null|
 |**2026-07-07**|**Learning to Reconstruct Wigner Functions in Phase Space**|Xinyu Tang et.al.|[2607.06232](http://arxiv.org/abs/2607.06232)|null|
 |**2026-07-07**|**Strictly Local Tile-Code Architectures on Two-Dimensional Planar Lattices**|Yoonjin Bae et.al.|[2607.05897](http://arxiv.org/abs/2607.05897)|null|
-|**2026-07-07**|**Latency-Constrained Hardware-Aware Quantum Error Correction Co-Design with Adaptive Confidence-Gated Neural Decoding for the Rotated Surface Code**|Sumit Chongder et.al.|[2607.05814](http://arxiv.org/abs/2607.05814)|null|
+|**2026-07-08**|**Latency-Constrained Hardware-Aware Quantum Error Correction Co-Design with Adaptive Confidence-Gated Neural Decoding for the Rotated Surface Code**|Sumit Chongder et.al.|[2607.05814](http://arxiv.org/abs/2607.05814)|null|
 |**2026-07-07**|**Low-Overhead Error-Corrected QCNNs Using Bivariate Bicycle Codes**|Alejandro Rosales et.al.|[2607.05724](http://arxiv.org/abs/2607.05724)|null|
 |**2026-07-06**|**Harnessing Generative Image Models for Training-Free Primitive Shape Abstraction**|Gregor Kobsik et.al.|[2607.05568](http://arxiv.org/abs/2607.05568)|null|
 |**2026-07-06**|**Towards Lattice Surgery Compilation for the Color Code Using Pipe Diagrams**|Laura S. Herzog et.al.|[2607.05501](http://arxiv.org/abs/2607.05501)|null|

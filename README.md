@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
+|**2026-07-09**|**Optimizing and Certifying Multipartite Permutationally Invariant Bell Inequalities**|Jin-Fu Chen et.al.|[2607.08462](http://arxiv.org/abs/2607.08462)|null|
 |**2026-07-08**|**XOR Games at Full Tilt: The Hardness of Binary Nonlocal Games**|Richard Cleve et.al.|[2607.06876](http://arxiv.org/abs/2607.06876)|null|
 |**2026-07-06**|**Measurement Geometry as a Resource for Certifying Network Nonlocality**|Leon Adachi et.al.|[2607.04656](http://arxiv.org/abs/2607.04656)|null|
 |**2026-07-05**|**Incompatibility assisted Zeno-like confinement enables unbounded sharing of nonlocality**|Prerna Rao et.al.|[2607.04298](http://arxiv.org/abs/2607.04298)|null|
@@ -1376,6 +1378,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
+|**2026-07-09**|**Robust One-Sided Device-Independent Quantum Key Distribution via High-Dimensional Steering**|Monika Mothsara et.al.|[2607.08709](http://arxiv.org/abs/2607.08709)|null|
+|**2026-07-09**|**Quantifying randomness with measurement incompatibility**|Sebastian Schlösser et.al.|[2607.08697](http://arxiv.org/abs/2607.08697)|null|
 |**2026-07-01**|**Extreme volume monogamy via bound-state engineering**|Wen-Jie Zhang et.al.|[2607.00346](http://arxiv.org/abs/2607.00346)|null|
 |**2026-06-29**|**Toponium effects on quantum steering and Bell nonlocality of top quarks**|J. A. Aguilar-Saavedra et.al.|[2606.30768](http://arxiv.org/abs/2606.30768)|null|
 |**2026-06-28**|**Gaussian quantum steering of coupled three-mode squeezed vacuum in an expanding universe**|Guang-Wei Mi et.al.|[2606.29144](http://arxiv.org/abs/2606.29144)|null|
@@ -2184,6 +2189,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**Irreducible Geometry of Higher-Order Correlator Families**|Kaito Kobayashi et.al.|[2607.08761](http://arxiv.org/abs/2607.08761)|null|
+|**2026-07-09**|**Universality of Measurement-Induced Criticality under Symmetry-Breaking Measurements**|Angelo Russotto et.al.|[2607.08589](http://arxiv.org/abs/2607.08589)|null|
 |**2026-07-07**|**Spin singlets are useful**|Silas Hoffman et.al.|[2607.06672](http://arxiv.org/abs/2607.06672)|null|
 |**2026-07-06**|**Anomalous suppression of quantum chaos between two integrable limits**|Roopayan Ghosh et.al.|[2607.05506](http://arxiv.org/abs/2607.05506)|null|
 |**2026-07-06**|**Brownian Motion in Orthogonal and Symplectic Groups**|Zhiyang Tan et.al.|[2607.05094](http://arxiv.org/abs/2607.05094)|null|
@@ -3052,6 +3059,9 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-09**|**Low-latency FPGA-based electronic control system for fast preparation of defect-free atom arrays**|Ya-Dong Hu et.al.|[2607.08687](http://arxiv.org/abs/2607.08687)|null|
+|**2026-07-09**|**Entanglement Wedge Reconstruction without Holographic Quantum Error Correction**|Seiji Terashima et.al.|[2607.08684](http://arxiv.org/abs/2607.08684)|null|
+|**2026-07-08**|**Routing Techniques for Error Corrected Silicon Spin Qubit Quantum Architectures**|Julian Shen et.al.|[2607.07822](http://arxiv.org/abs/2607.07822)|null|
 |**2026-07-08**|**Covariant Approximate Quantum Codes for Protected Analog Computation**|Mariia Elovenkova et.al.|[2607.07607](http://arxiv.org/abs/2607.07607)|null|
 |**2026-07-08**|**Four classes of few-weight self-orthogonal codes and their applications for LCD codes and quantum codes**|Yue Huang et.al.|[2607.07181](http://arxiv.org/abs/2607.07181)|null|
 |**2026-07-07**|**Quantum error correction of a grid-state qubit with state preparation and measurement errors below $10^{-3}$**|Sara Turcotte et.al.|[2607.06718](http://arxiv.org/abs/2607.06718)|null|

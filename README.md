@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**GHz-rate all-fiber active polarization state analyzer for quantum protocols**|Andrea Pompermaier et.al.|[2607.09597](http://arxiv.org/abs/2607.09597)|null|
+|**2026-07-09**|**High Energy Photon Polarimetry at Lepton Colliders: Quantum Information from Converted Photons**|Carlos Henrique de Lima et.al.|[2607.08816](http://arxiv.org/abs/2607.08816)|null|
 |**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
 |**2026-07-09**|**Optimizing and Certifying Multipartite Permutationally Invariant Bell Inequalities**|Jin-Fu Chen et.al.|[2607.08462](http://arxiv.org/abs/2607.08462)|null|
 |**2026-07-08**|**XOR Games at Full Tilt: The Hardness of Binary Nonlocal Games**|Richard Cleve et.al.|[2607.06876](http://arxiv.org/abs/2607.06876)|null|
@@ -2189,6 +2191,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**Thermalization in a Height-Conserving Quantum Dimer Model**|Junsheng Feng et.al.|[2607.09580](http://arxiv.org/abs/2607.09580)|null|
+|**2026-07-10**|**Quantum Chaos with a Macroscopic Zero-Mode Sector**|Cheryne Jonay et.al.|[2607.09504](http://arxiv.org/abs/2607.09504)|null|
 |**2026-07-09**|**Irreducible Geometry of Higher-Order Correlator Families**|Kaito Kobayashi et.al.|[2607.08761](http://arxiv.org/abs/2607.08761)|null|
 |**2026-07-09**|**Universality of Measurement-Induced Criticality under Symmetry-Breaking Measurements**|Angelo Russotto et.al.|[2607.08589](http://arxiv.org/abs/2607.08589)|null|
 |**2026-07-07**|**Spin singlets are useful**|Silas Hoffman et.al.|[2607.06672](http://arxiv.org/abs/2607.06672)|null|
@@ -3059,6 +3063,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-09**|**A diagrammatic field theory of quantum error correction**|Steven Rayan et.al.|[2607.08911](http://arxiv.org/abs/2607.08911)|null|
+|**2026-07-09**|**Fermion-mediated Casimir effect on mesoscopic rings implementing non-Clifford SWAP $^α$ gates**|Liang Du et.al.|[2607.08840](http://arxiv.org/abs/2607.08840)|null|
 |**2026-07-09**|**Low-latency FPGA-based electronic control system for fast preparation of defect-free atom arrays**|Ya-Dong Hu et.al.|[2607.08687](http://arxiv.org/abs/2607.08687)|null|
 |**2026-07-09**|**Entanglement Wedge Reconstruction without Holographic Quantum Error Correction**|Seiji Terashima et.al.|[2607.08684](http://arxiv.org/abs/2607.08684)|null|
 |**2026-07-08**|**Routing Techniques for Error Corrected Silicon Spin Qubit Quantum Architectures**|Julian Shen et.al.|[2607.07822](http://arxiv.org/abs/2607.07822)|null|

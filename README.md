@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-11**|**Nonlocal Manipulation of Backflow with Quantum Correlations**|Ya Xiao et.al.|[2607.10281](http://arxiv.org/abs/2607.10281)|null|
+|**2026-07-10**|**Device-independent certification of tripartite quantum networks with bilocal Bell inequalities**|Patryk Michalski et.al.|[2607.09933](http://arxiv.org/abs/2607.09933)|null|
 |**2026-07-10**|**GHz-rate all-fiber active polarization state analyzer for quantum protocols**|Andrea Pompermaier et.al.|[2607.09597](http://arxiv.org/abs/2607.09597)|null|
 |**2026-07-09**|**High Energy Photon Polarimetry at Lepton Colliders: Quantum Information from Converted Photons**|Carlos Henrique de Lima et.al.|[2607.08816](http://arxiv.org/abs/2607.08816)|null|
 |**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
@@ -1380,6 +1382,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-11**|**Nonlocal Manipulation of Backflow with Quantum Correlations**|Ya Xiao et.al.|[2607.10281](http://arxiv.org/abs/2607.10281)|null|
 |**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
 |**2026-07-09**|**Robust One-Sided Device-Independent Quantum Key Distribution via High-Dimensional Steering**|Monika Mothsara et.al.|[2607.08709](http://arxiv.org/abs/2607.08709)|null|
 |**2026-07-09**|**Quantifying randomness with measurement incompatibility**|Sebastian Schlösser et.al.|[2607.08697](http://arxiv.org/abs/2607.08697)|null|
@@ -1592,6 +1595,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**Microscopic equivalence of the vortex-entry current and the depairing current in a superconducting thin-film strip**|Takayuki Kubo et.al.|[2607.11518](http://arxiv.org/abs/2607.11518)|null|
+|**2026-07-13**|**Capture, Shield, or Neutralize: Engagement-Aware Pursuit-Evasion**|Ananya Acharya et.al.|[2607.10986](http://arxiv.org/abs/2607.10986)|null|
+|**2026-07-12**|**Institutional Harm through Threshold Cascades**|Piper Harris et.al.|[2607.10726](http://arxiv.org/abs/2607.10726)|null|
 |**2026-07-08**|**Terahertz Phase Inversion via Field-Free Spin-Orbit Torque Switching in an Antenna-Integrated Spintronic Heterostructure**|Amir Khan et.al.|[2607.07220](http://arxiv.org/abs/2607.07220)|null|
 |**2026-07-07**|**Microscopic theory of the lower critical field in superconducting thin-film strips**|Takayuki Kubo et.al.|[2607.05890](http://arxiv.org/abs/2607.05890)|null|
 |**2026-07-06**|**DBNN: Neural Spike Classification Using a Deep Binarized Neural Network**|Binyi Ren et.al.|[2607.05590](http://arxiv.org/abs/2607.05590)|null|
@@ -2191,6 +2197,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**Emergent quantum chaos from correlations on a random graph**|Mrinal Sarkar et.al.|[2607.11662](http://arxiv.org/abs/2607.11662)|null|
+|**2026-07-13**|**Quantum Simulation of Strongly Correlated Fermion-Phonon Models in Circuit QED**|Tim Bode et.al.|[2607.11516](http://arxiv.org/abs/2607.11516)|null|
+|**2026-07-12**|**Krylov Complexity from Loschmidt Amplitude**|Debarghya Chakraborty et.al.|[2607.10921](http://arxiv.org/abs/2607.10921)|null|
+|**2026-07-10**|**A Hybrid Quantum-Chaos Theory Approach to Image Encryption Using Reservoir Computing**|Naheen Mohd. Kadir et.al.|[2607.09923](http://arxiv.org/abs/2607.09923)|null|
 |**2026-07-10**|**Thermalization in a Height-Conserving Quantum Dimer Model**|Junsheng Feng et.al.|[2607.09580](http://arxiv.org/abs/2607.09580)|null|
 |**2026-07-10**|**Quantum Chaos with a Macroscopic Zero-Mode Sector**|Cheryne Jonay et.al.|[2607.09504](http://arxiv.org/abs/2607.09504)|null|
 |**2026-07-09**|**Irreducible Geometry of Higher-Order Correlator Families**|Kaito Kobayashi et.al.|[2607.08761](http://arxiv.org/abs/2607.08761)|null|
@@ -3063,6 +3073,15 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-13**|**Optimal operating temperature for industry-compatible silicon spin quantum computing: colder is not necessarily better**|Paul Steinacker et.al.|[2607.11846](http://arxiv.org/abs/2607.11846)|null|
+|**2026-07-13**|**Quantum Arithmetic Circuits in Public-Key Cryptography**|Siyi Wang et.al.|[2607.11713](http://arxiv.org/abs/2607.11713)|null|
+|**2026-07-13**|**Multi-Stage Mamba-Based Architecture for Fast and Scalable Superconducting Qubit Readout**|Luca Otting et.al.|[2607.11668](http://arxiv.org/abs/2607.11668)|null|
+|**2026-07-13**|**Overcoming Fourier Locking in Quantum Data Re-uploading Classifiers via Spectral Homotopy**|Spencer Topel et.al.|[2607.11013](http://arxiv.org/abs/2607.11013)|null|
+|**2026-07-12**|**$p$ -Form Gauge Dynamics and Digital Quantum Simulation -- Flux and Cosmological Constant Neutralization**|Soo-Jong Rey et.al.|[2607.10950](http://arxiv.org/abs/2607.10950)|null|
+|**2026-07-12**|**Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis**|Ekkachai Jueng et.al.|[2607.10802](http://arxiv.org/abs/2607.10802)|null|
+|**2026-07-12**|**MDQEC-QAS: Meta-Decoding for Quantum Error Correction with Hardware-Aware VQC Search and Confidence-Gated Recovery**|Prashant Kumar Choudhary et.al.|[2607.10707](http://arxiv.org/abs/2607.10707)|null|
+|**2026-07-11**|**Fast and accurate AI-based pre-decoders for color codes**|Jan Olle et.al.|[2607.10058](http://arxiv.org/abs/2607.10058)|null|
+|**2026-07-11**|**Quantum Circuit Vision: Cost-Aware Evaluation of Visual AI Agents for Quantum Code Generation**|Dongping Liu et.al.|[2607.10057](http://arxiv.org/abs/2607.10057)|null|
 |**2026-07-09**|**A diagrammatic field theory of quantum error correction**|Steven Rayan et.al.|[2607.08911](http://arxiv.org/abs/2607.08911)|null|
 |**2026-07-09**|**Fermion-mediated Casimir effect on mesoscopic rings implementing non-Clifford SWAP $^α$ gates**|Liang Du et.al.|[2607.08840](http://arxiv.org/abs/2607.08840)|null|
 |**2026-07-09**|**Low-latency FPGA-based electronic control system for fast preparation of defect-free atom arrays**|Ya-Dong Hu et.al.|[2607.08687](http://arxiv.org/abs/2607.08687)|null|

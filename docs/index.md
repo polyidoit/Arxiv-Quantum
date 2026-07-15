@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3052,6 +3052,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-14**|**Heisenberg-limited metrology in the presence of non-Markovian noise with finite control rates**|Shravan Shravan et.al.|[2607.12913](http://arxiv.org/abs/2607.12913)|null|
+|**2026-07-14**|**Quantum Codes from $r$-Nearly Self-Orthogonal Linear Codes via Jordan Canonical Form over $\mathbb{F}_{q^2}$**|Liangdong Lu et.al.|[2607.12242](http://arxiv.org/abs/2607.12242)|null|
+|**2026-07-13**|**Anticipating Decoder Side-channel Attacks in Fault-tolerant Quantum Computers**|Shashvat Shukla et.al.|[2607.12174](http://arxiv.org/abs/2607.12174)|null|
+|**2026-07-13**|**Error correction on an array of superconducting qubits with defective components**|Julien M. Drouet et.al.|[2607.12118](http://arxiv.org/abs/2607.12118)|null|
+|**2026-07-13**|**Observation of gravity-like signatures in holographic codes on a quantum computer**|Debopriyo Biswas et.al.|[2607.12047](http://arxiv.org/abs/2607.12047)|null|
 |**2026-07-13**|**Optimal operating temperature for industry-compatible silicon spin quantum computing: colder is not necessarily better**|Paul Steinacker et.al.|[2607.11846](http://arxiv.org/abs/2607.11846)|null|
 |**2026-07-13**|**Quantum Arithmetic Circuits in Public-Key Cryptography**|Siyi Wang et.al.|[2607.11713](http://arxiv.org/abs/2607.11713)|null|
 |**2026-07-13**|**Multi-Stage Mamba-Based Architecture for Fast and Scalable Superconducting Qubit Readout**|Luca Otting et.al.|[2607.11668](http://arxiv.org/abs/2607.11668)|null|

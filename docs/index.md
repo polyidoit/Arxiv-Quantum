@@ -3052,6 +3052,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-14**|**Logical Entangling with Phantom Codes in Hypergraph Products**|Keming He et.al.|[2607.12948](http://arxiv.org/abs/2607.12948)|null|
 |**2026-07-14**|**Heisenberg-limited metrology in the presence of non-Markovian noise with finite control rates**|Shravan Shravan et.al.|[2607.12913](http://arxiv.org/abs/2607.12913)|null|
 |**2026-07-14**|**Quantum Codes from $r$-Nearly Self-Orthogonal Linear Codes via Jordan Canonical Form over $\mathbb{F}_{q^2}$**|Liangdong Lu et.al.|[2607.12242](http://arxiv.org/abs/2607.12242)|null|
 |**2026-07-13**|**Anticipating Decoder Side-channel Attacks in Fault-tolerant Quantum Computers**|Shashvat Shukla et.al.|[2607.12174](http://arxiv.org/abs/2607.12174)|null|

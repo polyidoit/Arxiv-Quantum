@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**Quantum observables for probabilistic classical particles**|Christof Wetterich et.al.|[2607.13937](http://arxiv.org/abs/2607.13937)|null|
+|**2026-07-15**|**Effects of coherent and incoherent measurement imperfections on multipartite quantum nonlocality and quantum key distribution**|Qiong Wang et.al.|[2607.13645](http://arxiv.org/abs/2607.13645)|null|
 |**2026-07-11**|**Nonlocal Manipulation of Backflow with Quantum Correlations**|Ya Xiao et.al.|[2607.10281](http://arxiv.org/abs/2607.10281)|null|
 |**2026-07-10**|**Device-independent certification of tripartite quantum networks with bilocal Bell inequalities**|Patryk Michalski et.al.|[2607.09933](http://arxiv.org/abs/2607.09933)|null|
 |**2026-07-10**|**GHz-rate all-fiber active polarization state analyzer for quantum protocols**|Andrea Pompermaier et.al.|[2607.09597](http://arxiv.org/abs/2607.09597)|null|
@@ -1068,7 +1070,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-07-07**|**Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions**|Jian Xu et.al.|[2607.06230](http://arxiv.org/abs/2607.06230)|null|
-|**2026-07-01**|**Robust Quantum Memory Advantage from Contextuality**|Shiroman Prakash et.al.|[2607.00507](http://arxiv.org/abs/2607.00507)|null|
+|**2026-07-15**|**Quantum Memory Advantage from Contextuality**|Shiroman Prakash et.al.|[2607.00507](http://arxiv.org/abs/2607.00507)|null|
 |**2026-06-24**|**Effect of the magnetic monopole charge on Dirac entanglement and Bell non-locality in Hayward spacetime**|Abdessamie Chhieb et.al.|[2606.26372](http://arxiv.org/abs/2606.26372)|null|
 |**2026-06-24**|**Communicability-Inspired Positional Encoding (CIPE)**|Yipeng Zhang et.al.|[2606.25293](http://arxiv.org/abs/2606.25293)|null|
 |**2026-07-05**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
@@ -1595,6 +1597,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**How Far Can Root Cause Analysis Go on Real-World Telemetry Data?**|Athira Gopal et.al.|[2607.13548](http://arxiv.org/abs/2607.13548)|null|
+|**2026-07-15**|**Boronization-enabled I-mode on EAST tokamak with an expanded density window and favorable-configuration access**|X. M. Zhong et.al.|[2607.13390](http://arxiv.org/abs/2607.13390)|null|
 |**2026-07-13**|**Microscopic equivalence of the vortex-entry current and the depairing current in a superconducting thin-film strip**|Takayuki Kubo et.al.|[2607.11518](http://arxiv.org/abs/2607.11518)|null|
 |**2026-07-13**|**Capture, Shield, or Neutralize: Engagement-Aware Pursuit-Evasion**|Ananya Acharya et.al.|[2607.10986](http://arxiv.org/abs/2607.10986)|null|
 |**2026-07-12**|**Institutional Harm through Threshold Cascades**|Piper Harris et.al.|[2607.10726](http://arxiv.org/abs/2607.10726)|null|
@@ -2197,6 +2201,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**A de Sitter Anti-Scrambling Algebra**|Wentao Cui et.al.|[2607.13665](http://arxiv.org/abs/2607.13665)|null|
+|**2026-07-14**|**Out-of-time-ordered Correlators in de Sitter Revisited**|Alexey Milekhin et.al.|[2607.13137](http://arxiv.org/abs/2607.13137)|null|
 |**2026-07-13**|**Emergent quantum chaos from correlations on a random graph**|Mrinal Sarkar et.al.|[2607.11662](http://arxiv.org/abs/2607.11662)|null|
 |**2026-07-13**|**Quantum Simulation of Strongly Correlated Fermion-Phonon Models in Circuit QED**|Tim Bode et.al.|[2607.11516](http://arxiv.org/abs/2607.11516)|null|
 |**2026-07-12**|**Krylov Complexity from Loschmidt Amplitude**|Debarghya Chakraborty et.al.|[2607.10921](http://arxiv.org/abs/2607.10921)|null|
@@ -3073,6 +3079,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-15**|**Universal Quantum Computation with Multi-Mode Schrödinger Cat States Stabilized by Non-Local Dissipation Engineering**|Jesper Lind-Olsen et.al.|[2607.13975](http://arxiv.org/abs/2607.13975)|null|
+|**2026-07-15**|**Foliated Quantum Error Correction for Qudits**|Gözde Üstün et.al.|[2607.13784](http://arxiv.org/abs/2607.13784)|null|
+|**2026-07-15**|**Tensor Network decoding under inter-qubit correlated errors**|Yue Yan et.al.|[2607.13570](http://arxiv.org/abs/2607.13570)|null|
+|**2026-07-15**|**StreamingQEC: Streaming Quantum Error Correction in Tightly Integrated Quantum-Classical Systems via Certified Recurrence**|Panayiotis Christou et.al.|[2607.13351](http://arxiv.org/abs/2607.13351)|null|
+|**2026-07-14**|**Clifford-Only Quantum Reed-Solomon Codes and a Tornado Concatenation for Biased-Noise Cat Qubits**|Cheng-You Ho et.al.|[2607.13105](http://arxiv.org/abs/2607.13105)|null|
 |**2026-07-14**|**Logical Entangling with Phantom Codes in Hypergraph Products**|Keming He et.al.|[2607.12948](http://arxiv.org/abs/2607.12948)|null|
 |**2026-07-14**|**Heisenberg-limited metrology in the presence of non-Markovian noise with finite control rates**|Shravan Shravan et.al.|[2607.12913](http://arxiv.org/abs/2607.12913)|null|
 |**2026-07-14**|**Quantum Codes from $r$-Nearly Self-Orthogonal Linear Codes via Jordan Canonical Form over $\mathbb{F}_{q^2}$**|Liangdong Lu et.al.|[2607.12242](http://arxiv.org/abs/2607.12242)|null|

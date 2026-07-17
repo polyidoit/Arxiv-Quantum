@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.07.16
+## Updated on 2026.07.17
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Moment Optimization in the Navascués-Pironio-Acín Hierarchy**|Francesco Flora et.al.|[2607.14755](http://arxiv.org/abs/2607.14755)|null|
 |**2026-07-15**|**Quantum observables for probabilistic classical particles**|Christof Wetterich et.al.|[2607.13937](http://arxiv.org/abs/2607.13937)|null|
 |**2026-07-15**|**Effects of coherent and incoherent measurement imperfections on multipartite quantum nonlocality and quantum key distribution**|Qiong Wang et.al.|[2607.13645](http://arxiv.org/abs/2607.13645)|null|
 |**2026-07-11**|**Nonlocal Manipulation of Backflow with Quantum Correlations**|Ya Xiao et.al.|[2607.10281](http://arxiv.org/abs/2607.10281)|null|
@@ -725,6 +726,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Exact No Signaling in Time without Temporal Classicality**|Minsu Kim et.al.|[2607.14583](http://arxiv.org/abs/2607.14583)|null|
 |**2026-07-06**|**Coherent Control of Channel Dilations Activate Temporal Bell Nonclassicality**|H S Karthik et.al.|[2607.05643](http://arxiv.org/abs/2607.05643)|null|
 |**2026-07-02**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
 |**2026-07-03**|**Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**|Yipeng Xu et.al.|[2606.22127](http://arxiv.org/abs/2606.22127)|null|

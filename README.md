@@ -1071,6 +1071,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Emergence and Recovery of (logical) Kochen-Specker Contextuality via Hamilton Extension**|Jayashree Karmakar et.al.|[2607.14629](http://arxiv.org/abs/2607.14629)|null|
 |**2026-07-07**|**Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions**|Jian Xu et.al.|[2607.06230](http://arxiv.org/abs/2607.06230)|null|
 |**2026-07-15**|**Quantum Memory Advantage from Contextuality**|Shiroman Prakash et.al.|[2607.00507](http://arxiv.org/abs/2607.00507)|null|
 |**2026-06-24**|**Effect of the magnetic monopole charge on Dirac entanglement and Bell non-locality in Hayward spacetime**|Abdessamie Chhieb et.al.|[2606.26372](http://arxiv.org/abs/2606.26372)|null|
@@ -1599,6 +1600,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
 |**2026-07-15**|**How Far Can Root Cause Analysis Go on Real-World Telemetry Data?**|Athira Gopal et.al.|[2607.13548](http://arxiv.org/abs/2607.13548)|null|
 |**2026-07-15**|**Boronization-enabled I-mode on EAST tokamak with an expanded density window and favorable-configuration access**|X. M. Zhong et.al.|[2607.13390](http://arxiv.org/abs/2607.13390)|null|
 |**2026-07-13**|**Microscopic equivalence of the vortex-entry current and the depairing current in a superconducting thin-film strip**|Takayuki Kubo et.al.|[2607.11518](http://arxiv.org/abs/2607.11518)|null|
@@ -1607,7 +1609,7 @@
 |**2026-07-08**|**Terahertz Phase Inversion via Field-Free Spin-Orbit Torque Switching in an Antenna-Integrated Spintronic Heterostructure**|Amir Khan et.al.|[2607.07220](http://arxiv.org/abs/2607.07220)|null|
 |**2026-07-07**|**Microscopic theory of the lower critical field in superconducting thin-film strips**|Takayuki Kubo et.al.|[2607.05890](http://arxiv.org/abs/2607.05890)|null|
 |**2026-07-06**|**DBNN: Neural Spike Classification Using a Deep Binarized Neural Network**|Binyi Ren et.al.|[2607.05590](http://arxiv.org/abs/2607.05590)|null|
-|**2026-07-06**|**The free state for the Potts model on Cayley trees is either extremal or glassy**|Jianping Jiang et.al.|[2607.05138](http://arxiv.org/abs/2607.05138)|null|
+|**2026-07-16**|**The free state for the Potts model on Cayley trees is either extremal or glassy**|Jianping Jiang et.al.|[2607.05138](http://arxiv.org/abs/2607.05138)|null|
 |**2026-07-06**|**Direct Model State Migration for Elastic Training of Large Language Models**|Weijian Liu et.al.|[2607.04749](http://arxiv.org/abs/2607.04749)|null|
 |**2026-07-02**|**Coalesced Matrix-Free Finite Elements in Cell-Wise Storage**|Michał Wichrowski et.al.|[2607.02335](http://arxiv.org/abs/2607.02335)|null|
 |**2026-07-01**|**Hierarchical Variational Kalman Filtering**|Shilei Li et.al.|[2607.00877](http://arxiv.org/abs/2607.00877)|null|
@@ -2203,6 +2205,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**Disorder-enhanced compressibility of Floquet random quantum circuits**|Francesca De Franco et.al.|[2607.14296](http://arxiv.org/abs/2607.14296)|null|
 |**2026-07-15**|**A de Sitter Anti-Scrambling Algebra**|Wentao Cui et.al.|[2607.13665](http://arxiv.org/abs/2607.13665)|null|
 |**2026-07-14**|**Out-of-time-ordered Correlators in de Sitter Revisited**|Alexey Milekhin et.al.|[2607.13137](http://arxiv.org/abs/2607.13137)|null|
 |**2026-07-13**|**Emergent quantum chaos from correlations on a random graph**|Mrinal Sarkar et.al.|[2607.11662](http://arxiv.org/abs/2607.11662)|null|
@@ -3081,6 +3084,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-16**|**LDGM-Based Quantum Codes for Fault-Tolerant Quantum Computation**|Yumin Li et.al.|[2607.15159](http://arxiv.org/abs/2607.15159)|null|
+|**2026-07-16**|**Towards logical entanglement creation in trivalent planar architectures**|Lukas Bödeker et.al.|[2607.15044](http://arxiv.org/abs/2607.15044)|null|
+|**2026-07-16**|**A Three-Point Continuous-Variable Quantum MacWilliams Identity**|Yinzi Xiao et.al.|[2607.14920](http://arxiv.org/abs/2607.14920)|null|
+|**2026-07-16**|**Binary Gauss Stabilizers for Abelian Lattice Gauge Theories**|Matteo Turco et.al.|[2607.14861](http://arxiv.org/abs/2607.14861)|null|
+|**2026-07-16**|**Syndrome-as-Header: A Quantum Label-Switching Architecture via Uncorrectable Error Injection**|IlKwon Sohn et.al.|[2607.14484](http://arxiv.org/abs/2607.14484)|null|
 |**2026-07-15**|**Universal Quantum Computation with Multi-Mode Schrödinger Cat States Stabilized by Non-Local Dissipation Engineering**|Jesper Lind-Olsen et.al.|[2607.13975](http://arxiv.org/abs/2607.13975)|null|
 |**2026-07-15**|**Foliated Quantum Error Correction for Qudits**|Gözde Üstün et.al.|[2607.13784](http://arxiv.org/abs/2607.13784)|null|
 |**2026-07-15**|**Tensor Network decoding under inter-qubit correlated errors**|Yue Yan et.al.|[2607.13570](http://arxiv.org/abs/2607.13570)|null|

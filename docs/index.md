@@ -726,6 +726,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Causality from the spectrum: Emergence of causal order from process-matrix mereology**|Varun Kushwaha et.al.|[2607.15345](http://arxiv.org/abs/2607.15345)|null|
 |**2026-07-16**|**Exact No Signaling in Time without Temporal Classicality**|Minsu Kim et.al.|[2607.14583](http://arxiv.org/abs/2607.14583)|null|
 |**2026-07-06**|**Coherent Control of Channel Dilations Activate Temporal Bell Nonclassicality**|H S Karthik et.al.|[2607.05643](http://arxiv.org/abs/2607.05643)|null|
 |**2026-07-02**|**Leggett-Garg inequality in the massive scalar vacuum: No violation under spacelike-separated measurements**|Yang Xiang et.al.|[2607.00314](http://arxiv.org/abs/2607.00314)|null|
@@ -1372,6 +1373,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Ask Twice, Look Twice: Prompt Echoing Resolves the Question-First Paradox in Vision-Language Models**|Rakshanda Hassan Abhinandan et.al.|[2607.15565](http://arxiv.org/abs/2607.15565)|null|
 |**2026-07-11**|**Nonlocal Manipulation of Backflow with Quantum Correlations**|Ya Xiao et.al.|[2607.10281](http://arxiv.org/abs/2607.10281)|null|
 |**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
 |**2026-07-09**|**Robust One-Sided Device-Independent Quantum Key Distribution via High-Dimensional Steering**|Monika Mothsara et.al.|[2607.08709](http://arxiv.org/abs/2607.08709)|null|
@@ -2186,6 +2188,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Microscopic Side Information Controls Ordered Hayden--Preskill Recovery**|Joao V. R. Alencar et.al.|[2607.15537](http://arxiv.org/abs/2607.15537)|null|
+|**2026-07-16**|**The Complexity of Dynamical Correlators: Operator Shadows and Exponential Learning Separations**|Shao-Hen Chiew et.al.|[2607.15493](http://arxiv.org/abs/2607.15493)|null|
+|**2026-07-16**|**Fragmented ETH: Prethermalization, Timescales, and Ensemble Inequivalence**|C. L. Sriram et.al.|[2607.15350](http://arxiv.org/abs/2607.15350)|null|
 |**2026-07-15**|**Disorder-enhanced compressibility of Floquet random quantum circuits**|Francesca De Franco et.al.|[2607.14296](http://arxiv.org/abs/2607.14296)|null|
 |**2026-07-15**|**A de Sitter Anti-Scrambling Algebra**|Wentao Cui et.al.|[2607.13665](http://arxiv.org/abs/2607.13665)|null|
 |**2026-07-14**|**Out-of-time-ordered Correlators in de Sitter Revisited**|Alexey Milekhin et.al.|[2607.13137](http://arxiv.org/abs/2607.13137)|null|
@@ -3063,6 +3068,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-17**|**Fast logical operations in quantum LDPC codes using simple resource states**|Mark Webster et.al.|[2607.16166](http://arxiv.org/abs/2607.16166)|null|
+|**2026-07-17**|**Quantum-classical crossover in fault-tolerant quantum dynamics simulation**|Jinzhao Sun et.al.|[2607.16116](http://arxiv.org/abs/2607.16116)|null|
+|**2026-07-17**|**Complex generalised weighing matrices in centraliser algebras of monomial representations**|Ronan Egan et.al.|[2607.16069](http://arxiv.org/abs/2607.16069)|null|
+|**2026-07-17**|**Reconstruction of the noise correlation spectral density from the cavity emission in a two-qubit system**|Nadine Lenke et.al.|[2607.15909](http://arxiv.org/abs/2607.15909)|null|
+|**2026-07-17**|**Agnostic learning of qudit stabilizer states**|Wentao Qi et.al.|[2607.15559](http://arxiv.org/abs/2607.15559)|null|
+|**2026-07-16**|**Performance Model for Hybrid Quantum-Classical Workflows**|Pooja Rao et.al.|[2607.15426](http://arxiv.org/abs/2607.15426)|null|
+|**2026-07-16**|**Quantum error-correcting codes from aperiodic monotiles: the Hat and the Spectre**|Josep Batle et.al.|[2607.15326](http://arxiv.org/abs/2607.15326)|null|
 |**2026-07-16**|**LDGM-Based Quantum Codes for Fault-Tolerant Quantum Computation**|Yumin Li et.al.|[2607.15159](http://arxiv.org/abs/2607.15159)|null|
 |**2026-07-16**|**Towards logical entanglement creation in trivalent planar architectures**|Lukas Bödeker et.al.|[2607.15044](http://arxiv.org/abs/2607.15044)|null|
 |**2026-07-16**|**A Three-Point Continuous-Variable Quantum MacWilliams Identity**|Yinzi Xiao et.al.|[2607.14920](http://arxiv.org/abs/2607.14920)|null|

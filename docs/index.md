@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**New bound on $S_{1}\times S_{2}$ -setting Bell locality of a nonseparable Werner state**|Elena R. Loubenets et.al.|[2607.18050](http://arxiv.org/abs/2607.18050)|null|
+|**2026-07-20**|**Spatial nonlocality imaging via metasurface**|Jian Li et.al.|[2607.17618](http://arxiv.org/abs/2607.17618)|null|
 |**2026-07-16**|**Moment Optimization in the Navascués-Pironio-Acín Hierarchy**|Francesco Flora et.al.|[2607.14755](http://arxiv.org/abs/2607.14755)|null|
 |**2026-07-15**|**Quantum observables for probabilistic classical particles**|Christof Wetterich et.al.|[2607.13937](http://arxiv.org/abs/2607.13937)|null|
 |**2026-07-15**|**Effects of coherent and incoherent measurement imperfections on multipartite quantum nonlocality and quantum key distribution**|Qiong Wang et.al.|[2607.13645](http://arxiv.org/abs/2607.13645)|null|
@@ -726,6 +728,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Dynamical Timelike Entanglement Entropy in an Evaporating Schwarzschild--AdS Black Hole**|Digen Das et.al.|[2607.17874](http://arxiv.org/abs/2607.17874)|null|
 |**2026-07-16**|**Causality from the spectrum: Emergence of causal order from process-matrix mereology**|Varun Kushwaha et.al.|[2607.15345](http://arxiv.org/abs/2607.15345)|null|
 |**2026-07-16**|**Exact No Signaling in Time without Temporal Classicality**|Minsu Kim et.al.|[2607.14583](http://arxiv.org/abs/2607.14583)|null|
 |**2026-07-06**|**Coherent Control of Channel Dilations Activate Temporal Bell Nonclassicality**|H S Karthik et.al.|[2607.05643](http://arxiv.org/abs/2607.05643)|null|
@@ -1585,6 +1588,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-18**|**Entanglement Quantification via Symmetric Extensions: A Resource Theory Hierarchy**|Enmin Shao et.al.|[2607.16960](http://arxiv.org/abs/2607.16960)|null|
 |**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
 |**2026-07-15**|**How Far Can Root Cause Analysis Go on Real-World Telemetry Data?**|Athira Gopal et.al.|[2607.13548](http://arxiv.org/abs/2607.13548)|null|
 |**2026-07-15**|**Boronization-enabled I-mode on EAST tokamak with an expanded density window and favorable-configuration access**|X. M. Zhong et.al.|[2607.13390](http://arxiv.org/abs/2607.13390)|null|
@@ -3068,6 +3072,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-20**|**QuantiSpect: A Structure-Aware Lightweight 3D CNN Pre-Decoder for Scalable Surface Code Quantum Error Correction**|Pan Gao et.al.|[2607.18204](http://arxiv.org/abs/2607.18204)|null|
+|**2026-07-18**|**A conditional no-go for resource-free magic-axis measurement on a static surface code**|Jiachen Shen et.al.|[2607.16968](http://arxiv.org/abs/2607.16968)|null|
+|**2026-07-17**|**Holographic quantum codes with trapped ions**|Alex Steiner et.al.|[2607.16503](http://arxiv.org/abs/2607.16503)|null|
 |**2026-07-17**|**Fast logical operations in quantum LDPC codes using simple resource states**|Mark Webster et.al.|[2607.16166](http://arxiv.org/abs/2607.16166)|null|
 |**2026-07-17**|**Quantum-classical crossover in fault-tolerant quantum dynamics simulation**|Jinzhao Sun et.al.|[2607.16116](http://arxiv.org/abs/2607.16116)|null|
 |**2026-07-17**|**Complex generalised weighing matrices in centraliser algebras of monomial representations**|Ronan Egan et.al.|[2607.16069](http://arxiv.org/abs/2607.16069)|null|
@@ -3075,7 +3082,7 @@ layout: default
 |**2026-07-17**|**Agnostic learning of qudit stabilizer states**|Wentao Qi et.al.|[2607.15559](http://arxiv.org/abs/2607.15559)|null|
 |**2026-07-16**|**Performance Model for Hybrid Quantum-Classical Workflows**|Pooja Rao et.al.|[2607.15426](http://arxiv.org/abs/2607.15426)|null|
 |**2026-07-16**|**Quantum error-correcting codes from aperiodic monotiles: the Hat and the Spectre**|Josep Batle et.al.|[2607.15326](http://arxiv.org/abs/2607.15326)|null|
-|**2026-07-16**|**LDGM-Based Quantum Codes for Fault-Tolerant Quantum Computation**|Yumin Li et.al.|[2607.15159](http://arxiv.org/abs/2607.15159)|null|
+|**2026-07-20**|**LDGM-Based Quantum Codes for Fault-Tolerant Quantum Computation**|Yumin Li et.al.|[2607.15159](http://arxiv.org/abs/2607.15159)|null|
 |**2026-07-16**|**Towards logical entanglement creation in trivalent planar architectures**|Lukas Bödeker et.al.|[2607.15044](http://arxiv.org/abs/2607.15044)|null|
 |**2026-07-16**|**A Three-Point Continuous-Variable Quantum MacWilliams Identity**|Yinzi Xiao et.al.|[2607.14920](http://arxiv.org/abs/2607.14920)|null|
 |**2026-07-16**|**Binary Gauss Stabilizers for Abelian Lattice Gauge Theories**|Matteo Turco et.al.|[2607.14861](http://arxiv.org/abs/2607.14861)|null|

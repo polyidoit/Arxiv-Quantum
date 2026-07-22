@@ -1062,6 +1062,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability**|Taewoon Kim et.al.|[2607.18368](http://arxiv.org/abs/2607.18368)|null|
 |**2026-07-16**|**Emergence and Recovery of (logical) Kochen-Specker Contextuality via Hamilton Extension**|Jayashree Karmakar et.al.|[2607.14629](http://arxiv.org/abs/2607.14629)|null|
 |**2026-07-07**|**Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions**|Jian Xu et.al.|[2607.06230](http://arxiv.org/abs/2607.06230)|null|
 |**2026-07-15**|**Quantum Memory Advantage from Contextuality**|Shiroman Prakash et.al.|[2607.00507](http://arxiv.org/abs/2607.00507)|null|
@@ -1588,6 +1589,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**How to improve the discrimination power of classically simulable measurements?**|Yiran Wang et.al.|[2607.19070](http://arxiv.org/abs/2607.19070)|null|
 |**2026-07-18**|**Entanglement Quantification via Symmetric Extensions: A Resource Theory Hierarchy**|Enmin Shao et.al.|[2607.16960](http://arxiv.org/abs/2607.16960)|null|
 |**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
 |**2026-07-15**|**How Far Can Root Cause Analysis Go on Real-World Telemetry Data?**|Athira Gopal et.al.|[2607.13548](http://arxiv.org/abs/2607.13548)|null|

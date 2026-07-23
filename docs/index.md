@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Dynamical redistribution of quantum resources in tree-level Bhabha scattering**|Zan Cao et.al.|[2607.20264](http://arxiv.org/abs/2607.20264)|null|
+|**2026-07-22**|**Robust logical Bell nonlocality based on quantum error correction codes**|Qi Zhang et.al.|[2607.19728](http://arxiv.org/abs/2607.19728)|null|
 |**2026-07-20**|**New bound on $S_{1}\times S_{2}$ -setting Bell locality of a nonseparable Werner state**|Elena R. Loubenets et.al.|[2607.18050](http://arxiv.org/abs/2607.18050)|null|
 |**2026-07-20**|**Spatial nonlocality imaging via metasurface**|Jian Li et.al.|[2607.17618](http://arxiv.org/abs/2607.17618)|null|
 |**2026-07-16**|**Moment Optimization in the Navascués-Pironio-Acín Hierarchy**|Francesco Flora et.al.|[2607.14755](http://arxiv.org/abs/2607.14755)|null|

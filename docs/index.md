@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3074,6 +3074,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-22**|**Stable valleys in the glassy landscape of a low-density parity-check (LDPC) code**|Grace M. Sommers et.al.|[2607.20421](http://arxiv.org/abs/2607.20421)|null|
+|**2026-07-22**|**Physics-Informed Graph Neural Networks for Surface Code Decoding via Discrete Exterior Calculus**|P. E. Trevisanutto et.al.|[2607.20060](http://arxiv.org/abs/2607.20060)|null|
+|**2026-07-22**|**Latency-Constrained Encoded Quantum Teleportation with Punctured Codes**|Mahmoud Saad Abouamer et.al.|[2607.19770](http://arxiv.org/abs/2607.19770)|null|
+|**2026-07-22**|**Robust logical Bell nonlocality based on quantum error correction codes**|Qi Zhang et.al.|[2607.19728](http://arxiv.org/abs/2607.19728)|null|
+|**2026-07-21**|**Quantum codes from classical annealing**|Michael A. Perlin et.al.|[2607.19574](http://arxiv.org/abs/2607.19574)|null|
+|**2026-07-21**|**Machine-learned syndrome post-selection for reliable quantum error correction**|Tobias Haug et.al.|[2607.19563](http://arxiv.org/abs/2607.19563)|null|
+|**2026-07-21**|**Hardware-in-the-Loop Syndrome-to-Decoder Validation for Repetition, Surface, CSS-LDPC, and Digitized-GKP Codes**|Dennis Delali Kwesi Wayo et.al.|[2607.19447](http://arxiv.org/abs/2607.19447)|null|
+|**2026-07-21**|**Decoder Comparability Across Quantum Software Stacks: Repeated-Round Surface and Digitized-GKP Syndrome Replay**|Dennis Delali Kwesi Wayo et.al.|[2607.19446](http://arxiv.org/abs/2607.19446)|null|
+|**2026-07-21**|**Vector-Bench: Can Models Surgically Edit SVG Code?**|Yug Aditi Gupta et.al.|[2607.19056](http://arxiv.org/abs/2607.19056)|null|
+|**2026-07-20**|**Motional Kerr-Cat States of an Atom in an Optical Tweezer**|Steven K. Pampel et.al.|[2607.18579](http://arxiv.org/abs/2607.18579)|null|
 |**2026-07-20**|**QuantiSpect: A Structure-Aware Lightweight 3D CNN Pre-Decoder for Scalable Surface Code Quantum Error Correction**|Pan Gao et.al.|[2607.18204](http://arxiv.org/abs/2607.18204)|null|
 |**2026-07-18**|**A conditional no-go for resource-free magic-axis measurement on a static surface code**|Jiachen Shen et.al.|[2607.16968](http://arxiv.org/abs/2607.16968)|null|
 |**2026-07-17**|**Holographic quantum codes with trapped ions**|Alex Steiner et.al.|[2607.16503](http://arxiv.org/abs/2607.16503)|null|

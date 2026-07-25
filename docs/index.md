@@ -1593,6 +1593,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Matrix-free phase-field modeling of fracture in micromechanical testing simulations of inelastic materials**|Fabio Di Gioacchino et.al.|[2607.21150](http://arxiv.org/abs/2607.21150)|null|
+|**2026-07-22**|**Identifying local unitary equivalence based on reduction of quantum states**|Yanjun Chu et.al.|[2607.20266](http://arxiv.org/abs/2607.20266)|null|
+|**2026-07-22**|**Dynamical redistribution of quantum resources in tree-level Bhabha scattering**|Zan Cao et.al.|[2607.20264](http://arxiv.org/abs/2607.20264)|null|
+|**2026-07-22**|**Reading and Steering Representations of Materials-Science Mechanisms in an Open-Weight Language Model**|Markus J. Buehler et.al.|[2607.20058](http://arxiv.org/abs/2607.20058)|null|
+|**2026-07-21**|**Marine Engine Fault Dataset: Open-Access Data under Controlled Reference and Fault Scenario Conditions**|Ahmad BahooToroody et.al.|[2607.19444](http://arxiv.org/abs/2607.19444)|null|
 |**2026-07-21**|**How to improve the discrimination power of classically simulable measurements?**|Yiran Wang et.al.|[2607.19070](http://arxiv.org/abs/2607.19070)|null|
 |**2026-07-18**|**Entanglement Quantification via Symmetric Extensions: A Resource Theory Hierarchy**|Enmin Shao et.al.|[2607.16960](http://arxiv.org/abs/2607.16960)|null|
 |**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
@@ -3078,6 +3083,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-23**|**Strategic Plan for Neutral Atom Quantum Computation**|Adrian J. Menssen et.al.|[2607.21554](http://arxiv.org/abs/2607.21554)|null|
+|**2026-07-23**|**Duality constrains optimal thresholds in quantum error correction**|Lucas H. English et.al.|[2607.21160](http://arxiv.org/abs/2607.21160)|null|
+|**2026-07-23**|**New Criteria and Constructions for Self-Orthogonal Codes**|Peng Wang et.al.|[2607.20805](http://arxiv.org/abs/2607.20805)|null|
 |**2026-07-22**|**Stable valleys in the glassy landscape of a low-density parity-check (LDPC) code**|Grace M. Sommers et.al.|[2607.20421](http://arxiv.org/abs/2607.20421)|null|
 |**2026-07-22**|**Physics-Informed Graph Neural Networks for Surface Code Decoding via Discrete Exterior Calculus**|P. E. Trevisanutto et.al.|[2607.20060](http://arxiv.org/abs/2607.20060)|null|
 |**2026-07-22**|**Latency-Constrained Encoded Quantum Teleportation with Punctured Codes**|Mahmoud Saad Abouamer et.al.|[2607.19770](http://arxiv.org/abs/2607.19770)|null|

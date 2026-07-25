@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.07.24
+## Updated on 2026.07.25
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Device-Independent Self-Testing of the Three-Qubit CCZ Hypergraph State**|Yunguang Han et.al.|[2607.21288](http://arxiv.org/abs/2607.21288)|null|
 |**2026-07-22**|**Dynamical redistribution of quantum resources in tree-level Bhabha scattering**|Zan Cao et.al.|[2607.20264](http://arxiv.org/abs/2607.20264)|null|
 |**2026-07-22**|**Robust logical Bell nonlocality based on quantum error correction codes**|Qi Zhang et.al.|[2607.19728](http://arxiv.org/abs/2607.19728)|null|
 |**2026-07-20**|**New bound on $S_{1}\times S_{2}$ -setting Bell locality of a nonseparable Werner state**|Elena R. Loubenets et.al.|[2607.18050](http://arxiv.org/abs/2607.18050)|null|
@@ -730,6 +731,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Quantum Circuit Fragments and Link Products in Continuous Variables**|Amalina Lai et.al.|[2607.21215](http://arxiv.org/abs/2607.21215)|null|
 |**2026-07-20**|**Dynamical Timelike Entanglement Entropy in an Evaporating Schwarzschild--AdS Black Hole**|Digen Das et.al.|[2607.17874](http://arxiv.org/abs/2607.17874)|null|
 |**2026-07-16**|**Causality from the spectrum: Emergence of causal order from process-matrix mereology**|Varun Kushwaha et.al.|[2607.15345](http://arxiv.org/abs/2607.15345)|null|
 |**2026-07-16**|**Exact No Signaling in Time without Temporal Classicality**|Minsu Kim et.al.|[2607.14583](http://arxiv.org/abs/2607.14583)|null|

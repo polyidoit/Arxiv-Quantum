@@ -3104,6 +3104,10 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-24**|**Algebraic structure of Tiger codes**|Clément Poirson et.al.|[2607.22460](http://arxiv.org/abs/2607.22460)|null|
+|**2026-07-24**|**A route to damage tolerance exceeding $10\%$ in shuttling-equipped quantum processors**|Quinten Eggerickx et.al.|[2607.22429](http://arxiv.org/abs/2607.22429)|null|
+|**2026-07-24**|**Unconventional $\mathbb{Z}_2\times\mathbb{Z}_2\times\mathbb{Z}_2$ topological order in the kagome XY toric code**|C. Kölbl et.al.|[2607.22296](http://arxiv.org/abs/2607.22296)|null|
+|**2026-07-23**|**Mixed-state topological order and error-correction thresholds in non-Abelian codes: rigorous results**|Sun Woo P. Kim et.al.|[2607.21706](http://arxiv.org/abs/2607.21706)|null|
 |**2026-07-23**|**Strategic Plan for Neutral Atom Quantum Computation**|Adrian J. Menssen et.al.|[2607.21554](http://arxiv.org/abs/2607.21554)|null|
 |**2026-07-23**|**Duality constrains optimal thresholds in quantum error correction**|Lucas H. English et.al.|[2607.21160](http://arxiv.org/abs/2607.21160)|null|
 |**2026-07-23**|**New Criteria and Constructions for Self-Orthogonal Codes**|Peng Wang et.al.|[2607.20805](http://arxiv.org/abs/2607.20805)|null|

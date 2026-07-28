@@ -7,11 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Quantum simulacra**|L. F. Alves da Silva et.al.|[2607.24739](http://arxiv.org/abs/2607.24739)|null|
+|**2026-07-27**|**Experimental Protocol Fingerprinting in Quantum Networks via Physical Layer Side Channel Analysis**|Lance Young et.al.|[2607.24624](http://arxiv.org/abs/2607.24624)|null|
 |**2026-07-26**|**Generalized Mermin Inequalities for Benchmarking Large-Scale GHZ States**|Jianbin Cai et.al.|[2607.23574](http://arxiv.org/abs/2607.23574)|null|
 |**2026-07-23**|**Device-Independent Self-Testing of the Three-Qubit CCZ Hypergraph State**|Yunguang Han et.al.|[2607.21288](http://arxiv.org/abs/2607.21288)|null|
 |**2026-07-22**|**Dynamical redistribution of quantum resources in tree-level Bhabha scattering**|Zan Cao et.al.|[2607.20264](http://arxiv.org/abs/2607.20264)|null|
 |**2026-07-22**|**Robust logical Bell nonlocality based on quantum error correction codes**|Qi Zhang et.al.|[2607.19728](http://arxiv.org/abs/2607.19728)|null|
-|**2026-07-20**|**New bound on $S_{1}\times S_{2}$ -setting Bell locality of a nonseparable Werner state**|Elena R. Loubenets et.al.|[2607.18050](http://arxiv.org/abs/2607.18050)|null|
+|**2026-07-27**|**New bound on $S_{1}\times S_{2}$ -setting Bell locality of a nonseparable Werner state**|Elena R. Loubenets et.al.|[2607.18050](http://arxiv.org/abs/2607.18050)|null|
 |**2026-07-20**|**Spatial nonlocality imaging via metasurface**|Jian Li et.al.|[2607.17618](http://arxiv.org/abs/2607.17618)|null|
 |**2026-07-16**|**Moment Optimization in the Navascués-Pironio-Acín Hierarchy**|Francesco Flora et.al.|[2607.14755](http://arxiv.org/abs/2607.14755)|null|
 |**2026-07-15**|**Quantum observables for probabilistic classical particles**|Christof Wetterich et.al.|[2607.13937](http://arxiv.org/abs/2607.13937)|null|
@@ -1067,6 +1069,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Quantum simulacra**|L. F. Alves da Silva et.al.|[2607.24739](http://arxiv.org/abs/2607.24739)|null|
 |**2026-07-24**|**Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability**|Taewoon Kim et.al.|[2607.18368](http://arxiv.org/abs/2607.18368)|null|
 |**2026-07-16**|**Emergence and Recovery of (logical) Kochen-Specker Contextuality via Hamilton Extension**|Jayashree Karmakar et.al.|[2607.14629](http://arxiv.org/abs/2607.14629)|null|
 |**2026-07-07**|**Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions**|Jian Xu et.al.|[2607.06230](http://arxiv.org/abs/2607.06230)|null|
@@ -1594,6 +1597,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**CP-preserving channels**|Indu Bala et.al.|[2607.24682](http://arxiv.org/abs/2607.24682)|null|
 |**2026-07-26**|**Formally Verified Synthesizable Floating-Point Data Types in ARCH HDL**|Shuqing Zhao et.al.|[2607.23715](http://arxiv.org/abs/2607.23715)|null|
 |**2026-07-25**|**Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research**|Ad-Deen Mahbub et.al.|[2607.23220](http://arxiv.org/abs/2607.23220)|null|
 |**2026-07-25**|**Bayesian Complete-Pooling in Cross-Subject Classification for Motor Imagery Electroencephalogram**|Ethan Davis et.al.|[2607.22980](http://arxiv.org/abs/2607.22980)|null|
@@ -2207,6 +2211,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Krylov complexity and spectral density of BMN matrix model**|Dibakar Roychowdhury et.al.|[2607.24632](http://arxiv.org/abs/2607.24632)|null|
 |**2026-07-17**|**Microscopic Side Information Controls Ordered Hayden--Preskill Recovery**|Joao V. R. Alencar et.al.|[2607.15537](http://arxiv.org/abs/2607.15537)|null|
 |**2026-07-16**|**The Complexity of Dynamical Correlators: Operator Shadows and Exponential Learning Separations**|Shao-Hen Chiew et.al.|[2607.15493](http://arxiv.org/abs/2607.15493)|null|
 |**2026-07-16**|**Fragmented ETH: Prethermalization, Timescales, and Ensemble Inequivalence**|C. L. Sriram et.al.|[2607.15350](http://arxiv.org/abs/2607.15350)|null|
@@ -3087,6 +3092,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-27**|**Recoverable Quantum Computation: An Information-Centric Paradigm for Quantum Computing with Errors**|Shengwang Du et.al.|[2607.23996](http://arxiv.org/abs/2607.23996)|null|
+|**2026-07-26**|**Fixed points in de Finetti hierarchies**|Gereon Kossmann et.al.|[2607.23689](http://arxiv.org/abs/2607.23689)|null|
+|**2026-07-25**|**Theory of approximate quantum error correction and the error-set model**|Dor Elimelech et.al.|[2607.22995](http://arxiv.org/abs/2607.22995)|null|
+|**2026-07-24**|**Bias-preserving cat-cat CNOT gate via vacuum-conditional beam-splitter**| Yufeng et.al.|[2607.22852](http://arxiv.org/abs/2607.22852)|null|
 |**2026-07-24**|**Algebraic structure of Tiger codes**|Clément Poirson et.al.|[2607.22460](http://arxiv.org/abs/2607.22460)|null|
 |**2026-07-24**|**A route to damage tolerance exceeding $10\%$ in shuttling-equipped quantum processors**|Quinten Eggerickx et.al.|[2607.22429](http://arxiv.org/abs/2607.22429)|null|
 |**2026-07-24**|**Unconventional $\mathbb{Z}_2\times\mathbb{Z}_2\times\mathbb{Z}_2$ topological order in the kagome XY toric code**|C. Kölbl et.al.|[2607.22296](http://arxiv.org/abs/2607.22296)|null|

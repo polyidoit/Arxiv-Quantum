@@ -1,4 +1,4 @@
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-26**|**Generalized Mermin Inequalities for Benchmarking Large-Scale GHZ States**|Jianbin Cai et.al.|[2607.23574](http://arxiv.org/abs/2607.23574)|null|
 |**2026-07-23**|**Device-Independent Self-Testing of the Three-Qubit CCZ Hypergraph State**|Yunguang Han et.al.|[2607.21288](http://arxiv.org/abs/2607.21288)|null|
 |**2026-07-22**|**Dynamical redistribution of quantum resources in tree-level Bhabha scattering**|Zan Cao et.al.|[2607.20264](http://arxiv.org/abs/2607.20264)|null|
 |**2026-07-22**|**Robust logical Bell nonlocality based on quantum error correction codes**|Qi Zhang et.al.|[2607.19728](http://arxiv.org/abs/2607.19728)|null|
@@ -736,7 +737,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -1073,19 +1074,19 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-20**|**Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability**|Taewoon Kim et.al.|[2607.18368](http://arxiv.org/abs/2607.18368)|null|
+|**2026-07-24**|**Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability**|Taewoon Kim et.al.|[2607.18368](http://arxiv.org/abs/2607.18368)|null|
 |**2026-07-16**|**Emergence and Recovery of (logical) Kochen-Specker Contextuality via Hamilton Extension**|Jayashree Karmakar et.al.|[2607.14629](http://arxiv.org/abs/2607.14629)|null|
 |**2026-07-07**|**Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions**|Jian Xu et.al.|[2607.06230](http://arxiv.org/abs/2607.06230)|null|
 |**2026-07-15**|**Quantum Memory Advantage from Contextuality**|Shiroman Prakash et.al.|[2607.00507](http://arxiv.org/abs/2607.00507)|null|
 |**2026-06-24**|**Effect of the magnetic monopole charge on Dirac entanglement and Bell non-locality in Hayward spacetime**|Abdessamie Chhieb et.al.|[2606.26372](http://arxiv.org/abs/2606.26372)|null|
 |**2026-06-24**|**Communicability-Inspired Positional Encoding (CIPE)**|Yipeng Zhang et.al.|[2606.25293](http://arxiv.org/abs/2606.25293)|null|
-|**2026-07-05**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
+|**2026-07-26**|**Genuine Global Kochen-Specker Contextuality as Classical Coordination Cost**|Ming Yang et.al.|[2606.23577](http://arxiv.org/abs/2606.23577)|null|
 |**2026-06-20**|**Schreier-Type Sets and Linear Recurrences: Connections and Developments**|Hung Viet Chu et.al.|[2606.21865](http://arxiv.org/abs/2606.21865)|null|
 |**2026-06-17**|**From Localized Packets to Plane Waves: A Time-Domain Approach to Transport in Mesoscopic Systems**|Andrzej Biborski et.al.|[2606.19012](http://arxiv.org/abs/2606.19012)|null|
 |**2026-06-17**|**Observation of anyonic thermodynamics and generalized Pauli principle**|Fansu Wei et.al.|[2606.19009](http://arxiv.org/abs/2606.19009)|null|
@@ -1390,7 +1391,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1604,12 +1605,15 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-26**|**Formally Verified Synthesizable Floating-Point Data Types in ARCH HDL**|Shuqing Zhao et.al.|[2607.23715](http://arxiv.org/abs/2607.23715)|null|
+|**2026-07-25**|**Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research**|Ad-Deen Mahbub et.al.|[2607.23220](http://arxiv.org/abs/2607.23220)|null|
+|**2026-07-25**|**Bayesian Complete-Pooling in Cross-Subject Classification for Motor Imagery Electroencephalogram**|Ethan Davis et.al.|[2607.22980](http://arxiv.org/abs/2607.22980)|null|
 |**2026-07-23**|**Matrix-free phase-field modeling of fracture in micromechanical testing simulations of inelastic materials**|Fabio Di Gioacchino et.al.|[2607.21150](http://arxiv.org/abs/2607.21150)|null|
 |**2026-07-22**|**Identifying local unitary equivalence based on reduction of quantum states**|Yanjun Chu et.al.|[2607.20266](http://arxiv.org/abs/2607.20266)|null|
 |**2026-07-22**|**Dynamical redistribution of quantum resources in tree-level Bhabha scattering**|Zan Cao et.al.|[2607.20264](http://arxiv.org/abs/2607.20264)|null|
@@ -2216,7 +2220,7 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -3096,7 +3100,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -5449,5 +5453,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
 

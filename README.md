@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Effect-valued measurement models and contextuality**|Samson Abramsky et.al.|[2607.25900](http://arxiv.org/abs/2607.25900)|null|
 |**2026-07-27**|**Quantum simulacra**|L. F. Alves da Silva et.al.|[2607.24739](http://arxiv.org/abs/2607.24739)|null|
 |**2026-07-27**|**Experimental Protocol Fingerprinting in Quantum Networks via Physical Layer Side Channel Analysis**|Lance Young et.al.|[2607.24624](http://arxiv.org/abs/2607.24624)|null|
 |**2026-07-26**|**Generalized Mermin Inequalities for Benchmarking Large-Scale GHZ States**|Jianbin Cai et.al.|[2607.23574](http://arxiv.org/abs/2607.23574)|null|
@@ -1083,7 +1084,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-07-27**|**Quantum simulacra**|L. F. Alves da Silva et.al.|[2607.24739](http://arxiv.org/abs/2607.24739)|null|
-|**2026-07-24**|**Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability**|Taewoon Kim et.al.|[2607.18368](http://arxiv.org/abs/2607.18368)|null|
+|**2026-07-28**|**Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability**|Taewoon Kim et.al.|[2607.18368](http://arxiv.org/abs/2607.18368)|null|
 |**2026-07-16**|**Emergence and Recovery of (logical) Kochen-Specker Contextuality via Hamilton Extension**|Jayashree Karmakar et.al.|[2607.14629](http://arxiv.org/abs/2607.14629)|null|
 |**2026-07-07**|**Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions**|Jian Xu et.al.|[2607.06230](http://arxiv.org/abs/2607.06230)|null|
 |**2026-07-15**|**Quantum Memory Advantage from Contextuality**|Shiroman Prakash et.al.|[2607.00507](http://arxiv.org/abs/2607.00507)|null|
@@ -2230,6 +2231,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Asymmetric information scrambling and eigenstate thermalization in inhomogeneous XXZ spin chains**|Shivam Mishra et.al.|[2607.25496](http://arxiv.org/abs/2607.25496)|null|
+|**2026-07-27**|**Effective Field Theory of Operator Scrambling from Strong-to-Weak Symmetry Breaking**|Bai-Lin Cheng et.al.|[2607.24925](http://arxiv.org/abs/2607.24925)|null|
 |**2026-07-27**|**Krylov complexity and spectral density of BMN matrix model**|Dibakar Roychowdhury et.al.|[2607.24632](http://arxiv.org/abs/2607.24632)|null|
 |**2026-07-17**|**Microscopic Side Information Controls Ordered Hayden--Preskill Recovery**|Joao V. R. Alencar et.al.|[2607.15537](http://arxiv.org/abs/2607.15537)|null|
 |**2026-07-16**|**The Complexity of Dynamical Correlators: Operator Shadows and Exponential Learning Separations**|Shao-Hen Chiew et.al.|[2607.15493](http://arxiv.org/abs/2607.15493)|null|
@@ -3113,6 +3116,10 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-28**|**Sampling hard circuits with verifiably high fidelity**|Simon Martiel et.al.|[2607.25941](http://arxiv.org/abs/2607.25941)|null|
+|**2026-07-28**|**OmniQEC: discovering practical quantum error-correcting codes by an AI scientist**|Ge Yan et.al.|[2607.25865](http://arxiv.org/abs/2607.25865)|null|
+|**2026-07-27**|**Universal Optimization and Tighter Fidelity Bounds for Approximate Quantum Error Correction**|Jing Wu et.al.|[2607.24968](http://arxiv.org/abs/2607.24968)|null|
+|**2026-07-27**|**Numerical Modeling of Quasiparticle-Induced Dissipation in Fluxonium Qubits**|Kate Azar et.al.|[2607.24946](http://arxiv.org/abs/2607.24946)|null|
 |**2026-07-27**|**Recoverable Quantum Computation: An Information-Centric Paradigm for Quantum Computing with Errors**|Shengwang Du et.al.|[2607.23996](http://arxiv.org/abs/2607.23996)|null|
 |**2026-07-26**|**Fixed points in de Finetti hierarchies**|Gereon Kossmann et.al.|[2607.23689](http://arxiv.org/abs/2607.23689)|null|
 |**2026-07-25**|**Theory of approximate quantum error correction and the error-set model**|Dor Elimelech et.al.|[2607.22995](http://arxiv.org/abs/2607.22995)|null|

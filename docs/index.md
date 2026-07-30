@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Enhancing the security of coherent one-way quantum key distribution using CHSH correlations**|Mahdi Shaban et.al.|[2607.26856](http://arxiv.org/abs/2607.26856)|null|
+|**2026-07-28**|**Qubit-qubit-qutrit quantum correlations in $H \to f \bar f V$**|Michał Banacki et.al.|[2607.26122](http://arxiv.org/abs/2607.26122)|null|
 |**2026-07-28**|**Effect-valued measurement models and contextuality**|Samson Abramsky et.al.|[2607.25900](http://arxiv.org/abs/2607.25900)|null|
 |**2026-07-27**|**Quantum simulacra**|L. F. Alves da Silva et.al.|[2607.24739](http://arxiv.org/abs/2607.24739)|null|
 |**2026-07-27**|**Experimental Protocol Fingerprinting in Quantum Networks via Physical Layer Side Channel Analysis**|Lance Young et.al.|[2607.24624](http://arxiv.org/abs/2607.24624)|null|
@@ -735,6 +737,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Relational Quantum Causal Processes: Exact Models, Continuum Limits, and the Boundary of Emergent Gravity**|Yipeng Xu et.al.|[2607.26672](http://arxiv.org/abs/2607.26672)|null|
+|**2026-07-28**|**Optimal Interaction Free Localization with Multipath Interferometers**|Anubhav Chaturvedi et.al.|[2607.26293](http://arxiv.org/abs/2607.26293)|null|
 |**2026-07-23**|**Quantum Circuit Fragments and Link Products in Continuous Variables**|Amalina Lai et.al.|[2607.21215](http://arxiv.org/abs/2607.21215)|null|
 |**2026-07-20**|**Dynamical Timelike Entanglement Entropy in an Evaporating Schwarzschild--AdS Black Hole**|Digen Das et.al.|[2607.17874](http://arxiv.org/abs/2607.17874)|null|
 |**2026-07-16**|**Causality from the spectrum: Emergence of causal order from process-matrix mereology**|Varun Kushwaha et.al.|[2607.15345](http://arxiv.org/abs/2607.15345)|null|
@@ -1598,6 +1602,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Supermartingales in Quantum Resources Theories: Where do quantum resources go when you're watching?**|Katarzyna Macieszczak et.al.|[2607.26225](http://arxiv.org/abs/2607.26225)|null|
 |**2026-07-27**|**CP-preserving channels**|Indu Bala et.al.|[2607.24682](http://arxiv.org/abs/2607.24682)|null|
 |**2026-07-26**|**Formally Verified Synthesizable Floating-Point Data Types in ARCH HDL**|Shuqing Zhao et.al.|[2607.23715](http://arxiv.org/abs/2607.23715)|null|
 |**2026-07-25**|**Embedded Firmware Development for Flight Control, Telemetry, and Video Streaming for DIY UAV Research**|Ad-Deen Mahbub et.al.|[2607.23220](http://arxiv.org/abs/2607.23220)|null|
@@ -2212,6 +2217,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Unconventional Thermalization of a Three-Wave-Mixing Model**|Evangelos Varvelis et.al.|[2607.27028](http://arxiv.org/abs/2607.27028)|null|
+|**2026-07-29**|**Verifiable Random Sampling**|Yeoh Wei Zhu et.al.|[2607.26734](http://arxiv.org/abs/2607.26734)|null|
+|**2026-07-29**|**A Bound on the Dynamical Love Number**|Alex Kehagias et.al.|[2607.26686](http://arxiv.org/abs/2607.26686)|null|
 |**2026-07-28**|**Asymmetric information scrambling and eigenstate thermalization in inhomogeneous XXZ spin chains**|Shivam Mishra et.al.|[2607.25496](http://arxiv.org/abs/2607.25496)|null|
 |**2026-07-27**|**Effective Field Theory of Operator Scrambling from Strong-to-Weak Symmetry Breaking**|Bai-Lin Cheng et.al.|[2607.24925](http://arxiv.org/abs/2607.24925)|null|
 |**2026-07-27**|**Krylov complexity and spectral density of BMN matrix model**|Dibakar Roychowdhury et.al.|[2607.24632](http://arxiv.org/abs/2607.24632)|null|
@@ -3095,6 +3103,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-29**|**Microscopic study of topological phase transitions: Percolation point of view**|Keisuke Kataoka et.al.|[2607.26707](http://arxiv.org/abs/2607.26707)|null|
+|**2026-07-28**|**Minimal Counterexamples of the MacWilliams Extension Theorem for Stabilizer Codes**|Ali Assem Mahmoud et.al.|[2607.26214](http://arxiv.org/abs/2607.26214)|null|
 |**2026-07-28**|**Sampling hard circuits with verifiably high fidelity**|Simon Martiel et.al.|[2607.25941](http://arxiv.org/abs/2607.25941)|null|
 |**2026-07-28**|**OmniQEC: discovering practical quantum error-correcting codes by an AI scientist**|Ge Yan et.al.|[2607.25865](http://arxiv.org/abs/2607.25865)|null|
 |**2026-07-27**|**Universal Optimization and Tighter Fidelity Bounds for Approximate Quantum Error Correction**|Jing Wu et.al.|[2607.24968](http://arxiv.org/abs/2607.24968)|null|

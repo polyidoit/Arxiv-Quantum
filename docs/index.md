@@ -3103,6 +3103,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-29**|**Fault-Tolerant Logical Operations and Efficient State Preparation in Modular Quantum Architectures with Noisy Interfaces**|Siddardha Chelluri et.al.|[2607.27204](http://arxiv.org/abs/2607.27204)|null|
+|**2026-07-29**|**Improved Methods for Determining Quantum Error Correcting Code Performance and Fault Tolerance**|Michael Mullan et.al.|[2607.27153](http://arxiv.org/abs/2607.27153)|null|
+|**2026-07-29**|**Hardware-efficient erasure-error detection with an integer fluxonium**|Junyoung An et.al.|[2607.27123](http://arxiv.org/abs/2607.27123)|null|
 |**2026-07-29**|**Microscopic study of topological phase transitions: Percolation point of view**|Keisuke Kataoka et.al.|[2607.26707](http://arxiv.org/abs/2607.26707)|null|
 |**2026-07-28**|**Minimal Counterexamples of the MacWilliams Extension Theorem for Stabilizer Codes**|Ali Assem Mahmoud et.al.|[2607.26214](http://arxiv.org/abs/2607.26214)|null|
 |**2026-07-28**|**Sampling hard circuits with verifiably high fidelity**|Simon Martiel et.al.|[2607.25941](http://arxiv.org/abs/2607.25941)|null|

@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Quantum Steering and Nonlocal Correlations Between Non-Interacting Delocalized Electrons Under Rashba Spin-Orbit Interaction**|Zakaria Bouafia et.al.|[2607.28450](http://arxiv.org/abs/2607.28450)|null|
+|**2026-07-30**|**Entanglement Swapping with Integrated Narrowband Photon Sources for Quantum Repeaters**|Mingsong Wu et.al.|[2607.28184](http://arxiv.org/abs/2607.28184)|null|
 |**2026-07-29**|**Enhancing the security of coherent one-way quantum key distribution using CHSH correlations**|Mahdi Shaban et.al.|[2607.26856](http://arxiv.org/abs/2607.26856)|null|
 |**2026-07-28**|**Qubit-qubit-qutrit quantum correlations in $H \to f \bar f V$**|Michał Banacki et.al.|[2607.26122](http://arxiv.org/abs/2607.26122)|null|
 |**2026-07-28**|**Effect-valued measurement models and contextuality**|Samson Abramsky et.al.|[2607.25900](http://arxiv.org/abs/2607.25900)|null|
@@ -1390,6 +1392,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Quantum Steering and Nonlocal Correlations Between Non-Interacting Delocalized Electrons Under Rashba Spin-Orbit Interaction**|Zakaria Bouafia et.al.|[2607.28450](http://arxiv.org/abs/2607.28450)|null|
 |**2026-07-17**|**Ask Twice, Look Twice: Prompt Echoing Resolves the Question-First Paradox in Vision-Language Models**|Rakshanda Hassan Abhinandan et.al.|[2607.15565](http://arxiv.org/abs/2607.15565)|null|
 |**2026-07-11**|**Nonlocal Manipulation of Backflow with Quantum Correlations**|Ya Xiao et.al.|[2607.10281](http://arxiv.org/abs/2607.10281)|null|
 |**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
@@ -1602,6 +1605,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Witness robustness: An operational quantifier of measurement resources via free state discrimination**|Jingsong Ao et.al.|[2607.27892](http://arxiv.org/abs/2607.27892)|null|
 |**2026-07-28**|**Supermartingales in Quantum Resources Theories: Where do quantum resources go when you're watching?**|Katarzyna Macieszczak et.al.|[2607.26225](http://arxiv.org/abs/2607.26225)|null|
 |**2026-07-27**|**CP-preserving channels**|Indu Bala et.al.|[2607.24682](http://arxiv.org/abs/2607.24682)|null|
 |**2026-07-26**|**Formally Verified Synthesizable Floating-Point Data Types in ARCH HDL**|Shuqing Zhao et.al.|[2607.23715](http://arxiv.org/abs/2607.23715)|null|
@@ -2217,6 +2221,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Quantum Chaos and Diffusive Transport from Geometric Randomness**|Bibek Saha et.al.|[2607.28579](http://arxiv.org/abs/2607.28579)|null|
 |**2026-07-29**|**Unconventional Thermalization of a Three-Wave-Mixing Model**|Evangelos Varvelis et.al.|[2607.27028](http://arxiv.org/abs/2607.27028)|null|
 |**2026-07-29**|**Verifiable Random Sampling**|Yeoh Wei Zhu et.al.|[2607.26734](http://arxiv.org/abs/2607.26734)|null|
 |**2026-07-29**|**A Bound on the Dynamical Love Number**|Alex Kehagias et.al.|[2607.26686](http://arxiv.org/abs/2607.26686)|null|
@@ -3103,6 +3108,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-30**|**Lifting Lifted Product Codes**|Yuta Hirasaki et.al.|[2607.28621](http://arxiv.org/abs/2607.28621)|null|
+|**2026-07-30**|**SymFT: Universal Fault-Tolerant Quantum Circuit Simulation via Symbolic Clifford--Pauli Frames and Stabilizer Coordinates**|Wang Fang et.al.|[2607.28600](http://arxiv.org/abs/2607.28600)|null|
+|**2026-07-30**|**Spacetime Layout and Logical Compilation of Color Code**|Qinjing Yu et.al.|[2607.28504](http://arxiv.org/abs/2607.28504)|null|
+|**2026-07-30**|**QAdapt: A Noise-Adaptive Neural Pre-Decoding Framework for Quantum Error Correction**|Ran Miao et.al.|[2607.28422](http://arxiv.org/abs/2607.28422)|null|
+|**2026-07-30**|**Efficient atom rearrangements for quantum error correction primitives with a single AOD**|Tom Hartweg et.al.|[2607.28149](http://arxiv.org/abs/2607.28149)|null|
+|**2026-07-30**|**Design of a Quantum Error Correction Decoder Exploiting Temporal Parallelism**|Leo Itoh et.al.|[2607.27930](http://arxiv.org/abs/2607.27930)|null|
+|**2026-07-29**|**Noise-resilient and Scalable Quantum Error Correction for Nuclear Spin Qubits in Silicon with Electron Shuttling**|Wayne M. Witzel et.al.|[2607.27527](http://arxiv.org/abs/2607.27527)|null|
+|**2026-07-29**|**Restrictions on non-Clifford fault tolerance and ruling out beyond-SQL quantum metrology**|Constantin Cedillo Vayson de Pradenne et.al.|[2607.27342](http://arxiv.org/abs/2607.27342)|null|
 |**2026-07-29**|**Fault-Tolerant Logical Operations and Efficient State Preparation in Modular Quantum Architectures with Noisy Interfaces**|Siddardha Chelluri et.al.|[2607.27204](http://arxiv.org/abs/2607.27204)|null|
 |**2026-07-29**|**Improved Methods for Determining Quantum Error Correcting Code Performance and Fault Tolerance**|Michael Mullan et.al.|[2607.27153](http://arxiv.org/abs/2607.27153)|null|
 |**2026-07-29**|**Hardware-efficient erasure-error detection with an integer fluxonium**|Junyoung An et.al.|[2607.27123](http://arxiv.org/abs/2607.27123)|null|

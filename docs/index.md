@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Bell violation with path-entangled number states under realistic detection**|Christoph F. Wildfeuer et.al.|[2607.29012](http://arxiv.org/abs/2607.29012)|null|
 |**2026-07-30**|**Quantum Steering and Nonlocal Correlations Between Non-Interacting Delocalized Electrons Under Rashba Spin-Orbit Interaction**|Zakaria Bouafia et.al.|[2607.28450](http://arxiv.org/abs/2607.28450)|null|
 |**2026-07-30**|**Entanglement Swapping with Integrated Narrowband Photon Sources for Quantum Repeaters**|Mingsong Wu et.al.|[2607.28184](http://arxiv.org/abs/2607.28184)|null|
 |**2026-07-29**|**Enhancing the security of coherent one-way quantum key distribution using CHSH correlations**|Mahdi Shaban et.al.|[2607.26856](http://arxiv.org/abs/2607.26856)|null|
@@ -2221,11 +2222,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**iSWAP maximises the second-moment spectral gap in random quantum circuits**|Yanying Liang et.al.|[2607.29551](http://arxiv.org/abs/2607.29551)|null|
+|**2026-07-31**|**Algebraic Speedups for Exact Inversion of Hamiltonian Evolutions**|Jizhe Lai et.al.|[2607.29382](http://arxiv.org/abs/2607.29382)|null|
 |**2026-07-30**|**Quantum Chaos and Diffusive Transport from Geometric Randomness**|Bibek Saha et.al.|[2607.28579](http://arxiv.org/abs/2607.28579)|null|
 |**2026-07-29**|**Unconventional Thermalization of a Three-Wave-Mixing Model**|Evangelos Varvelis et.al.|[2607.27028](http://arxiv.org/abs/2607.27028)|null|
 |**2026-07-29**|**Verifiable Random Sampling**|Yeoh Wei Zhu et.al.|[2607.26734](http://arxiv.org/abs/2607.26734)|null|
 |**2026-07-29**|**A Bound on the Dynamical Love Number**|Alex Kehagias et.al.|[2607.26686](http://arxiv.org/abs/2607.26686)|null|
-|**2026-07-28**|**Asymmetric information scrambling and eigenstate thermalization in inhomogeneous XXZ spin chains**|Shivam Mishra et.al.|[2607.25496](http://arxiv.org/abs/2607.25496)|null|
+|**2026-07-31**|**Asymmetric information scrambling and eigenstate thermalization in inhomogeneous XXZ spin chains**|Shivam Mishra et.al.|[2607.25496](http://arxiv.org/abs/2607.25496)|null|
 |**2026-07-27**|**Effective Field Theory of Operator Scrambling from Strong-to-Weak Symmetry Breaking**|Bai-Lin Cheng et.al.|[2607.24925](http://arxiv.org/abs/2607.24925)|null|
 |**2026-07-27**|**Krylov complexity and spectral density of BMN matrix model**|Dibakar Roychowdhury et.al.|[2607.24632](http://arxiv.org/abs/2607.24632)|null|
 |**2026-07-17**|**Microscopic Side Information Controls Ordered Hayden--Preskill Recovery**|Joao V. R. Alencar et.al.|[2607.15537](http://arxiv.org/abs/2607.15537)|null|
@@ -3108,6 +3111,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-07-31**|**Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units**|Shin Nishio et.al.|[2607.29603](http://arxiv.org/abs/2607.29603)|null|
+|**2026-07-31**|**Erasure surface code circuit without mid-circuit erasure checks**|Margaret Pavlovich et.al.|[2607.29443](http://arxiv.org/abs/2607.29443)|null|
+|**2026-07-31**|**TAVI-TEC: An AI-Based Tool for Procedural Planning of Transcatheter Aortic Valve Implantation**|Alessandra Zerillo et.al.|[2607.29243](http://arxiv.org/abs/2607.29243)|null|
+|**2026-07-31**|**Towards the Characterization of Logical Errors in Distributed Lattice Surgery**|Nitish Kumar Chandra et.al.|[2607.29186](http://arxiv.org/abs/2607.29186)|null|
 |**2026-07-30**|**Lifting Lifted Product Codes**|Yuta Hirasaki et.al.|[2607.28621](http://arxiv.org/abs/2607.28621)|null|
 |**2026-07-30**|**SymFT: Universal Fault-Tolerant Quantum Circuit Simulation via Symbolic Clifford--Pauli Frames and Stabilizer Coordinates**|Wang Fang et.al.|[2607.28600](http://arxiv.org/abs/2607.28600)|null|
 |**2026-07-30**|**Spacetime Layout and Logical Compilation of Color Code**|Qinjing Yu et.al.|[2607.28504](http://arxiv.org/abs/2607.28504)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1606,6 +1606,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**Auditing Discovery Claims: A Two-Sided Criterion for Agentic Science, with the Negative Side Decidable**|Wenhui Chen et.al.|[2608.00981](http://arxiv.org/abs/2608.00981)|null|
+|**2026-07-31**|**A Focal-plane X-ray Polarimeter with Spectral and Timing Capabilities for Future Missions**|Hemanth Manikantan et.al.|[2608.00273](http://arxiv.org/abs/2608.00273)|null|
 |**2026-07-30**|**Witness robustness: An operational quantifier of measurement resources via free state discrimination**|Jingsong Ao et.al.|[2607.27892](http://arxiv.org/abs/2607.27892)|null|
 |**2026-07-28**|**Supermartingales in Quantum Resources Theories: Where do quantum resources go when you're watching?**|Katarzyna Macieszczak et.al.|[2607.26225](http://arxiv.org/abs/2607.26225)|null|
 |**2026-07-27**|**CP-preserving channels**|Indu Bala et.al.|[2607.24682](http://arxiv.org/abs/2607.24682)|null|

@@ -1606,6 +1606,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**Entanglement of flower states**|Samrat Sen et.al.|[2608.02587](http://arxiv.org/abs/2608.02587)|null|
+|**2026-08-03**|**Learnable yet not simulable: a quantum resource theory of learning models**|Xinbiao Wang et.al.|[2608.02325](http://arxiv.org/abs/2608.02325)|null|
 |**2026-08-02**|**Auditing Discovery Claims: A Two-Sided Criterion for Agentic Science, with the Negative Side Decidable**|Wenhui Chen et.al.|[2608.00981](http://arxiv.org/abs/2608.00981)|null|
 |**2026-07-31**|**A Focal-plane X-ray Polarimeter with Spectral and Timing Capabilities for Future Missions**|Hemanth Manikantan et.al.|[2608.00273](http://arxiv.org/abs/2608.00273)|null|
 |**2026-07-30**|**Witness robustness: An operational quantifier of measurement resources via free state discrimination**|Jingsong Ao et.al.|[2607.27892](http://arxiv.org/abs/2607.27892)|null|
@@ -3113,8 +3115,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-03**|**Confinement as Decoding: Higher Form Codes and Lattice Yang-Mills Theory**|Ning Bao et.al.|[2608.02452](http://arxiv.org/abs/2608.02452)|null|
+|**2026-08-03**|**Finite-Syndrome Compression of Quantum Fisher Information**|Jianqi Sheng et.al.|[2608.02333](http://arxiv.org/abs/2608.02333)|null|
+|**2026-08-03**|**Zero-G: A Pre-Decoder-Aware Decoder for Quantum Error Correction**|Peter Wegmann et.al.|[2608.02030](http://arxiv.org/abs/2608.02030)|null|
+|**2026-08-03**|**Oraqle: An Empirical Analysis of Qubit Readout and Discriminators in Quantum Error Correction**|Emmanouil Giortamis et.al.|[2608.01939](http://arxiv.org/abs/2608.01939)|null|
+|**2026-08-03**|**The Pangaea Architecture: Fault-Tolerant Heterogeneous Topological Codes via a Quantum Bus**|Sheir Yarkoni et.al.|[2608.01887](http://arxiv.org/abs/2608.01887)|null|
+|**2026-08-02**|**Twenty-one characterizations of reversible quantum channels**|Nan Li et.al.|[2608.01088](http://arxiv.org/abs/2608.01088)|null|
+|**2026-07-31**|**Arbitrary-Distance Quantum Error Correction with Gauss's Law for $\mathbb Z_2$ Lattice Gauge Theory**|Neel S. Modi et.al.|[2608.00165](http://arxiv.org/abs/2608.00165)|null|
 |**2026-07-31**|**Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units**|Shin Nishio et.al.|[2607.29603](http://arxiv.org/abs/2607.29603)|null|
-|**2026-07-31**|**Erasure surface code circuit without mid-circuit erasure checks**|Margaret Pavlovich et.al.|[2607.29443](http://arxiv.org/abs/2607.29443)|null|
+|**2026-08-03**|**Erasure surface code circuit without mid-circuit erasure checks**|Margaret Pavlovich et.al.|[2607.29443](http://arxiv.org/abs/2607.29443)|null|
 |**2026-07-31**|**TAVI-TEC: An AI-Based Tool for Procedural Planning of Transcatheter Aortic Valve Implantation**|Alessandra Zerillo et.al.|[2607.29243](http://arxiv.org/abs/2607.29243)|null|
 |**2026-07-31**|**Towards the Characterization of Logical Errors in Distributed Lattice Surgery**|Nitish Kumar Chandra et.al.|[2607.29186](http://arxiv.org/abs/2607.29186)|null|
 |**2026-07-30**|**Lifting Lifted Product Codes**|Yuta Hirasaki et.al.|[2607.28621](http://arxiv.org/abs/2607.28621)|null|

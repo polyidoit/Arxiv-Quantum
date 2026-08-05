@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Observation of quantum nonclassicality without freedom of choice in a minimal causal network**|Ya Xiao et.al.|[2608.03552](http://arxiv.org/abs/2608.03552)|null|
 |**2026-07-31**|**Bell violation with path-entangled number states under realistic detection**|Christoph F. Wildfeuer et.al.|[2607.29012](http://arxiv.org/abs/2607.29012)|null|
 |**2026-07-30**|**Quantum Steering and Nonlocal Correlations Between Non-Interacting Delocalized Electrons Under Rashba Spin-Orbit Interaction**|Zakaria Bouafia et.al.|[2607.28450](http://arxiv.org/abs/2607.28450)|null|
 |**2026-07-30**|**Entanglement Swapping with Integrated Narrowband Photon Sources for Quantum Repeaters**|Mingsong Wu et.al.|[2607.28184](http://arxiv.org/abs/2607.28184)|null|
@@ -740,6 +741,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Observation of quantum nonclassicality without freedom of choice in a minimal causal network**|Ya Xiao et.al.|[2608.03552](http://arxiv.org/abs/2608.03552)|null|
 |**2026-07-29**|**Relational Quantum Causal Processes: Exact Models, Continuum Limits, and the Boundary of Emergent Gravity**|Yipeng Xu et.al.|[2607.26672](http://arxiv.org/abs/2607.26672)|null|
 |**2026-07-28**|**Optimal Interaction Free Localization with Multipath Interferometers**|Anubhav Chaturvedi et.al.|[2607.26293](http://arxiv.org/abs/2607.26293)|null|
 |**2026-07-23**|**Quantum Circuit Fragments and Link Products in Continuous Variables**|Amalina Lai et.al.|[2607.21215](http://arxiv.org/abs/2607.21215)|null|
@@ -1077,6 +1079,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Characterizing pairwise swapping capabilities of dense coding channels**|Abhishek Muhuri et.al.|[2608.03184](http://arxiv.org/abs/2608.03184)|null|
+|**2026-08-04**|**Predominant Nuclear Excitation by Electron Capture Driven by Beam-Induced Return Currents**|Y. Y. Xu et.al.|[2608.02998](http://arxiv.org/abs/2608.02998)|null|
 |**2026-07-27**|**Quantum simulacra**|L. F. Alves da Silva et.al.|[2607.24739](http://arxiv.org/abs/2607.24739)|null|
 |**2026-07-28**|**Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability**|Taewoon Kim et.al.|[2607.18368](http://arxiv.org/abs/2607.18368)|null|
 |**2026-07-16**|**Emergence and Recovery of (logical) Kochen-Specker Contextuality via Hamilton Extension**|Jayashree Karmakar et.al.|[2607.14629](http://arxiv.org/abs/2607.14629)|null|

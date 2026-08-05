@@ -1412,6 +1412,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Intertemporal Preference Steering in Qwen3 via Contrastive Activation Addition**|Michal Mráz et.al.|[2608.03892](http://arxiv.org/abs/2608.03892)|null|
 |**2026-07-30**|**Quantum Steering and Nonlocal Correlations Between Non-Interacting Delocalized Electrons Under Rashba Spin-Orbit Interaction**|Zakaria Bouafia et.al.|[2607.28450](http://arxiv.org/abs/2607.28450)|null|
 |**2026-07-17**|**Ask Twice, Look Twice: Prompt Echoing Resolves the Question-First Paradox in Vision-Language Models**|Rakshanda Hassan Abhinandan et.al.|[2607.15565](http://arxiv.org/abs/2607.15565)|null|
 |**2026-07-11**|**Nonlocal Manipulation of Backflow with Quantum Correlations**|Ya Xiao et.al.|[2607.10281](http://arxiv.org/abs/2607.10281)|null|
@@ -2249,8 +2250,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Matrix Product Evolution: A Method for Simulating Quantum Circuits Using Tensor Networks**|Haruyuki Kawabe et.al.|[2608.03472](http://arxiv.org/abs/2608.03472)|null|
+|**2026-08-03**|**Ramp, Plateau, and Wormholes without Averaging, and Hyper-non-perturbative Structures in Gravity**|Hong Liu et.al.|[2608.02743](http://arxiv.org/abs/2608.02743)|null|
 |**2026-07-31**|**iSWAP maximises the second-moment spectral gap in random quantum circuits**|Yanying Liang et.al.|[2607.29551](http://arxiv.org/abs/2607.29551)|null|
-|**2026-07-31**|**Algebraic Speedups for Exact Inversion of Hamiltonian Evolutions**|Jizhe Lai et.al.|[2607.29382](http://arxiv.org/abs/2607.29382)|null|
+|**2026-08-04**|**Algebraic Speedups for Exact Inversion of Hamiltonian Evolutions**|Jizhe Lai et.al.|[2607.29382](http://arxiv.org/abs/2607.29382)|null|
 |**2026-07-30**|**Quantum Chaos and Diffusive Transport from Geometric Randomness**|Bibek Saha et.al.|[2607.28579](http://arxiv.org/abs/2607.28579)|null|
 |**2026-07-29**|**Unconventional Thermalization of a Three-Wave-Mixing Model**|Evangelos Varvelis et.al.|[2607.27028](http://arxiv.org/abs/2607.27028)|null|
 |**2026-07-29**|**Verifiable Random Sampling**|Yeoh Wei Zhu et.al.|[2607.26734](http://arxiv.org/abs/2607.26734)|null|
@@ -3140,6 +3143,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-04**|**Real-time decoding of quantum error correction codes using high-performance computing**|Lingling Lao et.al.|[2608.03948](http://arxiv.org/abs/2608.03948)|null|
+|**2026-08-04**|**Exact Tradeoff Between Quantum Error Correction and Quantum Darwinism: An Information-Theoretic No-Go Theorem**|Arghya Maity et.al.|[2608.03944](http://arxiv.org/abs/2608.03944)|null|
+|**2026-08-04**|**Typical Output States of Monitored Random Clifford Circuits: A Graph-Theoretic Approach**|Yu-Xuan Zhang et.al.|[2608.03102](http://arxiv.org/abs/2608.03102)|null|
+|**2026-08-04**|**Quantifying Pauli Errors in Single-Photon Resource-State Generation**|Yuktee Gupta et.al.|[2608.03005](http://arxiv.org/abs/2608.03005)|null|
+|**2026-08-03**|**Quantum error correction at ultra-low overhead**|Zhide Lu et.al.|[2608.02773](http://arxiv.org/abs/2608.02773)|null|
 |**2026-08-03**|**Confinement as Decoding: Higher Form Codes and Lattice Yang-Mills Theory**|Ning Bao et.al.|[2608.02452](http://arxiv.org/abs/2608.02452)|null|
 |**2026-08-03**|**Finite-Syndrome Compression of Quantum Fisher Information**|Jianqi Sheng et.al.|[2608.02333](http://arxiv.org/abs/2608.02333)|null|
 |**2026-08-03**|**Zero-G: A Pre-Decoder-Aware Decoder for Quantum Error Correction**|Peter Wegmann et.al.|[2608.02030](http://arxiv.org/abs/2608.02030)|null|

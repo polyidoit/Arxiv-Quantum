@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1079,6 +1079,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Quantum Contextuality and Entanglement-Free Grover Search in a Trapped-Ion Optical Qudit**|Tarun Dutta et.al.|[2608.04128](http://arxiv.org/abs/2608.04128)|null|
 |**2026-08-04**|**Characterizing pairwise swapping capabilities of dense coding channels**|Abhishek Muhuri et.al.|[2608.03184](http://arxiv.org/abs/2608.03184)|null|
 |**2026-08-04**|**Predominant Nuclear Excitation by Electron Capture Driven by Beam-Induced Return Currents**|Y. Y. Xu et.al.|[2608.02998](http://arxiv.org/abs/2608.02998)|null|
 |**2026-07-27**|**Quantum simulacra**|L. F. Alves da Silva et.al.|[2607.24739](http://arxiv.org/abs/2607.24739)|null|

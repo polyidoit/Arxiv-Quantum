@@ -1629,6 +1629,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Microscopic theory of the field-induced instability of the vortex-free state in superconducting thin-film strips**|Takayuki Kubo et.al.|[2608.04508](http://arxiv.org/abs/2608.04508)|null|
 |**2026-08-03**|**Entanglement of flower states**|Samrat Sen et.al.|[2608.02587](http://arxiv.org/abs/2608.02587)|null|
 |**2026-08-03**|**Learnable yet not simulable: a quantum resource theory of learning models**|Xinbiao Wang et.al.|[2608.02325](http://arxiv.org/abs/2608.02325)|null|
 |**2026-08-02**|**Auditing Discovery Claims: A Two-Sided Criterion for Agentic Science, with the Negative Side Decidable**|Wenhui Chen et.al.|[2608.00981](http://arxiv.org/abs/2608.00981)|null|
@@ -3144,6 +3145,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-05**|**Neutral Atom Quantum Computing: Principles, Routes, Progress, and Challenges**|Junchao Wang et.al.|[2608.05010](http://arxiv.org/abs/2608.05010)|null|
+|**2026-08-05**|**Diffusive Speed Limits for U(1)-Covariant Quantum Error Correction**|Jianqi Sheng et.al.|[2608.04953](http://arxiv.org/abs/2608.04953)|null|
+|**2026-08-05**|**Quantum States Protection under Environmental Noise**|Kai Wang et.al.|[2608.04822](http://arxiv.org/abs/2608.04822)|null|
+|**2026-08-05**|**Constructive realization of self-referential prediction limits in quantum control: Resource bounds and Gödel-safe architectures**|Salman Sajad Wani et.al.|[2608.04779](http://arxiv.org/abs/2608.04779)|null|
+|**2026-08-05**|**Information locality of a quantum locally recoverable code**|Ryutaroh Matsumoto et.al.|[2608.04403](http://arxiv.org/abs/2608.04403)|null|
 |**2026-08-04**|**Real-time decoding of quantum error correction codes using high-performance computing**|Lingling Lao et.al.|[2608.03948](http://arxiv.org/abs/2608.03948)|null|
 |**2026-08-04**|**Exact Tradeoff Between Quantum Error Correction and Quantum Darwinism: An Information-Theoretic No-Go Theorem**|Arghya Maity et.al.|[2608.03944](http://arxiv.org/abs/2608.03944)|null|
 |**2026-08-04**|**Typical Output States of Monitored Random Clifford Circuits: A Graph-Theoretic Approach**|Yu-Xuan Zhang et.al.|[2608.03102](http://arxiv.org/abs/2608.03102)|null|

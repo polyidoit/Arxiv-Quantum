@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Bell nonlocality from twisted statistics**|Ivana Đorđ ević et.al.|[2608.06359](http://arxiv.org/abs/2608.06359)|null|
+|**2026-08-05**|**QBism on Locality and Nonlocality**|John B. DeBrota et.al.|[2608.05368](http://arxiv.org/abs/2608.05368)|null|
 |**2026-08-04**|**Observation of quantum nonclassicality without freedom of choice in a minimal causal network**|Ya Xiao et.al.|[2608.03552](http://arxiv.org/abs/2608.03552)|null|
 |**2026-07-31**|**Bell violation with path-entangled number states under realistic detection**|Christoph F. Wildfeuer et.al.|[2607.29012](http://arxiv.org/abs/2607.29012)|null|
 |**2026-07-30**|**Quantum Steering and Nonlocal Correlations Between Non-Interacting Delocalized Electrons Under Rashba Spin-Orbit Interaction**|Zakaria Bouafia et.al.|[2607.28450](http://arxiv.org/abs/2607.28450)|null|
@@ -1092,6 +1094,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Maximum Edge Open Packing in Permutation, Interval, and Well-Partitioned Chordal Graphs**|Gautam K. Das et.al.|[2608.05310](http://arxiv.org/abs/2608.05310)|null|
 |**2026-08-04**|**Quantum Contextuality and Entanglement-Free Grover Search in a Trapped-Ion Optical Qudit**|Tarun Dutta et.al.|[2608.04128](http://arxiv.org/abs/2608.04128)|null|
 |**2026-08-04**|**Characterizing pairwise swapping capabilities of dense coding channels**|Abhishek Muhuri et.al.|[2608.03184](http://arxiv.org/abs/2608.03184)|null|
 |**2026-08-04**|**Predominant Nuclear Excitation by Electron Capture Driven by Beam-Induced Return Currents**|Y. Y. Xu et.al.|[2608.02998](http://arxiv.org/abs/2608.02998)|null|
@@ -3145,6 +3148,14 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-06**|**Time-Reversal Selection Rules for Quantum Error Correction**|Eric Kubischta et.al.|[2608.06304](http://arxiv.org/abs/2608.06304)|null|
+|**2026-08-06**|**Approximate Quantum Error Correction at Chiral Topological Edges**|Yuntai Song et.al.|[2608.06258](http://arxiv.org/abs/2608.06258)|null|
+|**2026-08-06**|**Exponential logical-error reduction in quantum memories via optimal syndrome-measurement timing**|Tobias Haug et.al.|[2608.06242](http://arxiv.org/abs/2608.06242)|null|
+|**2026-08-06**|**Towards fault-tolerance with universal phase-error-transparent gates for high-spin cat codes**|Kelvin Onggadinata et.al.|[2608.05992](http://arxiv.org/abs/2608.05992)|null|
+|**2026-08-06**|**Quantum error correction with global control**|Roberto Menta et.al.|[2608.05821](http://arxiv.org/abs/2608.05821)|null|
+|**2026-08-06**|**Provably Efficient Self-Calibrating Quantum Fault Tolerance**|Weiyuan Gong et.al.|[2608.05686](http://arxiv.org/abs/2608.05686)|null|
+|**2026-08-06**|**Quantum information loss**|James Fullwood et.al.|[2608.05535](http://arxiv.org/abs/2608.05535)|null|
+|**2026-08-06**|**X-Z Round Scheduling for the Surface Code with Defects under Biased Noise**|Lakshika Rathi et.al.|[2608.05518](http://arxiv.org/abs/2608.05518)|null|
 |**2026-08-05**|**Neutral Atom Quantum Computing: Principles, Routes, Progress, and Challenges**|Junchao Wang et.al.|[2608.05010](http://arxiv.org/abs/2608.05010)|null|
 |**2026-08-05**|**Diffusive Speed Limits for U(1)-Covariant Quantum Error Correction**|Jianqi Sheng et.al.|[2608.04953](http://arxiv.org/abs/2608.04953)|null|
 |**2026-08-05**|**Quantum States Protection under Environmental Noise**|Kai Wang et.al.|[2608.04822](http://arxiv.org/abs/2608.04822)|null|

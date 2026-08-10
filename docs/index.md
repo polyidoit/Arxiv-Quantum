@@ -2236,6 +2236,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Analytic Spread Complexity from Level Statistics: From Chaos to Integrability**|Pallab Basu et.al.|[2608.07412](http://arxiv.org/abs/2608.07412)|null|
+|**2026-08-06**|**Detecting quantumness with generalized Loschmidt echoes**|Cecilia Cormick et.al.|[2608.06562](http://arxiv.org/abs/2608.06562)|null|
+|**2026-08-06**|**KPZ Superdiffusion of Local Correlators in Diffusive Random Quantum Circuits**|Ewan McCulloch et.al.|[2608.06459](http://arxiv.org/abs/2608.06459)|null|
 |**2026-08-04**|**Matrix Product Evolution: A Method for Simulating Quantum Circuits Using Tensor Networks**|Haruyuki Kawabe et.al.|[2608.03472](http://arxiv.org/abs/2608.03472)|null|
 |**2026-08-03**|**Ramp, Plateau, and Wormholes without Averaging, and Hyper-non-perturbative Structures in Gravity**|Hong Liu et.al.|[2608.02743](http://arxiv.org/abs/2608.02743)|null|
 |**2026-07-31**|**iSWAP maximises the second-moment spectral gap in random quantum circuits**|Yanying Liang et.al.|[2607.29551](http://arxiv.org/abs/2607.29551)|null|

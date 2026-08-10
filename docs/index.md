@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3127,6 +3127,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-07**|**Designer Codes from GALA: Compact, Self-Dual, and Rate-1/2 QEC on Reconfigurable Atom Arrays**|Willers Yang et.al.|[2608.07431](http://arxiv.org/abs/2608.07431)|null|
+|**2026-08-07**|**Entanglement-Assisted Quantum Locally Recoverable Codes: Bounds, Optimal Constructions, and Achievability**|Vijay Kumar et.al.|[2608.06854](http://arxiv.org/abs/2608.06854)|null|
 |**2026-08-06**|**Time-Reversal Selection Rules for Quantum Error Correction**|Eric Kubischta et.al.|[2608.06304](http://arxiv.org/abs/2608.06304)|null|
 |**2026-08-06**|**Approximate Quantum Error Correction at Chiral Topological Edges**|Yuntai Song et.al.|[2608.06258](http://arxiv.org/abs/2608.06258)|null|
 |**2026-08-06**|**Exponential logical-error reduction in quantum memories via optimal syndrome-measurement timing**|Tobias Haug et.al.|[2608.06242](http://arxiv.org/abs/2608.06242)|null|

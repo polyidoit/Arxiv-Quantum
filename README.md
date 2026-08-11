@@ -1632,6 +1632,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**ZetaGPT: A Reference Implementation of Positional--Encoding--Free State--Space--Attention Language Models**|Róisín Luo et.al.|[2608.09432](http://arxiv.org/abs/2608.09432)|null|
+|**2026-08-08**|**FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence**|Amir Sabbaghziarani et.al.|[2608.07937](http://arxiv.org/abs/2608.07937)|null|
 |**2026-08-05**|**Microscopic theory of the field-induced instability of the vortex-free state in superconducting thin-film strips**|Takayuki Kubo et.al.|[2608.04508](http://arxiv.org/abs/2608.04508)|null|
 |**2026-08-03**|**Entanglement of flower states**|Samrat Sen et.al.|[2608.02587](http://arxiv.org/abs/2608.02587)|null|
 |**2026-08-03**|**Learnable yet not simulable: a quantum resource theory of learning models**|Xinbiao Wang et.al.|[2608.02325](http://arxiv.org/abs/2608.02325)|null|
@@ -2255,6 +2257,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Quantum Uncomputation of Clean and Dirty Ancilla Qubits**|Chenke Liu et.al.|[2608.09578](http://arxiv.org/abs/2608.09578)|null|
 |**2026-08-07**|**Analytic Spread Complexity from Level Statistics: From Chaos to Integrability**|Pallab Basu et.al.|[2608.07412](http://arxiv.org/abs/2608.07412)|null|
 |**2026-08-06**|**Detecting quantumness with generalized Loschmidt echoes**|Cecilia Cormick et.al.|[2608.06562](http://arxiv.org/abs/2608.06562)|null|
 |**2026-08-06**|**KPZ Superdiffusion of Local Correlators in Diffusive Random Quantum Circuits**|Ewan McCulloch et.al.|[2608.06459](http://arxiv.org/abs/2608.06459)|null|
@@ -3151,6 +3154,12 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-10**|**Activation Probes Surface Code-Security Signals that the Model's Output Misses**|Ivan Wiryadi et.al.|[2608.09643](http://arxiv.org/abs/2608.09643)|null|
+|**2026-08-10**|**A Highly Accurate Fast Decoding Framework for QLDPC codes Accelerated by Noise Perturbation and Ensemble Decoding**|Mainak Bhattacharyya et.al.|[2608.09583](http://arxiv.org/abs/2608.09583)|null|
+|**2026-08-10**|**Quantum Bicycle LDPC Codes with High $kd^2/n$ from Divisor-Driven Search**|Liangdong Lu et.al.|[2608.09115](http://arxiv.org/abs/2608.09115)|null|
+|**2026-08-10**|**Diagnosing as Cardiologists Do: ECG Agents with Doctor-Grounded Priors for Clinical Reasoning Across Diseases and Populations**|Hongxiang Gao et.al.|[2608.09053](http://arxiv.org/abs/2608.09053)|null|
+|**2026-08-10**|**The Magic Scroll: Leveraging biased noise to improve magic state cultivation in register-based architectures**|Ian D. Thorvaldson et.al.|[2608.09018](http://arxiv.org/abs/2608.09018)|null|
+|**2026-08-08**|**Preserving Heisenberg-Limited Metrological Information during Storage via Correlated-Noise Correction**|Hang Xu et.al.|[2608.08130](http://arxiv.org/abs/2608.08130)|null|
 |**2026-08-07**|**Designer Codes from GALA: Compact, Self-Dual, and Rate-1/2 QEC on Reconfigurable Atom Arrays**|Willers Yang et.al.|[2608.07431](http://arxiv.org/abs/2608.07431)|null|
 |**2026-08-07**|**Entanglement-Assisted Quantum Locally Recoverable Codes: Bounds, Optimal Constructions, and Achievability**|Vijay Kumar et.al.|[2608.06854](http://arxiv.org/abs/2608.06854)|null|
 |**2026-08-06**|**Time-Reversal Selection Rules for Quantum Error Correction**|Eric Kubischta et.al.|[2608.06304](http://arxiv.org/abs/2608.06304)|null|

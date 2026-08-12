@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**A Sharp Local-Question Threshold for GHZ-Equatorial Completeness in Four-Player XOR Games**|Ziao Tang et.al.|[2608.11139](http://arxiv.org/abs/2608.11139)|null|
+|**2026-08-11**|**Verifying full quantum network nonlocality in arbitrary configurations by nonlinear Bell-like inequalities**|Shuyuan Yang et.al.|[2608.10972](http://arxiv.org/abs/2608.10972)|null|
+|**2026-08-09**|**How to Test Bell Nonlocality for Gravity?**|Debarshi Das et.al.|[2608.08778](http://arxiv.org/abs/2608.08778)|null|
+|**2026-08-08**|**Randomness Certification and Trade-offs in the Prepare-and-Broadcast Scenario**|Tailan S. Sarubi et.al.|[2608.08329](http://arxiv.org/abs/2608.08329)|null|
+|**2026-08-08**|**Bell nonlocality with directly generated telecom-band spin-photon entanglement**|Dong-Yu Huang et.al.|[2608.08109](http://arxiv.org/abs/2608.08109)|null|
+|**2026-08-08**|**Playing Nonlocal Games with Little to No Shared Randomness**|Mingze Xu et.al.|[2608.07833](http://arxiv.org/abs/2608.07833)|null|
 |**2026-08-06**|**Bell nonlocality from twisted statistics**|Ivana Đorđ ević et.al.|[2608.06359](http://arxiv.org/abs/2608.06359)|null|
 |**2026-08-05**|**QBism on Locality and Nonlocality**|John B. DeBrota et.al.|[2608.05368](http://arxiv.org/abs/2608.05368)|null|
 |**2026-08-04**|**Observation of quantum nonclassicality without freedom of choice in a minimal causal network**|Ya Xiao et.al.|[2608.03552](http://arxiv.org/abs/2608.03552)|null|
@@ -1416,6 +1422,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**Quantum steering is equivalent to state-preserving conditional expectations**|Lauritz van Luijk et.al.|[2608.10783](http://arxiv.org/abs/2608.10783)|null|
 |**2026-08-04**|**Intertemporal Preference Steering in Qwen3 via Contrastive Activation Addition**|Michal Mráz et.al.|[2608.03892](http://arxiv.org/abs/2608.03892)|null|
 |**2026-07-30**|**Quantum Steering and Nonlocal Correlations Between Non-Interacting Delocalized Electrons Under Rashba Spin-Orbit Interaction**|Zakaria Bouafia et.al.|[2607.28450](http://arxiv.org/abs/2607.28450)|null|
 |**2026-07-17**|**Ask Twice, Look Twice: Prompt Echoing Resolves the Question-First Paradox in Vision-Language Models**|Rakshanda Hassan Abhinandan et.al.|[2607.15565](http://arxiv.org/abs/2607.15565)|null|
@@ -2266,7 +2273,7 @@
 |**2026-07-31**|**iSWAP maximises the second-moment spectral gap in random quantum circuits**|Yanying Liang et.al.|[2607.29551](http://arxiv.org/abs/2607.29551)|null|
 |**2026-08-04**|**Algebraic Speedups for Exact Inversion of Hamiltonian Evolutions**|Jizhe Lai et.al.|[2607.29382](http://arxiv.org/abs/2607.29382)|null|
 |**2026-07-30**|**Quantum Chaos and Diffusive Transport from Geometric Randomness**|Bibek Saha et.al.|[2607.28579](http://arxiv.org/abs/2607.28579)|null|
-|**2026-07-29**|**Unconventional Thermalization of a Three-Wave-Mixing Model**|Evangelos Varvelis et.al.|[2607.27028](http://arxiv.org/abs/2607.27028)|null|
+|**2026-08-11**|**Unconventional Thermalization of a Three-Wave-Mixing Model**|Evangelos Varvelis et.al.|[2607.27028](http://arxiv.org/abs/2607.27028)|null|
 |**2026-07-29**|**Verifiable Random Sampling**|Yeoh Wei Zhu et.al.|[2607.26734](http://arxiv.org/abs/2607.26734)|null|
 |**2026-07-29**|**A Bound on the Dynamical Love Number**|Alex Kehagias et.al.|[2607.26686](http://arxiv.org/abs/2607.26686)|null|
 |**2026-07-31**|**Asymmetric information scrambling and eigenstate thermalization in inhomogeneous XXZ spin chains**|Shivam Mishra et.al.|[2607.25496](http://arxiv.org/abs/2607.25496)|null|
@@ -3154,6 +3161,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-11**|**Quantum Codes with Arbitrary Z-Rotation logical Gates and Applications to Fault-Tolerant Code Switching**|Reza Dastbasteh et.al.|[2608.11160](http://arxiv.org/abs/2608.11160)|null|
+|**2026-08-11**|**Stream Decoding with Confidence Scores at Room and Cryogenic Temperatures**|Maries Tahaab et.al.|[2608.10576](http://arxiv.org/abs/2608.10576)|null|
+|**2026-08-10**|**Long-lived memory effects in the defect bath of superconducting qubits**|Abhishek Agarwal et.al.|[2608.10087](http://arxiv.org/abs/2608.10087)|null|
+|**2026-08-10**|**Kinetics of sliding-window quantum error correction**|Adithya Sriram et.al.|[2608.10081](http://arxiv.org/abs/2608.10081)|null|
+|**2026-08-10**|**Coupled-Layer Codes: Beyond Quantum Product Constructions**|Shuyu Zhang et.al.|[2608.10069](http://arxiv.org/abs/2608.10069)|null|
 |**2026-08-10**|**Activation Probes Surface Code-Security Signals that the Model's Output Misses**|Ivan Wiryadi et.al.|[2608.09643](http://arxiv.org/abs/2608.09643)|null|
 |**2026-08-10**|**A Highly Accurate Fast Decoding Framework for QLDPC codes Accelerated by Noise Perturbation and Ensemble Decoding**|Mainak Bhattacharyya et.al.|[2608.09583](http://arxiv.org/abs/2608.09583)|null|
 |**2026-08-10**|**Quantum Bicycle LDPC Codes with High $kd^2/n$ from Divisor-Driven Search**|Liangdong Lu et.al.|[2608.09115](http://arxiv.org/abs/2608.09115)|null|

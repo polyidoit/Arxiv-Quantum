@@ -2245,6 +2245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Conditional dependence and Scrooge ensembles in shallow random quantum circuits**|Yinchen Liu et.al.|[2608.12255](http://arxiv.org/abs/2608.12255)|null|
+|**2026-08-12**|**The optimization landscape of peaked-circuit generation**|Ilyes Jamoussi et.al.|[2608.11890](http://arxiv.org/abs/2608.11890)|null|
+|**2026-08-11**|**Spectrally local geometric response at the onset of many-body quantum chaos**|George Mihailescu et.al.|[2608.11309](http://arxiv.org/abs/2608.11309)|null|
 |**2026-08-10**|**Quantum Uncomputation of Clean and Dirty Ancilla Qubits**|Chenke Liu et.al.|[2608.09578](http://arxiv.org/abs/2608.09578)|null|
 |**2026-08-07**|**Analytic Spread Complexity from Level Statistics: From Chaos to Integrability**|Pallab Basu et.al.|[2608.07412](http://arxiv.org/abs/2608.07412)|null|
 |**2026-08-06**|**Detecting quantumness with generalized Loschmidt echoes**|Cecilia Cormick et.al.|[2608.06562](http://arxiv.org/abs/2608.06562)|null|
@@ -3140,6 +3143,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-12**|**Do Not Let CNOTs Overwhelm the Decoder: Scheduling Transversal Gates for Fast FTQC**|Shota Ikari et.al.|[2608.11719](http://arxiv.org/abs/2608.11719)|null|
+|**2026-08-12**|**Efficient Quantum Modular Reduction: Crandall reduction and its Fault-tolerant resource analysis**|Changyeol Lee et.al.|[2608.11563](http://arxiv.org/abs/2608.11563)|null|
+|**2026-08-12**|**Trapping Sets of Detector Error Models**|Michele Pacenti et.al.|[2608.11516](http://arxiv.org/abs/2608.11516)|null|
+|**2026-08-11**|**Holonomic quantum gates via continuous measurement in bosonic codes: GKP and cat states**|Juan Garcia-Nila et.al.|[2608.11369](http://arxiv.org/abs/2608.11369)|null|
 |**2026-08-11**|**Quantum Codes with Arbitrary Z-Rotation logical Gates and Applications to Fault-Tolerant Code Switching**|Reza Dastbasteh et.al.|[2608.11160](http://arxiv.org/abs/2608.11160)|null|
 |**2026-08-11**|**Stream Decoding with Confidence Scores at Room and Cryogenic Temperatures**|Maries Tahaab et.al.|[2608.10576](http://arxiv.org/abs/2608.10576)|null|
 |**2026-08-10**|**Long-lived memory effects in the defect bath of superconducting qubits**|Abhishek Agarwal et.al.|[2608.10087](http://arxiv.org/abs/2608.10087)|null|

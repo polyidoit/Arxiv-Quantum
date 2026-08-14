@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**Delaunay solutions to the fractional Hartree equation with critical growth**|João Henrique Andrade et.al.|[2608.12734](http://arxiv.org/abs/2608.12734)|null|
 |**2026-08-11**|**A Sharp Local-Question Threshold for GHZ-Equatorial Completeness in Four-Player XOR Games**|Ziao Tang et.al.|[2608.11139](http://arxiv.org/abs/2608.11139)|null|
 |**2026-08-11**|**Verifying full quantum network nonlocality in arbitrary configurations by nonlinear Bell-like inequalities**|Shuyuan Yang et.al.|[2608.10972](http://arxiv.org/abs/2608.10972)|null|
 |**2026-08-09**|**How to Test Bell Nonlocality for Gravity?**|Debarshi Das et.al.|[2608.08778](http://arxiv.org/abs/2608.08778)|null|
@@ -760,6 +761,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**Quantifying nonclassicality in qubit systems via positive operator-valued measures**|Abdul Sattar Khan et.al.|[2608.13088](http://arxiv.org/abs/2608.13088)|null|
+|**2026-08-12**|**Flux control of measurement back-action and Leggett-Garg correlations in chiral quantum walks**|Paolo Luppi et.al.|[2608.12519](http://arxiv.org/abs/2608.12519)|null|
 |**2026-08-04**|**Observation of quantum nonclassicality without freedom of choice in a minimal causal network**|Ya Xiao et.al.|[2608.03552](http://arxiv.org/abs/2608.03552)|null|
 |**2026-07-29**|**Relational Quantum Causal Processes: Exact Models, Continuum Limits, and the Boundary of Emergent Gravity**|Yipeng Xu et.al.|[2607.26672](http://arxiv.org/abs/2607.26672)|null|
 |**2026-07-28**|**Optimal Interaction Free Localization with Multipath Interferometers**|Anubhav Chaturvedi et.al.|[2607.26293](http://arxiv.org/abs/2607.26293)|null|
@@ -1639,6 +1642,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**Climates of Gl 514 b**|Héctor E. Delgado Díaz et.al.|[2608.12457](http://arxiv.org/abs/2608.12457)|null|
 |**2026-08-10**|**ZetaGPT: A Reference Implementation of Positional--Encoding--Free State--Space--Attention Language Models**|Róisín Luo et.al.|[2608.09432](http://arxiv.org/abs/2608.09432)|null|
 |**2026-08-08**|**FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence**|Amir Sabbaghziarani et.al.|[2608.07937](http://arxiv.org/abs/2608.07937)|null|
 |**2026-08-05**|**Microscopic theory of the field-induced instability of the vortex-free state in superconducting thin-film strips**|Takayuki Kubo et.al.|[2608.04508](http://arxiv.org/abs/2608.04508)|null|
@@ -2264,6 +2268,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**Pulse Engineering of Quantum Many-Body Dynamics: Emergent Scar States, Entanglement, and Nonstabilizerness**|Prasant Mallik et.al.|[2608.12559](http://arxiv.org/abs/2608.12559)|null|
 |**2026-08-12**|**Conditional dependence and Scrooge ensembles in shallow random quantum circuits**|Yinchen Liu et.al.|[2608.12255](http://arxiv.org/abs/2608.12255)|null|
 |**2026-08-12**|**The optimization landscape of peaked-circuit generation**|Ilyes Jamoussi et.al.|[2608.11890](http://arxiv.org/abs/2608.11890)|null|
 |**2026-08-11**|**Spectrally local geometric response at the onset of many-body quantum chaos**|George Mihailescu et.al.|[2608.11309](http://arxiv.org/abs/2608.11309)|null|
@@ -3164,6 +3169,9 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-13**|**Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology**|Tuomas Laakkonen et.al.|[2608.13543](http://arxiv.org/abs/2608.13543)|null|
+|**2026-08-13**|**Mid-circuit ground-state cooling and ancilla readout in the $\textit{omg}$ architecture**|Sean Brudney et.al.|[2608.13181](http://arxiv.org/abs/2608.13181)|null|
+|**2026-08-12**|**Embedding Stabilizer Codes and Leakage Correction in Multilevel Quantum Systems**|Ali Abu-Nada et.al.|[2608.12450](http://arxiv.org/abs/2608.12450)|null|
 |**2026-08-12**|**Do Not Let CNOTs Overwhelm the Decoder: Scheduling Transversal Gates for Fast FTQC**|Shota Ikari et.al.|[2608.11719](http://arxiv.org/abs/2608.11719)|null|
 |**2026-08-12**|**Efficient Quantum Modular Reduction: Crandall reduction and its Fault-tolerant resource analysis**|Changyeol Lee et.al.|[2608.11563](http://arxiv.org/abs/2608.11563)|null|
 |**2026-08-12**|**Trapping Sets of Detector Error Models**|Michele Pacenti et.al.|[2608.11516](http://arxiv.org/abs/2608.11516)|null|

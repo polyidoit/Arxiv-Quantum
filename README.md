@@ -2268,6 +2268,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Small-world structure of quantum computer hardware**|S. J. da Silva Junior et.al.|[2608.13855](http://arxiv.org/abs/2608.13855)|null|
 |**2026-08-12**|**Pulse Engineering of Quantum Many-Body Dynamics: Emergent Scar States, Entanglement, and Nonstabilizerness**|Prasant Mallik et.al.|[2608.12559](http://arxiv.org/abs/2608.12559)|null|
 |**2026-08-12**|**Conditional dependence and Scrooge ensembles in shallow random quantum circuits**|Yinchen Liu et.al.|[2608.12255](http://arxiv.org/abs/2608.12255)|null|
 |**2026-08-12**|**The optimization landscape of peaked-circuit generation**|Ilyes Jamoussi et.al.|[2608.11890](http://arxiv.org/abs/2608.11890)|null|
@@ -3169,6 +3170,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-14**|**Exchange-only qubit stabilized by a single-spin qubit**|Irina Heinz et.al.|[2608.14214](http://arxiv.org/abs/2608.14214)|null|
+|**2026-08-14**|**Neural decoders for subsystem many-hypercube codes**|Ryota Nakai et.al.|[2608.13975](http://arxiv.org/abs/2608.13975)|null|
 |**2026-08-13**|**Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology**|Tuomas Laakkonen et.al.|[2608.13543](http://arxiv.org/abs/2608.13543)|null|
 |**2026-08-13**|**Mid-circuit ground-state cooling and ancilla readout in the $\textit{omg}$ architecture**|Sean Brudney et.al.|[2608.13181](http://arxiv.org/abs/2608.13181)|null|
 |**2026-08-12**|**Embedding Stabilizer Codes and Leakage Correction in Multilevel Quantum Systems**|Ali Abu-Nada et.al.|[2608.12450](http://arxiv.org/abs/2608.12450)|null|

@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**Optimal bounds on the classical value of the repeated CHSH game**|Andris Ambainis et.al.|[2608.16439](http://arxiv.org/abs/2608.16439)|null|
+|**2026-08-17**|**Negative quasiprobability trajectories for Bell-diagonal states under local decoherence**|Qing Yu et.al.|[2608.16358](http://arxiv.org/abs/2608.16358)|null|
 |**2026-08-13**|**Delaunay solutions to the fractional Hartree equation with critical growth**|João Henrique Andrade et.al.|[2608.12734](http://arxiv.org/abs/2608.12734)|null|
 |**2026-08-11**|**A Sharp Local-Question Threshold for GHZ-Equatorial Completeness in Four-Player XOR Games**|Ziao Tang et.al.|[2608.11139](http://arxiv.org/abs/2608.11139)|null|
 |**2026-08-11**|**Verifying full quantum network nonlocality in arbitrary configurations by nonlinear Bell-like inequalities**|Shuyuan Yang et.al.|[2608.10972](http://arxiv.org/abs/2608.10972)|null|
@@ -761,6 +763,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**Superposition of dynamics, indefinite causal order, and quantum histories**|Charis Anastopoulos et.al.|[2608.16694](http://arxiv.org/abs/2608.16694)|null|
 |**2026-08-13**|**Quantifying nonclassicality in qubit systems via positive operator-valued measures**|Abdul Sattar Khan et.al.|[2608.13088](http://arxiv.org/abs/2608.13088)|null|
 |**2026-08-12**|**Flux control of measurement back-action and Leggett-Garg correlations in chiral quantum walks**|Paolo Luppi et.al.|[2608.12519](http://arxiv.org/abs/2608.12519)|null|
 |**2026-08-04**|**Observation of quantum nonclassicality without freedom of choice in a minimal causal network**|Ya Xiao et.al.|[2608.03552](http://arxiv.org/abs/2608.03552)|null|
@@ -1642,6 +1645,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**Maximal monotonicity and contraction semigroup for the quantum drift-diffusion (Derrida-Lebowitz-Speer-Spohn) equation**|Daniel Matthes et.al.|[2608.16792](http://arxiv.org/abs/2608.16792)|null|
+|**2026-08-15**|**Equivalence of quantum resources under ergodic dynamics**|Sreemayee Aditya et.al.|[2608.15197](http://arxiv.org/abs/2608.15197)|null|
 |**2026-08-12**|**Climates of Gl 514 b**|Héctor E. Delgado Díaz et.al.|[2608.12457](http://arxiv.org/abs/2608.12457)|null|
 |**2026-08-10**|**ZetaGPT: A Reference Implementation of Positional--Encoding--Free State--Space--Attention Language Models**|Róisín Luo et.al.|[2608.09432](http://arxiv.org/abs/2608.09432)|null|
 |**2026-08-08**|**FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence**|Amir Sabbaghziarani et.al.|[2608.07937](http://arxiv.org/abs/2608.07937)|null|
@@ -2268,11 +2273,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-16**|**Quantum Information in SYK Model**|Chen-Te Ma et.al.|[2608.15589](http://arxiv.org/abs/2608.15589)|null|
+|**2026-08-14**|**Geometric signatures of the onset of many-body ergodicity**|Chris Ventura-Meinersen et.al.|[2608.14818](http://arxiv.org/abs/2608.14818)|null|
 |**2026-08-14**|**Small-world structure of quantum computer hardware**|S. J. da Silva Junior et.al.|[2608.13855](http://arxiv.org/abs/2608.13855)|null|
 |**2026-08-12**|**Pulse Engineering of Quantum Many-Body Dynamics: Emergent Scar States, Entanglement, and Nonstabilizerness**|Prasant Mallik et.al.|[2608.12559](http://arxiv.org/abs/2608.12559)|null|
 |**2026-08-12**|**Conditional dependence and Scrooge ensembles in shallow random quantum circuits**|Yinchen Liu et.al.|[2608.12255](http://arxiv.org/abs/2608.12255)|null|
 |**2026-08-12**|**The optimization landscape of peaked-circuit generation**|Ilyes Jamoussi et.al.|[2608.11890](http://arxiv.org/abs/2608.11890)|null|
-|**2026-08-11**|**Spectrally local geometric response at the onset of many-body quantum chaos**|George Mihailescu et.al.|[2608.11309](http://arxiv.org/abs/2608.11309)|null|
+|**2026-08-16**|**Spectrally local geometric response at the onset of many-body quantum chaos**|George Mihailescu et.al.|[2608.11309](http://arxiv.org/abs/2608.11309)|null|
 |**2026-08-10**|**Quantum Uncomputation of Clean and Dirty Ancilla Qubits**|Chenke Liu et.al.|[2608.09578](http://arxiv.org/abs/2608.09578)|null|
 |**2026-08-07**|**Analytic Spread Complexity from Level Statistics: From Chaos to Integrability**|Pallab Basu et.al.|[2608.07412](http://arxiv.org/abs/2608.07412)|null|
 |**2026-08-06**|**Detecting quantumness with generalized Loschmidt echoes**|Cecilia Cormick et.al.|[2608.06562](http://arxiv.org/abs/2608.06562)|null|
@@ -3170,6 +3177,10 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-16**|**Machine Learning Approaches to Decoding Topological Quantum Codes**|Changwon Lee et.al.|[2608.15760](http://arxiv.org/abs/2608.15760)|null|
+|**2026-08-16**|**Designing Quantum Error Correcting Codes to fit decoders via Reinforcement Learning**|Omer S. Sella et.al.|[2608.15754](http://arxiv.org/abs/2608.15754)|null|
+|**2026-08-15**|**Optimized EIT-Based Multi-Target CNOT^k Gates in Heteronuclear Rydberg Atom Arrays**|Zeyu Zhou et.al.|[2608.15033](http://arxiv.org/abs/2608.15033)|null|
+|**2026-08-15**|**Does a Tool Result Carry More Authority Than Plain Text? Three Prospective Studies of False-Claim Adoption in a Synthetic Assignment Task with Claude Opus 5**|Justin Bronder et.al.|[2608.14992](http://arxiv.org/abs/2608.14992)|null|
 |**2026-08-14**|**Exchange-only qubit stabilized by a single-spin qubit**|Irina Heinz et.al.|[2608.14214](http://arxiv.org/abs/2608.14214)|null|
 |**2026-08-14**|**Neural decoders for subsystem many-hypercube codes**|Ryota Nakai et.al.|[2608.13975](http://arxiv.org/abs/2608.13975)|null|
 |**2026-08-13**|**Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology**|Tuomas Laakkonen et.al.|[2608.13543](http://arxiv.org/abs/2608.13543)|null|

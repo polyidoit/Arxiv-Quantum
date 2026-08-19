@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3156,6 +3156,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-18**|**Computationally Efficient Optimization of Per-Qubit Clifford Deformation for Non-uniform Biased Noise**|Won Joon Yun et.al.|[2608.17870](http://arxiv.org/abs/2608.17870)|null|
+|**2026-08-18**|**Beyond Legal Spacing: A Residual-Aware Characterization of Entangling-Zone Spacing in Neutral-Atom Compilation**|Xinyi Li et.al.|[2608.17331](http://arxiv.org/abs/2608.17331)|null|
 |**2026-08-16**|**Machine Learning Approaches to Decoding Topological Quantum Codes**|Changwon Lee et.al.|[2608.15760](http://arxiv.org/abs/2608.15760)|null|
 |**2026-08-16**|**Designing Quantum Error Correcting Codes to fit decoders via Reinforcement Learning**|Omer S. Sella et.al.|[2608.15754](http://arxiv.org/abs/2608.15754)|null|
 |**2026-08-15**|**Optimized EIT-Based Multi-Target CNOT^k Gates in Heteronuclear Rydberg Atom Arrays**|Zeyu Zhou et.al.|[2608.15033](http://arxiv.org/abs/2608.15033)|null|

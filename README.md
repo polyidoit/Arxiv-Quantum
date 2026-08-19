@@ -1428,6 +1428,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Dynamical protection of quantum steering and fidelity dynamics in double Jaynes-Cummings model**|Koushik Mandal et.al.|[2608.17217](http://arxiv.org/abs/2608.17217)|null|
 |**2026-08-11**|**Quantum steering is equivalent to state-preserving conditional expectations**|Lauritz van Luijk et.al.|[2608.10783](http://arxiv.org/abs/2608.10783)|null|
 |**2026-08-04**|**Intertemporal Preference Steering in Qwen3 via Contrastive Activation Addition**|Michal Mráz et.al.|[2608.03892](http://arxiv.org/abs/2608.03892)|null|
 |**2026-07-30**|**Quantum Steering and Nonlocal Correlations Between Non-Interacting Delocalized Electrons Under Rashba Spin-Orbit Interaction**|Zakaria Bouafia et.al.|[2607.28450](http://arxiv.org/abs/2607.28450)|null|
@@ -2273,6 +2274,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**Lie-Algebraic Classical Simulation of Bosonic Systems Beyond Gaussian Dynamics**|Adelina Bärligea et.al.|[2608.17094](http://arxiv.org/abs/2608.17094)|null|
 |**2026-08-16**|**Quantum Information in SYK Model**|Chen-Te Ma et.al.|[2608.15589](http://arxiv.org/abs/2608.15589)|null|
 |**2026-08-14**|**Geometric signatures of the onset of many-body ergodicity**|Chris Ventura-Meinersen et.al.|[2608.14818](http://arxiv.org/abs/2608.14818)|null|
 |**2026-08-14**|**Small-world structure of quantum computer hardware**|S. J. da Silva Junior et.al.|[2608.13855](http://arxiv.org/abs/2608.13855)|null|
@@ -3177,8 +3179,15 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-18**|**Ultrafast and high resolution spatial light modulation for cold atoms**|Alexander Dennisovich Deters et.al.|[2608.18071](http://arxiv.org/abs/2608.18071)|null|
+|**2026-08-18**|**Where Atom Loss Lands Matters: Decoder-Aware Risk Deposition in Neutral-Atom QEC**|Xinyi Li et.al.|[2608.17913](http://arxiv.org/abs/2608.17913)|null|
 |**2026-08-18**|**Computationally Efficient Optimization of Per-Qubit Clifford Deformation for Non-uniform Biased Noise**|Won Joon Yun et.al.|[2608.17870](http://arxiv.org/abs/2608.17870)|null|
 |**2026-08-18**|**Beyond Legal Spacing: A Residual-Aware Characterization of Entangling-Zone Spacing in Neutral-Atom Compilation**|Xinyi Li et.al.|[2608.17331](http://arxiv.org/abs/2608.17331)|null|
+|**2026-08-17**|**Gate-level Implementation and Resource Analysis of Lackadaisical Quantum Walk Search**|Amit Saha et.al.|[2608.17136](http://arxiv.org/abs/2608.17136)|null|
+|**2026-08-17**|**Entanglement assisted quantum $(r,δ)$ -locally recoverable codes**|Carlos Galindo et.al.|[2608.17118](http://arxiv.org/abs/2608.17118)|null|
+|**2026-08-17**|**Hardness of approximation for minimum-weight decoding of two-dimensional topological quantum codes**|Louay Bazzi et.al.|[2608.17109](http://arxiv.org/abs/2608.17109)|null|
+|**2026-08-17**|**Hardware-Aware Compilation and Execution of Bivariate Bicycle Codes on Neutral-Atom Systems**|Jason Ludmir et.al.|[2608.17023](http://arxiv.org/abs/2608.17023)|null|
+|**2026-08-17**|**Non-CSS Quantum Code Embedding**|Andrew C. Yuan et.al.|[2608.16995](http://arxiv.org/abs/2608.16995)|null|
 |**2026-08-16**|**Machine Learning Approaches to Decoding Topological Quantum Codes**|Changwon Lee et.al.|[2608.15760](http://arxiv.org/abs/2608.15760)|null|
 |**2026-08-16**|**Designing Quantum Error Correcting Codes to fit decoders via Reinforcement Learning**|Omer S. Sella et.al.|[2608.15754](http://arxiv.org/abs/2608.15754)|null|
 |**2026-08-15**|**Optimized EIT-Based Multi-Target CNOT^k Gates in Heteronuclear Rydberg Atom Arrays**|Zeyu Zhou et.al.|[2608.15033](http://arxiv.org/abs/2608.15033)|null|

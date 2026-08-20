@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**The exact price of local realism in CHSH experiments: a measurement-dependence-detection trade-off surface, a moiré phase-locking mechanism that saturates it, and an unmeasured fringe in the fourfold coincidence sum**|Aaron Alai et.al.|[2608.18886](http://arxiv.org/abs/2608.18886)|null|
 |**2026-08-17**|**Optimal bounds on the classical value of the repeated CHSH game**|Andris Ambainis et.al.|[2608.16439](http://arxiv.org/abs/2608.16439)|null|
 |**2026-08-17**|**Negative quasiprobability trajectories for Bell-diagonal states under local decoherence**|Qing Yu et.al.|[2608.16358](http://arxiv.org/abs/2608.16358)|null|
 |**2026-08-13**|**Delaunay solutions to the fractional Hartree equation with critical growth**|João Henrique Andrade et.al.|[2608.12734](http://arxiv.org/abs/2608.12734)|null|
@@ -1646,6 +1647,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Proving Lehner's formulas via RDT -- indefinite and asymmetric scenarios**|Mihailo Stojnic et.al.|[2608.18990](http://arxiv.org/abs/2608.18990)|null|
+|**2026-08-19**|**Time-Decay Estimates for Two-Dimensional Fourth-Order Schrödinger Operators with Threshold Singularities**|Zijun Wan et.al.|[2608.18916](http://arxiv.org/abs/2608.18916)|null|
+|**2026-08-11**|**Flux-form spatiotemporal neural operators for coarse-grained dynamics of multiscale PDEs**|Junfeng Chen et.al.|[2608.18148](http://arxiv.org/abs/2608.18148)|null|
 |**2026-08-17**|**Maximal monotonicity and contraction semigroup for the quantum drift-diffusion (Derrida-Lebowitz-Speer-Spohn) equation**|Daniel Matthes et.al.|[2608.16792](http://arxiv.org/abs/2608.16792)|null|
 |**2026-08-15**|**Equivalence of quantum resources under ergodic dynamics**|Sreemayee Aditya et.al.|[2608.15197](http://arxiv.org/abs/2608.15197)|null|
 |**2026-08-12**|**Climates of Gl 514 b**|Héctor E. Delgado Díaz et.al.|[2608.12457](http://arxiv.org/abs/2608.12457)|null|
@@ -2274,6 +2278,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Classical and Quantum Chaos from Foundations to Holography**|Bhasker Shukla et.al.|[2608.19131](http://arxiv.org/abs/2608.19131)|null|
 |**2026-08-17**|**Lie-Algebraic Classical Simulation of Bosonic Systems Beyond Gaussian Dynamics**|Adelina Bärligea et.al.|[2608.17094](http://arxiv.org/abs/2608.17094)|null|
 |**2026-08-16**|**Quantum Information in SYK Model**|Chen-Te Ma et.al.|[2608.15589](http://arxiv.org/abs/2608.15589)|null|
 |**2026-08-14**|**Geometric signatures of the onset of many-body ergodicity**|Chris Ventura-Meinersen et.al.|[2608.14818](http://arxiv.org/abs/2608.14818)|null|
@@ -3179,6 +3184,10 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-19**|**Subsystem Symmetries and Fracton Models in Quantum Error Correction**|Giovanni Canossa et.al.|[2608.18961](http://arxiv.org/abs/2608.18961)|null|
+|**2026-08-19**|**AlphaClifford: Efficient Clifford Synthesis and Transpilation with Model-based RL**|Daniele Lizzio Bosco et.al.|[2608.18946](http://arxiv.org/abs/2608.18946)|null|
+|**2026-08-19**|**Integer Linear Programming Decoder for Abelian and Non-Abelian Topological Codes**|Dian Jing et.al.|[2608.18512](http://arxiv.org/abs/2608.18512)|null|
+|**2026-08-19**|**Entropic Rigidity in Quantum Memories: How Geometry and Algebra Control the Onset of Degeneracy Corrections**|Yixin Zhao et.al.|[2608.18420](http://arxiv.org/abs/2608.18420)|null|
 |**2026-08-18**|**Ultrafast and high resolution spatial light modulation for cold atoms**|Alexander Dennisovich Deters et.al.|[2608.18071](http://arxiv.org/abs/2608.18071)|null|
 |**2026-08-18**|**Where Atom Loss Lands Matters: Decoder-Aware Risk Deposition in Neutral-Atom QEC**|Xinyi Li et.al.|[2608.17913](http://arxiv.org/abs/2608.17913)|null|
 |**2026-08-18**|**Computationally Efficient Optimization of Per-Qubit Clifford Deformation for Non-uniform Biased Noise**|Won Joon Yun et.al.|[2608.17870](http://arxiv.org/abs/2608.17870)|null|

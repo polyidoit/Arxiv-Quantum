@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Hyperon-antihyperon system in electron-positron annihilation as quantum probes for temperature estimation with local and global dephasing**|Anass Hminat et.al.|[2608.19344](http://arxiv.org/abs/2608.19344)|null|
 |**2026-08-19**|**The exact price of local realism in CHSH experiments: a measurement-dependence-detection trade-off surface, a moiré phase-locking mechanism that saturates it, and an unmeasured fringe in the fourfold coincidence sum**|Aaron Alai et.al.|[2608.18886](http://arxiv.org/abs/2608.18886)|null|
 |**2026-08-17**|**Optimal bounds on the classical value of the repeated CHSH game**|Andris Ambainis et.al.|[2608.16439](http://arxiv.org/abs/2608.16439)|null|
 |**2026-08-17**|**Negative quasiprobability trajectories for Bell-diagonal states under local decoherence**|Qing Yu et.al.|[2608.16358](http://arxiv.org/abs/2608.16358)|null|
@@ -1107,6 +1108,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**Resource-Efficient Bio-Molecular Docking on a NISQ-era Digital Quantum Computer**|Tianqi Chen et.al.|[2608.19868](http://arxiv.org/abs/2608.19868)|null|
 |**2026-08-05**|**Maximum Edge Open Packing in Permutation, Interval, and Well-Partitioned Chordal Graphs**|Gautam K. Das et.al.|[2608.05310](http://arxiv.org/abs/2608.05310)|null|
 |**2026-08-04**|**Quantum Contextuality and Entanglement-Free Grover Search in a Trapped-Ion Optical Qudit**|Tarun Dutta et.al.|[2608.04128](http://arxiv.org/abs/2608.04128)|null|
 |**2026-08-04**|**Characterizing pairwise swapping capabilities of dense coding channels**|Abhishek Muhuri et.al.|[2608.03184](http://arxiv.org/abs/2608.03184)|null|
@@ -2278,6 +2280,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**The ebbs and flows of quantum learning and sensing**|Matias Karjula et.al.|[2608.20155](http://arxiv.org/abs/2608.20155)|null|
+|**2026-08-19**|**Quantum chaos and late-time equipartition of symmetry-resolved Krylov complexity**|Jayashish Das et.al.|[2608.19346](http://arxiv.org/abs/2608.19346)|null|
 |**2026-08-19**|**Classical and Quantum Chaos from Foundations to Holography**|Bhasker Shukla et.al.|[2608.19131](http://arxiv.org/abs/2608.19131)|null|
 |**2026-08-17**|**Lie-Algebraic Classical Simulation of Bosonic Systems Beyond Gaussian Dynamics**|Adelina Bärligea et.al.|[2608.17094](http://arxiv.org/abs/2608.17094)|null|
 |**2026-08-16**|**Quantum Information in SYK Model**|Chen-Te Ma et.al.|[2608.15589](http://arxiv.org/abs/2608.15589)|null|
@@ -3184,6 +3188,10 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-20**|**Architecture and Compilation Co-Design for High-Rate Quantum Product Codes on Neutral Atom Arrays**|Adrian Liu et.al.|[2608.20164](http://arxiv.org/abs/2608.20164)|null|
+|**2026-08-20**|**Disassembling qLDPC codes for depth-optimal parity-check circuits**|Minh T. P. Nguyen et.al.|[2608.19917](http://arxiv.org/abs/2608.19917)|null|
+|**2026-08-20**|**High fidelity control of superconducting qubits with optical transmitted signal**|Yu-Huai Li et.al.|[2608.19602](http://arxiv.org/abs/2608.19602)|null|
+|**2026-08-19**|**Rethinking Quantum Circuits**|Steven Rayan et.al.|[2608.19370](http://arxiv.org/abs/2608.19370)|null|
 |**2026-08-19**|**Subsystem Symmetries and Fracton Models in Quantum Error Correction**|Giovanni Canossa et.al.|[2608.18961](http://arxiv.org/abs/2608.18961)|null|
 |**2026-08-19**|**AlphaClifford: Efficient Clifford Synthesis and Transpilation with Model-based RL**|Daniele Lizzio Bosco et.al.|[2608.18946](http://arxiv.org/abs/2608.18946)|null|
 |**2026-08-19**|**Integer Linear Programming Decoder for Abelian and Non-Abelian Topological Codes**|Dian Jing et.al.|[2608.18512](http://arxiv.org/abs/2608.18512)|null|

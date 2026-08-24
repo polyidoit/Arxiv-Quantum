@@ -7,8 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Activate genuine nonlocality from distinguishable sets in tripartite systems**|Hui-Juan Zuo et.al.|[2608.20741](http://arxiv.org/abs/2608.20741)|null|
+|**2026-08-21**|**Nonlocal correlation in quantum network under relativistic motion**|Si-Han Li et.al.|[2608.20650](http://arxiv.org/abs/2608.20650)|null|
 |**2026-08-19**|**Hyperon-antihyperon system in electron-positron annihilation as quantum probes for temperature estimation with local and global dephasing**|Anass Hminat et.al.|[2608.19344](http://arxiv.org/abs/2608.19344)|null|
-|**2026-08-19**|**The exact price of local realism in CHSH experiments: a measurement-dependence-detection trade-off surface, a moiré phase-locking mechanism that saturates it, and an unmeasured fringe in the fourfold coincidence sum**|Aaron Alai et.al.|[2608.18886](http://arxiv.org/abs/2608.18886)|null|
+|**2026-08-21**|**The exact price of local realism in CHSH experiments: a measurement-dependence-detection trade-off surface, a moiré phase-locking mechanism that saturates it, and an unmeasured fringe in the fourfold coincidence sum**|Aaron Alai et.al.|[2608.18886](http://arxiv.org/abs/2608.18886)|null|
 |**2026-08-17**|**Optimal bounds on the classical value of the repeated CHSH game**|Andris Ambainis et.al.|[2608.16439](http://arxiv.org/abs/2608.16439)|null|
 |**2026-08-17**|**Negative quasiprobability trajectories for Bell-diagonal states under local decoherence**|Qing Yu et.al.|[2608.16358](http://arxiv.org/abs/2608.16358)|null|
 |**2026-08-13**|**Delaunay solutions to the fractional Hartree equation with critical growth**|João Henrique Andrade et.al.|[2608.12734](http://arxiv.org/abs/2608.12734)|null|
@@ -1632,6 +1634,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Two-fluid effects on the nonlinear dynamics of RFP relaxation**|Wentan Yan et.al.|[2608.20774](http://arxiv.org/abs/2608.20774)|null|
 |**2026-08-19**|**Proving Lehner's formulas via RDT -- indefinite and asymmetric scenarios**|Mihailo Stojnic et.al.|[2608.18990](http://arxiv.org/abs/2608.18990)|null|
 |**2026-08-19**|**Time-Decay Estimates for Two-Dimensional Fourth-Order Schrödinger Operators with Threshold Singularities**|Zijun Wan et.al.|[2608.18916](http://arxiv.org/abs/2608.18916)|null|
 |**2026-08-11**|**Flux-form spatiotemporal neural operators for coarse-grained dynamics of multiscale PDEs**|Junfeng Chen et.al.|[2608.18148](http://arxiv.org/abs/2608.18148)|null|
@@ -2261,6 +2264,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Random quantum circuits, chaos and quantum thermalization**|J. T. Chalker et.al.|[2608.21303](http://arxiv.org/abs/2608.21303)|null|
 |**2026-08-20**|**The ebbs and flows of quantum learning and sensing**|Matias Karjula et.al.|[2608.20155](http://arxiv.org/abs/2608.20155)|null|
 |**2026-08-19**|**Quantum chaos and late-time equipartition of symmetry-resolved Krylov complexity**|Jayashish Das et.al.|[2608.19346](http://arxiv.org/abs/2608.19346)|null|
 |**2026-08-19**|**Classical and Quantum Chaos from Foundations to Holography**|Bhasker Shukla et.al.|[2608.19131](http://arxiv.org/abs/2608.19131)|null|
@@ -3167,6 +3171,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-21**|**A Classification of Translation-Invariant Quantum Codes in Any Dimension**|Andrew Li et.al.|[2608.20981](http://arxiv.org/abs/2608.20981)|null|
+|**2026-08-21**|**Continuous-angle logical rotations in the Steane code**|Eric Huang et.al.|[2608.20676](http://arxiv.org/abs/2608.20676)|null|
+|**2026-08-20**|**To Scale Up or To Scale Out: Evaluating Space-Time Costs of Compiled Logical Circuits on Modular Superconducting Quantum Processors**|Nikiforos Paraskevopoulos et.al.|[2608.20462](http://arxiv.org/abs/2608.20462)|null|
+|**2026-08-20**|**Practical Error Suppression and Mitigation for Reliable Quantum Computing**|Han-Ze Li et.al.|[2608.20453](http://arxiv.org/abs/2608.20453)|null|
 |**2026-08-20**|**Architecture and Compilation Co-Design for High-Rate Quantum Product Codes on Neutral Atom Arrays**|Adrian Liu et.al.|[2608.20164](http://arxiv.org/abs/2608.20164)|null|
 |**2026-08-20**|**Disassembling qLDPC codes for depth-optimal parity-check circuits**|Minh T. P. Nguyen et.al.|[2608.19917](http://arxiv.org/abs/2608.19917)|null|
 |**2026-08-20**|**High fidelity control of superconducting qubits with optical transmitted signal**|Yu-Huai Li et.al.|[2608.19602](http://arxiv.org/abs/2608.19602)|null|

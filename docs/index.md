@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Dark-Mode Control of Contrasting Entanglement and Bell Nonlocality between Mechanical Oscillators**|Souvik Agasti et.al.|[2608.23113](http://arxiv.org/abs/2608.23113)|null|
+|**2026-08-23**|**Robust Quantum Key Distribution Arbitrarily Close to Local Correlations**|Hari Krishnan SV et.al.|[2608.22603](http://arxiv.org/abs/2608.22603)|null|
+|**2026-08-22**|**Synchronization induces Bell violations in a model of walking droplets**|Álvaro G. López et.al.|[2608.21915](http://arxiv.org/abs/2608.21915)|null|
 |**2026-08-21**|**Activate genuine nonlocality from distinguishable sets in tripartite systems**|Hui-Juan Zuo et.al.|[2608.20741](http://arxiv.org/abs/2608.20741)|null|
 |**2026-08-21**|**Nonlocal correlation in quantum network under relativistic motion**|Si-Han Li et.al.|[2608.20650](http://arxiv.org/abs/2608.20650)|null|
 |**2026-08-19**|**Hyperon-antihyperon system in electron-positron annihilation as quantum probes for temperature estimation with local and global dephasing**|Anass Hminat et.al.|[2608.19344](http://arxiv.org/abs/2608.19344)|null|
@@ -756,6 +759,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Relational Quantum Causal Processes toward Quantum Gravity with Controlled Einstein Response**|Yipeng Xu et.al.|[2608.23117](http://arxiv.org/abs/2608.23117)|null|
 |**2026-08-17**|**Superposition of dynamics, indefinite causal order, and quantum histories**|Charis Anastopoulos et.al.|[2608.16694](http://arxiv.org/abs/2608.16694)|null|
 |**2026-08-13**|**Quantifying nonclassicality in qubit systems via positive operator-valued measures**|Abdul Sattar Khan et.al.|[2608.13088](http://arxiv.org/abs/2608.13088)|null|
 |**2026-08-12**|**Flux control of measurement back-action and Leggett-Garg correlations in chiral quantum walks**|Paolo Luppi et.al.|[2608.12519](http://arxiv.org/abs/2608.12519)|null|
@@ -1097,6 +1101,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Ab initio anatomy of quadrupole correlations in $^{16}$O and $^{20}$ Ne**|Chenrong Ding et.al.|[2608.22699](http://arxiv.org/abs/2608.22699)|null|
+|**2026-08-22**|**Support $τ$ -tilting modules over trivial extensions of hereditary algebras**|Rong Rong et.al.|[2608.22011](http://arxiv.org/abs/2608.22011)|null|
+|**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804](http://arxiv.org/abs/2608.21804)|null|
 |**2026-08-20**|**Resource-Efficient Bio-Molecular Docking on a NISQ-era Digital Quantum Computer**|Tianqi Chen et.al.|[2608.19868](http://arxiv.org/abs/2608.19868)|null|
 |**2026-08-05**|**Maximum Edge Open Packing in Permutation, Interval, and Well-Partitioned Chordal Graphs**|Gautam K. Das et.al.|[2608.05310](http://arxiv.org/abs/2608.05310)|null|
 |**2026-08-04**|**Quantum Contextuality and Entanglement-Free Grover Search in a Trapped-Ion Optical Qudit**|Tarun Dutta et.al.|[2608.04128](http://arxiv.org/abs/2608.04128)|null|
@@ -1634,6 +1641,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Resistive Switching and Neuromorphic Computing in Metal/Nb:SrTiO $_3$ : Mechanisms, Interface Physics, and Charge Transport**|Christopher Broyles et.al.|[2608.23430](http://arxiv.org/abs/2608.23430)|null|
+|**2026-08-23**|**Aligned Alone, Misaligned Together: Forecasting Adversarial Capture in LLM Agent Populations**|Isotta Magistrali et.al.|[2608.22444](http://arxiv.org/abs/2608.22444)|null|
 |**2026-08-21**|**Two-fluid effects on the nonlinear dynamics of RFP relaxation**|Wentan Yan et.al.|[2608.20774](http://arxiv.org/abs/2608.20774)|null|
 |**2026-08-19**|**Proving Lehner's formulas via RDT -- indefinite and asymmetric scenarios**|Mihailo Stojnic et.al.|[2608.18990](http://arxiv.org/abs/2608.18990)|null|
 |**2026-08-19**|**Time-Decay Estimates for Two-Dimensional Fourth-Order Schrödinger Operators with Threshold Singularities**|Zijun Wan et.al.|[2608.18916](http://arxiv.org/abs/2608.18916)|null|
@@ -2264,6 +2273,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics**|Pietro Pacchioni et.al.|[2608.23557](http://arxiv.org/abs/2608.23557)|null|
+|**2026-08-23**|**Time reversal of complex evolution on a quantum computer**|Mahdi Kourehpaz et.al.|[2608.22489](http://arxiv.org/abs/2608.22489)|null|
 |**2026-08-21**|**Random quantum circuits, chaos and quantum thermalization**|J. T. Chalker et.al.|[2608.21303](http://arxiv.org/abs/2608.21303)|null|
 |**2026-08-20**|**The ebbs and flows of quantum learning and sensing**|Matias Karjula et.al.|[2608.20155](http://arxiv.org/abs/2608.20155)|null|
 |**2026-08-19**|**Quantum chaos and late-time equipartition of symmetry-resolved Krylov complexity**|Jayashish Das et.al.|[2608.19346](http://arxiv.org/abs/2608.19346)|null|
@@ -3171,6 +3182,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-24**|**Satisfying Quantum Codes: Physics-Informed and Hardware-Aware Code Design with SAT Solvers**|Ben DalFavero et.al.|[2608.23460](http://arxiv.org/abs/2608.23460)|null|
+|**2026-08-24**|**Taming Spacetime Overhead and Design Complexity in Distributed Fault-Tolerant Superconducting Quantum Computation**|Qinjing Yu et.al.|[2608.23159](http://arxiv.org/abs/2608.23159)|null|
+|**2026-08-24**|**Spatio-temporal Path Optimization for Stabilizer-Code-Protected Quantum Networks**|Yuanbo Zhang et.al.|[2608.22766](http://arxiv.org/abs/2608.22766)|null|
+|**2026-08-23**|**Wishart Matrices and Quantum Geometry: Foundations and Applications in Quantum Information**|Noémie C. Combe et.al.|[2608.22604](http://arxiv.org/abs/2608.22604)|null|
+|**2026-08-22**|**Surface-Code Quantum Error Correction for Molecular Tweezer Arrays: Encoding, Layout, and Correlated Noise**|Niharika Verma et.al.|[2608.21961](http://arxiv.org/abs/2608.21961)|null|
+|**2026-08-22**|**Quantum Locally Repairable Codes from Negacyclic and Repeated-Root Cyclic Codes over Small Fields**|Ruipan Yang et.al.|[2608.21852](http://arxiv.org/abs/2608.21852)|null|
+|**2026-08-22**|**Noise-Symmetry Optimization of Quantum Error-Corrected Metrology**|Shuyun Su et.al.|[2608.21842](http://arxiv.org/abs/2608.21842)|null|
 |**2026-08-21**|**A Classification of Translation-Invariant Quantum Codes in Any Dimension**|Andrew Li et.al.|[2608.20981](http://arxiv.org/abs/2608.20981)|null|
 |**2026-08-21**|**Continuous-angle logical rotations in the Steane code**|Eric Huang et.al.|[2608.20676](http://arxiv.org/abs/2608.20676)|null|
 |**2026-08-20**|**To Scale Up or To Scale Out: Evaluating Space-Time Costs of Compiled Logical Circuits on Modular Superconducting Quantum Processors**|Nikiforos Paraskevopoulos et.al.|[2608.20462](http://arxiv.org/abs/2608.20462)|null|

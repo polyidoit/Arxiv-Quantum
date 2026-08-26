@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Cosmic muon arrival directions as a source of entropy**|Deepak Samuel et.al.|[2608.24729](http://arxiv.org/abs/2608.24729)|null|
 |**2026-08-24**|**Dark-Mode Control of Contrasting Entanglement and Bell Nonlocality between Mechanical Oscillators**|Souvik Agasti et.al.|[2608.23113](http://arxiv.org/abs/2608.23113)|null|
 |**2026-08-23**|**Robust Quantum Key Distribution Arbitrarily Close to Local Correlations**|Hari Krishnan SV et.al.|[2608.22603](http://arxiv.org/abs/2608.22603)|null|
 |**2026-08-22**|**Synchronization induces Bell violations in a model of walking droplets**|Álvaro G. López et.al.|[2608.21915](http://arxiv.org/abs/2608.21915)|null|
@@ -1658,6 +1659,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Distributed Resource Theory of Entanglement and Magic**|Xiao Yuan et.al.|[2608.24299](http://arxiv.org/abs/2608.24299)|null|
 |**2026-08-24**|**Resistive Switching and Neuromorphic Computing in Metal/Nb:SrTiO $_3$ : Mechanisms, Interface Physics, and Charge Transport**|Christopher Broyles et.al.|[2608.23430](http://arxiv.org/abs/2608.23430)|null|
 |**2026-08-23**|**Aligned Alone, Misaligned Together: Forecasting Adversarial Capture in LLM Agent Populations**|Isotta Magistrali et.al.|[2608.22444](http://arxiv.org/abs/2608.22444)|null|
 |**2026-08-21**|**Two-fluid effects on the nonlinear dynamics of RFP relaxation**|Wentan Yan et.al.|[2608.20774](http://arxiv.org/abs/2608.20774)|null|
@@ -3203,9 +3205,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-25**|**Scalable Lindblad Noise Learning via Stochastic Tensor-Network Simulation**|Alejandro R. Ramos Ramos et.al.|[2608.24668](http://arxiv.org/abs/2608.24668)|null|
+|**2026-08-25**|**Improved Quantum Codes with Transversal T Gates**|Adam Wills et.al.|[2608.24000](http://arxiv.org/abs/2608.24000)|null|
 |**2026-08-24**|**Satisfying Quantum Codes: Physics-Informed and Hardware-Aware Code Design with SAT Solvers**|Ben DalFavero et.al.|[2608.23460](http://arxiv.org/abs/2608.23460)|null|
 |**2026-08-24**|**Taming Spacetime Overhead and Design Complexity in Distributed Fault-Tolerant Superconducting Quantum Computation**|Qinjing Yu et.al.|[2608.23159](http://arxiv.org/abs/2608.23159)|null|
-|**2026-08-24**|**Spatio-temporal Path Optimization for Stabilizer-Code-Protected Quantum Networks**|Yuanbo Zhang et.al.|[2608.22766](http://arxiv.org/abs/2608.22766)|null|
+|**2026-08-25**|**Spatio-temporal Path Optimization for Stabilizer-Code-Protected Quantum Networks**|Yuanbo Zhang et.al.|[2608.22766](http://arxiv.org/abs/2608.22766)|null|
 |**2026-08-23**|**Wishart Matrices and Quantum Geometry: Foundations and Applications in Quantum Information**|Noémie C. Combe et.al.|[2608.22604](http://arxiv.org/abs/2608.22604)|null|
 |**2026-08-22**|**Surface-Code Quantum Error Correction for Molecular Tweezer Arrays: Encoding, Layout, and Correlated Noise**|Niharika Verma et.al.|[2608.21961](http://arxiv.org/abs/2608.21961)|null|
 |**2026-08-22**|**Quantum Locally Repairable Codes from Negacyclic and Repeated-Root Cyclic Codes over Small Fields**|Ruipan Yang et.al.|[2608.21852](http://arxiv.org/abs/2608.21852)|null|

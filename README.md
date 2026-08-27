@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Observing Bell Inequality Violation Beyond the Qubit Bound in a Spinor Bose--Einstein Condensate**|Wenxin Xu et.al.|[2608.24981](http://arxiv.org/abs/2608.24981)|null|
 |**2026-08-25**|**Cosmic muon arrival directions as a source of entropy**|Deepak Samuel et.al.|[2608.24729](http://arxiv.org/abs/2608.24729)|null|
 |**2026-08-24**|**Dark-Mode Control of Contrasting Entanglement and Bell Nonlocality between Mechanical Oscillators**|Souvik Agasti et.al.|[2608.23113](http://arxiv.org/abs/2608.23113)|null|
 |**2026-08-23**|**Robust Quantum Key Distribution Arbitrarily Close to Local Correlations**|Hari Krishnan SV et.al.|[2608.22603](http://arxiv.org/abs/2608.22603)|null|
@@ -771,7 +772,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-24**|**Relational Quantum Causal Processes toward Quantum Gravity with Controlled Einstein Response**|Yipeng Xu et.al.|[2608.23117](http://arxiv.org/abs/2608.23117)|null|
+|**2026-08-25**|**Relational Quantum Causal Processes toward Quantum Gravity with Controlled Einstein Response**|Yipeng Xu et.al.|[2608.23117](http://arxiv.org/abs/2608.23117)|null|
 |**2026-08-17**|**Superposition of dynamics, indefinite causal order, and quantum histories**|Charis Anastopoulos et.al.|[2608.16694](http://arxiv.org/abs/2608.16694)|null|
 |**2026-08-13**|**Quantifying nonclassicality in qubit systems via positive operator-valued measures**|Abdul Sattar Khan et.al.|[2608.13088](http://arxiv.org/abs/2608.13088)|null|
 |**2026-08-12**|**Flux control of measurement back-action and Leggett-Garg correlations in chiral quantum walks**|Paolo Luppi et.al.|[2608.12519](http://arxiv.org/abs/2608.12519)|null|
@@ -1115,6 +1116,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Kochen-Specker Configurations from Grids on Dual Quadrics**|Giuseppe Favacchio et.al.|[2608.25008](http://arxiv.org/abs/2608.25008)|null|
 |**2026-08-24**|**Ab initio anatomy of quadrupole correlations in $^{16}$O and $^{20}$ Ne**|Chenrong Ding et.al.|[2608.22699](http://arxiv.org/abs/2608.22699)|null|
 |**2026-08-22**|**Support $τ$ -tilting modules over trivial extensions of hereditary algebras**|Rong Rong et.al.|[2608.22011](http://arxiv.org/abs/2608.22011)|null|
 |**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804](http://arxiv.org/abs/2608.21804)|null|
@@ -2294,6 +2296,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**Superextensive learning in quantum reservoirs at the onset of information scrambling**|Jonas Freiheit et.al.|[2608.25511](http://arxiv.org/abs/2608.25511)|null|
+|**2026-08-25**|**Chaos in Yang-Mills**|Barel Skuratovsky et.al.|[2608.25187](http://arxiv.org/abs/2608.25187)|null|
 |**2026-08-24**|**Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics**|Pietro Pacchioni et.al.|[2608.23557](http://arxiv.org/abs/2608.23557)|null|
 |**2026-08-23**|**Time reversal of complex evolution on a quantum computer**|Mahdi Kourehpaz et.al.|[2608.22489](http://arxiv.org/abs/2608.22489)|null|
 |**2026-08-21**|**Random quantum circuits, chaos and quantum thermalization**|J. T. Chalker et.al.|[2608.21303](http://arxiv.org/abs/2608.21303)|null|
@@ -3205,7 +3209,13 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
-|**2026-08-25**|**Scalable Lindblad Noise Learning via Stochastic Tensor-Network Simulation**|Alejandro R. Ramos Ramos et.al.|[2608.24668](http://arxiv.org/abs/2608.24668)|null|
+|**2026-08-26**|**Fault-tolerant $|\sqrt{ \mathrm{T} }\rangle$ state preparation and injection for more efficient fine-grained quantum circuit synthesis**|Berat Yenilen et.al.|[2608.25797](http://arxiv.org/abs/2608.25797)|null|
+|**2026-08-26**|**Certified decoding of quantum LDPC codes**|Ragavi Krishnamoorthy et.al.|[2608.25545](http://arxiv.org/abs/2608.25545)|null|
+|**2026-08-26**|**High-Fidelity Entangled States in a Connectivity-Four Fluxonium Quantum Processor**|J. Schirk et.al.|[2608.25503](http://arxiv.org/abs/2608.25503)|null|
+|**2026-08-26**|**Low-leakage superconducting-qubit measurement with sub-100-ns total duration**|Peter A. Spring et.al.|[2608.25484](http://arxiv.org/abs/2608.25484)|null|
+|**2026-08-26**|**Affine-Profile Stabilizer Thresholds for Magic in Codeword-Stabilized Quantum Codes**|Li-Yi Hsu et.al.|[2608.25414](http://arxiv.org/abs/2608.25414)|null|
+|**2026-08-25**|**Static Detection of Post-Quantum Cryptographic Algorithms in Stripped Binaries for Digital Forensic Examination and Migration Assurance**|Muhammad Shaheer Bin Junaid et.al.|[2608.25122](http://arxiv.org/abs/2608.25122)|null|
+|**2026-08-26**|**Scalable Lindblad Noise Learning via Stochastic Tensor-Network Simulation**|Alejandro R. Ramos Ramos et.al.|[2608.24668](http://arxiv.org/abs/2608.24668)|null|
 |**2026-08-25**|**Improved Quantum Codes with Transversal T Gates**|Adam Wills et.al.|[2608.24000](http://arxiv.org/abs/2608.24000)|null|
 |**2026-08-24**|**Satisfying Quantum Codes: Physics-Informed and Hardware-Aware Code Design with SAT Solvers**|Ben DalFavero et.al.|[2608.23460](http://arxiv.org/abs/2608.23460)|null|
 |**2026-08-24**|**Taming Spacetime Overhead and Design Complexity in Distributed Fault-Tolerant Superconducting Quantum Computation**|Qinjing Yu et.al.|[2608.23159](http://arxiv.org/abs/2608.23159)|null|

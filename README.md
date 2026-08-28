@@ -772,7 +772,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-25**|**Relational Quantum Causal Processes toward Quantum Gravity with Controlled Einstein Response**|Yipeng Xu et.al.|[2608.23117](http://arxiv.org/abs/2608.23117)|null|
+|**2026-08-27**|**Relational Quantum Causal Processes toward Quantum Gravity with Controlled Einstein Response**|Yipeng Xu et.al.|[2608.23117](http://arxiv.org/abs/2608.23117)|null|
 |**2026-08-17**|**Superposition of dynamics, indefinite causal order, and quantum histories**|Charis Anastopoulos et.al.|[2608.16694](http://arxiv.org/abs/2608.16694)|null|
 |**2026-08-13**|**Quantifying nonclassicality in qubit systems via positive operator-valued measures**|Abdul Sattar Khan et.al.|[2608.13088](http://arxiv.org/abs/2608.13088)|null|
 |**2026-08-12**|**Flux control of measurement back-action and Leggett-Garg correlations in chiral quantum walks**|Paolo Luppi et.al.|[2608.12519](http://arxiv.org/abs/2608.12519)|null|
@@ -1661,14 +1661,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**Quantum Rare-Event Estimation for Ising Graphical Models with Belief-Propagation State Preparation**|Mario Hernández Vera et.al.|[2608.26840](http://arxiv.org/abs/2608.26840)|null|
 |**2026-08-25**|**Distributed Resource Theory of Entanglement and Magic**|Xiao Yuan et.al.|[2608.24299](http://arxiv.org/abs/2608.24299)|null|
 |**2026-08-24**|**Resistive Switching and Neuromorphic Computing in Metal/Nb:SrTiO $_3$ : Mechanisms, Interface Physics, and Charge Transport**|Christopher Broyles et.al.|[2608.23430](http://arxiv.org/abs/2608.23430)|null|
-|**2026-08-23**|**Aligned Alone, Misaligned Together: Forecasting Adversarial Capture in LLM Agent Populations**|Isotta Magistrali et.al.|[2608.22444](http://arxiv.org/abs/2608.22444)|null|
+|**2026-08-27**|**Aligned Alone, Misaligned Together: Forecasting Adversarial Capture in LLM Agent Populations**|Isotta Magistrali et.al.|[2608.22444](http://arxiv.org/abs/2608.22444)|null|
 |**2026-08-21**|**Two-fluid effects on the nonlinear dynamics of RFP relaxation**|Wentan Yan et.al.|[2608.20774](http://arxiv.org/abs/2608.20774)|null|
 |**2026-08-19**|**Proving Lehner's formulas via RDT -- indefinite and asymmetric scenarios**|Mihailo Stojnic et.al.|[2608.18990](http://arxiv.org/abs/2608.18990)|null|
 |**2026-08-19**|**Time-Decay Estimates for Two-Dimensional Fourth-Order Schrödinger Operators with Threshold Singularities**|Zijun Wan et.al.|[2608.18916](http://arxiv.org/abs/2608.18916)|null|
 |**2026-08-11**|**Flux-form spatiotemporal neural operators for coarse-grained dynamics of multiscale PDEs**|Junfeng Chen et.al.|[2608.18148](http://arxiv.org/abs/2608.18148)|null|
 |**2026-08-17**|**Maximal monotonicity and contraction semigroup for the quantum drift-diffusion (Derrida-Lebowitz-Speer-Spohn) equation**|Daniel Matthes et.al.|[2608.16792](http://arxiv.org/abs/2608.16792)|null|
+|**2026-08-27**|**Scalable Pontryagin-Guided Adjoint-to-Control Recovery for Constrained Dynamic Portfolio Choice**|Jaegi Jeon et.al.|[2608.15667](http://arxiv.org/abs/2608.15667)|null|
 |**2026-08-15**|**Equivalence of quantum resources under ergodic dynamics**|Sreemayee Aditya et.al.|[2608.15197](http://arxiv.org/abs/2608.15197)|null|
 |**2026-08-12**|**Climates of Gl 514 b**|Héctor E. Delgado Díaz et.al.|[2608.12457](http://arxiv.org/abs/2608.12457)|null|
 |**2026-08-10**|**ZetaGPT: A Reference Implementation of Positional--Encoding--Free State--Space--Attention Language Models**|Róisín Luo et.al.|[2608.09432](http://arxiv.org/abs/2608.09432)|null|
@@ -2296,6 +2298,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**Quantum Chaos and Quantum Optimal Transport**|Jordan Cotler et.al.|[2608.27350](http://arxiv.org/abs/2608.27350)|null|
+|**2026-08-27**|**Exploring continuous beta-ensembles: A Python implementation for random matrix spectral statistics**|Dorin Weissman et.al.|[2608.27224](http://arxiv.org/abs/2608.27224)|null|
+|**2026-08-27**|**Quantum Chaos and Spread of States in Krylov Subspace: A Topical Review**|Hyun-Sik Jeong et.al.|[2608.26825](http://arxiv.org/abs/2608.26825)|null|
 |**2026-08-26**|**Superextensive learning in quantum reservoirs at the onset of information scrambling**|Jonas Freiheit et.al.|[2608.25511](http://arxiv.org/abs/2608.25511)|null|
 |**2026-08-25**|**Chaos in Yang-Mills**|Barel Skuratovsky et.al.|[2608.25187](http://arxiv.org/abs/2608.25187)|null|
 |**2026-08-24**|**Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics**|Pietro Pacchioni et.al.|[2608.23557](http://arxiv.org/abs/2608.23557)|null|
@@ -3209,6 +3214,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-27**|**Auditing Structured Randomness for Quantum Error Correction under a Bounded Cloud Fault Model**|Ziqing Guo et.al.|[2608.26600](http://arxiv.org/abs/2608.26600)|null|
+|**2026-08-26**|**Holography as an Information Principle in Quantum Gravity**|Sebastian De Haro et.al.|[2608.26282](http://arxiv.org/abs/2608.26282)|null|
 |**2026-08-26**|**Fault-tolerant $|\sqrt{ \mathrm{T} }\rangle$ state preparation and injection for more efficient fine-grained quantum circuit synthesis**|Berat Yenilen et.al.|[2608.25797](http://arxiv.org/abs/2608.25797)|null|
 |**2026-08-26**|**Certified decoding of quantum LDPC codes**|Ragavi Krishnamoorthy et.al.|[2608.25545](http://arxiv.org/abs/2608.25545)|null|
 |**2026-08-26**|**High-Fidelity Entangled States in a Connectivity-Four Fluxonium Quantum Processor**|J. Schirk et.al.|[2608.25503](http://arxiv.org/abs/2608.25503)|null|

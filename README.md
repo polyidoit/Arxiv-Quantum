@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Direct Adaptive Certification of High-Dimensional Entanglement with Bell Tests**|Xu Kang Tan et.al.|[2608.28235](http://arxiv.org/abs/2608.28235)|null|
+|**2026-08-28**|**Postselection-loophole-free Bell test under strict spacetime constraints**|Kannan Vijayadharan et.al.|[2608.28190](http://arxiv.org/abs/2608.28190)|null|
 |**2026-08-25**|**Observing Bell Inequality Violation Beyond the Qubit Bound in a Spinor Bose--Einstein Condensate**|Wenxin Xu et.al.|[2608.24981](http://arxiv.org/abs/2608.24981)|null|
 |**2026-08-25**|**Cosmic muon arrival directions as a source of entropy**|Deepak Samuel et.al.|[2608.24729](http://arxiv.org/abs/2608.24729)|null|
 |**2026-08-24**|**Dark-Mode Control of Contrasting Entanglement and Bell Nonlocality between Mechanical Oscillators**|Souvik Agasti et.al.|[2608.23113](http://arxiv.org/abs/2608.23113)|null|
@@ -1443,6 +1445,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**Network steering with arbitrarily low detection efficiency of any entangled measurement**|Shubhayan Sarkar et.al.|[2608.27582](http://arxiv.org/abs/2608.27582)|null|
 |**2026-08-18**|**Dynamical protection of quantum steering and fidelity dynamics in double Jaynes-Cummings model**|Koushik Mandal et.al.|[2608.17217](http://arxiv.org/abs/2608.17217)|null|
 |**2026-08-11**|**Quantum steering is equivalent to state-preserving conditional expectations**|Lauritz van Luijk et.al.|[2608.10783](http://arxiv.org/abs/2608.10783)|null|
 |**2026-08-04**|**Intertemporal Preference Steering in Qwen3 via Contrastive Activation Addition**|Michal Mráz et.al.|[2608.03892](http://arxiv.org/abs/2608.03892)|null|
@@ -2298,6 +2301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**From integrability to many-body quantum chaos through a Markovian bath**|Xianlong Liu et.al.|[2608.27897](http://arxiv.org/abs/2608.27897)|null|
 |**2026-08-27**|**Quantum Chaos and Quantum Optimal Transport**|Jordan Cotler et.al.|[2608.27350](http://arxiv.org/abs/2608.27350)|null|
 |**2026-08-27**|**Exploring continuous beta-ensembles: A Python implementation for random matrix spectral statistics**|Dorin Weissman et.al.|[2608.27224](http://arxiv.org/abs/2608.27224)|null|
 |**2026-08-27**|**Quantum Chaos and Spread of States in Krylov Subspace: A Topical Review**|Hyun-Sik Jeong et.al.|[2608.26825](http://arxiv.org/abs/2608.26825)|null|
@@ -3214,6 +3218,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-08-28**|**Learning to Decode Concatenated Quantum Codes with Hierarchical Message Passing**|Jiahui Wu et.al.|[2608.28571](http://arxiv.org/abs/2608.28571)|null|
+|**2026-08-28**|**GraftyVul: Synthesising Insecure Programs Through Real-World Vulnerability Grafting**|Omri Ram et.al.|[2608.27928](http://arxiv.org/abs/2608.27928)|null|
+|**2026-08-28**|**High-Throughput Normalized Min-Sum Belief Propagation Decoding for Quantum LDPC Codes with Near-Memory Processing**|Jeonggeun Seo et.al.|[2608.27901](http://arxiv.org/abs/2608.27901)|null|
+|**2026-08-27**|**Logical Neural Belief Propagation for Linear-Complexity Decoding of Surface Codes**|Hee-Youl Kwak et.al.|[2608.27682](http://arxiv.org/abs/2608.27682)|null|
+|**2026-08-27**|**Quantifying the Dual-isotope Advantage for Ytterbium-array Surface Codes using Realistic Noise Models**|Fumiyoshi Kobayashi et.al.|[2608.27568](http://arxiv.org/abs/2608.27568)|null|
 |**2026-08-27**|**Auditing Structured Randomness for Quantum Error Correction under a Bounded Cloud Fault Model**|Ziqing Guo et.al.|[2608.26600](http://arxiv.org/abs/2608.26600)|null|
 |**2026-08-26**|**Holography as an Information Principle in Quantum Gravity**|Sebastian De Haro et.al.|[2608.26282](http://arxiv.org/abs/2608.26282)|null|
 |**2026-08-26**|**Fault-tolerant $|\sqrt{ \mathrm{T} }\rangle$ state preparation and injection for more efficient fine-grained quantum circuit synthesis**|Berat Yenilen et.al.|[2608.25797](http://arxiv.org/abs/2608.25797)|null|

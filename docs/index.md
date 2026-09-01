@@ -1109,6 +1109,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Global smooth solutions to the inhomogeneous Landau-Fermi-Dirac equation**|William Golding et.al.|[2608.31071](http://arxiv.org/abs/2608.31071)|null|
 |**2026-08-28**|**Confounder-Aware Feature Correction for Single-Cell Batch Integration**|Calvin McCarter et.al.|[2608.28849](http://arxiv.org/abs/2608.28849)|null|
 |**2026-08-25**|**Kochen-Specker Configurations from Grids on Dual Quadrics**|Giuseppe Favacchio et.al.|[2608.25008](http://arxiv.org/abs/2608.25008)|null|
 |**2026-08-24**|**Ab initio anatomy of quadrupole correlations in $^{16}$O and $^{20}$ Ne**|Chenrong Ding et.al.|[2608.22699](http://arxiv.org/abs/2608.22699)|null|

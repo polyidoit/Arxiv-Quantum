@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**A Scalable Multi-Protocol Platform for Quantum Key Distribution Simulation with Rigorous Statistical Evaluation**|Anuj Rathore et.al.|[2609.01297](http://arxiv.org/abs/2609.01297)|null|
 |**2026-08-31**|**Quantum non-local games: Quantum relations, projection lattices and rule operators**|Alexandros Chatzinikolaou et.al.|[2608.30507](http://arxiv.org/abs/2608.30507)|null|
 |**2026-08-30**|**Quantum Steering Geometry at High Energy Particle Colliders**|Juan J. Mejia Alvarez et.al.|[2608.30037](http://arxiv.org/abs/2608.30037)|null|
 |**2026-08-30**|**The quantum supremum of the $I_{3322}$ Bell inequality is not attained in finite dimension**|Jef Pauwels et.al.|[2608.29734](http://arxiv.org/abs/2608.29734)|null|
@@ -1109,6 +1110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Towards Natural Gas Contract Selection via Quantum-Guided Independent Set Reduction**|Vivek Dixit et.al.|[2609.00881](http://arxiv.org/abs/2609.00881)|null|
 |**2026-08-31**|**Global smooth solutions to the inhomogeneous Landau-Fermi-Dirac equation**|William Golding et.al.|[2608.31071](http://arxiv.org/abs/2608.31071)|null|
 |**2026-08-28**|**Confounder-Aware Feature Correction for Single-Cell Batch Integration**|Calvin McCarter et.al.|[2608.28849](http://arxiv.org/abs/2608.28849)|null|
 |**2026-08-25**|**Kochen-Specker Configurations from Grids on Dual Quadrics**|Giuseppe Favacchio et.al.|[2608.25008](http://arxiv.org/abs/2608.25008)|null|
@@ -1436,6 +1438,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**A nonabelian anyon violates Haag duality**|Daniel Wallick et.al.|[2609.01267](http://arxiv.org/abs/2609.01267)|null|
+|**2026-08-31**|**Quantum Secret Sharing with a Helper and Programmable Access Structures**|Eric Chitambar et.al.|[2609.00220](http://arxiv.org/abs/2609.00220)|null|
 |**2026-08-30**|**Quantum Steering Geometry at High Energy Particle Colliders**|Juan J. Mejia Alvarez et.al.|[2608.30037](http://arxiv.org/abs/2608.30037)|null|
 |**2026-08-29**|**The Inverse Eigenvalue Problem for Partial Transposes of Two-Qubit States**|Ruoting Dou et.al.|[2608.29068](http://arxiv.org/abs/2608.29068)|null|
 |**2026-08-27**|**Network steering with arbitrarily low detection efficiency of any entangled measurement**|Shubhayan Sarkar et.al.|[2608.27582](http://arxiv.org/abs/2608.27582)|null|
@@ -1655,6 +1659,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Singular Weak-Field Thermodynamics of 2D Superconductors**|Guopeng Xu et.al.|[2609.01602](http://arxiv.org/abs/2609.01602)|null|
+|**2026-09-01**|**Fast Microwave-free State Preparation and Measurement of Superconducting Qubits**|R. Abraham et.al.|[2609.01334](http://arxiv.org/abs/2609.01334)|null|
 |**2026-08-31**|**Flatness-Preserving Operations**|Otto Veltheim et.al.|[2608.30697](http://arxiv.org/abs/2608.30697)|null|
 |**2026-08-31**|**Scalable AXI4 Transaction Monitoring for Mixed-Criticality SoCs: From Phase-Level Precision to ID-Level Efficiency**|Chaoqun Liang et.al.|[2608.30435](http://arxiv.org/abs/2608.30435)|null|
 |**2026-08-29**|**Measure of set imaginarity**|Yu Guo et.al.|[2608.28985](http://arxiv.org/abs/2608.28985)|null|
@@ -2293,6 +2299,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Quantum Complexity Dynamics for Disjoint Subsystems**|Yale Fan et.al.|[2609.00126](http://arxiv.org/abs/2609.00126)|null|
 |**2026-08-30**|**Pseudo Entropy in Quantum Spin Chains: from Integrability to Chaos**|Tara Bahadur Rana et.al.|[2608.29810](http://arxiv.org/abs/2608.29810)|null|
 |**2026-08-28**|**From integrability to many-body quantum chaos through a Markovian bath**|Xianlong Liu et.al.|[2608.27897](http://arxiv.org/abs/2608.27897)|null|
 |**2026-08-27**|**Quantum Chaos and Quantum Optimal Transport**|Jordan Cotler et.al.|[2608.27350](http://arxiv.org/abs/2608.27350)|null|
@@ -3209,6 +3216,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-01**|**Quantum LDPC and High-Rate CSS Codes from Fair-Density Parity-Check Codes**|Hessam Mahdavifar et.al.|[2609.01181](http://arxiv.org/abs/2609.01181)|null|
+|**2026-09-01**|**Structure-Aware Placement and Routing of Multi-Controlled Toffoli on Bivariate Bicycle Code Architectures**|Anik Basu Bhaumik et.al.|[2609.00852](http://arxiv.org/abs/2609.00852)|null|
+|**2026-09-01**|**High-Rank Encoding Can Improve Approximate Quantum Error Correction**|Bikun Li et.al.|[2609.00778](http://arxiv.org/abs/2609.00778)|null|
+|**2026-08-31**|**Exact learning of quantum noise with tensor networks**|Nicola Pancotti et.al.|[2609.00169](http://arxiv.org/abs/2609.00169)|null|
 |**2026-08-31**|**Bosonic codes from compact phase spaces**|David Roberts et.al.|[2608.31156](http://arxiv.org/abs/2608.31156)|null|
 |**2026-08-31**|**Quantum Block Turbo Codes**|Khaled Jebari et.al.|[2608.30775](http://arxiv.org/abs/2608.30775)|null|
 |**2026-08-31**|**SpiderLS: Leveraging Full ZX Reduction for Lattice Surgery Compilation**|Hyungseok Kim et.al.|[2608.30228](http://arxiv.org/abs/2608.30228)|null|

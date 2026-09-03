@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Analytic Maximal Violation of Extended MABK Inequalities for Generalized GHZ States**|Kun-Peng Wu et.al.|[2609.02045](http://arxiv.org/abs/2609.02045)|null|
+|**2026-09-02**|**Pseudo-differential noise and nonlocal singularity formation in the stochastic Córdoba--Córdoba--Fontelos equation**|Diego Alonso-Orán et.al.|[2609.02019](http://arxiv.org/abs/2609.02019)|null|
+|**2026-09-02**|**Bell inequality violation with momentum-entangled massive particles**|Y. S. Athreya et.al.|[2609.02009](http://arxiv.org/abs/2609.02009)|null|
 |**2026-09-01**|**A Scalable Multi-Protocol Platform for Quantum Key Distribution Simulation with Rigorous Statistical Evaluation**|Anuj Rathore et.al.|[2609.01297](http://arxiv.org/abs/2609.01297)|null|
 |**2026-08-31**|**Quantum non-local games: Quantum relations, projection lattices and rule operators**|Alexandros Chatzinikolaou et.al.|[2608.30507](http://arxiv.org/abs/2608.30507)|null|
 |**2026-08-30**|**Quantum Steering Geometry at High Energy Particle Colliders**|Juan J. Mejia Alvarez et.al.|[2608.30037](http://arxiv.org/abs/2608.30037)|null|
@@ -1110,6 +1113,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Support of Dyson Brownian Motion**|Jiaoyang Huang et.al.|[2609.01770](http://arxiv.org/abs/2609.01770)|null|
 |**2026-09-01**|**Towards Natural Gas Contract Selection via Quantum-Guided Independent Set Reduction**|Vivek Dixit et.al.|[2609.00881](http://arxiv.org/abs/2609.00881)|null|
 |**2026-08-31**|**Global smooth solutions to the inhomogeneous Landau-Fermi-Dirac equation**|William Golding et.al.|[2608.31071](http://arxiv.org/abs/2608.31071)|null|
 |**2026-08-28**|**Confounder-Aware Feature Correction for Single-Cell Batch Integration**|Calvin McCarter et.al.|[2608.28849](http://arxiv.org/abs/2608.28849)|null|
@@ -2299,6 +2303,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Unfolded Krylov complexity: universal chaotic dynamics without false positives**|Johanna Erdmenger et.al.|[2609.02228](http://arxiv.org/abs/2609.02228)|null|
+|**2026-09-01**|**Error accumulation in dissipative quantum circuits**|Nadir Samos-Sáenz de Buruaga et.al.|[2609.01848](http://arxiv.org/abs/2609.01848)|null|
 |**2026-08-31**|**Quantum Complexity Dynamics for Disjoint Subsystems**|Yale Fan et.al.|[2609.00126](http://arxiv.org/abs/2609.00126)|null|
 |**2026-08-30**|**Pseudo Entropy in Quantum Spin Chains: from Integrability to Chaos**|Tara Bahadur Rana et.al.|[2608.29810](http://arxiv.org/abs/2608.29810)|null|
 |**2026-08-28**|**From integrability to many-body quantum chaos through a Markovian bath**|Xianlong Liu et.al.|[2608.27897](http://arxiv.org/abs/2608.27897)|null|
@@ -3216,6 +3222,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-02**|**Quantum Meta-Complexity Is All You Need: Characterizing One-Way Puzzles via Time-Bounded Kolmogorov Complexity**|Morteza Saberikamarposhti et.al.|[2609.02687](http://arxiv.org/abs/2609.02687)|null|
+|**2026-09-02**|**Optimal Fusion Strategies for Quantum Computation**|Kenneth Goodenough et.al.|[2609.02559](http://arxiv.org/abs/2609.02559)|null|
+|**2026-09-02**|**Circuit-Level Loss Performance of FFCC and RHG Codes in a Compound Photon-Atom Quantum Architecture**|Dana Ben Porath et.al.|[2609.02428](http://arxiv.org/abs/2609.02428)|null|
+|**2026-09-02**|**An Entanglement-Assisted Stabilizer Framework for Distributed Sensing of Local Phases**|Huidan Zheng et.al.|[2609.02098](http://arxiv.org/abs/2609.02098)|null|
+|**2026-09-02**|**InstEditSeg: Instruction-Driven Image Editing for Polyp and Skin Lesion Segmentation**|Ziquan Liu et.al.|[2609.02004](http://arxiv.org/abs/2609.02004)|null|
+|**2026-09-01**|**Need One Bell-pair Only (NOBOL) for Low-Overhead Fault-Tolerant Quantum Computing**|Sean Grzenda et.al.|[2609.01901](http://arxiv.org/abs/2609.01901)|null|
 |**2026-09-01**|**Quantum LDPC and High-Rate CSS Codes from Fair-Density Parity-Check Codes**|Hessam Mahdavifar et.al.|[2609.01181](http://arxiv.org/abs/2609.01181)|null|
 |**2026-09-01**|**Structure-Aware Placement and Routing of Multi-Controlled Toffoli on Bivariate Bicycle Code Architectures**|Anik Basu Bhaumik et.al.|[2609.00852](http://arxiv.org/abs/2609.00852)|null|
 |**2026-09-01**|**High-Rank Encoding Can Improve Approximate Quantum Error Correction**|Bikun Li et.al.|[2609.00778](http://arxiv.org/abs/2609.00778)|null|

@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**Quantum communication and Bell nonlocality require infinite classical communication to simulate**|Carlos de Gois et.al.|[2609.04182](http://arxiv.org/abs/2609.04182)|null|
+|**2026-09-03**|**Enhancing noise robustness in device-independent conference key agreement with asymmetric parity-CHSH inequalities**|Makoto Ishihara et.al.|[2609.03551](http://arxiv.org/abs/2609.03551)|null|
 |**2026-09-02**|**Analytic Maximal Violation of Extended MABK Inequalities for Generalized GHZ States**|Kun-Peng Wu et.al.|[2609.02045](http://arxiv.org/abs/2609.02045)|null|
 |**2026-09-02**|**Pseudo-differential noise and nonlocal singularity formation in the stochastic Córdoba--Córdoba--Fontelos equation**|Diego Alonso-Orán et.al.|[2609.02019](http://arxiv.org/abs/2609.02019)|null|
 |**2026-09-02**|**Bell inequality violation with momentum-entangled massive particles**|Y. S. Athreya et.al.|[2609.02009](http://arxiv.org/abs/2609.02009)|null|
@@ -1680,6 +1682,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**Non-local Magic: closed-form solution and equivalence with magic of purification**|Michele Viscardi et.al.|[2609.04119](http://arxiv.org/abs/2609.04119)|null|
+|**2026-09-03**|**Is Collision-Free Backoff Worth It in Wi-Fi?**|Mohammad Yousefi et.al.|[2609.03817](http://arxiv.org/abs/2609.03817)|null|
 |**2026-09-01**|**Singular Weak-Field Thermodynamics of 2D Superconductors**|Guopeng Xu et.al.|[2609.01602](http://arxiv.org/abs/2609.01602)|null|
 |**2026-09-01**|**Fast Microwave-free State Preparation and Measurement of Superconducting Qubits**|R. Abraham et.al.|[2609.01334](http://arxiv.org/abs/2609.01334)|null|
 |**2026-08-31**|**Flatness-Preserving Operations**|Otto Veltheim et.al.|[2608.30697](http://arxiv.org/abs/2608.30697)|null|
@@ -2322,6 +2326,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**Multi-Boundary Many-Body Quantum Teleportation**|Tal Schwartzman et.al.|[2609.03053](http://arxiv.org/abs/2609.03053)|null|
 |**2026-09-02**|**Unfolded Krylov complexity: universal chaotic dynamics without false positives**|Johanna Erdmenger et.al.|[2609.02228](http://arxiv.org/abs/2609.02228)|null|
 |**2026-09-01**|**Error accumulation in dissipative quantum circuits**|Nadir Samos-Sáenz de Buruaga et.al.|[2609.01848](http://arxiv.org/abs/2609.01848)|null|
 |**2026-08-31**|**Quantum Complexity Dynamics for Disjoint Subsystems**|Yale Fan et.al.|[2609.00126](http://arxiv.org/abs/2609.00126)|null|
@@ -3243,6 +3248,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-03**|**Quantum thermalization achieves optimal approximate quantum error correction**|Aditi Venkatesh et.al.|[2609.04121](http://arxiv.org/abs/2609.04121)|null|
+|**2026-09-03**|**Algebraic Operator Decomposition: A Partitioned Architecture for Noise-Resilient Quantum Computing**|Wladimir Silva et.al.|[2609.04076](http://arxiv.org/abs/2609.04076)|null|
+|**2026-09-03**|**Approximate maximum-likelihood decoding via truncated free energies**|Yuanqi Liu et.al.|[2609.03928](http://arxiv.org/abs/2609.03928)|null|
+|**2026-09-03**|**Energetic Costs of Subspace Quantum Error Correction**|Jakub Czartowski et.al.|[2609.03825](http://arxiv.org/abs/2609.03825)|null|
+|**2026-09-03**|**Quantisation of Abstract Data Types**|Mingsheng Ying et.al.|[2609.03778](http://arxiv.org/abs/2609.03778)|null|
+|**2026-09-03**|**Fractalizing spacetime: Floquet codes with fractonic excitations that are immobile in space and time**|Juliette Soule et.al.|[2609.03703](http://arxiv.org/abs/2609.03703)|null|
+|**2026-09-02**|**Experimental validation of a compact fault-tolerant architecture for trapped ions**|Noah Berthusen et.al.|[2609.03194](http://arxiv.org/abs/2609.03194)|null|
+|**2026-09-02**|**Optimized Matrix-Product State Simulations of Quantum Error Correction Circuits**|Asier Piñeiro Orioli et.al.|[2609.03073](http://arxiv.org/abs/2609.03073)|null|
+|**2026-09-02**|**Resource-adaptive distributed fault tolerance with very noisy Bell pairs**|Moritz Schmidt et.al.|[2609.03048](http://arxiv.org/abs/2609.03048)|null|
+|**2026-09-02**|**Quantum low-density lattice codes**|Timo Hillmann et.al.|[2609.03021](http://arxiv.org/abs/2609.03021)|null|
 |**2026-09-02**|**Quantum Meta-Complexity Is All You Need: Characterizing One-Way Puzzles via Time-Bounded Kolmogorov Complexity**|Morteza Saberikamarposhti et.al.|[2609.02687](http://arxiv.org/abs/2609.02687)|null|
 |**2026-09-02**|**Optimal Fusion Strategies for Quantum Computation**|Kenneth Goodenough et.al.|[2609.02559](http://arxiv.org/abs/2609.02559)|null|
 |**2026-09-02**|**Circuit-Level Loss Performance of FFCC and RHG Codes in a Compound Photon-Atom Quantum Architecture**|Dana Ben Porath et.al.|[2609.02428](http://arxiv.org/abs/2609.02428)|null|

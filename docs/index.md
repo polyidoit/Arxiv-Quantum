@@ -772,6 +772,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Fundamental Limits of Quantum Metrology Beyond Fixed Causal Order**|Wenjie Wei et.al.|[2609.05355](http://arxiv.org/abs/2609.05355)|null|
 |**2026-08-28**|**On the entropy of a pseudo-density matrix**|James Fullwood et.al.|[2608.28946](http://arxiv.org/abs/2608.28946)|null|
 |**2026-08-27**|**Relational Quantum Causal Processes toward Quantum Gravity with Controlled Einstein Response**|Yipeng Xu et.al.|[2608.23117](http://arxiv.org/abs/2608.23117)|null|
 |**2026-08-17**|**Superposition of dynamics, indefinite causal order, and quantum histories**|Charis Anastopoulos et.al.|[2608.16694](http://arxiv.org/abs/2608.16694)|null|
@@ -1667,6 +1668,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-03**|**Non-local Magic: closed-form solution and equivalence with magic of purification**|Michele Viscardi et.al.|[2609.04119](http://arxiv.org/abs/2609.04119)|null|
 |**2026-09-03**|**Is Collision-Free Backoff Worth It in Wi-Fi?**|Mohammad Yousefi et.al.|[2609.03817](http://arxiv.org/abs/2609.03817)|null|
+|**2026-09-04**|**Almost Free State Prediction Separation**|John Langford et.al.|[2609.03807](http://arxiv.org/abs/2609.03807)|null|
 |**2026-09-01**|**Singular Weak-Field Thermodynamics of 2D Superconductors**|Guopeng Xu et.al.|[2609.01602](http://arxiv.org/abs/2609.01602)|null|
 |**2026-09-01**|**Fast Microwave-free State Preparation and Measurement of Superconducting Qubits**|R. Abraham et.al.|[2609.01334](http://arxiv.org/abs/2609.01334)|null|
 |**2026-08-31**|**Flatness-Preserving Operations**|Otto Veltheim et.al.|[2608.30697](http://arxiv.org/abs/2608.30697)|null|
@@ -3227,6 +3229,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-04**|**TETRIS-Q: Tiling-based Effective Transient-fault Reduction on Interleaved Superconducting Qubits**|Marzio Vallero et.al.|[2609.05226](http://arxiv.org/abs/2609.05226)|null|
+|**2026-09-04**|**Learning unknown stabilizer codes using product measurements**|Heather Leitch et.al.|[2609.04997](http://arxiv.org/abs/2609.04997)|null|
+|**2026-09-03**|**A Sim-to-Real Study of Surface-Code Decoder Benchmarking**|Shay J. Manor et.al.|[2609.04557](http://arxiv.org/abs/2609.04557)|null|
+|**2026-09-03**|**Efficient Quantum Error Correction from Three Dimensional Qubit Control**|Kevin Yipu Wu et.al.|[2609.04459](http://arxiv.org/abs/2609.04459)|null|
 |**2026-09-03**|**Quantum thermalization achieves optimal approximate quantum error correction**|Aditi Venkatesh et.al.|[2609.04121](http://arxiv.org/abs/2609.04121)|null|
 |**2026-09-03**|**Algebraic Operator Decomposition: A Partitioned Architecture for Noise-Resilient Quantum Computing**|Wladimir Silva et.al.|[2609.04076](http://arxiv.org/abs/2609.04076)|null|
 |**2026-09-03**|**Approximate maximum-likelihood decoding via truncated free energies**|Yuanqi Liu et.al.|[2609.03928](http://arxiv.org/abs/2609.03928)|null|

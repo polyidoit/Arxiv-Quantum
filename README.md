@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Kinematic Control and Dephasing Dynamics of Quantum Resources in $e^{+}e^{-}\toτ^{+}τ^{-}$**|Elhabib Jaloum et.al.|[2609.08555](http://arxiv.org/abs/2609.08555)|null|
+|**2026-09-07**|**Multi-copy and Catalytic Superactivation of Genuine Multipartite Nonlocality**|Bora Ulu et.al.|[2609.07380](http://arxiv.org/abs/2609.07380)|null|
+|**2026-09-05**|**The $I_{3322}$ Bell inequality requires infinite dimensions**|Andrea Coladangelo et.al.|[2609.06038](http://arxiv.org/abs/2609.06038)|null|
+|**2026-09-04**|**Searching for Bell-CHSH-Violating Bose Operators**|T. Newton et.al.|[2609.05685](http://arxiv.org/abs/2609.05685)|null|
+|**2026-09-03**|**The I3322 quantum value is attained spatially but not in finite dimension**|Seth Douglas et.al.|[2609.05555](http://arxiv.org/abs/2609.05555)|null|
 |**2026-09-03**|**Quantum communication and Bell nonlocality require infinite classical communication to simulate**|Carlos de Gois et.al.|[2609.04182](http://arxiv.org/abs/2609.04182)|null|
 |**2026-09-03**|**Enhancing noise robustness in device-independent conference key agreement with asymmetric parity-CHSH inequalities**|Makoto Ishihara et.al.|[2609.03551](http://arxiv.org/abs/2609.03551)|null|
 |**2026-09-02**|**Analytic Maximal Violation of Extended MABK Inequalities for Generalized GHZ States**|Kun-Peng Wu et.al.|[2609.02045](http://arxiv.org/abs/2609.02045)|null|
@@ -783,6 +788,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes**|Maria Alejandra Gomez et.al.|[2609.09137](http://arxiv.org/abs/2609.09137)|null|
+|**2026-09-07**|**Snakes on a Hyper-Plane: Dynamical and Ontological Locality in Everettian Quantum Mechanics**|Travis Norsen et.al.|[2609.07860](http://arxiv.org/abs/2609.07860)|null|
 |**2026-09-04**|**Fundamental Limits of Quantum Metrology Beyond Fixed Causal Order**|Wenjie Wei et.al.|[2609.05355](http://arxiv.org/abs/2609.05355)|null|
 |**2026-08-28**|**On the entropy of a pseudo-density matrix**|James Fullwood et.al.|[2608.28946](http://arxiv.org/abs/2608.28946)|null|
 |**2026-08-27**|**Relational Quantum Causal Processes toward Quantum Gravity with Controlled Einstein Response**|Yipeng Xu et.al.|[2608.23117](http://arxiv.org/abs/2608.23117)|null|
@@ -1683,9 +1690,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Quantum speed limits based on quantifiers of quantum-state texture**|Yuhang Xie et.al.|[2609.08752](http://arxiv.org/abs/2609.08752)|null|
+|**2026-09-08**|**Quantum-state texture measure and texture transformation**|Yufan Lin et.al.|[2609.08163](http://arxiv.org/abs/2609.08163)|null|
+|**2026-09-06**|**Back to the Feature: Zero-Shot 6DoF Pose Estimation via Dense Local Features**|Ali Rafiaei et.al.|[2609.06726](http://arxiv.org/abs/2609.06726)|null|
+|**2026-09-06**|**Error Exponents of Probabilistic Quantum Resource Distillation**|Xian Shi et.al.|[2609.06688](http://arxiv.org/abs/2609.06688)|null|
 |**2026-09-03**|**Non-local Magic: closed-form solution and equivalence with magic of purification**|Michele Viscardi et.al.|[2609.04119](http://arxiv.org/abs/2609.04119)|null|
 |**2026-09-03**|**Is Collision-Free Backoff Worth It in Wi-Fi?**|Mohammad Yousefi et.al.|[2609.03817](http://arxiv.org/abs/2609.03817)|null|
-|**2026-09-04**|**Almost Free State Prediction Separation**|John Langford et.al.|[2609.03807](http://arxiv.org/abs/2609.03807)|null|
+|**2026-09-08**|**Almost Free State Prediction Separation**|John Langford et.al.|[2609.03807](http://arxiv.org/abs/2609.03807)|null|
 |**2026-09-01**|**Singular Weak-Field Thermodynamics of 2D Superconductors**|Guopeng Xu et.al.|[2609.01602](http://arxiv.org/abs/2609.01602)|null|
 |**2026-09-01**|**Fast Microwave-free State Preparation and Measurement of Superconducting Qubits**|R. Abraham et.al.|[2609.01334](http://arxiv.org/abs/2609.01334)|null|
 |**2026-08-31**|**Flatness-Preserving Operations**|Otto Veltheim et.al.|[2608.30697](http://arxiv.org/abs/2608.30697)|null|
@@ -3250,6 +3261,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-08**|**Quantum Matrix-Product Codes: CSS-T Characterization and Maximality**|Delio Jaramillo-Velez et.al.|[2609.08520](http://arxiv.org/abs/2609.08520)|null|
+|**2026-09-08**|**Transversal Fanout for Fault Tolerant Distributed Quantum Computing: Analysis and Application**|Seng W. Loke et.al.|[2609.08233](http://arxiv.org/abs/2609.08233)|null|
+|**2026-09-07**|**Entanglement Wedge Reconstruction Beyond the Large N Limit via the Twirled Petz Map**|Arash Alipour Shahmiri et.al.|[2609.07866](http://arxiv.org/abs/2609.07866)|null|
+|**2026-09-07**|**Subsystem self-correction of the GKP qubit**|Brian Chung Hang Cheung et.al.|[2609.07702](http://arxiv.org/abs/2609.07702)|null|
+|**2026-09-07**|**The Neighbor Graph of Linear Complementary Dual (LCD) Codes**|Javier de la Cruz et.al.|[2609.07580](http://arxiv.org/abs/2609.07580)|null|
+|**2026-09-07**|**Asymmetric quantum error correction efficiently tackles application-specific noise effects**|Abhishek Yadav et.al.|[2609.07235](http://arxiv.org/abs/2609.07235)|null|
+|**2026-09-07**|**From NISQ to Fault-Tolerance: Applications and Algorithmic Benchmarks for Spin Qubits**|Frederik Lohof et.al.|[2609.07210](http://arxiv.org/abs/2609.07210)|null|
+|**2026-09-07**|**Cyclic Codes of Length 7_p^s over F_p^m + uF_p^m : Characterization, Duals, and Applications to Quantum and LCD Codes**|Payel Chandra et.al.|[2609.07181](http://arxiv.org/abs/2609.07181)|null|
+|**2026-09-07**|**Single-tone drive-enhanced CROT gate for bosonic quantum error correction**|Shushen Qin et.al.|[2609.07076](http://arxiv.org/abs/2609.07076)|null|
+|**2026-09-07**|**Capability-Gated Conformance Testing of Quantum Error-Correction Decoder Libraries**|Jiachen Shen et.al.|[2609.07035](http://arxiv.org/abs/2609.07035)|null|
 |**2026-09-04**|**TETRIS-Q: Tiling-based Effective Transient-fault Reduction on Interleaved Superconducting Qubits**|Marzio Vallero et.al.|[2609.05226](http://arxiv.org/abs/2609.05226)|null|
 |**2026-09-04**|**Learning unknown stabilizer codes using product measurements**|Heather Leitch et.al.|[2609.04997](http://arxiv.org/abs/2609.04997)|null|
 |**2026-09-03**|**A Sim-to-Real Study of Surface-Code Decoder Benchmarking**|Shay J. Manor et.al.|[2609.04557](http://arxiv.org/abs/2609.04557)|null|

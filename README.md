@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**For Whom Does Bell Hold?**|Daniel Green et.al.|[2609.10535](http://arxiv.org/abs/2609.10535)|null|
+|**2026-09-09**|**Information Causality Characterizes the Set of Quantum Correlations in the Simplest Bell Scenario**|Mariami Gachechiladze et.al.|[2609.10508](http://arxiv.org/abs/2609.10508)|null|
+|**2026-09-09**|**One Relative Phase Orders Operational Thresholds of Noisy Bell Pairs**|Xuan Du Trinh et.al.|[2609.10034](http://arxiv.org/abs/2609.10034)|null|
+|**2026-09-08**|**Bell tests for collider decay processes**|Danilo M. Fucci et.al.|[2609.09294](http://arxiv.org/abs/2609.09294)|null|
 |**2026-09-08**|**Kinematic Control and Dephasing Dynamics of Quantum Resources in $e^{+}e^{-}\toτ^{+}τ^{-}$**|Elhabib Jaloum et.al.|[2609.08555](http://arxiv.org/abs/2609.08555)|null|
 |**2026-09-07**|**Multi-copy and Catalytic Superactivation of Genuine Multipartite Nonlocality**|Bora Ulu et.al.|[2609.07380](http://arxiv.org/abs/2609.07380)|null|
 |**2026-09-05**|**The $I_{3322}$ Bell inequality requires infinite dimensions**|Andrea Coladangelo et.al.|[2609.06038](http://arxiv.org/abs/2609.06038)|null|
@@ -1690,6 +1694,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**Initialization-dependent BFGS trial rates for tilted absolute values**|Qiuyu Chen et.al.|[2609.09872](http://arxiv.org/abs/2609.09872)|null|
 |**2026-09-08**|**Quantum speed limits based on quantifiers of quantum-state texture**|Yuhang Xie et.al.|[2609.08752](http://arxiv.org/abs/2609.08752)|null|
 |**2026-09-08**|**Quantum-state texture measure and texture transformation**|Yufan Lin et.al.|[2609.08163](http://arxiv.org/abs/2609.08163)|null|
 |**2026-09-06**|**Back to the Feature: Zero-Shot 6DoF Pose Estimation via Dense Local Features**|Ali Rafiaei et.al.|[2609.06726](http://arxiv.org/abs/2609.06726)|null|
@@ -2339,6 +2344,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**Probing quantum chaos near a wormhole throat with a circular string**|Ai-chen Li et.al.|[2609.09613](http://arxiv.org/abs/2609.09613)|null|
 |**2026-09-02**|**Multi-Boundary Many-Body Quantum Teleportation**|Tal Schwartzman et.al.|[2609.03053](http://arxiv.org/abs/2609.03053)|null|
 |**2026-09-02**|**Unfolded Krylov complexity: universal chaotic dynamics without false positives**|Johanna Erdmenger et.al.|[2609.02228](http://arxiv.org/abs/2609.02228)|null|
 |**2026-09-01**|**Error accumulation in dissipative quantum circuits**|Nadir Samos-Sáenz de Buruaga et.al.|[2609.01848](http://arxiv.org/abs/2609.01848)|null|
@@ -3261,6 +3267,9 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-09**|**Quantum MDS codes from complements of unions of finite-field subsets**|Naihong Hu et.al.|[2609.09943](http://arxiv.org/abs/2609.09943)|null|
+|**2026-09-08**|**Execution-transcript privacy for fault-tolerant surface-code memories**|Jiachen Shen et.al.|[2609.09334](http://arxiv.org/abs/2609.09334)|null|
+|**2026-09-08**|**Python in the front, party in the Backline: compiling quantum workloads across CPUs, GPUs, and FPGAs**|Joseph K. L. Lee et.al.|[2609.09270](http://arxiv.org/abs/2609.09270)|null|
 |**2026-09-08**|**Quantum Matrix-Product Codes: CSS-T Characterization and Maximality**|Delio Jaramillo-Velez et.al.|[2609.08520](http://arxiv.org/abs/2609.08520)|null|
 |**2026-09-08**|**Transversal Fanout for Fault Tolerant Distributed Quantum Computing: Analysis and Application**|Seng W. Loke et.al.|[2609.08233](http://arxiv.org/abs/2609.08233)|null|
 |**2026-09-07**|**Entanglement Wedge Reconstruction Beyond the Large N Limit via the Twirled Petz Map**|Arash Alipour Shahmiri et.al.|[2609.07866](http://arxiv.org/abs/2609.07866)|null|

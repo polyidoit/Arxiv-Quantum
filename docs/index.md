@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Self-guided certification of nonlocality in quantum networks**|Jean Cortés et.al.|[2609.11451](http://arxiv.org/abs/2609.11451)|null|
 |**2026-09-09**|**For Whom Does Bell Hold?**|Daniel Green et.al.|[2609.10535](http://arxiv.org/abs/2609.10535)|null|
 |**2026-09-09**|**Information Causality Characterizes the Set of Quantum Correlations in the Simplest Bell Scenario**|Mariami Gachechiladze et.al.|[2609.10508](http://arxiv.org/abs/2609.10508)|null|
 |**2026-09-09**|**One Relative Phase Orders Operational Thresholds of Noisy Bell Pairs**|Xuan Du Trinh et.al.|[2609.10034](http://arxiv.org/abs/2609.10034)|null|
@@ -1127,6 +1128,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Precise Delocalisation and Gumbel Laws for Eigenvectors of Wigner Matrices**|Mohammed Osman et.al.|[2609.11630](http://arxiv.org/abs/2609.11630)|null|
 |**2026-09-01**|**Support of Dyson Brownian Motion**|Jiaoyang Huang et.al.|[2609.01770](http://arxiv.org/abs/2609.01770)|null|
 |**2026-09-01**|**Towards Natural Gas Contract Selection via Quantum-Guided Independent Set Reduction**|Vivek Dixit et.al.|[2609.00881](http://arxiv.org/abs/2609.00881)|null|
 |**2026-08-31**|**Global smooth solutions to the inhomogeneous Landau-Fermi-Dirac equation**|William Golding et.al.|[2608.31071](http://arxiv.org/abs/2608.31071)|null|
@@ -1677,6 +1679,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Quantifying Symmetry Breaking**|Koji Yamaguchi et.al.|[2609.11926](http://arxiv.org/abs/2609.11926)|null|
+|**2026-09-09**|**Probabilistic representation and limit theorems for particle numbers of quasi-free states**|Fanch Coudreuse et.al.|[2609.10840](http://arxiv.org/abs/2609.10840)|null|
 |**2026-09-09**|**Initialization-dependent BFGS trial rates for tilted absolute values**|Qiuyu Chen et.al.|[2609.09872](http://arxiv.org/abs/2609.09872)|null|
 |**2026-09-08**|**Quantum speed limits based on quantifiers of quantum-state texture**|Yuhang Xie et.al.|[2609.08752](http://arxiv.org/abs/2609.08752)|null|
 |**2026-09-08**|**Quantum-state texture measure and texture transformation**|Yufan Lin et.al.|[2609.08163](http://arxiv.org/abs/2609.08163)|null|
@@ -2325,6 +2329,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Taking Advantage of Noise in Distributed Random Quantum Circuits**|J. Montes et.al.|[2609.11898](http://arxiv.org/abs/2609.11898)|null|
 |**2026-09-09**|**Probing quantum chaos near a wormhole throat with a circular string**|Ai-chen Li et.al.|[2609.09613](http://arxiv.org/abs/2609.09613)|null|
 |**2026-09-02**|**Multi-Boundary Many-Body Quantum Teleportation**|Tal Schwartzman et.al.|[2609.03053](http://arxiv.org/abs/2609.03053)|null|
 |**2026-09-02**|**Unfolded Krylov complexity: universal chaotic dynamics without false positives**|Johanna Erdmenger et.al.|[2609.02228](http://arxiv.org/abs/2609.02228)|null|
@@ -3246,6 +3251,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-10**|**Hierarchy of Rényi Coherent Information in Stabilizer Codes**|Akash Vijay et.al.|[2609.11930](http://arxiv.org/abs/2609.11930)|null|
+|**2026-09-10**|**The generalised semi-Clifford conjecture is false**|Nadish de Silva et.al.|[2609.11903](http://arxiv.org/abs/2609.11903)|null|
+|**2026-09-10**|**Absolutely Maximally Entangled States of $2q$ Parties in Every Odd Prime-Power Dimension $q$**|Mykhailo Hontarenko et.al.|[2609.11796](http://arxiv.org/abs/2609.11796)|null|
+|**2026-09-10**|**Local decoders for fault-tolerant quantum computation and translation-invariant stabilizer codes**|Nathaniel Selub et.al.|[2609.11457](http://arxiv.org/abs/2609.11457)|null|
+|**2026-09-10**|**Low-cost algorithm-to-execution framework for surface-code quantum computing**|Yunxin Tang et.al.|[2609.10965](http://arxiv.org/abs/2609.10965)|null|
+|**2026-09-09**|**Threshold Behavior of ZX and ZY Surface Codes Under Circuit-Level Biased and Crosstalk Noise**|Pritesh Thakur et.al.|[2609.10876](http://arxiv.org/abs/2609.10876)|null|
+|**2026-09-09**|**Demonstration of a logical Bell-state measurement beyond the linear-optical limit**|Shreya Kumar et.al.|[2609.10698](http://arxiv.org/abs/2609.10698)|null|
+|**2026-09-09**|**Walking Floquet code circuits for zero-overhead leakage reduction**|Hanna Westerheim et.al.|[2609.10666](http://arxiv.org/abs/2609.10666)|null|
 |**2026-09-09**|**Quantum MDS codes from complements of unions of finite-field subsets**|Naihong Hu et.al.|[2609.09943](http://arxiv.org/abs/2609.09943)|null|
 |**2026-09-08**|**Execution-transcript privacy for fault-tolerant surface-code memories**|Jiachen Shen et.al.|[2609.09334](http://arxiv.org/abs/2609.09334)|null|
 |**2026-09-08**|**Python in the front, party in the Backline: compiling quantum workloads across CPUs, GPUs, and FPGAs**|Joseph K. L. Lee et.al.|[2609.09270](http://arxiv.org/abs/2609.09270)|null|

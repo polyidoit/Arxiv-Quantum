@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**Bell-inequality violation in light transmitted through disordered emitter ensembles**|Ruolin Guan et.al.|[2609.15575](http://arxiv.org/abs/2609.15575)|null|
+|**2026-09-13**|**Spin-spin entanglement at high energy**|Michael Fucilla et.al.|[2609.14700](http://arxiv.org/abs/2609.14700)|null|
+|**2026-09-13**|**Phase-controlled bipartite and tripartite entanglement and Bell nonlocality in a closed-loop optomechanical system**|Sha-Sha Zheng et.al.|[2609.14577](http://arxiv.org/abs/2609.14577)|null|
+|**2026-09-13**|**From breakfast, lunch, and dinner to the Bell-inequality tetrahedron**|Francesco Giacosa et.al.|[2609.14436](http://arxiv.org/abs/2609.14436)|null|
+|**2026-09-11**|**Violating a Bell Inequality: What to Do When You Lose Your Quantum System**|Xinyu Xu et.al.|[2609.12604](http://arxiv.org/abs/2609.12604)|null|
 |**2026-09-10**|**Self-guided certification of nonlocality in quantum networks**|Jean Cortés et.al.|[2609.11451](http://arxiv.org/abs/2609.11451)|null|
 |**2026-09-09**|**For Whom Does Bell Hold?**|Daniel Green et.al.|[2609.10535](http://arxiv.org/abs/2609.10535)|null|
 |**2026-09-09**|**Information Causality Characterizes the Set of Quantum Correlations in the Simplest Bell Scenario**|Mariami Gachechiladze et.al.|[2609.10508](http://arxiv.org/abs/2609.10508)|null|
@@ -1128,6 +1133,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Strong aggregation of the Markov chains associated with matching models based on the automorphism group of their compatibility graphs**|Moyi Yang et.al.|[2609.16861](http://arxiv.org/abs/2609.16861)|null|
+|**2026-09-13**|**Pauli Supported Invariants for Periodic Graphs-Derived Hamiltonians**|Sarah Chehade et.al.|[2609.14209](http://arxiv.org/abs/2609.14209)|null|
+|**2026-09-11**|**PCGNet: Unifying Shared and Specific Information for Fashion Matching Recommendations**|Shuiying Liao et.al.|[2609.13339](http://arxiv.org/abs/2609.13339)|null|
+|**2026-09-09**|**Reliable Egocentric Action Anticipation via Temporal Reliability Suppression and Compositional Graph Decoding**|Mahsa Mohammadi et.al.|[2609.13293](http://arxiv.org/abs/2609.13293)|null|
 |**2026-09-10**|**Precise Delocalisation and Gumbel Laws for Eigenvectors of Wigner Matrices**|Mohammed Osman et.al.|[2609.11630](http://arxiv.org/abs/2609.11630)|null|
 |**2026-09-01**|**Support of Dyson Brownian Motion**|Jiaoyang Huang et.al.|[2609.01770](http://arxiv.org/abs/2609.01770)|null|
 |**2026-09-01**|**Towards Natural Gas Contract Selection via Quantum-Guided Independent Set Reduction**|Vivek Dixit et.al.|[2609.00881](http://arxiv.org/abs/2609.00881)|null|
@@ -1458,6 +1467,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-13**|**EPR-steering boundaries from a universal spectral equation**|Yu-Xuan Zhang et.al.|[2609.14272](http://arxiv.org/abs/2609.14272)|null|
+|**2026-09-12**|**Faithful certification of steering- and incompatibility-breaking channels**|Po-Ting Hsu et.al.|[2609.13885](http://arxiv.org/abs/2609.13885)|null|
 |**2026-09-01**|**A nonabelian anyon violates Haag duality**|Daniel Wallick et.al.|[2609.01267](http://arxiv.org/abs/2609.01267)|null|
 |**2026-08-31**|**Quantum Secret Sharing with a Helper and Programmable Access Structures**|Eric Chitambar et.al.|[2609.00220](http://arxiv.org/abs/2609.00220)|null|
 |**2026-08-30**|**Quantum Steering Geometry at High Energy Particle Colliders**|Juan J. Mejia Alvarez et.al.|[2608.30037](http://arxiv.org/abs/2608.30037)|null|
@@ -1679,11 +1690,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Portable Vector NV-Diamond Magnetometer for Shot-Noise-Limited, Drift-Free Operation in Unshielded Environments**|Annirudh K P et.al.|[2609.16901](http://arxiv.org/abs/2609.16901)|null|
+|**2026-09-14**|**A self-compliant selector-free memory with functional bismuth ferrite**|Suman Roy et.al.|[2609.15732](http://arxiv.org/abs/2609.15732)|null|
+|**2026-09-11**|**Inverse Problem of Alchemical Resource Theory: Replication and Programming Single Out Imaginarity and Parity Asymmetry**|Yasuaki Nakayama et.al.|[2609.12988](http://arxiv.org/abs/2609.12988)|null|
 |**2026-09-10**|**Quantifying Symmetry Breaking**|Koji Yamaguchi et.al.|[2609.11926](http://arxiv.org/abs/2609.11926)|null|
 |**2026-09-09**|**Probabilistic representation and limit theorems for particle numbers of quasi-free states**|Fanch Coudreuse et.al.|[2609.10840](http://arxiv.org/abs/2609.10840)|null|
 |**2026-09-09**|**Initialization-dependent BFGS trial rates for tilted absolute values**|Qiuyu Chen et.al.|[2609.09872](http://arxiv.org/abs/2609.09872)|null|
 |**2026-09-08**|**Quantum speed limits based on quantifiers of quantum-state texture**|Yuhang Xie et.al.|[2609.08752](http://arxiv.org/abs/2609.08752)|null|
 |**2026-09-08**|**Quantum-state texture measure and texture transformation**|Yufan Lin et.al.|[2609.08163](http://arxiv.org/abs/2609.08163)|null|
+|**2026-09-11**|**Critical Non-Hermitian Skin Effect and Scale-Free Localization Morphing in Bilocally Coupled Hatano-Nelson Chains**|Chong Wang et.al.|[2609.06799](http://arxiv.org/abs/2609.06799)|null|
 |**2026-09-06**|**Back to the Feature: Zero-Shot 6DoF Pose Estimation via Dense Local Features**|Ali Rafiaei et.al.|[2609.06726](http://arxiv.org/abs/2609.06726)|null|
 |**2026-09-06**|**Error Exponents of Probabilistic Quantum Resource Distillation**|Xian Shi et.al.|[2609.06688](http://arxiv.org/abs/2609.06688)|null|
 |**2026-09-03**|**Non-local Magic: closed-form solution and equivalence with magic of purification**|Michele Viscardi et.al.|[2609.04119](http://arxiv.org/abs/2609.04119)|null|
@@ -2329,6 +2344,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Predictive Structure Behind Rare Outcomes in Random Quantum Circuits**|Myeongsu Kim et.al.|[2609.17482](http://arxiv.org/abs/2609.17482)|null|
+|**2026-09-15**|**One Gate at a Time: Complexity Growth in Random Quantum Circuits**|Zhi Li et.al.|[2609.17457](http://arxiv.org/abs/2609.17457)|null|
+|**2026-09-14**|**Noise-induced classical phases in optimally-unraveled random quantum circuits**|Lorenzo Fioroni et.al.|[2609.16160](http://arxiv.org/abs/2609.16160)|null|
+|**2026-09-13**|**Efficient expectation value estimation for quantum circuits via extended stabilizer frameworks and adaptive variance estimation**|Yunseo Hwang et.al.|[2609.14252](http://arxiv.org/abs/2609.14252)|null|
 |**2026-09-10**|**Taking Advantage of Noise in Distributed Random Quantum Circuits**|J. Montes et.al.|[2609.11898](http://arxiv.org/abs/2609.11898)|null|
 |**2026-09-09**|**Probing quantum chaos near a wormhole throat with a circular string**|Ai-chen Li et.al.|[2609.09613](http://arxiv.org/abs/2609.09613)|null|
 |**2026-09-02**|**Multi-Boundary Many-Body Quantum Teleportation**|Tal Schwartzman et.al.|[2609.03053](http://arxiv.org/abs/2609.03053)|null|
@@ -3251,6 +3270,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-15**|**Quantum Compiler Design for Fault-Tolerant Quantum Computing**|Chenghong Zhu et.al.|[2609.17465](http://arxiv.org/abs/2609.17465)|null|
+|**2026-09-15**|**Probabilistic Error Cancellation for Single-Mode Gottesman-Kitaev-Preskill Codes**|Victoria Wadewitz et.al.|[2609.17095](http://arxiv.org/abs/2609.17095)|null|
+|**2026-09-15**|**Constant sized support state distillation with qubit recycling**|Victor Barizien et.al.|[2609.17044](http://arxiv.org/abs/2609.17044)|null|
+|**2026-09-15**|**Classical Communication Protocol based on Joint Classical-Quantum Coding**|Kristian Skafte Jensen et.al.|[2609.16938](http://arxiv.org/abs/2609.16938)|null|
+|**2026-09-14**|**Error-corrected function estimation advantage in multiparameter Hamiltonians**|Erfan Abbasgholinejad et.al.|[2609.16226](http://arxiv.org/abs/2609.16226)|null|
+|**2026-09-14**|**Two variants of Twisted Reed-Solomon Codes**|Haojie Gu et.al.|[2609.16188](http://arxiv.org/abs/2609.16188)|null|
+|**2026-09-14**|**Pulse-Level Compilation of Measurement-Free Recovery in Transmon Circuits**|Yi-Han Yu et.al.|[2609.16133](http://arxiv.org/abs/2609.16133)|null|
+|**2026-09-14**|**Hyperbolic color codes with constant rate and polynomial distance**|Shun Hasegawa et.al.|[2609.16125](http://arxiv.org/abs/2609.16125)|null|
+|**2026-09-14**|**Quantum Codes for Generalized Amplitude-damping Noise**|Sourav Dutta et.al.|[2609.15924](http://arxiv.org/abs/2609.15924)|null|
+|**2026-09-14**|**Reducing Decoding Latency in Quantum Error Correction by Early Starting Clustering**|Tommaso Peduzzi et.al.|[2609.15612](http://arxiv.org/abs/2609.15612)|null|
 |**2026-09-10**|**Hierarchy of Rényi Coherent Information in Stabilizer Codes**|Akash Vijay et.al.|[2609.11930](http://arxiv.org/abs/2609.11930)|null|
 |**2026-09-10**|**The generalised semi-Clifford conjecture is false**|Nadish de Silva et.al.|[2609.11903](http://arxiv.org/abs/2609.11903)|null|
 |**2026-09-10**|**Absolutely Maximally Entangled States of $2q$ Parties in Every Odd Prime-Power Dimension $q$**|Mykhailo Hontarenko et.al.|[2609.11796](http://arxiv.org/abs/2609.11796)|null|

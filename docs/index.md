@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Catalytic Activation of Genuine Multipartite Entanglement and Nonlocality**|Eliot Donnadieu et.al.|[2609.18570](http://arxiv.org/abs/2609.18570)|null|
 |**2026-09-14**|**Bell-inequality violation in light transmitted through disordered emitter ensembles**|Ruolin Guan et.al.|[2609.15575](http://arxiv.org/abs/2609.15575)|null|
 |**2026-09-13**|**Spin-spin entanglement at high energy**|Michael Fucilla et.al.|[2609.14700](http://arxiv.org/abs/2609.14700)|null|
 |**2026-09-13**|**Phase-controlled bipartite and tripartite entanglement and Bell nonlocality in a closed-loop optomechanical system**|Sha-Sha Zheng et.al.|[2609.14577](http://arxiv.org/abs/2609.14577)|null|
@@ -787,6 +788,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Extensibly Causally Separable Processes Admit Realizations as Quantum Circuits with Classical Control of Causal Order**|Wenjie Wei et.al.|[2609.18559](http://arxiv.org/abs/2609.18559)|null|
 |**2026-09-08**|**A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes**|Maria Alejandra Gomez et.al.|[2609.09137](http://arxiv.org/abs/2609.09137)|null|
 |**2026-09-07**|**Snakes on a Hyper-Plane: Dynamical and Ontological Locality in Everettian Quantum Mechanics**|Travis Norsen et.al.|[2609.07860](http://arxiv.org/abs/2609.07860)|null|
 |**2026-09-04**|**Fundamental Limits of Quantum Metrology Beyond Fixed Causal Order**|Wenjie Wei et.al.|[2609.05355](http://arxiv.org/abs/2609.05355)|null|
@@ -1133,6 +1135,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Exact Values, Extremal Classifications, and Sum-of-Squares Reductions for Second-Order Zarankiewicz Numbers**|Yi Xu et.al.|[2609.18429](http://arxiv.org/abs/2609.18429)|null|
+|**2026-09-16**|**Proof of Heisenberg's Error-Disturbance Relation for Individual Measurements**|Seiji Kosugi et.al.|[2609.18211](http://arxiv.org/abs/2609.18211)|null|
 |**2026-09-15**|**Strong aggregation of the Markov chains associated with matching models based on the automorphism group of their compatibility graphs**|Moyi Yang et.al.|[2609.16861](http://arxiv.org/abs/2609.16861)|null|
 |**2026-09-13**|**Pauli Supported Invariants for Periodic Graphs-Derived Hamiltonians**|Sarah Chehade et.al.|[2609.14209](http://arxiv.org/abs/2609.14209)|null|
 |**2026-09-11**|**PCGNet: Unifying Shared and Specific Information for Fashion Matching Recommendations**|Shuiying Liao et.al.|[2609.13339](http://arxiv.org/abs/2609.13339)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**Catalytic Activation of Genuine Multipartite Entanglement and Nonlocality**|Eliot Donnadieu et.al.|[2609.18570](http://arxiv.org/abs/2609.18570)|null|
 |**2026-09-14**|**Bell-inequality violation in light transmitted through disordered emitter ensembles**|Ruolin Guan et.al.|[2609.15575](http://arxiv.org/abs/2609.15575)|null|
 |**2026-09-13**|**Spin-spin entanglement at high energy**|Michael Fucilla et.al.|[2609.14700](http://arxiv.org/abs/2609.14700)|null|
 |**2026-09-13**|**Phase-controlled bipartite and tripartite entanglement and Bell nonlocality in a closed-loop optomechanical system**|Sha-Sha Zheng et.al.|[2609.14577](http://arxiv.org/abs/2609.14577)|null|
@@ -792,12 +793,13 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## Quantum causal model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**Extensibly Causally Separable Processes Admit Realizations as Quantum Circuits with Classical Control of Causal Order**|Wenjie Wei et.al.|[2609.18559](http://arxiv.org/abs/2609.18559)|null|
 |**2026-09-08**|**A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes**|Maria Alejandra Gomez et.al.|[2609.09137](http://arxiv.org/abs/2609.09137)|null|
 |**2026-09-07**|**Snakes on a Hyper-Plane: Dynamical and Ontological Locality in Everettian Quantum Mechanics**|Travis Norsen et.al.|[2609.07860](http://arxiv.org/abs/2609.07860)|null|
 |**2026-09-04**|**Fundamental Limits of Quantum Metrology Beyond Fixed Causal Order**|Wenjie Wei et.al.|[2609.05355](http://arxiv.org/abs/2609.05355)|null|
@@ -1140,12 +1142,14 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**Exact Values, Extremal Classifications, and Sum-of-Squares Reductions for Second-Order Zarankiewicz Numbers**|Yi Xu et.al.|[2609.18429](http://arxiv.org/abs/2609.18429)|null|
+|**2026-09-16**|**Proof of Heisenberg's Error-Disturbance Relation for Individual Measurements**|Seiji Kosugi et.al.|[2609.18211](http://arxiv.org/abs/2609.18211)|null|
 |**2026-09-15**|**Strong aggregation of the Markov chains associated with matching models based on the automorphism group of their compatibility graphs**|Moyi Yang et.al.|[2609.16861](http://arxiv.org/abs/2609.16861)|null|
 |**2026-09-13**|**Pauli Supported Invariants for Periodic Graphs-Derived Hamiltonians**|Sarah Chehade et.al.|[2609.14209](http://arxiv.org/abs/2609.14209)|null|
 |**2026-09-11**|**PCGNet: Unifying Shared and Specific Information for Fashion Matching Recommendations**|Shuiying Liao et.al.|[2609.13339](http://arxiv.org/abs/2609.13339)|null|
@@ -1476,7 +1480,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1701,7 +1705,7 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## Resource theory
 
@@ -2357,7 +2361,7 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
@@ -3283,7 +3287,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -5815,5 +5819,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 

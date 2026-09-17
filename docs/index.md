@@ -1694,8 +1694,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Correlation geometry and topology of structured optical beams**|Jyrki Laatikainen et.al.|[2609.19103](http://arxiv.org/abs/2609.19103)|null|
+|**2026-09-16**|**Fully differentiable framework for inverse identification of geometry and material parameters with application to determining stress-free configuration of soft tissues**|Hyunoh Bae et.al.|[2609.18109](http://arxiv.org/abs/2609.18109)|null|
+|**2026-09-15**|**Hypercyclicity and Lipschitz-free operators**|Christian Cobollo et.al.|[2609.17874](http://arxiv.org/abs/2609.17874)|null|
+|**2026-09-15**|**Advances in the quantum-state texture theory**|Jose Alfredo de Leon et.al.|[2609.17704](http://arxiv.org/abs/2609.17704)|null|
 |**2026-09-15**|**Portable Vector NV-Diamond Magnetometer for Shot-Noise-Limited, Drift-Free Operation in Unshielded Environments**|Annirudh K P et.al.|[2609.16901](http://arxiv.org/abs/2609.16901)|null|
 |**2026-09-14**|**A self-compliant selector-free memory with functional bismuth ferrite**|Suman Roy et.al.|[2609.15732](http://arxiv.org/abs/2609.15732)|null|
+|**2026-09-16**|**HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness**|Yang Chen et.al.|[2609.15195](http://arxiv.org/abs/2609.15195)|null|
 |**2026-09-11**|**Inverse Problem of Alchemical Resource Theory: Replication and Programming Single Out Imaginarity and Parity Asymmetry**|Yasuaki Nakayama et.al.|[2609.12988](http://arxiv.org/abs/2609.12988)|null|
 |**2026-09-10**|**Quantifying Symmetry Breaking**|Koji Yamaguchi et.al.|[2609.11926](http://arxiv.org/abs/2609.11926)|null|
 |**2026-09-09**|**Probabilistic representation and limit theorems for particle numbers of quasi-free states**|Fanch Coudreuse et.al.|[2609.10840](http://arxiv.org/abs/2609.10840)|null|
@@ -2348,6 +2353,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Lindbladian quantum chaos beyond classical strange attractors**|Ángel L. Corps et.al.|[2609.18464](http://arxiv.org/abs/2609.18464)|null|
+|**2026-09-16**|**Signatures of Chaos in a Quasiperiodically Driven Quantum Impact Oscillator**|Deepshikha Singh et.al.|[2609.18350](http://arxiv.org/abs/2609.18350)|null|
 |**2026-09-15**|**Predictive Structure Behind Rare Outcomes in Random Quantum Circuits**|Myeongsu Kim et.al.|[2609.17482](http://arxiv.org/abs/2609.17482)|null|
 |**2026-09-15**|**One Gate at a Time: Complexity Growth in Random Quantum Circuits**|Zhi Li et.al.|[2609.17457](http://arxiv.org/abs/2609.17457)|null|
 |**2026-09-14**|**Noise-induced classical phases in optimally-unraveled random quantum circuits**|Lorenzo Fioroni et.al.|[2609.16160](http://arxiv.org/abs/2609.16160)|null|
@@ -3274,6 +3281,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-16**|**Comparing magic state cultivation methods using matrix product states**|Tom Hartweg et.al.|[2609.19116](http://arxiv.org/abs/2609.19116)|null|
+|**2026-09-16**|**Securing quantum error correction against misleading advice from AI agents**|A. Barış Özgüler et.al.|[2609.19090](http://arxiv.org/abs/2609.19090)|null|
+|**2026-09-16**|**Impact of a CSS quantum error correction code in underwater quantum key distribution**|Juliette Florin et.al.|[2609.18666](http://arxiv.org/abs/2609.18666)|null|
+|**2026-09-16**|**Algorithmic Design of Heralded Linear Optical Circuits for Multipartite Entanglement**|Jaehee Kim et.al.|[2609.18002](http://arxiv.org/abs/2609.18002)|null|
 |**2026-09-15**|**Quantum Compiler Design for Fault-Tolerant Quantum Computing**|Chenghong Zhu et.al.|[2609.17465](http://arxiv.org/abs/2609.17465)|null|
 |**2026-09-15**|**Probabilistic Error Cancellation for Single-Mode Gottesman-Kitaev-Preskill Codes**|Victoria Wadewitz et.al.|[2609.17095](http://arxiv.org/abs/2609.17095)|null|
 |**2026-09-15**|**Constant sized support state distillation with qubit recycling**|Victor Barizien et.al.|[2609.17044](http://arxiv.org/abs/2609.17044)|null|

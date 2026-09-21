@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-12**|**Towards a picture of the natural world derived from relativity and quantum theory**|Emilio Santos et.al.|[2609.20862](http://arxiv.org/abs/2609.20862)|null|
 |**2026-09-17**|**Experimental certification of the nonlocal advantages of quantum imaginarity**|Jian-Hao Wu et.al.|[2609.19625](http://arxiv.org/abs/2609.19625)|null|
 |**2026-09-16**|**Catalytic Activation of Genuine Multipartite Entanglement and Nonlocality**|Eliot Donnadieu et.al.|[2609.18570](http://arxiv.org/abs/2609.18570)|null|
 |**2026-09-14**|**Bell-inequality violation in light transmitted through disordered emitter ensembles**|Ruolin Guan et.al.|[2609.15575](http://arxiv.org/abs/2609.15575)|null|
@@ -1137,6 +1138,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Zero Temperature, Degenerate Fermion Stars**|S. Boatto et.al.|[2609.20950](http://arxiv.org/abs/2609.20950)|null|
 |**2026-09-16**|**Exact Values, Extremal Classifications, and Sum-of-Squares Reductions for Second-Order Zarankiewicz Numbers**|Yi Xu et.al.|[2609.18429](http://arxiv.org/abs/2609.18429)|null|
 |**2026-09-16**|**Proof of Heisenberg's Error-Disturbance Relation for Individual Measurements**|Seiji Kosugi et.al.|[2609.18211](http://arxiv.org/abs/2609.18211)|null|
 |**2026-09-15**|**Strong aggregation of the Markov chains associated with matching models based on the automorphism group of their compatibility graphs**|Moyi Yang et.al.|[2609.16861](http://arxiv.org/abs/2609.16861)|null|
@@ -1696,6 +1698,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**A Mean-Field Approach for Safe Routing of Multi-Destination Urban Air Mobility Networks**|Nameer Fawwaz Ahmed et.al.|[2609.21093](http://arxiv.org/abs/2609.21093)|null|
 |**2026-09-17**|**Mixed-precision GPU algorithms for efficient turbulent flow simulations with Raviart-Thomas finite elements**|Ivan Prusak et.al.|[2609.19828](http://arxiv.org/abs/2609.19828)|null|
 |**2026-09-16**|**Correlation geometry and topology of structured optical beams**|Jyrki Laatikainen et.al.|[2609.19103](http://arxiv.org/abs/2609.19103)|null|
 |**2026-09-16**|**Fully differentiable framework for inverse identification of geometry and material parameters with application to determining stress-free configuration of soft tissues**|Hyunoh Bae et.al.|[2609.18109](http://arxiv.org/abs/2609.18109)|null|
@@ -3284,6 +3287,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-18**|**Ensemble Dependence of the Critical Exponent at a Quantum Error Correction Threshold**|Idan Dror et.al.|[2609.21886](http://arxiv.org/abs/2609.21886)|null|
+|**2026-09-18**|**Ultimate Information Rate for Quantum Sensing under Multilevel Relaxation**|Changhun Oh et.al.|[2609.21418](http://arxiv.org/abs/2609.21418)|null|
+|**2026-09-18**|**Denser Planar Color Codes**|Noah Shutty et.al.|[2609.21376](http://arxiv.org/abs/2609.21376)|null|
+|**2026-09-17**|**ReFINE: Scheduling of Distillation and Coding for Rate-Fidelity Tradeoff in Quantum Networks**|Narges Alavisamani et.al.|[2609.21152](http://arxiv.org/abs/2609.21152)|null|
 |**2026-09-17**|**Proof of a positive coherent-error threshold for topological quantum codes**|Shiro Tamiya et.al.|[2609.20708](http://arxiv.org/abs/2609.20708)|null|
 |**2026-09-17**|**Scalable logical qubits**|Matthias Troyer et.al.|[2609.20549](http://arxiv.org/abs/2609.20549)|null|
 |**2026-09-17**|**Galois Hulls of Generalized Roth-Lempel Codes and Their Applications to EAQECCs**|Xuefei Wu et.al.|[2609.20453](http://arxiv.org/abs/2609.20453)|null|

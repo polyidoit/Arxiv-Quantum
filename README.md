@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**Trade-offs and experimental feasibility of nonlocal polygamy with two-outcome Bell inequalities**|Josep Batle et.al.|[2609.24835](http://arxiv.org/abs/2609.24835)|null|
 |**2026-09-19**|**The Generalised Causality Principle**|Sahil Gopalkrishna Naik et.al.|[2609.22998](http://arxiv.org/abs/2609.22998)|null|
 |**2026-09-12**|**Towards a picture of the natural world derived from relativity and quantum theory**|Emilio Santos et.al.|[2609.20862](http://arxiv.org/abs/2609.20862)|null|
 |**2026-09-17**|**Experimental certification of the nonlocal advantages of quantum imaginarity**|Jian-Hao Wu et.al.|[2609.19625](http://arxiv.org/abs/2609.19625)|null|
@@ -2382,6 +2383,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**Unified spatiotemporal quantum states and spatiotemporal entanglement from Kirkwood-Dirac phase space**|Zhian Jia et.al.|[2609.24680](http://arxiv.org/abs/2609.24680)|null|
 |**2026-09-16**|**Lindbladian quantum chaos beyond classical strange attractors**|Ángel L. Corps et.al.|[2609.18464](http://arxiv.org/abs/2609.18464)|null|
 |**2026-09-16**|**Signatures of Chaos in a Quasiperiodically Driven Quantum Impact Oscillator**|Deepshikha Singh et.al.|[2609.18350](http://arxiv.org/abs/2609.18350)|null|
 |**2026-09-20**|**Predictive Structure Behind Rare Outcomes in Random Quantum Circuits**|Myeongsu Kim et.al.|[2609.17482](http://arxiv.org/abs/2609.17482)|null|
@@ -3312,6 +3314,7 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-21**|**Improved polynomial-time algorithms for detecting and recovering planted $Θ(\sqrt{n})$ -cliques**|Dmitriy Kunisky et.al.|[2609.24780](http://arxiv.org/abs/2609.24780)|null|
 |**2026-09-21**|**A Carbon-Aware Quantum Computing Framework for LCA-Driven Sustainability in Quantum Cloud Services**|Muhammad Umar et.al.|[2609.24224](http://arxiv.org/abs/2609.24224)|null|
 |**2026-09-20**|**Flow-Based Lattice Surgery Optimization with Runtime T Gate Scheduling**|Raymond Iacobacci et.al.|[2609.23756](http://arxiv.org/abs/2609.23756)|null|
 |**2026-09-20**|**QuWARP: A Workload-Aware Reuse Planner for simulating Quantum Circuits**|Tim Littau et.al.|[2609.23664](http://arxiv.org/abs/2609.23664)|null|
@@ -3320,7 +3323,7 @@
 |**2026-09-18**|**Modular fault-tolerant quantum computing on a non-CSS code**|Robert Freund et.al.|[2609.22572](http://arxiv.org/abs/2609.22572)|null|
 |**2026-09-18**|**Ensemble Dependence of the Critical Exponent at a Quantum Error Correction Threshold**|Idan Dror et.al.|[2609.21886](http://arxiv.org/abs/2609.21886)|null|
 |**2026-09-18**|**Ultimate Information Rate for Quantum Sensing under Multilevel Relaxation**|Changhun Oh et.al.|[2609.21418](http://arxiv.org/abs/2609.21418)|null|
-|**2026-09-18**|**Denser Planar Color Codes**|Noah Shutty et.al.|[2609.21376](http://arxiv.org/abs/2609.21376)|null|
+|**2026-09-21**|**Denser Planar Color Codes**|Noah Shutty et.al.|[2609.21376](http://arxiv.org/abs/2609.21376)|null|
 |**2026-09-17**|**ReFINE: Scheduling of Distillation and Coding for Rate-Fidelity Tradeoff in Quantum Networks**|Narges Alavisamani et.al.|[2609.21152](http://arxiv.org/abs/2609.21152)|null|
 |**2026-09-17**|**Proof of a positive coherent-error threshold for topological quantum codes**|Shiro Tamiya et.al.|[2609.20708](http://arxiv.org/abs/2609.20708)|null|
 |**2026-09-17**|**Scalable logical qubits**|Matthias Troyer et.al.|[2609.20549](http://arxiv.org/abs/2609.20549)|null|

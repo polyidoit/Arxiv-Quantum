@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-19**|**The Generalised Causality Principle**|Sahil Gopalkrishna Naik et.al.|[2609.22998](http://arxiv.org/abs/2609.22998)|null|
 |**2026-09-12**|**Towards a picture of the natural world derived from relativity and quantum theory**|Emilio Santos et.al.|[2609.20862](http://arxiv.org/abs/2609.20862)|null|
 |**2026-09-17**|**Experimental certification of the nonlocal advantages of quantum imaginarity**|Jian-Hao Wu et.al.|[2609.19625](http://arxiv.org/abs/2609.19625)|null|
 |**2026-09-16**|**Catalytic Activation of Genuine Multipartite Entanglement and Nonlocality**|Eliot Donnadieu et.al.|[2609.18570](http://arxiv.org/abs/2609.18570)|null|
@@ -790,6 +791,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**No violation on a generalisation of Leggett-Garg inequality and Bell-CHSH inequality with extended probability**|Sirawit Kajonsombat et.al.|[2609.24169](http://arxiv.org/abs/2609.24169)|null|
+|**2026-09-19**|**The Generalised Causality Principle**|Sahil Gopalkrishna Naik et.al.|[2609.22998](http://arxiv.org/abs/2609.22998)|null|
 |**2026-09-16**|**Interpreting quantum coherence of neutrinos in asymptotically flat spacetimes via effective distances: Solution to the paradoxes of the Leggett-Garg inequality and quantum information quantities**|Shan Wu et.al.|[2609.19198](http://arxiv.org/abs/2609.19198)|null|
 |**2026-09-16**|**Extensibly Causally Separable Processes Admit Realizations as Quantum Circuits with Classical Control of Causal Order**|Wenjie Wei et.al.|[2609.18559](http://arxiv.org/abs/2609.18559)|null|
 |**2026-09-08**|**A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes**|Maria Alejandra Gomez et.al.|[2609.09137](http://arxiv.org/abs/2609.09137)|null|
@@ -1475,6 +1478,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-19**|**Asymmetric Two-Way Gaussian Quantum Steering in Coupled Lossy Waveguides**|Hafsa Zia et.al.|[2609.22815](http://arxiv.org/abs/2609.22815)|null|
 |**2026-09-13**|**EPR-steering boundaries from a universal spectral equation**|Yu-Xuan Zhang et.al.|[2609.14272](http://arxiv.org/abs/2609.14272)|null|
 |**2026-09-12**|**Faithful certification of steering- and incompatibility-breaking channels**|Po-Ting Hsu et.al.|[2609.13885](http://arxiv.org/abs/2609.13885)|null|
 |**2026-09-01**|**A nonabelian anyon violates Haag duality**|Daniel Wallick et.al.|[2609.01267](http://arxiv.org/abs/2609.01267)|null|
@@ -2361,7 +2365,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-16**|**Lindbladian quantum chaos beyond classical strange attractors**|Ángel L. Corps et.al.|[2609.18464](http://arxiv.org/abs/2609.18464)|null|
 |**2026-09-16**|**Signatures of Chaos in a Quasiperiodically Driven Quantum Impact Oscillator**|Deepshikha Singh et.al.|[2609.18350](http://arxiv.org/abs/2609.18350)|null|
-|**2026-09-15**|**Predictive Structure Behind Rare Outcomes in Random Quantum Circuits**|Myeongsu Kim et.al.|[2609.17482](http://arxiv.org/abs/2609.17482)|null|
+|**2026-09-20**|**Predictive Structure Behind Rare Outcomes in Random Quantum Circuits**|Myeongsu Kim et.al.|[2609.17482](http://arxiv.org/abs/2609.17482)|null|
 |**2026-09-15**|**One Gate at a Time: Complexity Growth in Random Quantum Circuits**|Zhi Li et.al.|[2609.17457](http://arxiv.org/abs/2609.17457)|null|
 |**2026-09-14**|**Noise-induced classical phases in optimally-unraveled random quantum circuits**|Lorenzo Fioroni et.al.|[2609.16160](http://arxiv.org/abs/2609.16160)|null|
 |**2026-09-13**|**Efficient expectation value estimation for quantum circuits via extended stabilizer frameworks and adaptive variance estimation**|Yunseo Hwang et.al.|[2609.14252](http://arxiv.org/abs/2609.14252)|null|
@@ -3287,6 +3291,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-21**|**A Carbon-Aware Quantum Computing Framework for LCA-Driven Sustainability in Quantum Cloud Services**|Muhammad Umar et.al.|[2609.24224](http://arxiv.org/abs/2609.24224)|null|
+|**2026-09-20**|**Flow-Based Lattice Surgery Optimization with Runtime T Gate Scheduling**|Raymond Iacobacci et.al.|[2609.23756](http://arxiv.org/abs/2609.23756)|null|
+|**2026-09-20**|**QuWARP: A Workload-Aware Reuse Planner for simulating Quantum Circuits**|Tim Littau et.al.|[2609.23664](http://arxiv.org/abs/2609.23664)|null|
+|**2026-09-20**|**Simultaneous Reduction of Observables and Measured Qudits in Entanglement-Assisted Quantum Local Recovery**|Ryutaroh Matsumoto et.al.|[2609.23316](http://arxiv.org/abs/2609.23316)|null|
+|**2026-09-19**|**Metric Self-Dual Completion and Optimal Additive Hardness for Quantum and Graph-State Distance**|Rafail Ostrovsky et.al.|[2609.22669](http://arxiv.org/abs/2609.22669)|null|
+|**2026-09-18**|**Modular fault-tolerant quantum computing on a non-CSS code**|Robert Freund et.al.|[2609.22572](http://arxiv.org/abs/2609.22572)|null|
 |**2026-09-18**|**Ensemble Dependence of the Critical Exponent at a Quantum Error Correction Threshold**|Idan Dror et.al.|[2609.21886](http://arxiv.org/abs/2609.21886)|null|
 |**2026-09-18**|**Ultimate Information Rate for Quantum Sensing under Multilevel Relaxation**|Changhun Oh et.al.|[2609.21418](http://arxiv.org/abs/2609.21418)|null|
 |**2026-09-18**|**Denser Planar Color Codes**|Noah Shutty et.al.|[2609.21376](http://arxiv.org/abs/2609.21376)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**Nonlocal advantage of quantum coherence in tau-lepton pairs from electron--positron collisions**|Yoav Afik et.al.|[2609.25214](http://arxiv.org/abs/2609.25214)|null|
 |**2026-09-21**|**Trade-offs and experimental feasibility of nonlocal polygamy with two-outcome Bell inequalities**|Josep Batle et.al.|[2609.24835](http://arxiv.org/abs/2609.24835)|null|
 |**2026-09-19**|**The Generalised Causality Principle**|Sahil Gopalkrishna Naik et.al.|[2609.22998](http://arxiv.org/abs/2609.22998)|null|
 |**2026-09-12**|**Towards a picture of the natural world derived from relativity and quantum theory**|Emilio Santos et.al.|[2609.20862](http://arxiv.org/abs/2609.20862)|null|
@@ -797,7 +798,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -1149,12 +1150,14 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
 
 ## Quantum contextuality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**Deep Reinforcement Learning on Item-Compatibility Graphs for One-Dimensional Bin Packing**|M. Aslı Aydın et.al.|[2609.25397](http://arxiv.org/abs/2609.25397)|null|
+|**2026-09-21**|**PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration**|Abolfazl Babanazari et.al.|[2609.25375](http://arxiv.org/abs/2609.25375)|null|
 |**2026-09-17**|**Zero Temperature, Degenerate Fermion Stars**|S. Boatto et.al.|[2609.20950](http://arxiv.org/abs/2609.20950)|null|
 |**2026-09-16**|**Exact Values, Extremal Classifications, and Sum-of-Squares Reductions for Second-Order Zarankiewicz Numbers**|Yi Xu et.al.|[2609.18429](http://arxiv.org/abs/2609.18429)|null|
 |**2026-09-16**|**Proof of Heisenberg's Error-Disturbance Relation for Individual Measurements**|Seiji Kosugi et.al.|[2609.18211](http://arxiv.org/abs/2609.18211)|null|
@@ -1488,7 +1491,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1714,12 +1717,13 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**How do incorrect ligands help detect a correct ligand?**|Yan-Ru Chen et.al.|[2609.25708](http://arxiv.org/abs/2609.25708)|null|
 |**2026-09-17**|**A Mean-Field Approach for Safe Routing of Multi-Destination Urban Air Mobility Networks**|Nameer Fawwaz Ahmed et.al.|[2609.21093](http://arxiv.org/abs/2609.21093)|null|
 |**2026-09-17**|**Mixed-precision GPU algorithms for efficient turbulent flow simulations with Raviart-Thomas finite elements**|Ivan Prusak et.al.|[2609.19828](http://arxiv.org/abs/2609.19828)|null|
 |**2026-09-16**|**Correlation geometry and topology of structured optical beams**|Jyrki Laatikainen et.al.|[2609.19103](http://arxiv.org/abs/2609.19103)|null|
@@ -2377,21 +2381,21 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-09-21**|**Unified spatiotemporal quantum states and spatiotemporal entanglement from Kirkwood-Dirac phase space**|Zhian Jia et.al.|[2609.24680](http://arxiv.org/abs/2609.24680)|null|
-|**2026-09-16**|**Lindbladian quantum chaos beyond classical strange attractors**|Ángel L. Corps et.al.|[2609.18464](http://arxiv.org/abs/2609.18464)|null|
+|**2026-09-22**|**Lindbladian quantum chaos beyond classical strange attractors**|Ángel L. Corps et.al.|[2609.18464](http://arxiv.org/abs/2609.18464)|null|
 |**2026-09-16**|**Signatures of Chaos in a Quasiperiodically Driven Quantum Impact Oscillator**|Deepshikha Singh et.al.|[2609.18350](http://arxiv.org/abs/2609.18350)|null|
 |**2026-09-20**|**Predictive Structure Behind Rare Outcomes in Random Quantum Circuits**|Myeongsu Kim et.al.|[2609.17482](http://arxiv.org/abs/2609.17482)|null|
 |**2026-09-15**|**One Gate at a Time: Complexity Growth in Random Quantum Circuits**|Zhi Li et.al.|[2609.17457](http://arxiv.org/abs/2609.17457)|null|
 |**2026-09-14**|**Noise-induced classical phases in optimally-unraveled random quantum circuits**|Lorenzo Fioroni et.al.|[2609.16160](http://arxiv.org/abs/2609.16160)|null|
 |**2026-09-13**|**Efficient expectation value estimation for quantum circuits via extended stabilizer frameworks and adaptive variance estimation**|Yunseo Hwang et.al.|[2609.14252](http://arxiv.org/abs/2609.14252)|null|
 |**2026-09-10**|**Taking Advantage of Noise in Distributed Random Quantum Circuits**|J. Montes et.al.|[2609.11898](http://arxiv.org/abs/2609.11898)|null|
-|**2026-09-09**|**Probing quantum chaos near a wormhole throat with a circular string**|Ai-chen Li et.al.|[2609.09613](http://arxiv.org/abs/2609.09613)|null|
+|**2026-09-22**|**Probing quantum chaos near a wormhole throat with a circular string**|Ai-chen Li et.al.|[2609.09613](http://arxiv.org/abs/2609.09613)|null|
 |**2026-09-02**|**Multi-Boundary Many-Body Quantum Teleportation**|Tal Schwartzman et.al.|[2609.03053](http://arxiv.org/abs/2609.03053)|null|
 |**2026-09-17**|**Unfolded Krylov complexity: universal chaotic dynamics without false positives**|Johanna Erdmenger et.al.|[2609.02228](http://arxiv.org/abs/2609.02228)|null|
 |**2026-09-01**|**Error accumulation in dissipative quantum circuits**|Nadir Samos-Sáenz de Buruaga et.al.|[2609.01848](http://arxiv.org/abs/2609.01848)|null|
@@ -3306,7 +3310,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -3314,6 +3318,13 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-22**|**Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery**|Daniel Dilley et.al.|[2609.26784](http://arxiv.org/abs/2609.26784)|null|
+|**2026-09-22**|**A Syndrome-Extraction Framework for Distributed Lattice Surgery on Arbitrary Rotated Surface-Code Layouts**|Pritesh Thakur et.al.|[2609.26736](http://arxiv.org/abs/2609.26736)|null|
+|**2026-09-22**|**Error Correction Properties of Covariant Bosonic Encodings**|Frederic St-Amand et.al.|[2609.26660](http://arxiv.org/abs/2609.26660)|null|
+|**2026-09-22**|**Annihilator and twisted Euclidean duality for quasi-polycyclic codes**|Tushar Bag et.al.|[2609.26633](http://arxiv.org/abs/2609.26633)|null|
+|**2026-09-22**|**Tensor Network Simulation of Dynamic Circuits**|Innocenzo Fulginiti et.al.|[2609.26516](http://arxiv.org/abs/2609.26516)|null|
+|**2026-09-22**|**When Quantum Meets AI: Quantum Methods for Machine Learning and Machine Learning Methods for Quantum Systems**|Tak Hur et.al.|[2609.25641](http://arxiv.org/abs/2609.25641)|null|
+|**2026-09-21**|**Exploring Asymmetric QEC Code Concatenation**|Sayam Sethi et.al.|[2609.25251](http://arxiv.org/abs/2609.25251)|null|
 |**2026-09-21**|**Improved polynomial-time algorithms for detecting and recovering planted $Θ(\sqrt{n})$ -cliques**|Dmitriy Kunisky et.al.|[2609.24780](http://arxiv.org/abs/2609.24780)|null|
 |**2026-09-21**|**A Carbon-Aware Quantum Computing Framework for LCA-Driven Sustainability in Quantum Cloud Services**|Muhammad Umar et.al.|[2609.24224](http://arxiv.org/abs/2609.24224)|null|
 |**2026-09-20**|**Flow-Based Lattice Surgery Optimization with Runtime T Gate Scheduling**|Raymond Iacobacci et.al.|[2609.23756](http://arxiv.org/abs/2609.23756)|null|
@@ -5857,5 +5868,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
 

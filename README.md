@@ -1,4 +1,4 @@
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**Near-Optimal Bell Nonlocality with GKP and Entangled Cat States**|Özlem Erkılıç et.al.|[2609.27640](http://arxiv.org/abs/2609.27640)|null|
+|**2026-09-23**|**Higher-order Spatially Separated Correlations and Quantum Magic in the Long-range Transverse Field Ising Model**|Paweł Cieśliński et.al.|[2609.27390](http://arxiv.org/abs/2609.27390)|null|
 |**2026-09-21**|**Nonlocal advantage of quantum coherence in tau-lepton pairs from electron--positron collisions**|Yoav Afik et.al.|[2609.25214](http://arxiv.org/abs/2609.25214)|null|
 |**2026-09-21**|**Trade-offs and experimental feasibility of nonlocal polygamy with two-outcome Bell inequalities**|Josep Batle et.al.|[2609.24835](http://arxiv.org/abs/2609.24835)|null|
 |**2026-09-19**|**The Generalised Causality Principle**|Sahil Gopalkrishna Naik et.al.|[2609.22998](http://arxiv.org/abs/2609.22998)|null|
@@ -798,12 +800,13 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## Quantum causal model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**Quantum Metrology for Signals with an Unknown Causal Structure**|Gwon Ryul Han et.al.|[2609.28066](http://arxiv.org/abs/2609.28066)|null|
 |**2026-09-21**|**No violation on a generalisation of Leggett-Garg inequality and Bell-CHSH inequality with extended probability**|Sirawit Kajonsombat et.al.|[2609.24169](http://arxiv.org/abs/2609.24169)|null|
 |**2026-09-19**|**The Generalised Causality Principle**|Sahil Gopalkrishna Naik et.al.|[2609.22998](http://arxiv.org/abs/2609.22998)|null|
 |**2026-09-16**|**Interpreting quantum coherence of neutrinos in asymptotically flat spacetimes via effective distances: Solution to the paradoxes of the Leggett-Garg inequality and quantum information quantities**|Shan Wu et.al.|[2609.19198](http://arxiv.org/abs/2609.19198)|null|
@@ -1150,7 +1153,7 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -1491,7 +1494,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1717,7 +1720,7 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## Resource theory
 
@@ -2381,12 +2384,13 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**Analog neutral-atom for in-memory processing in quantum reservoir computing**|Luca Nigro et.al.|[2609.28441](http://arxiv.org/abs/2609.28441)|null|
 |**2026-09-21**|**Unified spatiotemporal quantum states and spatiotemporal entanglement from Kirkwood-Dirac phase space**|Zhian Jia et.al.|[2609.24680](http://arxiv.org/abs/2609.24680)|null|
 |**2026-09-22**|**Lindbladian quantum chaos beyond classical strange attractors**|Ángel L. Corps et.al.|[2609.18464](http://arxiv.org/abs/2609.18464)|null|
 |**2026-09-16**|**Signatures of Chaos in a Quasiperiodically Driven Quantum Impact Oscillator**|Deepshikha Singh et.al.|[2609.18350](http://arxiv.org/abs/2609.18350)|null|
@@ -3310,7 +3314,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -3318,6 +3322,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-22**|**Monolithic Quantum Error Correction in the Presence of Distinguishability**|Shubham P. Jain et.al.|[2609.26946](http://arxiv.org/abs/2609.26946)|null|
+|**2026-09-22**|**Bosonic Error Correction with Fluxonium**|Shantanu R. Jha et.al.|[2609.26880](http://arxiv.org/abs/2609.26880)|null|
 |**2026-09-22**|**Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery**|Daniel Dilley et.al.|[2609.26784](http://arxiv.org/abs/2609.26784)|null|
 |**2026-09-22**|**A Syndrome-Extraction Framework for Distributed Lattice Surgery on Arbitrary Rotated Surface-Code Layouts**|Pritesh Thakur et.al.|[2609.26736](http://arxiv.org/abs/2609.26736)|null|
 |**2026-09-22**|**Error Correction Properties of Covariant Bosonic Encodings**|Frederic St-Amand et.al.|[2609.26660](http://arxiv.org/abs/2609.26660)|null|
@@ -5868,5 +5874,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 

@@ -3325,6 +3325,12 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-24**|**Non-Abelian sheaf quantum LDPC codes: good and magical**|Zimu Li et.al.|[2609.30159](http://arxiv.org/abs/2609.30159)|null|
+|**2026-09-24**|**Design Principles for Ultra-High-Rate Quantum Codes**|Jong Yeon Lee et.al.|[2609.30069](http://arxiv.org/abs/2609.30069)|null|
+|**2026-09-24**|**Representation-Dependent Recoverability in Quantum Compilation**|Jinze Yang et.al.|[2609.29210](http://arxiv.org/abs/2609.29210)|null|
+|**2026-09-24**|**Decoder Model Compatibility Provides Information beyond the Logical Gap under Drifting and Correlated Quantum Noise**|Aaron C. Hoyt et.al.|[2609.29018](http://arxiv.org/abs/2609.29018)|null|
+|**2026-09-23**|**Signals of AI Hallucination: Designing Hallucination-Aware Cues for Embodied Conversational Agents in VR**|Xiaoran Yang et.al.|[2609.28812](http://arxiv.org/abs/2609.28812)|null|
+|**2026-09-23**|**Mediating gates between polar molecules using microwave-dressed Rydberg atoms**|Bas Gerritsen et.al.|[2609.28694](http://arxiv.org/abs/2609.28694)|null|
 |**2026-09-22**|**Monolithic Quantum Error Correction in the Presence of Distinguishability**|Shubham P. Jain et.al.|[2609.26946](http://arxiv.org/abs/2609.26946)|null|
 |**2026-09-22**|**Bosonic Error Correction with Fluxonium**|Shantanu R. Jha et.al.|[2609.26880](http://arxiv.org/abs/2609.26880)|null|
 |**2026-09-22**|**Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery**|Daniel Dilley et.al.|[2609.26784](http://arxiv.org/abs/2609.26784)|null|

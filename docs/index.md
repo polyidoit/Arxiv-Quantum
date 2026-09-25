@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -15,7 +15,7 @@ layout: default
 |**2026-09-12**|**Towards a picture of the natural world derived from relativity and quantum theory**|Emilio Santos et.al.|[2609.20862](http://arxiv.org/abs/2609.20862)|null|
 |**2026-09-17**|**Experimental certification of the nonlocal advantages of quantum imaginarity**|Jian-Hao Wu et.al.|[2609.19625](http://arxiv.org/abs/2609.19625)|null|
 |**2026-09-16**|**Catalytic Activation of Genuine Multipartite Entanglement and Nonlocality**|Eliot Donnadieu et.al.|[2609.18570](http://arxiv.org/abs/2609.18570)|null|
-|**2026-09-14**|**Bell-inequality violation in light transmitted through disordered emitter ensembles**|Ruolin Guan et.al.|[2609.15575](http://arxiv.org/abs/2609.15575)|null|
+|**2026-09-24**|**Bell-inequality violation in light transmitted through disordered emitter ensembles**|Ruolin Guan et.al.|[2609.15575](http://arxiv.org/abs/2609.15575)|null|
 |**2026-09-13**|**Spin-spin entanglement at high energy**|Michael Fucilla et.al.|[2609.14700](http://arxiv.org/abs/2609.14700)|null|
 |**2026-09-13**|**Phase-controlled bipartite and tripartite entanglement and Bell nonlocality in a closed-loop optomechanical system**|Sha-Sha Zheng et.al.|[2609.14577](http://arxiv.org/abs/2609.14577)|null|
 |**2026-09-13**|**From breakfast, lunch, and dinner to the Bell-inequality tetrahedron**|Francesco Giacosa et.al.|[2609.14436](http://arxiv.org/abs/2609.14436)|null|
@@ -1147,8 +1147,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-21**|**Deep Reinforcement Learning on Item-Compatibility Graphs for One-Dimensional Bin Packing**|M. Aslı Aydın et.al.|[2609.25397](http://arxiv.org/abs/2609.25397)|null|
-|**2026-09-21**|**PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration**|Abolfazl Babanazari et.al.|[2609.25375](http://arxiv.org/abs/2609.25375)|null|
-|**2026-09-17**|**Zero Temperature, Degenerate Fermion Stars**|S. Boatto et.al.|[2609.20950](http://arxiv.org/abs/2609.20950)|null|
+|**2026-09-23**|**PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration**|Abolfazl Babanazari et.al.|[2609.25375](http://arxiv.org/abs/2609.25375)|null|
+|**2026-09-23**|**Zero Temperature, Degenerate Fermion Stars**|S. Boatto et.al.|[2609.20950](http://arxiv.org/abs/2609.20950)|null|
 |**2026-09-16**|**Exact Values, Extremal Classifications, and Sum-of-Squares Reductions for Second-Order Zarankiewicz Numbers**|Yi Xu et.al.|[2609.18429](http://arxiv.org/abs/2609.18429)|null|
 |**2026-09-16**|**Proof of Heisenberg's Error-Disturbance Relation for Individual Measurements**|Seiji Kosugi et.al.|[2609.18211](http://arxiv.org/abs/2609.18211)|null|
 |**2026-09-15**|**Strong aggregation of the Markov chains associated with matching models based on the automorphism group of their compatibility graphs**|Moyi Yang et.al.|[2609.16861](http://arxiv.org/abs/2609.16861)|null|
@@ -1709,7 +1709,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-22**|**How do incorrect ligands help detect a correct ligand?**|Yan-Ru Chen et.al.|[2609.25708](http://arxiv.org/abs/2609.25708)|null|
+|**2026-09-24**|**Mathematical Modelling of Within-Host HIV Dynamics with Cytotoxic Immune Response and Antiretroviral Therapy**|Maxim Polyakov et.al.|[2609.29972](http://arxiv.org/abs/2609.29972)|null|
+|**2026-09-24**|**How do incorrect ligands help detect a correct ligand?**|Yan-Ru Chen et.al.|[2609.25708](http://arxiv.org/abs/2609.25708)|null|
 |**2026-09-17**|**A Mean-Field Approach for Safe Routing of Multi-Destination Urban Air Mobility Networks**|Nameer Fawwaz Ahmed et.al.|[2609.21093](http://arxiv.org/abs/2609.21093)|null|
 |**2026-09-17**|**Mixed-precision GPU algorithms for efficient turbulent flow simulations with Raviart-Thomas finite elements**|Ivan Prusak et.al.|[2609.19828](http://arxiv.org/abs/2609.19828)|null|
 |**2026-09-16**|**Correlation geometry and topology of structured optical beams**|Jyrki Laatikainen et.al.|[2609.19103](http://arxiv.org/abs/2609.19103)|null|
@@ -2371,6 +2372,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Eigenoperator Entanglement Statistics in Local Lindbladians**|Ze-Kai Hong et.al.|[2609.29215](http://arxiv.org/abs/2609.29215)|null|
+|**2026-09-23**|**Observation of Universal Quantum Chaos at Shallow Depths**|Arman Sauliere et.al.|[2609.28623](http://arxiv.org/abs/2609.28623)|null|
 |**2026-09-23**|**Analog neutral-atom for in-memory processing in quantum reservoir computing**|Luca Nigro et.al.|[2609.28441](http://arxiv.org/abs/2609.28441)|null|
 |**2026-09-21**|**Unified spatiotemporal quantum states and spatiotemporal entanglement from Kirkwood-Dirac phase space**|Zhian Jia et.al.|[2609.24680](http://arxiv.org/abs/2609.24680)|null|
 |**2026-09-22**|**Lindbladian quantum chaos beyond classical strange attractors**|Ángel L. Corps et.al.|[2609.18464](http://arxiv.org/abs/2609.18464)|null|

@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**On the applicability of Kolmogorov's theory of probability to the description of quantum phenomena. Part II: Bell inequalities**|Maik Reddiger et.al.|[2609.31075](http://arxiv.org/abs/2609.31075)|null|
 |**2026-09-23**|**Near-Optimal Bell Nonlocality with GKP and Entangled Cat States**|Özlem Erkılıç et.al.|[2609.27640](http://arxiv.org/abs/2609.27640)|null|
 |**2026-09-23**|**Higher-order Spatially Separated Correlations and Quantum Magic in the Long-range Transverse Field Ising Model**|Paweł Cieśliński et.al.|[2609.27390](http://arxiv.org/abs/2609.27390)|null|
 |**2026-09-21**|**Nonlocal advantage of quantum coherence in tau-lepton pairs from electron--positron collisions**|Yoav Afik et.al.|[2609.25214](http://arxiv.org/abs/2609.25214)|null|

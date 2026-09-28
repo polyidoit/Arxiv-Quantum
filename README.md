@@ -1727,6 +1727,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Informational and algebraic renormalization group**|Takato Mori et.al.|[2609.30362](http://arxiv.org/abs/2609.30362)|null|
 |**2026-09-24**|**Mathematical Modelling of Within-Host HIV Dynamics with Cytotoxic Immune Response and Antiretroviral Therapy**|Maxim Polyakov et.al.|[2609.29972](http://arxiv.org/abs/2609.29972)|null|
 |**2026-09-24**|**How do incorrect ligands help detect a correct ligand?**|Yan-Ru Chen et.al.|[2609.25708](http://arxiv.org/abs/2609.25708)|null|
 |**2026-09-17**|**A Mean-Field Approach for Safe Routing of Multi-Destination Urban Air Mobility Networks**|Nameer Fawwaz Ahmed et.al.|[2609.21093](http://arxiv.org/abs/2609.21093)|null|
@@ -2392,6 +2393,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**Shaping of the finite-size chaos crossover in Floquet circuits by coherent-mismatch architecture**|Xiangjun Tan et.al.|[2609.31391](http://arxiv.org/abs/2609.31391)|null|
 |**2026-09-24**|**Eigenoperator Entanglement Statistics in Local Lindbladians**|Ze-Kai Hong et.al.|[2609.29215](http://arxiv.org/abs/2609.29215)|null|
 |**2026-09-23**|**Observation of Universal Quantum Chaos at Shallow Depths**|Arman Sauliere et.al.|[2609.28623](http://arxiv.org/abs/2609.28623)|null|
 |**2026-09-23**|**Analog neutral-atom for in-memory processing in quantum reservoir computing**|Luca Nigro et.al.|[2609.28441](http://arxiv.org/abs/2609.28441)|null|
@@ -3326,6 +3328,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-25**|**Measurement-Based Uncomputation from an Error Correction Perspective**|Minjun Jeon et.al.|[2609.31605](http://arxiv.org/abs/2609.31605)|null|
+|**2026-09-25**|**Oracle Distillation**|Ruohan Shen et.al.|[2609.31596](http://arxiv.org/abs/2609.31596)|null|
+|**2026-09-25**|**New distance bounds for one-generator quasi-cyclic codes with applications to Hermitian LCD codes and entanglement-assisted quantum codes**|Kanat Abdukhalikov et.al.|[2609.31300](http://arxiv.org/abs/2609.31300)|null|
+|**2026-09-25**|**Preparation Changes the Cost of Calibration for Quantum Control**|Xiu-Hao Deng et.al.|[2609.30910](http://arxiv.org/abs/2609.30910)|null|
+|**2026-09-24**|**Generation of Photonic Graph States with minimal number of quantum emitters**|Konstantinos-Rafail Revis et.al.|[2609.30400](http://arxiv.org/abs/2609.30400)|null|
 |**2026-09-24**|**Non-Abelian sheaf quantum LDPC codes: good and magical**|Zimu Li et.al.|[2609.30159](http://arxiv.org/abs/2609.30159)|null|
 |**2026-09-24**|**Design Principles for Ultra-High-Rate Quantum Codes**|Jong Yeon Lee et.al.|[2609.30069](http://arxiv.org/abs/2609.30069)|null|
 |**2026-09-24**|**Representation-Dependent Recoverability in Quantum Compilation**|Jinze Yang et.al.|[2609.29210](http://arxiv.org/abs/2609.29210)|null|

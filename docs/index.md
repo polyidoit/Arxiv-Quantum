@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-26**|**Quantum tomography at the Electron-Ion Collider**|Michael Fucilla et.al.|[2609.32800](http://arxiv.org/abs/2609.32800)|null|
 |**2026-09-25**|**On the applicability of Kolmogorov's theory of probability to the description of quantum phenomena. Part II: Bell inequalities**|Maik Reddiger et.al.|[2609.31075](http://arxiv.org/abs/2609.31075)|null|
 |**2026-09-23**|**Near-Optimal Bell Nonlocality with GKP and Entangled Cat States**|Özlem Erkılıç et.al.|[2609.27640](http://arxiv.org/abs/2609.27640)|null|
 |**2026-09-23**|**Higher-order Spatially Separated Correlations and Quantum Magic in the Long-range Transverse Field Ising Model**|Paweł Cieśliński et.al.|[2609.27390](http://arxiv.org/abs/2609.27390)|null|
@@ -796,6 +797,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Dilation theorem for continuum quantum stochastic processes**|Jonáš Fuksa et.al.|[2609.35403](http://arxiv.org/abs/2609.35403)|null|
 |**2026-09-23**|**Quantum Metrology for Signals with an Unknown Causal Structure**|Gwon Ryul Han et.al.|[2609.28066](http://arxiv.org/abs/2609.28066)|null|
 |**2026-09-21**|**No violation on a generalisation of Leggett-Garg inequality and Bell-CHSH inequality with extended probability**|Sirawit Kajonsombat et.al.|[2609.24169](http://arxiv.org/abs/2609.24169)|null|
 |**2026-09-19**|**The Generalised Causality Principle**|Sahil Gopalkrishna Naik et.al.|[2609.22998](http://arxiv.org/abs/2609.22998)|null|
@@ -1147,6 +1149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-27**|**An entropy-level method for quantitative time-asymptotic in the Fokker-Planck model for fermions -- appearance of non saturation**|R. Alonso et.al.|[2609.33396](http://arxiv.org/abs/2609.33396)|null|
 |**2026-09-21**|**Deep Reinforcement Learning on Item-Compatibility Graphs for One-Dimensional Bin Packing**|M. Aslı Aydın et.al.|[2609.25397](http://arxiv.org/abs/2609.25397)|null|
 |**2026-09-23**|**PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration**|Abolfazl Babanazari et.al.|[2609.25375](http://arxiv.org/abs/2609.25375)|null|
 |**2026-09-23**|**Zero Temperature, Degenerate Fermion Stars**|S. Boatto et.al.|[2609.20950](http://arxiv.org/abs/2609.20950)|null|
@@ -1494,7 +1497,7 @@ layout: default
 |**2026-08-30**|**Quantum Steering Geometry at High Energy Particle Colliders**|Juan J. Mejia Alvarez et.al.|[2608.30037](http://arxiv.org/abs/2608.30037)|null|
 |**2026-08-29**|**The Inverse Eigenvalue Problem for Partial Transposes of Two-Qubit States**|Ruoting Dou et.al.|[2608.29068](http://arxiv.org/abs/2608.29068)|null|
 |**2026-08-27**|**Network steering with arbitrarily low detection efficiency of any entangled measurement**|Shubhayan Sarkar et.al.|[2608.27582](http://arxiv.org/abs/2608.27582)|null|
-|**2026-08-18**|**Dynamical protection of quantum steering and fidelity dynamics in double Jaynes-Cummings model**|Koushik Mandal et.al.|[2608.17217](http://arxiv.org/abs/2608.17217)|null|
+|**2026-09-25**|**Dynamical protection of quantum steering and fidelity dynamics in the double Jaynes-Cummings model**|Koushik Mandal et.al.|[2608.17217](http://arxiv.org/abs/2608.17217)|null|
 |**2026-08-11**|**Quantum steering is equivalent to state-preserving conditional expectations**|Lauritz van Luijk et.al.|[2608.10783](http://arxiv.org/abs/2608.10783)|null|
 |**2026-08-04**|**Intertemporal Preference Steering in Qwen3 via Contrastive Activation Addition**|Michal Mráz et.al.|[2608.03892](http://arxiv.org/abs/2608.03892)|null|
 |**2026-07-30**|**Quantum Steering and Nonlocal Correlations Between Non-Interacting Delocalized Electrons Under Rashba Spin-Orbit Interaction**|Zakaria Bouafia et.al.|[2607.28450](http://arxiv.org/abs/2607.28450)|null|
@@ -1710,9 +1713,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-26**|**A 20-kV Optical-Injection-Enhanced 4H-SiC Reverse-Conducting IGBT With Snapback-Free Operation and Low On-State Voltage**|Yujian Chen et.al.|[2609.32437](http://arxiv.org/abs/2609.32437)|null|
 |**2026-09-24**|**Informational and algebraic renormalization group**|Takato Mori et.al.|[2609.30362](http://arxiv.org/abs/2609.30362)|null|
 |**2026-09-24**|**Mathematical Modelling of Within-Host HIV Dynamics with Cytotoxic Immune Response and Antiretroviral Therapy**|Maxim Polyakov et.al.|[2609.29972](http://arxiv.org/abs/2609.29972)|null|
-|**2026-09-24**|**How do incorrect ligands help detect a correct ligand?**|Yan-Ru Chen et.al.|[2609.25708](http://arxiv.org/abs/2609.25708)|null|
+|**2026-09-28**|**How do incorrect ligands help detect a correct ligand?**|Yan-Ru Chen et.al.|[2609.25708](http://arxiv.org/abs/2609.25708)|null|
 |**2026-09-17**|**A Mean-Field Approach for Safe Routing of Multi-Destination Urban Air Mobility Networks**|Nameer Fawwaz Ahmed et.al.|[2609.21093](http://arxiv.org/abs/2609.21093)|null|
 |**2026-09-17**|**Mixed-precision GPU algorithms for efficient turbulent flow simulations with Raviart-Thomas finite elements**|Ivan Prusak et.al.|[2609.19828](http://arxiv.org/abs/2609.19828)|null|
 |**2026-09-16**|**Correlation geometry and topology of structured optical beams**|Jyrki Laatikainen et.al.|[2609.19103](http://arxiv.org/abs/2609.19103)|null|
@@ -2374,6 +2378,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Speed-Fisher Information: Chaos and Irreversibility in Classical and Quantum Dynamics**|Nachiket Karve et.al.|[2609.35687](http://arxiv.org/abs/2609.35687)|null|
+|**2026-09-28**|**Trotterisation Thresholds and Dissipative Quantum Chaos in Open-System Digital Quantum Simulation**|Angsar Manatuly et.al.|[2609.34623](http://arxiv.org/abs/2609.34623)|null|
+|**2026-09-25**|**From Ehrenfest to Heisenberg scales: a hierarchy of mixing times for a phase-randomized quantum baker walk**|Amir Sepehri et.al.|[2609.32067](http://arxiv.org/abs/2609.32067)|null|
 |**2026-09-25**|**Shaping of the finite-size chaos crossover in Floquet circuits by coherent-mismatch architecture**|Xiangjun Tan et.al.|[2609.31391](http://arxiv.org/abs/2609.31391)|null|
 |**2026-09-24**|**Eigenoperator Entanglement Statistics in Local Lindbladians**|Ze-Kai Hong et.al.|[2609.29215](http://arxiv.org/abs/2609.29215)|null|
 |**2026-09-23**|**Observation of Universal Quantum Chaos at Shallow Depths**|Arman Sauliere et.al.|[2609.28623](http://arxiv.org/abs/2609.28623)|null|
@@ -3307,6 +3314,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-28**|**Circuit-level benchmarks of GKP-concatenated qLDPC Codes**|Yuan Yao et.al.|[2609.35282](http://arxiv.org/abs/2609.35282)|null|
+|**2026-09-28**|**Computational Complexity of Clifford Template Compilation: Are Quantum Computers Useful for Compiling Quantum Circuits?**|Keisuke Fujii et.al.|[2609.35239](http://arxiv.org/abs/2609.35239)|null|
+|**2026-09-28**|**Asymptotically Good Quantum Codes with Addressable Transversal T Gates**|Tongyin Lin et.al.|[2609.35129](http://arxiv.org/abs/2609.35129)|null|
+|**2026-09-27**|**Hardness of Approximating Quantum Code Distance Beyond $\sqrt{N}$**|Upendra Kapshikar et.al.|[2609.33956](http://arxiv.org/abs/2609.33956)|null|
+|**2026-09-27**|**AG-CoT: Verified Algorithmic Traces for LLM Program Synthesis on Clifford Circuits**|Lu Wei et.al.|[2609.33192](http://arxiv.org/abs/2609.33192)|null|
 |**2026-09-25**|**Measurement-Based Uncomputation from an Error Correction Perspective**|Minjun Jeon et.al.|[2609.31605](http://arxiv.org/abs/2609.31605)|null|
 |**2026-09-25**|**Oracle Distillation**|Ruohan Shen et.al.|[2609.31596](http://arxiv.org/abs/2609.31596)|null|
 |**2026-09-25**|**New distance bounds for one-generator quasi-cyclic codes with applications to Hermitian LCD codes and entanglement-assisted quantum codes**|Kanat Abdukhalikov et.al.|[2609.31300](http://arxiv.org/abs/2609.31300)|null|

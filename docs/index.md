@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Genuine Multipartite Nonlocality Is Fermionic Magic**|Jamal Slim et.al.|[2609.39411](http://arxiv.org/abs/2609.39411)|null|
+|**2026-09-29**|**Experimental certification of multipartite Bell correlations using only few-body symmetric correlations**|Jiacheng Sun et.al.|[2609.37442](http://arxiv.org/abs/2609.37442)|null|
+|**2026-09-29**|**Device-independent quantification of steerability in tripartite scenario**|Xin-Hong Wang et.al.|[2609.36907](http://arxiv.org/abs/2609.36907)|null|
 |**2026-09-26**|**Quantum tomography at the Electron-Ion Collider**|Michael Fucilla et.al.|[2609.32800](http://arxiv.org/abs/2609.32800)|null|
 |**2026-09-25**|**On the applicability of Kolmogorov's theory of probability to the description of quantum phenomena. Part II: Bell inequalities**|Maik Reddiger et.al.|[2609.31075](http://arxiv.org/abs/2609.31075)|null|
 |**2026-09-23**|**Near-Optimal Bell Nonlocality with GKP and Entangled Cat States**|Özlem Erkılıç et.al.|[2609.27640](http://arxiv.org/abs/2609.27640)|null|
@@ -1149,6 +1152,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Sharp Second-Best Welfare in Bilateral and Matching Markets**|Zhengyang Liu et.al.|[2609.37366](http://arxiv.org/abs/2609.37366)|null|
 |**2026-09-27**|**An entropy-level method for quantitative time-asymptotic in the Fokker-Planck model for fermions -- appearance of non saturation**|R. Alonso et.al.|[2609.33396](http://arxiv.org/abs/2609.33396)|null|
 |**2026-09-21**|**Deep Reinforcement Learning on Item-Compatibility Graphs for One-Dimensional Bin Packing**|M. Aslı Aydın et.al.|[2609.25397](http://arxiv.org/abs/2609.25397)|null|
 |**2026-09-23**|**PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration**|Abolfazl Babanazari et.al.|[2609.25375](http://arxiv.org/abs/2609.25375)|null|
@@ -1489,6 +1493,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Device-independent quantification of steerability in tripartite scenario**|Xin-Hong Wang et.al.|[2609.36907](http://arxiv.org/abs/2609.36907)|null|
 |**2026-09-19**|**Asymmetric Two-Way Gaussian Quantum Steering in Coupled Lossy Waveguides**|Hafsa Zia et.al.|[2609.22815](http://arxiv.org/abs/2609.22815)|null|
 |**2026-09-13**|**EPR-steering boundaries from a universal spectral equation**|Yu-Xuan Zhang et.al.|[2609.14272](http://arxiv.org/abs/2609.14272)|null|
 |**2026-09-12**|**Faithful certification of steering- and incompatibility-breaking channels**|Po-Ting Hsu et.al.|[2609.13885](http://arxiv.org/abs/2609.13885)|null|
@@ -1713,8 +1718,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**A General Theory of Multi-Resource Theories Involving Finite-Group Asymmetry**|Yosuke Mitsuhashi et.al.|[2609.40255](http://arxiv.org/abs/2609.40255)|null|
+|**2026-09-30**|**Causal inequalities witness non-stabilizerness**|Leonardo Vaglini et.al.|[2609.40223](http://arxiv.org/abs/2609.40223)|null|
+|**2026-09-30**|**GateSPINE: Gated Cross-View Fusion for Lumbar Spine MRI Report Generation**|Hoang Nguyen Van et.al.|[2609.40091](http://arxiv.org/abs/2609.40091)|null|
+|**2026-09-29**|**AutoMark: Enabling Autoresearch to Discover Better LLM Watermarks**|Thibaud Gloaguen et.al.|[2609.37310](http://arxiv.org/abs/2609.37310)|null|
+|**2026-09-29**|**Optimal Entanglement Routing in Quantum Repeater Chains: Beyond Fixed Operation Order and Purification Schedule**|Aikaterini Mandilara et.al.|[2609.37206](http://arxiv.org/abs/2609.37206)|null|
+|**2026-09-27**|**Learning in the Transverse Subspace: A Minimal Representation for Divergence-Free Operator Learning**|Yifei Sun et.al.|[2609.35884](http://arxiv.org/abs/2609.35884)|null|
 |**2026-09-26**|**A 20-kV Optical-Injection-Enhanced 4H-SiC Reverse-Conducting IGBT With Snapback-Free Operation and Low On-State Voltage**|Yujian Chen et.al.|[2609.32437](http://arxiv.org/abs/2609.32437)|null|
-|**2026-09-24**|**Informational and algebraic renormalization group**|Takato Mori et.al.|[2609.30362](http://arxiv.org/abs/2609.30362)|null|
+|**2026-09-30**|**Informational and algebraic renormalization group**|Takato Mori et.al.|[2609.30362](http://arxiv.org/abs/2609.30362)|null|
 |**2026-09-24**|**Mathematical Modelling of Within-Host HIV Dynamics with Cytotoxic Immune Response and Antiretroviral Therapy**|Maxim Polyakov et.al.|[2609.29972](http://arxiv.org/abs/2609.29972)|null|
 |**2026-09-28**|**How do incorrect ligands help detect a correct ligand?**|Yan-Ru Chen et.al.|[2609.25708](http://arxiv.org/abs/2609.25708)|null|
 |**2026-09-17**|**A Mean-Field Approach for Safe Routing of Multi-Destination Urban Air Mobility Networks**|Nameer Fawwaz Ahmed et.al.|[2609.21093](http://arxiv.org/abs/2609.21093)|null|
@@ -2378,6 +2389,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Dissipation accelerates quantum and classical simulation of open-system dynamics**|Armando Angrisani et.al.|[2609.40174](http://arxiv.org/abs/2609.40174)|null|
+|**2026-09-30**|**Pauli instability in arbitrary states: detecting magic in physical correlators**|Tanner Jackson et.al.|[2609.40032](http://arxiv.org/abs/2609.40032)|null|
+|**2026-09-30**|**Learning Random Quantum Circuits and the Emergence of Pseudorandomness**|Srinivasan Arunachalam et.al.|[2609.39821](http://arxiv.org/abs/2609.39821)|null|
+|**2026-09-30**|**Chiral quantum chaos around exponentially many zero modes in the quantum breakdown model**|Kohei Kawabata et.al.|[2609.39404](http://arxiv.org/abs/2609.39404)|null|
+|**2026-09-30**|**Metrological Benchmarking of Random Quantum Circuits**|Simone Cavazzoni et.al.|[2609.39226](http://arxiv.org/abs/2609.39226)|null|
+|**2026-09-29**|**Exact Operator Complexity Measures from Random Matchgate Unitaries**|Gregory A. L. White et.al.|[2609.38300](http://arxiv.org/abs/2609.38300)|null|
+|**2026-09-29**|**Towards verifiable quantum advantage with random circuits: Observables that survive concentration**|Antonio A. Mele et.al.|[2609.37890](http://arxiv.org/abs/2609.37890)|null|
+|**2026-09-28**|**Out-of-Time-Ordered Correlators Beyond Lindblad**|Elisa Vallini et.al.|[2609.36029](http://arxiv.org/abs/2609.36029)|null|
+|**2026-09-28**|**Out-of-time-order Correlators in Volcano potentials**|Aritra Banerjee et.al.|[2609.35990](http://arxiv.org/abs/2609.35990)|null|
 |**2026-09-28**|**Speed-Fisher Information: Chaos and Irreversibility in Classical and Quantum Dynamics**|Nachiket Karve et.al.|[2609.35687](http://arxiv.org/abs/2609.35687)|null|
 |**2026-09-28**|**Trotterisation Thresholds and Dissipative Quantum Chaos in Open-System Digital Quantum Simulation**|Angsar Manatuly et.al.|[2609.34623](http://arxiv.org/abs/2609.34623)|null|
 |**2026-09-25**|**From Ehrenfest to Heisenberg scales: a hierarchy of mixing times for a phase-randomized quantum baker walk**|Amir Sepehri et.al.|[2609.32067](http://arxiv.org/abs/2609.32067)|null|
@@ -3314,6 +3334,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-09-30**|**Explicit Capacity-Achieving Quantum LDPC Codes List Decodable in Near-linear Time**|William Gay et.al.|[2609.40313](http://arxiv.org/abs/2609.40313)|null|
+|**2026-09-30**|**Classical simulation of coherent crosstalk in surface codes**|Andrew S. Darmawan et.al.|[2609.40279](http://arxiv.org/abs/2609.40279)|null|
+|**2026-09-30**|**Self-testing the toric code against classical communication**|Gustavo Fróes et.al.|[2609.40259](http://arxiv.org/abs/2609.40259)|null|
+|**2026-09-30**|**From Random Quantum Codes to Explicit qLDPC Codes via Local Properties**|Fernando Granha Jeronimo et.al.|[2609.40252](http://arxiv.org/abs/2609.40252)|null|
+|**2026-09-30**|**CSS codes for Quantum Metrology with Discrete-time Error Correction**|Ugnė Liaubaitė et.al.|[2609.40022](http://arxiv.org/abs/2609.40022)|null|
+|**2026-09-30**|**Logical information localisation in stabiliser codes via single-qubit measurements**|Jelena Mackeprang et.al.|[2609.39980](http://arxiv.org/abs/2609.39980)|null|
+|**2026-09-30**|**Fault Tolerant Quantum Phases of Matter**|Colin V. Coane et.al.|[2609.39879](http://arxiv.org/abs/2609.39879)|null|
+|**2026-09-30**|**Measurement and feedforward circuits from quantum error correcting codes**|Georgios Styliaris et.al.|[2609.39764](http://arxiv.org/abs/2609.39764)|null|
+|**2026-09-30**|**The Intrinsic Cost of Quantum Syndrome Extraction**|Chia-Tung Chu et.al.|[2609.39705](http://arxiv.org/abs/2609.39705)|null|
+|**2026-09-30**|**Thermodynamics of Ahn--Doherty--Landahl Continuous Quantum Error Correction**|Juan Garcia-Nila et.al.|[2609.39597](http://arxiv.org/abs/2609.39597)|null|
 |**2026-09-28**|**Circuit-level benchmarks of GKP-concatenated qLDPC Codes**|Yuan Yao et.al.|[2609.35282](http://arxiv.org/abs/2609.35282)|null|
 |**2026-09-28**|**Computational Complexity of Clifford Template Compilation: Are Quantum Computers Useful for Compiling Quantum Circuits?**|Keisuke Fujii et.al.|[2609.35239](http://arxiv.org/abs/2609.35239)|null|
 |**2026-09-28**|**Asymptotically Good Quantum Codes with Addressable Transversal T Gates**|Tongyin Lin et.al.|[2609.35129](http://arxiv.org/abs/2609.35129)|null|

@@ -1730,6 +1730,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Robust exponential lower bounds for fermionic and bosonic Gaussian ranks**|Fuchuan Wei et.al.|[2610.02172](http://arxiv.org/abs/2610.02172)|null|
 |**2026-09-30**|**A General Theory of Multi-Resource Theories Involving Finite-Group Asymmetry**|Yosuke Mitsuhashi et.al.|[2609.40255](http://arxiv.org/abs/2609.40255)|null|
 |**2026-09-30**|**Causal inequalities witness non-stabilizerness**|Leonardo Vaglini et.al.|[2609.40223](http://arxiv.org/abs/2609.40223)|null|
 |**2026-09-30**|**GateSPINE: Gated Cross-View Fusion for Lumbar Spine MRI Report Generation**|Hoang Nguyen Van et.al.|[2609.40091](http://arxiv.org/abs/2609.40091)|null|
@@ -2401,6 +2402,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Random Quantum Circuits Beyond Moment Matching**|Shih-Han Hung et.al.|[2610.02135](http://arxiv.org/abs/2610.02135)|null|
+|**2026-10-01**|**Local random quantum circuits converge to the Porter-Thomas distribution in polynomial depth**|Aniruddha Sen et.al.|[2610.02125](http://arxiv.org/abs/2610.02125)|null|
+|**2026-10-01**|**On the pseudorandomness of simple quantum processes**|Jesko Dujmovic et.al.|[2610.02100](http://arxiv.org/abs/2610.02100)|null|
 |**2026-09-30**|**Dissipation accelerates quantum and classical simulation of open-system dynamics**|Armando Angrisani et.al.|[2609.40174](http://arxiv.org/abs/2609.40174)|null|
 |**2026-09-30**|**Pauli instability in arbitrary states: detecting magic in physical correlators**|Tanner Jackson et.al.|[2609.40032](http://arxiv.org/abs/2609.40032)|null|
 |**2026-09-30**|**Learning Random Quantum Circuits and the Emergence of Pseudorandomness**|Srinivasan Arunachalam et.al.|[2609.39821](http://arxiv.org/abs/2609.39821)|null|
@@ -3346,6 +3350,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-01**|**A baby universe from a large family: booklet cosmology states and quantum error correction**|Jingshu Dai et.al.|[2610.02168](http://arxiv.org/abs/2610.02168)|null|
+|**2026-10-01**|**One-Shot any Code**|Andrew C. Yuan et.al.|[2610.02137](http://arxiv.org/abs/2610.02137)|null|
+|**2026-10-01**|**Adaptivity is all you need: Optimal stabilizer learning using just single-copy measurements**|L. Bittel et.al.|[2610.02031](http://arxiv.org/abs/2610.02031)|null|
+|**2026-10-01**|**Loss-tolerant distributed lattice surgery using fusion networks**|Felix Burt et.al.|[2610.01923](http://arxiv.org/abs/2610.01923)|null|
+|**2026-10-01**|**A Code-Agnostic Graph Neural Network Decoder from the Detection Error Model**|Federico Alberto Astolfi et.al.|[2610.01683](http://arxiv.org/abs/2610.01683)|null|
+|**2026-10-01**|**Linear-Time Encodable Quantum Codes near the CSS GV Bound**|Rachel Yun Zhang et.al.|[2610.01277](http://arxiv.org/abs/2610.01277)|null|
+|**2026-10-01**|**From Steane to A7: Quantum Codes from Invariant States**|Ian Teixeira et.al.|[2610.00865](http://arxiv.org/abs/2610.00865)|null|
+|**2026-09-30**|**Graph Neural Post-selection for Quantum Error Correction**|Conor Carty et.al.|[2610.00504](http://arxiv.org/abs/2610.00504)|null|
+|**2026-09-30**|**Factor Code Networks**|Abhisek Sahu et.al.|[2610.00469](http://arxiv.org/abs/2610.00469)|null|
 |**2026-09-30**|**Explicit Capacity-Achieving Quantum LDPC Codes List Decodable in Near-linear Time**|William Gay et.al.|[2609.40313](http://arxiv.org/abs/2609.40313)|null|
 |**2026-09-30**|**Classical simulation of coherent crosstalk in surface codes**|Andrew S. Darmawan et.al.|[2609.40279](http://arxiv.org/abs/2609.40279)|null|
 |**2026-09-30**|**Self-testing the toric code against classical communication**|Gustavo Fróes et.al.|[2609.40259](http://arxiv.org/abs/2609.40259)|null|

@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Efficiently Optimizing the Quantum Value of Bell Inequalities using Batched Gradient Descent**|Xinyu Xu et.al.|[2610.01699](http://arxiv.org/abs/2610.01699)|null|
+|**2026-10-01**|**Efficient certification of time-reversal symmetry requires entanglement**|Zhenhuan Liu et.al.|[2610.01555](http://arxiv.org/abs/2610.01555)|null|
+|**2026-10-01**|**Robustness hierarchy of bipartite quantum correlations under noisy dynamics**|Shakib Daryanoosh et.al.|[2610.01163](http://arxiv.org/abs/2610.01163)|null|
+|**2026-10-01**|**Device-Independent Conference Keys from Parity-Extended Games**|Suvradip Chakraborty et.al.|[2610.01025](http://arxiv.org/abs/2610.01025)|null|
+|**2026-09-30**|**Quantum key distribution using generalized contextuality against post-quantum eavesdroppers**|Daniel Centeno et.al.|[2610.00595](http://arxiv.org/abs/2610.00595)|null|
 |**2026-09-30**|**Genuine Multipartite Nonlocality Is Fermionic Magic**|Jamal Slim et.al.|[2609.39411](http://arxiv.org/abs/2609.39411)|null|
 |**2026-09-29**|**Experimental certification of multipartite Bell correlations using only few-body symmetric correlations**|Jiacheng Sun et.al.|[2609.37442](http://arxiv.org/abs/2609.37442)|null|
 |**2026-09-29**|**Device-independent quantification of steerability in tripartite scenario**|Xin-Hong Wang et.al.|[2609.36907](http://arxiv.org/abs/2609.36907)|null|
@@ -800,6 +805,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Function-like pseudorandom unitaries generate pseudorandom quantum processes**|Zitai Xu et.al.|[2610.01038](http://arxiv.org/abs/2610.01038)|null|
+|**2026-09-30**|**Characterizing unitaries via quasi-process functions**|Nasra Daher Ahmed et.al.|[2610.00579](http://arxiv.org/abs/2610.00579)|null|
+|**2026-09-30**|**No-signaling-in-time condition for three-flavor neutrino oscillations**|Massimo Blasone et.al.|[2610.00439](http://arxiv.org/abs/2610.00439)|null|
 |**2026-09-28**|**Dilation theorem for continuum quantum stochastic processes**|Jonáš Fuksa et.al.|[2609.35403](http://arxiv.org/abs/2609.35403)|null|
 |**2026-09-23**|**Quantum Metrology for Signals with an Unknown Causal Structure**|Gwon Ryul Han et.al.|[2609.28066](http://arxiv.org/abs/2609.28066)|null|
 |**2026-09-21**|**No violation on a generalisation of Leggett-Garg inequality and Bell-CHSH inequality with extended probability**|Sirawit Kajonsombat et.al.|[2609.24169](http://arxiv.org/abs/2609.24169)|null|
@@ -1152,6 +1160,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Standard Quadratic Formulations of Many NP Problems: A Simplex-Based Compilation Framework for Combinatorial Optimization**|Mohammad-Ali Miri et.al.|[2610.01911](http://arxiv.org/abs/2610.01911)|null|
+|**2026-10-01**|**Endomorphism algebras of Gorenstein-projective modules over string algebras**|Yu-Zhe Liu et.al.|[2610.00937](http://arxiv.org/abs/2610.00937)|null|
+|**2026-09-24**|**Frame dependence of Kochen-Specker contextuality for relativistic spin systems**|Jonte R. Hance et.al.|[2610.00274](http://arxiv.org/abs/2610.00274)|null|
 |**2026-09-29**|**Sharp Second-Best Welfare in Bilateral and Matching Markets**|Zhengyang Liu et.al.|[2609.37366](http://arxiv.org/abs/2609.37366)|null|
 |**2026-09-27**|**An entropy-level method for quantitative time-asymptotic in the Fokker-Planck model for fermions -- appearance of non saturation**|R. Alonso et.al.|[2609.33396](http://arxiv.org/abs/2609.33396)|null|
 |**2026-09-21**|**Deep Reinforcement Learning on Item-Compatibility Graphs for One-Dimensional Bin Packing**|M. Aslı Aydın et.al.|[2609.25397](http://arxiv.org/abs/2609.25397)|null|
@@ -1493,6 +1504,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Robustness hierarchy of bipartite quantum correlations under noisy dynamics**|Shakib Daryanoosh et.al.|[2610.01163](http://arxiv.org/abs/2610.01163)|null|
 |**2026-09-29**|**Device-independent quantification of steerability in tripartite scenario**|Xin-Hong Wang et.al.|[2609.36907](http://arxiv.org/abs/2609.36907)|null|
 |**2026-09-19**|**Asymmetric Two-Way Gaussian Quantum Steering in Coupled Lossy Waveguides**|Hafsa Zia et.al.|[2609.22815](http://arxiv.org/abs/2609.22815)|null|
 |**2026-09-13**|**EPR-steering boundaries from a universal spectral equation**|Yu-Xuan Zhang et.al.|[2609.14272](http://arxiv.org/abs/2609.14272)|null|

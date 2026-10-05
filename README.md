@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**An operational characterization of finite-dimensional quantum theory**|Lionel J. Dmello et.al.|[2610.03694](http://arxiv.org/abs/2610.03694)|null|
+|**2026-10-02**|**Two-qutrit Werner state is always local**|Paweł Caban et.al.|[2610.02997](http://arxiv.org/abs/2610.02997)|null|
 |**2026-10-01**|**Efficiently Optimizing the Quantum Value of Bell Inequalities using Batched Gradient Descent**|Xinyu Xu et.al.|[2610.01699](http://arxiv.org/abs/2610.01699)|null|
 |**2026-10-01**|**Efficient certification of time-reversal symmetry requires entanglement**|Zhenhuan Liu et.al.|[2610.01555](http://arxiv.org/abs/2610.01555)|null|
 |**2026-10-01**|**Robustness hierarchy of bipartite quantum correlations under noisy dynamics**|Shakib Daryanoosh et.al.|[2610.01163](http://arxiv.org/abs/2610.01163)|null|
@@ -816,6 +818,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**Lifting Multiplicity in Randomized Benchmarking**|Yale Fan et.al.|[2610.03586](http://arxiv.org/abs/2610.03586)|null|
 |**2026-10-01**|**Function-like pseudorandom unitaries generate pseudorandom quantum processes**|Zitai Xu et.al.|[2610.01038](http://arxiv.org/abs/2610.01038)|null|
 |**2026-09-30**|**Characterizing unitaries via quasi-process functions**|Nasra Daher Ahmed et.al.|[2610.00579](http://arxiv.org/abs/2610.00579)|null|
 |**2026-09-30**|**No-signaling-in-time condition for three-flavor neutrino oscillations**|Massimo Blasone et.al.|[2610.00439](http://arxiv.org/abs/2610.00439)|null|
@@ -1173,6 +1176,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**Orthogonality, Spectral Filling, and Uncertainty**|Travis Alvarez et.al.|[2610.02484](http://arxiv.org/abs/2610.02484)|null|
 |**2026-10-01**|**Standard Quadratic Formulations of Many NP Problems: A Simplex-Based Compilation Framework for Combinatorial Optimization**|Mohammad-Ali Miri et.al.|[2610.01911](http://arxiv.org/abs/2610.01911)|null|
 |**2026-10-01**|**Endomorphism algebras of Gorenstein-projective modules over string algebras**|Yu-Zhe Liu et.al.|[2610.00937](http://arxiv.org/abs/2610.00937)|null|
 |**2026-09-24**|**Frame dependence of Kochen-Specker contextuality for relativistic spin systems**|Jonte R. Hance et.al.|[2610.00274](http://arxiv.org/abs/2610.00274)|null|
@@ -1747,6 +1751,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**Exponential lower bounds on the fermionic Gaussian rank of magic states and the bosonic coherent state rank of Fock states**|Oliver Reardon-Smith et.al.|[2610.03699](http://arxiv.org/abs/2610.03699)|null|
+|**2026-10-02**|**HyperFuse: Fast Self-Supervised Node Embeddings for Attributed Hypergraphs**|Megha P et.al.|[2610.03211](http://arxiv.org/abs/2610.03211)|null|
+|**2026-10-02**|**Resource Theory of Aquaternionicity: Every Pure State Is a Replicable Resource for Exact Simulation of Arbitrary Quantum Operations**|Hayato Arai et.al.|[2610.02942](http://arxiv.org/abs/2610.02942)|null|
 |**2026-10-01**|**Robust exponential lower bounds for fermionic and bosonic Gaussian ranks**|Fuchuan Wei et.al.|[2610.02172](http://arxiv.org/abs/2610.02172)|null|
 |**2026-09-30**|**A General Theory of Multi-Resource Theories Involving Finite-Group Asymmetry**|Yosuke Mitsuhashi et.al.|[2609.40255](http://arxiv.org/abs/2609.40255)|null|
 |**2026-09-30**|**Causal inequalities witness non-stabilizerness**|Leonardo Vaglini et.al.|[2609.40223](http://arxiv.org/abs/2609.40223)|null|
@@ -3371,6 +3378,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-02**|**Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules**|Oscar Higgott et.al.|[2610.03682](http://arxiv.org/abs/2610.03682)|null|
+|**2026-10-02**|**Exact Recovery for Non-Abelian Surface Codes**|Alison Warman et.al.|[2610.03677](http://arxiv.org/abs/2610.03677)|null|
+|**2026-10-02**|**BARC codes: general polynomial framework for coherent-state superposition codes**|Praneel Gore et.al.|[2610.03663](http://arxiv.org/abs/2610.03663)|null|
+|**2026-10-02**|**What Must a Quantum-Memory Decoder Know About Temporally Correlated Noise?**|Danesh Morales-Hashemi et.al.|[2610.03545](http://arxiv.org/abs/2610.03545)|null|
+|**2026-10-02**|**Subdimensional linear-optical quantum computation: from qudit resource states to qubit quantum computation**|Tomohiro Yamazaki et.al.|[2610.03408](http://arxiv.org/abs/2610.03408)|null|
+|**2026-10-02**|**Optimizing quantum error correction through error attribution**|Yuguo Shao et.al.|[2610.03399](http://arxiv.org/abs/2610.03399)|null|
+|**2026-10-02**|**Beyond Pure Dephasing: Quantum Error Correction in Single Molecules Requires Multiple Spins**|Matteo Mezzadri et.al.|[2610.03318](http://arxiv.org/abs/2610.03318)|null|
+|**2026-10-02**|**Quantum code parameters, checkable by a certificate of provable size**|Shuoming An et.al.|[2610.03214](http://arxiv.org/abs/2610.03214)|null|
+|**2026-10-02**|**Quantum Error-Corrected Memories Keep Proper Time**|Sebastian P. Kish et.al.|[2610.02786](http://arxiv.org/abs/2610.02786)|null|
+|**2026-10-02**|**SMP: A General Hyperedge-Based Framework for Circuit-Level Quantum Error Correction**|Siying Wang et.al.|[2610.02734](http://arxiv.org/abs/2610.02734)|null|
 |**2026-10-01**|**A baby universe from a large family: booklet cosmology states and quantum error correction**|Jingshu Dai et.al.|[2610.02168](http://arxiv.org/abs/2610.02168)|null|
 |**2026-10-01**|**One-Shot any Code**|Andrew C. Yuan et.al.|[2610.02137](http://arxiv.org/abs/2610.02137)|null|
 |**2026-10-01**|**Adaptivity is all you need: Optimal stabilizer learning using just single-copy measurements**|L. Bittel et.al.|[2610.02031](http://arxiv.org/abs/2610.02031)|null|

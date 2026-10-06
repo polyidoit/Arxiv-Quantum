@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Bell nonlocality does not imply violation of nonlocal games**|Ricardo Faleiro et.al.|[2610.06799](http://arxiv.org/abs/2610.06799)|null|
+|**2026-10-05**|**Certifying Measurement Incompatibility under Bounded Classical Communication**|Oxana Shaya et.al.|[2610.06722](http://arxiv.org/abs/2610.06722)|null|
+|**2026-10-03**|**Bounding Two-Way Average Communication Cost of Simulating Quantum Correlations**|Kai-Siang Chen et.al.|[2610.04648](http://arxiv.org/abs/2610.04648)|null|
 |**2026-10-02**|**An operational characterization of finite-dimensional quantum theory**|Lionel J. Dmello et.al.|[2610.03694](http://arxiv.org/abs/2610.03694)|null|
 |**2026-10-02**|**Two-qutrit Werner state is always local**|Paweł Caban et.al.|[2610.02997](http://arxiv.org/abs/2610.02997)|null|
 |**2026-10-01**|**Efficiently Optimizing the Quantum Value of Bell Inequalities using Batched Gradient Descent**|Xinyu Xu et.al.|[2610.01699](http://arxiv.org/abs/2610.01699)|null|
@@ -1163,6 +1166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**On non-monotonic steady state response curves**|Polly Y. Yu et.al.|[2610.04029](http://arxiv.org/abs/2610.04029)|null|
 |**2026-10-01**|**Orthogonality, Spectral Filling, and Uncertainty**|Travis Alvarez et.al.|[2610.02484](http://arxiv.org/abs/2610.02484)|null|
 |**2026-10-01**|**Standard Quadratic Formulations of Many NP Problems: A Simplex-Based Compilation Framework for Combinatorial Optimization**|Mohammad-Ali Miri et.al.|[2610.01911](http://arxiv.org/abs/2610.01911)|null|
 |**2026-10-01**|**Endomorphism algebras of Gorenstein-projective modules over string algebras**|Yu-Zhe Liu et.al.|[2610.00937](http://arxiv.org/abs/2610.00937)|null|
@@ -1508,6 +1512,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Destroying and Preserving Measurement Incompatibility over a Quantum Channel**|Eric Chitambar et.al.|[2610.06642](http://arxiv.org/abs/2610.06642)|null|
 |**2026-10-01**|**Robustness hierarchy of bipartite quantum correlations under noisy dynamics**|Shakib Daryanoosh et.al.|[2610.01163](http://arxiv.org/abs/2610.01163)|null|
 |**2026-09-29**|**Device-independent quantification of steerability in tripartite scenario**|Xin-Hong Wang et.al.|[2609.36907](http://arxiv.org/abs/2609.36907)|null|
 |**2026-09-19**|**Asymmetric Two-Way Gaussian Quantum Steering in Coupled Lossy Waveguides**|Hafsa Zia et.al.|[2609.22815](http://arxiv.org/abs/2609.22815)|null|
@@ -1734,6 +1739,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Universal Improvement of Channel Fidelity via Entanglement Assistance**|Xinan Chen et.al.|[2610.05669](http://arxiv.org/abs/2610.05669)|null|
+|**2026-10-03**|**Spatiotemporal imaging of microwave magnetic fields via magnonic coherent splitting**|C. K. Wei et.al.|[2610.04618](http://arxiv.org/abs/2610.04618)|null|
+|**2026-09-30**|**Predicting and extending the bubble-free operating limit of capillary-fed water electrolysis**|Farkhondeh Khodabandeh et.al.|[2610.03782](http://arxiv.org/abs/2610.03782)|null|
 |**2026-10-02**|**Exponential lower bounds on the fermionic Gaussian rank of magic states and the bosonic coherent state rank of Fock states**|Oliver Reardon-Smith et.al.|[2610.03699](http://arxiv.org/abs/2610.03699)|null|
 |**2026-10-02**|**HyperFuse: Fast Self-Supervised Node Embeddings for Attributed Hypergraphs**|Megha P et.al.|[2610.03211](http://arxiv.org/abs/2610.03211)|null|
 |**2026-10-02**|**Resource Theory of Aquaternionicity: Every Pure State Is a Replicable Resource for Exact Simulation of Arbitrary Quantum Operations**|Hayato Arai et.al.|[2610.02942](http://arxiv.org/abs/2610.02942)|null|
@@ -2409,10 +2417,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Protecting Quantum Computers against Untrusted Users**|Shiv Akshar Yadavalli et.al.|[2610.06812](http://arxiv.org/abs/2610.06812)|null|
+|**2026-10-04**|**The magic cost of fermionic randomness**|Chenfeng Cao et.al.|[2610.05093](http://arxiv.org/abs/2610.05093)|null|
+|**2026-10-03**|**How to distinguish chaos from integrability using OTOC**|Alexey Milekhin et.al.|[2610.04197](http://arxiv.org/abs/2610.04197)|null|
 |**2026-10-01**|**Random Quantum Circuits Beyond Moment Matching**|Shih-Han Hung et.al.|[2610.02135](http://arxiv.org/abs/2610.02135)|null|
 |**2026-10-01**|**Local random quantum circuits converge to the Porter-Thomas distribution in polynomial depth**|Aniruddha Sen et.al.|[2610.02125](http://arxiv.org/abs/2610.02125)|null|
 |**2026-10-01**|**On the pseudorandomness of simple quantum processes**|Jesko Dujmovic et.al.|[2610.02100](http://arxiv.org/abs/2610.02100)|null|
 |**2026-09-30**|**Dissipation accelerates quantum and classical simulation of open-system dynamics**|Armando Angrisani et.al.|[2609.40174](http://arxiv.org/abs/2609.40174)|null|
+|**2026-10-04**|**Spectral gaps and slow modes of Pauli rotations and random quantum circuits**|Ziyuan Dong et.al.|[2609.40164](http://arxiv.org/abs/2609.40164)|null|
 |**2026-09-30**|**Pauli instability in arbitrary states: detecting magic in physical correlators**|Tanner Jackson et.al.|[2609.40032](http://arxiv.org/abs/2609.40032)|null|
 |**2026-09-30**|**Learning Random Quantum Circuits and the Emergence of Pseudorandomness**|Srinivasan Arunachalam et.al.|[2609.39821](http://arxiv.org/abs/2609.39821)|null|
 |**2026-09-30**|**Chiral quantum chaos around exponentially many zero modes in the quantum breakdown model**|Kohei Kawabata et.al.|[2609.39404](http://arxiv.org/abs/2609.39404)|null|
@@ -3357,6 +3369,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-05**|**Designing Group-Valued Codes with Full Regular Low-Weight Bases**|Jong Yeon Lee et.al.|[2610.06820](http://arxiv.org/abs/2610.06820)|null|
+|**2026-10-05**|**Polynomial-time simulation of non-Clifford quantum error correction**|Serban Cercelescu et.al.|[2610.06811](http://arxiv.org/abs/2610.06811)|null|
+|**2026-10-05**|**Engineering logical gates with irrep surface codes**|Yabo Li et.al.|[2610.06775](http://arxiv.org/abs/2610.06775)|null|
+|**2026-10-05**|**Efficient Logic with Ultra-High-Rate Quantum Codes**|Nishad Maskara et.al.|[2610.06749](http://arxiv.org/abs/2610.06749)|null|
+|**2026-10-05**|**Measurement-free Preparation of Surface-Code States with Digital-Analog Counterdiabatic Drivings**|Shubham Kumar Balaganchi A. Bhargava et.al.|[2610.06697](http://arxiv.org/abs/2610.06697)|null|
+|**2026-10-05**|**Quantum codes are quantized codes: Stabilizer codes from quantization over finite fields**|Michael Zurel et.al.|[2610.06607](http://arxiv.org/abs/2610.06607)|null|
+|**2026-10-05**|**Staying Sober: A Shot-Free Predictor of Logical Error Rates for Concatenated Quantum Error Correcting Codes**|Sayam Sethi et.al.|[2610.06606](http://arxiv.org/abs/2610.06606)|null|
+|**2026-10-05**|**CT-bMPS: Approximate Tensor Network Contraction with Boundary MPS on Contraction Trees**|Hidetaka Manabe et.al.|[2610.06574](http://arxiv.org/abs/2610.06574)|null|
+|**2026-10-05**|**Comparing thresholds of XZZX and rotated surface codes under spatio-temporal correlated noise**|Dhruv Koul et.al.|[2610.06059](http://arxiv.org/abs/2610.06059)|null|
+|**2026-10-05**|**Materialised symmetries of 2D translationally invariant codes**|Andrew Li et.al.|[2610.06036](http://arxiv.org/abs/2610.06036)|null|
 |**2026-10-02**|**Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules**|Oscar Higgott et.al.|[2610.03682](http://arxiv.org/abs/2610.03682)|null|
 |**2026-10-02**|**Exact Recovery for Non-Abelian Surface Codes**|Alison Warman et.al.|[2610.03677](http://arxiv.org/abs/2610.03677)|null|
 |**2026-10-02**|**BARC codes: general polynomial framework for coherent-state superposition codes**|Praneel Gore et.al.|[2610.03663](http://arxiv.org/abs/2610.03663)|null|

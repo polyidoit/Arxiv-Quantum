@@ -7,10 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Pauli Flat Quantum States Mimicking Maximal Magic**|Paweł Cieśliński et.al.|[2610.07172](http://arxiv.org/abs/2610.07172)|null|
 |**2026-10-05**|**Bell nonlocality does not imply violation of nonlocal games**|Ricardo Faleiro et.al.|[2610.06799](http://arxiv.org/abs/2610.06799)|null|
 |**2026-10-05**|**Certifying Measurement Incompatibility under Bounded Classical Communication**|Oxana Shaya et.al.|[2610.06722](http://arxiv.org/abs/2610.06722)|null|
 |**2026-10-03**|**Bounding Two-Way Average Communication Cost of Simulating Quantum Correlations**|Kai-Siang Chen et.al.|[2610.04648](http://arxiv.org/abs/2610.04648)|null|
-|**2026-10-02**|**An operational characterization of finite-dimensional quantum theory**|Lionel J. Dmello et.al.|[2610.03694](http://arxiv.org/abs/2610.03694)|null|
+|**2026-10-06**|**An operational characterization of finite-dimensional quantum theory**|Lionel J. Dmello et.al.|[2610.03694](http://arxiv.org/abs/2610.03694)|null|
 |**2026-10-02**|**Two-qutrit Werner state is always local**|Paweł Caban et.al.|[2610.02997](http://arxiv.org/abs/2610.02997)|null|
 |**2026-10-01**|**Efficiently Optimizing the Quantum Value of Bell Inequalities using Batched Gradient Descent**|Xinyu Xu et.al.|[2610.01699](http://arxiv.org/abs/2610.01699)|null|
 |**2026-10-01**|**Efficient certification of time-reversal symmetry requires entanglement**|Zhenhuan Liu et.al.|[2610.01555](http://arxiv.org/abs/2610.01555)|null|
@@ -810,6 +811,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Quantum Algorithms for Multivariable Polynomial Transformations: From Efficient Synthesis to Quantum Channel Transformations**|Zheyu Shen et.al.|[2610.08714](http://arxiv.org/abs/2610.08714)|null|
 |**2026-10-02**|**Lifting Multiplicity in Randomized Benchmarking**|Yale Fan et.al.|[2610.03586](http://arxiv.org/abs/2610.03586)|null|
 |**2026-10-01**|**Function-like pseudorandom unitaries generate pseudorandom quantum processes**|Zitai Xu et.al.|[2610.01038](http://arxiv.org/abs/2610.01038)|null|
 |**2026-09-30**|**Characterizing unitaries via quasi-process functions**|Nasra Daher Ahmed et.al.|[2610.00579](http://arxiv.org/abs/2610.00579)|null|
@@ -1166,6 +1168,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**$λ$-$ρ$ mode mixing and radial Regge trajectories for triply heavy baryons $Ω_{ccc}$ and $Ω_{bbb}$ in the diquark picture**|Jiao-Kai Chen et.al.|[2610.07053](http://arxiv.org/abs/2610.07053)|null|
 |**2026-10-02**|**On non-monotonic steady state response curves**|Polly Y. Yu et.al.|[2610.04029](http://arxiv.org/abs/2610.04029)|null|
 |**2026-10-01**|**Orthogonality, Spectral Filling, and Uncertainty**|Travis Alvarez et.al.|[2610.02484](http://arxiv.org/abs/2610.02484)|null|
 |**2026-10-01**|**Standard Quadratic Formulations of Many NP Problems: A Simplex-Based Compilation Framework for Combinatorial Optimization**|Mohammad-Ali Miri et.al.|[2610.01911](http://arxiv.org/abs/2610.01911)|null|
@@ -1512,6 +1515,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Analytic construction of dimension-dependent steering witnesses from generalized equiangular measurements**|Adam Rutkowski et.al.|[2610.07314](http://arxiv.org/abs/2610.07314)|null|
 |**2026-10-05**|**Destroying and Preserving Measurement Incompatibility over a Quantum Channel**|Eric Chitambar et.al.|[2610.06642](http://arxiv.org/abs/2610.06642)|null|
 |**2026-10-01**|**Robustness hierarchy of bipartite quantum correlations under noisy dynamics**|Shakib Daryanoosh et.al.|[2610.01163](http://arxiv.org/abs/2610.01163)|null|
 |**2026-09-29**|**Device-independent quantification of steerability in tripartite scenario**|Xin-Hong Wang et.al.|[2609.36907](http://arxiv.org/abs/2609.36907)|null|
@@ -1739,6 +1743,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Efficient Approximation of Structured Linear Operators using Randomized One-Sided Queries**|Esther Gallmeier et.al.|[2610.07513](http://arxiv.org/abs/2610.07513)|null|
+|**2026-10-05**|**Weight Oracles: Reading Neural Network Weights with Language Models**|Krishna Kabra et.al.|[2610.07334](http://arxiv.org/abs/2610.07334)|null|
 |**2026-10-05**|**Universal Improvement of Channel Fidelity via Entanglement Assistance**|Xinan Chen et.al.|[2610.05669](http://arxiv.org/abs/2610.05669)|null|
 |**2026-10-03**|**Spatiotemporal imaging of microwave magnetic fields via magnonic coherent splitting**|C. K. Wei et.al.|[2610.04618](http://arxiv.org/abs/2610.04618)|null|
 |**2026-09-30**|**Predicting and extending the bubble-free operating limit of capillary-fed water electrolysis**|Farkhondeh Khodabandeh et.al.|[2610.03782](http://arxiv.org/abs/2610.03782)|null|
@@ -2417,6 +2423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Benchmarking exchange-only control of a 48-spin singlet manifold**| HRL Quantum Team et.al.|[2610.07393](http://arxiv.org/abs/2610.07393)|null|
 |**2026-10-05**|**Protecting Quantum Computers against Untrusted Users**|Shiv Akshar Yadavalli et.al.|[2610.06812](http://arxiv.org/abs/2610.06812)|null|
 |**2026-10-04**|**The magic cost of fermionic randomness**|Chenfeng Cao et.al.|[2610.05093](http://arxiv.org/abs/2610.05093)|null|
 |**2026-10-03**|**How to distinguish chaos from integrability using OTOC**|Alexey Milekhin et.al.|[2610.04197](http://arxiv.org/abs/2610.04197)|null|
@@ -3369,11 +3376,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-06**|**A Swarm-Coordinated Multi-Robot System for Early Stress Detection in Agricultural Rows Using Multimodal Leaf Sensing**|Rishi Gupta et.al.|[2610.08603](http://arxiv.org/abs/2610.08603)|null|
+|**2026-10-05**|**Protecting bosonic codes from ancilla-induced errors with continuous-variable flags**|Thomas Décultot et.al.|[2610.07139](http://arxiv.org/abs/2610.07139)|null|
 |**2026-10-05**|**Designing Group-Valued Codes with Full Regular Low-Weight Bases**|Jong Yeon Lee et.al.|[2610.06820](http://arxiv.org/abs/2610.06820)|null|
 |**2026-10-05**|**Polynomial-time simulation of non-Clifford quantum error correction**|Serban Cercelescu et.al.|[2610.06811](http://arxiv.org/abs/2610.06811)|null|
 |**2026-10-05**|**Engineering logical gates with irrep surface codes**|Yabo Li et.al.|[2610.06775](http://arxiv.org/abs/2610.06775)|null|
 |**2026-10-05**|**Efficient Logic with Ultra-High-Rate Quantum Codes**|Nishad Maskara et.al.|[2610.06749](http://arxiv.org/abs/2610.06749)|null|
-|**2026-10-05**|**Measurement-free Preparation of Surface-Code States with Digital-Analog Counterdiabatic Drivings**|Shubham Kumar Balaganchi A. Bhargava et.al.|[2610.06697](http://arxiv.org/abs/2610.06697)|null|
+|**2026-10-06**|**Measurement-free Preparation of Surface-Code States with Digital-Analog Counterdiabatic Drivings**|Shubham Kumar et.al.|[2610.06697](http://arxiv.org/abs/2610.06697)|null|
 |**2026-10-05**|**Quantum codes are quantized codes: Stabilizer codes from quantization over finite fields**|Michael Zurel et.al.|[2610.06607](http://arxiv.org/abs/2610.06607)|null|
 |**2026-10-05**|**Staying Sober: A Shot-Free Predictor of Logical Error Rates for Concatenated Quantum Error Correcting Codes**|Sayam Sethi et.al.|[2610.06606](http://arxiv.org/abs/2610.06606)|null|
 |**2026-10-05**|**CT-bMPS: Approximate Tensor Network Contraction with Boundary MPS on Contraction Trees**|Hidetaka Manabe et.al.|[2610.06574](http://arxiv.org/abs/2610.06574)|null|

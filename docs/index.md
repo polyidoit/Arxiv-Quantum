@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**A proof of the fractional Lane--Emden conjecture**|Linfeng Mei et.al.|[2610.10188](http://arxiv.org/abs/2610.10188)|null|
 |**2026-10-05**|**Pauli Flat Quantum States Mimicking Maximal Magic**|Paweł Cieśliński et.al.|[2610.07172](http://arxiv.org/abs/2610.07172)|null|
 |**2026-10-05**|**Bell nonlocality does not imply violation of nonlocal games**|Ricardo Faleiro et.al.|[2610.06799](http://arxiv.org/abs/2610.06799)|null|
 |**2026-10-05**|**Certifying Measurement Incompatibility under Bounded Classical Communication**|Oxana Shaya et.al.|[2610.06722](http://arxiv.org/abs/2610.06722)|null|
@@ -1743,6 +1744,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Adaptive Risk-Certified Event-Triggered Replanning for Dynamic Navigation**|Richie R. Suganda et.al.|[2610.09302](http://arxiv.org/abs/2610.09302)|null|
 |**2026-10-05**|**Efficient Approximation of Structured Linear Operators using Randomized One-Sided Queries**|Esther Gallmeier et.al.|[2610.07513](http://arxiv.org/abs/2610.07513)|null|
 |**2026-10-05**|**Weight Oracles: Reading Neural Network Weights with Language Models**|Krishna Kabra et.al.|[2610.07334](http://arxiv.org/abs/2610.07334)|null|
 |**2026-10-05**|**Universal Improvement of Channel Fidelity via Entanglement Assistance**|Xinan Chen et.al.|[2610.05669](http://arxiv.org/abs/2610.05669)|null|
@@ -2423,6 +2425,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Multi-scale spectral statistics of intermediate quantum chaos in ultracold erbium collisions**|Ivan R. R. Gonzalez et.al.|[2610.09775](http://arxiv.org/abs/2610.09775)|null|
 |**2026-10-05**|**Benchmarking exchange-only control of a 48-spin singlet manifold**| HRL Quantum Team et.al.|[2610.07393](http://arxiv.org/abs/2610.07393)|null|
 |**2026-10-05**|**Protecting Quantum Computers against Untrusted Users**|Shiv Akshar Yadavalli et.al.|[2610.06812](http://arxiv.org/abs/2610.06812)|null|
 |**2026-10-04**|**The magic cost of fermionic randomness**|Chenfeng Cao et.al.|[2610.05093](http://arxiv.org/abs/2610.05093)|null|
@@ -3376,6 +3379,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-07**|**Efficient Estimation of Logical Sensitivities Through Fault-Counting**|Winston Fu et.al.|[2610.10531](http://arxiv.org/abs/2610.10531)|null|
+|**2026-10-07**|**Standard estimators cannot represent fault-tolerant workloads at measured error rates: evaluated, evidence-based uncertainty for quantum resource estimation**|Furqan Nasir et.al.|[2610.10490](http://arxiv.org/abs/2610.10490)|null|
+|**2026-10-07**|**Color Coding for the Sherrington-Kirkpatrick Model**|Alina Harbuzova et.al.|[2610.10443](http://arxiv.org/abs/2610.10443)|null|
 |**2026-10-06**|**A Swarm-Coordinated Multi-Robot System for Early Stress Detection in Agricultural Rows Using Multimodal Leaf Sensing**|Rishi Gupta et.al.|[2610.08603](http://arxiv.org/abs/2610.08603)|null|
 |**2026-10-05**|**Protecting bosonic codes from ancilla-induced errors with continuous-variable flags**|Thomas Décultot et.al.|[2610.07139](http://arxiv.org/abs/2610.07139)|null|
 |**2026-10-05**|**Designing Group-Valued Codes with Full Regular Low-Weight Bases**|Jong Yeon Lee et.al.|[2610.06820](http://arxiv.org/abs/2610.06820)|null|

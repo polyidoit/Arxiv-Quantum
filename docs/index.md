@@ -1516,6 +1516,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Sharing of Gaussian tripartite steering in de-Sitter space**|Xin-Ze Song et.al.|[2610.11874](http://arxiv.org/abs/2610.11874)|null|
 |**2026-10-05**|**Analytic construction of dimension-dependent steering witnesses from generalized equiangular measurements**|Adam Rutkowski et.al.|[2610.07314](http://arxiv.org/abs/2610.07314)|null|
 |**2026-10-05**|**Destroying and Preserving Measurement Incompatibility over a Quantum Channel**|Eric Chitambar et.al.|[2610.06642](http://arxiv.org/abs/2610.06642)|null|
 |**2026-10-01**|**Robustness hierarchy of bipartite quantum correlations under noisy dynamics**|Shakib Daryanoosh et.al.|[2610.01163](http://arxiv.org/abs/2610.01163)|null|
@@ -1744,6 +1745,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Zepp: Accelerating Distributed MoE Serving under Relaxed Balance Constraints**|Chang Chen et.al.|[2610.11158](http://arxiv.org/abs/2610.11158)|null|
+|**2026-10-08**|**Attainable Boundaries versus Operational Equivalence: Dual Benchmarks for the Hierarchical Assessment of Quantum Resources**|Sunho Kim et.al.|[2610.11094](http://arxiv.org/abs/2610.11094)|null|
 |**2026-10-07**|**Adaptive Risk-Certified Event-Triggered Replanning for Dynamic Navigation**|Richie R. Suganda et.al.|[2610.09302](http://arxiv.org/abs/2610.09302)|null|
 |**2026-10-05**|**Efficient Approximation of Structured Linear Operators using Randomized One-Sided Queries**|Esther Gallmeier et.al.|[2610.07513](http://arxiv.org/abs/2610.07513)|null|
 |**2026-10-05**|**Weight Oracles: Reading Neural Network Weights with Language Models**|Krishna Kabra et.al.|[2610.07334](http://arxiv.org/abs/2610.07334)|null|
@@ -2425,6 +2428,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Multipartite entanglement spreads**|Sylvain Carrozza et.al.|[2610.12271](http://arxiv.org/abs/2610.12271)|null|
 |**2026-10-07**|**Multi-scale spectral statistics of intermediate quantum chaos in ultracold erbium collisions**|Ivan R. R. Gonzalez et.al.|[2610.09775](http://arxiv.org/abs/2610.09775)|null|
 |**2026-10-05**|**Benchmarking exchange-only control of a 48-spin singlet manifold**| HRL Quantum Team et.al.|[2610.07393](http://arxiv.org/abs/2610.07393)|null|
 |**2026-10-05**|**Protecting Quantum Computers against Untrusted Users**|Shiv Akshar Yadavalli et.al.|[2610.06812](http://arxiv.org/abs/2610.06812)|null|

@@ -3404,6 +3404,10 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-08**|**Measure Now, Mitigate Later: Virtual Error Cancellation for Logical Quantum Circuits**|Oles Shtanko et.al.|[2610.12400](http://arxiv.org/abs/2610.12400)|null|
+|**2026-10-08**|**Error-Corrected Memory and Logic on a Heavy-Hex Superconducting-Qubit Processor**|Campbell K. McLauchlan et.al.|[2610.11658](http://arxiv.org/abs/2610.11658)|null|
+|**2026-10-08**|**High-Rate Concatenated Quantum Error-Correcting Codes for Qudits**|Takanori Nishi et.al.|[2610.11225](http://arxiv.org/abs/2610.11225)|null|
+|**2026-10-07**|**Geometry-optimized hyperbolic codes for modular fault-tolerant quantum architectures**|Ahmed Adel Mahmoud et.al.|[2610.10948](http://arxiv.org/abs/2610.10948)|null|
 |**2026-10-07**|**Efficient Estimation of Logical Sensitivities Through Fault-Counting**|Winston Fu et.al.|[2610.10531](http://arxiv.org/abs/2610.10531)|null|
 |**2026-10-07**|**Standard estimators cannot represent fault-tolerant workloads at measured error rates: evaluated, evidence-based uncertainty for quantum resource estimation**|Furqan Nasir et.al.|[2610.10490](http://arxiv.org/abs/2610.10490)|null|
 |**2026-10-07**|**Color Coding for the Sherrington-Kirkpatrick Model**|Alina Harbuzova et.al.|[2610.10443](http://arxiv.org/abs/2610.10443)|null|

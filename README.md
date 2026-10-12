@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**Genuine multipartite nonlocality detection in graph states**|Owidiusz Makuta et.al.|[2610.13609](http://arxiv.org/abs/2610.13609)|null|
 |**2026-10-07**|**A proof of the fractional Lane--Emden conjecture**|Linfeng Mei et.al.|[2610.10188](http://arxiv.org/abs/2610.10188)|null|
 |**2026-10-05**|**Pauli Flat Quantum States Mimicking Maximal Magic**|Paweł Cieśliński et.al.|[2610.07172](http://arxiv.org/abs/2610.07172)|null|
 |**2026-10-05**|**Bell nonlocality does not imply violation of nonlocal games**|Ricardo Faleiro et.al.|[2610.06799](http://arxiv.org/abs/2610.06799)|null|
@@ -1182,6 +1183,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**Causal Effect Identifiability in Causal Abstractions: A Strict Hierarchy of Criteria**|Clément Yvernes et.al.|[2610.13520](http://arxiv.org/abs/2610.13520)|null|
 |**2026-10-05**|**$λ$-$ρ$ mode mixing and radial Regge trajectories for triply heavy baryons $Ω_{ccc}$ and $Ω_{bbb}$ in the diquark picture**|Jiao-Kai Chen et.al.|[2610.07053](http://arxiv.org/abs/2610.07053)|null|
 |**2026-10-02**|**On non-monotonic steady state response curves**|Polly Y. Yu et.al.|[2610.04029](http://arxiv.org/abs/2610.04029)|null|
 |**2026-10-01**|**Orthogonality, Spectral Filling, and Uncertainty**|Travis Alvarez et.al.|[2610.02484](http://arxiv.org/abs/2610.02484)|null|
@@ -1762,7 +1764,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-08**|**Zepp: Accelerating Distributed MoE Serving under Relaxed Balance Constraints**|Chang Chen et.al.|[2610.11158](http://arxiv.org/abs/2610.11158)|null|
+|**2026-10-09**|**Zepp: Accelerating Distributed MoE Serving under Relaxed Balance Constraints**|Chang Chen et.al.|[2610.11158](http://arxiv.org/abs/2610.11158)|null|
 |**2026-10-08**|**Attainable Boundaries versus Operational Equivalence: Dual Benchmarks for the Hierarchical Assessment of Quantum Resources**|Sunho Kim et.al.|[2610.11094](http://arxiv.org/abs/2610.11094)|null|
 |**2026-10-07**|**Adaptive Risk-Certified Event-Triggered Replanning for Dynamic Navigation**|Richie R. Suganda et.al.|[2610.09302](http://arxiv.org/abs/2610.09302)|null|
 |**2026-10-05**|**Efficient Approximation of Structured Linear Operators using Randomized One-Sided Queries**|Esther Gallmeier et.al.|[2610.07513](http://arxiv.org/abs/2610.07513)|null|
@@ -3404,6 +3406,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-09**|**QTestBench: A Test Framework for Evaluating LLM-Generated Quantum Code**|Meriem Terki et.al.|[2610.13811](http://arxiv.org/abs/2610.13811)|null|
+|**2026-10-09**|**Decoder- and Noise-Aware Optimization Framework for Clifford-Deformed Quantum Error-Correcting Codes**|Julius Rye Bønnelykke et.al.|[2610.13589](http://arxiv.org/abs/2610.13589)|null|
+|**2026-10-08**|**The Expressive Power of Random-Feature MPNNs Across Graph Sizes**|Robert R. Nerem et.al.|[2610.12809](http://arxiv.org/abs/2610.12809)|null|
+|**2026-10-08**|**Fast computational primitives for La-cross qLDPC codes**|Andrea Di Fini et.al.|[2610.12685](http://arxiv.org/abs/2610.12685)|null|
+|**2026-10-08**|**Error correction and quantum information spreading on sparse random graphs**|Giovanni Cemin et.al.|[2610.12597](http://arxiv.org/abs/2610.12597)|null|
 |**2026-10-08**|**Measure Now, Mitigate Later: Virtual Error Cancellation for Logical Quantum Circuits**|Oles Shtanko et.al.|[2610.12400](http://arxiv.org/abs/2610.12400)|null|
 |**2026-10-08**|**Error-Corrected Memory and Logic on a Heavy-Hex Superconducting-Qubit Processor**|Campbell K. McLauchlan et.al.|[2610.11658](http://arxiv.org/abs/2610.11658)|null|
 |**2026-10-08**|**High-Rate Concatenated Quantum Error-Correcting Codes for Qudits**|Takanori Nishi et.al.|[2610.11225](http://arxiv.org/abs/2610.11225)|null|

@@ -1170,6 +1170,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-12**|**Well-posedness for the spatially inhomogeneous Fermi-Dirac-Fokker-Planck equation**|Gayrat Toshpulatov et.al.|[2610.16700](http://arxiv.org/abs/2610.16700)|null|
+|**2026-10-10**|**Pairwise Compatibility Graphs of Unweighted Caterpillars**|Cyriac Antony et.al.|[2610.14681](http://arxiv.org/abs/2610.14681)|null|
 |**2026-10-09**|**Causal Effect Identifiability in Causal Abstractions: A Strict Hierarchy of Criteria**|Clément Yvernes et.al.|[2610.13520](http://arxiv.org/abs/2610.13520)|null|
 |**2026-10-05**|**$λ$-$ρ$ mode mixing and radial Regge trajectories for triply heavy baryons $Ω_{ccc}$ and $Ω_{bbb}$ in the diquark picture**|Jiao-Kai Chen et.al.|[2610.07053](http://arxiv.org/abs/2610.07053)|null|
 |**2026-10-02**|**On non-monotonic steady state response curves**|Polly Y. Yu et.al.|[2610.04029](http://arxiv.org/abs/2610.04029)|null|
@@ -1518,6 +1520,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-10**|**Monogamy of quantum steering in exciton--cavity optomechanical system**|Hamza Harraf et.al.|[2610.15233](http://arxiv.org/abs/2610.15233)|null|
 |**2026-10-08**|**Sharing of Gaussian tripartite steering in de-Sitter space**|Xin-Ze Song et.al.|[2610.11874](http://arxiv.org/abs/2610.11874)|null|
 |**2026-10-05**|**Analytic construction of dimension-dependent steering witnesses from generalized equiangular measurements**|Adam Rutkowski et.al.|[2610.07314](http://arxiv.org/abs/2610.07314)|null|
 |**2026-10-05**|**Destroying and Preserving Measurement Incompatibility over a Quantum Channel**|Eric Chitambar et.al.|[2610.06642](http://arxiv.org/abs/2610.06642)|null|
@@ -1747,6 +1750,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Tanchun: Robust Flow-Based HTTP(S) DDoS Detection via Behavioral Attribute Guidance**|Qingyang Li et.al.|[2610.18406](http://arxiv.org/abs/2610.18406)|null|
+|**2026-10-13**|**Collision inside an atom: quantum ion-atom dynamics**|Arijit Das et.al.|[2610.18345](http://arxiv.org/abs/2610.18345)|null|
+|**2026-10-12**|**Feature-Context Consistency: Unsupervised Adversarial Detection with Drift Stability on Attributed Graphs**|Firas Bayram et.al.|[2610.16694](http://arxiv.org/abs/2610.16694)|null|
+|**2026-10-12**|**Stable Matrix-Free Q-less QR via Preconditioning and Randomization**|Oleg Balabanov et.al.|[2610.16101](http://arxiv.org/abs/2610.16101)|null|
+|**2026-10-10**|**Learn the Dynamics, Enforce the Physics: Generative Latent Operators for High-Dimensional Beam Evolution**|Haohan Zou et.al.|[2610.14537](http://arxiv.org/abs/2610.14537)|null|
 |**2026-10-09**|**Zepp: Accelerating Distributed MoE Serving under Relaxed Balance Constraints**|Chang Chen et.al.|[2610.11158](http://arxiv.org/abs/2610.11158)|null|
 |**2026-10-08**|**Attainable Boundaries versus Operational Equivalence: Dual Benchmarks for the Hierarchical Assessment of Quantum Resources**|Sunho Kim et.al.|[2610.11094](http://arxiv.org/abs/2610.11094)|null|
 |**2026-10-07**|**Adaptive Risk-Certified Event-Triggered Replanning for Dynamic Navigation**|Richie R. Suganda et.al.|[2610.09302](http://arxiv.org/abs/2610.09302)|null|
@@ -2430,6 +2438,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-12**|**Out-of-time-order hydrodynamics and scrambling**|Marta Bucca et.al.|[2610.16888](http://arxiv.org/abs/2610.16888)|null|
+|**2026-10-12**|**Minimal Subsystems for Characterizing Genuine Multipartite Entanglement**|Shashank Shekhar et.al.|[2610.16215](http://arxiv.org/abs/2610.16215)|null|
+|**2026-10-12**|**Probe Signatures of Quantum Chaos with Quantum Sensing**|Isaías Vallejo-Fabila et.al.|[2610.16181](http://arxiv.org/abs/2610.16181)|null|
+|**2026-10-11**|**From Lyapunov Growth to Weak Quantum Chaos**|Sašo Grozdanov et.al.|[2610.15880](http://arxiv.org/abs/2610.15880)|null|
 |**2026-10-08**|**Multipartite entanglement spreads**|Sylvain Carrozza et.al.|[2610.12271](http://arxiv.org/abs/2610.12271)|null|
 |**2026-10-07**|**Multi-scale spectral statistics of intermediate quantum chaos in ultracold erbium collisions**|Ivan R. R. Gonzalez et.al.|[2610.09775](http://arxiv.org/abs/2610.09775)|null|
 |**2026-10-05**|**Benchmarking exchange-only control of a 48-spin singlet manifold**| HRL Quantum Team et.al.|[2610.07393](http://arxiv.org/abs/2610.07393)|null|
@@ -3385,6 +3397,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-13**|**Methods for Automated Equivalence Checking of Quantum Error-Correction Codes**|Maxie Bichmann et.al.|[2610.18218](http://arxiv.org/abs/2610.18218)|null|
+|**2026-10-13**|**Distance Prediction for Quantum Codes**|Nadav Schneider et.al.|[2610.18130](http://arxiv.org/abs/2610.18130)|null|
+|**2026-10-13**|**From Syndromes to Computation: A General Framework for Logical Operations in Quantum Error-Correcting Codes**|Hunter Nelson et.al.|[2610.17612](http://arxiv.org/abs/2610.17612)|null|
+|**2026-10-12**|**Pathfinder-BP: A Low-Latency Recursive Decoder for Topological Codes**|Stefano Tinelli et.al.|[2610.16375](http://arxiv.org/abs/2610.16375)|null|
+|**2026-10-11**|**Scalable Exact Non-Pauli Noise Simulation for Fault-Tolerant Quantum Circuits**|Yuewen Hou et.al.|[2610.15975](http://arxiv.org/abs/2610.15975)|null|
+|**2026-10-09**|**Lifting an $[n,k,d]$ Binary Linear Code to an $[[n,k,d]]$ Quantum Stabilizer Code**|Thamadathil Aswanth et.al.|[2610.14192](http://arxiv.org/abs/2610.14192)|null|
 |**2026-10-09**|**QTestBench: A Test Framework for Evaluating LLM-Generated Quantum Code**|Meriem Terki et.al.|[2610.13811](http://arxiv.org/abs/2610.13811)|null|
 |**2026-10-09**|**Decoder- and Noise-Aware Optimization Framework for Clifford-Deformed Quantum Error-Correcting Codes**|Julius Rye Bønnelykke et.al.|[2610.13589](http://arxiv.org/abs/2610.13589)|null|
 |**2026-10-08**|**The Expressive Power of Random-Feature MPNNs Across Graph Sizes**|Robert R. Nerem et.al.|[2610.12809](http://arxiv.org/abs/2610.12809)|null|

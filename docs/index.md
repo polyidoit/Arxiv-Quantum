@@ -1520,6 +1520,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Directional effects of the Unruh effect on steering harvesting**|Shu-Min Wu et.al.|[2610.20151](http://arxiv.org/abs/2610.20151)|null|
+|**2026-10-14**|**On the structure of low-rank PPT entangled states violating Peres conjecture**|Gurvir Singh et.al.|[2610.19905](http://arxiv.org/abs/2610.19905)|null|
 |**2026-10-10**|**Monogamy of quantum steering in exciton--cavity optomechanical system**|Hamza Harraf et.al.|[2610.15233](http://arxiv.org/abs/2610.15233)|null|
 |**2026-10-08**|**Sharing of Gaussian tripartite steering in de-Sitter space**|Xin-Ze Song et.al.|[2610.11874](http://arxiv.org/abs/2610.11874)|null|
 |**2026-10-05**|**Analytic construction of dimension-dependent steering witnesses from generalized equiangular measurements**|Adam Rutkowski et.al.|[2610.07314](http://arxiv.org/abs/2610.07314)|null|
@@ -1750,6 +1752,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
 |**2026-10-13**|**Tanchun: Robust Flow-Based HTTP(S) DDoS Detection via Behavioral Attribute Guidance**|Qingyang Li et.al.|[2610.18406](http://arxiv.org/abs/2610.18406)|null|
 |**2026-10-13**|**Collision inside an atom: quantum ion-atom dynamics**|Arijit Das et.al.|[2610.18345](http://arxiv.org/abs/2610.18345)|null|
 |**2026-10-12**|**Feature-Context Consistency: Unsupervised Adversarial Detection with Drift Stability on Attributed Graphs**|Firas Bayram et.al.|[2610.16694](http://arxiv.org/abs/2610.16694)|null|
@@ -2438,6 +2441,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Petz Recovery through a Single Polar Transformation for Approximate Quantum Error Correction**|Hanzhang Zhao et.al.|[2610.20515](http://arxiv.org/abs/2610.20515)|null|
 |**2026-10-12**|**Out-of-time-order hydrodynamics and scrambling**|Marta Bucca et.al.|[2610.16888](http://arxiv.org/abs/2610.16888)|null|
 |**2026-10-12**|**Minimal Subsystems for Characterizing Genuine Multipartite Entanglement**|Shashank Shekhar et.al.|[2610.16215](http://arxiv.org/abs/2610.16215)|null|
 |**2026-10-12**|**Probe Signatures of Quantum Chaos with Quantum Sensing**|Isaías Vallejo-Fabila et.al.|[2610.16181](http://arxiv.org/abs/2610.16181)|null|
@@ -3397,6 +3401,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-14**|**Petz Recovery through a Single Polar Transformation for Approximate Quantum Error Correction**|Hanzhang Zhao et.al.|[2610.20515](http://arxiv.org/abs/2610.20515)|null|
+|**2026-10-14**|**A low-cost compact muon detector for millikelvin operation**|Tengiz Ibrayev et.al.|[2610.20132](http://arxiv.org/abs/2610.20132)|null|
+|**2026-10-14**|**Tomography for coherent noise**|Long Huang et.al.|[2610.19779](http://arxiv.org/abs/2610.19779)|null|
+|**2026-10-14**|**Quantum LDPC Codes from Polynomial Minors**|Vahid Nourozi et.al.|[2610.19459](http://arxiv.org/abs/2610.19459)|null|
+|**2026-10-13**|**Gap-Priced $|T\rangle$-States: Dynamic $|T\rangle$ Post-Selection and Budget-Aware Factory Provisioning**|Maxwell Poster et.al.|[2610.19299](http://arxiv.org/abs/2610.19299)|null|
+|**2026-10-13**|**A modular quantum computer based on Cornucopia codes**|Zhide Lu et.al.|[2610.19073](http://arxiv.org/abs/2610.19073)|null|
+|**2026-10-13**|**Logical gate set tomography**|Piper C. Wysocki et.al.|[2610.19034](http://arxiv.org/abs/2610.19034)|null|
 |**2026-10-13**|**Methods for Automated Equivalence Checking of Quantum Error-Correction Codes**|Maxie Bichmann et.al.|[2610.18218](http://arxiv.org/abs/2610.18218)|null|
 |**2026-10-13**|**Distance Prediction for Quantum Codes**|Nadav Schneider et.al.|[2610.18130](http://arxiv.org/abs/2610.18130)|null|
 |**2026-10-13**|**From Syndromes to Computation: A General Framework for Logical Operations in Quantum Error-Correcting Codes**|Hunter Nelson et.al.|[2610.17612](http://arxiv.org/abs/2610.17612)|null|

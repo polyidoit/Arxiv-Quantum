@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Operational Limits of Gravity-Mediated Entanglement**|Atta ur Rahman et.al.|[2610.22097](http://arxiv.org/abs/2610.22097)|null|
+|**2026-10-15**|**Crossovers between Time-Bin and Energy-Time Entanglement in Homodyned Resonance Fluorescence**|Zi-Qi Zeng et.al.|[2610.21428](http://arxiv.org/abs/2610.21428)|null|
+|**2026-10-14**|**On the structure of low-rank PPT entangled states violating Peres conjecture**|Gurvir Singh et.al.|[2610.19905](http://arxiv.org/abs/2610.19905)|null|
 |**2026-10-09**|**Genuine multipartite nonlocality detection in graph states**|Owidiusz Makuta et.al.|[2610.13609](http://arxiv.org/abs/2610.13609)|null|
 |**2026-10-07**|**A proof of the fractional Lane--Emden conjecture**|Linfeng Mei et.al.|[2610.10188](http://arxiv.org/abs/2610.10188)|null|
 |**2026-10-05**|**Pauli Flat Quantum States Mimicking Maximal Magic**|Paweł Cieśliński et.al.|[2610.07172](http://arxiv.org/abs/2610.07172)|null|
@@ -1170,6 +1173,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Local finite rate semi device independent randomness expansion from quantum contextuality**|Dhananjoy Ghosh et.al.|[2610.21765](http://arxiv.org/abs/2610.21765)|null|
+|**2026-10-13**|**On the Investigation of Antenna Beam Pattern Models for Fast Beam Placement in LEO Satellite Networks**|Ninh Thi-Thanh Tam et.al.|[2610.18930](http://arxiv.org/abs/2610.18930)|null|
 |**2026-10-12**|**Well-posedness for the spatially inhomogeneous Fermi-Dirac-Fokker-Planck equation**|Gayrat Toshpulatov et.al.|[2610.16700](http://arxiv.org/abs/2610.16700)|null|
 |**2026-10-10**|**Pairwise Compatibility Graphs of Unweighted Caterpillars**|Cyriac Antony et.al.|[2610.14681](http://arxiv.org/abs/2610.14681)|null|
 |**2026-10-09**|**Causal Effect Identifiability in Causal Abstractions: A Strict Hierarchy of Criteria**|Clément Yvernes et.al.|[2610.13520](http://arxiv.org/abs/2610.13520)|null|
@@ -1752,6 +1757,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering**|Yun-Shiuan Chuang et.al.|[2610.20809](http://arxiv.org/abs/2610.20809)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
 |**2026-10-13**|**Tanchun: Robust Flow-Based HTTP(S) DDoS Detection via Behavioral Attribute Guidance**|Qingyang Li et.al.|[2610.18406](http://arxiv.org/abs/2610.18406)|null|
 |**2026-10-13**|**Collision inside an atom: quantum ion-atom dynamics**|Arijit Das et.al.|[2610.18345](http://arxiv.org/abs/2610.18345)|null|
@@ -2441,6 +2447,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Magic in quantum trajectory unravelings of noisy random quantum circuits**|Sara Santos et.al.|[2610.22318](http://arxiv.org/abs/2610.22318)|null|
 |**2026-10-14**|**Petz Recovery through a Single Polar Transformation for Approximate Quantum Error Correction**|Hanzhang Zhao et.al.|[2610.20515](http://arxiv.org/abs/2610.20515)|null|
 |**2026-10-12**|**Out-of-time-order hydrodynamics and scrambling**|Marta Bucca et.al.|[2610.16888](http://arxiv.org/abs/2610.16888)|null|
 |**2026-10-12**|**Minimal Subsystems for Characterizing Genuine Multipartite Entanglement**|Shashank Shekhar et.al.|[2610.16215](http://arxiv.org/abs/2610.16215)|null|
@@ -3401,6 +3408,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-15**|**Stability of Quantum LDPC States under Local Pauli Noise**|Tai-Hsuan Yang et.al.|[2610.22357](http://arxiv.org/abs/2610.22357)|null|
+|**2026-10-15**|**Magna: simulating magic state factories as cheaply as Clifford circuits**|Yifei Wang et.al.|[2610.22315](http://arxiv.org/abs/2610.22315)|null|
+|**2026-10-15**|**SynDebug: A Framework to Debug Logic Bugs in Fault-Tolerant Quantum Computing Programs**|Nicholas S. DiBrita et.al.|[2610.22275](http://arxiv.org/abs/2610.22275)|null|
+|**2026-10-15**|**Classification of bipartite observables III: simplicity, mixtures and quantum error correction**|Eduardo Dueñez et.al.|[2610.22205](http://arxiv.org/abs/2610.22205)|null|
+|**2026-10-15**|**Energetics of Fault-Tolerant Spin-Qubit Quantum Computation**|João Santos et.al.|[2610.22199](http://arxiv.org/abs/2610.22199)|null|
+|**2026-10-15**|**Patchwork: automated lattice surgery and space-time partitioning for real-time decoding**|Christopher Chamberland et.al.|[2610.22112](http://arxiv.org/abs/2610.22112)|null|
+|**2026-10-15**|**One generation of the Standard Model as a quantum error-correcting code**|Shiroman Prakash et.al.|[2610.21879](http://arxiv.org/abs/2610.21879)|null|
+|**2026-10-15**|**Superconducting circuits host two-level systems with lifetimes exceeding one second**|Mathieu Féchant et.al.|[2610.21853](http://arxiv.org/abs/2610.21853)|null|
+|**2026-10-15**|**Stitched surface codes: planar concatenation through GHZ corridors**|Mohamed A. Shalby et.al.|[2610.21357](http://arxiv.org/abs/2610.21357)|null|
 |**2026-10-14**|**Petz Recovery through a Single Polar Transformation for Approximate Quantum Error Correction**|Hanzhang Zhao et.al.|[2610.20515](http://arxiv.org/abs/2610.20515)|null|
 |**2026-10-14**|**A low-cost compact muon detector for millikelvin operation**|Tengiz Ibrayev et.al.|[2610.20132](http://arxiv.org/abs/2610.20132)|null|
 |**2026-10-14**|**Tomography for coherent noise**|Long Huang et.al.|[2610.19779](http://arxiv.org/abs/2610.19779)|null|

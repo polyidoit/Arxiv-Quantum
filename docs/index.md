@@ -816,6 +816,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Multi-Time States in Quantum and Operational Probabilistic Theories: An Axiomatic Framework**|Kaumudibikash Goswami et.al.|[2610.22489](http://arxiv.org/abs/2610.22489)|null|
 |**2026-10-06**|**Quantum Algorithms for Multivariable Polynomial Transformations: From Efficient Synthesis to Quantum Channel Transformations**|Zheyu Shen et.al.|[2610.08714](http://arxiv.org/abs/2610.08714)|null|
 |**2026-10-02**|**Lifting Multiplicity in Randomized Benchmarking**|Yale Fan et.al.|[2610.03586](http://arxiv.org/abs/2610.03586)|null|
 |**2026-10-01**|**Function-like pseudorandom unitaries generate pseudorandom quantum processes**|Zitai Xu et.al.|[2610.01038](http://arxiv.org/abs/2610.01038)|null|
@@ -3408,6 +3409,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-16**|**Demonstration of Logical Error Suppression in a Surface Code Memory on a Cloud-Accessible IBM Superconducting Processor**|Shuwen Kan et.al.|[2610.23840](http://arxiv.org/abs/2610.23840)|null|
+|**2026-10-16**|**Encodings and Node Architecture: Lessons from the Fault-Tolerant Distributed Transversal Fanout**|Seng W. Loke et.al.|[2610.22966](http://arxiv.org/abs/2610.22966)|null|
+|**2026-10-15**|**Area Theorems for Quantum Error Correction**|Avijit Mandal et.al.|[2610.22710](http://arxiv.org/abs/2610.22710)|null|
 |**2026-10-15**|**Stability of Quantum LDPC States under Local Pauli Noise**|Tai-Hsuan Yang et.al.|[2610.22357](http://arxiv.org/abs/2610.22357)|null|
 |**2026-10-15**|**Magna: simulating magic state factories as cheaply as Clifford circuits**|Yifei Wang et.al.|[2610.22315](http://arxiv.org/abs/2610.22315)|null|
 |**2026-10-15**|**SynDebug: A Framework to Debug Logic Bugs in Fault-Tolerant Quantum Computing Programs**|Nicholas S. DiBrita et.al.|[2610.22275](http://arxiv.org/abs/2610.22275)|null|

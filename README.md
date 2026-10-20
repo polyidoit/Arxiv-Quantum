@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-18**|**Randomness Certification from Statistically Hiding Commitments**|Ilya Merkulov et.al.|[2610.25518](http://arxiv.org/abs/2610.25518)|null|
 |**2026-10-15**|**Operational Limits of Gravity-Mediated Entanglement**|Atta ur Rahman et.al.|[2610.22097](http://arxiv.org/abs/2610.22097)|null|
 |**2026-10-15**|**Crossovers between Time-Bin and Energy-Time Entanglement in Homodyned Resonance Fluorescence**|Zi-Qi Zeng et.al.|[2610.21428](http://arxiv.org/abs/2610.21428)|null|
 |**2026-10-14**|**On the structure of low-rank PPT entangled states violating Peres conjecture**|Gurvir Singh et.al.|[2610.19905](http://arxiv.org/abs/2610.19905)|null|
@@ -1541,6 +1542,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Exact projective-steering boundary and sample-size optimization for angularly averaged hyperon-antihyperon states**|Weicheng Miao et.al.|[2610.26526](http://arxiv.org/abs/2610.26526)|null|
+|**2026-10-19**|**SteerAct: Unlocking Action Models through Few-Shot Temporal Steering**|Kaichen Zhou et.al.|[2610.25632](http://arxiv.org/abs/2610.25632)|null|
 |**2026-10-14**|**Directional effects of the Unruh effect on steering harvesting**|Shu-Min Wu et.al.|[2610.20151](http://arxiv.org/abs/2610.20151)|null|
 |**2026-10-14**|**On the structure of low-rank PPT entangled states violating Peres conjecture**|Gurvir Singh et.al.|[2610.19905](http://arxiv.org/abs/2610.19905)|null|
 |**2026-10-10**|**Monogamy of quantum steering in exciton--cavity optomechanical system**|Hamza Harraf et.al.|[2610.15233](http://arxiv.org/abs/2610.15233)|null|
@@ -1775,6 +1778,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Majorization for superpositions of nonorthogonal states and the existence of golden states**|Gökhan Torun et.al.|[2610.26483](http://arxiv.org/abs/2610.26483)|null|
+|**2026-10-18**|**Self-organizing reinforcement learning: a swarm approaches the explore-exploit optimum**|Galen J. Wilkerson et.al.|[2610.25113](http://arxiv.org/abs/2610.25113)|null|
 |**2026-10-14**|**A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering**|Yun-Shiuan Chuang et.al.|[2610.20809](http://arxiv.org/abs/2610.20809)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
 |**2026-10-13**|**Tanchun: Robust Flow-Based HTTP(S) DDoS Detection via Behavioral Attribute Guidance**|Qingyang Li et.al.|[2610.18406](http://arxiv.org/abs/2610.18406)|null|
@@ -3430,6 +3435,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-19**|**Correlated decoding loses the surface code's effective distance below threshold**|César Hernando de la Fuente et.al.|[2610.26785](http://arxiv.org/abs/2610.26785)|null|
+|**2026-10-19**|**End-to-End Optimization of Partial Fault Tolerance in Neutral-Atom Arrays**|Stefano Veroni et.al.|[2610.26471](http://arxiv.org/abs/2610.26471)|null|
+|**2026-10-18**|**LiftDiff: Guided Discrete Diffusion for Quantum Code Construction**|Yotam Peled et.al.|[2610.25213](http://arxiv.org/abs/2610.25213)|null|
+|**2026-10-16**|**Quantum error correction well below the color code threshold**|Ali Lavasani et.al.|[2610.24077](http://arxiv.org/abs/2610.24077)|null|
+|**2026-10-16**|**New lower bounds for binary constant-weight codes from prescribed-automorphism search, and two quantum codes meeting their upper bounds**|Chris Dzoba et.al.|[2610.24025](http://arxiv.org/abs/2610.24025)|null|
 |**2026-10-16**|**Demonstration of Logical Error Suppression in a Surface Code Memory on a Cloud-Accessible IBM Superconducting Processor**|Shuwen Kan et.al.|[2610.23840](http://arxiv.org/abs/2610.23840)|null|
 |**2026-10-16**|**Encodings and Node Architecture: Lessons from the Fault-Tolerant Distributed Transversal Fanout**|Seng W. Loke et.al.|[2610.22966](http://arxiv.org/abs/2610.22966)|null|
 |**2026-10-15**|**Area Theorems for Quantum Error Correction**|Avijit Mandal et.al.|[2610.22710](http://arxiv.org/abs/2610.22710)|null|

@@ -1188,7 +1188,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-15**|**Local finite rate semi device independent randomness expansion from quantum contextuality**|Dhananjoy Ghosh et.al.|[2610.21765](http://arxiv.org/abs/2610.21765)|null|
+|**2026-10-20**|**Local finite rate semi device independent randomness expansion from quantum contextuality**|Dhananjoy Ghosh et.al.|[2610.21765](http://arxiv.org/abs/2610.21765)|null|
 |**2026-10-13**|**On the Investigation of Antenna Beam Pattern Models for Fast Beam Placement in LEO Satellite Networks**|Ninh Thi-Thanh Tam et.al.|[2610.18930](http://arxiv.org/abs/2610.18930)|null|
 |**2026-10-12**|**Well-posedness for the spatially inhomogeneous Fermi-Dirac-Fokker-Planck equation**|Gayrat Toshpulatov et.al.|[2610.16700](http://arxiv.org/abs/2610.16700)|null|
 |**2026-10-10**|**Pairwise Compatibility Graphs of Unweighted Caterpillars**|Cyriac Antony et.al.|[2610.14681](http://arxiv.org/abs/2610.14681)|null|
@@ -1778,6 +1778,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Optimal Approximate Quantum Conversion from a Taut-String Principle in Majorization-Based Resource Theories**|Franco Meroi et.al.|[2610.28015](http://arxiv.org/abs/2610.28015)|null|
+|**2026-10-19**|**Load-Balanced Neural-Network-Aided Adaptive Tabulation of Phase Equilibria for Transcritical Multiphase Flows**|Navneeth Srinivasan et.al.|[2610.26984](http://arxiv.org/abs/2610.26984)|null|
 |**2026-10-19**|**Majorization for superpositions of nonorthogonal states and the existence of golden states**|Gökhan Torun et.al.|[2610.26483](http://arxiv.org/abs/2610.26483)|null|
 |**2026-10-18**|**Self-organizing reinforcement learning: a swarm approaches the explore-exploit optimum**|Galen J. Wilkerson et.al.|[2610.25113](http://arxiv.org/abs/2610.25113)|null|
 |**2026-10-14**|**A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering**|Yun-Shiuan Chuang et.al.|[2610.20809](http://arxiv.org/abs/2610.20809)|null|
@@ -2472,6 +2474,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Scrambling Separates Superradiance from Quantum Chaos**|Long-Jie Li et.al.|[2610.28412](http://arxiv.org/abs/2610.28412)|null|
 |**2026-10-15**|**Magic in quantum trajectory unravelings of noisy random quantum circuits**|Sara Santos et.al.|[2610.22318](http://arxiv.org/abs/2610.22318)|null|
 |**2026-10-14**|**Petz Recovery through a Single Polar Transformation for Approximate Quantum Error Correction**|Hanzhang Zhao et.al.|[2610.20515](http://arxiv.org/abs/2610.20515)|null|
 |**2026-10-12**|**Out-of-time-order hydrodynamics and scrambling**|Marta Bucca et.al.|[2610.16888](http://arxiv.org/abs/2610.16888)|null|
@@ -3435,6 +3438,7 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-20**|**Hybrid Lattice Surgery between Smooth Boundaries**|Grace Ding et.al.|[2610.27556](http://arxiv.org/abs/2610.27556)|null|
 |**2026-10-19**|**Correlated decoding loses the surface code's effective distance below threshold**|César Hernando de la Fuente et.al.|[2610.26785](http://arxiv.org/abs/2610.26785)|null|
 |**2026-10-19**|**End-to-End Optimization of Partial Fault Tolerance in Neutral-Atom Arrays**|Stefano Veroni et.al.|[2610.26471](http://arxiv.org/abs/2610.26471)|null|
 |**2026-10-18**|**LiftDiff: Guided Discrete Diffusion for Quantum Code Construction**|Yotam Peled et.al.|[2610.25213](http://arxiv.org/abs/2610.25213)|null|

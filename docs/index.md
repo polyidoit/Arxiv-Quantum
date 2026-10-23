@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**A Personal History in Quantum Foundations: an Oral History Interview**|Guy Hetzroni et.al.|[2610.30998](http://arxiv.org/abs/2610.30998)|null|
+|**2026-10-21**|**Parallel Repetition for k-Player XOR Games**|Mark Braverman et.al.|[2610.30455](http://arxiv.org/abs/2610.30455)|null|
 |**2026-10-21**|**Teaching quantum mechanics in secondary schools: A qubit-first learning path to Bell's inequalities**|Alberto Carlini et.al.|[2610.29834](http://arxiv.org/abs/2610.29834)|null|
 |**2026-10-18**|**Randomness Certification from Statistically Hiding Commitments**|Ilya Merkulov et.al.|[2610.25518](http://arxiv.org/abs/2610.25518)|null|
 |**2026-10-15**|**Operational Limits of Gravity-Mediated Entanglement**|Atta ur Rahman et.al.|[2610.22097](http://arxiv.org/abs/2610.22097)|null|
@@ -2457,6 +2459,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Normal-Form Characterization of Adaptivity and Entanglement in Pauli-Based Computation**|Filipa C. R. Peres et.al.|[2610.30315](http://arxiv.org/abs/2610.30315)|null|
 |**2026-10-20**|**Scrambling Separates Superradiance from Quantum Chaos**|Long-Jie Li et.al.|[2610.28412](http://arxiv.org/abs/2610.28412)|null|
 |**2026-10-15**|**Magic in quantum trajectory unravelings of noisy random quantum circuits**|Sara Santos et.al.|[2610.22318](http://arxiv.org/abs/2610.22318)|null|
 |**2026-10-14**|**Petz Recovery through a Single Polar Transformation for Approximate Quantum Error Correction**|Hanzhang Zhao et.al.|[2610.20515](http://arxiv.org/abs/2610.20515)|null|
@@ -3419,6 +3422,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-22**|**ConQEC: Concolic Testing for Quantum Error-Correcting Code Implementations**|Zihao Li et.al.|[2610.31443](http://arxiv.org/abs/2610.31443)|null|
+|**2026-10-22**|**Noise redistribution by stabilizer codes: an organizing view of concatenated three-qubit codes**|Long Huang et.al.|[2610.31007](http://arxiv.org/abs/2610.31007)|null|
+|**2026-10-22**|**Demand-Driven Routing Space for Lattice-Surgery Compilation**|Hanyu Wang et.al.|[2610.30747](http://arxiv.org/abs/2610.30747)|null|
+|**2026-10-21**|**Dealing with low-weight errors that lead BP OSD to fail**|Giacomo Fregona et.al.|[2610.30305](http://arxiv.org/abs/2610.30305)|null|
+|**2026-10-21**|**Transversal syndrome extraction: A unifying construction for measuring the error syndromes of any stabilizer code**|Miles D. Gorman et.al.|[2610.30279](http://arxiv.org/abs/2610.30279)|null|
+|**2026-10-22**|**The strengthened quantum Hamming bound of Yu, Lai, and Oh**| Valery et.al.|[2610.30088](http://arxiv.org/abs/2610.30088)|null|
 |**2026-10-21**|**Injection is all you need: parallel universal logic in high-rate concatenated self-dual codes**|Joseph Sullivan et.al.|[2610.30087](http://arxiv.org/abs/2610.30087)|null|
 |**2026-10-20**|**Engineering Low-Latency, High-Throughput Quantum Decoders on NVIDIA GPUs**|Stefano Markidis et.al.|[2610.28867](http://arxiv.org/abs/2610.28867)|null|
 |**2026-10-20**|**CoDecoder: Make Quantum Decoders Up to 100x Faster and Even More Accurate**|Yicheng Guang et.al.|[2610.28748](http://arxiv.org/abs/2610.28748)|null|

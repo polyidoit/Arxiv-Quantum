@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1764,6 +1764,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Maximal Orbital Entanglement from Non-Interacting Fermions**|Damiano Aliverti-Piuri et.al.|[2610.32974](http://arxiv.org/abs/2610.32974)|null|
+|**2026-10-23**|**A note on the monotonicity of observational ergotropic advantage**|Debanjan Dey Sarkar et.al.|[2610.32585](http://arxiv.org/abs/2610.32585)|null|
+|**2026-10-23**|**Stochastic predator-prey compartment model with cyclic and non-cyclic transition pathways and mortality**|Thomas M. Michelitsch et.al.|[2610.32535](http://arxiv.org/abs/2610.32535)|null|
 |**2026-10-21**|**Resource Analysis of Quantum Optimization Algorithms via Variational Methods**|Vitor Dallabona et.al.|[2610.29919](http://arxiv.org/abs/2610.29919)|null|
 |**2026-10-20**|**Optimal Approximate Quantum Conversion from a Taut-String Principle in Majorization-Based Resource Theories**|Franco Meroi et.al.|[2610.28015](http://arxiv.org/abs/2610.28015)|null|
 |**2026-10-19**|**Load-Balanced Neural-Network-Aided Adaptive Tabulation of Phase Equilibria for Transcritical Multiphase Flows**|Navneeth Srinivasan et.al.|[2610.26984](http://arxiv.org/abs/2610.26984)|null|

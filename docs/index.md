@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Certain Quantum States Already Require Quantum Time Evolution**|Joel D. Huber et.al.|[2610.32937](http://arxiv.org/abs/2610.32937)|null|
+|**2026-10-23**|**Finite Nonsignalling Resources Suffice to Simulate Entangled Qubits**|Ziao Tang et.al.|[2610.32319](http://arxiv.org/abs/2610.32319)|null|
 |**2026-10-22**|**A Personal History in Quantum Foundations: an Oral History Interview**|Guy Hetzroni et.al.|[2610.30998](http://arxiv.org/abs/2610.30998)|null|
 |**2026-10-21**|**Parallel Repetition for k-Player XOR Games**|Mark Braverman et.al.|[2610.30455](http://arxiv.org/abs/2610.30455)|null|
 |**2026-10-21**|**Teaching quantum mechanics in secondary schools: A qubit-first learning path to Bell's inequalities**|Alberto Carlini et.al.|[2610.29834](http://arxiv.org/abs/2610.29834)|null|
@@ -1530,6 +1532,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**One-sided-DIQKD using any pure bipartite entangled state secure against all attacks**|Bohnishikha Ghosh et.al.|[2610.32923](http://arxiv.org/abs/2610.32923)|null|
 |**2026-10-19**|**Exact projective-steering boundary and sample-size optimization for angularly averaged hyperon-antihyperon states**|Weicheng Miao et.al.|[2610.26526](http://arxiv.org/abs/2610.26526)|null|
 |**2026-10-19**|**SteerAct: Unlocking Action Models through Few-Shot Temporal Steering**|Kaichen Zhou et.al.|[2610.25632](http://arxiv.org/abs/2610.25632)|null|
 |**2026-10-14**|**Directional effects of the Unruh effect on steering harvesting**|Shu-Min Wu et.al.|[2610.20151](http://arxiv.org/abs/2610.20151)|null|
@@ -2462,6 +2465,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**QuantumBilliards.jl: An extensible, user friendly, high-performance Julia library for the large scale computation of spectra and eigenstates of quantum billiards and related problems**|Matic Orel et.al.|[2610.32605](http://arxiv.org/abs/2610.32605)|null|
 |**2026-10-21**|**Normal-Form Characterization of Adaptivity and Entanglement in Pauli-Based Computation**|Filipa C. R. Peres et.al.|[2610.30315](http://arxiv.org/abs/2610.30315)|null|
 |**2026-10-20**|**Scrambling Separates Superradiance from Quantum Chaos**|Long-Jie Li et.al.|[2610.28412](http://arxiv.org/abs/2610.28412)|null|
 |**2026-10-15**|**Magic in quantum trajectory unravelings of noisy random quantum circuits**|Sara Santos et.al.|[2610.22318](http://arxiv.org/abs/2610.22318)|null|
@@ -3425,6 +3429,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-23**|**Quantum Secret Sharing from CSS qLDPC Codes: Computable Access Structures, Accessible Logical Dimension, and Topology-Aware Network Cost**|Malik Mouaji et.al.|[2610.32428](http://arxiv.org/abs/2610.32428)|null|
+|**2026-10-23**|**Entangled logical qubits on a superconducting quantum processor**|Robin Harper et.al.|[2610.32347](http://arxiv.org/abs/2610.32347)|null|
+|**2026-10-23**|**Two-Layer Verification for Fault-Tolerant Magic-State Preparation in High-Rate Quantum Codes**|Naoyuki Kanomata et.al.|[2610.32267](http://arxiv.org/abs/2610.32267)|null|
+|**2026-10-23**|**Trident: Efficient Load Verification for Yoked Surface Codes using a Three-Level Memory Hierarchy**|Gunagya Singh Mamak et.al.|[2610.32152](http://arxiv.org/abs/2610.32152)|null|
 |**2026-10-22**|**ConQEC: Concolic Testing for Quantum Error-Correcting Code Implementations**|Zihao Li et.al.|[2610.31443](http://arxiv.org/abs/2610.31443)|null|
 |**2026-10-22**|**Noise redistribution by stabilizer codes: an organizing view of concatenated three-qubit codes**|Long Huang et.al.|[2610.31007](http://arxiv.org/abs/2610.31007)|null|
 |**2026-10-22**|**Demand-Driven Routing Space for Lattice-Surgery Compilation**|Hanyu Wang et.al.|[2610.30747](http://arxiv.org/abs/2610.30747)|null|

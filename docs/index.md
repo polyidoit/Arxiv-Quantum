@@ -7,9 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Network nonlocality with tripartite entangled sources**|Sudip Chakrabarty et.al.|[2610.35838](http://arxiv.org/abs/2610.35838)|null|
+|**2026-10-25**|**Exact Identification of Quantum Correlations in the Minimal Bell Scenario**|Liang-Liang Sun et.al.|[2610.34364](http://arxiv.org/abs/2610.34364)|null|
 |**2026-10-23**|**Certain Quantum States Already Require Quantum Time Evolution**|Joel D. Huber et.al.|[2610.32937](http://arxiv.org/abs/2610.32937)|null|
 |**2026-10-23**|**Finite Nonsignalling Resources Suffice to Simulate Entangled Qubits**|Ziao Tang et.al.|[2610.32319](http://arxiv.org/abs/2610.32319)|null|
-|**2026-10-22**|**A Personal History in Quantum Foundations: an Oral History Interview**|Guy Hetzroni et.al.|[2610.30998](http://arxiv.org/abs/2610.30998)|null|
+|**2026-10-26**|**A Personal History in Quantum Foundations: an Oral History Interview**|Yakir Aharonov et.al.|[2610.30998](http://arxiv.org/abs/2610.30998)|null|
 |**2026-10-21**|**Parallel Repetition for k-Player XOR Games**|Mark Braverman et.al.|[2610.30455](http://arxiv.org/abs/2610.30455)|null|
 |**2026-10-21**|**Teaching quantum mechanics in secondary schools: A qubit-first learning path to Bell's inequalities**|Alberto Carlini et.al.|[2610.29834](http://arxiv.org/abs/2610.29834)|null|
 |**2026-10-18**|**Randomness Certification from Statistically Hiding Commitments**|Ilya Merkulov et.al.|[2610.25518](http://arxiv.org/abs/2610.25518)|null|
@@ -822,6 +824,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Membership in the cone of quantum states over time is NP-hard**|Matt Hoogsteder-Riera et.al.|[2610.34972](http://arxiv.org/abs/2610.34972)|null|
+|**2026-10-26**|**A General Framework for Leggett--Garg Violation in Neutrino Oscillations and Matter Effects**|M. M. Ettefaghi et.al.|[2610.34832](http://arxiv.org/abs/2610.34832)|null|
 |**2026-10-15**|**Multi-Time States in Quantum and Operational Probabilistic Theories: An Axiomatic Framework**|Kaumudibikash Goswami et.al.|[2610.22489](http://arxiv.org/abs/2610.22489)|null|
 |**2026-10-06**|**Quantum Algorithms for Multivariable Polynomial Transformations: From Efficient Synthesis to Quantum Channel Transformations**|Zheyu Shen et.al.|[2610.08714](http://arxiv.org/abs/2610.08714)|null|
 |**2026-10-02**|**Lifting Multiplicity in Randomized Benchmarking**|Yale Fan et.al.|[2610.03586](http://arxiv.org/abs/2610.03586)|null|
@@ -1767,6 +1771,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Precursor Ratio-Controlled Chloride Vacancies in Lead-Free KCuCl3-x Memristors for Forming-Free Gradual Resistive Switching and Neuromorphic Learning**|Chinmayee Mandar Mhaskar et.al.|[2610.35436](http://arxiv.org/abs/2610.35436)|null|
+|**2026-10-26**|**Measure of set coherence**|Jiabo Panel et.al.|[2610.34784](http://arxiv.org/abs/2610.34784)|null|
 |**2026-10-23**|**Maximal Orbital Entanglement from Non-Interacting Fermions**|Damiano Aliverti-Piuri et.al.|[2610.32974](http://arxiv.org/abs/2610.32974)|null|
 |**2026-10-23**|**A note on the monotonicity of observational ergotropic advantage**|Debanjan Dey Sarkar et.al.|[2610.32585](http://arxiv.org/abs/2610.32585)|null|
 |**2026-10-23**|**Stochastic predator-prey compartment model with cyclic and non-cyclic transition pathways and mortality**|Thomas M. Michelitsch et.al.|[2610.32535](http://arxiv.org/abs/2610.32535)|null|
@@ -2465,6 +2471,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-25**|**Higher Order OTOCs in Chaotic Quantum Maps: Ruelle-Pollicott Resonances and Asymptotic Freeness**|Nicolás Gómez Brucks et.al.|[2610.34615](http://arxiv.org/abs/2610.34615)|null|
+|**2026-10-25**|**Emergent Recursive Kernels in Quantum Reservoir Computing**|Ce Wang et.al.|[2610.34430](http://arxiv.org/abs/2610.34430)|null|
 |**2026-10-23**|**QuantumBilliards.jl: An extensible, user friendly, high-performance Julia library for the large scale computation of spectra and eigenstates of quantum billiards and related problems**|Matic Orel et.al.|[2610.32605](http://arxiv.org/abs/2610.32605)|null|
 |**2026-10-21**|**Normal-Form Characterization of Adaptivity and Entanglement in Pauli-Based Computation**|Filipa C. R. Peres et.al.|[2610.30315](http://arxiv.org/abs/2610.30315)|null|
 |**2026-10-20**|**Scrambling Separates Superradiance from Quantum Chaos**|Long-Jie Li et.al.|[2610.28412](http://arxiv.org/abs/2610.28412)|null|
@@ -3429,6 +3437,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-26**|**Decoding with alternating weighted graph sparsification for quantum low-density parity-check codes**|Josu Etxezarreta Martinez et.al.|[2610.35735](http://arxiv.org/abs/2610.35735)|null|
+|**2026-10-26**|**Fast and accurate rare-event simulation by Markov chain Monte Carlo for general quantum codes**|Junichi Haruna et.al.|[2610.35498](http://arxiv.org/abs/2610.35498)|null|
+|**2026-10-26**|**Multipartite dynamics beyond bipartite entanglement equilibration**|Yan Liu et.al.|[2610.35377](http://arxiv.org/abs/2610.35377)|null|
+|**2026-10-26**|**A Control Line Multiplexing Framework for Scalable Quantum Computing**|Dayu Li et.al.|[2610.35227](http://arxiv.org/abs/2610.35227)|null|
+|**2026-10-26**|**New families of additive non-RS MDS codes and ACD codes from twisted Reed-Solomon codes**|Xia Li et.al.|[2610.35105](http://arxiv.org/abs/2610.35105)|null|
+|**2026-10-26**|**Self-Correcting 3D Surface Code with Growing Local Dimension**|Jinkang Guo et.al.|[2610.35099](http://arxiv.org/abs/2610.35099)|null|
+|**2026-10-26**|**Large Language Models for Quantum Code Translation: An Exploratory Study**|Xiyuan Li et.al.|[2610.34841](http://arxiv.org/abs/2610.34841)|null|
+|**2026-10-26**|**Connecting Quantum Proof Systems and Hoare Logic**|Liyi Li et.al.|[2610.34723](http://arxiv.org/abs/2610.34723)|null|
+|**2026-10-25**|**Pauli-ball discrepancy and stability of quantum codes**|Aryeh Lev Zabokritskiy "Yohananov" et.al.|[2610.34399](http://arxiv.org/abs/2610.34399)|null|
+|**2026-10-23**|**Junction Hook Errors in the Color Code**|Salahedeen Issa et.al.|[2610.33347](http://arxiv.org/abs/2610.33347)|null|
 |**2026-10-23**|**Quantum Secret Sharing from CSS qLDPC Codes: Computable Access Structures, Accessible Logical Dimension, and Topology-Aware Network Cost**|Malik Mouaji et.al.|[2610.32428](http://arxiv.org/abs/2610.32428)|null|
 |**2026-10-23**|**Entangled logical qubits on a superconducting quantum processor**|Robin Harper et.al.|[2610.32347](http://arxiv.org/abs/2610.32347)|null|
 |**2026-10-23**|**Two-Layer Verification for Fault-Tolerant Magic-State Preparation in High-Rate Quantum Codes**|Naoyuki Kanomata et.al.|[2610.32267](http://arxiv.org/abs/2610.32267)|null|

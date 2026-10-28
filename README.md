@@ -1551,6 +1551,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-27**|**Measurement incompatibility and noiseless quantum codes**|Yu-Xuan Zhang et.al.|[2610.37347](http://arxiv.org/abs/2610.37347)|null|
 |**2026-10-23**|**One-sided-DIQKD using any pure bipartite entangled state secure against all attacks**|Bohnishikha Ghosh et.al.|[2610.32923](http://arxiv.org/abs/2610.32923)|null|
 |**2026-10-19**|**Exact projective-steering boundary and sample-size optimization for angularly averaged hyperon-antihyperon states**|Weicheng Miao et.al.|[2610.26526](http://arxiv.org/abs/2610.26526)|null|
 |**2026-10-19**|**SteerAct: Unlocking Action Models through Few-Shot Temporal Steering**|Kaichen Zhou et.al.|[2610.25632](http://arxiv.org/abs/2610.25632)|null|
@@ -2490,6 +2491,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-27**|**Another Brick in the Wall: Spectral Form Factor of Normal Modes in Horizonless Geometries**|A. I. Belokon et.al.|[2610.37038](http://arxiv.org/abs/2610.37038)|null|
 |**2026-10-25**|**Higher Order OTOCs in Chaotic Quantum Maps: Ruelle-Pollicott Resonances and Asymptotic Freeness**|Nicolás Gómez Brucks et.al.|[2610.34615](http://arxiv.org/abs/2610.34615)|null|
 |**2026-10-25**|**Emergent Recursive Kernels in Quantum Reservoir Computing**|Ce Wang et.al.|[2610.34430](http://arxiv.org/abs/2610.34430)|null|
 |**2026-10-23**|**QuantumBilliards.jl: An extensible, user friendly, high-performance Julia library for the large scale computation of spectra and eigenstates of quantum billiards and related problems**|Matic Orel et.al.|[2610.32605](http://arxiv.org/abs/2610.32605)|null|
@@ -3458,10 +3460,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-27**|**Approximate Counting for Mixed $p$ -Spin Glasses in Weak External Fields via Cluster Expansion**|Qiang Wu et.al.|[2610.37630](http://arxiv.org/abs/2610.37630)|null|
+|**2026-10-27**|**TimeLineXR: An Interactive Exploration of Time in Vision-Language Models**|Nidham Tekaya et.al.|[2610.37349](http://arxiv.org/abs/2610.37349)|null|
+|**2026-10-27**|**Measurement incompatibility and noiseless quantum codes**|Yu-Xuan Zhang et.al.|[2610.37347](http://arxiv.org/abs/2610.37347)|null|
+|**2026-10-27**|**From QCCD Trapped-Ion Hardware to Quantum Compilers: Capabilities, Architectures, and Compilation**|Ludwig Schmid et.al.|[2610.36965](http://arxiv.org/abs/2610.36965)|null|
+|**2026-10-27**|**Ancestor Lifting of Quasi-Cyclic Additive Codes and Certified Quantum Codes**|Liangdong Lu et.al.|[2610.36700](http://arxiv.org/abs/2610.36700)|null|
+|**2026-10-26**|**AlgebrasTQD: Computing Algebras and Interfaces in Twisted Quantum Doubles**|Alison Warman et.al.|[2610.36029](http://arxiv.org/abs/2610.36029)|null|
 |**2026-10-26**|**Decoding with alternating weighted graph sparsification for quantum low-density parity-check codes**|Josu Etxezarreta Martinez et.al.|[2610.35735](http://arxiv.org/abs/2610.35735)|null|
 |**2026-10-26**|**Fast and accurate rare-event simulation by Markov chain Monte Carlo for general quantum codes**|Junichi Haruna et.al.|[2610.35498](http://arxiv.org/abs/2610.35498)|null|
 |**2026-10-26**|**Multipartite dynamics beyond bipartite entanglement equilibration**|Yan Liu et.al.|[2610.35377](http://arxiv.org/abs/2610.35377)|null|
-|**2026-10-26**|**A Control Line Multiplexing Framework for Scalable Quantum Computing**|Dayu Li et.al.|[2610.35227](http://arxiv.org/abs/2610.35227)|null|
+|**2026-10-27**|**A Control Line Multiplexing Framework for Scalable Quantum Computing**|Dayu Li et.al.|[2610.35227](http://arxiv.org/abs/2610.35227)|null|
 |**2026-10-26**|**New families of additive non-RS MDS codes and ACD codes from twisted Reed-Solomon codes**|Xia Li et.al.|[2610.35105](http://arxiv.org/abs/2610.35105)|null|
 |**2026-10-26**|**Self-Correcting 3D Surface Code with Growing Local Dimension**|Jinkang Guo et.al.|[2610.35099](http://arxiv.org/abs/2610.35099)|null|
 |**2026-10-26**|**Large Language Models for Quantum Code Translation: An Exploratory Study**|Xiyuan Li et.al.|[2610.34841](http://arxiv.org/abs/2610.34841)|null|

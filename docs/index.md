@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Spectral Characterization, Local Rigidity and Morse Index of Bubble Solutions to the CR Fractional Yamabe Problem**|Jianlun Liu et.al.|[2610.39607](http://arxiv.org/abs/2610.39607)|null|
 |**2026-10-26**|**Network nonlocality with tripartite entangled sources**|Sudip Chakrabarty et.al.|[2610.35838](http://arxiv.org/abs/2610.35838)|null|
 |**2026-10-25**|**Exact Identification of Quantum Correlations in the Minimal Bell Scenario**|Liang-Liang Sun et.al.|[2610.34364](http://arxiv.org/abs/2610.34364)|null|
 |**2026-10-23**|**Certain Quantum States Already Require Quantum Time Evolution**|Joel D. Huber et.al.|[2610.32937](http://arxiv.org/abs/2610.32937)|null|
@@ -824,6 +825,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**What Can Be Computed with Indefinite Causal Structure?**|Omri Shmueli et.al.|[2610.40573](http://arxiv.org/abs/2610.40573)|null|
+|**2026-10-29**|**Process matrices on generalised theories**|Matt Wilson et.al.|[2610.40448](http://arxiv.org/abs/2610.40448)|null|
 |**2026-10-26**|**Membership in the cone of quantum states over time is NP-hard**|Matt Hoogsteder-Riera et.al.|[2610.34972](http://arxiv.org/abs/2610.34972)|null|
 |**2026-10-26**|**A General Framework for Leggett--Garg Violation in Neutrino Oscillations and Matter Effects**|M. M. Ettefaghi et.al.|[2610.34832](http://arxiv.org/abs/2610.34832)|null|
 |**2026-10-15**|**Multi-Time States in Quantum and Operational Probabilistic Theories: An Axiomatic Framework**|Kaumudibikash Goswami et.al.|[2610.22489](http://arxiv.org/abs/2610.22489)|null|
@@ -1184,6 +1187,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Levi-Civita's type theorem for projectively equivalent sub-Riemannian metrics on step 2 distributions**|Christopher Sinkule et.al.|[2610.40288](http://arxiv.org/abs/2610.40288)|null|
 |**2026-10-28**|**An involution for recurrences of Tricomi and other special functions**|John T. Conway et.al.|[2610.39023](http://arxiv.org/abs/2610.39023)|null|
 |**2026-10-20**|**Local finite rate semi device independent randomness expansion from quantum contextuality**|Dhananjoy Ghosh et.al.|[2610.21765](http://arxiv.org/abs/2610.21765)|null|
 |**2026-10-13**|**On the Investigation of Antenna Beam Pattern Models for Fast Beam Placement in LEO Satellite Networks**|Ninh Thi-Thanh Tam et.al.|[2610.18930](http://arxiv.org/abs/2610.18930)|null|
@@ -1773,6 +1777,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-28**|**Robustness of Magic and the Directed Geometry of State Conversion**|Satoshi Kanno et.al.|[2610.38401](http://arxiv.org/abs/2610.38401)|null|
 |**2026-10-26**|**Precursor Ratio-Controlled Chloride Vacancies in Lead-Free KCuCl3-x Memristors for Forming-Free Gradual Resistive Switching and Neuromorphic Learning**|Chinmayee Mandar Mhaskar et.al.|[2610.35436](http://arxiv.org/abs/2610.35436)|null|
 |**2026-10-26**|**Measure of set coherence**|Jiabo Panel et.al.|[2610.34784](http://arxiv.org/abs/2610.34784)|null|
 |**2026-10-23**|**Maximal Orbital Entanglement from Non-Interacting Fermions**|Damiano Aliverti-Piuri et.al.|[2610.32974](http://arxiv.org/abs/2610.32974)|null|
@@ -3440,6 +3445,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-10-29**|**Algebraic strong-to-weak symmetry breaking and partial decodability in the surface code**|Stephen W. Yan et.al.|[2610.40567](http://arxiv.org/abs/2610.40567)|null|
+|**2026-10-29**|**Fast and accurate neural triage decoding of ultra-high-rate quantum LDPC codes**|Hong-Ye Hu et.al.|[2610.40490](http://arxiv.org/abs/2610.40490)|null|
+|**2026-10-29**|**Subsystem Spacetime Code**|Esther Xiaozhen Fu et.al.|[2610.40357](http://arxiv.org/abs/2610.40357)|null|
+|**2026-10-29**|**Force Sensing in a Recoverable Bosonic Quantum Memory**|Tairong Bai et.al.|[2610.39208](http://arxiv.org/abs/2610.39208)|null|
+|**2026-10-28**|**High-Threshold Fusion-Based Quantum Computation with Optical Hybrid Qubits**|Seong-Yeop Lim et.al.|[2610.38914](http://arxiv.org/abs/2610.38914)|null|
+|**2026-10-28**|**Coherent errors, syndrome extraction and the Robustness of Magic in stabiliser codes**|Enrico Bozzetto et.al.|[2610.38554](http://arxiv.org/abs/2610.38554)|null|
+|**2026-10-27**|**Twisted Fourier Analysis of Quantum Weight Enumerators**|Ching-Yi Lai et.al.|[2610.37894](http://arxiv.org/abs/2610.37894)|null|
+|**2026-10-27**|**Topological Quantum Error-Correcting Thresholds of a Symmetry-Enriched Toric Code**|Jiasheng He et.al.|[2610.37791](http://arxiv.org/abs/2610.37791)|null|
 |**2026-10-27**|**Approximate Counting for Mixed $p$ -Spin Glasses in Weak External Fields via Cluster Expansion**|Qiang Wu et.al.|[2610.37630](http://arxiv.org/abs/2610.37630)|null|
 |**2026-10-27**|**TimeLineXR: An Interactive Exploration of Time in Vision-Language Models**|Nidham Tekaya et.al.|[2610.37349](http://arxiv.org/abs/2610.37349)|null|
 |**2026-10-27**|**Measurement incompatibility and noiseless quantum codes**|Yu-Xuan Zhang et.al.|[2610.37347](http://arxiv.org/abs/2610.37347)|null|

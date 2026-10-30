@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1184,6 +1184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-28**|**An involution for recurrences of Tricomi and other special functions**|John T. Conway et.al.|[2610.39023](http://arxiv.org/abs/2610.39023)|null|
 |**2026-10-20**|**Local finite rate semi device independent randomness expansion from quantum contextuality**|Dhananjoy Ghosh et.al.|[2610.21765](http://arxiv.org/abs/2610.21765)|null|
 |**2026-10-13**|**On the Investigation of Antenna Beam Pattern Models for Fast Beam Placement in LEO Satellite Networks**|Ninh Thi-Thanh Tam et.al.|[2610.18930](http://arxiv.org/abs/2610.18930)|null|
 |**2026-10-12**|**Well-posedness for the spatially inhomogeneous Fermi-Dirac-Fokker-Planck equation**|Gayrat Toshpulatov et.al.|[2610.16700](http://arxiv.org/abs/2610.16700)|null|

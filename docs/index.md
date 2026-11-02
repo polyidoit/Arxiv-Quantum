@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Device-independent conference key agreement from two-body correlators with balanced Dicke states**|Makoto Ishihara et.al.|[2610.41712](http://arxiv.org/abs/2610.41712)|null|
 |**2026-10-29**|**Spectral Characterization, Local Rigidity and Morse Index of Bubble Solutions to the CR Fractional Yamabe Problem**|Jianlun Liu et.al.|[2610.39607](http://arxiv.org/abs/2610.39607)|null|
 |**2026-10-26**|**Network nonlocality with tripartite entangled sources**|Sudip Chakrabarty et.al.|[2610.35838](http://arxiv.org/abs/2610.35838)|null|
 |**2026-10-25**|**Exact Identification of Quantum Correlations in the Minimal Bell Scenario**|Liang-Liang Sun et.al.|[2610.34364](http://arxiv.org/abs/2610.34364)|null|

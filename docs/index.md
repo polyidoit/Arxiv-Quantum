@@ -828,6 +828,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-31**|**Multiparameter quantum metrology for general and adaptive strategies**|Masahito Hayashi et.al.|[2611.01027](http://arxiv.org/abs/2611.01027)|null|
 |**2026-10-29**|**What Can Be Computed with Indefinite Causal Structure?**|Omri Shmueli et.al.|[2610.40573](http://arxiv.org/abs/2610.40573)|null|
 |**2026-10-29**|**Process matrices on generalised theories**|Matt Wilson et.al.|[2610.40448](http://arxiv.org/abs/2610.40448)|null|
 |**2026-10-30**|**Membership in the cone of quantum states over time is NP-hard**|Matt Hoogsteder-Riera et.al.|[2610.34972](http://arxiv.org/abs/2610.34972)|null|
@@ -1190,8 +1191,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-31**|**Polyteam logics for quantum contextuality**|Loan Le Maguet et.al.|[2611.00814](http://arxiv.org/abs/2611.00814)|null|
 |**2026-10-30**|**No generalised contextuality from the vacuum**|Ruben Campos Delgado et.al.|[2610.41964](http://arxiv.org/abs/2610.41964)|null|
-|**2026-10-29**|**Levi-Civita's type theorem for projectively equivalent sub-Riemannian metrics on step 2 distributions**|Christopher Sinkule et.al.|[2610.40288](http://arxiv.org/abs/2610.40288)|null|
+|**2026-10-31**|**Levi-Civita's type theorem for projectively equivalent sub-Riemannian metrics on step 2 distributions**|Christopher Sinkule et.al.|[2610.40288](http://arxiv.org/abs/2610.40288)|null|
 |**2026-10-28**|**An involution for recurrences of Tricomi and other special functions**|John T. Conway et.al.|[2610.39023](http://arxiv.org/abs/2610.39023)|null|
 |**2026-10-20**|**Local finite rate semi device independent randomness expansion from quantum contextuality**|Dhananjoy Ghosh et.al.|[2610.21765](http://arxiv.org/abs/2610.21765)|null|
 |**2026-10-13**|**On the Investigation of Antenna Beam Pattern Models for Fast Beam Placement in LEO Satellite Networks**|Ninh Thi-Thanh Tam et.al.|[2610.18930](http://arxiv.org/abs/2610.18930)|null|
@@ -1791,7 +1793,7 @@ layout: default
 |**2026-10-21**|**Resource Analysis of Quantum Optimization Algorithms via Variational Methods**|Vitor Dallabona et.al.|[2610.29919](http://arxiv.org/abs/2610.29919)|null|
 |**2026-10-20**|**Optimal Approximate Quantum Conversion from a Taut-String Principle in Majorization-Based Resource Theories**|Franco Meroi et.al.|[2610.28015](http://arxiv.org/abs/2610.28015)|null|
 |**2026-10-19**|**Load-Balanced Neural-Network-Aided Adaptive Tabulation of Phase Equilibria for Transcritical Multiphase Flows**|Navneeth Srinivasan et.al.|[2610.26984](http://arxiv.org/abs/2610.26984)|null|
-|**2026-10-19**|**Majorization for superpositions of nonorthogonal states and the existence of golden states**|Gökhan Torun et.al.|[2610.26483](http://arxiv.org/abs/2610.26483)|null|
+|**2026-11-02**|**Majorization for superpositions of nonorthogonal states and the existence of golden states**|Gökhan Torun et.al.|[2610.26483](http://arxiv.org/abs/2610.26483)|null|
 |**2026-10-20**|**Self-organizing reinforcement learning: a learner-free swarm approaches the explore-exploit optimum**|Galen J. Wilkerson et.al.|[2610.25113](http://arxiv.org/abs/2610.25113)|null|
 |**2026-10-14**|**A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering**|Yun-Shiuan Chuang et.al.|[2610.20809](http://arxiv.org/abs/2610.20809)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
@@ -2483,6 +2485,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Spin SYK-dot chains: entanglement bound and resource estimates towards a quantum advantage**|Sayantan Dey et.al.|[2611.03207](http://arxiv.org/abs/2611.03207)|null|
+|**2026-11-01**|**Q-BWE: Quantum Chaos-Informed Speech Bandwidth Extension**|Tarikul Islam Tamiti et.al.|[2611.02250](http://arxiv.org/abs/2611.02250)|null|
 |**2026-10-30**|**Probing Operator Spreading with Local Quantum Fluctuations**|Bertúlio de Lima Bernardo et.al.|[2610.41140](http://arxiv.org/abs/2610.41140)|null|
 |**2026-10-27**|**Another Brick in the Wall: Spectral Form Factor of Normal Modes in Horizonless Geometries**|A. I. Belokon et.al.|[2610.37038](http://arxiv.org/abs/2610.37038)|null|
 |**2026-10-25**|**Higher Order OTOCs in Chaotic Quantum Maps: Ruelle-Pollicott Resonances and Asymptotic Freeness**|Nicolás Gómez Brucks et.al.|[2610.34615](http://arxiv.org/abs/2610.34615)|null|
@@ -3451,6 +3455,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-02**|**Agentic Pipelines for Mapping Topological Codes to Quantum Hardware**|Arpit Arora et.al.|[2611.03329](http://arxiv.org/abs/2611.03329)|null|
+|**2026-11-02**|**Belief Propagation-Informed Tesseract Decoding of Quantum LDPC Codes**|Sana Javed et.al.|[2611.03128](http://arxiv.org/abs/2611.03128)|null|
+|**2026-11-02**|**Towards Optimal Routing Strategies for qLDPC codes on Silicon Spin Qubits**|Merlin Incerti-Medici et.al.|[2611.02972](http://arxiv.org/abs/2611.02972)|null|
+|**2026-11-02**|**Full-Rank Constructions of Explicit Lossless Expanders and Good Small-Set qLTCs**|Yali Aharon-Holzman et.al.|[2611.02963](http://arxiv.org/abs/2611.02963)|null|
+|**2026-11-02**|**Achievability of CSS codes performance limits over Pauli channels under separate ML decoding with bounded graphical complexity**|Gulnihal Mercanoglu et.al.|[2611.02339](http://arxiv.org/abs/2611.02339)|null|
+|**2026-11-01**|**Access Resources and Stability of Error-Correction Capabilities in Continuous Strategic Codes**|He Wang et.al.|[2611.01592](http://arxiv.org/abs/2611.01592)|null|
+|**2026-10-31**|**Normal Factor Graph Representations of Stabilizer Quantum Codes with Applications**|July X. Li et.al.|[2611.00985](http://arxiv.org/abs/2611.00985)|null|
+|**2026-10-31**|**Photon-loss tolerance of the surface-GKP code with anti-photon-loss decoding**|Guan-Ju Yan et.al.|[2611.00694](http://arxiv.org/abs/2611.00694)|null|
+|**2026-10-30**|**Early Fault-Tolerant Magic State Synthesis and Spacetime Efficient Analog Rotations with Color Code on a Superconducting Quantum Processor**|Sean Garner et.al.|[2611.00404](http://arxiv.org/abs/2611.00404)|null|
 |**2026-10-30**|**FaultScope: A software package for fast error attribution in quantum error correction**|Yuguo Shao et.al.|[2610.41528](http://arxiv.org/abs/2610.41528)|null|
 |**2026-10-30**|**Researcher-in-the-Loop Evolutionary Discovery of Entanglement-Assisted Quantum Code Families**|Jae-Hyun Baek et.al.|[2610.41183](http://arxiv.org/abs/2610.41183)|null|
 |**2026-10-29**|**Algebraic strong-to-weak symmetry breaking and partial decodability in the surface code**|Stephen W. Yan et.al.|[2610.40567](http://arxiv.org/abs/2610.40567)|null|

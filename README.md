@@ -1204,6 +1204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**Analog quantum simulation of paraparticle statistics**|Gyunghun Kim et.al.|[2611.03908](http://arxiv.org/abs/2611.03908)|null|
 |**2026-10-31**|**Polyteam logics for quantum contextuality**|Loan Le Maguet et.al.|[2611.00814](http://arxiv.org/abs/2611.00814)|null|
 |**2026-10-30**|**No generalised contextuality from the vacuum**|Ruben Campos Delgado et.al.|[2610.41964](http://arxiv.org/abs/2610.41964)|null|
 |**2026-10-31**|**Levi-Civita's type theorem for projectively equivalent sub-Riemannian metrics on step 2 distributions**|Christopher Sinkule et.al.|[2610.40288](http://arxiv.org/abs/2610.40288)|null|
@@ -1800,6 +1801,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes**|Javal Vyas et.al.|[2611.05179](http://arxiv.org/abs/2611.05179)|null|
+|**2026-11-03**|**Basic Reproductive Numbers in Host-Parasite Systems with Demographic Bistability**|Carli Peterson et.al.|[2611.04990](http://arxiv.org/abs/2611.04990)|null|
 |**2026-10-29**|**Stars Can Quench Superradiance Around Supermassive Black Holes**|Yu Cheng et.al.|[2610.40895](http://arxiv.org/abs/2610.40895)|null|
 |**2026-10-28**|**Robustness of Magic and the Directed Geometry of State Conversion**|Satoshi Kanno et.al.|[2610.38401](http://arxiv.org/abs/2610.38401)|null|
 |**2026-10-26**|**Precursor Ratio-Controlled Chloride Vacancies in Lead-Free KCuCl3-x Memristors for Forming-Free Gradual Resistive Switching and Neuromorphic Learning**|Chinmayee Mandar Mhaskar et.al.|[2610.35436](http://arxiv.org/abs/2610.35436)|null|
@@ -2504,7 +2507,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-02**|**Spin SYK-dot chains: entanglement bound and resource estimates towards a quantum advantage**|Sayantan Dey et.al.|[2611.03207](http://arxiv.org/abs/2611.03207)|null|
+|**2026-11-03**|**Quantum Pointwise Dimension (QUPID): An algorithm for identifying classical chaos in quantum dynamics**|Jonathan Berkheim et.al.|[2611.05369](http://arxiv.org/abs/2611.05369)|null|
+|**2026-11-03**|**Closed- and open-system characterization of the Yukawa-SYK model in real time**|Alex Windey et.al.|[2611.04704](http://arxiv.org/abs/2611.04704)|null|
+|**2026-11-03**|**Spin SYK-dot chains: entanglement bound and resource estimates towards a quantum advantage**|Sayantan Dey et.al.|[2611.03207](http://arxiv.org/abs/2611.03207)|null|
 |**2026-11-01**|**Q-BWE: Quantum Chaos-Informed Speech Bandwidth Extension**|Tarikul Islam Tamiti et.al.|[2611.02250](http://arxiv.org/abs/2611.02250)|null|
 |**2026-10-30**|**Probing Operator Spreading with Local Quantum Fluctuations**|Bertúlio de Lima Bernardo et.al.|[2610.41140](http://arxiv.org/abs/2610.41140)|null|
 |**2026-10-27**|**Another Brick in the Wall: Spectral Form Factor of Normal Modes in Horizonless Geometries**|A. I. Belokon et.al.|[2610.37038](http://arxiv.org/abs/2610.37038)|null|
@@ -3476,6 +3481,15 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-03**|**Quantum Error Correction in Nearly Critical Toric Codes**|Zack Weinstein et.al.|[2611.05375](http://arxiv.org/abs/2611.05375)|null|
+|**2026-11-03**|**Plotkin-optimal pure quantum LRCs with large minimum distances from NMDS codes**|Yang Li et.al.|[2611.05335](http://arxiv.org/abs/2611.05335)|null|
+|**2026-11-03**|**DynaMite: Dynamic Measurement Scheduling To Accelerate Fault-Tolerant Quantum Programs**|Dongwhee Kim et.al.|[2611.05233](http://arxiv.org/abs/2611.05233)|null|
+|**2026-11-03**|**QECert: Formal Foundations for Quantum Error-Correction Theory in Lean**|Keming He et.al.|[2611.05047](http://arxiv.org/abs/2611.05047)|null|
+|**2026-11-03**|**Recoverability of Gravitational Entanglement under Decoherence**|Yi-Xuan Wang et.al.|[2611.05044](http://arxiv.org/abs/2611.05044)|null|
+|**2026-11-03**|**Autonomous cooling of Kerr-cat qubits to minutes-long bit-flip times**|Sergey Hazanov et.al.|[2611.04868](http://arxiv.org/abs/2611.04868)|null|
+|**2026-11-03**|**On the Hardness of Approximate Quantum Circuit Membership and Optimization**|Adam Husted Kjelstrøm et.al.|[2611.04381](http://arxiv.org/abs/2611.04381)|null|
+|**2026-11-02**|**Runtime Compilation for Quantum Circuits with PQF-Enabled $R_z$ Synthesis**|Siddharth Dangwal et.al.|[2611.04075](http://arxiv.org/abs/2611.04075)|null|
+|**2026-11-02**|**Long-range entangled criticality from coherent errors**|Amir-Reza Negari et.al.|[2611.03811](http://arxiv.org/abs/2611.03811)|null|
 |**2026-11-02**|**Agentic Pipelines for Mapping Topological Codes to Quantum Hardware**|Arpit Arora et.al.|[2611.03329](http://arxiv.org/abs/2611.03329)|null|
 |**2026-11-02**|**Belief Propagation-Informed Tesseract Decoding of Quantum LDPC Codes**|Sana Javed et.al.|[2611.03128](http://arxiv.org/abs/2611.03128)|null|
 |**2026-11-02**|**Towards Optimal Routing Strategies for qLDPC codes on Silicon Spin Qubits**|Merlin Incerti-Medici et.al.|[2611.02972](http://arxiv.org/abs/2611.02972)|null|

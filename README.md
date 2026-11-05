@@ -1563,6 +1563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**Experimental activation of hidden metrological steerability in quantum channels via stochastic filtering**|H. S. Karthik et.al.|[2611.06668](http://arxiv.org/abs/2611.06668)|null|
 |**2026-10-27**|**Measurement incompatibility and noiseless quantum codes**|Yu-Xuan Zhang et.al.|[2610.37347](http://arxiv.org/abs/2610.37347)|null|
 |**2026-10-23**|**One-sided-DIQKD using any pure bipartite entangled state secure against all attacks**|Bohnishikha Ghosh et.al.|[2610.32923](http://arxiv.org/abs/2610.32923)|null|
 |**2026-10-19**|**Exact projective-steering boundary and sample-size optimization for angularly averaged hyperon-antihyperon states**|Weicheng Miao et.al.|[2610.26526](http://arxiv.org/abs/2610.26526)|null|
@@ -1801,6 +1802,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**Equivalence of Correlated Catalytic and Marginal Asymptotic Transformations in Quantum Resource Theories**|Jingsong Ao et.al.|[2611.06573](http://arxiv.org/abs/2611.06573)|null|
+|**2026-11-03**|**Comparative analysis of numerical methods for X-ray 3D reconstruction from sparse views**|Melitine N. Bardi et.al.|[2611.05645](http://arxiv.org/abs/2611.05645)|null|
 |**2026-11-03**|**OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes**|Javal Vyas et.al.|[2611.05179](http://arxiv.org/abs/2611.05179)|null|
 |**2026-11-03**|**Basic Reproductive Numbers in Host-Parasite Systems with Demographic Bistability**|Carli Peterson et.al.|[2611.04990](http://arxiv.org/abs/2611.04990)|null|
 |**2026-10-29**|**Stars Can Quench Superradiance Around Supermassive Black Holes**|Yu Cheng et.al.|[2610.40895](http://arxiv.org/abs/2610.40895)|null|
@@ -3481,6 +3484,16 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-04**|**GFlowQEC: Generative Flow Networks that Learn to Sample Quantum LDPC Codes**|Nuno Batista et.al.|[2611.06819](http://arxiv.org/abs/2611.06819)|null|
+|**2026-11-04**|**Discovering correlated error mechanisms: data-driven augmentation of detector error models improving decoding**|Zohar Schwartzman-Nowik et.al.|[2611.06605](http://arxiv.org/abs/2611.06605)|null|
+|**2026-11-04**|**Bridging Pulse and Circuit Levels: A Geometric Framework for Deterministic Error Suppression**|Junkai Zeng et.al.|[2611.06291](http://arxiv.org/abs/2611.06291)|null|
+|**2026-11-04**|**Connection of surface code patches based on entanglement distillation without postselection**|Moeto Mishima et.al.|[2611.06260](http://arxiv.org/abs/2611.06260)|null|
+|**2026-11-04**|**Resetting a Superconducting Qubit with a Compact Colder Resistive Dissipator below the Qubit Frequency**|Jiajia Tian et.al.|[2611.06216](http://arxiv.org/abs/2611.06216)|null|
+|**2026-11-04**|**Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders**|Hiromi Ebisu et.al.|[2611.06154](http://arxiv.org/abs/2611.06154)|null|
+|**2026-11-04**|**Classical Clifford+T Sampling without Computing Marginals**|Mark Koch et.al.|[2611.06119](http://arxiv.org/abs/2611.06119)|null|
+|**2026-11-04**|**Single-Exponential FPT Algorithms for Minimum Bisection and Matching Cut via a New Unbreakable Decomposition**|Soh Kumabe et.al.|[2611.05982](http://arxiv.org/abs/2611.05982)|null|
+|**2026-11-03**|**Trinetra.Q: Statistical and Behavioral Detection of Attacks on the Quantum-Error-Correction Layer and Classical Control Stack of Quantum Computing Systems**|Garrv Sipani et.al.|[2611.05722](http://arxiv.org/abs/2611.05722)|null|
+|**2026-11-03**|**Quantum error correcting codes from quiver moduli: Grassmannians, cyclic monodromy, and argyle collision divisors**|Steven Rayan et.al.|[2611.05526](http://arxiv.org/abs/2611.05526)|null|
 |**2026-11-03**|**Quantum Error Correction in Nearly Critical Toric Codes**|Zack Weinstein et.al.|[2611.05375](http://arxiv.org/abs/2611.05375)|null|
 |**2026-11-03**|**Plotkin-optimal pure quantum LRCs with large minimum distances from NMDS codes**|Yang Li et.al.|[2611.05335](http://arxiv.org/abs/2611.05335)|null|
 |**2026-11-03**|**DynaMite: Dynamic Measurement Scheduling To Accelerate Fault-Tolerant Quantum Programs**|Dongwhee Kim et.al.|[2611.05233](http://arxiv.org/abs/2611.05233)|null|

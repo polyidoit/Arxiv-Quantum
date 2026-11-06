@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**All Bell inequalities with a quantum advantage in the minimal scenario are self-testing**|Mu-En Liu et.al.|[2611.06997](http://arxiv.org/abs/2611.06997)|null|
 |**2026-10-30**|**Logical Bell Inequalities for Marginal Wigner Negativity**|Sanchit Srivastava et.al.|[2610.42017](http://arxiv.org/abs/2610.42017)|null|
 |**2026-10-30**|**Locality, Probability and the Relevance of History**|Sebastian Horvat et.al.|[2610.41944](http://arxiv.org/abs/2610.41944)|null|
 |**2026-10-30**|**Device-independent conference key agreement from two-body correlators with balanced Dicke states**|Makoto Ishihara et.al.|[2610.41712](http://arxiv.org/abs/2610.41712)|null|
@@ -828,6 +829,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Elimination of quantum causal confusion in the presence of dual states**|James Fullwood et.al.|[2611.07449](http://arxiv.org/abs/2611.07449)|null|
 |**2026-10-31**|**Multiparameter quantum metrology for general and adaptive strategies**|Masahito Hayashi et.al.|[2611.01027](http://arxiv.org/abs/2611.01027)|null|
 |**2026-10-29**|**What Can Be Computed with Indefinite Causal Structure?**|Omri Shmueli et.al.|[2610.40573](http://arxiv.org/abs/2610.40573)|null|
 |**2026-10-29**|**Process matrices on generalised theories**|Matt Wilson et.al.|[2610.40448](http://arxiv.org/abs/2610.40448)|null|
@@ -1191,6 +1193,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Spatial Reuse in Multi-Cell Pinching-Antenna Systems**|Zhenqiao Cheng et.al.|[2611.07906](http://arxiv.org/abs/2611.07906)|null|
+|**2026-11-05**|**Combinatorics of noncommutative harmonic oscillator determinant**|Masato Wakayama et.al.|[2611.07626](http://arxiv.org/abs/2611.07626)|null|
 |**2026-11-02**|**Analog quantum simulation of paraparticle statistics**|Gyunghun Kim et.al.|[2611.03908](http://arxiv.org/abs/2611.03908)|null|
 |**2026-10-31**|**Polyteam logics for quantum contextuality**|Loan Le Maguet et.al.|[2611.00814](http://arxiv.org/abs/2611.00814)|null|
 |**2026-10-30**|**No generalised contextuality from the vacuum**|Ruben Campos Delgado et.al.|[2610.41964](http://arxiv.org/abs/2610.41964)|null|
@@ -1785,6 +1789,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**WaSP: Wasserstein Data Synthesis Pipeline for Solver-Free Operator Learning**|Ryan Liu et.al.|[2611.07646](http://arxiv.org/abs/2611.07646)|null|
 |**2026-11-04**|**Equivalence of Correlated Catalytic and Marginal Asymptotic Transformations in Quantum Resource Theories**|Jingsong Ao et.al.|[2611.06573](http://arxiv.org/abs/2611.06573)|null|
 |**2026-11-03**|**Comparative analysis of numerical methods for X-ray 3D reconstruction from sparse views**|Melitine N. Bardi et.al.|[2611.05645](http://arxiv.org/abs/2611.05645)|null|
 |**2026-11-03**|**OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes**|Javal Vyas et.al.|[2611.05179](http://arxiv.org/abs/2611.05179)|null|
@@ -2491,6 +2496,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Non-Unitary Quantum Butterfly Effect: Theory and Experiment**|Paul Argyle et.al.|[2611.08152](http://arxiv.org/abs/2611.08152)|null|
+|**2026-11-05**|**Efficient Pauli Truncation from Operator Stabilizer Rényi Entropy**|Haihui Wang et.al.|[2611.07545](http://arxiv.org/abs/2611.07545)|null|
 |**2026-11-03**|**Quantum Pointwise Dimension (QUPID): An algorithm for identifying classical chaos in quantum dynamics**|Jonathan Berkheim et.al.|[2611.05369](http://arxiv.org/abs/2611.05369)|null|
 |**2026-11-03**|**Closed- and open-system characterization of the Yukawa-SYK model in real time**|Alex Windey et.al.|[2611.04704](http://arxiv.org/abs/2611.04704)|null|
 |**2026-11-03**|**Spin SYK-dot chains: entanglement bound and resource estimates towards a quantum advantage**|Sayantan Dey et.al.|[2611.03207](http://arxiv.org/abs/2611.03207)|null|
@@ -3463,6 +3470,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-05**|**Certifying quantum code and circuit distances at scale**|Bin Cheng et.al.|[2611.08247](http://arxiv.org/abs/2611.08247)|null|
+|**2026-11-05**|**Uniform Three-Fold Product Expansion of Algebraic-Geometry Codes over a Fixed Field**|Cassie Ding et.al.|[2611.08172](http://arxiv.org/abs/2611.08172)|null|
+|**2026-11-05**|**Bri3D: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor**|Hongye Hou et.al.|[2611.07961](http://arxiv.org/abs/2611.07961)|null|
+|**2026-11-04**|**Dithered Belief Propagation for Real-Time Quantum Memory Decoding**|Zhengyu Cai et.al.|[2611.07144](http://arxiv.org/abs/2611.07144)|null|
 |**2026-11-04**|**GFlowQEC: Generative Flow Networks that Learn to Sample Quantum LDPC Codes**|Nuno Batista et.al.|[2611.06819](http://arxiv.org/abs/2611.06819)|null|
 |**2026-11-04**|**Discovering correlated error mechanisms: data-driven augmentation of detector error models improving decoding**|Zohar Schwartzman-Nowik et.al.|[2611.06605](http://arxiv.org/abs/2611.06605)|null|
 |**2026-11-04**|**Bridging Pulse and Circuit Levels: A Geometric Framework for Deterministic Error Suppression**|Junkai Zeng et.al.|[2611.06291](http://arxiv.org/abs/2611.06291)|null|

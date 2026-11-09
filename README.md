@@ -840,6 +840,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**Density kernel and temporal quantum information probes in double-scaled SYK**|Johanna Erdmenger et.al.|[2611.08592](http://arxiv.org/abs/2611.08592)|null|
 |**2026-11-05**|**Elimination of quantum causal confusion in the presence of dual states**|James Fullwood et.al.|[2611.07449](http://arxiv.org/abs/2611.07449)|null|
 |**2026-10-31**|**Multiparameter quantum metrology for general and adaptive strategies**|Masahito Hayashi et.al.|[2611.01027](http://arxiv.org/abs/2611.01027)|null|
 |**2026-10-29**|**What Can Be Computed with Indefinite Causal Structure?**|Omri Shmueli et.al.|[2610.40573](http://arxiv.org/abs/2610.40573)|null|
@@ -1567,6 +1568,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**Critical properties of EPR steering**|Yu-Xuan Zhang et.al.|[2611.09321](http://arxiv.org/abs/2611.09321)|null|
+|**2026-11-06**|**Correlation-Enhanced Quantum Reservoir Processing for Two-Qutrit Steering: From Generalization to Discovery**|Pu Wang et.al.|[2611.09268](http://arxiv.org/abs/2611.09268)|null|
 |**2026-11-04**|**Experimental activation of hidden metrological steerability in quantum channels via stochastic filtering**|H. S. Karthik et.al.|[2611.06668](http://arxiv.org/abs/2611.06668)|null|
 |**2026-10-27**|**Measurement incompatibility and noiseless quantum codes**|Yu-Xuan Zhang et.al.|[2610.37347](http://arxiv.org/abs/2610.37347)|null|
 |**2026-10-23**|**One-sided-DIQKD using any pure bipartite entangled state secure against all attacks**|Bohnishikha Ghosh et.al.|[2610.32923](http://arxiv.org/abs/2610.32923)|null|
@@ -1806,6 +1809,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**Reachability Constraints and Monotones for Quantum-State Texture**|Jose Alfredo de Leon et.al.|[2611.09230](http://arxiv.org/abs/2611.09230)|null|
 |**2026-11-05**|**WaSP: Wasserstein Data Synthesis Pipeline for Solver-Free Operator Learning**|Ryan Liu et.al.|[2611.07646](http://arxiv.org/abs/2611.07646)|null|
 |**2026-11-04**|**Equivalence of Correlated Catalytic and Marginal Asymptotic Transformations in Quantum Resource Theories**|Jingsong Ao et.al.|[2611.06573](http://arxiv.org/abs/2611.06573)|null|
 |**2026-11-03**|**Comparative analysis of numerical methods for X-ray 3D reconstruction from sparse views**|Melitine N. Bardi et.al.|[2611.05645](http://arxiv.org/abs/2611.05645)|null|
@@ -3491,6 +3495,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-06**|**Twisted Compactification, Quotient Quantum Codes and Logical Gates**|Po-Shen Hsin et.al.|[2611.09538](http://arxiv.org/abs/2611.09538)|null|
+|**2026-11-06**|**Parametric $\mathrm{CZ}$ Gates in a Tunable Tripod Architecture with Fixed-Frequency Superconducting Qubits**|Chanpyo Kim et.al.|[2611.09105](http://arxiv.org/abs/2611.09105)|null|
 |**2026-11-05**|**Certifying quantum code and circuit distances at scale**|Bin Cheng et.al.|[2611.08247](http://arxiv.org/abs/2611.08247)|null|
 |**2026-11-05**|**Uniform Three-Fold Product Expansion of Algebraic-Geometry Codes over a Fixed Field**|Cassie Ding et.al.|[2611.08172](http://arxiv.org/abs/2611.08172)|null|
 |**2026-11-05**|**Bri3D: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor**|Hongye Hou et.al.|[2611.07961](http://arxiv.org/abs/2611.07961)|null|

@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-08**|**Spin entanglement in $pp$ and $pA$ collisions: high-energy TMD effects and fragmentation probes**|Michael Fucilla et.al.|[2611.11568](http://arxiv.org/abs/2611.11568)|null|
 |**2026-11-04**|**All Bell inequalities with a quantum advantage in the minimal scenario are self-testing**|Mu-En Liu et.al.|[2611.06997](http://arxiv.org/abs/2611.06997)|null|
 |**2026-10-30**|**Logical Bell Inequalities for Marginal Wigner Negativity**|Sanchit Srivastava et.al.|[2610.42017](http://arxiv.org/abs/2610.42017)|null|
 |**2026-10-30**|**Locality, Probability and the Relevance of History**|Sebastian Horvat et.al.|[2610.41944](http://arxiv.org/abs/2610.41944)|null|
@@ -1203,7 +1204,7 @@ layout: default
 |**2026-10-28**|**An involution for recurrences of Tricomi and other special functions**|John T. Conway et.al.|[2610.39023](http://arxiv.org/abs/2610.39023)|null|
 |**2026-10-20**|**Local finite rate semi device independent randomness expansion from quantum contextuality**|Dhananjoy Ghosh et.al.|[2610.21765](http://arxiv.org/abs/2610.21765)|null|
 |**2026-10-13**|**On the Investigation of Antenna Beam Pattern Models for Fast Beam Placement in LEO Satellite Networks**|Ninh Thi-Thanh Tam et.al.|[2610.18930](http://arxiv.org/abs/2610.18930)|null|
-|**2026-10-12**|**Well-posedness for the spatially inhomogeneous Fermi-Dirac-Fokker-Planck equation**|Gayrat Toshpulatov et.al.|[2610.16700](http://arxiv.org/abs/2610.16700)|null|
+|**2026-11-07**|**Well-posedness for the spatially inhomogeneous Fermi-Dirac-Fokker-Planck equation**|Gayrat Toshpulatov et.al.|[2610.16700](http://arxiv.org/abs/2610.16700)|null|
 |**2026-10-10**|**Pairwise Compatibility Graphs of Unweighted Caterpillars**|Cyriac Antony et.al.|[2610.14681](http://arxiv.org/abs/2610.14681)|null|
 |**2026-10-09**|**Causal Effect Identifiability in Causal Abstractions: A Strict Hierarchy of Criteria**|Clément Yvernes et.al.|[2610.13520](http://arxiv.org/abs/2610.13520)|null|
 |**2026-10-05**|**$λ$-$ρ$ mode mixing and radial Regge trajectories for triply heavy baryons $Ω_{ccc}$ and $Ω_{bbb}$ in the diquark picture**|Jiao-Kai Chen et.al.|[2610.07053](http://arxiv.org/abs/2610.07053)|null|
@@ -2500,6 +2501,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**An efficient classical algorithm for OTOCs in chaotic quantum dynamics**|Yunchao Liu et.al.|[2611.12773](http://arxiv.org/abs/2611.12773)|null|
 |**2026-11-09**|**Critical Slowing Down and the Crossover to Quantum Scrambling in Holographic CFTs**|Mozib Bin Awal et.al.|[2611.11889](http://arxiv.org/abs/2611.11889)|null|
 |**2026-11-05**|**Non-Unitary Quantum Butterfly Effect: Theory and Experiment**|Paul Argyle et.al.|[2611.08152](http://arxiv.org/abs/2611.08152)|null|
 |**2026-11-05**|**Efficient Pauli Truncation from Operator Stabilizer Rényi Entropy**|Haihui Wang et.al.|[2611.07545](http://arxiv.org/abs/2611.07545)|null|
@@ -3475,6 +3477,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-09**|**Chiral waveguide model for error-correctable quantum computation**|Zixiang Hong et.al.|[2611.12882](http://arxiv.org/abs/2611.12882)|null|
+|**2026-11-09**|**GARI++: A General-Purpose Decoder for Quantum Error Correction**|Arshpreet Singh Maan et.al.|[2611.12833](http://arxiv.org/abs/2611.12833)|null|
+|**2026-11-09**|**High Rate Quantum Block Turbo Codes**|Khaled Jebari et.al.|[2611.12190](http://arxiv.org/abs/2611.12190)|null|
+|**2026-11-09**|**A Universal Fault-Tolerant Quantum Computing Architecture with Globally Driven Atom Arrays**|Zhihao Zhang et.al.|[2611.12098](http://arxiv.org/abs/2611.12098)|null|
 |**2026-11-06**|**Uncertainty, Not Concealment: A Mechanistic Reappraisal of Sycophancy in Vision-Language Models**|Mohamed I. Eldagla et.al.|[2611.10297](http://arxiv.org/abs/2611.10297)|null|
 |**2026-11-06**|**Twisted Compactification, Quotient Quantum Codes and Logical Gates**|Po-Shen Hsin et.al.|[2611.09538](http://arxiv.org/abs/2611.09538)|null|
 |**2026-11-06**|**Parametric $\mathrm{CZ}$ Gates in a Tunable Tripod Architecture with Fixed-Frequency Superconducting Qubits**|Chanpyo Kim et.al.|[2611.09105](http://arxiv.org/abs/2611.09105)|null|

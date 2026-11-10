@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.09
+## Updated on 2026.11.10
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2500,6 +2500,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Critical Slowing Down and the Crossover to Quantum Scrambling in Holographic CFTs**|Mozib Bin Awal et.al.|[2611.11889](http://arxiv.org/abs/2611.11889)|null|
 |**2026-11-05**|**Non-Unitary Quantum Butterfly Effect: Theory and Experiment**|Paul Argyle et.al.|[2611.08152](http://arxiv.org/abs/2611.08152)|null|
 |**2026-11-05**|**Efficient Pauli Truncation from Operator Stabilizer Rényi Entropy**|Haihui Wang et.al.|[2611.07545](http://arxiv.org/abs/2611.07545)|null|
 |**2026-11-03**|**Quantum Pointwise Dimension (QUPID): An algorithm for identifying classical chaos in quantum dynamics**|Jonathan Berkheim et.al.|[2611.05369](http://arxiv.org/abs/2611.05369)|null|
@@ -3474,6 +3475,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-06**|**Uncertainty, Not Concealment: A Mechanistic Reappraisal of Sycophancy in Vision-Language Models**|Mohamed I. Eldagla et.al.|[2611.10297](http://arxiv.org/abs/2611.10297)|null|
 |**2026-11-06**|**Twisted Compactification, Quotient Quantum Codes and Logical Gates**|Po-Shen Hsin et.al.|[2611.09538](http://arxiv.org/abs/2611.09538)|null|
 |**2026-11-06**|**Parametric $\mathrm{CZ}$ Gates in a Tunable Tripod Architecture with Fixed-Frequency Superconducting Qubits**|Chanpyo Kim et.al.|[2611.09105](http://arxiv.org/abs/2611.09105)|null|
 |**2026-11-05**|**Certifying quantum code and circuit distances at scale**|Bin Cheng et.al.|[2611.08247](http://arxiv.org/abs/2611.08247)|null|

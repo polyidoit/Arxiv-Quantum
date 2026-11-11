@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Maximal Violation of Mermin Inequality for Commuting von Neumann Algebras and Multipartite Vacuum Entanglement in QFT**|Kan He et.al.|[2611.13981](http://arxiv.org/abs/2611.13981)|null|
 |**2026-11-08**|**Spin entanglement in $pp$ and $pA$ collisions: high-energy TMD effects and fragmentation probes**|Michael Fucilla et.al.|[2611.11568](http://arxiv.org/abs/2611.11568)|null|
 |**2026-11-04**|**All Bell inequalities with a quantum advantage in the minimal scenario are self-testing**|Mu-En Liu et.al.|[2611.06997](http://arxiv.org/abs/2611.06997)|null|
 |**2026-10-30**|**Logical Bell Inequalities for Marginal Wigner Negativity**|Sanchit Srivastava et.al.|[2610.42017](http://arxiv.org/abs/2610.42017)|null|

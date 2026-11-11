@@ -1196,6 +1196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Sim(3)-TurboReg: Robust and Efficient Scale-Aware Registration via Tri-Scale Consistency**|Zijun Zhou et.al.|[2611.14135](http://arxiv.org/abs/2611.14135)|null|
 |**2026-11-05**|**Spatial Reuse in Multi-Cell Pinching-Antenna Systems**|Zhenqiao Cheng et.al.|[2611.07906](http://arxiv.org/abs/2611.07906)|null|
 |**2026-11-05**|**Combinatorics of noncommutative harmonic oscillator determinant**|Masato Wakayama et.al.|[2611.07626](http://arxiv.org/abs/2611.07626)|null|
 |**2026-11-02**|**Analog quantum simulation of paraparticle statistics**|Gyunghun Kim et.al.|[2611.03908](http://arxiv.org/abs/2611.03908)|null|
@@ -1555,6 +1556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Quantum Advantage in Assisted Work Distillation from Complementary Correlations**|Chellasamy Jebarathinam et.al.|[2611.14173](http://arxiv.org/abs/2611.14173)|null|
 |**2026-11-06**|**Critical properties of EPR steering**|Yu-Xuan Zhang et.al.|[2611.09321](http://arxiv.org/abs/2611.09321)|null|
 |**2026-11-06**|**Correlation-Enhanced Quantum Reservoir Processing for Two-Qutrit Steering: From Generalization to Discovery**|Pu Wang et.al.|[2611.09268](http://arxiv.org/abs/2611.09268)|null|
 |**2026-11-04**|**Experimental activation of hidden metrological steerability in quantum channels via stochastic filtering**|H. S. Karthik et.al.|[2611.06668](http://arxiv.org/abs/2611.06668)|null|
@@ -1794,6 +1796,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Fractional-Order Hybrid SIR Forecasting of COVID-19 in Bangladesh and the United States: Memory Effects and Out-of-Sample Evaluation**|Md Babul Hossain et.al.|[2611.13590](http://arxiv.org/abs/2611.13590)|null|
 |**2026-11-06**|**Reachability Constraints and Monotones for Quantum-State Texture**|Jose Alfredo de Leon et.al.|[2611.09230](http://arxiv.org/abs/2611.09230)|null|
 |**2026-11-05**|**WaSP: Wasserstein Data Synthesis Pipeline for Solver-Free Operator Learning**|Ryan Liu et.al.|[2611.07646](http://arxiv.org/abs/2611.07646)|null|
 |**2026-11-04**|**Equivalence of Correlated Catalytic and Marginal Asymptotic Transformations in Quantum Resource Theories**|Jingsong Ao et.al.|[2611.06573](http://arxiv.org/abs/2611.06573)|null|
@@ -2502,6 +2505,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Quantum Control Geometry as a Metric of Chaos**|Mahmoud Abdelshafy et.al.|[2611.13101](http://arxiv.org/abs/2611.13101)|null|
 |**2026-11-09**|**An efficient classical algorithm for OTOCs in chaotic quantum dynamics**|Yunchao Liu et.al.|[2611.12773](http://arxiv.org/abs/2611.12773)|null|
 |**2026-11-09**|**Critical Slowing Down and the Crossover to Quantum Scrambling in Holographic CFTs**|Mozib Bin Awal et.al.|[2611.11889](http://arxiv.org/abs/2611.11889)|null|
 |**2026-11-05**|**Non-Unitary Quantum Butterfly Effect: Theory and Experiment**|Paul Argyle et.al.|[2611.08152](http://arxiv.org/abs/2611.08152)|null|
@@ -3478,6 +3482,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-10**|**Multidimensional Quantum Block Turbo Codes**|Khaled Jebari et.al.|[2611.14406](http://arxiv.org/abs/2611.14406)|null|
+|**2026-11-10**|**Implementing rapid reset of superconducting qubits with on-chip dissipation**|Feiyu Li et.al.|[2611.14391](http://arxiv.org/abs/2611.14391)|null|
+|**2026-11-10**|**Secure Information Flow in Quantum Programs**|Zhicheng Zhang et.al.|[2611.14147](http://arxiv.org/abs/2611.14147)|null|
+|**2026-11-10**|**Euclidean and Hermitian Self-Orthogonal Codes from Divisible Codes**|Ziling Heng et.al.|[2611.13963](http://arxiv.org/abs/2611.13963)|null|
+|**2026-11-10**|**Machine-learning decoders for fusion-based quantum computing in real time**|Daniel Barter et.al.|[2611.13630](http://arxiv.org/abs/2611.13630)|null|
+|**2026-11-09**|**FusionQ: A Generic and Optimal Decoding Framework for Ultra-Low-Latency Quantum Error Correction**|Junyu Zhou et.al.|[2611.13111](http://arxiv.org/abs/2611.13111)|null|
+|**2026-11-09**|**Surface codes with coherent errors: optimal decoding and finite-size crossovers**|Xu-Dong Dai et.al.|[2611.13098](http://arxiv.org/abs/2611.13098)|null|
 |**2026-11-09**|**Chiral waveguide model for error-correctable quantum computation**|Zixiang Hong et.al.|[2611.12882](http://arxiv.org/abs/2611.12882)|null|
 |**2026-11-09**|**GARI++: A General-Purpose Decoder for Quantum Error Correction**|Arshpreet Singh Maan et.al.|[2611.12833](http://arxiv.org/abs/2611.12833)|null|
 |**2026-11-09**|**High Rate Quantum Block Turbo Codes**|Khaled Jebari et.al.|[2611.12190](http://arxiv.org/abs/2611.12190)|null|

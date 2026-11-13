@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2505,6 +2505,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**U(1)-Symmetric Spin SYK Models: Ordering, Chaos, and Transport**|Shiyong Guo et.al.|[2611.15896](http://arxiv.org/abs/2611.15896)|null|
+|**2026-11-11**|**Subsystem Flow: Quantum Error Correction, Petz Recovery, and Ergodic Inclusions**|Yidong Chen et.al.|[2611.15887](http://arxiv.org/abs/2611.15887)|null|
+|**2026-11-11**|**Going beyond the standard quasiparticle picture: Entanglement spreading after quenching from highly entangled states**|Elisa Sabadini et.al.|[2611.15409](http://arxiv.org/abs/2611.15409)|null|
+|**2026-11-10**|**Probing Krylov Dynamics in Driven Many-Body Systems**|András Grabarits et.al.|[2611.14611](http://arxiv.org/abs/2611.14611)|null|
 |**2026-11-09**|**Quantum Control Geometry as a Metric of Chaos**|Mahmoud Abdelshafy et.al.|[2611.13101](http://arxiv.org/abs/2611.13101)|null|
 |**2026-11-09**|**An efficient classical algorithm for OTOCs in chaotic quantum dynamics**|Yunchao Liu et.al.|[2611.12773](http://arxiv.org/abs/2611.12773)|null|
 |**2026-11-09**|**Critical Slowing Down and the Crossover to Quantum Scrambling in Holographic CFTs**|Mozib Bin Awal et.al.|[2611.11889](http://arxiv.org/abs/2611.11889)|null|
@@ -3482,10 +3486,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-11**|**Subsystem Flow: Quantum Error Correction, Petz Recovery, and Ergodic Inclusions**|Yidong Chen et.al.|[2611.15887](http://arxiv.org/abs/2611.15887)|null|
+|**2026-11-11**|**An Architecture for Real-Time Quantum Error Correction with Neutral Atoms**|X. Wang et.al.|[2611.15104](http://arxiv.org/abs/2611.15104)|null|
+|**2026-11-11**|**Local enhancement of finite-strength code preparation: recoverability and Wilson coherence**|Tong Xu et.al.|[2611.14967](http://arxiv.org/abs/2611.14967)|null|
+|**2026-11-11**|**CSS Circuits: useful quantum circuits that can be simulated with $O(1)$ cost per gate**|Craig Gidney et.al.|[2611.14944](http://arxiv.org/abs/2611.14944)|null|
+|**2026-11-11**|**Quantum CSS codes: Decoder-aware multiobjective design and bound-certified selection**|Jiapei Zhuang et.al.|[2611.14923](http://arxiv.org/abs/2611.14923)|null|
 |**2026-11-10**|**Multidimensional Quantum Block Turbo Codes**|Khaled Jebari et.al.|[2611.14406](http://arxiv.org/abs/2611.14406)|null|
 |**2026-11-10**|**Implementing rapid reset of superconducting qubits with on-chip dissipation**|Feiyu Li et.al.|[2611.14391](http://arxiv.org/abs/2611.14391)|null|
 |**2026-11-10**|**Secure Information Flow in Quantum Programs**|Zhicheng Zhang et.al.|[2611.14147](http://arxiv.org/abs/2611.14147)|null|
-|**2026-11-10**|**Euclidean and Hermitian Self-Orthogonal Codes from Divisible Codes**|Ziling Heng et.al.|[2611.13963](http://arxiv.org/abs/2611.13963)|null|
+|**2026-11-11**|**Euclidean and Hermitian Self-Orthogonal Codes from Divisible Codes**|Ziling Heng et.al.|[2611.13963](http://arxiv.org/abs/2611.13963)|null|
 |**2026-11-10**|**Machine-learning decoders for fusion-based quantum computing in real time**|Daniel Barter et.al.|[2611.13630](http://arxiv.org/abs/2611.13630)|null|
 |**2026-11-09**|**FusionQ: A Generic and Optimal Decoding Framework for Ultra-Low-Latency Quantum Error Correction**|Junyu Zhou et.al.|[2611.13111](http://arxiv.org/abs/2611.13111)|null|
 |**2026-11-09**|**Surface codes with coherent errors: optimal decoding and finite-size crossovers**|Xu-Dong Dai et.al.|[2611.13098](http://arxiv.org/abs/2611.13098)|null|

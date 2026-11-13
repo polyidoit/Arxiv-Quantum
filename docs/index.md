@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Probing the extreme quantum violation of the Leggett-Garg inequality**|Akarshit Baranwal et.al.|[2611.16401](http://arxiv.org/abs/2611.16401)|null|
+|**2026-11-11**|**Revealing Bell Nonlocality Does Not Require the Same Physical Measurement to be Performed Twice**|Paweł Cieśliński et.al.|[2611.15871](http://arxiv.org/abs/2611.15871)|null|
+|**2026-11-11**|**k-partite quantum homomorphisms**|Amin Karamlou et.al.|[2611.15839](http://arxiv.org/abs/2611.15839)|null|
+|**2026-11-11**|**CSS Circuits: useful quantum circuits that can be simulated with $O(1)$ cost per gate**|Craig Gidney et.al.|[2611.14944](http://arxiv.org/abs/2611.14944)|null|
+|**2026-11-10**|**Bounding Freedom of Choice via Causal Network Embeddings**|George Moreno et.al.|[2611.14791](http://arxiv.org/abs/2611.14791)|null|
 |**2026-11-10**|**Maximal Violation of Mermin Inequality for Commuting von Neumann Algebras and Multipartite Vacuum Entanglement in QFT**|Kan He et.al.|[2611.13981](http://arxiv.org/abs/2611.13981)|null|
 |**2026-11-08**|**Spin entanglement in $pp$ and $pA$ collisions: high-energy TMD effects and fragmentation probes**|Michael Fucilla et.al.|[2611.11568](http://arxiv.org/abs/2611.11568)|null|
 |**2026-11-04**|**All Bell inequalities with a quantum advantage in the minimal scenario are self-testing**|Mu-En Liu et.al.|[2611.06997](http://arxiv.org/abs/2611.06997)|null|
@@ -831,6 +836,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Probing the extreme quantum violation of the Leggett-Garg inequality**|Akarshit Baranwal et.al.|[2611.16401](http://arxiv.org/abs/2611.16401)|null|
 |**2026-11-05**|**Density kernel and temporal quantum information probes in double-scaled SYK**|Johanna Erdmenger et.al.|[2611.08592](http://arxiv.org/abs/2611.08592)|null|
 |**2026-11-05**|**Elimination of quantum causal confusion in the presence of dual states**|James Fullwood et.al.|[2611.07449](http://arxiv.org/abs/2611.07449)|null|
 |**2026-10-31**|**Multiparameter quantum metrology for general and adaptive strategies**|Masahito Hayashi et.al.|[2611.01027](http://arxiv.org/abs/2611.01027)|null|
@@ -1196,6 +1202,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Exact characterization of three-terminal fermion counting under one-body scattering**|Zhanning Wang et.al.|[2611.17122](http://arxiv.org/abs/2611.17122)|null|
+|**2026-11-12**|**GraphInfer: Statistical Inference for Decomposable Graphical Models in R**|Rodrigo Labouriau et.al.|[2611.17074](http://arxiv.org/abs/2611.17074)|null|
 |**2026-11-10**|**Sim(3)-TurboReg: Robust and Efficient Scale-Aware Registration via Tri-Scale Consistency**|Zijun Zhou et.al.|[2611.14135](http://arxiv.org/abs/2611.14135)|null|
 |**2026-11-05**|**Spatial Reuse in Multi-Cell Pinching-Antenna Systems**|Zhenqiao Cheng et.al.|[2611.07906](http://arxiv.org/abs/2611.07906)|null|
 |**2026-11-05**|**Combinatorics of noncommutative harmonic oscillator determinant**|Masato Wakayama et.al.|[2611.07626](http://arxiv.org/abs/2611.07626)|null|
@@ -1796,6 +1804,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Probabilistic distillation of superposition**|Gökhan Torun et.al.|[2611.16719](http://arxiv.org/abs/2611.16719)|null|
+|**2026-11-12**|**A Coupled Control Barrier Function Approach to Deadlock-Free Multi-Robot Conflict Resolution**|Gary Rostomyan et.al.|[2611.16218](http://arxiv.org/abs/2611.16218)|null|
+|**2026-11-10**|**The memory cost of sequential quantum state preparation**|Jian Li et.al.|[2611.14652](http://arxiv.org/abs/2611.14652)|null|
 |**2026-11-10**|**Fractional-Order Hybrid SIR Forecasting of COVID-19 in Bangladesh and the United States: Memory Effects and Out-of-Sample Evaluation**|Md Babul Hossain et.al.|[2611.13590](http://arxiv.org/abs/2611.13590)|null|
 |**2026-11-06**|**Reachability Constraints and Monotones for Quantum-State Texture**|Jose Alfredo de Leon et.al.|[2611.09230](http://arxiv.org/abs/2611.09230)|null|
 |**2026-11-05**|**WaSP: Wasserstein Data Synthesis Pipeline for Solver-Free Operator Learning**|Ryan Liu et.al.|[2611.07646](http://arxiv.org/abs/2611.07646)|null|
@@ -3486,6 +3497,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-12**|**Reduced filtering using classical control hierarchy with linear optimality for continuous quantum error correction**|Manuel Guatto et.al.|[2611.16751](http://arxiv.org/abs/2611.16751)|null|
+|**2026-11-12**|**Persistent-mediator architecture for universal fault-tolerant quantum computation with color codes**|Zhi-Cheng He et.al.|[2611.16691](http://arxiv.org/abs/2611.16691)|null|
+|**2026-11-12**|**A $Θ(n)$ -Multiplicative Improvement of the Gilbert-Varshamov Bound for Linear and Quantum Codes**|Chen Yuan et.al.|[2611.16447](http://arxiv.org/abs/2611.16447)|null|
+|**2026-11-12**|**Circuit-Level Analysis of Quantum Error Correction in Second-Generation Quantum Repeaters**|Suraj Vishwanath et.al.|[2611.16435](http://arxiv.org/abs/2611.16435)|null|
+|**2026-11-12**|**Scaling Pêlagos: Multi-GPU Orchestration for Relay Belief-Propagation Decoding**|Xulong Tang et.al.|[2611.16285](http://arxiv.org/abs/2611.16285)|null|
+|**2026-11-12**|**Hierarchical Decoding for Quantum Error Correction**|Xulong Tang et.al.|[2611.16271](http://arxiv.org/abs/2611.16271)|null|
+|**2026-11-12**|**Infinite or indefinite: the query cost of simulating the quantum switch**|Dantong Li et.al.|[2611.16229](http://arxiv.org/abs/2611.16229)|null|
 |**2026-11-11**|**Subsystem Flow: Quantum Error Correction, Petz Recovery, and Ergodic Inclusions**|Yidong Chen et.al.|[2611.15887](http://arxiv.org/abs/2611.15887)|null|
 |**2026-11-11**|**An Architecture for Real-Time Quantum Error Correction with Neutral Atoms**|X. Wang et.al.|[2611.15104](http://arxiv.org/abs/2611.15104)|null|
 |**2026-11-11**|**Local enhancement of finite-strength code preparation: recoverability and Wilson coherence**|Tong Xu et.al.|[2611.14967](http://arxiv.org/abs/2611.14967)|null|

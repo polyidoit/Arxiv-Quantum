@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Quantum violation of Causal Friendliness in the instrumental scenario**|Emanuele Polino et.al.|[2611.17431](http://arxiv.org/abs/2611.17431)|null|
 |**2026-11-12**|**Probing the extreme quantum violation of the Leggett-Garg inequality**|Akarshit Baranwal et.al.|[2611.16401](http://arxiv.org/abs/2611.16401)|null|
 |**2026-11-11**|**Revealing Bell Nonlocality Does Not Require the Same Physical Measurement to be Performed Twice**|Paweł Cieśliński et.al.|[2611.15871](http://arxiv.org/abs/2611.15871)|null|
 |**2026-11-11**|**k-partite quantum homomorphisms**|Amin Karamlou et.al.|[2611.15839](http://arxiv.org/abs/2611.15839)|null|
@@ -847,6 +848,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Probing Spatiotemporal Quantum Correlations with Two-Qubit Relaxometry**|Christina Psaroudaki et.al.|[2611.17509](http://arxiv.org/abs/2611.17509)|null|
 |**2026-11-12**|**Probing the extreme quantum violation of the Leggett-Garg inequality**|Akarshit Baranwal et.al.|[2611.16401](http://arxiv.org/abs/2611.16401)|null|
 |**2026-11-05**|**Density kernel and temporal quantum information probes in double-scaled SYK**|Johanna Erdmenger et.al.|[2611.08592](http://arxiv.org/abs/2611.08592)|null|
 |**2026-11-05**|**Elimination of quantum causal confusion in the presence of dual states**|James Fullwood et.al.|[2611.07449](http://arxiv.org/abs/2611.07449)|null|
@@ -1579,7 +1581,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-10**|**Quantum Advantage in Assisted Work Distillation from Complementary Correlations**|Chellasamy Jebarathinam et.al.|[2611.14173](http://arxiv.org/abs/2611.14173)|null|
+|**2026-11-13**|**Quantum Advantage in Assisted Work Distillation from Complementary Correlations**|Chellasamy Jebarathinam et.al.|[2611.14173](http://arxiv.org/abs/2611.14173)|null|
 |**2026-11-06**|**Critical properties of EPR steering**|Yu-Xuan Zhang et.al.|[2611.09321](http://arxiv.org/abs/2611.09321)|null|
 |**2026-11-06**|**Correlation-Enhanced Quantum Reservoir Processing for Two-Qutrit Steering: From Generalization to Discovery**|Pu Wang et.al.|[2611.09268](http://arxiv.org/abs/2611.09268)|null|
 |**2026-11-04**|**Experimental activation of hidden metrological steerability in quantum channels via stochastic filtering**|H. S. Karthik et.al.|[2611.06668](http://arxiv.org/abs/2611.06668)|null|
@@ -3518,6 +3520,11 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-13**|**Agentic AI for Discovering Fault-Tolerant Quantum Circuits**|Aritra Lahiri et.al.|[2611.18504](http://arxiv.org/abs/2611.18504)|null|
+|**2026-11-13**|**Beyond Blossom: Accelerating MWPM Decoding for Surface Codes With Local Predecoding and Architecture-Aware Optimizations**|Jiayu Fu et.al.|[2611.18476](http://arxiv.org/abs/2611.18476)|null|
+|**2026-11-13**|**Entropic quantum error correction for independent and correlated amplitude damping errors**|Gang Zhou et.al.|[2611.18192](http://arxiv.org/abs/2611.18192)|null|
+|**2026-11-13**|**Parameterized Approximation for Minimizing Uncovered Elements and Unsatisfied Constraints**|Rudranarayan Kar et.al.|[2611.17951](http://arxiv.org/abs/2611.17951)|null|
+|**2026-11-13**|**Anyon Proliferation at Self-Triality: From a Lattice Model to Adjoint QCD $_3$**|Yuxuan Guo et.al.|[2611.17724](http://arxiv.org/abs/2611.17724)|null|
 |**2026-11-12**|**Reduced filtering using classical control hierarchy with linear optimality for continuous quantum error correction**|Manuel Guatto et.al.|[2611.16751](http://arxiv.org/abs/2611.16751)|null|
 |**2026-11-12**|**Persistent-mediator architecture for universal fault-tolerant quantum computation with color codes**|Zhi-Cheng He et.al.|[2611.16691](http://arxiv.org/abs/2611.16691)|null|
 |**2026-11-12**|**A $Θ(n)$ -Multiplicative Improvement of the Gilbert-Varshamov Bound for Linear and Quantum Codes**|Chen Yuan et.al.|[2611.16447](http://arxiv.org/abs/2611.16447)|null|

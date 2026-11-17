@@ -7,13 +7,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Randomized routing: ruling out classical networks without trusting source independence**|Martin Plávala et.al.|[2611.20866](http://arxiv.org/abs/2611.20866)|null|
 |**2026-11-12**|**Quantum violation of Causal Friendliness in the instrumental scenario**|Emanuele Polino et.al.|[2611.17431](http://arxiv.org/abs/2611.17431)|null|
 |**2026-11-12**|**Probing the extreme quantum violation of the Leggett-Garg inequality**|Akarshit Baranwal et.al.|[2611.16401](http://arxiv.org/abs/2611.16401)|null|
 |**2026-11-11**|**Revealing Bell Nonlocality Does Not Require the Same Physical Measurement to be Performed Twice**|Paweł Cieśliński et.al.|[2611.15871](http://arxiv.org/abs/2611.15871)|null|
 |**2026-11-11**|**k-partite quantum homomorphisms**|Amin Karamlou et.al.|[2611.15839](http://arxiv.org/abs/2611.15839)|null|
 |**2026-11-11**|**CSS Circuits: useful quantum circuits that can be simulated with $O(1)$ cost per gate**|Craig Gidney et.al.|[2611.14944](http://arxiv.org/abs/2611.14944)|null|
 |**2026-11-10**|**Bounding Freedom of Choice via Causal Network Embeddings**|George Moreno et.al.|[2611.14791](http://arxiv.org/abs/2611.14791)|null|
-|**2026-11-10**|**Maximal Violation of Mermin Inequality for Commuting von Neumann Algebras and Multipartite Vacuum Entanglement in QFT**|Kan He et.al.|[2611.13981](http://arxiv.org/abs/2611.13981)|null|
+|**2026-11-14**|**Maximal Violation of Mermin Inequality for Commuting von Neumann Algebras and Multipartite Vacuum Entanglement in QFT**|Kan He et.al.|[2611.13981](http://arxiv.org/abs/2611.13981)|null|
 |**2026-11-08**|**Spin entanglement in $pp$ and $pA$ collisions: high-energy TMD effects and fragmentation probes**|Michael Fucilla et.al.|[2611.11568](http://arxiv.org/abs/2611.11568)|null|
 |**2026-11-04**|**All Bell inequalities with a quantum advantage in the minimal scenario are self-testing**|Mu-En Liu et.al.|[2611.06997](http://arxiv.org/abs/2611.06997)|null|
 |**2026-10-30**|**Logical Bell Inequalities for Marginal Wigner Negativity**|Sanchit Srivastava et.al.|[2610.42017](http://arxiv.org/abs/2610.42017)|null|
@@ -837,6 +838,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-14**|**Quantum Dynamics of Dynamics**|Takano Taira et.al.|[2611.19265](http://arxiv.org/abs/2611.19265)|null|
 |**2026-11-12**|**Probing Spatiotemporal Quantum Correlations with Two-Qubit Relaxometry**|Christina Psaroudaki et.al.|[2611.17509](http://arxiv.org/abs/2611.17509)|null|
 |**2026-11-12**|**Probing the extreme quantum violation of the Leggett-Garg inequality**|Akarshit Baranwal et.al.|[2611.16401](http://arxiv.org/abs/2611.16401)|null|
 |**2026-11-05**|**Density kernel and temporal quantum information probes in double-scaled SYK**|Johanna Erdmenger et.al.|[2611.08592](http://arxiv.org/abs/2611.08592)|null|
@@ -1204,6 +1206,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-15**|**Count Constraints and Conditional Benchmarks for Roster-Based Network Reconstruction**|Yen-hsuan Tseng et.al.|[2611.19924](http://arxiv.org/abs/2611.19924)|null|
 |**2026-11-12**|**Exact characterization of three-terminal fermion counting under one-body scattering**|Zhanning Wang et.al.|[2611.17122](http://arxiv.org/abs/2611.17122)|null|
 |**2026-11-12**|**GraphInfer: Statistical Inference for Decomposable Graphical Models in R**|Rodrigo Labouriau et.al.|[2611.17074](http://arxiv.org/abs/2611.17074)|null|
 |**2026-11-10**|**Sim(3)-TurboReg: Robust and Efficient Scale-Aware Registration via Tri-Scale Consistency**|Zijun Zhou et.al.|[2611.14135](http://arxiv.org/abs/2611.14135)|null|
@@ -1806,6 +1809,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-15**|**Magnetic control of hydrodynamic spin coupling between rotors: Ferrohydrodynamic effects in the two-rotor problem**|Efstratios E. Tzirtzilakis et.al.|[2611.19941](http://arxiv.org/abs/2611.19941)|null|
+|**2026-11-15**|**The Cost of Quantum State Conversion**|Ansh Mishra et.al.|[2611.19725](http://arxiv.org/abs/2611.19725)|null|
+|**2026-11-14**|**Before the Word: Name Information in Description-Derived States of Small Language Models, With and Without Naming Failure**|Fernando Cardenas Piepereit et.al.|[2611.19609](http://arxiv.org/abs/2611.19609)|null|
 |**2026-11-12**|**Probabilistic distillation of superposition**|Gökhan Torun et.al.|[2611.16719](http://arxiv.org/abs/2611.16719)|null|
 |**2026-11-12**|**A Coupled Control Barrier Function Approach to Deadlock-Free Multi-Robot Conflict Resolution**|Gary Rostomyan et.al.|[2611.16218](http://arxiv.org/abs/2611.16218)|null|
 |**2026-11-10**|**The memory cost of sequential quantum state preparation**|Jian Li et.al.|[2611.14652](http://arxiv.org/abs/2611.14652)|null|
@@ -2518,6 +2524,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Static Bounds on Thermal Fast Scrambling**|Yixuan Ma et.al.|[2611.20958](http://arxiv.org/abs/2611.20958)|null|
+|**2026-11-16**|**Quantum chaos from time-dependent CFT states at large central charge**|Shaun D. Hampton et.al.|[2611.20817](http://arxiv.org/abs/2611.20817)|null|
 |**2026-11-14**|**Quasi-particle sector hybridization and the onset of chaos in spin ladders**|Arnav Pushkar et.al.|[2611.19053](http://arxiv.org/abs/2611.19053)|null|
 |**2026-11-11**|**U(1)-Symmetric Spin SYK Models: Ordering, Chaos, and Transport**|Shiyong Guo et.al.|[2611.15896](http://arxiv.org/abs/2611.15896)|null|
 |**2026-11-11**|**Subsystem Flow: Quantum Error Correction, Petz Recovery, and Ergodic Inclusions**|Yidong Chen et.al.|[2611.15887](http://arxiv.org/abs/2611.15887)|null|
@@ -3500,6 +3508,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-16**|**Resolving and Suppressing Temporally Correlated Noise in Quantum Error Correction**|Alec Eickbusch et.al.|[2611.21578](http://arxiv.org/abs/2611.21578)|null|
 |**2026-11-16**|**TCBP-JOBS: GPU-Accelerated Quantum Error Correction Decoding and Noise Learning with Near-Optimal Accuracy**|Ben Howe et.al.|[2611.21321](http://arxiv.org/abs/2611.21321)|null|
 |**2026-11-16**|**Specifying & Verifying Quantum Error-Correcting Codes**|Stavan Jain et.al.|[2611.21236](http://arxiv.org/abs/2611.21236)|null|
 |**2026-11-16**|**A Testing Method for Detector Error Models in Quantum Error Correction Compilers**|Junjie Luo et.al.|[2611.20501](http://arxiv.org/abs/2611.20501)|null|

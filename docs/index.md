@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2518,6 +2518,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-14**|**Quasi-particle sector hybridization and the onset of chaos in spin ladders**|Arnav Pushkar et.al.|[2611.19053](http://arxiv.org/abs/2611.19053)|null|
 |**2026-11-11**|**U(1)-Symmetric Spin SYK Models: Ordering, Chaos, and Transport**|Shiyong Guo et.al.|[2611.15896](http://arxiv.org/abs/2611.15896)|null|
 |**2026-11-11**|**Subsystem Flow: Quantum Error Correction, Petz Recovery, and Ergodic Inclusions**|Yidong Chen et.al.|[2611.15887](http://arxiv.org/abs/2611.15887)|null|
 |**2026-11-11**|**Going beyond the standard quasiparticle picture: Entanglement spreading after quenching from highly entangled states**|Elisa Sabadini et.al.|[2611.15409](http://arxiv.org/abs/2611.15409)|null|
@@ -3499,6 +3500,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-16**|**TCBP-JOBS: GPU-Accelerated Quantum Error Correction Decoding and Noise Learning with Near-Optimal Accuracy**|Ben Howe et.al.|[2611.21321](http://arxiv.org/abs/2611.21321)|null|
+|**2026-11-16**|**Specifying & Verifying Quantum Error-Correcting Codes**|Stavan Jain et.al.|[2611.21236](http://arxiv.org/abs/2611.21236)|null|
+|**2026-11-16**|**A Testing Method for Detector Error Models in Quantum Error Correction Compilers**|Junjie Luo et.al.|[2611.20501](http://arxiv.org/abs/2611.20501)|null|
+|**2026-11-16**|**Rate-1/2 Quantum LDPC Codes for Multi-tier Superconducting Hardware**|Jiaxuan Zhang et.al.|[2611.20410](http://arxiv.org/abs/2611.20410)|null|
+|**2026-11-15**|**Proxima: Optimizing Syndrome Extraction Circuit Scheduling for Practical Quantum LDPC Codes**|Ruiyun Zhang et.al.|[2611.19715](http://arxiv.org/abs/2611.19715)|null|
+|**2026-11-14**|**Dressed higher-form symmetries in mixed state quantum matter**|Tibor Rakovszky et.al.|[2611.19442](http://arxiv.org/abs/2611.19442)|null|
+|**2026-11-13**|**Metamorphic Testing of Quantum Software based on Stabilizer States**|Adrián Marín Boyero et.al.|[2611.18838](http://arxiv.org/abs/2611.18838)|null|
 |**2026-11-13**|**Agentic AI for Discovering Fault-Tolerant Quantum Circuits**|Aritra Lahiri et.al.|[2611.18504](http://arxiv.org/abs/2611.18504)|null|
 |**2026-11-13**|**Beyond Blossom: Accelerating MWPM Decoding for Surface Codes With Local Predecoding and Architecture-Aware Optimizations**|Jiayu Fu et.al.|[2611.18476](http://arxiv.org/abs/2611.18476)|null|
 |**2026-11-13**|**Entropic quantum error correction for independent and correlated amplitude damping errors**|Gang Zhou et.al.|[2611.18192](http://arxiv.org/abs/2611.18192)|null|

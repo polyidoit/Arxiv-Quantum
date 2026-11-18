@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Exact classical bounds of bipartite correlation Bell inequalities using improved branch-and-bound**|István Márton et.al.|[2611.22893](http://arxiv.org/abs/2611.22893)|null|
+|**2026-11-17**|**Entanglement in restricted experimental setups**|Rafiul Nakib et.al.|[2611.22481](http://arxiv.org/abs/2611.22481)|null|
 |**2026-11-16**|**Randomized routing: ruling out classical networks without trusting source independence**|Martin Plávala et.al.|[2611.20866](http://arxiv.org/abs/2611.20866)|null|
 |**2026-11-12**|**Quantum violation of Causal Friendliness in the instrumental scenario**|Emanuele Polino et.al.|[2611.17431](http://arxiv.org/abs/2611.17431)|null|
 |**2026-11-12**|**Probing the extreme quantum violation of the Leggett-Garg inequality**|Akarshit Baranwal et.al.|[2611.16401](http://arxiv.org/abs/2611.16401)|null|
@@ -838,6 +840,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Quantum Causal Compatibility from Spatiotemporal Correlations**|Ya-Xi Ban et.al.|[2611.22156](http://arxiv.org/abs/2611.22156)|null|
 |**2026-11-14**|**Quantum Dynamics of Dynamics**|Takano Taira et.al.|[2611.19265](http://arxiv.org/abs/2611.19265)|null|
 |**2026-11-12**|**Probing Spatiotemporal Quantum Correlations with Two-Qubit Relaxometry**|Christina Psaroudaki et.al.|[2611.17509](http://arxiv.org/abs/2611.17509)|null|
 |**2026-11-12**|**Probing the extreme quantum violation of the Leggett-Garg inequality**|Akarshit Baranwal et.al.|[2611.16401](http://arxiv.org/abs/2611.16401)|null|
@@ -1809,6 +1812,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Operator Precedence Tree Automata**|Matteo Pradella et.al.|[2611.22792](http://arxiv.org/abs/2611.22792)|null|
+|**2026-11-17**|**Catalytic imaginarity transformations**|Ying-Hui Yang et.al.|[2611.22734](http://arxiv.org/abs/2611.22734)|null|
+|**2026-11-17**|**Fluid/Gravity Correspondence in 3d Flat Gravity with Non-Compact Boundaries**|H. Adami et.al.|[2611.22718](http://arxiv.org/abs/2611.22718)|null|
 |**2026-11-15**|**Magnetic control of hydrodynamic spin coupling between rotors: Ferrohydrodynamic effects in the two-rotor problem**|Efstratios E. Tzirtzilakis et.al.|[2611.19941](http://arxiv.org/abs/2611.19941)|null|
 |**2026-11-15**|**The Cost of Quantum State Conversion**|Ansh Mishra et.al.|[2611.19725](http://arxiv.org/abs/2611.19725)|null|
 |**2026-11-14**|**Before the Word: Name Information in Description-Derived States of Small Language Models, With and Without Naming Failure**|Fernando Cardenas Piepereit et.al.|[2611.19609](http://arxiv.org/abs/2611.19609)|null|
@@ -2524,6 +2530,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Modeling quantum information scrambling in realistic protein NMR experiments**|Alec F. White et.al.|[2611.23213](http://arxiv.org/abs/2611.23213)|null|
+|**2026-11-17**|**Local interference algorithms for observables in large random circuits**|Philippe Suchsland et.al.|[2611.23207](http://arxiv.org/abs/2611.23207)|null|
+|**2026-11-17**|**Complex quasiprobabilities as measurable temporal interference**|Wenzheng Dong et.al.|[2611.22643](http://arxiv.org/abs/2611.22643)|null|
 |**2026-11-16**|**Static Bounds on Thermal Fast Scrambling**|Yixuan Ma et.al.|[2611.20958](http://arxiv.org/abs/2611.20958)|null|
 |**2026-11-16**|**Quantum chaos from time-dependent CFT states at large central charge**|Shaun D. Hampton et.al.|[2611.20817](http://arxiv.org/abs/2611.20817)|null|
 |**2026-11-14**|**Quasi-particle sector hybridization and the onset of chaos in spin ladders**|Arnav Pushkar et.al.|[2611.19053](http://arxiv.org/abs/2611.19053)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3508,6 +3508,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-17**|**Nonlinearity-preserving quantum simulation of flows in the early fault-tolerant regime**|Hansol Noh et.al.|[2611.23196](http://arxiv.org/abs/2611.23196)|null|
+|**2026-11-17**|**Teleportation of Logical Qubits using Lattice Surgery with Superconducting Circuits**|Luca Hofele et.al.|[2611.23165](http://arxiv.org/abs/2611.23165)|null|
+|**2026-11-17**|**Quantum Codes for Distributed Quantum Fault Sensing**|Xiu-Hao Deng et.al.|[2611.22530](http://arxiv.org/abs/2611.22530)|null|
+|**2026-11-17**|**Logical error prediction and geometry selection for rectangular surface codes under biased circuit-level noise**|Youshin Chung et.al.|[2611.22260](http://arxiv.org/abs/2611.22260)|null|
+|**2026-11-17**|**CHEQ: A Concurrent Hardware Evaluation Platform for QEC Decoders via Batch-Invariant Circuit-Level Noise Sampling**|Sechan Park et.al.|[2611.22247](http://arxiv.org/abs/2611.22247)|null|
+|**2026-11-17**|**MASQ: Measurement-Adaptive Sampling for Near-Clifford Quantum Error Correction Circuits**|Chaebin Jung et.al.|[2611.22232](http://arxiv.org/abs/2611.22232)|null|
+|**2026-11-17**|**Magic state cultivation with lattice-surgery escape on superconducting hardware**|Haoran Liao et.al.|[2611.22035](http://arxiv.org/abs/2611.22035)|null|
+|**2026-11-16**|**Simplifying models of noisy stabilizer QEC on leakage qubits by Pauli twirling**|Alex Kwiatkowski et.al.|[2611.21928](http://arxiv.org/abs/2611.21928)|null|
+|**2026-11-16**|**QEDist: Practical Exact Distance Certification for Stabilizer Codes**|Jong Yeon Lee et.al.|[2611.21709](http://arxiv.org/abs/2611.21709)|null|
 |**2026-11-16**|**Resolving and Suppressing Temporally Correlated Noise in Quantum Error Correction**|Alec Eickbusch et.al.|[2611.21578](http://arxiv.org/abs/2611.21578)|null|
 |**2026-11-16**|**TCBP-JOBS: GPU-Accelerated Quantum Error Correction Decoding and Noise Learning with Near-Optimal Accuracy**|Ben Howe et.al.|[2611.21321](http://arxiv.org/abs/2611.21321)|null|
 |**2026-11-16**|**Specifying & Verifying Quantum Error-Correcting Codes**|Stavan Jain et.al.|[2611.21236](http://arxiv.org/abs/2611.21236)|null|

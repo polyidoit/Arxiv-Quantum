@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**Measurement-order dependence bounds uncertainty, contextuality, steering, and Bell nonlocality**|Shengjun Wu et.al.|[2611.24604](http://arxiv.org/abs/2611.24604)|null|
+|**2026-11-18**|**On a local hidden-variable model for postselected EPR correlations**|Daniele Cenni et.al.|[2611.24534](http://arxiv.org/abs/2611.24534)|null|
+|**2026-11-17**|**Experimental constraints on gauge hidden-variable models in Bell tests**|Li-Yu Shen et.al.|[2611.23418](http://arxiv.org/abs/2611.23418)|null|
+|**2026-11-17**|**Steerability in top quark decays at the LHC**|Tao Han et.al.|[2611.23368](http://arxiv.org/abs/2611.23368)|null|
 |**2026-11-17**|**Exact classical bounds of bipartite correlation Bell inequalities using improved branch-and-bound**|István Márton et.al.|[2611.22893](http://arxiv.org/abs/2611.22893)|null|
 |**2026-11-17**|**Entanglement in restricted experimental setups**|Rafiul Nakib et.al.|[2611.22481](http://arxiv.org/abs/2611.22481)|null|
 |**2026-11-16**|**Randomized routing: ruling out classical networks without trusting source independence**|Martin Plávala et.al.|[2611.20866](http://arxiv.org/abs/2611.20866)|null|
@@ -1812,6 +1816,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**Target-Clamped Contrastive Learning in Nonlinear Resistive Networks with Monotone Elements**|Henk J. van Waarde et.al.|[2611.24162](http://arxiv.org/abs/2611.24162)|null|
+|**2026-11-15**|**A Differential Theory of Quality-Resource Trade-offs for AI Model Selection: The Multiresource Frontier and Its Minimax Price**|Dmitry Ignatov et.al.|[2611.23324](http://arxiv.org/abs/2611.23324)|null|
 |**2026-11-17**|**Operator Precedence Tree Automata**|Matteo Pradella et.al.|[2611.22792](http://arxiv.org/abs/2611.22792)|null|
 |**2026-11-17**|**Catalytic imaginarity transformations**|Ying-Hui Yang et.al.|[2611.22734](http://arxiv.org/abs/2611.22734)|null|
 |**2026-11-17**|**Fluid/Gravity Correspondence in 3d Flat Gravity with Non-Compact Boundaries**|H. Adami et.al.|[2611.22718](http://arxiv.org/abs/2611.22718)|null|

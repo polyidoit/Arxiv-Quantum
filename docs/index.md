@@ -1213,6 +1213,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Isospin effects and symmetry energy in nuclear reactions**|Jerzy Łukasik et.al.|[2611.23355](http://arxiv.org/abs/2611.23355)|null|
 |**2026-11-15**|**Count Constraints and Conditional Benchmarks for Roster-Based Network Reconstruction**|Yen-hsuan Tseng et.al.|[2611.19924](http://arxiv.org/abs/2611.19924)|null|
 |**2026-11-12**|**Exact characterization of three-terminal fermion counting under one-body scattering**|Zhanning Wang et.al.|[2611.17122](http://arxiv.org/abs/2611.17122)|null|
 |**2026-11-12**|**GraphInfer: Statistical Inference for Decomposable Graphical Models in R**|Rodrigo Labouriau et.al.|[2611.17074](http://arxiv.org/abs/2611.17074)|null|
@@ -1576,6 +1577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Steerability in top quark decays at the LHC**|Tao Han et.al.|[2611.23368](http://arxiv.org/abs/2611.23368)|null|
 |**2026-11-13**|**Quantum Advantage in Assisted Work Distillation from Complementary Correlations**|Chellasamy Jebarathinam et.al.|[2611.14173](http://arxiv.org/abs/2611.14173)|null|
 |**2026-11-06**|**Critical properties of EPR steering**|Yu-Xuan Zhang et.al.|[2611.09321](http://arxiv.org/abs/2611.09321)|null|
 |**2026-11-06**|**Correlation-Enhanced Quantum Reservoir Processing for Two-Qutrit Steering: From Generalization to Discovery**|Pu Wang et.al.|[2611.09268](http://arxiv.org/abs/2611.09268)|null|
@@ -2536,6 +2538,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**The magical memory cost of entanglement spectrum compression**|Matias Karjula et.al.|[2611.24710](http://arxiv.org/abs/2611.24710)|null|
+|**2026-11-18**|**A provably efficient classical algorithm for simulating OTOC $^{(1)}$ in 1D**|Laura Lewis et.al.|[2611.24640](http://arxiv.org/abs/2611.24640)|null|
+|**2026-11-17**|**Folded out-of-time-order correlators in double-scaled SYK**|Joseph D. Lykken et.al.|[2611.23453](http://arxiv.org/abs/2611.23453)|null|
 |**2026-11-17**|**Modeling quantum information scrambling in realistic protein NMR experiments**|Alec F. White et.al.|[2611.23213](http://arxiv.org/abs/2611.23213)|null|
 |**2026-11-17**|**Local interference algorithms for observables in large random circuits**|Philippe Suchsland et.al.|[2611.23207](http://arxiv.org/abs/2611.23207)|null|
 |**2026-11-17**|**Complex quasiprobabilities as measurable temporal interference**|Wenzheng Dong et.al.|[2611.22643](http://arxiv.org/abs/2611.22643)|null|
@@ -3523,6 +3528,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-18**|**The limits of magic-state cultivation**|Llorenç Balada Gaggioli et.al.|[2611.24852](http://arxiv.org/abs/2611.24852)|null|
+|**2026-11-18**|**QuFrame: Pauli Frame Tracking for Fault-Tolerant Quantum Control**|Aleksandra Świerkowska et.al.|[2611.24328](http://arxiv.org/abs/2611.24328)|null|
+|**2026-11-18**|**Accelerating Quantum Error Correction Simulations under Coherent Noise with Compiled Clifford-Augmented Matrix Product States**|Jiale Huang et.al.|[2611.24044](http://arxiv.org/abs/2611.24044)|null|
+|**2026-11-18**|**General Noise Channels and Mid-Circuit Measurements for Pre-Trajectory Sampling with Batched Execution**|Louis Follet et.al.|[2611.23923](http://arxiv.org/abs/2611.23923)|null|
+|**2026-11-18**|**Parity Push Post-Selection with Soft Parity Constraints for Quantum LDPC Codes**|Hong Jun Kim et.al.|[2611.23759](http://arxiv.org/abs/2611.23759)|null|
+|**2026-11-17**|**Singlet flags: using native entanglement to restore the circuit distance of shuttled qLDPC codes in silicon**|William Chow et.al.|[2611.23528](http://arxiv.org/abs/2611.23528)|null|
+|**2026-11-17**|**High-rate low-distance color codes**|Peter-Jan H. S. Derks et.al.|[2611.23420](http://arxiv.org/abs/2611.23420)|null|
 |**2026-11-17**|**Nonlinearity-preserving quantum simulation of flows in the early fault-tolerant regime**|Hansol Noh et.al.|[2611.23196](http://arxiv.org/abs/2611.23196)|null|
 |**2026-11-17**|**Teleportation of Logical Qubits using Lattice Surgery with Superconducting Circuits**|Luca Hofele et.al.|[2611.23165](http://arxiv.org/abs/2611.23165)|null|
 |**2026-11-17**|**Quantum Codes for Distributed Quantum Fault Sensing**|Xiu-Hao Deng et.al.|[2611.22530](http://arxiv.org/abs/2611.22530)|null|

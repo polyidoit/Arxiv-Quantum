@@ -1226,6 +1226,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**Communication-Aware UAV Spatio-Temporal Relay Cooperation and Planning in Complex Urban Environments**|Haoyu Zhang et.al.|[2611.25558](http://arxiv.org/abs/2611.25558)|null|
 |**2026-11-17**|**Isospin effects and symmetry energy in nuclear reactions**|Jerzy Łukasik et.al.|[2611.23355](http://arxiv.org/abs/2611.23355)|null|
 |**2026-11-15**|**Count Constraints and Conditional Benchmarks for Roster-Based Network Reconstruction**|Yen-hsuan Tseng et.al.|[2611.19924](http://arxiv.org/abs/2611.19924)|null|
 |**2026-11-12**|**Exact characterization of three-terminal fermion counting under one-body scattering**|Zhanning Wang et.al.|[2611.17122](http://arxiv.org/abs/2611.17122)|null|
@@ -1835,6 +1836,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**Remote Use of Quantum Machines in the Adversarial Scenario**|Mir Alimuddin et.al.|[2611.25504](http://arxiv.org/abs/2611.25504)|null|
 |**2026-11-18**|**Target-Clamped Contrastive Learning in Nonlinear Resistive Networks with Monotone Elements**|Henk J. van Waarde et.al.|[2611.24162](http://arxiv.org/abs/2611.24162)|null|
 |**2026-11-15**|**A Differential Theory of Quality-Resource Trade-offs for AI Model Selection: The Multiresource Frontier and Its Minimax Price**|Dmitry Ignatov et.al.|[2611.23324](http://arxiv.org/abs/2611.23324)|null|
 |**2026-11-17**|**Operator Precedence Tree Automata**|Matteo Pradella et.al.|[2611.22792](http://arxiv.org/abs/2611.22792)|null|
@@ -2557,6 +2559,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**Wigner-Dyson correlations in selected sectors of an integrable spin chain**|Balázs Pozsgay et.al.|[2611.26263](http://arxiv.org/abs/2611.26263)|null|
+|**2026-11-19**|**From Integrability to Chaos in Tensionless AdS3 String Theory**|Matthias R. Gaberdiel et.al.|[2611.25576](http://arxiv.org/abs/2611.25576)|null|
 |**2026-11-18**|**The magical memory cost of entanglement spectrum compression**|Matias Karjula et.al.|[2611.24710](http://arxiv.org/abs/2611.24710)|null|
 |**2026-11-18**|**A provably efficient classical algorithm for simulating OTOC $^{(1)}$ in 1D**|Laura Lewis et.al.|[2611.24640](http://arxiv.org/abs/2611.24640)|null|
 |**2026-11-17**|**Folded out-of-time-order correlators in double-scaled SYK**|Joseph D. Lykken et.al.|[2611.23453](http://arxiv.org/abs/2611.23453)|null|

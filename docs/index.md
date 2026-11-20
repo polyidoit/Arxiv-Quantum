@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3528,6 +3528,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-19**|**When the Noise Gets Noisy: Quantum Error Correction with Disordered Noise and Misinformed Decoding**|Cory T. Aitchison et.al.|[2611.26506](http://arxiv.org/abs/2611.26506)|null|
+|**2026-11-19**|**Optimal Error corrected Hamiltonian estimation with nuisance parameters**|Zhiyao Hu et.al.|[2611.26497](http://arxiv.org/abs/2611.26497)|null|
+|**2026-11-19**|**Scaling classical hardware for accurate real-time quantum error correction**|Chenyang Jin et.al.|[2611.26447](http://arxiv.org/abs/2611.26447)|null|
+|**2026-11-19**|**Non-Binary Detector Error Models**|Stefano Tinelli et.al.|[2611.26395](http://arxiv.org/abs/2611.26395)|null|
+|**2026-11-19**|**Stitching Quantum Codes into Quilts: Universal Logic with no Ancillary Qubits**|Stasiu Wolanski et.al.|[2611.26329](http://arxiv.org/abs/2611.26329)|null|
+|**2026-11-19**|**The Price of an Explanation: What Demanding Verifiable Artifacts Costs, and What It Buys Back**|Edgar A. Duéñez-Guzmán et.al.|[2611.25896](http://arxiv.org/abs/2611.25896)|null|
+|**2026-11-19**|**Evolving Decoding Algorithms for Quantum Error Correction**|Eduardo Dueñez et.al.|[2611.25880](http://arxiv.org/abs/2611.25880)|null|
+|**2026-11-19**|**Optimal Impure $(r,δ)$ -Quantum Locally Recoverable Codes with Explicit Minimum Localities**|Yang Li et.al.|[2611.25859](http://arxiv.org/abs/2611.25859)|null|
+|**2026-11-19**|**Parallel transversal entangling gates for fault-tolerant trapped-ion quantum computing**|Katrin Bolsmann et.al.|[2611.25740](http://arxiv.org/abs/2611.25740)|null|
+|**2026-11-19**|**Syndrome-based Calibration Using Gate-Error Amplification**|Andrew T. Kamen et.al.|[2611.25579](http://arxiv.org/abs/2611.25579)|null|
 |**2026-11-18**|**The limits of magic-state cultivation**|Llorenç Balada Gaggioli et.al.|[2611.24852](http://arxiv.org/abs/2611.24852)|null|
 |**2026-11-18**|**QuFrame: Pauli Frame Tracking for Fault-Tolerant Quantum Control**|Aleksandra Świerkowska et.al.|[2611.24328](http://arxiv.org/abs/2611.24328)|null|
 |**2026-11-18**|**Accelerating Quantum Error Correction Simulations under Coherent Noise with Compiled Clifford-Augmented Matrix Product States**|Jiale Huang et.al.|[2611.24044](http://arxiv.org/abs/2611.24044)|null|

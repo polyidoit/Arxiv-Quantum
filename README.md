@@ -3558,6 +3558,7 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-20**|**Criterion and Construction Framework for Impure Quantum $(r,δ)$-LRCs from Optimal $(r,δ)$ -LRCs**|Kun Zhou et.al.|[2611.27626](http://arxiv.org/abs/2611.27626)|null|
 |**2026-11-19**|**When the Noise Gets Noisy: Quantum Error Correction with Disordered Noise and Misinformed Decoding**|Cory T. Aitchison et.al.|[2611.26506](http://arxiv.org/abs/2611.26506)|null|
 |**2026-11-19**|**Optimal Error corrected Hamiltonian estimation with nuisance parameters**|Zhiyao Hu et.al.|[2611.26497](http://arxiv.org/abs/2611.26497)|null|
 |**2026-11-19**|**Scaling classical hardware for accurate real-time quantum error correction**|Chenyang Jin et.al.|[2611.26447](http://arxiv.org/abs/2611.26447)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1819,6 +1819,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**Infection Spreading and Stochastic Extinction in Finite Spatially Inhomogeneous Susceptible-Infected-Susceptible and Susceptible-Infected-Recovered Systems**|Sara Shabani et.al.|[2611.26792](http://arxiv.org/abs/2611.26792)|null|
 |**2026-11-19**|**Remote Use of Quantum Machines in the Adversarial Scenario**|Mir Alimuddin et.al.|[2611.25504](http://arxiv.org/abs/2611.25504)|null|
 |**2026-11-18**|**Target-Clamped Contrastive Learning in Nonlinear Resistive Networks with Monotone Elements**|Henk J. van Waarde et.al.|[2611.24162](http://arxiv.org/abs/2611.24162)|null|
 |**2026-11-15**|**A Differential Theory of Quality-Resource Trade-offs for AI Model Selection: The Multiresource Frontier and Its Minimax Price**|Dmitry Ignatov et.al.|[2611.23324](http://arxiv.org/abs/2611.23324)|null|
@@ -2540,6 +2541,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Comparing weakly interacting and free quantum dynamics locally**|Jorge Acuña Flores et.al.|[2611.27707](http://arxiv.org/abs/2611.27707)|null|
+|**2026-11-20**|**Quantum-Chaos-Assisted Measure Synchronization in a Double-Well Ultracold Bose Gas**|Xianchao Le et.al.|[2611.27256](http://arxiv.org/abs/2611.27256)|null|
+|**2026-11-19**|**Thermalization and quantum chaos in a pure gauge discrete non-Abelian lattice gauge theory**|Marco Vaia et.al.|[2611.26695](http://arxiv.org/abs/2611.26695)|null|
+|**2026-11-19**|**Onset of quantum chaos in a family of two-dimensional conformal field theories**|Felix M. Haehl et.al.|[2611.26694](http://arxiv.org/abs/2611.26694)|null|
 |**2026-11-19**|**Wigner-Dyson correlations in selected sectors of an integrable spin chain**|Balázs Pozsgay et.al.|[2611.26263](http://arxiv.org/abs/2611.26263)|null|
 |**2026-11-19**|**From Integrability to Chaos in Tensionless AdS3 String Theory**|Matthias R. Gaberdiel et.al.|[2611.25576](http://arxiv.org/abs/2611.25576)|null|
 |**2026-11-18**|**The magical memory cost of entanglement spectrum compression**|Matias Karjula et.al.|[2611.24710](http://arxiv.org/abs/2611.24710)|null|

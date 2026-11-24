@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**For whom the Bell tolls: joint measurements and state updates in quantum field theory**|Christopher J. Fewster et.al.|[2611.30468](http://arxiv.org/abs/2611.30468)|null|
 |**2026-11-18**|**Measurement-order dependence bounds uncertainty, contextuality, steering, and Bell nonlocality**|Shengjun Wu et.al.|[2611.24604](http://arxiv.org/abs/2611.24604)|null|
 |**2026-11-18**|**On a local hidden-variable model for postselected EPR correlations**|Daniele Cenni et.al.|[2611.24534](http://arxiv.org/abs/2611.24534)|null|
 |**2026-11-17**|**Experimental constraints on gauge hidden-variable models in Bell tests**|Li-Yu Shen et.al.|[2611.23418](http://arxiv.org/abs/2611.23418)|null|
@@ -1836,6 +1837,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Quantifying superposition via coherence by stochastic orthogonalization**|Gökhan Torun et.al.|[2611.30656](http://arxiv.org/abs/2611.30656)|null|
+|**2026-11-23**|**Attributing Security Outcomes in LLM-Agent Evaluations: The Role of Content-Free State**|Abdelmonaim Bounite et.al.|[2611.30259](http://arxiv.org/abs/2611.30259)|null|
 |**2026-11-19**|**Infection Spreading and Stochastic Extinction in Finite Spatially Inhomogeneous Susceptible-Infected-Susceptible and Susceptible-Infected-Recovered Systems**|Sara Shabani et.al.|[2611.26792](http://arxiv.org/abs/2611.26792)|null|
 |**2026-11-19**|**Remote Use of Quantum Machines in the Adversarial Scenario**|Mir Alimuddin et.al.|[2611.25504](http://arxiv.org/abs/2611.25504)|null|
 |**2026-11-18**|**Target-Clamped Contrastive Learning in Nonlinear Resistive Networks with Monotone Elements**|Henk J. van Waarde et.al.|[2611.24162](http://arxiv.org/abs/2611.24162)|null|
@@ -2560,6 +2563,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Small-world networks yield tunable quantum codes at short circuit depth**|Samuel Bevins et.al.|[2611.31224](http://arxiv.org/abs/2611.31224)|null|
+|**2026-11-23**|**Reconstructing Pure-State OTOCs from Forward-Time Linear Response**|Yu-Hang Jin et.al.|[2611.30068](http://arxiv.org/abs/2611.30068)|null|
+|**2026-11-22**|**On the subtleties of statistical isotropy in cosmic topology**|Ralf Aurich et.al.|[2611.29428](http://arxiv.org/abs/2611.29428)|null|
 |**2026-11-20**|**Comparing weakly interacting and free quantum dynamics locally**|Jorge Acuña Flores et.al.|[2611.27707](http://arxiv.org/abs/2611.27707)|null|
 |**2026-11-20**|**Quantum-Chaos-Assisted Measure Synchronization in a Double-Well Ultracold Bose Gas**|Xianchao Le et.al.|[2611.27256](http://arxiv.org/abs/2611.27256)|null|
 |**2026-11-19**|**Thermalization and quantum chaos in a pure gauge discrete non-Abelian lattice gauge theory**|Marco Vaia et.al.|[2611.26695](http://arxiv.org/abs/2611.26695)|null|
@@ -3558,6 +3564,15 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-23**|**Small-world networks yield tunable quantum codes at short circuit depth**|Samuel Bevins et.al.|[2611.31224](http://arxiv.org/abs/2611.31224)|null|
+|**2026-11-23**|**THeatA: Transport- and Heating-aware QEC simulation with Cooling Strategies for QCCD Trapped-Ion Systems**|Eitaro Ishikawa et.al.|[2611.30676](http://arxiv.org/abs/2611.30676)|null|
+|**2026-11-23**|**Confidence-Aware Discriminative Readout of Neutral-Atom Arrays**|Jaeick Bae et.al.|[2611.30421](http://arxiv.org/abs/2611.30421)|null|
+|**2026-11-23**|**Impact of structured noise on bosonic quantum error correction**|Guoyu Shu et.al.|[2611.30303](http://arxiv.org/abs/2611.30303)|null|
+|**2026-11-22**|**When Does Fine-Tuning Beat Prompting for Qiskit-to-CUDA-Q Translation? An Execution-Verified Study**|Ana Paula Appel et.al.|[2611.29793](http://arxiv.org/abs/2611.29793)|null|
+|**2026-11-21**|**Non-Abelian Twist Defects in Bivariate Bicycle Codes**|Rui Zeng et.al.|[2611.28944](http://arxiv.org/abs/2611.28944)|null|
+|**2026-11-21**|**Long-time dynamics of open quantum systems: mathematical and physical aspects**|Daniele Amato et.al.|[2611.28906](http://arxiv.org/abs/2611.28906)|null|
+|**2026-11-20**|**Tailored Magic States for Algorithmic Primitives**|Matthew Steinberg et.al.|[2611.28353](http://arxiv.org/abs/2611.28353)|null|
+|**2026-11-20**|**Foliated surface codes for optimal skip-gate leakage correction**|Runjiang Bi et.al.|[2611.28219](http://arxiv.org/abs/2611.28219)|null|
 |**2026-11-20**|**Criterion and Construction Framework for Impure Quantum $(r,δ)$-LRCs from Optimal $(r,δ)$ -LRCs**|Kun Zhou et.al.|[2611.27626](http://arxiv.org/abs/2611.27626)|null|
 |**2026-11-19**|**When the Noise Gets Noisy: Quantum Error Correction with Disordered Noise and Misinformed Decoding**|Cory T. Aitchison et.al.|[2611.26506](http://arxiv.org/abs/2611.26506)|null|
 |**2026-11-19**|**Optimal Error corrected Hamiltonian estimation with nuisance parameters**|Zhiyao Hu et.al.|[2611.26497](http://arxiv.org/abs/2611.26497)|null|

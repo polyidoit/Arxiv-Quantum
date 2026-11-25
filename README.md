@@ -1,4 +1,4 @@
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**Classical phase space distributions for quantum states in cosmology: General states, operator ordering and the geometry of fading non-commutativity**|Alejandro Corichi et.al.|[2611.31912](http://arxiv.org/abs/2611.31912)|null|
+|**2026-11-23**|**Certifying closed labs in device-independent tests of indefinite causality**|Hannah Seabrook et.al.|[2611.31365](http://arxiv.org/abs/2611.31365)|null|
 |**2026-11-23**|**For whom the Bell tolls: joint measurements and state updates in quantum field theory**|Christopher J. Fewster et.al.|[2611.30468](http://arxiv.org/abs/2611.30468)|null|
 |**2026-11-18**|**Measurement-order dependence bounds uncertainty, contextuality, steering, and Bell nonlocality**|Shengjun Wu et.al.|[2611.24604](http://arxiv.org/abs/2611.24604)|null|
 |**2026-11-18**|**On a local hidden-variable model for postselected EPR correlations**|Daniele Cenni et.al.|[2611.24534](http://arxiv.org/abs/2611.24534)|null|
@@ -850,7 +852,7 @@
 |**2016-04-06**|**Genuinely multipartite entangled quantum states with fully local hidden variable models and hidden multipartite nonlocality**|Joseph Bowles et.al.|[1511.08401](http://arxiv.org/abs/1511.08401)|null|
 |**2015-01-13**|**Bell Inequality and Many-Worlds Interpretation**|Lev Vaidman et.al.|[1501.02691](http://arxiv.org/abs/1501.02691)|null|
 
-<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
 
 ## Quantum causal model
 
@@ -1221,7 +1223,7 @@
 |**2020-03-04**|**Thermodynamics of Quantum Causal Models: An Inclusive, Hamiltonian Approach**|Philipp Strasberg et.al.|[1911.01730](http://arxiv.org/abs/1911.01730)|null|
 |**2019-11-25**|**Quantum Causal Influence**|Jordan Cotler et.al.|[1811.05485](http://arxiv.org/abs/1811.05485)|null|
 
-<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
 
 ## Quantum contextuality
 
@@ -1588,7 +1590,7 @@
 |**2016-02-17**|**Some Examples of Contextuality in Physics: Implications to Quantum Cognition**|J. Acacio de Barros et.al.|[1512.00033](http://arxiv.org/abs/1512.00033)|null|
 |**2014-09-30**|**An order-theoretic quantification of contextuality**|Ian T. Durham et.al.|[1409.6643](http://arxiv.org/abs/1409.6643)|null|
 
-<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
 
 ## Quantum steering
 
@@ -1831,12 +1833,16 @@
 |**2014-02-18**|**Genuine multipartite Einstein-Podolsky-Rosen steering**|Q. Y. He et.al.|[1212.2270](http://arxiv.org/abs/1212.2270)|null|
 |**2011-01-26**|**Experimental EPR-Steering of Bell-local States**|D. J. Saunders et.al.|[0909.0805](http://arxiv.org/abs/0909.0805)|null|
 
-<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
 
 ## Resource theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**Leveraging Persistent Field-of-View and Multipath Segment Routing for Traffic Engineering in LEO Satellite Constellations**|Kai Wang et.al.|[2611.32852](http://arxiv.org/abs/2611.32852)|null|
+|**2026-11-24**|**TokenMatte: Unlocking T2V Diffusion Priors for Pixel-Native Video Matting**|Zanyi Wang et.al.|[2611.32675](http://arxiv.org/abs/2611.32675)|null|
+|**2026-11-24**|**Magnetoelectric response to a Néel domain wall in spin-orbit coupled superconducting films: Spontaneous currents, vortex pinning, and vortex-antivortex nucleation**|P. J. F. Cavalcanti et.al.|[2611.32379](http://arxiv.org/abs/2611.32379)|null|
+|**2026-11-24**|**Classical phase space distributions for quantum states in cosmology: General states, operator ordering and the geometry of fading non-commutativity**|Alejandro Corichi et.al.|[2611.31912](http://arxiv.org/abs/2611.31912)|null|
 |**2026-11-23**|**Quantifying superposition via coherence by stochastic orthogonalization**|Gökhan Torun et.al.|[2611.30656](http://arxiv.org/abs/2611.30656)|null|
 |**2026-11-23**|**Attributing Security Outcomes in LLM-Agent Evaluations: The Role of Content-Free State**|Abdelmonaim Bounite et.al.|[2611.30259](http://arxiv.org/abs/2611.30259)|null|
 |**2026-11-19**|**Infection Spreading and Stochastic Extinction in Finite Spatially Inhomogeneous Susceptible-Infected-Susceptible and Susceptible-Infected-Recovered Systems**|Sara Shabani et.al.|[2611.26792](http://arxiv.org/abs/2611.26792)|null|
@@ -2557,12 +2563,14 @@
 |**2019-05-01**|**Resource theory of quantum thermodynamics: Thermal operations and Second Laws**|Nelly Ng et.al.|[1805.09564](http://arxiv.org/abs/1805.09564)|null|
 |**2016-12-28**|**Relative submajorization and its use in quantum resource theories**|Joseph M. Renes et.al.|[1510.03695](http://arxiv.org/abs/1510.03695)|null|
 
-<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
 
 ## Quantum chaos and information scrambling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**Classical algorithms for sparse random Hamiltonians via free probability**|Matthew Ding et.al.|[2611.33128](http://arxiv.org/abs/2611.33128)|null|
+|**2026-11-24**|**Cosmological Constant Screening from Quantum Horizon Chaos**|Chong-Sun Chu et.al.|[2611.32839](http://arxiv.org/abs/2611.32839)|null|
 |**2026-11-23**|**Small-world networks yield tunable quantum codes at short circuit depth**|Samuel Bevins et.al.|[2611.31224](http://arxiv.org/abs/2611.31224)|null|
 |**2026-11-23**|**Reconstructing Pure-State OTOCs from Forward-Time Linear Response**|Yu-Hang Jin et.al.|[2611.30068](http://arxiv.org/abs/2611.30068)|null|
 |**2026-11-22**|**On the subtleties of statistical isotropy in cosmic topology**|Ralf Aurich et.al.|[2611.29428](http://arxiv.org/abs/2611.29428)|null|
@@ -3556,7 +3564,7 @@
 |**2024-01-25**|**Scrambling Dynamics and Out-of-Time Ordered Correlators in Quantum Many-Body Systems: a Tutorial**|Shenglong Xu et.al.|[2202.07060](http://arxiv.org/abs/2202.07060)|null|
 |**2022-10-04**|**Entanglement dynamics in hybrid quantum circuits**|Andrew C. Potter et.al.|[2111.08018](http://arxiv.org/abs/2111.08018)|null|
 
-<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
 
 ## Quantum error-correction code
 
@@ -3564,6 +3572,8 @@
 |---|---|---|---|---|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-24**|**Self-Orthogonal Minimal Codes from n-to-1 Mappings**|Qin Du et.al.|[2611.32192](http://arxiv.org/abs/2611.32192)|null|
+|**2026-11-24**|**Validity and maximum violation of the entanglement-assisted quantum Singleton bound for linear stabilizer codes**|Jae-Hyun Baek et.al.|[2611.32126](http://arxiv.org/abs/2611.32126)|null|
 |**2026-11-23**|**Small-world networks yield tunable quantum codes at short circuit depth**|Samuel Bevins et.al.|[2611.31224](http://arxiv.org/abs/2611.31224)|null|
 |**2026-11-23**|**THeatA: Transport- and Heating-aware QEC simulation with Cooling Strategies for QCCD Trapped-Ion Systems**|Eitaro Ishikawa et.al.|[2611.30676](http://arxiv.org/abs/2611.30676)|null|
 |**2026-11-23**|**Confidence-Aware Discriminative Readout of Neutral-Atom Arrays**|Jaeick Bae et.al.|[2611.30421](http://arxiv.org/abs/2611.30421)|null|
@@ -6363,5 +6373,5 @@
 |**2020-04-02**|**Parallelized quantum error correction with fracton topological codes**|Benjamin J. Brown et.al.|[1901.08061](http://arxiv.org/abs/1901.08061)|null|
 |**2023-08-21**|**Graphical Structures for Design and Verification of Quantum Error Correction**|Nicholas Chancellor et.al.|[1611.08012](http://arxiv.org/abs/1611.08012)|null|
 
-<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
 

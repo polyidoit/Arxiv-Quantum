@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Classical phase space distributions for quantum states in cosmology: General states, operator ordering and the geometry of fading non-commutativity**|Alejandro Corichi et.al.|[2611.31912](http://arxiv.org/abs/2611.31912)|null|
+|**2026-11-23**|**Certifying closed labs in device-independent tests of indefinite causality**|Hannah Seabrook et.al.|[2611.31365](http://arxiv.org/abs/2611.31365)|null|
 |**2026-11-23**|**For whom the Bell tolls: joint measurements and state updates in quantum field theory**|Christopher J. Fewster et.al.|[2611.30468](http://arxiv.org/abs/2611.30468)|null|
 |**2026-11-18**|**Measurement-order dependence bounds uncertainty, contextuality, steering, and Bell nonlocality**|Shengjun Wu et.al.|[2611.24604](http://arxiv.org/abs/2611.24604)|null|
 |**2026-11-18**|**On a local hidden-variable model for postselected EPR correlations**|Daniele Cenni et.al.|[2611.24534](http://arxiv.org/abs/2611.24534)|null|
@@ -1820,6 +1822,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Leveraging Persistent Field-of-View and Multipath Segment Routing for Traffic Engineering in LEO Satellite Constellations**|Kai Wang et.al.|[2611.32852](http://arxiv.org/abs/2611.32852)|null|
+|**2026-11-24**|**TokenMatte: Unlocking T2V Diffusion Priors for Pixel-Native Video Matting**|Zanyi Wang et.al.|[2611.32675](http://arxiv.org/abs/2611.32675)|null|
+|**2026-11-24**|**Magnetoelectric response to a Néel domain wall in spin-orbit coupled superconducting films: Spontaneous currents, vortex pinning, and vortex-antivortex nucleation**|P. J. F. Cavalcanti et.al.|[2611.32379](http://arxiv.org/abs/2611.32379)|null|
+|**2026-11-24**|**Classical phase space distributions for quantum states in cosmology: General states, operator ordering and the geometry of fading non-commutativity**|Alejandro Corichi et.al.|[2611.31912](http://arxiv.org/abs/2611.31912)|null|
 |**2026-11-23**|**Quantifying superposition via coherence by stochastic orthogonalization**|Gökhan Torun et.al.|[2611.30656](http://arxiv.org/abs/2611.30656)|null|
 |**2026-11-23**|**Attributing Security Outcomes in LLM-Agent Evaluations: The Role of Content-Free State**|Abdelmonaim Bounite et.al.|[2611.30259](http://arxiv.org/abs/2611.30259)|null|
 |**2026-11-19**|**Infection Spreading and Stochastic Extinction in Finite Spatially Inhomogeneous Susceptible-Infected-Susceptible and Susceptible-Infected-Recovered Systems**|Sara Shabani et.al.|[2611.26792](http://arxiv.org/abs/2611.26792)|null|
@@ -2544,6 +2550,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Classical algorithms for sparse random Hamiltonians via free probability**|Matthew Ding et.al.|[2611.33128](http://arxiv.org/abs/2611.33128)|null|
+|**2026-11-24**|**Cosmological Constant Screening from Quantum Horizon Chaos**|Chong-Sun Chu et.al.|[2611.32839](http://arxiv.org/abs/2611.32839)|null|
 |**2026-11-23**|**Small-world networks yield tunable quantum codes at short circuit depth**|Samuel Bevins et.al.|[2611.31224](http://arxiv.org/abs/2611.31224)|null|
 |**2026-11-23**|**Reconstructing Pure-State OTOCs from Forward-Time Linear Response**|Yu-Hang Jin et.al.|[2611.30068](http://arxiv.org/abs/2611.30068)|null|
 |**2026-11-22**|**On the subtleties of statistical isotropy in cosmic topology**|Ralf Aurich et.al.|[2611.29428](http://arxiv.org/abs/2611.29428)|null|
@@ -3543,6 +3551,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-24**|**Self-Orthogonal Minimal Codes from n-to-1 Mappings**|Qin Du et.al.|[2611.32192](http://arxiv.org/abs/2611.32192)|null|
+|**2026-11-24**|**Validity and maximum violation of the entanglement-assisted quantum Singleton bound for linear stabilizer codes**|Jae-Hyun Baek et.al.|[2611.32126](http://arxiv.org/abs/2611.32126)|null|
 |**2026-11-23**|**Small-world networks yield tunable quantum codes at short circuit depth**|Samuel Bevins et.al.|[2611.31224](http://arxiv.org/abs/2611.31224)|null|
 |**2026-11-23**|**THeatA: Transport- and Heating-aware QEC simulation with Cooling Strategies for QCCD Trapped-Ion Systems**|Eitaro Ishikawa et.al.|[2611.30676](http://arxiv.org/abs/2611.30676)|null|
 |**2026-11-23**|**Confidence-Aware Discriminative Readout of Neutral-Atom Arrays**|Jaeick Bae et.al.|[2611.30421](http://arxiv.org/abs/2611.30421)|null|

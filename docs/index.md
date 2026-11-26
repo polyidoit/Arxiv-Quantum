@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 ## Bell nonlocality
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Exact monogamy of steering and remote Wigner negativity for multimode Gaussian nodes**|Sudip Chakrabarty et.al.|[2611.34874](http://arxiv.org/abs/2611.34874)|null|
+|**2026-11-25**|**When Malus' Law Meets the Wigner-Bell Inequality: Violation by Nonseparable Classical Light**|Xiao-Feng Qian et.al.|[2611.33729](http://arxiv.org/abs/2611.33729)|null|
 |**2026-11-24**|**Classical phase space distributions for quantum states in cosmology: General states, operator ordering and the geometry of fading non-commutativity**|Alejandro Corichi et.al.|[2611.31912](http://arxiv.org/abs/2611.31912)|null|
 |**2026-11-23**|**Certifying closed labs in device-independent tests of indefinite causality**|Hannah Seabrook et.al.|[2611.31365](http://arxiv.org/abs/2611.31365)|null|
 |**2026-11-23**|**For whom the Bell tolls: joint measurements and state updates in quantum field theory**|Christopher J. Fewster et.al.|[2611.30468](http://arxiv.org/abs/2611.30468)|null|
@@ -1216,6 +1218,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Experimental Quantum Hardware Benchmarks of Flat Non-Clifford Hypergraph States, Antipodal Obstructions, and Nonlocal Games on IBM Heron r2**|Filipe Martins Vono et.al.|[2611.34683](http://arxiv.org/abs/2611.34683)|null|
 |**2026-11-19**|**Communication-Aware UAV Spatio-Temporal Relay Cooperation and Planning in Complex Urban Environments**|Haoyu Zhang et.al.|[2611.25558](http://arxiv.org/abs/2611.25558)|null|
 |**2026-11-17**|**Isospin effects and symmetry energy in nuclear reactions**|Jerzy Łukasik et.al.|[2611.23355](http://arxiv.org/abs/2611.23355)|null|
 |**2026-11-15**|**Count Constraints and Conditional Benchmarks for Roster-Based Network Reconstruction**|Yen-hsuan Tseng et.al.|[2611.19924](http://arxiv.org/abs/2611.19924)|null|
@@ -1822,6 +1825,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**State convertibility in quantum-state texture from a general form of free operations**|Jose Alfredo de Leon et.al.|[2611.34865](http://arxiv.org/abs/2611.34865)|null|
+|**2026-11-25**|**Monotonic probes of asymmetry and robustness of the quantum Mpemba effect**|Riccardo Travaglino et.al.|[2611.34853](http://arxiv.org/abs/2611.34853)|null|
+|**2026-11-25**|**Linearization of completely Lipschitz functions**|Javier Alejandro Chávez-Domínguez et.al.|[2611.34806](http://arxiv.org/abs/2611.34806)|null|
+|**2026-11-25**|**Resource theory of pi-ordered imaginarity and its resource quantifiers**|Yanjun Chu et.al.|[2611.34486](http://arxiv.org/abs/2611.34486)|null|
+|**2026-11-25**|**Superconductivity from the Berry connection from many-electron wave functions: $U(1)$ gauge fluctuation, gauge invariance, and superconductivity**|Hiroyasu Koizumi et.al.|[2611.33723](http://arxiv.org/abs/2611.33723)|null|
 |**2026-11-24**|**Leveraging Persistent Field-of-View and Multipath Segment Routing for Traffic Engineering in LEO Satellite Constellations**|Kai Wang et.al.|[2611.32852](http://arxiv.org/abs/2611.32852)|null|
 |**2026-11-24**|**TokenMatte: Unlocking T2V Diffusion Priors for Pixel-Native Video Matting**|Zanyi Wang et.al.|[2611.32675](http://arxiv.org/abs/2611.32675)|null|
 |**2026-11-24**|**Magnetoelectric response to a Néel domain wall in spin-orbit coupled superconducting films: Spontaneous currents, vortex pinning, and vortex-antivortex nucleation**|P. J. F. Cavalcanti et.al.|[2611.32379](http://arxiv.org/abs/2611.32379)|null|
@@ -2550,6 +2558,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Late-time OTOCs in Toda conformal field theory**|Giwan Kim et.al.|[2611.33744](http://arxiv.org/abs/2611.33744)|null|
 |**2026-11-24**|**Classical algorithms for sparse random Hamiltonians via free probability**|Matthew Ding et.al.|[2611.33128](http://arxiv.org/abs/2611.33128)|null|
 |**2026-11-24**|**Cosmological Constant Screening from Quantum Horizon Chaos**|Chong-Sun Chu et.al.|[2611.32839](http://arxiv.org/abs/2611.32839)|null|
 |**2026-11-23**|**Small-world networks yield tunable quantum codes at short circuit depth**|Samuel Bevins et.al.|[2611.31224](http://arxiv.org/abs/2611.31224)|null|
@@ -3551,6 +3560,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-12-13**|**Probabilities of failure for quantum error correction**|A. J. Scott et.al.|[quant-ph/0406063](http://arxiv.org/abs/quant-ph/0406063)|null|
 |**2005-09-17**|**An Introduction to Quantum Error Correction**|Daniel Gottesman et.al.|[quant-ph/0004072](http://arxiv.org/abs/quant-ph/0004072)|null|
+|**2026-11-25**|**Neural Network Decoders For Qubit Loss**|J. Wilson Staples et.al.|[2611.34891](http://arxiv.org/abs/2611.34891)|null|
+|**2026-11-25**|**Full Structure Recovery of Linearized Reed-Solomon Codes**|Valentina Astore et.al.|[2611.34835](http://arxiv.org/abs/2611.34835)|null|
+|**2026-11-25**|**LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search**|Maria Ilektra Plakitsi et.al.|[2611.34634](http://arxiv.org/abs/2611.34634)|null|
+|**2026-11-25**|**High-Throughput GPU Decoding of Quantum Bivariate Bicycle Codes under Circuit-Level Noise**|Aditya Sodhani et.al.|[2611.34481](http://arxiv.org/abs/2611.34481)|null|
+|**2026-11-25**|**A Local-Counting Approach for Distributed Induced Path Detection**|Keren Censor-Hillel et.al.|[2611.34185](http://arxiv.org/abs/2611.34185)|null|
+|**2026-11-25**|**Amatlas: A 2D Array Architecture for Union-Find Decoding Without Global Coordination**|Takuya Kasamura et.al.|[2611.33665](http://arxiv.org/abs/2611.33665)|null|
+|**2026-11-25**|**A scalable dense silicon qubit architecture with logical operations**|Masahiro Tadokoro et.al.|[2611.33590](http://arxiv.org/abs/2611.33590)|null|
+|**2026-11-24**|**Constructively Embedding Quantum Error-Correcting Codes**|Yucheng He et.al.|[2611.33389](http://arxiv.org/abs/2611.33389)|null|
+|**2026-11-24**|**Using a static spacetime subsystem code to calculate Floquet code distance**|Ethan Egger et.al.|[2611.33337](http://arxiv.org/abs/2611.33337)|null|
 |**2026-11-24**|**Self-Orthogonal Minimal Codes from n-to-1 Mappings**|Qin Du et.al.|[2611.32192](http://arxiv.org/abs/2611.32192)|null|
 |**2026-11-24**|**Validity and maximum violation of the entanglement-assisted quantum Singleton bound for linear stabilizer codes**|Jae-Hyun Baek et.al.|[2611.32126](http://arxiv.org/abs/2611.32126)|null|
 |**2026-11-23**|**Small-world networks yield tunable quantum codes at short circuit depth**|Samuel Bevins et.al.|[2611.31224](http://arxiv.org/abs/2611.31224)|null|
